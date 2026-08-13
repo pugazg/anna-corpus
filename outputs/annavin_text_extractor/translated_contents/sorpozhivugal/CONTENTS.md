@@ -377,7 +377,7 @@ Total source works: 537
 - [சிறைமீண்ட நாங்கள் வெளி வந்திருக்கிறோம்!](siraimeenda_nangal.md) - pending
 - [சிறந்த கொள்கையே அரசியல் கட்சிக்கு அடிப்படை!](sirantha_kolgayae.md) - pending
 - [சிரித்து, விட்டுவிடுவோம்!](sirithu_vittuviduvom.md) - pending
-- [sorpozhivugal/sollum_payan](sollum_payan.md) - pending
+- [sorpozhivugal/sollum_payan](sollum_payan.md) - translated
 - [சொல்வதெல்லாம் செய்தால் சுதந்திரம்](solvathellam_seithal.md) - pending
 - [சூழ்நிலை](soolnilai.md) - pending
 - [sorpozhivugal/sootchamam](sootchamam.md) - translated
