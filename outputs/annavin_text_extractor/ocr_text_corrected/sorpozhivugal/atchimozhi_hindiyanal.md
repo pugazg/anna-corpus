@@ -247,6 +247,7 @@
 எடுத்துச்சொல்லிக் கண்டிப்பான உத்தரவு போட்டதனால்தான்,
 இரண்டு நாள் கழித்து ஆட்சி மொழி மசோதாவுக்கு ஆதரவாக
 வாக்களிக்கின்ற நிலை தென்னாட்டுக் காங்கிரசு உறுப்பினர்கட்கு
+ஏற்பட்டது.
 
 கட்சிக் கூட்டத்தில் இந்திப் பிரச்சினை வந்தபோது,
 பண்டித நேரு எழுந்து, நீங்களே இந்தியை எதிர்க்கிறீர்களே என்று
@@ -268,20 +269,20 @@
 அவர்களெல்லாம், கடைசியில் கட்சிக் கட்டுப்பாட்டுக்கு
 அடங்கி இந்தியை ஆதரித்து வாக்களித்தார்கள்!
 
-4. 171070 1001, 8 ஊாறக110 17010 601121) 10 800101 (084
-16110, "5ஜு, 1416 24 1௦ ந0யம நகரு, (0 3௦2 20420
-ம ஏர்ணிம்க ம்ர்5 13111 660௧166, 1ரீ1் ஊர 11௦ 1196 5ர்கர்ரர்6
-6௦01, 11 106805 101 01137 0௦3 ம் 107 811 (1076 1௦ 0016, 1488
-8110811011 81096 1 1018 நமாசர்ர 16 0ர். ௦7 10018 1௧0 (௦
-ரத ரீ0ாகுகாம் 8 உரோ 10 (196 ௦018170110 1௦
-யாம்க01 8 810811 2௦ ௦7 (0 00707 8 ற111896 100 ரந
-111600 நம. இருட் பேற(& 10 0010010801 8 /ஜி6 8011/8ரூ/
-11181.
+A mere look, an emphatic word enough to scotch that
+fellow. "Say, like that, to your party, to your government
+and withdraw this Bill because, if it enters into the statute
+book, it means not only now but for all time to come, that a
+situation arose in India wherein the Govt. of India had to
+bring forward an amendment to the constitution to
+counteract a small group or to borrow a phrase from my
+friend Mr. Bhupesh Gupta to counteract a single solitary
+man.
 
-147, பயக) ஜா: 11௦, 71௦, 1] 0ம் ௩௦௫ 8ஹூ 1180,
-நரா, கிஸ்கா அி1ள்ஹ: 1 ௦௨ 888மா6 14. கிருறுகம்பாகம் (2ம் 11 18
-101 01137 ந16கறர் தஜகர்51 ௦06 51௫216 1015710081] ௦7 8 ஐஜி
-றவு.
+Mr. Bhupesh Gupta: No, No, I did not say that,
+Mr. Akbar Alikhan: I can assure Mr. Annadurai that it is
+not only meant against one single individual or a single
+party.
 
 நாள் மாநிலங்கள் அவைத் தாழ்வாரத்தில் நான்
 அமர்ந்திருந்தேன்; அப்போது என்னுடன் ஓர் அமைச்சர் -
