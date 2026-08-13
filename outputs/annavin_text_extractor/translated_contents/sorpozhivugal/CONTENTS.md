@@ -362,7 +362,7 @@ Total source works: 537
 - [sorpozhivugal/satta_10_12_1959](satta_10_12_1959.md) - pending
 - [sorpozhivugal/satta_11_03_1958](satta_11_03_1958.md) - translated
 - [sorpozhivugal/satta_16_03_1960](satta_16_03_1960.md) - pending
-- [sorpozhivugal/satta_17_02_1959](satta_17_02_1959.md) - pending
+- [sorpozhivugal/satta_17_02_1959](satta_17_02_1959.md) - translated
 - [sorpozhivugal/satta_17_07_1957](satta_17_07_1957.md) - pending
 - [sorpozhivugal/satta_desiya_ava](satta_desiya_ava.md) - translated
 - [சட்டம் ஒரு – புனித ஒப்பந்தம்!](sattam_oru_punitha_oppantham.md) - pending
