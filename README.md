@@ -1,6 +1,7 @@
 # Anna Corpus
 
-Digitized works collected from `annavinpadaippugal.info`, including extracted
+CN Annadurai's complete digitized corpus, collected from
+`annavinpadaippugal.info`. It includes extracted
 HTML text, corrected OCR text, bilingual translations, source manifests, audit
 reports, and the scripts used to reproduce the corpus.
 
