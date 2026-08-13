@@ -104,7 +104,7 @@ Total source works: 537
 - [sorpozhivugal/arignaranna_perurai](arignaranna_perurai.md) - translated
 - [அரிசி சாப்பிடுவோர் அறிவாளிகள் அல்லவா?](arisi_saapiduvor.md) - pending
 - [அறிவுப் பிரச்சாரம் செய்ய முன்வருக!](arivu_pracharam.md) - pending
-- [sorpozhivugal/atchimozhi_hindiyanal](atchimozhi_hindiyanal.md) - pending
+- [sorpozhivugal/atchimozhi_hindiyanal](atchimozhi_hindiyanal.md) - translated
 - [ஐந்தாண்டுத் திட்டம் தீட்டிப் புனிதப்போர் நடத்துக!](aynthadu_thittam_theeti.md) - pending
 - [பாபா-அண்ணாத்துரை உரையாடல்](baba_anna.md) - pending
 - [பம்பாயில் அண்ணா – கோலாகல வரவேற்பு](bambayil_anna.md) - pending

@@ -1,4 +1,10 @@
-# sorpozhivugal/atchimozhi_hindiyanal
+# ஆட்சிமொழி இந்தியானால் அடிமையாவோம் நாம்! / If Hindi Becomes the Official Language, We Shall Become Slaves!
+
+**Tamil title:** ஆட்சிமொழி இந்தியானால் அடிமையாவோம் நாம்!  
+**English title:** If Hindi Becomes the Official Language, We Shall Become Slaves!  
+**Source file:** `sorpozhivugal/atchimozhi_hindiyanal.md`
+
+## Source Tamil (verbatim)
 
 - Source image folder: `/Users/pugazhendhirajendran/Documents/Codex/2026-07-09/https-www-annavinpadaippugal-info/outputs/annavin_text_extractor/ocr_images/sorpozhivugal/atchimozhi_hindiyanal`
 - OCR language: `tam`
@@ -627,3 +633,233 @@ party.
 மக்களுக்கு விளக்கவேண்டும். நாம் நடத்தும் போராட்டம்
 தாய்மொழியைக் காக்கும் போராட்டம் - இந்தித் திணிப்பை
 எதிர்த்து நடைபெறும் போராட்டமாகும்.
+
+## English Translation
+
+A speech by Arignar Anna published in the 1963-64 special issue of the Tamil Literary Association of Madras Law College.
+
+This seminar has provided a fine opportunity for us to learn what views students hold on the official-language question, for them to learn our views, and for them to hear those views from us.
+
+Those of us who speak every day sometimes long to spend at least one day listening to others. Today's event has helped fulfil that desire.
+
+I am delighted to discover the students' sound powers of argument and enthusiasm. Everyone who spoke here spoke in good Tamil and with Tamil refinement; they approached the issue well. Their views were all in agreement. I am pleased to know not only that they have thought carefully before speaking, but that they are also ready to act.
+
+The rulers must understand that it is not politicians alone who oppose Hindi: students too understand this issue very clearly. They must accordingly mend their ways.
+
+As one who is organising the camp for the anti-Hindi struggle, I was extremely pleased to hear the students say, with great enthusiasm and emotion, that they too were ready to enter the struggle. But it is not the tradition of the movement to which I belong to involve students in agitation. I am therefore pleased only that the students have expressed such vigorous views. I ask them to explain these ideas clearly to others as well.
+
+A student who spoke here presented, in the form of doubts, his eagerness to know whether Acharya truly opposes Hindi; whether he supports the proposal to postpone Hindi imposition for ten or twenty years; whether this struggle can succeed if it remains confined to the field of language; and, if it becomes a political issue requiring us to speak in terms of North and South, whether Acharya would accept that position. These are not doubts. They are waves of desire that arise naturally from the heart.
+
+The same wave arose in me six years ago, and I put these very questions to Acharya.
+
+At a meeting of the Lakshmipuram Youth Association attended by Acharya and me, he answered my question by going one step beyond me: "If Dravida Nadu is to separate, is this, Hindi, the only reason? Are there not ever so many other reasons?" I remember his words exactly even now.
+
+He added, "If Hindi is not imposed, Delhi will win; if it is imposed, Annadurai will win!"
+
+Delhi did not accept what Acharya said that day. Acharya had shown me the green signal even then!
+
+When a green signal is shown, some trains arrive quickly and others slowly. Whatever their speed, there is no doubt that they will come along the track.
+
+We must therefore create the conditions for a struggle only after carefully learning whether the people of the country have come to share the view we express.
+
+If Hindi is made the official language, not only will our Tamil language be destroyed, but autocracy will enter politics.
+
+They do not introduce Hindi by demonstrating the richness of that language. They themselves say plainly, and with great modesty, that Hindi is only now developing.
+
+When we ask, "Do you know how excellent our Tamil is?" they reply, "Tell us about the greatness of your language. We shall listen; we too are eager to know it."
+
+They do not elevate Hindi by disparaging Tamil. They say, "We made Hindi the official language because more people speak it."
+
+That very argument is untrue. Even among those in the North, the Hindi spoken by one person is not understood by another Hindi speaker.
+
+We must explain this to all the people, along with the many forms of danger that will arise if Hindi becomes the official language.
+
+From my travels throughout Tamil Nadu, I do not find that everyone has understood this danger. We must still awaken the people.
+
+The students who spoke here said that if we fought against Hindi, "the hooves of Arabian horses would strike our chests." Do not imagine, "Good heavens, will opposing Hindi bring such torments?"
+
+I do not believe that all this will happen in our struggle. The rulers face not merely this one issue but a thousand others. Do not be frightened by such talk.
+
+What a student said here will appear in tomorrow's newspapers under the headline "Students Oppose Acharya," in a form that will surprise even the speaker. The student spoke for the sake of vigour; our reporter will write it that way. I have already spoken about that newspaper at a meeting in Madras.
+
+We must recognise how many people are united in the conviction that Hindi cannot become the official language.
+
+Acharya and I are united on this issue. To say politely that we have no difference of opinion on many other issues would merely mean deceiving one another.
+
+There is no difference between us on this: "Hindi must not become the official language; English must continue."
+
+Those introducing Hindi have many differences among themselves, yet they are united on this one matter.
+
+Nehru says that no haste should be shown in introducing Hindi. Lal Bahadur Shastri says, "The Hindi zealots have brought me to this position. What can I do?"
+
+Some others display their Hindi zeal without appearing to display it.
+
+Shastri keeps saying, "No difficulty will be caused to non-Hindi speakers," while his own department continues sending orders imposing Hindi.
+
+When questioned about this, people here say that Nehru does not attend to any of it.
+
+Ask Kamaraj, and he asks, "Which is more important, food or language?"
+
+Ask Education Minister Bhaktavatsalam, and he says, "There is no fear as long as Kamaraj remains."
+
+Perhaps he said so because he already knew what would happen afterward!
+
+Their drama of imposing Hindi, with a zeal displayed by pretending not to display it, seems designed to send us into a burial pit. You will understand if you witness it directly just once.
+
+Although they hold differing views on how to make Hindi the official language, they are united. Likewise, despite our differing views, those of us who hold that Hindi must not become the official language must unite.
+
+Once everyone clearly understands an issue, finding the remedy afterward is very easy. Understanding it is the difficult part. Counting those who take part in the remedy is easier still.
+
+Many people believe Congress leaders when they say, "There is no danger from Hindi." Students must dispel that belief through their campaign.
+
+That is why we continue presenting facts, figures, and arguments. This is not wasting time; it is using time properly.
+
+Every Congress Member of Parliament I met spoke to me in a manner that suggested tears over the imposition of Hindi.
+
+The Congress high command convened a party meeting, declared that no remedy could be found if matters continued in this way, and issued strict orders. That alone caused the southern Congress members, two days later, to vote in support of the Official Languages Bill.
+
+When the Hindi question arose at the party meeting, Pandit Nehru stood up and admonished them for opposing Hindi themselves. The Congress members then fell silent.
+
+As the Bill was about to pass, a minister from Tamil Nadu who had written that "everything is possible through Tamil" was absent from Parliament, having hurriedly left for West Germany. He could have gone the following week. Another minister returned to Tamil Nadu.
+
+Some members from Tamil Nadu told me, "We were not given an opportunity to speak. Had we been given one, we too would have spoken in condemnation of Hindi."
+
+In the end, all of them submitted to party discipline and voted in support of Hindi.
+
+The printed source here reproduces an English exchange from the parliamentary debate:
+
+> A mere look, an emphatic word enough to scotch that fellow. "Say, like that, to your party, to your government and withdraw this Bill because, if it enters into the statute book, it means not only now but for all time to come, that a situation arose in India wherein the Govt. of India had to bring forward an amendment to the constitution to counteract a small group or to borrow a phrase from my friend Mr. Bhupesh Gupta to counteract a single solitary man."
+>
+> Mr. Bhupesh Gupta: "No, No, I did not say that."
+>
+> Mr. Akbar Alikhan: "I can assure Mr. Annadurai that it is not only meant against one single individual or a single party."
+
+One day I was seated in the lobby of the Council of States with a minister from Tamil Nadu. A Hindi zealot among the Congress members approached him and asked for his vote in the Congress party election. The minister replied, "I will give you my vote, but on one condition: you must promise never again to ask me questions in Hindi." The member made that promise, and the minister promised him his vote.
+
+Afterward the minister told me happily, "Until now this member has kept troubling me by questioning me only in Hindi. At last that affliction is gone."
+
+I consider it improper to name that minister here. If the incident is denied through the press, however, I shall disclose his name at the next meeting.
+
+Hindi is not at present the official language in law. Yet Hindi zealots already speak only in Hindi.
+
+Vajpayee of the Jana Sangh can speak English well, but whenever he speaks in the Council of States he speaks only in Hindi. I asked him as a friend, "Should not all of us be able to understand what you say? Could you not speak in English?" He replied, "When I come outside, I shall explain it to you in English; inside, I shall speak only in Hindi."
+
+People here do not consider this Hindi fanaticism. But if one calls a police station a `kaval nilaiyam` in Tamil, they call it Tamil fanaticism.
+
+Every Member of Parliament receives a monthly salary of Rs. 400 and a daily allowance of Rs. 21. In a parliamentary sitting conducted at such expense, forty-five minutes of every hour proceed entirely in Hindi. Of the remaining fifteen minutes, five are spoken in good English and ten in the English they know. Those who do not know Hindi must sit there uselessly, understanding nothing.
+
+Congress member Seth Govind Das defied party discipline and refused to vote in support of the Official Languages Bill. That very evening the Delhi newspapers carried reports praising his courage.
+
+When Dr. Lohia spoke in Hindi, the Hindi zealots embraced him warmly and praised him.
+
+Those who impose Hindi stand in a single rank on Hindi imposition, however many political differences they may have among themselves.
+
+Dr. Lohia opposes the Congress completely, yet he joins it in imposing Hindi.
+
+Throughout India, the Hindi zealots, whether in the ruling party, another party, or independent, stand in one camp on the Hindi question. It is precisely after seeing the Hindi zealots in the North that I have joined Acharya in opposing Hindi.
+
+People ask whether Acharya supports the demand for Dravida Nadu. Good people unite for a good cause at the right time.
+
+Today Acharya alone forms a link between North and South. Friend Abdul Samad and I opposing Hindi is one thing; Acharya doing so is another.
+
+They fearfully say, "Is not Rajaji himself, our wise teacher, opposing it?"
+
+Many northerners ask me in surprise, "You are the people who oppose Hindi; how is it that Rajaji opposes it?"
+
+This morning I read a newspaper report saying, "Annadurai and Rajaji Speak on the Same Platform!" It was written as though the two of us had been kept in separate cages and suddenly brought together upon one stage.
+
+If my joining Acharya is a wonder even here, there is nothing surprising about the North being astonished.
+
+Acharya said, "India must remain one." But when he also says, "Hindi must not be imposed," northerners think, "Rajaji would not oppose Hindi without reason." The fact that Hindi is opposed by many different quarters has created fear in the North.
+
+I do not believe that Acharya opposes Hindi merely in his capacity as leader of the Swatantra Party. His opposition has weight because an Acharya matured by experience opposes it.
+
+Acharya opposed Hindi before the Swatantra Party was founded, even before the idea of founding it had arisen.
+
+When Acharya and I spoke at the Lakshmipuram Youth Association six years ago, there was no Swatantra Party. At that time Acharya still held that the Congress should be reformed.
+
+You may remember that Acharya was then opposing BCG vaccination.
+
+Even earlier, Acharya, Periyar, M. P. Sivagnanam, Navalar Nedunchezhiyan, I, and many others attended a meeting at the home of Mr. Subbaiah, who was running the Tamil Sangam. A seminar on the official-language question was held then as well. The Swatantra Party did not exist at that time either.
+
+Friend Abdul Samad and I may have politics in our opposition to Hindi; indeed, we do. Acharya, however, stands beyond all political parties in opposing it.
+
+I do not hesitate to admit that my opposition contains politics, because politics is not one of the five great sins.
+
+Some people speak as though everyone else had renounced politics and gone to an ashram, while I alone remained in politics. I am not in a position to go to an ashram; I am not of that age, and I have no such desire.
+
+When an action by the government creates fear among the people, the government must either explain it clearly enough to remove that fear or postpone the action until the people understand it. That is democracy.
+
+Some Congressmen say, "Hindi is a very simple language; people can learn it in three months."
+
+This seductive talk is more dangerous than a threat. Studying Hindi is one thing; living and functioning in Hindi is another.
+
+If we study Hindi, it can only remain a learned language for us, never the language of our habitual life.
+
+We cannot attain the proficiency of those whose mother tongue is Hindi.
+
+However much English we study, we can compete only among ourselves. Arcot Ramasamy and Sir C. P. Ramaswami cannot go to London and compete with the English themselves.
+
+Likewise, we cannot compete with Hindi speakers.
+
+Even a parrot and a mynah whose tongue has been trained can repeat what they are taught; they cannot speak beyond that.
+
+In the same way, the Hindi Prachar Sabha here in T. Nagar teaches Hindi as one trains a mynah to speak.
+
+If one studies Hindi at school, one can speak it only with those at school, and only while attending school. One cannot speak it at home; there one must speak the mother tongue. Hindi speakers are differently placed: they use Hindi at school too.
+
+Many government officers now in Delhi are as eager to return here as they once were to go to Delhi. The hardship they suffer from Hindi imposition has become unbearable.
+
+Not only government officers but even those employed in private institutions have reached a position where they must return.
+
+The moment it was announced that Hindi would become the official language, attention began to be given to Hindi.
+
+Within another ten or fifteen years, not only the machinery of government employment but commercial establishments and every other field will become dominated by Hindi speakers.
+
+Kamaraj says, "The Hindi issue is an issue for the educated."
+
+Rather than allowing us to accuse him of being uneducated, he accuses the educated.
+
+We do not fault him for lacking formal education. We regretfully ask, "When he has assumed such great responsibility despite being uneducated, what even greater things might he have accomplished had he received an education?"
+
+It is therefore wrong to blame the educated. If this is an issue for educated people, will it not affect the uneducated?
+
+The Constitution says that everyone must receive compulsory education. If twenty-five out of every hundred people are educated now, then in ten years it will be forty, and later sixty. The educated population can only increase, not diminish.
+
+When all hundred out of a hundred are educated, will the Hindi question not have become an issue affecting every person? We must therefore understand that this is not an issue concerning an educated minority.
+
+Today even those without education send their children to school. This is consequently a social question.
+
+Students must explain to the people how many governments have fallen because they imposed a language.
+
+I do not believe that Congressmen in the North will necessarily refuse to change their minds if we explain the harm of Hindi imposition in a way they can understand. We must first understand how these arguments are to be presented.
+
+When the people there demanded Maharashtra, did Pandit Nehru immediately agree and say that he would create it? When people fought to separate Andhra from Tamil Nadu, did he at once answer yes and grant the separation?
+
+Pandit Nehru is a very good man. At first he is stubborn; afterward he agrees. He is not one who continues being stubborn merely because he displayed stubbornness at the beginning. It may take a little time. When he sees our opposition to Hindi, he too may perhaps change his mind later.
+
+If we are to oppose Hindi, we must follow two methods. First, we must oppose it through direct agitation. Second, we must oppose it through voluntary suffering. We must struggle in accordance with the method employed by Gandhi.
+
+Congressmen have now begun to fear elections. In the past they would not even look at the people during elections; now they are compelled to seek the people out. Congressmen will understand the people's strength only if those members of the public who oppose Hindi defeat the Congress at the next election by the moral means of politics. During elections, the opposition parties must unite to defeat the Congress.
+
+We must not abandon one of our two programmes against Hindi and conduct the struggle by accepting the other alone. To do so would be to deceive ourselves. The DMK has become ready to fight by following both programmes.
+
+While we struggle, new prisons may be built to confine us and money may even be obtained from America for them. DMK comrades are not people who abandon a struggle out of fear of prison.
+
+Let Kamaraj resign not only from his office but also his seat in the Legislative Assembly, contest a by-election in the same constituency, face the DMK's opposition, and win. Only then will his all-India reputation be confirmed. The reputation now conferred upon him is like a glass vessel: if dropped, it will shatter.
+
+Some wonder who will remain to convey the movement's ideas if everyone in the DMK goes to prison.
+
+Behind us stands a great student army!
+
+I listened to the speeches of the great body of students who spoke here. They spoke with such enthusiasm and vigour that one might wonder whether they were really students or belonged to some other party. They spoke not merely with vigour, but as though they considered all of us too slow and wished to instil vigour in us. The DMK has one, two, three, four, five generations of successors such as these.
+
+When the movement that has opposed Hindi conducts its struggle, students must explain to the people the dangers Hindi will bring. The struggle we conduct is a struggle to protect the mother tongue, a struggle against the imposition of Hindi.
+
+## Translator's Notes
+
+The printed Tamil title reads `ஆட்சிமொழி இந்தியானால்`, an unusual construction retained verbatim rather than silently regularised. The English title renders its evident sense in context.
+
+The source itself contains a short English extract from the parliamentary debate. It is reproduced in the translation with only paragraph and quotation formatting adjusted; its wording is not retranslated.
+
+`ஆச்சாரியார்` refers to C. Rajagopalachari (Rajaji). `மாநிலங்கள் அவை` is rendered as “Council of States,” the contemporary name used for the Rajya Sabha in the speech's context. `காவல் நிலையம்` is transliterated once because Anna's contrast depends on the choice of a Tamil term for “police station.”
