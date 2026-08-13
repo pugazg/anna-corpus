@@ -111,7 +111,7 @@ Total source works: 537
 - [sorpozhivugal/budget1958](budget1958.md) - pending
 - [sorpozhivugal/call_to_the](call_to_the.md) - translated
 - [“Carry on! But Remember. . .!!”](carry_on_but_1.md) - pending
-- [sorpozhivugal/cheena_aakira](cheena_aakira.md) - pending
+- [sorpozhivugal/cheena_aakira](cheena_aakira.md) - translated
 - [sorpozhivugal/chennai151261](chennai151261.md) - pending
 - [sorpozhivugal/chennai220360](chennai220360.md) - translated
 - [sorpozhivugal/chennai300161](chennai300161.md) - translated
