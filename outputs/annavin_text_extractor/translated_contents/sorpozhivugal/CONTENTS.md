@@ -423,7 +423,7 @@ Total source works: 537
 - [சுயமரியாதை வளர்த்த தளபதி](suyamariyathai_valartha.md) - pending
 - [sorpozhivugal/tamil_azhikum](tamil_azhikum.md) - translated
 - [தமிழ்நாடு என்ற பெயர் பெற்றதற்கான விழாவில் அண்ணா](tamil_nadu_peyar.md) - pending
-- [sorpozhivugal/tamil_umathu](tamil_umathu.md) - pending
+- [sorpozhivugal/tamil_umathu](tamil_umathu.md) - translated
 - [தமிழ் வெற்றி உறுதி](tamil_vetri.md) - pending
 - [தமிழ் விழா!](tamil_vizha.md) - pending
 - [தமிழர் திருநாள்](tamilar_thirunal.md) - pending

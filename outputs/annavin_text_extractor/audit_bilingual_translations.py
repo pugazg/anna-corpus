@@ -247,7 +247,7 @@ def main() -> int:
             "html_total", "html_translated", "html_verified", "html_pending",
             "total", "translated", "verified", "pending",
         ]
-        writer = csv.DictWriter(handle, fieldnames=fieldnames)
+        writer = csv.DictWriter(handle, fieldnames=fieldnames, lineterminator="\n")
         writer.writeheader()
         for values in status_rows:
             writer.writerow({
