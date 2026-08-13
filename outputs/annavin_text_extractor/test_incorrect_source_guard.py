@@ -31,6 +31,19 @@ class IncorrectSourceGuardTest(unittest.TestCase):
         self.assertEqual(rows["katturaigal/pazhaya_company.md"]["status"], "incorrect_source")
         self.assertEqual(rows["katturaigal/pazhaya_company.md"]["direction"], "none")
 
+    def test_queue_preserves_recorded_recovery_holds(self):
+        subprocess.run(
+            ["python3", str(BASE / "prepare_translation_queue.py"), "--inspect-content"],
+            check=True,
+            capture_output=True,
+            text=True,
+        )
+        with (STATE / "translation_queue.csv").open(encoding="utf-8-sig", newline="") as handle:
+            rows = {row["file"]: row for row in csv.DictReader(handle)}
+        row = rows["sorpozhivugal/sudhanthira_kaiyelu.md"]
+        self.assertEqual(row["status"], "needs_source_recovery")
+        self.assertEqual(row["direction"], "none")
+
     def test_batch_dry_run_skips_without_rewriting_recovery_state(self):
         recovery = STATE / "needs_source_recovery.csv"
         before = recovery.read_bytes()
