@@ -3,6 +3,7 @@
 
 import csv
 import importlib.util
+import re
 from collections import defaultdict
 from pathlib import Path
 
@@ -14,6 +15,29 @@ REPORT = TRANSLATED / "_translation_state/bilingual_audit.md"
 STATUS_MD = TRANSLATED / "_translation_state/section_translation_status.md"
 STATUS_CSV = TRANSLATED / "_translation_state/section_translation_status.csv"
 IGNORED_SECTIONS = {"oviyam", "photos"}
+
+
+def blank_ocr_pages(text: str) -> int:
+    """Count explicit and structurally empty OCR image sections."""
+    sections = re.split(r"(?m)^## Image \d+:[^\n]*\n", text)[1:]
+    blank_count = 0
+    for section in sections:
+        content_lines = []
+        for raw in section.splitlines():
+            stripped = raw.strip()
+            if not stripped or stripped.startswith("- Image:"):
+                continue
+            content_lines.append(stripped)
+        has_explicit_marker = any(
+            line in {"_No OCR text detected._", "[No text recognized]"}
+            for line in content_lines
+        )
+        if has_explicit_marker or not content_lines or all(
+            line in {"_No OCR text detected._", "[No text recognized]"}
+            for line in content_lines
+        ):
+            blank_count += 1
+    return blank_count
 
 
 def load_tamil_extractor():
@@ -55,7 +79,7 @@ def main() -> int:
         chosen = Path(row["chosen_path"])
         if is_ocr:
             raw_source = chosen.read_text(encoding="utf-8", errors="replace")
-            blank_pages = raw_source.count("_No OCR text detected._")
+            blank_pages = blank_ocr_pages(raw_source)
             if blank_pages:
                 ocr_source_gaps[section]["works"] += 1
                 ocr_source_gaps[section]["pages"] += blank_pages
@@ -86,7 +110,7 @@ def main() -> int:
             language_ok = False
             source_ok = False
 
-        source_complete = not (is_ocr and "_No OCR text detected._" in source)
+        source_complete = not (is_ocr and blank_ocr_pages(raw_source))
 
         if language_ok and source_ok and source_complete:
             section_counts[section]["valid"] += 1
@@ -135,7 +159,7 @@ def main() -> int:
     lines.extend([
         f"| **All OCR-origin sections** | **{ocr_total}** | **{ocr_done}** | **{ocr_valid}** | **{ocr_total - ocr_done}** |",
         "", "## OCR Source Recovery Status", "",
-        "| Section | Works with blank-page markers | Blank pages |",
+        "| Section | Works with blank image sections | Blank pages |",
         "|---|---:|---:|",
     ])
     for section in sorted(ocr_counts, key=str.lower):
@@ -146,7 +170,7 @@ def main() -> int:
     lines.extend([
         f"| **All OCR-origin sections** | **{gap_works}** | **{gap_pages}** |",
         "",
-        "A blank-page marker means the canonical Tamil source is not translation-ready, even when the scan itself may be readable.",
+        "A blank image section has an explicit no-text marker or no OCR body after its image reference. The canonical Tamil source is not translation-ready even when the scan itself may be readable.",
         "",
         "### Sources Requiring Recovery", "",
     ])
