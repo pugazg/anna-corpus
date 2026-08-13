@@ -153,7 +153,7 @@ def main() -> int:
     queue_path = state_dir / "translation_queue.csv"
     fields = list(rows[0]) if rows else ["file", "status", "reason"]
     with queue_path.open("w", encoding="utf-8", newline="") as handle:
-        writer = csv.DictWriter(handle, fieldnames=fields)
+        writer = csv.DictWriter(handle, fieldnames=fields, lineterminator="\n")
         writer.writeheader()
         writer.writerows(rows)
 

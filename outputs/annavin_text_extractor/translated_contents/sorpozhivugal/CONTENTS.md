@@ -271,7 +271,7 @@ Total source works: 537
 - [நமது முழக்கம்](namathu_muzhakkam.md) - pending
 - [sorpozhivugal/nambikkai301057](nambikkai301057.md) - pending
 - [sorpozhivugal/nambikkai311057](nambikkai311057.md) - translated
-- [sorpozhivugal/nan_kanda_nehru](nan_kanda_nehru.md) - pending
+- [sorpozhivugal/nan_kanda_nehru](nan_kanda_nehru.md) - translated
 - [நஷ்ட ஈடு தர வேண்டும்!](nashta_eedu_tharavaendum.md) - pending
 - [sorpozhivugal/nattu_mathip111157](nattu_mathip111157.md) - pending
 - [sorpozhivugal/nellai_mavatta](nellai_mavatta.md) - translated
