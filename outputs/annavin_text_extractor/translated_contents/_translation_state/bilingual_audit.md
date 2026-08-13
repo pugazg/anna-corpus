@@ -124,6 +124,7 @@ A blank image section has an explicit no-text marker or no OCR body after its im
 - `sorpozhivugal/260368.md`: Recover short damaged line clusters at the beginnings of Images 3, 5 and 6, including the office held by Minister Govindasamy
 - `sorpozhivugal/270368.md`: Short line clusters at the beginnings of Images 3 and 5 are damaged; verify the oil-lamp wording and the English loan phrase rendered as breathing space
 - `sorpozhivugal/271167.md`: Image 5 closing lines are severely garbled after the electricity-tariff sentence; recover from a clearer scan or the 27 November 1967 Assembly record
+- `sorpozhivugal/280868.md`: The 61-page 28 August 1968 no-confidence debate is predominantly English, but it was processed with Tamil-only OCR. Most English speeches became mixed-script character noise while only Tamil editorial summaries remain readable. Re-OCR every scan with English and Tamil models, reconcile speakers and quotations page by page, and rebuild the canonical source before translation.
 - `sorpozhivugal/allal_agala.md`: Substantial passage missing between Images 3 and 4, from the Khrushchev discussion to the proposed aluminium factory; recover it and verify the Seshasayee company reference
 - `sorpozhivugal/amaichar160361.md`: Recover damaged Salem court-case lines, election-fund transitions, corporate-contributor discussion, and the end of the proposal that Ministers resign before elections
 - `sorpozhivugal/maedai_paechu.md`: Verify the exact Kalamegam comic-horse measure in Image 5 and the printed year in the heading
