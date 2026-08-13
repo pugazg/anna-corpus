@@ -16,6 +16,8 @@ class IncorrectSourceGuardTest(unittest.TestCase):
         with (STATE / "incorrect_sources.csv").open(encoding="utf-8-sig", newline="") as handle:
             rows = {row["file"]: row for row in csv.DictReader(handle)}
         self.assertEqual(rows["katturaigal/pazhaya_company.md"]["status"], "incorrect_source")
+        self.assertEqual(rows["katturaigal/singam_sirunari_1.md"]["status"], "incorrect_source")
+        self.assertEqual(rows["katturaigal/singam_sirunari_2.md"]["status"], "incorrect_source")
 
     def test_queue_never_marks_pazhaya_company_ready(self):
         subprocess.run(
