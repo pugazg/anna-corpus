@@ -1,0 +1,497 @@
+# களிப்பும் கவலையும்! / Joy and Concern!
+
+**Tamil title:** களிப்பும் கவலையும்!  
+**English title:** Joy and Concern!  
+**Source file:** `katturaigal/kalippum.md`
+
+## Source Tamil (verbatim)
+
+- Source image folder: `/Users/pugazhendhirajendran/Documents/Codex/2026-07-09/https-www-annavinpadaippugal-info/outputs/annavin_text_extractor/ocr_images/katturaigal/kalippum`
+- OCR language: `tam`
+- Tesseract page segmentation mode: `3`
+- OCR cleanup: `enabled`
+
+## Image 1: 001-3880a8daf9.png
+
+- Image: `katturaigal/kalippum/001-3880a8daf9.png`
+
+25, களிப்பும் கவலையும்!
+
+காலத்துக்கு உதவாத பழைய வழக்கங்கள் எல்லாவற்றையும் வழக்கு
+மன்றம் ஏற்றுக்கொள்ள வேண்டிய அவசியமில்லை.
+
+சென்னை நீதிபதி பஞ்சாபகேசர் ஒரு வழக்கில், தந்துள்ள தீர்ப்பிலே
+உள்ளது இது.
+
+மூட எண்ணங்களைக்காட்டி, சட்டத்தை வளைக்க முடியாது.
+
+மெளடீகப் பழக்கங்களுக்கு நீதிதலை சாய்க்க முடியாது.
+
+நீதி, அறிவுக்கு அரணாக இருக்குமே தவிர, மூட மதிக்கும்
+கேடயமாகக் கூடாது.
+
+நீதிபதி இதனைக் காட்டியுள்ளார். படித்து, நாம் பரவசமடைகிறோம்.
+
+சட்டத்தின் முன் சம்பிரதாயம் தலைவணங்க வேண்டும் என்று நீதி
+தேவர்கள் தீர்ப்பளிக்கிறார்கள் என்கிறபொழுது பகுத்தறிவொளி பரப்பும்
+பணியினைத் தாங்கிப் பவனி வரும் நமக்கு முகத்திலே மலர்ச்சி, உள்ளத்
+திலே களிப்பு, உதட்டோரத்திலே குறுஞ்சிரிப்பு தோன்றச் செய்கிறது!
+
+சட்டம், இருள் மதித் திட்டத்தை இடித்துத் தள்ளும் என்று எண்ணுகிற
+பொழுது புன்னகை பிறக்கிறது ஒரு கணம். ஆனால், அடுத்த கணத்திலேயே
+பெருமூச்சு!
+
+களிப்பு முதலில், கவலை பின்னர்த் தொடர்கிறது, அதனை
+யொட்டியே! ்
+
+ஏன் என்பீர்கள் - காரணந் தெரிந்தால். சளிப்பு, போய்.கவலை வந்து
+சேரும்.
+
+## Image 2: 002-bfd5c08891.png
+
+- Image: `katturaigal/kalippum/002-bfd5c08891.png`
+
+ஒரு சமூகத்தில் நிலவிடும் மூட நம்பிக்கையின் காரணமாகத் தங்கள்
+பெயர்களைக் கூற மறுத்ததால், 28 இலட்சம் பெண் வாக்காளர்கள்,
+வாக்காளர் பட்டியலிலிருந்து விலக்கப்பட்டார்கள்.
+
+சென்னை நீதிபதி தந்த தீர்ப்பினைக் கண்டு களித்தோம். அதே
+தேதியில், இந்தச் சேதியும் வந்திருக்கிறது. இதனைப் பிரதம தேர்தல்
+கமிஷனர் சுகுமார்சென் அறிவித்துள்ளார். இதனைக் கண்டு கவலை
+நம்மைக் கட்டித் தழுவுகிறது.
+
+பெயரைச் சொல்வது கூடாது, இப்படியொரு மூடக் கொள்கை.
+அதனால் ஒருவர், இருவரல்ல. இருபத்தெட்டு இலட்சம் பெண்கள்
+வாக்குரிமை இழந்துவிட்டனர்.
+
+மூடக் கொள்கையின் முரட்டுப் பிடியிலே எப்படி மாட்டித்
+தவிக்கிறார்கள் என்பதற்கு இதைவிட வேறென்ன சான்று வேண்டும்?
+
+நீதி மேடை, மூடக்கொள்கைகளின் நர்த்தன அரங்கமாகாது என்று
+நீதிபதி பேசுகிறார்.
+
+மூடக் கொள்கையை எதிர்த்துத் தீர்ப்பும் வழங்கியுள்ளார்.
+
+அந்த வழக்கு என்ன தெரியுமோ? கணவனை யிழந்த காரிகை, தன்
+
+கணவன் இறந்து ஓராண்டு முடியாததால், தன்னை வீட்டிலேயே
+விசாரிக்கவேண்டும் என்று கேட்டி ருந்ததை, மறுத்து விட்டார் நீதிபதி.
+
+விதவை வெளியில் வரக்கூடாது இப்படியொரு சம்பிரதாயம்.
+
+இதனைச் சட்டமும், நீதியும் சுட்டெரிக்கக் கண்டு, களிப்பு! ஆனால்,
+இந்த வரிசையிலே, பெண்கள் தங்கள் பெயர்களையே சொல்லக் கூடாது
+என்பதும் ஒன்றாகத் தெரிகிறது! அதனால் இருபத்தெட்டு இலட்சம் பேர்
+உரிமையை இழந்து விட்டார்கள்! இதனைத் தெரிவிப்பவர் தேர்தல்
+கமிஷனர் சுகுமார் சென். ஆகவே, நெஞ்சிலே குடியேறி விட்டது, கவலை!
+
+இங்குச் சம்பிரதாயம், சட்டத்தை வென்றுவிட்டது! மூடமதி, முடி
+குடிக் கொண்டுவிட்டது!
+
+ஆகவேதான், களிப்பும், கவலையும் ஒன்றையொன்று பின்
+தொடர்கிறது.
+
+## Image 3: 003-69e9f36d55.png
+
+- Image: `katturaigal/kalippum/003-69e9f36d55.png`
+
+மூடக் கொள்கைகள், எவ்வளவு ஆழமாகப் பதிந்துவிட்டன
+பாருங்கள். தங்கள் பெயர்களையே சொல்லக் கூடாது என்று நம்புகிற
+அளவு மக்களும் இருக்கிறார்கள். அவர்களையும் தாங்கிக் கொண்டிருக
+கிறது நாடு!
+
+தங்கள் பெயர்களைச் சொல்லக் கூடாது என்று நம்புகிற பெண்கள்
+இன்னமும் பீஹார், உத்தரப்பிரதேசம், மத்திய பாரத், ராஜஸ்தான்,
+விந்தியப் பிரதேசம் ஆகிய இடங்களில் இருக்கிறார்கள் .
+
+தம் நாட்டில் கணவன், மற்றும் பெரியவர்கள் பெயர்களைச் சொல்ல
+மாட்டார்கள். அதுவும் மரியாதையென்று காரணங் காட்டி! இவர்களோ,
+விசித்திர புரியிலே ஊர்வலம் வருகிறார்கள். கணவன் பெயரைச்
+சொல்லியிருக்கிறார்கள்! தந்தையின் பெயரையும் சொல்ல மறுக்கவில்லை.
+ஆனால், தங்கள் பெயர்களைக் கூறவில்லை!
+
+இவர்களுக்கு, இந்த வகையில் இளைத்தவர்களல்ல, நம்மவர்கள்!
+
+அவர்கள் தங்கள் பெயரைச் சொல்லவில்லை. இங்குள்ள பெண்கள்
+கணவன்பெயரைச் சொல்லமுடியாததால், எத்தனை வேடிக்கைக் கதைகள்
+தினந்தினம் நிகழ்கின்றன!
+
+விதவை வெளியில் வரக்கூடாது என்ற சம்பிரதாய திட்டத்தை நீதிபதி
+தடுத்துவிட்டார். ப
+
+பெயர் சொல்லக்கூடாது என்ற திட்டத்தை, நீதியோ, சட்டமோ,
+எதுவுமே அசைக்கமுடியவில்லை.
+
+.. ஆகவே, களிப்பும், கவலையும் கலந்து, கலந்து வருகிறது!
+
+பகுத்தறிவு பரப்பும் பணியிலே நாம் ஈடுபட்டுப் பணியாற்றிடத்
+தொடங்கி ஆண்டுகள் பல உருண்டு போயின.
+
+அதற்கேற்ற பலனும் ஏற்பட்டுதானிருக்கிறது.
+பஞ்சாபகேசரின் தீர்ப்பு, நாம் பட்ட பாட்டின் அறுவடைதான்!
+
+இருந்தாலும், சமூகம் இன்னமும், ஒளி மழுங்கிய தங்கக்
+கிண்ணியாகத்தானிருக்கிறது.
+
+## Image 4: 004-71abe97c0f.png
+
+- Image: `katturaigal/kalippum/004-71abe97c0f.png`
+
+மூடக்கொள்கைகள் இன்னமும் முறியடிக்கப் படாமல் இருக்கின்றன.
+குற்றுயிரும், குலையுயிருமாய், சில குருட்டுக் கொள்கைகள் ஊசலாடிக்
+கொண்டிருக்கின்றன.
+
+அவைகளைக் காணும்பொழுது, நாம் சமூக சீர்திருத்தப் பணியை
+மேலும் செய்ய உறுதி கொள்கிறோம்.
+
+ஈரோட்டில் சென்ற வாரம் சமூக சீர்திருத்த மாநாடு கூடிற்று. அதில்
+இந்த எண்ணந்தான் நடமாடிற்று.
+
+நாம் பாடுபட்டோம். பலன் கண்டோம். களிப்புதான். இருந்தும்
+தொண்டு இன்னமும் வேண்டுமென்கிறது சமூகம்.
+
+பட்டை நாமம் பறந்தது. கட்டு விபூதி குலைந்தது!
+
+பஜனை குறைந்தது. பாசாய்ணம் நின்றது. புராணப் பிரசங்கிகள்
+அற்றுப் போயினர்.
+
+ஆலயங்களில் விழா, வேடிக்கையில் மக்கள் எண்ணிக்கை
+குறைந்தது.
+
+மக்கள் வாழ்வில் புரோகிதம் புகுந்து வேலைசெய்த, போக்கு .
+முற்றிலும் மாறுபட்டது.
+
+புரோகிதனில்லாத திருமணம், வைதிகனில்லாத சமூகச் சடங்குகள் '
+நடக்கத் தொடங்கின.
+
+மக்கள் எண்ணத்திலே புரட்சியும், நடத்தையிலே நல்ல மாற்றமும்
+ஏற்பட்டுள்ளன.
+
+சாதி வெறி தவம ய்வது மத மயக்கமும் குறைந்து
+தான் உள்ளது.
+
+இவை மட்டுமல்ல, சர்க்காரும் சட்டம் போட்டுக்கூட, மூடக்
+கொள்கைகளை ஓட ஓட விரட்டியடிக்கிறார்கள்.
+
+பெண்ணுரிமைக்குச் சட்டம்! இருதாரத் தடுப்புச் சட்டம் போட்டு,
+தேவரும், மூவருமே, இன்றிருந்தால் குற்றவாளிகள் என்றாக்கிவிட்டார்கள்!
+
+## Image 5: 005-2e02591cd3.png
+
+- Image: `katturaigal/kalippum/005-2e02591cd3.png`
+
+கோயில்கள் நிர்வாகத்திலும் சாக்கார், கணக்கு கேட்கத்
+தயங்கவில்லை.
+
+ஆலயங்களிலே தாழ்த்தப்பட்டோர் நுழைந்தனர்.
+
+இனாம்தாரிகள் என்ற பெயரில், குனியாது வளையாது குந்திக்
+கிடந்து தம் வாழ்க்கையை நகர்த்திடும் சமூக வஞ்சகர்களையும் விட
+வில்லை.
+
+இப்படி மாற்றங்கள் ஏற்பட, வழி வகுத்தது, நம் உழைப்பு - நமது
+போராட்டம் என்கிற பொழுது களிப்புத் தோன்றுகிறது.
+
+எதிர்ப்புப் புயலென, வீச, ஏசல் கற்கள் இடையிடையே வந்து
+விழவிழ, உற்றார், பெற்றாரின் தூற்றல் பள்ளங்களில் இடறி இடறிவிழுந்து
+எழுந்து, பகுத்தறிவுக் கோலேந்தித் தட்டுத் தடுமாறிநடந்து வந்துவிட்டோம்.
+
+இப்பொழுது பாதையில், பாதகப் படுகுழிகள் அதிகமிருந்தாலும்,
+நாம் பவனி வருகிற அளவு நெஞ்சுரம் பெற்றிருக்கிறோம்!
+
+பாதை கொஞ்சம் திருந்தியிருந்தாலும், பயணம் முடியவில்லை!
+
+ஆகவேதான் சமூக சீர்திருத்த மாநாடுகள் கூட்டுகிறோம்.
+
+இந்த நேரத்தில், தொடக்கத்தில் சொன்ன இரண்டு நிகழ்ச்சிகளையும்
+நினைவில் கொண்டுவர வேண்டுகிறோம்.
+
+நீதி, மூட நம்பிக்கையை எதிர்க்கிறது!
+
+ஆனால், மூட மதிக் கொள்கைகளை விரட்டி, சமூகத்தைச் செப்பனிட
+சட்டம் மட்டும் போதாது. அதனை நடைமுறையாக்குகிற மனப்பண்பு,
+மக்கள் உள்ளத்திலே மலரவேண்டும்.
+
+அப்பொழுதுதான் சமூகம், உருக்கப்பட்டு, புதிய உருவில் அமைக்க
+முடியும். ப
+
+அதனால்தான், நாம், முப்பதாண்டுக்கு மேலாக, சமூக சீர்திருத்தப்
+பிரச்சாரம் புரிகிறோம்.
+
+சமூகம் உருகும் உலோகம் - சட்ட நெருப்பு மட்டும் போதாது, உருக்க!
+பிரச்சார ஜுவாலையும் வேண்டும்!
+
+## Image 6: 006-f5f8a63b25.png
+
+- Image: `katturaigal/kalippum/006-f5f8a63b25.png`
+
+மூடக் கொள்கைகளின் இருட்டு நிலைமையை எடுத்து விளக்கி
+வருகிறோம்.
+
+பிரச்சாரம் பல இதழ்கள் கொண்ட ஒரு மலர்.
+
+அ௮ம்மலரின் மணத்தால்தான், சமூகத்தின் முடைநாற்றம்
+சாகடிக்கப்பட வேண்டும்!
+
+சமூக சீர்திருத்தப் பிரச்சாரத்திலே புதியதொரு அத்தியாயத்தைப்
+பிரித்து வைத்திருக்கிறோம்.
+
+இதுவரை, உலகைத் திருத்த, தங்களையே அர்ப்பணித்த உத்தமர்
+களை, மக்கள் கவனத்திற்குக் கொண்டு வருகிறோம்.
+
+அவர்களிடையே இலட்சிய விளக்கம் தருகிறோம்.
+
+அதனை நிறைவேற்ற அவர்கள் பட்ட அவதிகள், ஆட்சியாளர் வீசிய
+அடக்குமுறைகள், சமூகம் இழைத்த இன்னல்கள் இவைகளை எடுத்து
+விளக்கி,நம் நெஞ்சிலும் நம்பிக்கையை ஊற்றெடுக்கச் செய்கிறோம்!
+
+சமூக சதிகாரர்களுக்கு, அந்த உத்தமர்கள் அடைந்த வெற்றி ஒரு
+எச்சரிக்கை! நமக்கோ, நம். இதயத்தைக் குளிர்விக்கும் இன்பத் தென்றல்!
+
+அவர்கள் அனுபவித்த துன்பங்களைக் காணும்பொழுது, நமக்கு
+வரும் இடுக்கண்கள் வெறுந் தூசுகளே எனப் பேசிடுகிற துணிவு பிறக்கிறது! ,
+
+அவர்கள் பெற்ற வெற்றிகளோ, நமக்கு உணர்ச்சியையும்
+ஊக்கத்தையும் விருந்தாக்குகின்றன.
+
+திருந்தாத சமூகத்தைப் பார்க்கிறபொழுது கவலை பிறந்தாலும்,
+உலகைத்திருத்திய உத்தமர்கள் காட்டும் பாதை தெரிகிற பொழுது, களிப்பு
+நம்மையுமறியாமல் வருகிறது!
+
+3 ௫ 3
+
+ஓரே வாரத்தில் இரண்டு இடங்களில் நம் தோழர்கள் இரண்டு
+மாநாடுகளை நடத்திக் காட்டியுள்ளனர்.
+
+திண்டுக்கல்லில், எழுத்துரிமை பேச்சுரிமை மாநாட்டை நடத்தினர்.
+
+ஈரோட்டில் சமூக சீர்திருத்த மாநாட்டை வெற்றிகரமாக்கியுள்ளனர்.
+
+திண்டுக்கல் மாநாடு என்றவுடன் தோழர் முத்துவை நம்மால் மறக்க:
+முடியவில்லை. அவர் ஓயாதுழைத்து மாநாட்டை வெற்றிகரமாக முடித்தார்.
+
+## Image 7: 007-b793925485.png
+
+- Image: `katturaigal/kalippum/007-b793925485.png`
+
+வரவேற்புக் குழுத் தலைவர் வி.எஸ்.எஸ். மணி, மற்றும் தோழர்கள்
+சமதர்மம், பிச்சை, தங்கவேலர், வீரராசன், இலட்சுமணன், நாச்சியப்பன்,
+அங்குச்சாமி ஆகியோருக்கும், இன்னும் திராவிடக் காளையர் அனை
+வருக்குமேதம் பாராட்டுதல்கள் சேரட்டும்.
+
+ஈரோடு மாநாடு என்றவுடன் துக்கம் பீறிடுகிறது.
+
+மாநாட்டிற்கு மக்கள் வந்து கொண்டிருக்கிற நேரத்தில், மாநாட்டின்
+வரவேற்புக் குழுத் தலைவர் தோழர் எஸ். ஆர். சந்தானம் அவர்களின்
+தந்தையாரின் ஆவி பிரிந்தது!
+
+துக்கத்தினிடையே மாநாடு, இருந்தும் மாநாடு வெற்றிகரமாக
+நடந்தது!
+
+ஈமக்கடன் முடிந்ததும், தோழர் சந்தானம் மாநாட்டுப் பந்தலுக்குள்
+நுழைந்திடும் கோலம், கூடியிருந்தோர் முகத்திலே கவலையைத் தந்தாலும்,
+அவரின் இலட்சிய ஆவேசத்தைக் கண்டு களிப்பும் அரும்பத்தான் செய்தது!
+
+அவருடன் ஒத்துழைத்த அப்பாவு, ஆர்.டி.முத்து, பெருமாள்,
+மற்றுமுள்ள இயக்க வீரர்கள் அனைவருமே, வாழ்த்துதலுக் குரியவர்கள்.
+இந்த மாநாட்டின் வெற்றியில் பெரும்பங்கு, நம் அருமைத் தோழர்
+ஈ.வெ.கி. சம்பத் அவர்களையே சாரும்.
+
+மாநாடுகள், இரண்டு தனிப்பிரச்சனைகள் குறித்து, இரண்டு .
+இடங்களில் நடத்தப்பட்டன. .
+
+இரண்டும் மிகமிக போற்றுதலுக்குரிய முறையில் நடைபெற்றுள்ளன. -
+
+இந்த. வெற்றியிலே கலந்து கொண்ட எல்லோரும் நம் அரும்
+திராவிடத்தின் விடுதலைப் படையின் தளபதிகளென எண்ணும்பொழுது
+கவலைபோய் களிப்படைகிறோம். அவர்கள் வாழ்க என வாழ்த்துகிறது நா!
+அவர்கள் தொகை வளர்க என வேண்டுகிறது மனம்!
+
+மூடக் கொள்கைகள் வலுவிழந்து சாகின்றன என்ற செய்தி கேட்டு
+நாம் களிக்கிறோம். அவைகளைச் சாகடிக்கும் வீரர்கள் நிறைந்த பாசறை நம்
+இயக்கம் என்று நாடு கூறுகிற நிலை பிறந்திடக் காண நம் கவலையொழிந்து
+களிப்பு மிகுகிறது.
+
+ஆகவே கவலைதீர வழிகிடைத்து விட்டது! களிப்பு பெருகும், இனி!
+
+(திராவிட நாடு 12.9.51)
+
+## English Translation
+
+Courts have no obligation to accept every old custom that is of no use to the present age.
+
+This is contained in a judgment delivered by Madras judge Panjabakesa in a case.
+
+The law cannot be bent by invoking foolish beliefs.
+
+Justice cannot bow its head to ignorant customs.
+
+Justice must be a fortress for reason, not a shield for superstition.
+
+The judge has demonstrated this. We read it and become elated.
+
+When the gods of justice rule that custom must bow before law, the faces of those of us who carry the work of spreading rationalist light in procession blossom; joy arises in our hearts and a little smile appears at our lips.
+
+For a moment, a smile is born when we think that law will demolish the structure erected by dark superstition. But in the very next moment comes a deep sigh.
+
+Joy comes first, and concern follows immediately behind it.
+
+You may ask why. Once you learn the reason, elation will depart and concern arrive.
+
+Because they refused to state their names owing to a superstition prevailing in their communities, twenty-eight lakh women voters were excluded from the electoral rolls.
+
+We rejoiced on seeing the Madras judge's ruling. On that very date, this other news arrived. Chief Election Commissioner Sukumar Sen announced it. On seeing it, concern embraces us tightly.
+
+One must not utter one's own name: such is the superstitious doctrine. Because of it, not one or two but twenty-eight lakh women have lost the right to vote.
+
+What better evidence is needed of how they are trapped and tormented in superstition's brutal grip?
+
+The judge declares that the seat of justice must not become a dancing arena for superstitious doctrines.
+
+He has delivered a judgment opposing such a doctrine.
+
+Do you know what the case was? A woman who had lost her husband requested that she be examined at home because a year had not yet passed since his death. The judge rejected the request.
+
+A widow must not come outside: such is the custom.
+
+We rejoice to see law and justice burn it away. But now we learn that the rule forbidding women even to state their own names belongs in the same sequence. Twenty-eight lakh people have lost a right because of it. Election Commissioner Sukumar Sen reports this. Concern has therefore taken up residence in the heart.
+
+Here, custom has defeated law. Superstition has crowned itself!
+
+That is why joy and concern follow one another.
+
+See how deeply superstitious beliefs have taken root. There are people who believe they must not even state their own names, and the country carries them too!
+
+Women who believe they must not state their names still live in Bihar, Uttar Pradesh, Madhya Bharat, Rajasthan and Vindhya Pradesh.
+
+In our country, women do not speak the names of their husbands and elders, offering respect as the reason. These women, however, parade through a realm stranger still. They have stated their husbands' names and have not refused to give their fathers' names, but they have not disclosed their own!
+
+Our people are not behind them in this respect.
+
+Those women did not state their own names. Here, because women cannot speak their husbands' names, how many comic stories occur every day!
+
+The judge has stopped the customary scheme that a widow must not come outside.
+
+But neither justice nor law has been able to shake the scheme that a woman must not state her name.
+
+Thus joy and concern continue to arrive intermingled.
+
+Many years have rolled by since we began to engage in the work of spreading rationalism.
+
+It has indeed produced corresponding benefits.
+
+Panjabakesa's judgment is a harvest from the hardship we endured.
+
+Even so, society still resembles a golden bowl whose brightness is dimmed.
+
+Superstitious doctrines have still not been defeated. Some blind beliefs hover between life and death.
+
+On seeing them, we resolve to carry out still more social-reform work.
+
+A social-reform conference met in Erode last week. This was the thought that moved through it.
+
+We laboured and obtained results. There is joy. Even so, society says that more service is still required.
+
+The striped sectarian mark has flown away. The thick application of sacred ash has crumbled.
+
+Bhajan singing has diminished. Scriptural recitation has stopped. Purana preachers have disappeared.
+
+The number of people attending temple festivals and entertainments has declined.
+
+The manner in which priestcraft entered and operated within the people's lives has changed completely.
+
+Marriages without priests and social ceremonies without Vedic officiants have begun to take place.
+
+A revolution has arisen in the people's thinking and a good change in their conduct.
+
+Caste frenzy has weakened, and religious intoxication has diminished.
+
+Not only these things: even the government enacts laws and drives superstitious doctrines away.
+
+There is legislation for women's rights. By passing a law against bigamy, they have made even the gods and the divine trio criminals, were they alive today!
+
+The government does not hesitate to demand accounts even in temple administration.
+
+Oppressed people have entered the temples.
+
+Nor have they spared the social deceivers who, under the name of `inamdar`, sat without bending or bowing and carried on their lives through privileged grants.
+
+When we say that our labour and struggle prepared the way for these changes, joy arises.
+
+While storms of opposition blew and stones of abuse repeatedly fell, we stumbled into pits of denunciation dug by relatives and parents, rose again, and came walking unsteadily with the staff of rationalism in hand.
+
+Though the road still contains many deadly pits, we have acquired the courage to proceed in procession.
+
+The road may have improved a little, but the journey is not over.
+
+That is why we convene social-reform conferences.
+
+At this moment, we ask you to recall the two events mentioned at the beginning.
+
+Justice opposes superstition.
+
+But law alone is not enough to drive out superstitious doctrines and repair society. A disposition capable of putting the law into practice must blossom in the people's hearts.
+
+Only then can society be melted and cast into a new form.
+
+That is why we have conducted social-reform propaganda for more than thirty years.
+
+Society is metal to be melted. The fire of law alone is not enough; the flame of propaganda is also needed.
+
+We continue to explain the dark condition produced by superstitious doctrines.
+
+Propaganda is a flower with many petals.
+
+The stench of society must be destroyed by the fragrance of that flower.
+
+We have opened a new chapter in social-reform propaganda.
+
+We bring before the people's attention the noble people who dedicated themselves to reforming the world.
+
+Through them, we explain ideals.
+
+We describe the suffering they endured to realise those ideals, the repression unleashed by rulers, and the hardships inflicted by society, and thereby make confidence spring within our own hearts.
+
+For social conspirators, the victories of those noble people are a warning. For us, they are a delightful breeze that cools the heart.
+
+When we see the suffering they experienced, courage is born in us to call the adversities that come to us mere dust.
+
+Their victories serve us a feast of feeling and inspiration.
+
+Concern arises when we look at unreformed society. But when the road shown by the noble people who reformed the world becomes visible, joy comes without our even realising it.
+
+Within a single week, our comrades have conducted two conferences in two places.
+
+At Dindigul, they held a conference on freedom of writing and speech.
+
+At Erode, they made the social-reform conference a success.
+
+At the mention of the Dindigul conference, we cannot forget Comrade Muthu. He worked tirelessly and brought it to a successful conclusion.
+
+Let our praise also reach reception committee chairman V. S. S. Mani and comrades Samadharmam, Pichai, Thangavelar, Veerarasan, Lakshmanan, Nachiappan and Angusamy, as well as all the other young Dravidian stalwarts.
+
+At the mention of the Erode conference, grief bursts forth.
+
+While people were arriving for the conference, the father of its reception committee chairman, Comrade S. R. Santhanam, passed away.
+
+The conference took place amid mourning, yet it was conducted successfully.
+
+After completing the funeral rites, Comrade Santhanam entered the conference pavilion. The sight brought concern to the faces of those assembled, but joy too began to bud when they saw his passion for the ideal.
+
+Appavu, R. D. Muthu, Perumal and every other activist who cooperated with him deserve congratulations. A large share in the success of this conference belongs to our dear comrade E. V. K. Sampath.
+
+The two conferences were conducted at two locations on two separate issues.
+
+Both were held in a manner deserving the highest praise.
+
+When we think that everyone who participated in this success is a commander in the liberation army of our beloved Dravidian land, concern departs and we rejoice. Our tongue blesses them: “May they live!” Our heart prays that their numbers increase.
+
+We rejoice on hearing that superstitious doctrines are weakening and dying. When we see the country beginning to say that our movement is a camp filled with warriors who put them to death, our concern disappears and our joy increases.
+
+Thus a way to end concern has been found. From now on, joy will grow!
+
+(*Dravida Nadu*, 12 September 1951)
+
+## Translator's Notes
+
+The article juxtaposes a Madras judicial ruling against a widow-seclusion custom with Chief Election Commissioner Sukumar Sen's report that 2.8 million women were omitted from electoral rolls because they would not state their own names. `பட்டை நாமம்` and `கட்டு விபூதி` refer to conspicuous Vaishnavite and Saivite forehead marks. `இனாம்தாரிகள்` were holders or beneficiaries of revenue-free land grants. A short OCR-damaged sentence about the decline of caste and religious frenzy is translated from its recoverable syntax; the Tamil source remains unchanged.

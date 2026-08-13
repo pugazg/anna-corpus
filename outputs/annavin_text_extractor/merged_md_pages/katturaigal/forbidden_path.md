@@ -1,0 +1,1 @@
+../../md_pages/katturaigal/forbidden_path.md

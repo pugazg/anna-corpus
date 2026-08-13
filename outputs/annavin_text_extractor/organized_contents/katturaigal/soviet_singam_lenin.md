@@ -1,0 +1,1 @@
+../../md_pages/katturaigal/soviet_singam_lenin.md

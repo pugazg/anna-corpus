@@ -1,0 +1,1 @@
+../../md_pages/sorpozhivugal/periyar_thantha_kadaisi_pattam.md

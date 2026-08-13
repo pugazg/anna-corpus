@@ -1,0 +1,80 @@
+# வெள்ளி முளைக்குது / The Morning Star Is Rising
+
+**Tamil title:** வெள்ளி முளைக்குது  
+**English title:** The Morning Star Is Rising  
+**Source:** <http://www.annavinpadaippugal.info/kavithaigal/velli_mulaikkuthu.htm>
+
+## Source Tamil (verbatim)
+
+ராகம்: பூபாளம்; தாளம்: ரூபகம்
+தூங்கிய திராவிட வீரரே எழுமினோ!
+துயர்மிகு வாழ்வினைத் துரிதமாய்த் துடைமினோ!
+தீங்குள்ள ஆரியர் தீமைகள் இழைத்தனர்;
+தேன்மொழி திராவிடர் சீர்குலைந் தாழ்ந்தனர் (தூங்)
+குமரிமுதல் இமயக் குன்றுவரை வாழ்ந்திட்டோம்
+கூனில்லா உள்ளத்தால், குலவி கைக்கூட்டிட்டோம்
+பேதமும், பீடையும் பேடியும் அன்றில்லை.
+பெருமிதமாய் வாழ்ந்தோம் பேசவும் கூசுதே (தூங்)
+சேரனும், சோழனும், செம்மல் பாண்டியனாரும்
+சீலராய் வீரராய்ச் செங்கோ லோச்சினரன்று
+செந்நெல்மணி நிலத்தில் சிந்துகள் பாடிநின்று
+சந்தன வாடையெனச் செந்தமிழ் பரப்பினோம்! (தூங்)
+ஒன்றே குலமென்றோம் நாம்ஒருவனே தேவனென்றோம்
+ஓங்கார மூர்த்திக் கன்றுஒய்யார மில்லை யென்றோம்
+ஆங்கார ஆரியர் அலைந்து திரிந்தவர்கள்
+ஆபாச நியதிகள் அவர்வாழப் புகுத்தினார். (தூங்)
+கத்திகட் டாரிகொண்டு களத்தினில் நின்றிட்டோம்
+கயவரைக் காய்வோரைக் கண்டதுண்ட மாக்கினோம்
+பெருநெறி பிடித்திட்டோம் பெரியோராய் வாழ்ந்திட்டோம்
+பித்த சித்தங் கொண்டது பேத ஆரியராலே. (தூங்)
+கண்மூன்று கொண்டாலென்? காட்டும்கண் கணக்கின்றிக்
+காட்டுக, காட்டிடின் கருத்துக் கோளாறுதான்
+என்று கலங்காது எடுத்துரைத்தான் நக்கீரன்.
+இயல்பு அதுதான் தமிழ்ஏற்றமும் அதுவேதான்! (தூங்)
+வேள்வியெனும் வரையில் வேதியர் நமைத்தள்ளி
+வேதபுராண மென்றால், வேலெனத் தர்ப்பை கொண்டார்.
+வீணரின் விபரீத வித்தை யில்வீழ்ந் திட்டோம்.
+விகசித பரிமள நாட்டைநாம் இழந்திட்டோம் (தூங்)
+கண்டோம் ஆரியர்தம்மை, கவலைகொண்டோம் மிகவும்
+கால்கை விலங்கில்லை, கருத்துக்கு விலங்குண்டு.
+கட்டறுப்போ மின்று, காளைகள் ஆவோம்நன்று,
+களம்போக நேர்ந்தாலும் கலங்கோம் கலங்கோமென்று (தூங்)
+வெள்ளி முளைக்குது! வெண்தாடி அசையுது!
+வீணரின் விலாவெல்லாம் வேதனை மீறுது
+வெள்ளையரும் அதிரவெடி வேட்டுக் கிளம்புது.
+வேதியக் கூட்டமெல்லாம் வியர்த்தின்று விழிக்குது (தூங்)
+ஈரோட்டுப் பாதையாம் ஈ.வெ.ரா. மர்க்கமாம்
+இனம்போற்றும் பார்ப்பனர்க்கு இனிக்காது, இனிக்காது!
+இன்னல் அகற்றி நாமும் இகசுகம் பெறஇனி
+இதனையே நமதாவி எனக்கொண்டு எழும்புவோம் (தூங்)
+தமிழ்நாடு தமிழர்க்கே, என்பதே தத்துவம்
+தமிழ்வாழ்வு நம்வாழ்வு தடையில்லை! தாழ்வில்லை!!
+தளுக்கர் மிடுக்கர் இனித்தலை காட்டக்கூடாது!
+தந்திரம் பலிக்காது; தருணம் தருணம் சொன்னேன்! (தூங்)
+(விடுதலை 15.07.1940)
+
+## English Translation
+
+Awaken, sleeping Dravidian heroes! Quickly wipe away this life of sorrow. Harmful Aryans committed evils, and honey-tongued Dravidians declined and lost their distinction.
+
+We lived from Kumari to the Himalayas, with unbent hearts, mingling and joining hands. There was then no division, affliction, or cowardice. We lived proudly; it shames us even to speak of our present state.
+
+Chera, Chola, and noble Pandya ruled justly as virtuous warriors. Singing in fields of gemlike red rice, we spread classical Tamil like the fragrance of sandalwood.
+
+We said humanity was one community and God was one. The wandering, arrogant Aryans introduced obscene rules for their own survival. We stood on battlefields with blades and weapons and cut down cruel villains. We followed the great path and lived with greatness; our minds became deranged through divisive Aryan influence.
+
+“What if he has three eyes? Show the fault with countless eyes; if it is shown, it remains an error of thought,” Nakkiran declared without fear. That is Tamil character and Tamil greatness.
+
+In the name of sacrifice, Vedic priests pushed us aside; at the mention of Veda and Purana they took up darbha grass like a spear. We fell into the perverse tricks of idlers and lost our blossoming, fragrant land.
+
+We have now recognized the Aryans and are deeply troubled. Our hands and feet bear no chains, but thought is chained. Let us break the bonds today, become strong bulls, and declare that even if we must enter the field, we shall not tremble.
+
+The morning star rises; the white beard moves. Pain pierces the ribs of the idle. A blast begins that makes even the white rulers tremble, and the priestly crowd wakes sweating.
+
+The path is Erode's path, E. V. Ramasamy's way. Brahmins who exalt their own community will not find it sweet. To remove suffering and gain worldly well-being, let us rise, making this way our very soul.
+
+“Tamil Nadu for Tamils” is the principle. Tamil's life is our life - no obstacle, no degradation. The showy and arrogant must no longer raise their heads. Intrigue will not succeed; I have said so at every moment.
+
+## Translator's Notes
+
+`வெள்ளி முளைக்குது` literally describes Venus/the morning star appearing and signals dawn. `வெண்தாடி` invokes Periyar's white beard. The source Tamil remains verbatim despite several compressed compounds.

@@ -1,0 +1,716 @@
+# எங்கே? எங்கே? / Where? Where?
+
+**Tamil title:** எங்கே? எங்கே?  
+**English title:** Where? Where?  
+**Source file:** `katturaigal/engae_engae.md`
+
+## Source Tamil (verbatim)
+
+- Source image folder: `/Users/pugazhendhirajendran/Documents/Codex/2026-07-09/https-www-annavinpadaippugal-info/outputs/annavin_text_extractor/ocr_images/katturaigal/engae_engae`
+- OCR language: `tam`
+- Tesseract page segmentation mode: `3`
+- OCR cleanup: `enabled`
+
+## Image 1: 001-4262690253.png
+
+- Image: `katturaigal/engae_engae/001-4262690253.png`
+
+எங்கே? எங்கே?
+
+“எங்கே, தோழனே! இரண்டு
+வாரங்களாக உன்னைக் காணோம், எங்கே
+சென்றிருந்தாய்? எங்கே ஜோலி?" என்று
+வீரன் கேட்டான். நீங்களுந்தான் கேட்பீர்கள்
+என்று எண்ணுகிறேன், நாம் சந்தித்து இரண்டு
+மூன்று வாரங்லாகி விட்டன!
+சந்திக்கவில்லையானாலும் சந்திக்காமல்
+இருந்துவிட்டேஜென்று நினைக்க
+வேண்டாம். ஆழ்ந்திருந்தேன் சிந்தனையில்,
+அயர்ந்து விடவில்லை, மகிழ்ச்சியுடன்
+இருந்தேன், மறந்துவிடவில்லை, காரணம்,
+தமிழர் வாழ்விலே, நல்ல துளிர்விடக்
+கண்டதுதான்! மாணவ உலகெனும்
+மலர்த்தோட்ட மணம், கம்மென்று வீசும்
+போது, மகிழ்ச்சி மனதிலே எழாதிருக்குமோ!
+இரண்டு வாரங்களாக மாணவர்களின்
+மணியாரம் தாங்கி மடல் வெளி வந்ததால்,
+நான் என் வேலையை நிறுத்தி
+வைத்திருந்தேன், இதோ தொடங்கிவிட்டேன்.
+
+“எங்கே?” என்று வீரன் என்னைக்
+கேட்டதும். எனக்கு, இந்த அழகான பதத்தின்
+அபூர்வமான நிலைமை நினைப்பிலே
+நர்த்தனமாடலாயிற்று. சிறுசொல், அதைச்
+செருகி வைக்கும் விதத்தால், சுவையும்
+சோகமும், நகைப்பும் நாணமும், கோபமும்
+குதூகலமும் உணர்ச்சிகள் பலவும் உலவக்
+காணலாம். எங்கே கொஞ்சம் நீங்களே,
+சிந்தியுங்கள், இந்த எங்கே என்ற பதத்தின்
+தன்மையைப் பற்றி! எங்கேயோ ஆரம்பித்து
+எங்கேயோ போகிறேன் என்று நீங்கள்
+எங்களே எண்ணிவிடுகிறீர்களோ, என்று
+எங்கேயின் அருமை பெருமைகளை
+இங்கேயே உரைத்திடுகிறேன், வேறு எங்கும்
+சென்று நீங்கள் தேட வேண்டாம்.
+
+”எகே மூக்குக்கண்ணாடி, எடு இப்படி”
+
+எங்கே?
+
+என்று கேட்டுப் பெற்று ஏடு
+படிப்போரானாலும், “எங்கேயோ வைத்தேன்
+காணவில்லையே" என்று ஏட்டைத் தேடிடும்
+இளைஞரானாலும். “எங்கே இப்படிக்
+கொஞ்சம் கொடுங்கள் படித்துவிட்டுத்
+தருகிறேன்” என்று இரவல் கேட்கும் இங்கிதக்
+கொலைஞன் ஆனாலும், எங்கே
+இருப்பவரானாலும், இந்த எங்கே என்ற
+பதத்தை அணிகலனாகக் கொண்ட பல
+கருத்துக்களை, எண்ணிப் பார்க்காமலிருக்க
+முடியுமா!
+
+இதே நேரத்தில், பட்டுக்கோட்டையிலே,
+பரமார்த்திகத்தை நம்பும் பக்தசிகாமணிகள்,
+“எங்கே அந்த பிரம்மஸ்ரீயைக் காணோம்?"
+என்று பேசுவர் என்பது எனக்குத் தெரியும்.
+யாரோ ஒரு பராணப் பிரசங்கியாராம்,
+இராமாயண காலட்சேபம் செய்ய
+அழைக்கப்பட்டிருந்தாராம் பட்டுக்கோட்டை
+இராமபக்தர்களால். பிரசங்காமிருத மகா
+வித்வானின் பிரசாதத்தை உண்டு, பிறவி
+எனும் பிணிக்கு மருந்து கொண்டு, உய்ய
+வேண்டினர் போலும், அந்த இராமதாசர்கள்.
+அது குறித்து எனக்குக் கவலையில்லை.
+அருள்பெற, ஊசிமுனைமேல் நின்று தவம்
+செய்தவரும், நெருப்புக்குண்டத்திலே
+நின்றவரும் நீரில் மூழ்கியவரும், மற்றும்
+நினைக்கொணாதன செய்தோரும்,
+இருந்தனராமே, இவர்கள் பாபம், செவியிலே
+சத்தத்தை விழச்செய்து முக்திக்கு வழிகோல
+முயன்றனர், போகட்டும், என்றுதான் நான்
+இருக்க எண்ணுவேன். ஆனால் காலம்
+இருக்கிறது, அது இத்தகையவரின் காதைப்
+பிடித்திழுத்துத் தலையில் குட்டிக் கேட்கிறது.
+“ஏ! மடத்தனத்திற்கு மண்டியிடும் மக்களே!
+உலகிலே செய்ய வேண்டிய காரியம்
+
+217
+
+## Image 2: 002-a9f45599f2.png
+
+- Image: `katturaigal/engae_engae/002-a9f45599f2.png`
+
+எவ்வளவோ இருக்க உம்மைச் சுற்றிலும்
+எத்தனையோ இழிவுகள் கிக்க, அவைகளைப்
+பற்றிக் கவலை செலுத்தாமல், மூக்தி தேட
+முயலுவதும், அதற்காக முணுமுணுப்பதும்,
+முப்புரி காலில் விழுவதுமாக இருக்கின்றீரே,
+இது அறிவுடைமையாகுமா” என்று.
+உணர்ச்சியால் உந்தப்பட்டு.
+கஷ்டநஷ்டத்தைப் பற்றிக் கவலையற்று,
+கொள்கைக்குட்பட்டு, ஏழையைக் கண்டால்
+அனலிடுமெழுகென உருகும் தன்மையும்,
+எதிர்ப்பைக் கண்டால், எஃகுபோன்ற உறுதி
+கொள்ளும் தன்மையும் கொண்ட மனம்
+உடையவராய்ப் பணிபுரிவதில் விருப்பமும்
+படாடோபத்தல் வெறுப்பும் கொள்ளும்
+இயல்பினராய் உள்ள வீரவாலிபர்களைத்
+தானே, காலம் என்ற தளபதி தனது
+படையிலே வைத்துள்ளான். பட்டுக்
+கோட்டைப் படையினர் தட்டுக்கெட்டுத்
+தடுமாறும் போக்கினராக மக்களையாக்கிடும்,
+புரணாப் பிரசங்கங்கள் நடக்கப்
+போவதறிந்தனர். என்னே! இன்னமும் இந்த
+நிலையை வளரவிடலாகுமோ என்று
+யோசித்தனர், என் செய்தனர்? எந்தக்
+கம்பராமாயணத்தைப் பற்றிப் பாகவதர்
+பிரசங்கம் செய்ய இருந்தாரோ, அதே கம்ப
+இராமாயணத்தின், போக்கையும் ஆரியருக்கு
+அது விளைவிக்கும் ஆக்கத்தையும்,
+அறிவீனத்துக்கு அது அளிக்கும்
+ஊக்கத்தையும் பொதுமக்களுக்கு எடுத்து
+விளக்கிவிட வேண்டும், அங்ஙனம்
+செய்துவிட்டால், பொது மக்கள், இப்புராணப்
+புளுகரின் போக்கைக் கண்டிக்கப் புறப்படுவர்,
+மக்களின் நேரமும் நினைப்பும் செல்வமும்
+பாழாகாது என்று எண்ணிய இளைஞர்கள்,
+பட்டுக்கோட்டையிலே, கம்ப இராமாயணக்
+கண்டனக் கூட்டம் ஏற்பாடு செய்தனர். ஊர்
+முழுதும் இச்செய்தியை முழக்கமிட்டனர்.
+பார்த்தார் புராணிகர்! வழக்கமாக,
+
+இதுபோலப் புராணம் படிக்கச் சென்றால்,
+படியை ஆழாக்காகக் காய்ச்சிச் சீனியும்
+சேர்த்துச் சிறிதளவுக் குங்குமப் பூவும் கலந்து,
+தங்கவளை தாண்டவமாட, வைரம் ஒளிவிட,
+மேனியின் அழகு பராக்குக் கூற, வெள்ளிச்
+செம்பிலே, காய்ச்சிய பாலை ஊற்றி எடுத்துச்
+செல்லும் காரிகையரும், காணிக்கை தந்து
+காலைத்தொட்டுக் ம்பிடும்
+கனதனவான்களும், அனுமாரின் வீரப்
+பிரதாபங்களைக் கேட்டு அம்பியின்
+சேட்டைகளை அதனுடன் ஒப்பிடும்
+அம்மாமிகளும் பத்துத்தலை இராவணன்
+இராமனின் பட்டமகிஷியை, “இச்சைக்
+கினியவளே! பவள இதழினளே! உன்னைநான்
+அடைந்தே தீரவேண்டும், உன்மீது
+எனக்குள்ள மோகம், கைலையைவிடப்
+பெரிது, என்பெருமூச்சோ, எரிமலை கக்கும்
+கொடிய அக்கினியையும் சாதாரணமான
+தென்று எண்ணிடச் செய்யும் விதமாக
+இருக்கிறது. தங்கக்கட்டிலிலே, மலர்தூவிய
+பஞ்சணையிலே நாமிருவரும் கொஞ்சி
+விளையாடும் காலம் என்று வருமோ, மாதே!
+மாதரசி! மணியே!" என்றெல்லாம் வருணித்து
+ஆசைமொழி காட்டினான் என்று, புராணிகர்
+படிக்கும் போது “உண்மைதான்! பெண்ணை
+வசியப்படுத்த இந்த ஆண்கள்
+இதுபோலத்தான் பேசுவது வழக்கம்” என்று
+அனுபவத்தை ஆதாரமாகக் கொண்டு கூறும்
+ஆரணங்குகளும் உபசாரம் செய்வதைக்
+கண்டதுண்டு. இது கண்டறியாக்
+காட்சியாகவன்றோ இருக்கிறது, வாலிபர்கள்
+கண்டிக்கக் கிளம்பிவிட்டார்களே, அவர்கள்
+எதிர்க்க ஆரம்பித்து விட்டால், அடக்
+முடியாதே என்று புராணிகர் எண்ணி
+ஏங்காதிருக்க முடியுமா!
+
+ஆப்பை அசைத்துவிட்டு வாலறுபட்ட
+குரங்கு, வாலை இழக்குமுன்பே புத்தியை
+
+218
+
+## Image 3: 003-039c4d8209.png
+
+- Image: `katturaigal/engae_engae/003-039c4d8209.png`
+
+இழந்துவிட்டது. எனவேதான், ஆப்பை
+அசைத்தது. சில அப்படி இராது.
+முன்னெச்சரிகையோடு நடந்து கொள்ளும்.
+மனிதரிலும் இப்படித்தான். சிலர் ஆழம்
+தெரியாது காலைவிட்டுவிடுவர், பிறகு
+“ஆற்றுவாரில்லை, தேற்றுவாரில்லை ஐயோ
+நான் என்ன செய்குவேன்” என்று அழுவர்.
+சிலர், எண்ணித் துணிக கருமம் துணிந்தபின்
+எண்ணுவமென்பதிழுக்கு என்று வேலைத்
+திட்டமுடையவர். பட்டுக்கோட்டையிலே
+புராணம் படிக்க வந்தவர், யூகத்தோடு நடந்து
+கொண்டார். வம்பை விலை கொடுத்து,
+வாங்குவானேன் என்ற யோசித்தார்.
+தன்மானத் தோழர்களிடம் சென்று கூறினார்.
+'நான் புராணம் படிக்க வரவில்லை' என்று,
+காரில் ஏறினார், தஞ்சை சென்றார்.
+குத்துவிளக்கைத் துடைத்துவை!
+குங்குமப் பரணையைத் தேடிப்பார்!
+அகல்விளக்கை அடுக்கி வை! அக்காரவடிசல்
+செய்துவை! செம்பில் நீரைவை சந்தனத்தை
+வட்டிலில்வை।! கற்கண்டு கொண்டுவா!
+தாம்பூலமும் வரட்டும்! என்று
+கட்டளைகளைப் பிறப்பித்துக் கொண்டிருந்து
+புராண உபன்யாசத்தை ஏற்பாடு செய்த
+பேர்வழிகளின் முகம், எப்படி இருந்திருக்கும்,
+உபன்யாசகரின் ஓட்டத்தைக் கேட்டு.
+அதுபோதாதென்று தன்மானத்தோழர்கள்
+தங்கள் கூட்டத்தையும் நடத்தினர், கம்ப
+இராமாயணத்தால விளைந்த கேட்டினை
+ஊராருக்கு எடுத்துரைத்தனர். இவ்வளவு
+ஆபாசம் அதிலே இருப்பதனால் தான்
+போலும், ஏடுபடிக்க வந்த புராணிகர்
+எடுத்தார் பெருநடை! என்று மக்கள்
+பேசாதிருக்க முடியுமோ! இது இத்திங்கள்
+15ந்தேதி நடந்ததாம் பட்டுக்கோட்டையிலே.
+ஆங்காங்கு கம்பஇராமாயண உபன்யாசம்
+செய்து வாழும் நாவாணிபர்கள், நிலையை
+
+நன்கு கவனித்து, நாட்டுக்கும் காலத்துக்கும்,
+அறிவுக்கும், ஆண்மைக்கும் ஏற்றதான
+காரியத்திலே ஈடுபடவேண்டுகிறேன். எங்கே
+அவர்களா என் பேச்சைக் கேட்பவர்கள்!
+"எங்கே காணோமே உபன்யாசர்?” என்று
+பட்டுக் கோட்டைப் பக்தர்கள் தேடிட
+வேண்டிய நிலைமை ஏற்பட்டதே, அதுமற்ற
+இடங்கட்கும், வாராமற் போகாது, நாம்
+கேளாமல் இருக்கப் போவதில்லை. எங்கே
+இருந்தாலென்ன, இது எங்கும் இனி
+நடைபெறக் கூடியது தான் எத்தனை
+நாட்களுக்குத் தான் ஏனோதானோ என்று
+இருக்க முடியும், நமக்கென்ன என்று இருக்க
+முடியும்.
+
+எங்கேயோ ஒருகதை படித்ததாக
+எனக்குக் கவனம். இவன் சொல்லி நான்
+கேட்பதா? என்ற மனப்போக்கு கொண்ட
+ஒரு மதியிலி, தன்நண்பன் எவ்வளவோ
+தடுத்தும், நீ தடுப்பதென்ன நான் அதற்குக்
+கட்டுப்படுவதென்ன என்று சொல்லிக்
+கொண்டே முள்வேலியிலே பாய்ந்து
+உடலெங்கும் இரத்தக்களரியாகிப் பிறகு
+ஓலமிட்டானாம். அதுபோலச் சிலர்
+கம்பஇராமாயணத்தை இவர்கள் கண்டிப்பது,
+இதை நாம் மதிப்பதா? என்ற பெருமதி
+கொண்டு, நாங்கள் பிடித்த பிடியை விடவே
+மாட்டோம், மாறுபாடு பேசினால் செவிதரவே
+மாட்டோம் என்று பாடிக்கொண்டு, அந்த
+ஏட்டைக் சுமந்து கொண்டு இருக்கின்றனர்.
+அவர்கள் இஷ்டம் என்றுதான்
+என்போன்றவர்கள் இருப்பர், இனி
+வாலிபர்களும் அதே போலிருப்பர் என்று
+ள்ன்னால் உறுதி கூற முடியுமா, இதோ
+சென்னையிலே. கம்பர் விழா கொண்டாடப்
+போகிறார்களாம், படித மணி இருக்கிறாரே
+கதிரேசர். அவர் தலைமையிலே பொருள்
+வேண்டுமாம்! இத்தனை தடவை
+
+219
+
+## Image 4: 004-c0b9d9405e.png
+
+- Image: `katturaigal/engae_engae/004-c0b9d9405e.png`
+
+நடத்தியதைவிட அதிக விமரிசையாக
+நடத்தப் போகிறார்களாம்! நடத்தட்டும்
+பாவம், இந்த நானிலத்திலே எத்தனை
+எத்தனையோ காரியம் நடந்தபடிதான்
+இருக்கிறது. இவைகளிலே பல. நாகரிக
+மக்களுக்குப் பிடிக்காது. ஏன், சட்டம் ஒப்புக்
+கொள்ளாத காரியங்களுங்கூடத்தான்
+சந்தடியின்றி நடந்துவரக் காண்கிறோம்.
+குலைக்கும் குக்கல், கூவிடும் காலி, கதறிடும்
+நீலி, கானத்தைப் பழிக்கும் கர்த்தபம்,
+ஊளையிடும் ஓநாய், உளறிடும் குடியன்,
+
+கூத்தாடும் பித்தன், நடுநிசியில்
+சுவர்துளைக்கும் கள்ளன்,
+வேலியைத்தாண்டும் விபசாரி,
+
+வழிபறிக்காரன், வலியவம்புக்கு நிற்பவன்,
+என்ற இன்னேரன்ன பிறநடமாடும்
+நானிலத்திலே, ஏதேதோ நடக்கும்,
+எதைத்தடுப்பது எதை அடக்குவது, என்று
+எனக்குச் சில சமயங்களிலே சலிப்புத்
+தோன்றுவதுமுண்டு.
+விழாக்கொண்டாடும்
+நாட்டுவளம், இயற்கை எழில் முதலியன
+பற்றிக்கசிந்து கண்ணீர் மல்கினால் எனக்குக்
+கோபம் வராது. புலவர் பெருமக்களைப்
+போற்ற வேண்டுவதும், கலையின் சுவையைப்
+பருக வேண்டியதும் முறைதான். ஆனால்
+கம்பனின் கவிதாத்திறனை இரண்டாந்
+தரமானதாகக் கருதிக் கொண்டு
+இராமநாமமே கற்கண்டு அதை அறியாதான்
+தலையிலே கற்குண்டு என்று பஜனை பாடிடும்
+“ரஜனைப்" பிரியர்கள் கிளம்புகிறார்களே,
+
+கம்பர்
+கண்ணியர்கள்,
+
+என்பதே எனக்குண்டாகும் கவலை.
+சென்னைக்கம்பர் விழாக்காரரின்
+மனப்போக்கு எனக்குத் தெரியாது, ஆனால்
+அவர்கள் அதனை நடத்திக் காட்டும் தன்மை
+அதனை நாட்டுக்குத் தெரியப்படுத்தும் என்று
+நம்புகிறேன். ஆனால், ஒன்றுமட்டும்
+கூறுவேன், அவர்களின் உள்ளத்துக்குப் புண்
+
+சமுதாயத்துக்குப்
+20
+
+உண்டாக்க என்பதற்காக அல்ல,
+உலகப்போக்கை அவர்கள் உணரவேண்டும்
+என்ற கருத்தினால், நாடு நலிந்திருக்கிறது,
+இதற்கு ஆதாரம் காட்டத் தேவையில்லை.
+தற்குறித்தனத்தைத் துணையாகக் கொண்டு
+தரித்திரம் இங்கு தாண்டவமாடுகிறது.
+இதற்குத் தர்க்கம் தேவையில்லை என்று
+எண்ணுகிறேன். எச்சில் இலையை இழுக்கும்
+நாயுடன் மிச்சத்தைக் கெளவும் நாய்,
+சண்டையிட இரண்டையும் எதிர்த்து
+அடித்துத் துரத்திவிட்டு, இலையை வழிக்கும்
+வீரனும், இந்நாட்டவர், நம் இனத்தவர்,
+இதனைச் சித்தரிக்கத் தேவையில்லை, சித்தம்
+சிதையும். சேலையில் பாதியை உடலில்
+சுற்றிக் கொண்டு மற்றப் பாததியைத்
+துவைத்து காற்றில் உலர வைக்கும்
+மாதர்களைக் காண்கிறோம். வறுமையின்
+கோரம், வகைவகையாகத் தெரிகிறது. இந்த
+வறுமை வளரத் தற்குறித்தனம்
+துணையெவ்தைக் காண்கிறோம்.
+தரித்திரத்தைத் துரத்த வேண்டுமானால்
+தற்குறித்தனத்தைத் தொலைக்க வேண்டும்.
+தற்குறித்தனத்தை வளர்ப்பதுடன்
+தெகிடுதத்தக்காரரிடம் தெளிவில்லாதாரைச்
+சிக்க வைக்க, இன்று புராண அறிவு
+பயன்படுகிறது, பயன்படுத்தப்படுகிறது.
+பழமை எனும் புழுநெளியும் பழமாக
+இருக்கிறது புராணங்கள. பகுத்தறிவை மக்கள்
+எட்டி போலக்கருதவும், மாறுதல் என்ற உடன்
+மருளவும், விஞ்ஞானம் என்ற சொல்
+கேட்டாலே விசாரப்படவுமான நிலைமை
+நீடித்திருக்கக் காரணம், புராணங்கள் புகட்டும்
+புல்லறிவிலே, மக்கள் இன்னமும் புரண்டு
+கொண்டிருப்பதுதான். எனவே, எங்கே
+எந்தவிழா கொண்டாடினாலும், இந்தப்
+புராணப் புல்லடறிவைப் போக்க ஒரு சிறு
+பொறிகிளப்பினாலும் அவர்கள்,
+பலனுள்ள செயல்
+
+## Image 5: 005-e74ec61751.png
+
+- Image: `katturaigal/engae_engae/005-e74ec61751.png`
+
+புரிந்தவரென நான் மத்திடுவேன்.
+பாராட்டுவேன். மாறாக, எந்தவிழா எங்கே
+நடப்பினும், அதிலே கதிரேசர்கள் தலைமை
+
+தாங்கினாலும், திகிலேசர்கள் திறந்து
+வைத்தாலும் அந்த விழா மூலம், புராணப்
+புல்லறிவு ஆதரிக்கப்பட்டும்,
+
+வளர்க்கப்பட்டும் வருமானால், அந்த
+விழாக்கள், ஏமாற்றுத் திருவிழாக்ள்.
+ஏமாளிகளை இரக்கமின்றி வஞ்சிக்கும்
+எத்தர்களின் . திருவிழாக்கள் என்றே
+கருதுவேன்.
+
+“ஏ! அப்பா! நீ கருதுவபற்றி எமக்குக்
+கவலை என்ன! யாம்யாரென அறியாய்
+கொல்! சங்கத்தமிழின் சாறுபருகிய எம்மிடம்
+சாயாது உனது செய்ல, நில். சந்தம்
+இயற்றவல்லையோ சற்றுச்சொல்” - என்று
+கேட்பர் சில புலவர் பெருமக்கள் என்பது
+எனக்குத் தெரியும். என் கருத்து மிகப்பெரிய
+மதிப்புடையது என்று கூறும் அளவு நான்
+தெளிவற்றவனல்ல. நான் எடுத்துக் கூறுவது
+வாலிப உள்ளம். அதனை, அளந்திடவும்
+மதிப்பிடவும், அன்பர்கள் முயலவேண்டும்.
+வாலிப உலகம், இதுநாள்வரை, இந்த
+வீணுரைகளைக் கேட்டது போதும்,
+படமுடியாதினித் துயரம் பட்டதெல்லாம்
+போதும் என்று கூறுகிறது. அதைத்தான் நான்
+கூறுகிறேன் புராணப்பிரியர்களுக்கு.
+பொய்யுரைகளைக் கேட்டுக் கேட்டுச்
+சலித்தோம், அறிவீனமான செயல்களை
+அருள் நடத்தை என்று முலாமிட்டுத்
+தந்தீர்கள், கண்டுகளைப்படைந்தோம், இனி
+இத்தகைய ஆபாச, அறிவற்ற,
+பொய்யுரைகளை ஆயிரத்துக்கு ஆதரவு
+தரும் கருத்துரைகளை நாங்கள் நாட்டிலே
+பரப்பவிடமாட்டோம், உறுதி, உறுதி என்று
+வாலிப உலகம் முழக்கமிடுகிறது. அதனைப்
+புராணிகரின் உலகுக்கு நான் உரைக்கிறேன்,
+
+உலகறிந்து ஒழுகும் பண்பு ஓரளவாவது
+அவர்களிடம், இருக்கும் என்ற
+நம்பிக்கையால். எங்கே, இந்த புராணிகர்
+இந்த என் நம்பிக்கையையும் தங்கள்
+நடவடிக்கையினால் பொய்யாக்கி
+விடுகின்றனரோ என்ற ஐயமும் உண்டு.
+ஆயினுமென், அறிந்திடுவர் என்று
+சொல்கிறேன், அவர், அறியாதார் என்பதைக்
+காட்டிக் கொள்வதிலே ஆர்வமுள்ளவராக
+இருப்பின், இதுகளிடம் நமக்கென்ன வேலை,
+என்று கூறிவிட்டுச் செல்கிறனே, உலகம்
+பெரிது! புராணங்களின் மூலம் புல்லறிவே
+பரவுகிறது என்று நான் கூறியது,
+காரணத்தோடு, கோபத்தோடு அல்ல.
+மக்களின் வாழ்க்கைக்கு இன்றியமையாத
+எவ்விஷயத்துக்கும், அறிவுப் பொருததத்தை
+அறவே அகற்றிய அனியாயமே,
+புராணங்களால் புகட்டப்படுகின்றன.
+கடவுளைப் பற்றிய கதைகள் உளவே,
+காதுக்கு நாராசம், கருத்துக்குக் கடுவிஷமாகப்
+புராணங்களிலே அமைந்துள்ளன. ஒரு
+கடவுளேனும், காமாந்த
+காரமகற்றியதாகவோ, பிறன்மனை நுழையும்
+பா தகமில்லாதாரகேவோ
+சிருஷ்டிக்கப்படவில்லை, புராணம்
+எழுதினவர்களால். ஆண்டவனுக்கே
+இந்தக்கதி. என்றால், அடியார்களைப் பற்றி
+அதிகம் கூறுவானேன், இன்று நமது
+புலவர்கள், எவ்வளவு பாடுபடுகின்றனர், அந்த
+அடியார்களின் செயல்களைப் பற்றி
+அறிவுலகம் ஆராய்ச்சியின் பயனாகக்
+கேள்விகள் கேட்கும்போது
+கள்ளக்கையொப்பமிட்டவனுக்கு வழக்கு
+நடாத்த இசைந்த வக்கீல், இரவு தூங்காது,
+பகலில் படுக்காது பசி இழந்து, நண்பர்
+கூட்டம் துறந்து, பொய்யை மெய்யாக்க,
+அநீதியை நீதியாக்கப்பல ஏடு புரட்டிப்
+
+221
+
+## Image 6: 006-5502bcafc9.png
+
+- Image: `katturaigal/engae_engae/006-5502bcafc9.png`
+
+பதத்தை உருட்டி, மாற்றானின் மனதை
+மருட்டி, எப்பாடு பட்டேனும், வழக்கை
+வென்றே தீரவேண்டும் என்று துடிப்பது
+போலல்லவா நமது புராணப் புலவர்கள்
+பழைய ஏடுகளுக்குப் புதுப்பொருள்
+உரைத்தும், மறைபொருள் உண்டு அதை
+உணரமதி வேண்டும் அருள்நிதிவேண்டும்,
+என்று புகன்றும், அறிவே போதுமென்றிராதே
+உணர்வு என்று ஒன்று உண்டு, அதை
+விண்டிடவோ முடியாது. விட்டிடவோ கூடாது
+என்று பேசியும், அடியார் காதைகளுக்கும்
+ஆண்டவனின் செய்லகளுக்கும், பகுத்தறிவுப்
+பாசறை பூட்டும் பாணம் தைக்காதிருக்கத்
+தமது புலமை எனும் போர்வை
+பயய்னபடுமா என்று பார்க்கின்றனர். எங்கே
+இருக்கும் புலவரானாலும் எந்தப்
+புராணத்தையேனும் எடுத்து அலசி,
+அவரிடம் கேட்டுப்பாருங்கள், இப்படி இதிலே
+எழுதி இருகின்றதே, இது அறிவாகுமா
+அருளாகுமா, புத்தி ஏற்குமா, அறிவுலகம்
+ஆதரிக்குமா, நாகரிகமா நல்லோர் செயலா,
+என்று கேளுங்கள், பிறகு பாருங்கள்,
+அவர்களின் அகம் படும்பாடு முகத்திலே
+தெரிவதும், ஆதாரம் இல்லாததால்
+அகங்காரம் பிறப்பதும், வாதம்புரிய
+வழிஇல்லாததால் வசைமொழிவதும்,
+வேடிக்கையாக இருக்கும், பார்க்க. சிலர்
+பகுத்தறிவாளர்களின் கேள்விகளுக்குப்
+பதில்கூறும் முறை, பட்டுக்கோட்டையிலே
+கட்டி விட்டேன் கடையை என்று
+கூறினாராமே ஒருமுப்புரி, அதுபோன்ற
+முறையிலே இருக்கும். சிலருடைய முறை
+பண்டிதமணி பேசினாராமே
+தூத்துக்குடியிலே, அதுபோலக் கடவுளே!
+இதுகளுக்குக் கூலி கொடு என்று சாபமிடுவது
+போன்றதாக இருக்கும். வேறுசிலர்
+கண்டபோது குழைவர் காணாப்போது
+பொழிவர். மற்றும் சிலர், மதிவேண்டும்
+
+நின்கருணை நிதி வேண்டும் என்ற
+பாசுரம்போல, இதற்கெல்லாம் நீண்டநேரம்
+வேண்டும் நிம்மதியும் வேண்டும்,
+இப்போதோ அவசரமாய் நான்
+போகவேண்டும், என்று கூறுவர்.
+திரு.வி.கலியாணசுந்தரனார்
+போன்றோர்களோ, பூண்பனவும்
+புனைவளவும், பூசுவனவும் பிறவும் எடுத்துப்
+பிணத்துக்குச் சூட்டியும் கட்டியும் பூசியும்,
+பக்க நின்று பரிமளம் வீசிடும் என்
+பார்த்திபனே! என்று புலம்பும் இழவு
+இல்லத்தார்போல, இன்றைய அறிவெனும்
+பேழையைத் திறந்து, நல்லன பல எடுத்து,
+நாறும் பழமைக்கு- இட்டுக்கட்டி, நல்ல
+குரலிலே, செல்லத்தமிழிலே செப்புவர்
+பழமையின் பெருமை பற்றி. ஒவ்வொன்றும்
+ஒவ்வொரு துறை எனினும், இவர்
+யாவருக்கும் ஒருகுறை :பொதுவாக
+அமைந்திருக்கிறது, நாப்பறைக்கு வேலை
+இலாது போகுமே இந்த நாலெட்டுப்
+புராணங்கள் ஒழிந்து போனால், என்ற பயம்
+இருக்கிறதே, அதுதான் இவர்கள்
+அனைவருக்கும் பொதுவாக உள்ள குறை.
+
+தெளிவாகவே கூறுகிறேன். புலவர்கள்
+பொன்வீடுகட்டி வாழட்டும், போகப்புனலில்
+நீந்தி விளையாடட்டும், புவியரசர் சிவிகை
+தாங்கும் நிலைபெற்றக் கவி அரசர்களெளத்
+திகழட்டும், மகிழ்வேன், மனத்தாங்கல்
+கொள்ளேன். ஆனால் மக்களின் மதியை
+மாய்த்து, இவர்களின் புலமை துலங்க
+வேண்டுமானால், நான் சகியேன், நாடு
+சகியாது, காலம் இனி இதற்கு இடங்கொடாது,
+புலமை பொலிவுற விளங்கட்டும், அது
+பூசுரருக்கு வீசும் சாமரமாகா திருக்கட்டும்
+என்ற நிபந்தனையை, விழிப்புற்ற இனத்
+விதித்தே தீரும். அதனை மீறுவது
+துடுக்குத்தனம் என்று நான் கூற
+
+222
+
+## Image 7: 007-07b360e6ea.png
+
+- Image: `katturaigal/engae_engae/007-07b360e6ea.png`
+
+நினைக்கவில்லை, பேதைமை என்று
+கூறுவேன், சில சமயம் துடுக்குத்தனத்தை
+விடப் பேதைமையால் இழிவு அதிகமாக
+விளையும். எந்தப் புலவரை
+வேண்டுமானாலும் எவ்வளவு
+வேண்டுமானாலும் புகழட்டும் விழாக்ளிலே,
+ஆனால், மக்களின் மனத்தை மங்கச் செய்யம்
+மதியற்ற கதைகளையும் கருத்துக்களையும்
+மண்மூடச் செய்ய வேண்டும். கல்லுங்கரையும்
+மண்ணும் உருகும் இவர் கவிதையால் என்று
+எவரை வேண்டு மாயினும் புழ்ந்து பேசட்டும்,
+அங்ஙனம் பேசுவதால் இவர்களின் சத்தம்
+நாட்டிலே, கேட்கட்டும் நமக்கொரு
+நஷ்டமில்லை, ஆனால், அவர்களின்
+கற்பனைகளை, கடவுட் கொள்கையாக்கவும்,
+மதக்கட்டளையாக்கவும், ஒழுக்கவழியாகக்
+காட்டவும் கூடாது, அது செயல் அடாது.
+அடாது செய்தோருக்குக் காலம் தக்க
+தண்டனை தருமாம்!
+
+"தூதைந்து நாழிகையில், ஆறு
+நாழிகைதனிற்
+சொற்சந்தமாலை சொல்லத் துகளிலா
+அந்தாதி ஏழுநாழிகை தனிற்
+பரணியொருநாள் முழுதுமே
+பாரகாலியமெலாம்
+ஓரிருதினத்திலே பகரக்கொடி"
+காளமேகங்களாக்
+கொளலுவீற்றிருக்கட்டும், ஆனால்,
+ஆரியக்குற்றேவலராகி, அவர்கட்கு
+அடைப்பந்தாங்கும் பேர்வழிகளாகமட்டும்,
+இருக்கக்கூடாது. அந்நிலை அடைந்தோரை;
+தமிழகத்தின் களை என்றே வாலிபர்
+கருதுகின்றனர்.
+
+கட்டிடும்
+
+எங்கேயோ, ஏதோ நடக்கிறது
+நமக்கென்ன என்று இருக்கும், நாடி
+முறுக்கற்ற “நல்லவர்கள்” சிலருண்டு,
+ஆடவரிலும் பெண்களிலும், பரத்தையை
+
+நாடிச்சென்ற பதியைப்பற்றிப் பத்தினி
+ஒருவள் பாடினாளாம்,
+
+“எங்கே இருந்தாலும்,
+
+என் துரை, சாமிக்கென்
+
+மீதினில் பட்சம்
+
+இருக்குமடி அன்னமே!"
+என்று, அதுபோல, நமது இனத்தவர்தானே.
+அவர்கள் எங்கே இருந்தாலென்ன, எது
+உரைத்தாலென்ன, என்று என்றும் எங்கும்
+எவரும் கருதுவர் என்று கூற முடியாது
+ஒருகாலம் வருகிறது. விரைவாக! எங்கே!
+ஆரிய அடிவருடிகள் எங்கே? பாசுரம்பாடி
+அவர் பாதத்தை நாடிய துடைநடுங்கிகள்
+எங்கே? பணத்தைப் பாழாக்கிப்
+பார்ப்பனியத்தைப் பராமரித்த சீமான்கள்
+எங்கே? இசையால் அவரை இன்புறுவித்து,
+பிறந்த இனத்தின் இழிவுக்குக் காரணமாக
+இருந்து கைத்தாளமிட்டுக் கனராகம் பாடிய
+கானமணிகள் எங்கே? பித்தர் போலபேசவும்
+ஆடவும் மக்களைக் காட்சியால் மயக்கிய
+கூத்தர்கள் எங்கே? பொய்யைப்
+புகழ்ந்துரைத்து, மெய்யை மறைத்து,
+புலமையிலே மட்டுமே நாட்டம் கொண்டு
+மக்கள் நிலைமை பற்றிய நினைப்பை மறந்து
+ஆரியரிடம் தஞ்சம் புகுந்து, கொஞ்சு
+மொழியை அவர்களுக்கு மஞ்சமாக்கிய
+பஞ்சைகள் எங்கே? என்று கோபத்துடன்
+கேட்கும், வீரர்கள் உலவக் காணத்தான்
+போகிறோம். அந்த எங்கே! எங்கே!! எனும்,
+பேச்சு எழுமுன்னம், பக்குவமாக நடக்கும்
+மனப்பான்மையை யாகிலும், பாவாணர் எனும்
+பட்டம் பெற்றுள்ளோம் என்று கருதிப்
+பூரிக்கும் நாவாணிபர்கள் பெற வேண்டும்.
+பட்டுக்கோட்டையிலே நடந்ததாமே ஒரு
+சம்பவம், இவை போன்றவைகளாவது, பாடம்
+தருமாக!
+
+(19.3.44 திராவிட நாடு)
+
+223
+
+## English Translation
+
+"Where have you been, comrade? We have not seen you for two weeks. Where did you go? Where was the work?" Veeran asked. I imagine you too would ask, for two or three weeks have passed since we met.
+
+Do not suppose that, because we did not meet, I remained idle. I was deep in thought, not exhausted; happy, not forgetful. The reason was that I saw a healthy shoot emerging in Tamil life. Can happiness fail to arise when the fragrance of the flower garden called the student world spreads richly? For two weeks a publication bearing the jewelled garland of the students appeared, so I suspended my work. Here I begin again.
+
+When Veeran asked, "Where?" the remarkable nature of that lovely word began dancing in my mind. It is a little word, yet according to where it is placed, flavour and sorrow, laughter and shame, anger and delight, and many other emotions move through it. Come now, think for yourself about the character of the word "where." Lest you suppose I began somewhere and am going somewhere else, I shall describe the word's greatness right here; you need not seek it elsewhere.
+
+Whether it is someone saying, "Where are my spectacles? Give them here," before reading a journal; a young man searching, "I left the journal somewhere, but cannot find it"; or a courteous killer asking to borrow it, "Here, please give it to me for a moment; I shall return it after reading," can anyone anywhere avoid reflecting upon the many ideas adorned by this word?
+
+At this very time in Pattukkottai, I know the devout believers in otherworldly doctrine must be asking, "Where is that Brahmasri? We do not see him."
+
+It seems a Puranic preacher had been invited by Rama's devotees in Pattukkottai to deliver a Ramayana discourse. Those servants of Rama apparently wished to consume the sacred offering of the great scholar's nectar-like sermon, find medicine for the disease called birth, and attain salvation. That does not trouble me. People seeking grace are said to have stood upon needle points, entered fire pits, immersed themselves in water, and done things beyond imagination. These poor people merely tried to let sound fall into their ears and thereby open the way to liberation. I might have said, let them.
+
+But Time seizes such people by the ear, knocks them on the head, and asks: "People who kneel before folly, when there is so much work to be done in the world and so much degradation around you, is it wisdom to ignore it all, seek liberation, mutter prayers, and fall at the feet of the sacred thread?"
+
+The commander called Time has in his army heroic young people driven by feeling, unconcerned by hardship and loss, disciplined by principle, melting like wax before the poor but hardening like steel before opposition, eager for service and hostile to ostentation.
+
+The Pattukkottai contingent learned that Puranic discourses were about to turn people into confused and stumbling creatures. They asked whether this condition should still be allowed to grow. They decided to explain to the public the tendency of the very Kamba Ramayanam upon which the Bhagavatar intended to discourse, the advantage it brought Aryans, and the encouragement it gave ignorance. Then the public would condemn the Puranic fabricator, and people's time, thought, and wealth would not be wasted.
+
+The young people therefore arranged a meeting in Pattukkottai condemning the Kamba Ramayanam and proclaimed it throughout the town.
+
+The preacher saw what was happening. Ordinarily, when a Puranic recital is held, elegantly adorned women bring boiled milk in silver vessels, sweetened and scented with saffron; wealthy patrons give offerings and bow at his feet; mothers compare Hanuman's heroic feats with their own Ambi's mischief; and experienced women listen as Ravana describes his desire for Rama's crowned queen and remark that men commonly speak that way when trying to captivate a woman.
+
+But this was an unfamiliar scene: young people had risen in opposition. Once they began, they could not easily be restrained. How could the preacher fail to worry?
+
+The monkey that pulled the wedge lost its tail because it had already lost its judgment. Some people are not like that; they act cautiously. Some step into a river without knowing its depth and later cry that none will save or console them. Others follow a plan: think before acting, for thinking only after action is disgrace.
+
+The preacher who came to Pattukkottai acted shrewdly. Why purchase trouble? He went to the Self-Respect comrades and said, "I have not come to read the Purana," entered a car, and left for Thanjavur.
+
+What faces must the organisers have worn when they heard of his flight, after ordering the brass lamp polished, kumkum box found, clay lamps arranged, sweet rice cooked, water placed in the vessel, sandal paste set in a dish, sugar candy fetched, and betel prepared?
+
+Nor did the Self-Respect comrades stop there. They conducted their meeting and explained the harm caused by the Kamba Ramayanam. Could the people avoid saying that the preacher must have fled because the book contained so much obscenity? This occurred in Pattukkottai on the fifteenth of that month.
+
+I ask those who earn their living delivering Kamba Ramayanam discourses from place to place to study the situation and undertake work suited to the country, the age, reason, and dignity. But where are those who will listen to me?
+
+Pattukkottai devotees were forced to search, asking, "Where is the preacher?" The same condition will reach other places. We will not remain silent. Wherever it happens, it can happen everywhere now. How long can people remain indifferent and say, "What is it to us?"
+
+I recall reading somewhere of a fool who thought, "Why should I listen merely because this fellow tells me?" Though his friend repeatedly stopped him, he cried, "Why should your restraint bind me?" and leapt into a thorn fence. Covered in blood, he then wailed.
+
+Likewise some, too proud to respect criticism of the Kamba Ramayanam, sing that they will never loosen their grip or hear dissent, and continue carrying the book. People like me may say it is their choice. Can anyone guarantee that young people will remain equally indifferent?
+
+A Kambar festival is reportedly to be held in Madras with Pandithamani Kathiresar presiding, more grandly than ever. Let them conduct it. Countless things happen in this world; civilised people dislike many of them, and even acts the law rejects proceed quietly. In a land containing barking dogs, howling idlers, wailing pretenders, donkeys that insult music, wolves that howl, drunkards who babble, madmen who dance, thieves who pierce walls at midnight, adulterers who cross fences, highway robbers, and men who provoke needless quarrels, I sometimes grow weary wondering what can be stopped and restrained.
+
+I do not object when festivals praise the country's prosperity and natural beauty with tears of emotion. Honouring great poets and savouring art is proper. My concern arises when admirers treat Kamban's poetic genius as secondary and sing devotional songs proclaiming Rama's name to be sugar candy and a stone missile for the head of anyone who does not know it.
+
+I do not know the outlook of the Madras Kambar-festival organisers, but how they conduct it will reveal that outlook to the country. I say only this, not to wound them but so they may understand the movement of the world.
+
+The country is impoverished; no evidence need be supplied. Poverty dances here with illiteracy as its companion. We see people of our own country and community fighting dogs for food from discarded leaves, and women wrapping half a sari around themselves while washing and drying the other half. Poverty reveals its horror in many forms, and illiteracy helps it grow. To drive out poverty, illiteracy must be destroyed.
+
+Puranic knowledge is used today both to cultivate illiteracy and to trap the unclear-minded in the hands of swindlers. The Puranas are rotting fruits within which the worm called antiquity writhes. People still roll in the petty knowledge they teach; that is why they regard rationalism like poison, panic at the word change, and become distressed merely upon hearing "science."
+
+Therefore, wherever a festival is celebrated, if it strikes even a small spark toward removing Puranic ignorance, I shall esteem and praise it as useful. Conversely, wherever a festival is held, whether presided over by Kathiresars or opened by some other dignitary, if it supports and cultivates Puranic ignorance, I shall regard it as a festival of fraudsters who mercilessly deceive fools.
+
+I know some eminent poets will ask: "Why should we care what you think? Do you know who we are? Your work cannot prevail against us who have drunk the essence of Sangam Tamil. Stop. Can you compose metre? Recite a little."
+
+I am not so confused as to claim extraordinary value for my own opinion. I give voice to the mind of youth; friends must attempt to measure and assess it. The young world says it has heard enough idle stories and endured enough unbearable suffering. That is what I tell lovers of the Puranas.
+
+Youth proclaims: "We are tired of hearing falsehoods. You plated irrational acts with the appearance of divine conduct and gave them to us; we have suffered. We will no longer permit obscene, ignorant falsehoods and doctrines supporting Aryan domination to spread through the country. This is certain."
+
+I convey this to the Puranic world because I trust it retains at least some capacity to understand the world and act accordingly. I also wonder whether its conduct will prove even that hope false. Still, I say it will understand. If its members are eager to demonstrate ignorance, the world will say, "What business have we with them?" and move on. The world is large.
+
+I say with reason, not anger, that the Puranas spread petty ignorance. They remove intellectual coherence from every matter essential to human life. Their stories of gods offend the ear and poison thought. Puranic authors created scarcely a god free from lust or the sin of entering another's household. If this is the condition of the gods, why say more of their devotees?
+
+When the intellectual world asks research-based questions about those devotees' conduct, our Puranic scholars labour like lawyers who accept the case of a forger: sleepless by night, restless by day, abandoning food and friends, turning pages and twisting words to make falsehood true and injustice just, determined at any cost to win.
+
+They assign new meanings to old texts, proclaim hidden meanings requiring intelligence and grace, and say knowledge alone is insufficient because an indescribable feeling must neither be explained nor abandoned. They test whether the cloak of scholarship can protect devotees' tales and divine acts from the arrows of rational inquiry.
+
+Take any Purana to any scholar anywhere and ask: "This is what the book says. Is it reason or grace? Can intelligence accept it? Will the learned world support it? Is it civilised or the act of good people?" Then watch the struggle appear upon the scholar's face, arrogance arise from lack of evidence, and abuse emerge because argument is impossible.
+
+Some answer rationalists as did the sacred-thread wearer in Pattukkottai: "I have closed the shop." Some resemble Pandithamani at Tuticorin, cursing, "God, pay these fellows their due." Others become meek in one's presence and declaim in one's absence. Still others say, like a hymn asking for wisdom and grace, that all this requires time and peace, but they must leave urgently now.
+
+People such as Thiru. Vi. Kalyanasundaranar open the casket of modern knowledge, take out many good things, fasten them upon foul-smelling antiquity, and praise its greatness in fine voice and sweet Tamil, like mourners decorating a corpse with ornaments and perfume and crying, "My fragrant king!"
+
+Their methods differ, but all share one fear: if these few Puranas disappear, their tongues will lose employment.
+
+Let poets build golden mansions, swim in pleasure pools, and shine as kings of poetry whose palanquins earthly rulers carry. I shall rejoice without resentment. But if people's intelligence must be destroyed for their scholarship to glitter, neither I nor the country will tolerate it, and the age will no longer permit it. Let learning shine, but let it not become a ceremonial fan waved for Brahmins. An awakened people will impose that condition.
+
+To violate it is not merely insolence but folly; folly can produce greater disgrace. At festivals they may praise any poet as much as they please, but mind-darkening stories and ideas must be buried. They may proclaim that a poet's verse melts stone and soil; no loss comes merely from their voices being heard. But poetic imaginings must not be turned into theology, religious command, or a code of morality. That cannot be permitted. Time will punish those who attempt it.
+
+Let them sit enthroned as Kaalamegams capable of composing verse with astonishing speed, as the quoted boast declares. But they must not become servants of Aryans or attendants carrying their ceremonial gear. Youth regards those who reach that condition as weeds in Tamil Nadu.
+
+There are still some nerveless "good people," both men and women, who say, "Something is happening somewhere; what is it to us?" A faithful wife is said to have sung of the husband who visited a courtesan:
+
+> Wherever he may be,
+> my lord and master
+> will still hold affection
+> for me, dear swan!
+
+But we cannot say that everyone everywhere will forever think, "They are members of our community; what does it matter where they are or what they say?" Another age approaches rapidly.
+
+We shall see heroes angrily asking: Where are the Aryan foot-lickers? Where are the trembling servants who sang hymns and sought their feet? Where are the wealthy men who wasted money maintaining Brahminism? Where are the singers who delighted them with music, beat time, and sang weighty ragas while causing the degradation of the community into which they were born? Where are the performers who spoke and danced like madmen and bewitched people with spectacle? Where are the wretches who praised falsehood, concealed truth, cared only for scholarship, forgot the people's condition, took refuge with Aryans, and made sweet Tamil a couch for them?
+
+Before the cry "Where? Where?" arises, those traders in words who proudly bear the title poet should acquire at least the maturity to act wisely. May incidents such as the one reported from Pattukkottai teach them a lesson.
+
+(*Dravida Nadu*, 19 March 1944)
+
+## Translator's Notes
+
+The Tamil word `எங்கே` means `where`, but in several conversational constructions it also functions like `come now`, `let me see`, or `here`; the translation follows each context while retaining the repeated `Where?` motif. `புராணிகர்` is rendered as `Puranic preacher` and `நாவாணிபர்` literally as `trader in words` where the satire depends on the expression. The long metrical boast near the close is partially corrupted in OCR and difficult to reproduce literally; its stated function, praise of rapid poetic composition associated with Kaalamegam, is translated conservatively. The printed title and publication date were restored from the scans.

@@ -1,0 +1,524 @@
+# அவர்கள் உள்ளம் / Their State of Mind
+
+**Tamil title:** அவர்கள் உள்ளம்  
+**English title:** Their State of Mind  
+**Source file:** `nadagangal/avargal_ullam_1.md`
+
+## Source Tamil (verbatim)
+
+- Source image folder: `/Users/pugazhendhirajendran/Documents/Codex/2026-07-09/https-www-annavinpadaippugal-info/outputs/annavin_text_extractor/ocr_images/nadagangal/avargal_ullam_1`
+- OCR language: `tam`
+- Tesseract page segmentation mode: `3`
+- OCR cleanup: `enabled`
+
+## Image 1: 001-8450674d7c.png
+
+- Image: `nadagangal/avargal_ullam_1/001-8450674d7c.png`
+
+அவர்கள் உள்ளம்
+
+நாடு, அன்னியராட்சியில் சிக்கிவிடும்போது, தெளிவும்
+வீர உணர்ச்சியும் கொண்ட யாரும், விடுதலைப் போர் தொடுக்க
+வேண்டுமென்பதிலே அக்கரை காட்டுவர். அந்த அக்கரையின்
+பயனாக, தமக்குள் உள்ள ஜாதிமத குல வேறுபாடுகளையும்
+மறப்பர்; சீறிப் போரிடுவர் எதிரிகளுடன்; வெற்றிக்காக
+உழைப்பர்; தியாகத் தீயில் குதிப்பர்; தாயகத்தின் தளைகள்
+பொடிபட வேண்டுமென்பர்; மற்ற விஷயங்கள் முக்கியமல்ல
+என்று கூறுவர்.
+
+வெற்றி கிட்டியதும், அதுவரை மூடி போட்டு வைக்கப்பட்
+டிருந்த வேற்றுமைகள், பேதங்கள் தலைதூக்கத் தொடங்கும்.
+
+நமக்குள் பேதமா! நமக்குள் வேற்றுமையா! என்று
+உருக்கமாகப் பேசுவதால் மட்டும், உபதேசம் செய்வதால்
+மட்டும், இந்த உணர்ச்சியை உருக்குலைத்துவிட முடியாது.
+
+பேதங்கள் உள்ள வரையில், பேதங்களால் ஏற்படும்
+உணர்ச்சியும் இருந்தே தீரும்.
+
+போர்க்காலத்து ஒற்றுமையை, வெற்றிக்குப் பிறகு காண
+முடியாது. ஏனெனில் வெற்றியின் விளைவுகளை, நாட்டுக்கு
+ஏற்பட்ட புது வாழ்வின் சுவைகளை, அனைவரும் சமமாக
+அனுபவிக்க விரும்புவர். அப்போது ஜாதிபேதம் எனும் பழைய
+முறையை ஆதாரமாகக் கொண்டு, உயர்ந்த வகுப்பினர் விடுதலை
+பெற்ற நாட்டிலே விசேஷ சலுகைகள் பெற்று வாழ்வு நடத்த
+விரும்பினால், மற்ற வகுப்பினரின் மனம் நோகாமலிருக்க
+முடியாது. எனவே சமத்துவம் கோருவர்.
+
+எங்ஙனம் ஒரு நாடு மற்றோர் நாட்டினிடம் அடிமைப்
+படுவதால் நலிகிறதோ, அதே போலவேதான் அடிமைத்
+தனத்திலிருந்து விடுபட்ட பிறகு, அந்த நாட்டிலேயே ஜாதி
+முறையினால் சிலர் ஆதிக்கக்காரர் ஆவதால், மற்றவர்களுக்கு
+வாழ்வில் நலிவு ஏற்படும்.
+
+## Image 2: 002-e1e58f789a.png
+
+- Image: `nadagangal/avargal_ullam_1/002-e1e58f789a.png`
+
+அன்னிய ஆதிக்கத்தை எதிர்த்தொழிக்க விடுதலைப் போர்
+நடத்தியது போலவே, உள்நாட்டிலேயும் ஜாதி உயர்வு பேசும்
+உலுத்தர்களின் ஆதிக்கத்தையும் எதிர்த்தொழிக்கும் விடுதலைப்
+போர் தேவைப்படுகிறது.
+
+நம் நாட்டில் இன்று நடைபெறுவது இந்தப் போர்தான்.
+இந்தப் போர் ஓர் தொடர்கதை. இந்திய பூபாகத்தில் பல்வேறு
+பகுதிகளில் உயர்ஜாதிக்காரர்கள் தமது ஆதிக்கத்தை
+அவ்வப்போது திணித்திருக்கிறார்கள்; ஒவ்வோரிடத்திலும் இந்த
+ஆதிக்கத்துக்கு எதிர்ப்பு ஏற்பட்டே இருக்கிறது.
+
+மராட்டிய மண்டலம், மொகலாய அரசு முழுப்
+பொலிவுடன் வளர்ந்ததும், தேய்ந்து கிடந்தது.
+
+மாவீரன் சிவாஜி கிளம்பினான்; முரசு கொட்டினான்;
+மாவீரர் படை திரண்டது, மாற்றார் கண்டு மருளும் அளவுக்கு.
+
+அப்போதும் அங்கு உயர்ஜாதிக்காரர்களின் உள்ளமும்
+செயலும், மற்றவர்களின் எண்ணத்துக்கு மாறுபட்டதாகவே
+இருந்தது.
+
+“போர்! போர்! தாயகத்தின் விடுதலைக்காகப் போர்!”
+என்று முழக்கமிட்டனர் இலட்சக்கணக்கான வீரர்கள்.
+
+“போராம், போர்! நாட்டிலே ஒரே ரகளை!
+கொலைக்களமாகிறது நாடு! செல்வம் இப்படிப் பாழாகிறது!”
+என்று சோகித்தனர் உயர்ஜாதியினர்.
+
+குருடனும் நொண்டியும் கூட, “நாம் சாவதற்கு நேரமில்லை!”
+என்று கூறி, நாட்டு விடுதலைக்குப் பணி புரிந்தனர்; தம்மால்
+முடிந்ததை, தமது கடைசி மூச்சு இருக்கும் வரை.
+
+அப்போதும் யாகம், பிராயச்சித்தம், ஹோமம், ஜெபதபம்
+என்ற பழையனவற்றையே பிரமாதமானதாகக் கருதினர் உயர்ஜாதியினர்.
+
+“உயர்ஜாதி!” என்று கூறி உரிமை கொண்டாடிய
+பார்ப்பனரின் மதக் கோட்பாடுகளை மறுத்து, சமரசஞானம்
+பேசினர் சாதுக்கள் மராட்டியத்தில். அவர்கள் மறுமலர்ச்சியின்
+தூதர்கள். அவர்களிடம் உயர்ஜாதியினருக்கு மிக மிக அலட்சியம்.
+“விதண்டாவாதிகள்! குதர்க்கவாதிகள்! நிரீஸ்வரவாதிகள்!
+நாஸ்திகர்கள்!” என்றெல்லாம் சாதுக்களை நிந்தித்தனர்.
+
+அந்த நாட்களிலே, ஒரு புறம் வீரர் விடுதலைப்
+போருக்காக உழைத்தனர்; மற்றோர்புறம் உயர்ஜாதிக்காரர்...
+
+## Image 3: 003-e8088ab114.png
+
+- Image: `nadagangal/avargal_ullam_1/003-e8088ab114.png`
+
+தங்கள் ஆதிக்கத்துக்காக வேலை செய்தனர். அந்த நிலைமையை
+விளக்கும் சில உரையாடல்களைக் கீழே தந்திருக்கிறோம்.
+
+காட்சி - 1
+
+இடம்: மராட்டிய வீரன் விடுதி.
+
+காலம்: மாலை.
+
+பாத்திரங்கள்: குருடான வீரன் தேவாஜி, முடமான வீரன்
+லோகாஜி.
+
+[கத்தி சாணை பிடிக்கும் இயந்திரம்; கத்திகள் குவியலாக
+இருக்கின்றன. குருடன் இயந்திரக் கைப்பிடியைச் சுழற்றுகிறான்;
+முடவன் கத்தியைக் கூர்தீட்டுகிறான். வீராவேசப் பாடலுடன்
+கத்தியைத் தீட்டிக் கொண்டே இடையிலே ஓய்ந்து...]
+
+லோகாஜி: தேவாஜி! வேகமாகச் சுற்று! வீரத்தோடு சுற்று!
+கூர்தீட்டப்பட்ட வாட்களைக் குவிப்போம். மராட்டிய
+மணிகளின் கண்களிலே வீரக்கனல் கக்குவது போலச் சாணைக்
+கல்லிலே இருந்து பொறிகள் பறக்கின்றன.
+
+தேவாஜி: (சுற்றுவதை நிறுத்திவிட்டு) லோகாஜி! மராட்
+டிய மண்டலத்திலே சுதந்திர தீபம் ஏற்றி வைக்கப்படும் நேரத்தில்,
+ஆண்டவன் என் தீபங்களை அணைத்துவிட்டான். நான்
+எப்படிக் காண்பேன் தியாகத் தீப்பொறிகளை? லோகாஜி!
+காலிழந்த நீ பாக்கியசாலி; கண்ணிழந்த நான் எதையும் காண
+முடியாது. அந்த வாளைக் கண்டு, ஒளியைக் கண்டு மகிழ
+முடியாது. போர்க்களத்திலிருந்து திரும்பும் நமது சகோதரரைக்
+காண முடியாது! மராட்டிய நாட்டிலே மலர்ச்சி இருப்பதைப்
+பார்க்க முடியாது! லோகாஜி! நமது ஜெயவீரசிம்மம் சிவாஜியைக்
+காண முடியாது. நான் ஏன் வாழ வேண்டும்? வீண்! வீண்!
+
+லோகாஜி: தேவாஜி! உனக்குமா சுயநல உணர்ச்சி!
+தியாகமூர்த்தியாகிய உனக்குத் தந்நலம் இருக்கலாமா? உன் கண்
+போனால் என்ன? நீ காட்சிகளைக் காண முடியாது; அதுதானே
+உன் குறை.
+
+தேவாஜி: நான் காண வேண்டாமா? நம் நாட்டு விடுதலை
+வீரர்களின் முகவிலாசத்தைக் காண வேண்டாமா? “நாம்
+யார்க்கும் குடியல்லோம், நமனை அஞ்சோம், மாற்றான் முன்
+மண்டியிடோம், மராட்டிய மண்டலத்திலே ஜெயக்கொடி நாட்
+டியே தீருவோம்” என்று பரணி பாடும் வீரர்களைக் காண
+வேண்டாமா? லோகாஜி! பயிரிட்ட கழனியிலே விளையும்
+மணியை, வளர்த்த மரத்திலே குலுங்கும் பழத்தை, பெற்றெடுத்த...
+
+## Image 4: 004-639b2ebbc5.png
+
+- Image: `nadagangal/avargal_ullam_1/004-639b2ebbc5.png`
+
+குழந்தை தவழ்ந்து விளையாடுவதைக் காண யார்தான் துடிக்க
+மாட்டார்கள்? களத்திலே ஊண் உறக்கம் மறந்து, உற்றார்
+பெற்றார் மறந்து என் காதலியையும் மறந்து, நான் உலாவிய
+போது எதை எதைக் காண வேண்டுமென்று நினைத்தேன்
+தெரியுமா? மராட்டிய வீடுகளிலே மகரதோரணங்களை! ஊருக்கு
+ஊர் வானளாவப் பறக்கும் வெற்றிக் கொடிகளை! அக்கொடி
+களுக்கு வீரவணக்கம் செய்யும் ஆட்வரை! அவர்களை வாழ்த்தி
+வரவேற்கும் அரணங்குகளை! அனைவரும் சென்று வணங்கும்,
+அஞ்சா நெஞ்சன் சிவாஜி அரியாசனம் ஏறுவதை! இவைகளைக்
+காண எண்ணினேன்.
+
+லோகாஜி: எண்ணினாய்! கண்ணை இழந்தாய், காண
+முடியாது. ஆனால் கவலையை விடு தேவாஜி! நீ காண
+வேண்டுமென்ற காட்டுகள், மராட்டிய மண்டலத்திலே அமைக்கப்
+பட்டு விட்டன. மகிழ்ச்சி தரும் செய்திகளைக் கேட்க உனக்குச்
+செவி இருக்கிறது. காட்சிகள் எப்படி இருக்குமென யூகித்துக்
+கொள்ளச் சிந்தை இருக்கிறது, உயிரை விடுவானேன் உத்தமனே!
+ஒப்பற்ற தியாக புருஷனாகிய உன்னைக் கண்டால் அன்றோ
+மராட்டிய மண்டலமே எழுச்சியுறும். நீ இறக்கலாமா? இலட்சிய
+புருஷனாக வாழ்ந்திரு! மராட்டியப் புது யுகத்தின் தூதனாக இரு,
+நீ காண முடியாது காட்சிகளை, ஆனால் உன்னை மராட்டியர்
+காண முடியும், உன்னைக் கண்டால் அவர்கள் எவ்வளவு
+பெருமை அடைவர்! உன் உருவம், கோழையை வீரனாக்கும்,
+உன் வரலாறு பூனையைப் புலியாக்கும், மேலும் கண் இழந்த
+நீயும், கால் இழந்த நானும், உடல் உறுப்பு எது இழந்தவனும்
+இன்று மராட்டியத்துக்குத் தேவை! கருத்து இழந்தவனைத் தவிர
+மற்றவர்கள் யாவரும் தேவை! எல்லோருக்கும் வேலை இருக்கிறது.
+எல்லோரும் தேசப் பணி செய்ய முடியும், ஒர் உறுப்புப்
+போனால் மற்றொன்றால்! இது விடுதலைப் போர்க்காலம்,
+விசாரத்துக்குக் காலமல்ல, நாம் சாவதற்கு நேரம் இல்லை.
+தேவாஜி! நாம் வாழ வேண்டும், நமது நாட்டை வாழவைக்க.
+
+[மீண்டும் சாணை இயந்திரத்தைச் சுற்றுகிறார்கள்.]
+
+களம் சென்று போரிட்டு, கண்ணையும் காலையும்
+தாய்நாட்டின் விடுதலைக்குக் காணிக்கையாகத் தந்தனர்
+இவ்வீரர்கள். இனி களம் செல்ல முடியாது - எனினும், களம்
+செல்வோருக்குப் பணி புரிவதும், நாட்டுப்பணிதான் என்பதை
+உணர்ந்து, வாட்களைக் கூர்தட்டித் தருகிறார்கள். நாட்டுப்பற்று
+
+## Image 5: 005-2397778638.png
+
+- Image: `nadagangal/avargal_ullam_1/005-2397778638.png`
+
+மிக்க இவர்களின் தொண்டு இவ்விதமிருக்க, மராட்டியத்திலே
+மற்றோர் பக்கம் உயர்ஜாதிக்காரர்களின் உள்ளம் என்ன செய்து
+கொண்டிருந்தது என்பதைக் கவனிப்போம்.
+
+[வேம்புவும் சம்புவும் குளத்தங்கரையருகே உட்கார்ந்து
+கொண்டு ஜோதிட சாஸ்திர ஆராய்ச்சிப் பேச்சிலே ஈடுபட்ட
+வண்ணமிருக்கிறார்கள்.
+
+மரத்தடியிலே ஒரு சாது உட்கார்ந்துகொண்டு
+சிந்தனையில் ஆழ்ந்தவராயிருக்கிறார்.
+
+தொலைவிலே சம்மட்டிச் சத்தம் கேட்டபடி இருக்கிறது.]
+
+சம்பு: ஓய்! நாலாமிடத்திலே கேதுவும் மூணாமிடத்திலே
+சனியும் இருந்தா பலன் என்ன?
+
+வேம்பு: அப்படி இருக்கவே முடியாதே.
+
+ச: ஓய்! உமக்குச் சொல்லத் தெரியல்லேன்னா... (சத்தத்தைக்
+கேட்டு முகத்தைச் சுளித்தபடி) இது வேறு பிராணனை
+வாங்கிண்டிருக்கா, தட்டு தட்டுன்னு தட்டிண்டு. உமக்குத்
+தெரியலேன்னா தெரியாதுன்னு சொல்லிவிடும். உம்முடைய
+ஞான சூன்யத்தை மறைக்க ஏதேனும் சாக்குப்போக்குப் பேசற
+வித்தையை இந்தச் சம்புவிடம் காட்ட வேண்டாம். சொன்னேன்,
+தெரியறதா...
+
+வே: ஓய், பராசரர் உம்மிடம் பிச்சை கேட்கவேணும்,
+அவ்வளவு பெரிய மேதாவின்னு உம்முடைய எண்ணம்,
+தெரியறதோ! ஆனா அதை இந்த வேம்புவிடம் காட்ட
+வேண்டாம். (சத்தத்தால் வெறுப்படைந்து) அடாடாடா! கொஞ்ச
+நேரம் விச்ராந்தியாக இருக்க விடமாட்டா போலிருக்கே.
+என்னத்தைப் போட்டுத் தட்டிண்டிருக்கா. (மரத்தடியிலே உட்
+கார்ந்திருக்கும் சாதுவைப் பார்த்து) ஏ பண்டாரம்! காவி! காவி!
+(சாது சிந்தனையிலிருந்து கலைந்து அவர்கள் பக்கம் வருகிறார்.)
+காது மந்தமோ?
+
+சாது: இல்லையே... நான்...
+
+ச: ஏதோ கவலையோ! சரி, அதோ எவனோ
+என்னத்தையோ போட்டுத் தட்டிண்டு இருக்கான். கர்ண
+கடூரமா இருக்கு. போய்...
+
+சா: (உற்றுக் கேட்டு) ஆமாம்... தட்டுகிறார்கள்...
+
+ச: எதையோ, எதுக்கோ, எவனோ! இங்கே நாங்க
+கொஞ்சம் வேதாந்த விசாரணையிலே ஈடுபட்டிண்டிருக்கோம்...
+
+## Image 6: 006-1da405b806.png
+
+- Image: `nadagangal/avargal_ullam_1/006-1da405b806.png`
+
+அந்தச் சத்தத்தாலே மனம் கலையறது. அதனாலே போய்
+அந்தச் சத்தத்தை நிறுத்தச் சொல்லு, போ.
+
+சா: அந்தச் சத்தம் உங்கள் சித்தத்தைக் கலைக்கிறதா?
+
+வே: ஆமாம். ஏண்டாப்பா, உனக்கு அதுவே சந்தேகமா
+யிடுத்தோ! ஏன், உன் காதிலே விழலியோ சத்தம்?
+
+சா: இப்போது விழுந்தது.
+
+ச: இப்போதா! இந்தச் சத்தம் ரொம்ப நேரமா இருக்கே.
+ஏன் ஓய், நாம் பரப்பிரம்மத்துக்கும் அண்டசராசரத்துக்கும் என்ன
+விதமான சம்பந்தம் என்கிற விஷயமா பேச ஆரம்பிச்சோமே,
+அப்போதிருந்தே இல்லையோ.
+
+சா: இருந்திருக்கலாம். ஆனால் என் காதிலே விழவில்லை.
+நான் ஏதோ சிந்தனையில் ஈடுபட்டிருந்தேன். சித்தத்தை
+ஒரிடத்திலோ, ஓர் விஷயத்திலோ செலுத்திவிட்டால், வேறு
+சத்தமோ எண்ணமோ புகாதே!
+
+வே: ஓஹோ! மகா மேதாவியோ! சரி, சரி, நீ போ.
+
+சா: கோபம் ஏன் மறையவரே! அந்தச் சத்தத்தைச்
+சாமான்யமென்று எண்ணிவிட வேண்டாம். அது மராட்டிய
+மாதாவின் தளைகள் பொடிபட, வீரர்கள் போரிடும் ஆயுதக்
+கருவிகளைக் காய்ச்சி அடிக்கும் சத்தம். அந்தச் சத்தம் அதிக
+ரித்தால்தான் வெற்றி முழக்கம் மராட்டியத்திலே!
+
+வே: அதிகப்பிரசங்கி!
+
+சா: வேத ஒலி, ஆலய மணி ஓசை, அர்ச்சனைச் சத்தம்,
+இவைகள் எதிரிப்படைகளை ஓட்டவில்லையே...
+
+ச: நிரீஸ்வரவாதி ஓய் இவன், பச்சை நாத்திகன். ஏ பாபி!
+எங்களிடமா உன் பேச்சு பலிக்கும்!
+
+ஓய்! வேம்பு! வீணாக இவனிடம் வார்த்தையாட
+வேண்டாம்.
+
+வே: ஓம்! இந்த மாதிரிப் பண்டாரக் கூட்டத்தார் சிலர்
+இப்போது இங்கே கிளம்பி இருக்கா. அவா மராட்டியத்திலே
+புதிய ஞானத்தைப் பரப்பப் போறாளாம்; பழைய யுகத்தை
+ஒழிக்கப் போறாளாம்.
+
+ச: நாலு ஜாதி கிடையாதாம் ஓய்! கிடையாதாம்! அந்தத்
+தர்மத்தை ஏற்படுத்திய நான்முகனும் கிடையாதாம்! சர்வம்...
+
+## Image 7: 007-f6be781387.png
+
+- Image: `nadagangal/avargal_ullam_1/007-f6be781387.png`
+
+சூன்யமயம் ஜகத் என்று பேசுகிறா. இதுகளோட விஷயம்
+நன்னாத் தெரியும்.
+
+வே: சொப்பனம் காண்றா, சொப்பனம்! பழைய
+யுகத்தை இவாளாலே அசைக்கக்கூட முடியாது...
+
+சாது: நிந்திக்கும் நண்பர்களே!
+
+வே: ஏய்! என்ன திமிரடா உனக்கு! எங்களை நண்பர்
+என்று பேச... நாக்கு அழுகிப்போகும்... நாசமாகி...
+
+ச: எல்லாம் சமம்; ஜாதிபேதம் கூடாது; பக்திதான்
+பிரதானமே ஒழிய பிராமண ஜென்மம் முக்கியமில்லை. இதுதானே
+உங்க கூட்டம் இப்ப பேசிண்டிருக்கிறது.
+
+சா: ஆமாம். இவ்வளவேதான். இதுவா நாத்திகம்?
+
+வே: எந்த யுகமானா இருக்கட்டும். இது சாத்தியமா?
+பிராமண ஜென்மத்துக்காக தவச்சிரேஷ்டாள் எவ்வளவு தர்ம
+சாஸ்திரங்கள், ஸ்மிருதிகள் ஏற்பாடு செய்திருக்கா. அடே,
+அஞ்ஞானி! அவாளெல்லாம் திரிகால ஞானிகளல்லவா!
+அவாளுடைய ஏற்பாட்டைக் கெடுக்க உன்னாலே ஆகுமா?
+
+சா: அந்தத் திரிகால ஞானிகள் இப்படி ஒரு காலம் வரும்,
+நமது ஜென்மபூமியில் மொகலாய ராஜாங்கம் ஏற்படும்னு ஒரு
+வார்த்தை சொல்லவில்லையே, ஸ்வாமிகளே! அவ்வளவு
+வேதபுராண இதிகாசாதிகளிலும்.
+
+வே: முட்டாள்! வேதபுராணாதிகளெல்லாம் இந்த அற்ப
+காரியத்துக்காக அல்ல.
+
+ச: மோட்ச சாம்ராஜ்யத்துக்காகக் கூறப்பட்ட ஞான
+மார்க்கம்.
+
+சா: அதை நான் மறுக்க வரவில்லையே! நானும்
+மற்றவர்களும் ஜாதி கூடாது, பேதம் கூடாது, சமரசம் வேண்டும்
+என்று பேசுவது மராட்டிய சாம்ராஜ்யத்துக்கு... மனித
+சமாதானத்துக்கு.
+
+வே: வாரும் ஓய்! இவாளோடு பேசுவதே பாபம்! ஆளைப்
+பாரும் ஆளை, எப்படி இருக்கான். போய்ப் பட்டாளத்திலே
+சேருவதுதானேடா. படையிலே இருக்க வேண்டியவன்,
+பண்டாரமாகத் திரிகிறாயே...
+
+சா: நான் படையிலேதான் இருக்கிறேன்; அறிவுப்படையில்.
+
+## Image 8: 008-ab5bfd5b49.png
+
+- Image: `nadagangal/avargal_ullam_1/008-ab5bfd5b49.png`
+
+வேம்பு, சம்பு: (கேலியாக) அறிவுப்படையில்!
+
+(போகிறார்கள்.)
+
+(சாது மெள்ளச் சென்று பார்க்க, உலைக்களத்தருகே
+ஆயுதங்களைக் காய்ச்சி அடிக்கிறார்கள்.)
+
+ஆயுதங்களைக் காய்ச்சி அடிக்கும் சத்தமே சம்பு, வேம்பு
+களுக்குக் காதில் நாராசமாக இருக்கிறது! சாது கூறுகிறார்,
+“அந்தச் சத்தம்தானய்யா நாட்டு விடுதலைக்கான சத்தம்” என்று.
+“ஐயர்கள்” அதைக் கேட்டுக் கடுங்கோபம் கொள்கிறார்கள்!
+அவர்கள் மனம் அவ்விதமிருக்கிறது!!
+
+திராவிட நாடு, 11-7-1948.
+
+## English Translation
+
+When a country is trapped under foreign rule, anyone possessed of clarity and heroic feeling will be concerned with waging a war of liberation. As a consequence of that concern, they will forget the divisions of caste, religion and community among themselves; fight the enemy furiously; labour for victory; leap into the fire of sacrifice; demand that the motherland's chains be shattered; and declare all other matters unimportant.
+
+Once victory is obtained, the differences and divisions that had until then been covered over begin to raise their heads.
+
+Merely speaking emotionally or preaching, “Differences among us? Divisions among us?” cannot destroy this feeling.
+
+So long as differences exist, the feelings produced by them will remain.
+
+The unity of wartime cannot be found after victory. Everyone wishes to enjoy equally the fruits of victory and the flavour of the country's new life. If the upper classes then invoke the old caste order and seek special privileges in the liberated country, the other classes cannot avoid feeling wounded. They will therefore demand equality.
+
+Just as a country declines when enslaved by another country, after it is freed from foreign bondage, people within that same country will suffer if caste makes some of them its rulers.
+
+Just as a liberation struggle was required to abolish foreign domination, another liberation struggle is required within the country to abolish the domination of scoundrels who preach caste superiority.
+
+That is the struggle taking place in our country today. It is a continuing story. In different parts of the Indian landmass, upper-caste people have repeatedly imposed their domination, and everywhere that domination has met resistance.
+
+The Maratha realm had declined as Mughal power grew to its fullest splendour.
+
+The great warrior Sivaji arose and sounded the drum. An army of heroes assembled in numbers that bewildered the enemy.
+
+Even then, the thoughts and actions of the upper castes differed from those of everyone else.
+
+Hundreds of thousands of warriors cried, “War! War! War for the motherland's liberation!”
+
+The upper castes lamented, “War, is it? The country is in complete disorder! It is becoming a killing field! Look how wealth is being ruined!”
+
+Even blind and lame people said, “We have no time to die!” and served national liberation as best they could, until their final breath.
+
+Even then, the upper castes considered only the old rites of sacrifice, expiation, fire offerings, prayer and penance to be magnificent.
+
+In Maharashtra, sadhus rejected the religious doctrines of Brahmins who claimed the right to proclaim themselves “upper caste” and preached harmonious wisdom. They were messengers of a renaissance. The upper castes treated them with extreme contempt, reviling them as sophists, perverse disputants, deniers of God and atheists.
+
+In those days, warriors laboured for liberation on one side while upper-caste people laboured for their own domination on the other. Below are a few conversations illustrating that situation.
+
+## Scene 1
+
+**Place:** A home for Maratha veterans.
+
+**Time:** Evening.
+
+**Characters:** Devaji, a blind warrior, and Lokaji, a warrior who has lost a leg.
+
+[There is a sword-sharpening machine and a heap of swords. The blind man turns the machine's handle while the disabled man sharpens a sword. Singing a martial song as he sharpens it, Lokaji pauses.]
+
+**Lokaji:** Devaji! Turn it faster! Turn it heroically! Let us pile up sharpened blades. Sparks fly from the grindstone just as heroic fire blazes from the eyes of Maharashtra's jewels.
+
+**Devaji:** [Stopping the wheel] Lokaji! At the moment when the lamp of freedom is being lit in Maharashtra, God has extinguished my lamps. How can I see the sparks of sacrifice? Lokaji, you who lost a leg are fortunate; I who lost my eyes cannot see anything. I cannot look upon that sword and rejoice in its gleam. I cannot see our brothers returning from the battlefield. I cannot see Maharashtra flowering. Lokaji, I cannot see Sivaji, our lion of victorious valour. Why should I live? It is useless, useless!
+
+**Lokaji:** Devaji, do even you feel selfishly? May an embodiment of sacrifice like you possess self-interest? What if your eyes are gone? Your only grievance is that you cannot see those scenes.
+
+**Devaji:** Should I not see them? Should I not see the faces of our country's freedom fighters? Should I not see the warriors who sing, “We are subjects of none, we fear death, we will not kneel before the enemy, and we shall surely plant the flag of victory in Maharashtra”? Lokaji, who would not long to see grain growing in a field one cultivated, fruit swaying upon a tree one raised, or one's child crawling and playing?
+
+When I moved about the battlefield, forgetting food and sleep, forgetting kith and kin and even my beloved, do you know what sights I wished to see? Auspicious festoons upon Maratha homes; victory flags flying sky-high from town to town; men offering heroic salutes to those flags; women greeting and welcoming them; and fearless Sivaji, whom everyone came to salute, ascending the throne. These are what I wished to see.
+
+**Lokaji:** You wished to see them. You have lost your eyes and cannot. But cast off your grief, Devaji! The sights you wished to see have already been created throughout the Maratha realm.
+
+You still have ears with which to hear joyful news. You have a mind with which to imagine how those scenes will look. Why give up your life, noble man?
+
+Would not the entire Maratha realm be inspired at the sight of you, a peerless man of sacrifice? Can you die? Live as the embodiment of an ideal. Be a messenger of the Maratha new age.
+
+You cannot see those scenes, but the Marathas can see you. How proud they will be! Your figure will turn a coward into a hero; your history will turn a cat into a tiger.
+
+More than that, you who have lost your eyes, I who have lost a leg, and everyone who has lost a bodily limb are needed by Maharashtra today. All are needed except those who have lost their convictions.
+
+There is work for everyone. Everyone can serve the country: if one limb is gone, with another. This is a time of struggle for liberation, not a time for sorrow. We have no time to die. Devaji, we must live in order to make our country live.
+
+[They resume turning the sharpening wheel.]
+
+These heroes went to the field, fought, and offered an eye and a leg to the liberation of their motherland. They can no longer enter the battlefield. Yet, understanding that serving those who go to battle is itself service to the nation, they sharpen swords for them. Such is the service of these patriots. Let us now observe, elsewhere in Maharashtra, what the minds of the upper castes were doing.
+
+[Vembu and Sambu sit beside a pond, engaged in an astrological discussion. Under a tree a sadhu sits immersed in thought. The sound of hammering is heard in the distance.]
+
+**Sambu:** Hey! What is the result if Ketu is in the fourth house and Saturn in the third?
+
+**Vembu:** That configuration is impossible.
+
+**Sambu:** If you do not know how to answer, say so. [He grimaces at the noise.] This other thing is killing us too, hammering away endlessly. If you do not know, admit it. Do not try your excuses for concealing your utter ignorance on this Sambu. Do you understand?
+
+**Vembu:** You imagine even Parasara ought to beg wisdom from you, such a great genius! Do not try that with this Vembu. [Irritated by the noise] Good heavens! It appears they will not let us rest even briefly. What are they hammering? [Seeing the sadhu beneath the tree] Hey, mendicant! Ochre robe! Ochre robe!
+
+[The sadhu is disturbed from his contemplation and approaches.]
+
+Are you hard of hearing?
+
+**Sadhu:** No. I...
+
+**Sambu:** Perhaps you are worried about something. Fine. Someone over there is hammering something for some reason. It is unbearable to the ears. Go...
+
+**Sadhu:** [Listening intently] Yes, they are hammering.
+
+**Sambu:** Someone, something, for some reason! We are engaged here in a little Vedantic inquiry.
+
+That noise distracts our minds. Go and tell them to stop it.
+
+**Sadhu:** Does that sound disturb your minds?
+
+**Vembu:** Yes. Why, has even that become doubtful to you? Did the noise not reach your ears?
+
+**Sadhu:** It reached them only now.
+
+**Sambu:** Only now? This noise has continued for a long time. Did it not begin when we started discussing the relationship between the Supreme Brahman and the whole cosmos?
+
+**Sadhu:** It may have. But it did not reach my ears. I was absorbed in thought. When the mind is fixed upon one place or subject, no other sound or thought enters it.
+
+**Vembu:** Oh! A great genius, are you? Fine, fine. Go.
+
+**Sadhu:** Why become angry, holy man? Do not regard that sound as ordinary. It is the sound of tools and weapons being heated and hammered so that warriors may fight and shatter Mother Maharashtra's chains. Only when that sound increases will the cry of victory arise in Maharashtra!
+
+**Vembu:** Insolent chatterbox!
+
+**Sadhu:** The sound of Vedic recitation, temple bells and worship did not drive away the enemy armies.
+
+**Sambu:** He is a denier of God, an outright atheist. Sinner! Do you think your words will succeed with us? Vembu, do not waste words on him.
+
+**Vembu:** Om! A few bands of mendicants like this have now arisen here. They claim they will spread new wisdom in Maharashtra and abolish the old age.
+
+**Sambu:** They say the four castes do not exist! They say even the four-faced Brahma who established that dharma does not exist! They say the entire world is emptiness. I know all about this lot.
+
+**Vembu:** They dream, only dream! They cannot even shake the old age.
+
+**Sadhu:** Friends who revile me!
+
+**Vembu:** Hey! What arrogance, to call us friends! Your tongue will rot and perish!
+
+**Sambu:** Everyone is equal; there must be no caste division; devotion alone is primary, and Brahmin birth is unimportant. Is this not what your group now preaches?
+
+**Sadhu:** Yes. That is all. Is this atheism?
+
+**Vembu:** Whatever the age may be, is this possible? How many Dharma Sastras and Smritis did the great ascetics establish for Brahmin birth? Ignorant man! Were they not seers of past, present and future? Can you destroy their arrangement?
+
+**Sadhu:** Those seers of all three times did not say a single word in all those Vedas, Puranas and epics that such an age would come and a Mughal kingdom would arise in our birthplace, holy men!
+
+**Vembu:** Fool! The Vedas and Puranas were not created for this petty business.
+
+**Sambu:** They are the path of wisdom leading to the kingdom of liberation.
+
+**Sadhu:** I did not come to deny that. When I and others say there must be no caste or division and there must be harmony, we speak for the Maratha kingdom and for human peace.
+
+**Vembu:** Come away! It is sinful even to speak with these people. Look at the man. Why not join the army? You ought to be in the forces, but wander as a mendicant.
+
+**Sadhu:** I am in the army, the army of knowledge.
+
+**Vembu and Sambu:** [Mockingly] The army of knowledge!
+
+[They leave.]
+
+[The sadhu walks over slowly and sees weapons being heated and hammered near the forge.]
+
+The very sound of weapons being forged is a piercing torment in the ears of Sambu and Vembu. The sadhu tells them, “That sound, sirs, is the sound of national liberation.” The “Iyers” grow fiercely angry on hearing it. Such is their state of mind!
+
+*Dravida Nadu*, 11 July 1948.
+
+## Translator's Notes
+
+Images 1-3 and 5-8 were recovered from transparent-background scans after the original OCR pass treated them as blank. `அவர்கள் உள்ளம்` means both “their hearts” and “their state of mind”; the latter better reflects the political contrast developed in the conclusion. The opening's `சமரசஞானம்` denotes a reformist doctrine of spiritual and social harmony. `நிரீஸ்வரவாதி` is rendered “denier of God,” while `அறிவுப்படை` is retained semantically as “army of knowledge.” Caste labels, including the narrator's quoted “Iyers,” are preserved as historical language and as the explicit object of Anna's critique.

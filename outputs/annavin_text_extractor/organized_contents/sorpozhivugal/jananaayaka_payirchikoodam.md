@@ -1,0 +1,1 @@
+../../md_pages/sorpozhivugal/jananaayaka_payirchikoodam.md

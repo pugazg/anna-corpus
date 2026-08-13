@@ -1,0 +1,192 @@
+# ஓவியர் மாதவனுக்குப் பாராட்டு விழா / Felicitation for Artist Madhavan
+
+**Tamil title:** ஓவியர் மாதவனுக்குப் பாராட்டு விழா  
+**English title:** Felicitation for Artist Madhavan  
+**Source file:** `sorpozhivugal/oviyar_madhavan.md`
+
+## Source Tamil (verbatim)
+
+- Source image folder: `/Users/pugazhendhirajendran/Documents/Codex/2026-07-09/https-www-annavinpadaippugal-info/outputs/annavin_text_extractor/ocr_images/sorpozhivugal/oviyar_madhavan`
+- OCR language: `tam`
+- Tesseract page segmentation mode: `3`
+- OCR cleanup: `enabled`
+
+## Image 1: 001-079b09ac51.png
+
+- Image: `sorpozhivugal/oviyar_madhavan/001-079b09ac51.png`
+
+02
+
+ஓவியர் மாதவனுக்குப்
+பாராட்டு விழா
+
+26-7-1959 அன்று ஓவிய மன்னன் மாதவன் அவர்களுக்கு
+நடைபெற்ற பாராட்டு விழாக் கூட்டத்தில் அறிஞர் அண்ணா
+அவரை பாராட்டிச் சூடிய புகழாரம் :-
+
+தோழர்களே!
+
+ஓவியர் மாதவன் அவர்களுக்கு, இப்பெரு மன்றத்தார்
+முன்னிலையிலும் அமைச்சர் முன்னிலையிலும் பாராட்டு விழா
+நடைபெறுவது குறித்து பெருமகிழ்ச்சியடைகிறேன் என்று
+அறிஞர் அண்ணா ஓவியர் மாதவன் அவர்களைப் பாராட்டிப்
+பேசுகையில் குறிப்பிட்டார். அவர் மேலும் பேசியதாவது :
+
+மன்னர்கள் பலர் வாழ்ந்திருக்கிறார்கள். அந்த “மன்னர்'
+என்ற பட்டத்தை வாங்கி, உண்மையான மன்னர் மாதவன்
+அவர்களுக்கு “ஓவிய மன்னர்” என்ற பட்டத்தை வழங்கி
+யுள்ளோம். இப்படி. இன்னும் பலரை ஊக்குவிக்க இவ்விழா
+பயன்படட்டும்.
+
+ஈதலும் இசைபட வாழ்தலும்தான் தமிழரின் இயற்கையான
+பண்பாடு. ஈராயிரம் ஆண்டுகட்கு முன்பிருந்தே ஓவியக்கலை நல்ல
+முறையில் வளர்ந்து வந்துள்ளது. அவ்வழிவந்த ஓவியக்
+கலைஞர்கட்கு இப்பாராட்டு விழா நடைபெறுவது வரவேற்கத்
+தக்கதே! மாதவன் தன் திறமையை நாட்டுக்குத் தந்தார். நாடு
+அவருக்கு மலைபோல மாலையையும், பட்டத்தையும் தந்து,
+பொன்னாடை போர்த்தியும் கெளரவித்தது.
+
+திருநெல்வேலிச் சீமையில், பத்தமடை பாய் 140, 200 நெம்பர்
+என்று பெயரிட்டு, மிக அருமையாக, நெய்து வந்தார்கள். அதை
+கைக்கு அடக்கமாக மடக்கி வைத்துக் கொண்டு யாருக்குமே
+
+## Image 2: 002-c0b4c63f56.png
+
+- Image: `sorpozhivugal/oviyar_madhavan/002-c0b4c63f56.png`
+
+தெரியாமல் எடுத்துச் செல்லலாம். அந்த அளவுக்கு அந்தக்கலை
+சிறப்புற்று விளங்கியிருந்தது. அதை நெய்பவர்களுக்கு எட்டணா
+கூலிதான் கொடுப்பார்கள். இதை ஏன் சொல்லுகிறேன் என்றால்,
+கூலி குறைவாக இருந்தாலும், அக்கலை வளரத்தான் செய்கிறது.
+அதைப்போல ஓவியக் கலையில் பல இடையூறுகள் இருந்தாலும்,
+அது வளரத்தான் செய்தது.
+
+இப்படி தமிழ்நாட்டில் எல்லாக் கலைகளும் வளரத்தான்
+செய்கிறது.
+
+கலைத்துறையில் எனக்கும் - அமைச்சருக்கும் கருத்து
+வேற்றுமையில்லை. கலை வளரவேண்டும் என்பதில் யாருக்கும் -
+எந்த வித்தியாசமும் இருக்க முடியாது. கலையில் ஆபாசம்
+இல்லாமலிருக்க வேண்டும் என்பதை நான் ஓப்புக்
+கொள்ளுகிறேன். எது ஆபாசம் என்பதையும் ஆராய வேண்டும்.
+ராமன் என்றும் - ராவணன் என்றும் பிரித்துக் காட்டுவதைப்
+போல, இதை சுலபத்தில் பிரித்துக் காட்ட முடியாது. 'அபாசம்'
+என்ற விஷயத்தில் மனதைத் திடம் செய்து கொள்ள வேண்டும்.
+
+பிரான்சுநாட்டின் அபாசம்போல, எலிசபெத் காலத்தில்
+இருக்கவில்லை என்பது, அவர்கள் உடுத்திய நீண்ட ஆடை
+சொல்லுகிறது.
+
+ஆகவே, 'அபாசம்' என்று தூரிகையை எடுத்தால் ஓவியம்
+வளராது.
+
+தமிழ் இலக்கணத்தில் 'இடக்கரடக்கல்' என்று இலக்கண
+வரம்பு இருக்கிறது. அந்த இலக்கண வரம்புப்படிதான் காரியங்கள்
+இப்போது நடைபெற்று வருகின்றன. டி. கே. சண்முகத்தின்
+அண்ணார், ஒரு நாடகத்தில் குளிப்பதைக் காட்டுவார். பிறகு
+பைத்தியம் வந்துவிடும். இப்படி, மறைக்க வேண்டியதை மறைத்து,
+காணத் தகுந்ததைக் காட்சியாக்கும் நிகழ்ச்சிதான் நடந்து
+வருகின்றது.
+
+தரம் கெட்டுவிட்டது என்பதைவிட, தரம் மாறியுள்ளது
+என்றுதான் கூறுவேன்.
+
+சிற்பி சிலையைச் செதுக்கினால் 'சிலை' என்போம். அனால்
+
+சினிமாவில் 'மோல்டிங்' மூலம் செய்வதால் தரம் கெட்டு
+விடவில்லை.
+
+## Image 3: 003-17f349a67c.png
+
+- Image: `sorpozhivugal/oviyar_madhavan/003-17f349a67c.png`
+
+இப்போது எப்போதையும்விட தரம் உயர்ந்து உள்ளது
+என்றுதான் கூறுவேன்.
+
+ஒப்பனைக்கலை மேல்நாட்டில் நல்ல முறையில்
+வளர்ந்துள்ளது. நம் நாட்டில் அவ்வாறு வளராத காரணத்தால்,
+நாம் தப்புக்கணக்கு போட்டுவிடக் கூடாது.
+
+நமது ஓவியர் மாதவன் அவர்களிடம் உள்ள திறமை,
+கண்மூடி,, கண் திறப்பதற்குள் செய்து முடிக்கும் தன்மையில்
+உள்ளது.
+
+கலைவாணர் என். எஸ். கே. நாடகம் நடந்து
+கொண்டிருக்கும் சமயம், திடீரென தென்னை ஓலை
+தேவைப்பட்டது. எல்லாரும் திகைத்தார்கள். சில நிமிடங்களில்
+எல்லாரும் அச்சரியப்படும் வண்ணம் தென்னை ஓலையைச்
+செய்து கொடுத்துவிட்டார். இவரது திறழமையைப் போல,
+பலரிடம் பல திறமைகள் தமிழகத்தில் வளர்ந்து வருகிறது.
+
+திருக்குறளைப் பின்னணியாக வைத்து, சிறப்புமிக்க
+ஒவியங்கள் தீட்ட வேண்டும். அதற்கு அரசாங்கம் ஆதரவு தர
+வேண்டும்.
+
+“பார் - பார் அண்ணாதுரை திருக்குறளைத்தான்
+சொல்லுகிறான்; இராமாயணத்தைச் சொல்லவில்லை” என்று
+அமைச்சர் நினைக்கக்கூடாது. ஏனெனில், இராமாயணம் பல
+உருவில் வெளியாகியுள்ளது, என்பது அமைச்சர் அறியாதது
+அல்ல.
+
+பசிப்பிணியை ஓட்ட முயற்சிக்கும் அமைச்சர் சுப்பிர
+மணியம், நாட்டில் தொழிற்பஞ்சம் நீங்கவும், இப்படிப்பட்ட
+ஓவியக்கலை வளரவும் முயற்சிக்க வேண்டுமெனக் கேட்டுக்
+கொள்ளுகிறேன்.
+
+கலைஞர்களிடம் ஒற்றுமை வளர்ந்துள்ளது என்பதை,
+ஓவியர் மாதவன் அவர்களுக்கு நடக்கும் இவ்விழா ஒரு
+எடுத்துக்காட்டாக இருக்கிறது என்பதை, எல்லோரும் உணர
+வேண்டும் என்பதைக் கூறிக்கொண்டு, என் உரையை முடித்துக்
+கொள்கிறேன்.
+
+சதய டார் எகரி
+
+## English Translation
+
+Garland of praise offered by Arignar Anna to “King of Art” Madhavan at the felicitation meeting held for him on 26-7-1959:
+
+Comrades!
+
+Speaking in praise of artist Madhavan, Arignar Anna said that he was delighted that this felicitation was taking place before this great assembly and in the presence of a minister. He continued:
+
+Many kings have lived. We have taken that title “king” and bestowed upon the true king Madhavan the title “King of Art.” May this festival serve to encourage many more in this way.
+
+Giving and living with renown are natural features of Tamil culture. Painting has flourished well for two thousand years. A felicitation for an artist who comes in that tradition is indeed welcome. Madhavan gave his talent to the country. The country honoured him by giving him a mountain-like garland and a title and by draping him in a golden shawl.
+
+In the Tirunelveli region, Pathamadai mats known by numbers such as 140 and 200 were woven with exquisite skill. They could be folded into the palm and carried away without anyone noticing. Such was the distinction of that art. Yet the weavers were paid only eight annas. I say this because, though the wage was low, the art continued to develop. Likewise, despite many obstacles in painting, it continued to grow.
+
+In this way, every art in Tamil Nadu continues to develop.
+
+The minister and I have no difference of opinion in the field of art. No one can differ over the need for art to develop. I agree that art should be free of obscenity. We must also examine what constitutes obscenity. It cannot be separated easily as one distinguishes Rama from Ravana. We must arrive at a firm understanding of the question of “obscenity.”
+
+The long garments worn in the Elizabethan age show that its standards were not the same as those of France.
+
+Therefore, if one picks up the brush crying “obscenity,” painting will not develop.
+
+Tamil grammar has a convention called *idakkaradakkal*, decorous avoidance. Events now proceed within that grammatical boundary. The elder brother of T. K. Shanmugam would portray bathing in a play and then madness would follow. In this way, what must be concealed is concealed and what is fit to be seen is made into a scene.
+
+Rather than saying standards have deteriorated, I would say that standards have changed.
+
+When a sculptor carves a figure, we call it a statue. But quality has not declined merely because cinema uses moulding.
+
+I would say that quality is higher now than ever before.
+
+The art of make-up has developed well in Western countries. We must not make a mistaken calculation merely because it has not developed in the same way in our country.
+
+Our artist Madhavan possesses the ability to finish work in the blink of an eye.
+
+During a performance by Kalaivanar N. S. K., a coconut-palm frond was suddenly needed. Everyone was bewildered. Within a few minutes, Madhavan made one in a manner that astonished everyone. Like his talent, many kinds of talent are developing among many people in Tamil Nadu.
+
+Distinguished paintings should be created with the *Tirukkural* as their background, and the government should support that effort.
+
+The minister should not think, “Look, look, Annadurai speaks only of the *Tirukkural* and not the *Ramayana*,” because the minister knows that the *Ramayana* has appeared in many forms.
+
+I request Minister Subramaniam, who is striving to drive away hunger, also to strive to remove the famine of employment in the country and to foster painting of this kind.
+
+I conclude by saying that everyone must recognize this felicitation for artist Madhavan as an example of the unity that has grown among artists.
+
+## Translator's Notes
+
+The source ends with a short OCR-noise fragment after the completed speech; it is retained in the Tamil source block but not treated as spoken content.
+“இடக்கரடக்கல்” is a traditional grammatical and rhetorical term for avoiding indecorous direct expression; its transliteration and concise gloss are preserved in English.
+Historical and artistic examples are translated in the speaker’s voice and are not independently verified here.

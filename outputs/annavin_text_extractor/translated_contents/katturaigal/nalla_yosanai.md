@@ -1,0 +1,203 @@
+# நல்ல யோசனை / A Good Idea
+
+**Tamil title:** நல்ல யோசனை  
+**English title:** A Good Idea  
+**Source file:** `katturaigal/nalla_yosanai.md`
+
+## Source Tamil (verbatim)
+
+- Source image folder: `/Users/pugazhendhirajendran/Documents/Codex/2026-07-09/https-www-annavinpadaippugal-info/outputs/annavin_text_extractor/ocr_images/katturaigal/nalla_yosanai`
+- OCR language: `tam`
+- Tesseract page segmentation mode: `3`
+- OCR cleanup: `enabled`
+
+## Image 1: 001-06d6567de4.png
+
+- Image: `katturaigal/nalla_yosanai/001-06d6567de4.png`
+
+நல்ல யோசனை
+
+(சேலம் மாவட்டத்திலே, இரும்புச் சுரங்கங்கள் உள்ளன.
+புதைபொருள் நுணுக்க முணர்ந்தோர் பன்னெடுங்காலத்துக்கு
+முன்பே இதனைக் கூறியுள்ளனர். நமது இதழிலேயும் இதுபற்றிப்
+பன்முறை. எழுதினோம். இந்தச் சுரங்கங்களைத் தோண்டி,
+இரும்பு எடுத்து, நல்லதோர் தொழிற்சாலை நிறுவலாம் - அணி
+முதற்கொண்டு தண்டவாளம் வரையிலே, டாட்டா கம்பெனியின்
+தயவிலே வாழும் கேவல நிலையைப் போக்கிக் கொள்ளலாம்
+என்று யோசனை கூறினோம். திராவிட நாடு திராவிடருக்கே
+என்ற மூலமுழக்கத்தின் நோக்கமும், . பொருளாதாரப்
+பொறியினை. வடநாட்டார் அமைத்து அதிலே  இராவிடத்தைச்
+சிறைப்படுத்தி வைத்துள்ள கொடுமையினின்றும் விலகுவது
+என்பதுதான். :
+
+நமது மக்களோ, எந்தப் பொருள் எப்பூபாகத்தது, வெளி
+நாட்டவரின் பொருளை நாம் விரும்பிக் கொள்வதால் வரும்
+கேடு.. என்ன என்பதனை ஆராய்ந்தறிய நேரமோ நினைப்போ
+கொண்டவரல்ல.. அதனை. அறிந்தோரோ, ஏதேனும். அலுவலகத்
+திலே பணியாற்றிவிட்டு நாற்பதில் அறுபது. வயதினரின் இயல்பு
+பெற்று,. நாராயணா: கோவிந்தா என்று: பஜனை. செய்து. போகிற
+கதி...நல்லதாக. இருக்கட்டும் என்ற. போக்குடன் உள்ளனர்.
+பத்திரிகைகளோ, பாரிலே உள்ள பலபிரச்னைகளைப் பிய்த்து
+எறிகின்றனவேயன்றி, திராவிடம் பொருளாதாரத் துறையிலே
+தேய்ந்து வருவது பற்றித் £ட்டுவதில்லை. இந்நிலையில் இங்கு
+பலப்பல  நூற்றாண்டுகட்கு முன்பு புதைபட்ட பொருளெலாம்,
+தேடுவாரற்றுக் கடக்கின்றன. நமக்கென ஓர் தனி அரசு இருக்கு
+மானால், . இவைகளைக் கண்டறிய ஓர்குழு. அமைக்கலாம்.
+இதற்கே, .இராவிட.. நாடு திராவிடருக்கே. என்கிறோம்.
+வடநாட்டுப் பொருளாதார ஏகாதிபத்யதீதுக்கு அடிமைப்
+பட்டிருத்தலாகாது என்பது, நமது. நோக்கம், நாட்டின் நல்வாழ்வு
+நோக்குடையோர் எவரும் இதனை மறுக்க முடியாது.
+
+## Image 2: 002-74d190d68f.png
+
+- Image: `katturaigal/nalla_yosanai/002-74d190d68f.png`
+
+இன்று டாட்டா கம்பெனியாருக்கு உள்ள செல்வாக்கு,
+சொல்லுந்தரத்ததல்ல சர்க்காரின் அலுவகத்தைப் போல்,
+விரிவான அலுவலகம். மேனாட்டுக் கம்பெனிகள் கூட, இந்த
+டாட்டா கம்பெனிக்கு உள்ள அளவு விரிவான மார்க்கட்
+பெறவில்லை. பிரான்சிலே இருக்கும் ஓர் கம்பெனி
+ஜெர்மனிக்கு, அண்டை நாட்டுக்குச் சாமான் அனுப்புவது
+என்றாலும், 'சுங்கம்” உண்டு; அதற்கான சட்ட இட்டம் உண்டு.
+டாட்டாவோ நிறுவனமோ, இமயமலை முதல் கன்னியாகுமரி
+வரை, ஏறக்குறைய 2000-மைல் நீளம் 1500:-மைல் 'அகீலமுள்ள
+பூபாகத்திலே, தன் ஆட்சியைத் தங்கு: 'தடையின்றிச்
+செலுத்துகிறது. ஐரோப்பாக். கண்டத்திலே, ரஷியாப்' பகுதி
+நீங்கலாக உள்ள மற்ற இடமுழுவதும் ஒரு கம்பெனி” இருந்து
+கொண்டு வியாபாரக் கொடி' நாட்டினால், அதனைச் சகிக்க
+முடியாத பொருளாதார ஏகபோக "மிராசு: என்று கூறுவர்: -
+கண்டிப்பர்; இங்கு டாடாவுக்கு " இருக்கும் “ஆதிக்கம்,
+அத்தகையதுதான். ஒரு பெரிய. உபகண்டம் முழுவதும் அதற்கு
+மார்க்கட்! அதற்குப் போட்டியாக வேறோர் கம்பெனிகிடையாது
+- வேறோர் இரும்புத்: தொழிற்சாலை கிடையாது எவ்வளவு
+இலாபம் குவிந்திருக்க் “வேண்டும். போட்டியே: இல்லாத
+நிலையில் இவ்வளவு பரந்த மார்க்கட்டில் ““ஏகசக் ராதிபதியாக
+இருப்பதால் என்பதை எண்ணிப் பார்க்க வேண்டுகிறோம்.
+
+- என்ன செய்யலாம்! இங்கு இரும்பு இல்லை. இரும்பினை
+உருக்கிடுவ்தற்குத் தேவையான நிலக்கரி' இல்லை என்று: நம்
+மக்கள் கூறுவர் - ஏனெனில் அவர்கள் கண்முன் இரும்பும்
+நிலக்கரியும் தெரியவில்லை! சேலத்திலே "இரும்பு கிடைக்கிறது;
+தென் ஆற்காட்டில் சிற்சில பகுதிகளில் “நிலக்கரி : இருக்கிறது.
+எல்லாம் புதைபொருளாக உள்ளன; தக்க முறையைக்
+கையாண்டால், இவைகளை எடுத்துப் பயன்படுத்தலாம்.
+இதுவரை .இதனைப்: பற்றி எண்ணினவர் இல்லை. ஏளனம்
+செய்யப்படும் திராவிடர் கழகத்தார், பன்முறை இதனை
+எடுத்துரைத்தபோது கூட, இங்காவது இரும்பாவது,
+கிடைப்பதாவது என்று பேசினோரே அதிகம்: அவர்கள் மீது
+குற்றமில்லை கண் எதிரே காணப்படும் கரும்பு இருக்க,
+ஜாவாவிலிருந்து சர்க்கரை  வரவழைத்தவர்கள் தானே! நமது
+நாட்டுப் பருத்தியை நூலாக்கி வட நாட்டுக்கு அனுப்பி அவன்
+அனுப்பும் வேட்டிக்குக் காத்துக் கிடப்பவர்கள் தானே! கண்
+
+## Image 3: 003-400599ca05.png
+
+- Image: `katturaigal/nalla_yosanai/003-400599ca05.png`
+
+எதிரே. தெரிவதற்கே இந்தக் கதி என்றால், கண்ணுக்குத்
+தெரியாமல், பூமிக்கடியிலே பல நூறு அடிகளுக்குக் கீழே தூங்கிக் -
+கிடக்கும் பொருளைப். பற்றி, அவர்கள் ஏன் கவலைப்படப்
+போகிறார்கள்! என்வேதான் அவர்கள் கவலையற்று இருந்தனர்.
+ஆளவந்தார்கள் கவனிக்க: வேண்டிய காரியம் இது. நமது.
+நாட்டிலே எங்கெங்கு என்னென்ன பொருள் கிடைக்கும்
+என்பதனைக் கண்டறிய ஒரு அமைப்பு இருக்க வேண்டும். அந்த
+அமைப்பு திட்டங்களைத் தயாரித்தபடி இருக்க வேண்டும்.
+முன்பு இருந்ததைவிட இவற்றினுக்கான, விஞ்ஞான சாதனங்கள்
+இப்போது மிகமிகத் திறமையுடையனவாகி உள்ளன, நல்ல
+வாய்ப்பிருக்கிறது. மனம் வேண்டும், கொஞ்சம் துணிவு
+வேண்டும், இவற்றினுக்கு மேலாக, வடநாட்டுப் போட்டியைச்
+சமாளிக்கும் வழி வகை தெரிய வேண்டும்.
+
+சேலத்தில் கிடைக்கக்கூடிய இரும்பை எடுத்துத் தொழில்
+நடத்த, சர்க்கார் யோசிப்பதாகக் கேள்விப்படுகிறோம். நல்ல
+யோசனை உடனடியாகத் துவக்கப்பட வேண்டியவேலை.
+ஆனால், இதற்கான திட்டம் தீட்டப் படும்போது, இதற்காகச்
+செலவாகும் பணத்துக்கு ஏற்ற அளவு ஈடாக இலாபம் வருமா
+என்று புள்ளி போட்டுப் பார்த்து, இலாபம் வராது,
+தேவையில்லை என்று கூறிவிடக் கூடும். பல் முறை, பல
+திட்டங்களை இத்தகைய காரணம் காட்டியே கைவிட்டு
+விட்டனர். புள்ளிவிவரம் போடும்போது, நமக்குத் தேவையான
+பொருளை நாமே உற்பத்தி செய்துகொள்வதனால் "ஏற்படும்,
+மதிப்பு இருக்கிறதே, அதற்கு இடம் தருவதில்லை. அது தவறு,
+
+துவக்கிய பிறகும் .ஓர் பெரிய தொல்லை இருக்கிறது.
+ஏற்கெனவே வளர்ந்த, பெரும் பொருளை இலாபமாகக் குவித்து
+வைத்துக் கொண்டுள்ள. டாட்டா: கம்பெனி சும்மா இராது.
+போட்டியிடும் கடுமையாக. நாம் ஐந்து ரூபாய்க்கு விற்றால்
+மட்டுமே, அடக்க விலைக்கு மேல் ஒரு நாலணா கூடுதலாக
+கிடைக்கக் கூடிய பொருளை, நாலு ரூபாய்க்கு டாட்டாவால்
+விற்க முடியும். மலிவான பொருள் விற்பனையாகி, நமது
+பொருள் தேக்கமாகி, நஷ்டமேற்பட்டு, தொழில் நூத்து விடும்.
+இந்தப் பேராபத்தைத் தவிர்க்க வேண்டும். ஈர ஆடையை உலர்த்த
+வேண்டுமானால், பக்கத்திலே முள்செடி இல்லாமற். பார்த்துக்
+கொள்ள வேண்டுமல்லவா! அது போலவே துவக்க
+திசையிலுள்ள தொழில்  வளரவேண்டுமானால், பலத்த
+
+## Image 4: 004-95fa8d2b86.png
+
+- Image: `katturaigal/nalla_yosanai/004-95fa8d2b86.png`
+
+போட்டியினின்றும் அதனைக் காப்பாற்ற வேண்டும். இதற்கு,
+அந்தந்தப் பிரதேசத்திற்கு, தனது தொழில் வளத்தைப்
+பாதுகாத்துக் கொள்வதற்கான முறை வகுக்க தடைவிதிக்க, வரி
+போட, சரக்குகள் வருவதையும் போவதையும் தடுக்க முழு
+உரிமை இருக்க வேண்டும். இந்த உரிமை இல்லாவிட்டால்,
+நாம், பாடுபட்டு, ஆசைப்பட்டு, ஆரம்பிக்கும், புதிய தொழில்
+களை, ஏற்கெனவே ஓங்கி வளர்ந்துள்ள வடநாட்டுத் தொழில்
+அரசர்களால், மிக எளிதிலே. அழித்துவிட முடியும். இந்த
+ஆபத்துக்குப் பயந்தே பலர், புதிய தொழில் துவக்காமலுள்ளனர்.
+எனவே, புதைபொருள் சம்பந்தமாகவோ, விளைபொருள்
+சம்பநீதமாகவோ, விதவிதமான புதுப் புது தொழிலைக் துவக்கிச்,
+செல்வத்தை வளரச் செய்ய வேண்டுமானால், வடநாட்டுப்
+போட்டியிலிருந்து தப்புவதற்கு நமக்குப் பூரண உரிமை இருக்க
+வேண்டும். அந்த உரிமை முழக்கந்தான் திராவிட நாடு
+திராடருக்கே என்பது. ஆனால் அதுதான் நமது நாட்டுக் காங்கிரஸ்
+நண்பர்களுக்குப் பிடிக்காதே! என்ன செய்யலாம்!
+
+“காகிதம் செய்வோம் நல்ல ஆலைகள் வைப்போம்.”
+
+என்று. உள்ளக்கிளர்ச்சியுடம் அன்று பாரதியார் பாடினார்.
+பாடி! அவர் காலத்திலே, டாட்டாவும் பிர்லாவும், டால்மியாவும்
+பஜாஜாும், ஒங்கிவளரவில்லையே! அமைப்பது மட்டும்
+போதாது, வடநாட்டுத் தொழில் அரசர்களின் படை எடுப்பு.
+நேரிடா வண்ணமும் தடுத்துக் கொள்வோம் என்று பாடாத
+காரணம் அதுதான். அவர் காலத்தில் இல்லாத நிலைமை இன்று
+ஏற்பட்டு விட்டது. எனவே இதற்கேற்ற திட்டம் தேவைப்
+படுகிறது. அந்தத் திட்டந்தான், திராவிடநாடு தனி அரசுரிமை
+பெற வேண்டமென்பது. அசாமும் எல்லையுங் கூட தனித்து
+நாங்கள் வாழ முடியும், எங்களை எந்தத் தொகுதியிலும் சேர்க்க,
+திணிக்க, முடியாது, கூடாது என்று கூறுகின்றன. சென்னை
+மட்டுந்தான் வாய்திறக்கவில்லை. 4, தொகுதியிலே சிக்குண்டு
+கிடக்கச் சம்மதிக்கிறது! ஏன், எதிர்க்கப் போகிறது? சென்னையின்
+“'கதியை”' நிர்ணயிக்கும் பொறுப்புத்தான் இன்று, வட நாட்டு
+வணிக வேந்தர்களின் செல்லப்பிள்ளைகள் கையிலே
+ஒப்படைக்கப்பட்டிருக்கிறதே! இந்நிலையில், புதை. பொருளைத்
+தோண்டி என்ன பயன், புதுப் பொருளைத் தேடி என்ன சுகம்!
+
+29-12-1946
+
+## English Translation
+
+There are iron deposits in Salem district. Experts in mineral resources reported this many years ago. We too have written about it many times in our journal. We proposed that these deposits be mined, iron extracted, and a fine factory established, so that we might escape the degrading condition of depending upon the Tata company for everything from a nail to a railway track. The purpose of the fundamental slogan “Dravida Nadu for the Dravidians” is precisely to escape the cruelty of the economic machinery built by the North, within which Dravida Nadu has been imprisoned.
+
+Our people have neither the time nor the inclination to investigate where a product comes from or what harm results from preferring goods made outside our country. Those who do understand take a job in some office, acquire at forty the temperament of a sixty-year-old, chant “Narayana! Govinda!” and resign themselves to hoping that their fate will at least be tolerable. The newspapers tear apart the many problems of the world but do not write about Dravida Nadu’s economic decline. Consequently, resources buried here many centuries ago lie without anyone to seek them. If we had a government of our own, we could appoint a body to discover them. It is for this that we say, “Dravida Nadu for the Dravidians.” Our purpose is that we must not remain enslaved to North Indian economic imperialism. No one concerned with the country’s welfare can deny this.
+
+The influence enjoyed by the Tata company today is beyond description. It has an extensive establishment like a government department. Even Western companies have not obtained a market as vast as Tata’s. If a company in France sends goods to neighbouring Germany, there are customs duties and laws governing them. Tata, by contrast, exercises its authority without let or hindrance over a territory nearly two thousand miles long and fifteen hundred miles wide, from the Himalayas to Kanyakumari. If one company planted its commercial flag throughout continental Europe apart from Soviet Russia, it would be called an intolerable economic monopoly and condemned. Tata’s dominance here is of that kind. An entire subcontinent is its market. There is no rival company and no rival ironworks. Consider how much profit it must have amassed by ruling as sole sovereign in so vast a market, entirely without competition.
+
+Our people will say, “What can be done? There is no iron here, nor the coal needed to smelt it,” because neither iron nor coal is visible before their eyes. Iron is found in Salem, and coal exists in some parts of South Arcot. They are all underground resources; with proper methods they can be extracted and used. Until now no one has thought about this. It is a matter the rulers ought to examine. There must be an organization to discover what resources are available in each part of our country, and it must continually prepare plans. Scientific equipment for such work is far more capable now than it once was. There is a fine opportunity. What is needed is resolve, a little courage, and, above all, knowledge of how to withstand competition from the North.
+
+We hear that the government is considering extracting the iron found in Salem and operating an industry. It is a good idea, and the work ought to begin immediately. But when its plan is prepared, officials may calculate whether the expenditure will return a commensurate profit and abandon it as unnecessary if the answer is no. Many schemes have repeatedly been discarded on just such grounds. Such calculations make no allowance for the value of producing for ourselves a commodity that we need. That is a mistake.
+
+Even after the enterprise begins, a major difficulty remains. The already powerful Tata company, which has accumulated immense profits, will not remain idle. It will compete fiercely. Suppose our product must be sold for five rupees merely to earn four annas above cost: Tata can sell its product for four. The cheaper product will sell, ours will remain unsold, losses will mount, and the industry will be extinguished. This grave danger must be averted. If one wishes to dry a wet garment, must one not ensure that there is no thornbush beside it? Likewise, if an industry in its infancy is to grow, it must be protected from powerful competition.
+
+For this, each region must possess full authority to devise means of safeguarding its industrial prosperity: to impose restrictions, levy taxes, and regulate the movement of goods in and out. Without this authority, the industrial rulers of the North, whose enterprises are already towering and mature, can very easily destroy the new industries that we begin with labour and hope. Fear of this danger has kept many from starting new enterprises. Therefore, if we are to begin many kinds of new industry based upon mineral or agricultural resources and allow wealth to grow, we must have complete authority to protect ourselves from Northern competition. The cry asserting that right is “Dravida Nadu for the Dravidians.” But that is precisely what our Congress friends in this country dislike. What can be done!
+
+“We shall make paper; we shall establish good factories,” Bharati once sang in a surge of enthusiasm. In his day, Tata, Birla, Dalmia, and Bajaj had not yet risen to such heights. That is why he sang only of establishing industries, and not also of shielding them from an invasion by the industrial rulers of the North. A condition that did not exist in his time has now arisen. A plan suited to it is therefore required. That plan is that Dravida Nadu must obtain the sovereign right to govern itself.
+
+Even Assam and the frontier regions say, “We can live independently; we cannot and must not be forced into any bloc.” Madras alone does not open its mouth. It consents to be trapped in Group C. Why would it oppose this? The responsibility for determining Madras’s “fate” has today been entrusted to the cherished children of the Northern merchant princes! In such a condition, what benefit is there in digging up buried resources, and what pleasure in searching for new wealth?
+
+29 December 1946
+
+## Translator's Notes
+
+The source’s economic vocabulary and the historical slogan “Dravida Nadu for the Dravidians” are preserved in their 1946 political context. “Group C” refers to the constitutional grouping mentioned by the article; the source OCR prints the group designation as the numeral `4`, but the surrounding argument supports the reading adopted here.

@@ -1,0 +1,878 @@
+#!/usr/bin/env python3
+"""
+Extract text from annavinpadaippugal.info HTML links into Markdown files.
+
+The tool is intentionally dependency-free. It resumes by reading an append-only
+manifest and by checking for already-created Markdown files.
+"""
+
+from __future__ import annotations
+
+import argparse
+import datetime as dt
+import hashlib
+import html
+import json
+import os
+import re
+import ssl
+import sys
+import time
+import urllib.error
+import urllib.parse
+import urllib.request
+from html.parser import HTMLParser
+from pathlib import Path
+from typing import Iterable
+
+
+SCRIPT_DIR = Path(__file__).resolve().parent
+DEFAULT_LINKS = SCRIPT_DIR.parent / "annavinpadaippugal_links.md"
+DEFAULT_OUT_DIR = SCRIPT_DIR / "md_pages"
+DEFAULT_DOMAIN = "www.annavinpadaippugal.info"
+USER_AGENT = "annavin-text-extractor/1.0"
+
+
+ROOT_FILENAME_FOLDERS = (
+    (re.compile(r"^annavin_english_", re.IGNORECASE), ("english",)),
+    (re.compile(r"^annavin_kadithangal(?:[_\.]|$)", re.IGNORECASE), ("kadithangal",)),
+    (re.compile(r"^annavin_katturaigal(?:[_\.]|$)", re.IGNORECASE), ("katturaigal",)),
+    (re.compile(r"^annavin_sirukathaigal(?:[_\.]|$)", re.IGNORECASE), ("sirukathaigal",)),
+    (re.compile(r"^annavin_navalgal(?:[_\.]|$)", re.IGNORECASE), ("navalgal",)),
+    (re.compile(r"^annavin_kurunavalgal(?:[_\.]|$)", re.IGNORECASE), ("Kurunavalgal",)),
+    (re.compile(r"^annavin_kavithaigal(?:[_\.]|$)", re.IGNORECASE), ("kavithaigal",)),
+    (re.compile(r"^annavin_nadagangal(?:[_\.]|$)", re.IGNORECASE), ("nadagangal",)),
+    (re.compile(r"^(?:annavin_oviyam_|oaviyam(?:\.|$))", re.IGNORECASE), ("oviyam",)),
+    (re.compile(r"^(?:annavin_pugaipadangal|photos(?:\.|$)|parimalam_photos)", re.IGNORECASE), ("photos",)),
+    (re.compile(r"^speech", re.IGNORECASE), ("sorpozhivugal",)),
+)
+
+
+class ExtractedTextParser(HTMLParser):
+    """Small HTML-to-text parser tuned for old table-based HTML pages."""
+
+    BLOCK_TAGS = {
+        "address",
+        "article",
+        "aside",
+        "blockquote",
+        "br",
+        "caption",
+        "center",
+        "dd",
+        "div",
+        "dl",
+        "dt",
+        "fieldset",
+        "figcaption",
+        "figure",
+        "footer",
+        "form",
+        "h1",
+        "h2",
+        "h3",
+        "h4",
+        "h5",
+        "h6",
+        "header",
+        "hr",
+        "li",
+        "main",
+        "nav",
+        "ol",
+        "p",
+        "pre",
+        "section",
+        "table",
+        "tbody",
+        "td",
+        "tfoot",
+        "th",
+        "thead",
+        "tr",
+        "ul",
+    }
+    SKIP_TAGS = {"script", "style", "noscript", "object", "embed"}
+
+    def __init__(self) -> None:
+        super().__init__(convert_charrefs=True)
+        self.parts: list[str] = []
+        self.title_parts: list[str] = []
+        self.skip_depth = 0
+        self.in_title = False
+
+    def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
+        tag = tag.lower()
+        if tag in self.SKIP_TAGS:
+            self.skip_depth += 1
+            return
+        if tag == "title":
+            self.in_title = True
+            return
+        if self.skip_depth:
+            return
+        if tag == "li":
+            self._break()
+            self._add_text("- ")
+        elif tag in self.BLOCK_TAGS:
+            self._break()
+
+    def handle_endtag(self, tag: str) -> None:
+        tag = tag.lower()
+        if tag in self.SKIP_TAGS:
+            self.skip_depth = max(0, self.skip_depth - 1)
+            return
+        if tag == "title":
+            self.in_title = False
+            return
+        if self.skip_depth:
+            return
+        if tag in self.BLOCK_TAGS:
+            self._break()
+
+    def handle_data(self, data: str) -> None:
+        if self.skip_depth:
+            return
+        clean = html.unescape(data).replace("\xa0", " ")
+        clean = re.sub(r"\s+", " ", clean)
+        if not clean.strip():
+            return
+        if self.in_title:
+            self.title_parts.append(clean.strip())
+        else:
+            self._add_text(clean.strip())
+
+    def _add_text(self, text: str) -> None:
+        if not text:
+            return
+        if (
+            self.parts
+            and not self.parts[-1].endswith((" ", "\n"))
+            and not text.startswith((".", ",", ";", ":", "?", "!", ")", "]", "}", "”", "’"))
+        ):
+            self.parts.append(" ")
+        self.parts.append(text)
+
+    def _break(self) -> None:
+        if not self.parts:
+            return
+        if not self.parts[-1].endswith("\n"):
+            self.parts.append("\n")
+
+    @property
+    def title(self) -> str:
+        return normalize_spaces(" ".join(self.title_parts))
+
+    @property
+    def text(self) -> str:
+        return normalize_text("".join(self.parts))
+
+
+def normalize_spaces(value: str) -> str:
+    return re.sub(r"\s+", " ", value).strip()
+
+
+def normalize_text(value: str) -> str:
+    value = value.replace("\r\n", "\n").replace("\r", "\n")
+    lines = [re.sub(r"[ \t]+", " ", line).strip() for line in value.split("\n")]
+    kept: list[str] = []
+    blank = False
+    for line in lines:
+        if not line:
+            if not blank and kept:
+                kept.append("")
+            blank = True
+            continue
+        kept.append(line)
+        blank = False
+    while kept and not kept[-1]:
+        kept.pop()
+    return "\n".join(kept)
+
+
+def read_links(path: Path) -> list[str]:
+    text = path.read_text(encoding="utf-8")
+    candidates: list[str] = []
+    candidates.extend(re.findall(r"<(https?://[^>\s]+)>", text))
+    candidates.extend(re.findall(r"(?<!<)(https?://[^\s)]+)", text))
+
+    seen: set[str] = set()
+    links: list[str] = []
+    for raw in candidates:
+        url = raw.rstrip(".,;")
+        if url not in seen:
+            seen.add(url)
+            links.append(url)
+    return links
+
+
+def is_internal(url: str, domain: str) -> bool:
+    parsed = urllib.parse.urlsplit(url)
+    return parsed.scheme in {"http", "https"} and parsed.netloc.lower() == domain.lower()
+
+
+def looks_like_html(url: str) -> bool:
+    path = urllib.parse.urlsplit(url).path.lower()
+    return path in {"", "/"} or path.endswith((".htm", ".html", "/"))
+
+
+def safe_segment(segment: str) -> str:
+    segment = urllib.parse.unquote(segment)
+    segment = segment.strip()
+    segment = re.sub(r'[<>:"\\|?*\x00-\x1f]', "_", segment)
+    segment = segment.replace("/", "_")
+    if segment in {"", ".", ".."}:
+        return "_"
+    return segment
+
+
+def root_filename_folder(filename: str) -> tuple[str, ...]:
+    for pattern, folder_parts in ROOT_FILENAME_FOLDERS:
+        if pattern.match(filename):
+            return folder_parts
+    return ()
+
+
+def output_path_for_url(url: str, out_dir: Path, domain: str) -> Path:
+    parsed = urllib.parse.urlsplit(url)
+    path = parsed.path or "/"
+    raw_parts = [part for part in path.split("/") if part and part not in {".", ".."}]
+    parts = [safe_segment(part) for part in raw_parts]
+
+    if not parts:
+        parts = ["index"]
+
+    filename = parts[-1]
+    lower = filename.lower()
+    if lower.endswith(".html"):
+        filename = filename[:-5] + ".md"
+    elif lower.endswith(".htm"):
+        filename = filename[:-4] + ".md"
+    else:
+        filename = filename + ".md"
+
+    if parsed.query:
+        stem, suffix = os.path.splitext(filename)
+        digest = hashlib.sha1(parsed.query.encode("utf-8")).hexdigest()[:10]
+        filename = f"{stem}-{digest}{suffix or '.md'}"
+
+    if is_internal(url, domain):
+        folder_parts = root_filename_folder(parts[0]) if len(parts) == 1 else ()
+        parts[-1] = filename
+        if folder_parts:
+            return out_dir.joinpath(*folder_parts, *parts)
+        return out_dir.joinpath(*parts)
+
+    parts[-1] = filename
+    external_domain = safe_segment(parsed.netloc or "external")
+    return out_dir / "_external" / external_domain / Path(*parts)
+
+
+def numbered_page_info(url: str) -> tuple[str, int] | None:
+    parsed = urllib.parse.urlsplit(url)
+    if parsed.query:
+        return None
+
+    path_parts = [part for part in parsed.path.split("/") if part]
+    if not path_parts:
+        return None
+
+    filename = path_parts[-1]
+    if re.match(r"^.+_[0-9]{4}_[0-9]{2}\.html?$", filename, re.IGNORECASE):
+        return None
+
+    part_match = re.match(r"^(.+)_part([0-9]+)(\.html?)$", filename, re.IGNORECASE)
+    number_match = re.match(r"^(.+)_([0-9]+)(\.html?)$", filename, re.IGNORECASE)
+    match = part_match or number_match
+    if not match:
+        return None
+
+    stem, number, extension = match.groups()
+    path_parts[-1] = f"{stem}{extension}"
+    base_path = "/" + "/".join(path_parts)
+    base_url = urllib.parse.urlunsplit((parsed.scheme, parsed.netloc, base_path, "", ""))
+    return base_url, int(number)
+
+
+def make_single_item(url: str) -> dict[str, object]:
+    return {
+        "item_id": url,
+        "output_url": url,
+        "urls": [url],
+        "part_numbers": [None],
+        "combined": False,
+    }
+
+
+def make_combined_item(base_url: str, pages: list[tuple[int, int, str]]) -> dict[str, object]:
+    pages = sorted(pages, key=lambda item: (item[0], item[1]))
+    return {
+        "item_id": f"combined:{base_url}",
+        "output_url": base_url,
+        "urls": [url for _, _, url in pages],
+        "part_numbers": [number for number, _, _ in pages],
+        "combined": True,
+    }
+
+
+def build_work_items(args: argparse.Namespace, selected: list[str]) -> list[dict[str, object]]:
+    if not args.combine_numbered_pages:
+        return [make_single_item(url) for url in selected]
+
+    groups: dict[str, dict[str, object]] = {}
+    numbered_urls: set[str] = set()
+
+    for index, url in enumerate(selected):
+        info = numbered_page_info(url)
+        if not info:
+            continue
+
+        base_url, number = info
+        numbered_urls.add(url)
+        group = groups.setdefault(base_url, {"first_index": index, "pages": []})
+        group["first_index"] = min(int(group["first_index"]), index)
+        group["pages"].append((number, index, url))
+
+    ordered: list[tuple[int, dict[str, object]]] = []
+    absorbed_base_urls: set[str] = set()
+
+    for index, url in enumerate(selected):
+        if url in numbered_urls:
+            continue
+        group = groups.get(url)
+        if group:
+            existing_numbers = {int(number) for number, _, _ in group["pages"]}
+            if 1 not in existing_numbers:
+                group["pages"].append((1, index, url))
+            group["first_index"] = min(int(group["first_index"]), index)
+            absorbed_base_urls.add(url)
+            continue
+        ordered.append((index, make_single_item(url)))
+
+    for base_url, group in groups.items():
+        pages = list(group["pages"])
+        if len(pages) > 1 or base_url in absorbed_base_urls:
+            item = make_combined_item(base_url, pages)
+        else:
+            item = make_single_item(pages[0][2])
+        ordered.append((int(group["first_index"]), item))
+
+    return [item for _, item in sorted(ordered, key=lambda entry: entry[0])]
+
+
+def load_latest_manifest(manifest_path: Path) -> dict[str, dict[str, object]]:
+    latest: dict[str, dict[str, object]] = {}
+    if not manifest_path.exists():
+        return latest
+
+    with manifest_path.open("r", encoding="utf-8") as handle:
+        for line in handle:
+            line = line.strip()
+            if not line:
+                continue
+            try:
+                record = json.loads(line)
+            except json.JSONDecodeError:
+                continue
+            for key in (str(record.get("item_id", "")), str(record.get("url", ""))):
+                if key:
+                    latest[key] = record
+    return latest
+
+
+def append_manifest(manifest_path: Path, record: dict[str, object]) -> None:
+    manifest_path.parent.mkdir(parents=True, exist_ok=True)
+    with manifest_path.open("a", encoding="utf-8") as handle:
+        handle.write(json.dumps(record, ensure_ascii=False, sort_keys=True) + "\n")
+
+
+def detect_encoding(headers: object, data: bytes) -> str:
+    content_type = ""
+    if headers:
+        content_type = str(headers.get("content-type", ""))
+    match = re.search(r"charset=[\"']?([\w.-]+)", content_type, re.IGNORECASE)
+    if not match:
+        match_bytes = re.search(br"charset=[\"']?([\w.-]+)", data[:4096], re.IGNORECASE)
+        if match_bytes:
+            match = re.match(r"(.+)", match_bytes.group(1).decode("ascii", "ignore"))
+    if match:
+        return match.group(1)
+    return "utf-8"
+
+
+def fetch_html(url: str, timeout: int, insecure: bool) -> tuple[int, str, str, bytes]:
+    request = urllib.request.Request(
+        url,
+        headers={
+            "User-Agent": USER_AGENT,
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+            "Connection": "close",
+        },
+    )
+    context = ssl._create_unverified_context() if insecure else None
+
+    def open_url(open_context: ssl.SSLContext | None) -> tuple[int, str, str, bytes]:
+        with urllib.request.urlopen(request, timeout=timeout, context=open_context) as response:
+            data = response.read()
+            status = int(getattr(response, "status", 200))
+            final_url = response.geturl()
+            content_type = str(response.headers.get("content-type", ""))
+            return status, final_url, content_type, data
+
+    try:
+        return open_url(context)
+    except urllib.error.URLError as exc:
+        if not insecure and isinstance(exc.reason, ssl.SSLCertVerificationError):
+            return open_url(ssl._create_unverified_context())
+        raise
+
+def parse_html(data: bytes, content_type: str) -> tuple[str, str]:
+    fake_headers = {"content-type": content_type}
+    encoding = detect_encoding(fake_headers, data)
+    try:
+        html_text = data.decode(encoding, errors="replace")
+    except LookupError:
+        html_text = data.decode("utf-8", errors="replace")
+
+    parser = ExtractedTextParser()
+    parser.feed(html_text)
+    parser.close()
+    return parser.title, parser.text
+
+
+def derived_title(url: str, html_title: str, text: str) -> str:
+    generic = {
+        "",
+        "-:: annavin padaippugal ::-",
+        ":: annavin padaippugal ::",
+        ":: annavin padaippugal :: அறிஞர் அண்ணாவின் படைப்புகள்",
+        "annavin padaippugal",
+    }
+    normalized_title = normalize_spaces(html_title)
+    if normalized_title.lower() not in generic:
+        return normalized_title
+
+    for line in text.splitlines()[:20]:
+        line = normalize_spaces(line)
+        if "பட்டியல்" in line:
+            continue
+        if line.startswith("அறிஞர் அண்ணாவின்"):
+            continue
+        if 3 <= len(line) <= 120 and not line.isdigit():
+            return line
+
+    stem = Path(urllib.parse.urlsplit(url).path).stem or "index"
+    return stem.replace("_", " ")
+
+
+def yaml_quote(value: object) -> str:
+    text = str(value)
+    return '"' + text.replace("\\", "\\\\").replace('"', '\\"') + '"'
+
+
+def markdown_for_page(
+    url: str,
+    final_url: str,
+    status: int,
+    content_type: str,
+    html_title: str,
+    text: str,
+    fetched_at: str,
+) -> str:
+    title = derived_title(url, html_title, text)
+    body = text.strip() or "_No extractable text found on this page._"
+    return "\n".join(
+        [
+            "---",
+            f"source_url: {yaml_quote(url)}",
+            f"final_url: {yaml_quote(final_url)}",
+            f"fetched_at: {yaml_quote(fetched_at)}",
+            f"http_status: {status}",
+            f"content_type: {yaml_quote(content_type)}",
+            f"html_title: {yaml_quote(html_title)}",
+            "---",
+            "",
+            f"# {title}",
+            "",
+            f"Source: <{url}>",
+            "",
+            body,
+            "",
+        ]
+    )
+
+
+def write_atomic(path: Path, content: str) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    tmp_path = path.with_name(path.name + ".tmp")
+    tmp_path.write_text(content, encoding="utf-8")
+    os.replace(tmp_path, path)
+
+
+def sha256_bytes(data: bytes) -> str:
+    return hashlib.sha256(data).hexdigest()
+
+
+def now_iso() -> str:
+    return dt.datetime.now(dt.timezone.utc).astimezone().isoformat(timespec="seconds")
+
+
+def make_summary(
+    out_dir: Path,
+    manifest_path: Path,
+    counts: dict[str, int],
+    started_at: str,
+    finished_at: str,
+) -> None:
+    lines = [
+        "# Extraction Summary",
+        "",
+        f"- Started: {started_at}",
+        f"- Finished: {finished_at}",
+        f"- Output folder: `{out_dir}`",
+        f"- Manifest: `{manifest_path}`",
+        f"- Done files this run: {counts.get('done', 0)}",
+        f"- Partial files this run: {counts.get('partial', 0)}",
+        f"- Skipped existing: {counts.get('skipped_existing', 0)}",
+        f"- Skipped filtered: {counts.get('skipped_filtered', 0)}",
+        f"- Failed this run: {counts.get('failed', 0)}",
+        f"- Source pages fetched this run: {counts.get('pages_done', 0)}",
+        f"- Source pages failed this run: {counts.get('pages_failed', 0)}",
+        f"- Total output files considered: {counts.get('total_considered', 0)}",
+        "",
+        "Resume behavior: run the same command again. Completed files are skipped unless `--force` is used. Partial files are retried.",
+        "",
+    ]
+    write_atomic(out_dir / "_extract_state" / "summary.md", "\n".join(lines))
+
+
+def iter_selected_links(args: argparse.Namespace, links: Iterable[str]) -> list[str]:
+    selected: list[str] = []
+    for url in links:
+        if not args.include_external and not is_internal(url, args.domain):
+            continue
+        if not args.include_non_html and not looks_like_html(url):
+            continue
+        selected.append(url)
+        if args.limit and len(selected) >= args.limit:
+            break
+    return selected
+
+
+def fetch_extracted_page(url: str, args: argparse.Namespace) -> dict[str, object]:
+    status, final_url, content_type, data = fetch_html(url, args.timeout, args.insecure)
+    html_title, text = parse_html(data, content_type)
+    return {
+        "url": url,
+        "status": status,
+        "final_url": final_url,
+        "content_type": content_type,
+        "html_title": html_title,
+        "text": text,
+        "html_sha256": sha256_bytes(data),
+    }
+
+
+def clean_combined_part_text(text: str, title: str, part_number: object) -> str:
+    lines = text.strip().splitlines()
+
+    def is_leading_boilerplate(line: str) -> bool:
+        clean = normalize_spaces(line)
+        if not clean:
+            return True
+        if clean == str(part_number):
+            return True
+        if clean == title:
+            return True
+        if "பட்டியல்" in clean:
+            return True
+        if clean.startswith("அறிஞர் அண்ணாவின்"):
+            return True
+        return False
+
+    dropped = 0
+    while lines and dropped < 12 and is_leading_boilerplate(lines[0]):
+        lines.pop(0)
+        dropped += 1
+
+    while lines and normalize_spaces(lines[-1]) in {
+        "முகப்பு | எழுத்து | பேச்சு | புகைப்படம் | ஓவியம் | தொடர்பு",
+        "முகப்பு|எழுத்து|பேச்சு|புகைப்படம்|ஓவியம்|தொடர்பு",
+    }:
+        lines.pop()
+
+    return "\n".join(lines).strip()
+
+
+def markdown_for_combined_pages(
+    item: dict[str, object],
+    pages: list[dict[str, object]],
+    failures: list[dict[str, object]],
+    fetched_at: str,
+) -> str:
+    urls = list(item["urls"])
+    part_numbers = list(item["part_numbers"])
+    first_page = pages[0]
+    title = derived_title(
+        str(first_page["url"]),
+        str(first_page.get("html_title", "")),
+        str(first_page.get("text", "")),
+    )
+
+    lines = [
+        "---",
+        f"combined: {str(bool(item['combined'])).lower()}",
+        f"partial: {str(bool(failures)).lower()}",
+        f"source_url_count: {len(urls)}",
+        "source_urls:",
+    ]
+    for url in urls:
+        lines.append(f"  - {yaml_quote(url)}")
+    lines.extend(
+        [
+            f"fetched_at: {yaml_quote(fetched_at)}",
+            "---",
+            "",
+            f"# {title}",
+            "",
+            "Source pages:",
+        ]
+    )
+    for url in urls:
+        lines.append(f"- <{url}>")
+    lines.append("")
+
+    page_by_url = {str(page["url"]): page for page in pages}
+    for url, part_number in zip(urls, part_numbers):
+        page = page_by_url.get(str(url))
+        heading = f"Part {part_number}" if part_number is not None else "Page"
+        lines.extend([f"## {heading}", ""])
+        if page:
+            body = clean_combined_part_text(str(page.get("text", "")), title, part_number)
+            lines.extend([body or "_No extractable text found on this page._", ""])
+        else:
+            lines.extend(["_This source page could not be fetched during this run._", ""])
+
+    if failures:
+        lines.extend(["## Fetch Issues", ""])
+        for failure in failures:
+            error = str(failure.get("error", "unknown error"))
+            lines.append(f"- <{failure['url']}> - {error}")
+        lines.append("")
+
+    return "\n".join(lines)
+
+
+def process_item(
+    item: dict[str, object],
+    args: argparse.Namespace,
+    manifest_path: Path,
+    latest: dict[str, dict[str, object]],
+    counts: dict[str, int],
+) -> None:
+    urls = list(item["urls"])
+    out_path = output_path_for_url(str(item["output_url"]), args.out_dir, args.domain)
+    item_id = str(item["item_id"])
+    previous = latest.get(item_id, {})
+
+    if not args.force and previous.get("status") == "done" and out_path.exists():
+        counts["skipped_existing"] += 1
+        if not args.quiet:
+            print(f"skip existing: {out_path.relative_to(args.out_dir)}")
+        return
+
+    if not args.force and out_path.exists() and previous.get("status") != "partial":
+        counts["skipped_existing"] += 1
+        if not args.quiet:
+            print(f"skip existing: {out_path.relative_to(args.out_dir)}")
+        return
+
+    fetched_at = now_iso()
+    pages: list[dict[str, object]] = []
+    failures: list[dict[str, object]] = []
+
+    for url in urls:
+        try:
+            pages.append(fetch_extracted_page(str(url), args))
+            counts["pages_done"] += 1
+        except urllib.error.HTTPError as exc:
+            failures.append({"url": url, "http_status": exc.code, "error": str(exc)})
+            counts["pages_failed"] += 1
+        except Exception as exc:  # noqa: BLE001 - CLI should record and continue.
+            failures.append({"url": url, "error": f"{type(exc).__name__}: {exc}"})
+            counts["pages_failed"] += 1
+
+        if args.sleep > 0:
+            time.sleep(args.sleep)
+
+    if not pages:
+        record = {
+            "item_id": item_id,
+            "url": urls[0] if len(urls) == 1 else item_id,
+            "urls": urls,
+            "status": "failed",
+            "output_path": str(out_path),
+            "failures": failures,
+            "fetched_at": fetched_at,
+        }
+        append_manifest(manifest_path, record)
+        latest[item_id] = record
+        counts["failed"] += 1
+        print(f"failed: {urls[0]} ({failures[0].get('error', 'unknown error')})", file=sys.stderr)
+        return
+
+    if bool(item["combined"]):
+        markdown = markdown_for_combined_pages(item, pages, failures, fetched_at)
+    else:
+        page = pages[0]
+        markdown = markdown_for_page(
+            url=str(page["url"]),
+            final_url=str(page["final_url"]),
+            status=int(page["status"]),
+            content_type=str(page["content_type"]),
+            html_title=str(page["html_title"]),
+            text=str(page["text"]),
+            fetched_at=fetched_at,
+        )
+
+    try:
+        write_atomic(out_path, markdown)
+        status_name = "partial" if failures else "done"
+        record: dict[str, object] = {
+            "item_id": item_id,
+            "url": urls[0] if len(urls) == 1 else item_id,
+            "urls": urls,
+            "status": status_name,
+            "combined": bool(item["combined"]),
+            "output_path": str(out_path),
+            "fetched_at": fetched_at,
+            "page_count": len(pages),
+            "failed_page_count": len(failures),
+            "failures": failures,
+            "pages": [
+                {
+                    "url": page["url"],
+                    "http_status": page["status"],
+                    "content_type": page["content_type"],
+                    "final_url": page["final_url"],
+                    "html_sha256": page["html_sha256"],
+                    "text_chars": len(str(page["text"])),
+                }
+                for page in pages
+            ],
+        }
+        append_manifest(manifest_path, record)
+        latest[item_id] = record
+        if failures:
+            counts["partial"] += 1
+        else:
+            counts["done"] += 1
+        if not args.quiet:
+            rel = out_path.relative_to(args.out_dir)
+            label = "partial" if failures else "done"
+            print(f"{label}: {rel} ({len(pages)}/{len(urls)} pages)")
+    except Exception as exc:  # noqa: BLE001 - CLI should record and continue.
+        record = {
+            "item_id": item_id,
+            "url": urls[0] if len(urls) == 1 else item_id,
+            "urls": urls,
+            "status": "failed",
+            "output_path": str(out_path),
+            "error": f"{type(exc).__name__}: {exc}",
+            "fetched_at": fetched_at,
+        }
+        append_manifest(manifest_path, record)
+        latest[item_id] = record
+        counts["failed"] += 1
+        print(f"failed: {out_path} ({type(exc).__name__}: {exc})", file=sys.stderr)
+
+
+def build_parser() -> argparse.ArgumentParser:
+    parser = argparse.ArgumentParser(
+        description="Extract website HTML text into resumable Markdown files.",
+        formatter_class=argparse.ArgumentDefaultsHelpFormatter,
+    )
+    parser.add_argument("--links", type=Path, default=DEFAULT_LINKS, help="Markdown file containing links.")
+    parser.add_argument("--out-dir", type=Path, default=DEFAULT_OUT_DIR, help="Folder where Markdown pages are written.")
+    parser.add_argument("--domain", default=DEFAULT_DOMAIN, help="Internal domain to mirror into folders.")
+    parser.add_argument("--include-external", action="store_true", help="Also fetch external HTTP(S) links.")
+    parser.add_argument("--include-non-html", action="store_true", help="Try links that do not look like HTML pages.")
+    parser.add_argument(
+        "--no-combine-numbered-pages",
+        dest="combine_numbered_pages",
+        action="store_false",
+        help="Keep numbered pages such as name_1.htm and name_2.htm as separate Markdown files.",
+    )
+    parser.add_argument("--force", action="store_true", help="Re-fetch and overwrite existing Markdown files.")
+    parser.add_argument("--limit", type=int, default=0, help="Only process the first N selected links; 0 means no limit.")
+    parser.add_argument("--timeout", type=int, default=30, help="Network timeout per page, in seconds.")
+    parser.add_argument("--sleep", type=float, default=0.1, help="Pause between page requests, in seconds.")
+    parser.add_argument("--insecure", action="store_true", help="Disable HTTPS certificate verification.")
+    parser.add_argument("--quiet", action="store_true", help="Print only failures and final summary.")
+    parser.set_defaults(combine_numbered_pages=True)
+    return parser
+
+
+def main(argv: list[str] | None = None) -> int:
+    args = build_parser().parse_args(argv)
+    args.links = args.links.resolve()
+    args.out_dir = args.out_dir.resolve()
+
+    if not args.links.exists():
+        print(f"Link file not found: {args.links}", file=sys.stderr)
+        return 2
+
+    manifest_path = args.out_dir / "_extract_state" / "manifest.jsonl"
+    latest = load_latest_manifest(manifest_path)
+    links = read_links(args.links)
+    selected = iter_selected_links(args, links)
+    work_items = build_work_items(args, selected)
+    started_at = now_iso()
+    counts = {
+        "done": 0,
+        "partial": 0,
+        "failed": 0,
+        "skipped_existing": 0,
+        "skipped_filtered": max(0, len(links) - len(selected)),
+        "pages_done": 0,
+        "pages_failed": 0,
+        "total_considered": len(work_items),
+    }
+
+    print(f"Links file: {args.links}")
+    print(f"Output folder: {args.out_dir}")
+    print(f"Selected links: {len(selected)}")
+    print(f"Output files to consider: {len(work_items)}")
+    print(f"Combine numbered pages: {'yes' if args.combine_numbered_pages else 'no'}")
+    print("Resume: completed Markdown files will be skipped. Partial files will be retried.")
+
+    try:
+        for index, item in enumerate(work_items, start=1):
+            if not args.quiet:
+                urls = list(item["urls"])
+                label = str(item["output_url"])
+                if len(urls) > 1:
+                    label = f"{label} ({len(urls)} source pages)"
+                print(f"[{index}/{len(work_items)}] {label}")
+            process_item(item, args, manifest_path, latest, counts)
+    except KeyboardInterrupt:
+        print("\nStopped by user. Progress is saved; run the same command to resume.", file=sys.stderr)
+        make_summary(args.out_dir, manifest_path, counts, started_at, now_iso())
+        return 130
+
+    finished_at = now_iso()
+    make_summary(args.out_dir, manifest_path, counts, started_at, finished_at)
+
+    print("\nFinished.")
+    print(f"Done files this run: {counts['done']}")
+    print(f"Partial files this run: {counts['partial']}")
+    print(f"Skipped existing: {counts['skipped_existing']}")
+    print(f"Failed this run: {counts['failed']}")
+    print(f"Source pages fetched this run: {counts['pages_done']}")
+    print(f"Source pages failed this run: {counts['pages_failed']}")
+    print(f"Summary: {args.out_dir / '_extract_state' / 'summary.md'}")
+    return 0 if counts["failed"] == 0 and counts["partial"] == 0 else 1
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())

@@ -1,0 +1,105 @@
+# வாழ்க நடராசன் - சோதி! / Long Live Natarajan and Sothi!
+
+**Tamil title:** வாழ்க நடராசன் - சோதி!  
+**English title:** Long Live Natarajan and Sothi!  
+**Source file:** `katturaigal/vazhga_natarajan.md`
+
+## Source Tamil (verbatim)
+
+- Source image folder: `/Users/pugazhendhirajendran/Documents/Codex/2026-07-09/https-www-annavinpadaippugal-info/outputs/annavin_text_extractor/ocr_images/katturaigal/vazhga_natarajan`
+- OCR language: `tam`
+- Tesseract page segmentation mode: `3`
+- OCR cleanup: `enabled`
+
+## Image 1: 001-6c2baea9d9.png
+
+- Image: `katturaigal/vazhga_natarajan/001-6c2baea9d9.png`
+
+27. வாழ்க நடராசன் - சோதி!
+
+26-1-58 ஞாயிற்றுக்கிழமை காலை ராஜா பஸ், ராஜா
+டாக்்&ஸ் உரிமையாளரும், நமது அருமை நண்பருமான
+டபிள்யூ.கே. தேவராசன் அவர்களின் திருமகன்
+டி.நடராசனுக்கும் வேலூர் திரு.வி.கே.எம். நடராசனார்
+அவர்களின் திருமகள் சோதிக்கும் சென்னைப் பச்சையப்பன்
+கல்லூரித் தமிழ்ப் பேராசிரியர் டாக்டர் மு. வாதராசனார்
+
+அவர்கள் தலைமையில் திருமணம் நடைபெற்றது.
+
+திருவாளர்கள் டபிள்யூ டி.. மாசிலாமணி, பன்மொழிப்
+புலவர் கா.அப்பாத்துரை, டி.புருஷோத்தமன், எம்.எல்.சி.,
+காஞ்சி நகர மன்றத்தலைவர் வி.என். பெருமாள்,
+ஏ.கோவிந்தசாமி, எம்.எல்.ஏ., சி.வி. இராசகோபால்,
+டி.சண்முகம், எம்.எஸ்.இராமசாமி, கலைஞர் கருணாநிதி,
+
+எம்.எல்.ஏ., அ.பொன்னம்பலனார், என்.வி. நடராசன்,
+
+## Image 2: 002-615c2cdc1e.png
+
+- Image: `katturaigal/vazhga_natarajan/002-615c2cdc1e.png`
+
+கே.ஏ.மதியழகன், கே.கே. நீலமேகம், இராம.அரங்கண்ணல்,
+புரட்சி நடிகர் எம்.ஜி. இராமச்சந்திரன், வழக்கறிஞர் வி.பி.
+இராமன், இரா. செழியன், பா. வாணன், ஏ.வி.பி. ஆசைத்தம்பி,
+எம்.எல்.ஏ., டாக்டர் சத்தியவாணிமுத்து, எம்.எல்.ஏ.,
+பேராசிரியர் ௧. அன்பழகன், எம்.எல்.ஏ., நடிகமணி டி.வி.
+நாராயணசாமி, அன்பில் தர்மலிங்கம், திராவிட முன்னேற்றக்
+கழகப் பொதுச் செயலாளர் இரா. நெடுஞ்செழியன், திருமதி
+அலமேலு அப்பாதுரை, எஸ். விஜயலட்சுமி ஆகியோர்
+வாழ்த்துரை வழங்கினார்கள்.
+
+டாக்டர் மு. வரதராசனார் அவர்கள், தமிழ்த் திருமணங்கள்
+நாட்டில் நடைபெறவேண்டிய அவசியத்தை வலியுறுத்தி, இந்தத்
+திருமண விழாவில் பல சட்டமன்ற உறுப்பினர்கள் கலந்து
+கொண்டிருக்கின்ற காரணத்தால், தமிழ் வாழ்த்துதலோடு நடத்தப்
+பெறாத திருமணங்களைச் செல்லாதவைகளாக்கச் சட்டம் இயற்ற
+முயற்சிப்பார்களென்று எதிர்பார்ப்பதாகத் தெரிவித்தார்.
+
+மாநில முதலமைச்சர் காமராசர், திருவாளர்கள்
+. சி.சுப்பிரமணியம், எம்.பக்தவசலம், எஸ்.எஸ். வாசன்,
+எஸ்.ஏ. அய்யாசாமி, பி.டி. இராசன், எம்.எல்.சி,
+பி.ஆர்.இராசரத்தினம், சி.டி. நடராசன், வி.கே. இராமசாமி
+ஆகியோர் வாழ்த்துச் செய்திகள் அனுப்பியிருந்தனர்.
+மணமக்களுக்கு ஏராளமான பரிசுகளும், வாழ்த்துரைகளும்
+
+வழங்கப்பட்டன.
+
+அன்று பிற்பகல் திரு.எம்.கே. கோவிந்தராச பாகவதர்
+அவர்களின் இசையரங்கும், நடன இளவரசி ஈ.வி. சரோஜா
+வின் நடனமும், இரவு காருக்குறிச்சி அருணாச்சாலம்
+அவர்களின் நாதசுரக் கச்சேரியும் இனிது நடைபெற்றது.
+
+## Image 3: 003-9e8816cb18.png
+
+- Image: `katturaigal/vazhga_natarajan/003-9e8816cb18.png`
+
+25-7-58 அன்று இரவு காருக்குறிச்சி அருணாச்சலம்
+அவர்களின் நாதசுரத்துடனும், வேலூர் வி.கே. குப்புசாமி
+அவர்களின் பாண்டு வாத்தியத்துடனும், தஞ்சாவூர் டி.வி.
+பாபு அவர்களின் பொய்க்கால் குதிரை நாட்டியத்துடனும்
+மணமகள் அழைப்பு நடைபெற்றது. பல்லாயிரக்கணக்கான
+மக்கள் திரண்டு வந்து மணமகள் அழைப்பையும், திருமண
+விழாவையும் சிறப்பித்தார்கள்.
+
+- அண்ணா அவர்களது நன்றி கூறலுடன் திருமண
+விழா இனிது முடிந்தது.
+
+(செய்தி - திராவிட நாடு - 2-2-29)
+
+## English Translation
+
+On Sunday morning, 26 January 1958, the marriage of T. Natarajan, son of our dear friend W. K. Devarajan, proprietor of Raja Bus and Raja Talkies, and Sothi, daughter of Mr. V. K. M. Natarajan of Vellore, was solemnised under the leadership of Dr. Mu. Varadarajan, Professor of Tamil at Pachaiyappa's College, Madras.
+
+Greetings were delivered by Messrs W. T. Masilamani; multilingual scholar Ka. Appadurai; T. Purushothaman, M.L.C.; V. N. Perumal, Chairman of the Kanchipuram Municipal Council; A. Govindasamy, M.L.A.; C. V. Rajagopal; T. Shanmugam; M. S. Ramasamy; Kalaignar Karunanidhi, M.L.A.; A. Ponnambalanar; N. V. Natarajan; K. A. Mathiazhagan; K. K. Neelamegam; Rama. Arangannal; revolutionary actor M. G. Ramachandran; advocate V. P. Raman; R. Sezhiyan; Pa. Vaanan; A. V. P. Asaithambi, M.L.A.; Dr. Sathyavani Muthu, M.L.A.; Professor K. Anbazhagan, M.L.A.; distinguished actor T. V. Narayanasamy; Anbil Dharmalingam; Dravida Munnetra Kazhagam General Secretary R. Nedunchezhian; Mrs. Alamelu Appadurai; and S. Vijayalakshmi.
+
+Dr. Mu. Varadarajan emphasised the need for Tamil marriages to be conducted in the country. Because many legislators were attending the ceremony, he expressed the hope that they would seek to enact a law declaring invalid any marriage not conducted with a Tamil invocation.
+
+Messages of greeting had been sent by State Chief Minister Kamaraj and Messrs C. Subramaniam, M. Bhaktavatsalam, S. S. Vasan, S. A. Ayyasamy, P. T. Rajan, M.L.C., P. R. Rajarathinam, C. T. Natarajan, and V. K. Ramasamy. Numerous gifts and greetings were presented to the couple.
+
+That afternoon, a musical performance by Mr. M. K. Govindaraja Bhagavathar and a dance by dancing princess E. V. Saroja were held, followed at night by a nadaswaram concert by Karukurichi Arunachalam.
+
+On the night of 25 July 1958, the reception of the bride was held with the nadaswaram of Karukurichi Arunachalam, the band music of Vellore V. K. Kuppusamy, and the dummy-horse dance of Thanjavur T. V. Babu. Many thousands of people gathered and distinguished both the bridal reception and the wedding ceremony.
+
+The wedding celebration concluded pleasantly with Anna's vote of thanks.
+
+(*Dravida Nadu*, news item, 2-2-29)

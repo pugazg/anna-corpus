@@ -1,0 +1,1 @@
+../../md_pages/sorpozhivugal/speech18_karai.md

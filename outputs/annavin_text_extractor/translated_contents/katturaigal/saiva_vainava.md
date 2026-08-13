@@ -1,0 +1,561 @@
+# சைவ-வைணவ மதபோதனை / Saivite-Vaishnavite Religious Instruction
+
+**Tamil title:** சைவ-வைணவ மதபோதனை  
+**English title:** Saivite-Vaishnavite Religious Instruction  
+**Source file:** `katturaigal/saiva_vainava.md`
+
+## Source Tamil (verbatim)
+
+- Source image folder: `/Users/pugazhendhirajendran/Documents/Codex/2026-07-09/https-www-annavinpadaippugal-info/outputs/annavin_text_extractor/ocr_images/katturaigal/saiva_vainava`
+- OCR language: `tam`
+- Tesseract page segmentation mode: `3`
+- OCR cleanup: `enabled`
+
+## Image 1: 001-2a8a4d5438.png
+
+- Image: `katturaigal/saiva_vainava/001-2a8a4d5438.png`
+
+91. சைவ-வைணவ மதபோதனை
+
+மடாதிபதிகளின் முயற்சியும், சர்க்காரின் அதிகாரபூர்வமான
+ஆதரவும் சேர்ந்த ஒரு புதிய திட்டம் இப்போது அமுலுக்கு வரப்
+போவதாகத் தெரிகிறது. அதாவது, மக்கள், தங்கள் வாழ்க்கையை
+நடத்துவதற்கு வேண்டிய எல்லாவிதமான வசதிகளையும் பெற்று
+விட்டனர் என்றும், இனி அவர்களுக்கு யாதொரு குறையும்
+இல்லையென்றும், உணவுப் பஞ்சமோ,துணிப்பஞ்சமோ, வேலை
+யில்லாத் -திண்டாட்டமோ நாட்டில் இனித் .தலைகாட்ட முடியா
+தென்றும், இவற்றிக்கான அடிப்படை ஆக்கவேலைகள் எல்லாம்
+சர்க்கார் சரிவரச் செய்துவிட்டதென்றும், இப்போது மக்களுக்கு
+
+## Image 2: 002-47da6e20b0.png
+
+- Image: `katturaigal/saiva_vainava/002-47da6e20b0.png`
+
+வேண்டப்படுவது, ஆத்மா சாந்தி அடைவதற்குரிய ஒரே மார்க்கம்
+தான் என்றும், இந்தத் திட்டத்தையும் நடைமுறைக்குக் கொண்டு
+வந்து விட்டால், இனி, மேற்கொண்டு சர்க்கார் மக்களின் நன்மைக்
+காகச் செய்யவேண்டியது எதுவும் இல்லையென்றும் பொருள்
+் கொள்ளும் முறையில் அந்தப் புதிய திட்டம் மக்கள்முன் கொண்டு
+வரப்படுகின்றது.
+
+அந்தத் திட்டம் என்னவென்றால், சைவ-வைணவ
+மதங்களைப் பற்றிய உண்மைகளையும் உயர்வுகளையும் மக்கள்
+அறியும்படி செய்வதாகும். சர்க்கார், மன்றங்கூட்டி, மக்களுக்கு
+இப்போது இன்றியமையாது தேவைப்படுவது எது என்று
+ஆலோசித்தல், சைவ-வைணவ மதங்களின் உயர்வை
+அறிந்துகொள்வது ஒன்றுதான் என்ற முடிவுக்கு வந்தனர் என்றும், .
+எனவே இத்திட்டத்தை நடைமுறைக்குக் கொண்டுவருவது
+உடனடியாகச் செய்யப்பட வேண்டிய காரியமென்றும் சர்க்கார்
+கருதுவதாகத் தெரிகிறது. அதனாலேதான், சைவ-வைணவ மதச்
+சிறப்புகளை மக்களிடையே பரப்புவதற்கு ஒரு பிரச்சாரக்
+குழுவையும் ஏற்படுத்தப் போவதாகவும் தெரிகிறது.
+
+எனவே, சைவ-வைணவ மதங்களை நாட்டில் பரப்பும்
+பணியினைத்தான், நாடு இன்றுள்ள நிலையில், சர்க்கார் மிகவும்
+அவசர அவசரமாகச் செய்ய வேண்டுமா என்பது ஒருபுறமிருக்க,
+அந்த மதங்களால் மக்கள் அடைந்த - அடைகின்ற - அடையப்
+போகும் நன்மைகள் யாவை என்பதைச் சர்க்கார் முதலில் தெரிந்து
+கொள்ள வேண்டுமென்பதற்காகவும், சைவ-வைணவ மதங்களைப்
+பற்றிப் பிரச்சாரம் செய்யச் சர்க்கார் நியமிக்கும் மதபோதகர்களிடம்
+பொதுமக்கள் தங்கள் ஐயப்பாடுகளைக் கேட்டுத் தெரிந்து தெளிவு
+பெறுவதற்காகவும் பயன்படக்கூடிய சில வினாக்களை இங்கு
+
+## Image 3: 003-6e376ee429.png
+
+- Image: `katturaigal/saiva_vainava/003-6e376ee429.png`
+
+வெளியிடுகிறோம்.. சைவ-வைணவ மதங்களைப் பின்பற்றும்
+நோக்கத்தோடுள்ளவர்கள், இந்த வினாக்களைத் தங்களிடம்
+மதபோதனை செய்யவரும் பிரச்சாரகர்களைக் கேட்டு, விடை
+தெரிந்து கொள்வது அவர்களுடைய நோக்கத்துக்கு அரண்
+.. செய்வதுமாகும்.
+
+வினாக்கள்
+
+ர்
+
+-நமது நாட்டில் சைவ சமயத்திற்கு முன்னால் ஏதாவது
+
+சமயம் இருந்ததா?
+அது எது?
+சைவ சமயம் என்பது எப்போது உண்டாயிற்று?
+
+அதற்கு முதல் கர்த்தா அல்லது சமயாச்சாரி என்பவர்
+யாவர்?
+
+சைவசமயத்திற்கு மற்றச் சமயத்தில் இல்லாத தனிக்
+கொள்கைகள் என்ன?
+
+அதற்கு ஆதாரம் யாது?
+
+சைவம் என்பது சிவன் என்னும் ஒரு உருவமுள்ள
+கடவுளை வழிபடு கடவுளாகக் கொண்டதா?
+
+அல்லது தனித் தெய்வமில்லாமல் ஏதாவது கொள்கைகளை
+மாத்திரமோ அல்லது குணத்தை மாத்திரமோ அடிப்படை
+பாகக் கொண்டதா?
+
+சிவன் என்பது ஒரு கடவுள் பெயரா?
+
+## Image 4: 004-1ba093bed0.png
+
+- Image: `katturaigal/saiva_vainava/004-1ba093bed0.png`
+
+10.
+11.
+12.
+
+13.
+
+14,
+
+15.
+
+16.
+
+12.
+
+194
+
+20.
+
+ஒரு தன்மையா?
+
+ஒரு குணமா?
+சிவனுக்கு உருவம் சொல்லப்படுகிறதே, அது ஏன்?
+
+அதற்குப் பெண்டு பிள்ளைகளும் இருப்பதாகக்
+காணப்படுகிறதே, அது ஏன்?
+
+சீ
+
+சைவ சமய. சம்பந்தமான பல கடவுள்களுக்கு உள்ள
+ஆயிரக்கணக்கான பெயர்கள் வடமொழியில்
+இருப்பானேன்?
+
+ஆயிரக்கணக்கான கடவுள்களுக்கும் அவர்களது பெண்டு
+பிள்ளைகளுக்கும் வேறு வேறு பெயர்கள் ஏன்?
+சைவத்திற்கும் சமணக் கொள்கைகளுக்கும் பெளத்தக்
+கொள்கைகளுக்கும் உள்ள வித்தியாசம் என்ன?
+
+ஆரிய வேதத்தையும் ஜீவபலி வேள்வியையும் சைவம்
+ஒப்புக் கொள்ளுகின்றதா மறுக்கின்றதா?
+
+சைவ சமயாச்சாரியார்கள் என்பவர்கள் ஆரிய வேதத்தை
+யும் அதில் காணும் வேள்விகளையும் ஒப்புக்
+கொள்கின்றார்களா மறுக்கின்றார்களா?
+
+சமணர்கள் வேத வேள்வியை நிந்தனை செய்தார்கள்
+என்றால், அது எந்த வேதத்தையும் வேள்வியையும்?
+
+சைவ சமயத்திற்குள்ள சித்தாந்தமும் ஆகமும் வடமொழியா
+தென்மொழியா?
+
+## Image 5: 005-a6938cc096.png
+
+- Image: `katturaigal/saiva_vainava/005-a6938cc096.png`
+
+21.
+
+22.
+
+23.
+
+24.
+
+25.
+
+26,
+
+27.
+
+28.
+
+29,
+
+30.
+
+31.
+
+32.
+
+சைவத்தையே சேர்ந்த சைவக் கடவுள்கள் இருக்கும்
+தனித்தனி ஊர்களுக்குத் தனித்தனி பெருமை ஏன்?
+
+சமயாச்சாரியார்கள் என்போர்களால் பாடப்பட்ட ஊர்
+களுக்கும் பாடப்பட்ட கடவுள்களுக்கும் மாத்திரம் அதிக
+மான மதிப்பு என்?
+
+சைவ சமயாச்சாரியார்களும் சைவ சமய பக்தர்களும்
+பெளத்தர்களையும் சமணர்களையும் துன்புறுத்தியதேன்?
+
+துன்புறுத்தவில்லையானால் தேவாரம் முதலியவைகளில்
+அவர்களைக் கண்டபடி இழித்துக் கூறி வைத்திருப்பதேன்?
+
+வடமொழிக் கதைகளையும் வடமொழிப் புராணங்களையும்
+தள்ளிவிட்டால் சைவர்களுக்கு ஏதாவது கடவுளுண்டா?
+
+சைவத்திற்கு ஏககடவுள் வணக்கமா? பல கடவுள்
+வணக்கமா?
+
+எத்தனை கடவுள்கள் இது வரை கண்டுபிடிக்கப்பட்டி
+ருக்கின்றன?
+
+அதோடு தீர்ந்ததா இனியும் உண்டாகுமா?
+சைவ சமயத்திற்குக் கோவில் கொள்கை உண்டா?
+விக்கிரர ஆராதனை உண்டா?
+
+வேறு ஒருவன் அர்ச்சகனாக இருந்துதான் கடவுளை
+வணங்க வேண்டுமா?
+
+ஆகிய இவைகளுக்கு ஆதாரம் எது?
+
+## Image 6: 006-9a5eeea6da.png
+
+- Image: `katturaigal/saiva_vainava/006-9a5eeea6da.png`
+
+33.
+
+34.
+
+35.
+
+96.
+
+37.
+
+38.
+
+99.
+
+40.
+
+41.
+
+42.
+
+சைவர்களில் ஒவ்வொருவரும் அவரவர் வணங்க வேண்டிய
+கடவுளை நேரில் பூசனைபுரிய அவரவருக்கு
+உரிமையுண்டா?
+
+சைவத்தில் ஜாதி வித்தியாசம் உண்டா?
+
+சைவக் கோவில்களில் இப்போது ஜாதி வித்தியாசம்
+பாராட்டப்படுகின்றதா?
+
+அது சைவத்திற்கு முரணா அல்லவா?
+
+முரணானால் அம்முரணுக்கு இதுவரை சைவர்கள் ஏதாவது
+
+பரிகாரம் செய்தார்களா?
+
+கடவுளை வணங்கக் கற்பூரம் கொளுத்தி வைத்து
+வணங்க வேண்டுமென்பதற்கு ஏதாவது ஆகமம் உண்டா?
+எந்த ஆகமத்தில் சொல்லுகிறது,
+
+ஏதாவது ஒரு ஆகமத்தில் சொல்லப்பட்டால் அது
+ஆரியர்கள் ஆகமமா? தமிழர்கள் ஆகமமா?
+
+கற்பூரம் கொளுத்தும் வழக்கம் எது முதல் அனுஷ்டிக்கப்
+பட்டு வருகின்றது?
+
+பிள்ளையார் என்ற கடவுளுக்கு சைவத்தில் இடம்
+இருக்கின்றதா?
+
+கந்தபுராணத்தை சைவர்கள் ஒப்புக் கொள்ளுகின்றார்களா?
+
+திருவிளையாடற் புராணத்தை ஒப்புக் கொள்ளு
+கின்றார்களா?
+
+## Image 7: 007-bafb069cfd.png
+
+- Image: `katturaigal/saiva_vainava/007-bafb069cfd.png`
+
+43.
+44.
+45.
+
+46,
+
+47.
+48,
+
+49,
+
+50.
+
+51.
+
+925
+
+ஒப்புக்கொள்ளுவதானால் அது சைவத்தில் பொருந்தியது
+தானா?
+
+சைவர்கள் சிவரகசியத்தையும் சிவமகா புராணத்தையும்
+சிவபராக்கிரமத்தையும் ஒப்புக் கொள்ளுகின்றார்களா?
+
+நால்வர்கள் பிரம்மாவையும் விஷ்ணுவையும் ஒப்புக்
+கொள்கின்றார்களா?
+
+அவை தனித்தனிக் கடவுள்களா?
+
+நால்வர்கள் விஷ்ணுவைத் தாழ்த்திப்பாடி இருந்தால் அது
+மதத்துவேஷமா அல்லவா?
+
+மனுஸ்மிருதியும் பராசரஸ் மிருதியையும் சைவர்கள் ஒப்புக்
+கொள்ளுகின்றார்களா?
+
+சமணர்கள் கழுவேற்றப்பட்டதைச் சைவர்கள் ஒப்புக்
+கொள்ளுகின்றார்களா? கோவில்களில் இன்றும்
+திருவிளையாடல் புராணக்கதை உற்சவங்கள்
+நடக்கின்றதை மறுக்கின்றார்களா ஒப்புக்
+கொள்கின்றார்களா? ப
+
+திருநீறு எதற்காகப் பூசுவது?
+
+- இலிங்கத்திற்கும் ஆவுடையாருக்கும் சொல்லும் கதையை
+
+ஒப்புக் கொள்ளுகின்றார்களா இல்லையா?
+
+ஒப்புக்கொள்ளாவிட்டால் அப்படி உள்ள வடமொழி :
+ஆதாரத்திற்கு என்ன பதில் சொல்லக்கூடும்?
+
+## Image 8: 008-b107692094.png
+
+- Image: `katturaigal/saiva_vainava/008-b107692094.png`
+
+53.
+
+94,
+
+55.
+
+56.
+
+57.
+
+58.
+
+99.
+
+60.
+
+61.
+
+62.
+
+63.
+
+64.
+
+இலிங்கம் என்னும் வார்த்தை ள்ன்ன பாஷை? அதற்கு
+என்ன அர்த்தம்? எந்த ஆதாரப்படி ?
+
+கைலயங்கிரி எது, சுப்பிரமணியன் எது, கந்தன் எது,
+குமரன் எது?
+
+மலையரசன் மகளென்றால் என்ன?
+
+இப்போது இதுவரை நடந்து வந்த கோவில்முறை பூசை
+முறை உற்சவமுறை முதலியவகைளால் ஏற்பட்ட நன்மைகள்
+என்ன?
+
+இவை இப்படியே நடக்க வேண்டியவைதானா?
+
+இவைகளின் பேரால் பல லக்ஷம் ரூபாய்கள் செலவா
+
+“தின்றது நியாயந்தானா?
+
+அதை நிறுத்தி அச்செலவையும் காலத்தையும் வேறு
+வழியில் திருப்பலாமா அல்லது இப்படியேதான்
+இருக்கவேண்டுமா?
+
+சைவர்கள்மேல் உலகத்தை ஒப்புக் கொண்டார்களா?
+மறுபிறப்பை ஒப்புக் கொள்ளுகின்றார்களா? ்
+திதிகளை ஒப்புக் கொள்ளுகின்றார்களா?
+பிராமணர்களை ஒப்புக் கொள்ளுகின்றார்களா?
+
+சமயாச்சாரிகளின் அற்புதங்களை எல்லாம் அப்படியே
+நடந்ததாகவே ஒப்புக் கொள்ளுகின்றார்களா?
+
+## Image 9: 009-635ec496f9.png
+
+- Image: `katturaigal/saiva_vainava/009-635ec496f9.png`
+
+65.
+
+66.
+
+67.
+
+08.
+
+69.
+70.
+ம்பி
+72.
+79,
+74.
+
+75,
+76,
+
+ரட்ட
+
+மற்றும் சைவப்புராணங்களில் உள்ள எல்லா அற்புதங்
+களையும் நடந்ததாகவே ஒப்புக்கொள்ளுகிறார்களா?
+
+2
+ஒவ்வொரு கோவிலுக்கும் ஒவ்வொரு சாமிக்கும் ஏற்பட்ட
+ஸ்தல மூர்த்தி தீர்த்த புராணங்களை உண்மை என்பதாக
+ஒப்புக் கொள்ளுகின்றார்களா?
+
+சைவர்களுக்கு கலியாண முறை எது?
+
+சைவர்களுக்கு அல்லது சைவச்சாமிகளுக்குத் தேவதாசி
+முறைகள் உண்டா?
+
+வருணாசிரமம் உண்டா?
+
+உண்டென்றால் ஆதாரம் எது?
+
+இல்லை என்றால் வத்ருக் எது?
+
+இப்பொழுது அமுலில் இருப்பதற்குக் காரணம் என்ன?
+சைவ மடங்கள் எதற்கு?
+
+அவைகள் இதுவரை சாதித்தது என்ன?
+
+அம்மடங்கள் இனியும் அப்படியே இருக்க வேண்டியது
+தானா?
+
+இம்மடங்களைத் திருத்த இதுவரை எந்தச் சைவராவது
+முயற்சித்ததுண்டா? ்
+
+இப்பொழுதுள்ள சைவர்களில் சைவ சமயத்தைப் பற்றி
+அபிப்பிராயம் சொல்ல நிபுணர் யார்?
+
+## Image 10: 010-8b8909e10e.png
+
+- Image: `katturaigal/saiva_vainava/010-8b8909e10e.png`
+
+78.
+
+79;
+
+80.
+
+81.
+
+அருகதை உடையவர் யார்?
+
+பாரதம், இராமாயணம், பாகவதம் முதலிய வைணவப்
+புராணங்களில் வரும் சிவனைச் சைவர்கள் ஒப்புக்
+கொள்கிறார்களா?
+
+இதுபோலவே, பெரிய புராணம், தேவாரம், திருவாசகம்
+ஆகிய நூல்களில் பேசப்படும் திருமாலை வைணவர்கள்
+தங்கள் கடவுளென ஒப்புக் கொள்கிறார்களா?
+
+வடமொழியும், அம்மொழியிலுள்ள நூல்களும் இன்றிச்
+சைவ வைணவங்களை விளக்க முடியுமா?
+
+(20.6.48 திராவிட நாடு இதழில் வெளி வந்தது.)
+
+## English Translation
+
+A new scheme, combining the efforts of the heads of religious monasteries with the official support of the government, now appears ready to be implemented. Its implication is that the people have obtained every facility required to conduct their lives; that they now lack nothing; that food scarcity, clothing scarcity and the misery of unemployment can no longer raise their heads in the country; that the government has properly completed all the fundamental constructive work needed to address these problems; and that what the people now require is only the path by which the soul may attain peace. The scheme is presented to the public as though, once it too has been implemented, nothing further will remain for the government to do for the people's welfare.
+
+What is that scheme? It is to enable the people to learn the truths and merits of the Saivite and Vaishnavite religions. It appears that the government convened a council to consider what the people now need indispensably, and that the council concluded that their sole need is to understand the greatness of the Saivite and Vaishnavite religions. The government therefore seems to regard implementing this scheme as a task requiring immediate action. That is evidently why it also proposes to establish a propaganda committee to spread the distinctive merits of the Saivite and Vaishnavite religions among the people.
+
+Leaving aside for the moment whether propagating the Saivite and Vaishnavite religions is truly what the government must undertake with such extreme urgency in the country's present condition, we publish below some questions that may help the government first understand what benefits the people have received, are receiving or will receive from those religions. They may also help members of the public put their doubts to the religious instructors appointed by the government for this propaganda and obtain clear answers. Those intending to follow the Saivite and Vaishnavite religions may ask these questions of the campaigners who come to instruct them; learning the answers will also fortify their purpose.
+
+## Questions
+
+1. Did any religion exist in our country before the Saivite religion?
+2. What was it?
+3. When did the Saivite religion arise?
+4. Who was its original founder or religious teacher?
+5. What doctrines distinguish the Saivite religion from other religions?
+6. What is the authority for them?
+7. Is Saivism a religion that takes a god with a form, called Siva, as its object of worship?
+8. Or does it rest only upon certain doctrines or a particular quality, without a separate deity?
+9. Is “Siva” the name of a god?
+10. Is it a state or nature?
+11. Is it a quality?
+12. Why, then, is Siva described as possessing a form?
+13. Why is he also represented as having a wife and children?
+14. Why are the thousands of names belonging to the many gods associated with the Saivite religion in Sanskrit?
+15. Why do those thousands of gods, their wives and their children have different names?
+16. What is the difference between Saivite doctrines and Jain and Buddhist doctrines?
+17. Does Saivism accept or reject the Aryan Vedas and sacrificial rites involving living victims?
+18. Do those called the Saivite religious preceptors accept or reject the Aryan Vedas and the sacrifices found in them?
+19. If the Jains denounced Vedic sacrifice, which Veda and which sacrifice did they denounce?
+20. Are the Siddhanta and Agamas of the Saivite religion in a northern language or a southern language?
+21. Why is a separate distinction attached to every individual town in which a particular Saivite god resides?
+22. Why are only the towns and gods sung by those called the religious preceptors accorded greater value?
+23. Why did Saivite religious preceptors and Saivite devotees persecute Buddhists and Jains?
+24. If they did not persecute them, why do the Tevaram and other works revile them so freely?
+25. If Sanskrit stories and Sanskrit Puranas are discarded, do Saivites have any god left?
+26. Does Saivism prescribe worship of one god or many gods?
+27. How many gods have been discovered so far?
+28. Has the number ended there, or will still more arise?
+29. Does the Saivite religion have a doctrine of temples?
+30. Does it have image worship?
+31. Must a person worship God only through someone else serving as priest?
+32. What is the authority for these practices?
+33. Does every Saivite have the right personally to perform worship to the god whom he or she is to worship?
+34. Does Saivism recognise caste distinctions?
+35. Are caste distinctions now observed in Saivite temples?
+36. Is that contrary to Saivism or not?
+37. If it is contrary, have Saivites so far undertaken any remedy for that contradiction?
+38. Is there any Agama requiring camphor to be lit when worshipping God?
+39. In which Agama is it stated?
+40. If it is stated in an Agama, is that an Aryan Agama or a Tamil Agama?
+41. From what time has the custom of lighting camphor been practised?
+42. Does the god called Pillaiyar have a place in Saivism?
+43. Do Saivites accept the Kanda Puranam?
+44. Do they accept the Tiruvilaiyadal Puranam?
+45. If they accept it, is it compatible with Saivism?
+46. Do Saivites accept the Siva Rahasyam, Siva Maha Puranam and Siva Parakramam?
+47. Do the Four Saints accept Brahma and Vishnu?
+48. Are they separate gods?
+49. If the Four Saints sang disparagingly of Vishnu, is that religious hatred or not?
+50. Do Saivites accept the Manusmriti and the Parasara Smriti?
+51. Do Saivites approve of the Jains having been impaled? Do they deny or accept that festivals based on this Tiruvilaiyadal Purana story are conducted in temples even today?
+52. Why is sacred ash applied?
+53. Do they accept the story told about the lingam and its pedestal, or not?
+54. If they do not accept it, what answer can they give to such Sanskrit authorities?
+55. To what language does the word “lingam” belong, what does it mean, and according to what authority?
+56. What is Mount Kailasa, what is Subramanian, what is Kandan, and what is Kumaran?
+57. What does “the daughter of the mountain king” mean?
+58. What benefits have resulted from the temple system, methods of worship, festival system and similar practices followed until now?
+59. Are these practices to continue in the same manner?
+60. Is it just that many lakhs of rupees are spent in their name?
+61. May that expenditure and time be stopped and redirected elsewhere, or must matters remain exactly as they are?
+62. Do Saivites accept a world above?
+63. Do they accept rebirth?
+64. Do they accept the observance of ancestral death rites?
+65. Do they accept Brahmins?
+66. Do they accept that all the miracles of the religious preceptors happened exactly as described?
+67. Do they likewise accept that every miracle in the Saivite Puranas actually occurred?
+68. Do they accept as true the legends of the sacred site, deity and holy water associated with every temple and every god?
+69. What is the Saivite form of marriage?
+70. Do Saivites, or Saivite deities, have a devadasi system?
+71. Does the varna-ashrama system exist in Saivism?
+72. If it does, what is the authority for it?
+73. If it does not, what is the basis for that denial?
+74. Why, then, is it in operation now?
+75. What purpose do Saivite monasteries serve?
+76. What have they accomplished so far?
+77. Must those monasteries continue in their present condition?
+78. Has any Saivite so far attempted to reform them?
+79. Among present-day Saivites, who is an expert qualified to express an opinion about the Saivite religion?
+80. Do Saivites accept the Siva who appears in Vaishnavite Puranas such as the Bharatham, Ramayanam and Bhagavatham? Likewise, do Vaishnavites accept as their own god the Tirumal spoken of in the Periya Puranam, Tevaram and Tiruvasagam?
+81. Can Saivism and Vaishnavism be explained without Sanskrit and the works in that language?
+
+(Published in the 20 June 1948 issue of *Dravida Nadu*.)
+
+## Translator's Notes
+
+The article is a deliberately sceptical questionnaire aimed at the government's proposed religious-propaganda programme. `சைவம்` and `வைணவம்` are rendered as “Saivism” and “Vaishnavism”; `நால்வர்கள்` denotes the four principal Saivite saints; and `திதி` in this context denotes rites for deceased ancestors. Question 62 contains damaged OCR (`சைவர்கள்மேல் உலகத்தை`), which appears to refer to acceptance of a higher or other world; the English therefore remains conservative. Question 73 also contains a damaged source phrase (`வத்ருக் எது`), translated from its immediate logical contrast without silently repairing the Tamil source.

@@ -1,0 +1,220 @@
+# வாழ்வு ஒரு திருநாள் ஆகும் நாள் எந்நாள்? / When Will Life Become a Festival?
+
+**Tamil title:** வாழ்வு ஒரு திருநாள் ஆகும் நாள் எந்நாள்?  
+**English title:** When Will Life Become a Festival?  
+**Source file:** `katturaigal/vazhvu_oru.md`
+
+## Source Tamil (verbatim)
+
+- Source image folder: `/Users/pugazhendhirajendran/Documents/Codex/2026-07-09/https-www-annavinpadaippugal-info/outputs/annavin_text_extractor/ocr_images/katturaigal/vazhvu_oru`
+- OCR language: `tam`
+- Tesseract page segmentation mode: `3`
+- OCR cleanup: `enabled`
+
+## Image 1: 001-25dc9dc531.png
+
+- Image: `katturaigal/vazhvu_oru/001-25dc9dc531.png`
+
+- 63. வாழ்வு ஒரு திருநாள் ஆகும்
+நாள் எந்நாள்?
+
+ஏங்கு செல்கிறோம், எவ்வழி நடக்கிறோம் என்ற
+விளக்கம் பெற எட்டாத நிலையில், நடந்திடும் போது,
+இந்தப் பாதை வழி சென்றிடின் இத்தனை கல் தொலைவில்
+சிரூர் இருக்கிறது என்று எடுத்துக்காட்டும் அறிவிப்புப்
+பலகை தென்படின், ஓர் மகிழ்ச்சி பெறுகின்றோம்.
+
+காரிருள்! பொருளின் வடிவும் வகையும் தெரிந்து
+கொண்டிட இயலவில்லை மேடு எது, பள்ளம் எது. பாம்பு
+எது பழுதை எது என்று புரிந்து கொள்ள முடியவில்லை.
+அந்நிலையில் ஓர் ஒளிவிளக்குத் தந்திடில், எத்துணை மகிழ்ச்சி
+பெறுகின்றோம்!
+
+கோடை கொளுத்துகிறது! உச்சி வெடித்துவிடுமோ
+என்ற அஞ்சத் தக்கநிலை! வியர்வை கொட்டுகிறது!
+கண்களிலே ஓர் எரிச்சல்! அந்நிலையில் பூங்காற்று வீசிடின்,
+எத்தகைய மகிழ்ச்சி கொள்கின்றோம்!
+
+## Image 2: 002-e3c6c1bf6f.png
+
+- Image: `katturaigal/vazhvu_oru/002-e3c6c1bf6f.png`
+
+மேலே மேலே வெள்ளம்! சுழல்! நீந்தி நீந்திக் கைகால்
+சோர்ந்து போய் விடுகிறது! இனி முடியா - எல்லாம் தீர்ந்து
+விட்டது என்ற நிலை! அந்தச் சமயம் ஓர் 'தெப்பக் கட்டை'
+கிடைத்தால் எப்படியிருக்கும் அந்த மகிழ்ச்சி!
+
+தங்கத்தால் செய்து வைரம் இழைக்கப்பட்டதாக ஒரு
+தெப்பக்கட்டையைப் பிறகோர் நாள் பரிசாக அளித்தால்
+பெறக்கூடிய மகிழ்ச்சி, வெள்ளத்தில் மூழ்கி விடாமல் உயிர்
+தப்புவதற்குப் பயன்படும் சாதாரண மரக்கட்டை கிடைத்த
+போது ஏற்படும் மகிழ்ச்சியிலே பதினாயிரத்திலே ஒரு பங்கு
+கூட இருந்திட முடியாது.
+
+நெஞ்சைத் துக்கம் துளைக்கிறது! ஓயாத தொல்லை
+காரணமாக மனம் உலையிட்ட துரும்பாகிறது! அந்தச்
+சமயத்தில், எங்கிருந்தோ குழலோசை கேட்கிறது.துயரம்
+கப்பிக் கொண்டிருக்கும் நிலையிலும் அந்த இசை இனிமை
+_ தருகிறதல்லவா?
+
+வறுமைப் பிடியிலே சிக்கி, வாழ்வு பெரும்சுமை
+- என்கிற பெருமூச்செறிந்தும், விம்மிக் கொண்டும், கண்களைக்
+கசக்கிக் கொண்டும், கையைப் பிசைந்து கொண்டும் உள்ள
+நிலையில், உள்ள மக்களுக்கு, ஆண்டுக்கு, ஓர்முறை கிடைத்
+திடும் பொங்கற் புதுநாள் எனும் விழா. அதுபோன்றதோர்
+மகிழ்ச்சியை, இன்பத்தை இனிமையைத் தந்து வருகிறது.
+
+ஆனால் ஒருநாள் திருநாள்; மற்றைய நாட்கள் திகைப்புத்
+தந்திடும் நாட்கள் என்ற நிலை கப்பிக் கொண்டுள்ள மட்டும்,
+மகிழ்ச்சி நிலையானதாக, முழு அளவினதாக, முழுப்பொருள்
+தருவதாக இருந்திட முடியாது.
+
+எனவேதான், மக்களின் வாழ்வு நிம்மதி தருவதாக
+அமைய வேண்டும் என்று ஆன்றோர் கூறினர்.
+
+## Image 3: 003-1fc0840f85.png
+
+- Image: `katturaigal/vazhvu_oru/003-1fc0840f85.png`
+
+நாட்டுக்கே இலக்கணம் வகுத்தளித்த வள்ளுவப்
+பெருந்தகை.
+
+“உறுபசியும் ஓவாப் பிணியும் செறுபகையும்
+சேரா தியல்வது நாடு" என்றார்.
+
+வள்ளுவர் எவை எவை கூடாதென்றுரைத்தாரோ,
+அவைகளின் பிடியிலே சிக்கி நாடு இன்று சீரழிகிறது,
+மக்கள் அலைக்கழிக்கப்படுகின்றனர்.
+
+இந்நிலைமை ஒருநாள் மறந்திருக்கச் செய்திடும்
+திருநாளன் று - இதுபோதும் என்ற மனைநிறைவு பெற்றிட
+முடியாது, பெற்றிட முனைவது பேதையர் செயலாகும்.
+
+எனவே, நாடு வளம்பெற; மக்கள் நல்வாழ் பெற,
+திட்டமிட்டுப் பணியாற்றிடும் ஓர் நல்லரசு தேவை என்ற
+உணர்வும், அதனை வேறு யாரோ ஆக்கி நமக்கு அளித்திடுவர்
+என்று எண்ணிக் கொள்ளாமல், அதனை ஆக்கிடும் கடமை
+நம்முடையது என்ற பொறுப்புணர்ச்சியும், முயன்றால்
+முடியும் என்ற நம்பிக்கையும், அதற்கேற்ற செயலார்வமும்,
+கூடிப் பணியாற்றும் திட்டமும், ஒவ்வொருவரும் பெற்றிட
+விழாநாள் பயன்படவேண்டும்.
+
+அக்ரமம் அழிக்கப்பட்டு, நீதி நிலை நாட்டப்பட்டு,
+வளம் பெருக்கப்பட்டு வன்கணாளர் கொட்டம் அடக்கப்
+பட்டு எல்லோரும் இன்புற்று இருந்திடும் நெறிகடைப்
+பிடிக்கப்பட்டு, மக்களின் பொதுநலன் பாதுகாக்கப்பட
+வேண்டும்; அந்தப் புனிதப் பணியிலே நமது பங்கினைச்
+செலுத்தவே, நமது அறிவாற்றல் வசதி வாய்ப்பு பயன்பட
+வேண்டும் என்ற உறுதியினை மடப் நாளன்று பெற்றிட
+வேண்டும்.
+
+## Image 4: 004-701ca2e035.png
+
+- Image: `katturaigal/vazhvu_oru/004-701ca2e035.png`
+
+தூயவனின் உடலிலிருந்து ஒரு சொட்டு ரத்தம்
+சிந்திடின், ஒரு கோடி. மக்களின் கண்களிலே நீர் கொட்டு
+கிறது. காரணம்? நமக்காக, நாட்டுக்காக, நல்லதற்காக
+வாழ்பவர் வாழ்ந்திட வேண்டும் என்ற உணர்வு.
+
+இன்று கண்ணீர் சிந்திடும் உழைப்பாளியைக் கண்டும்
+பன்னீரில் குளித்து மகிழ்ந்திடும் ஒரு சிலர் இருந்திட
+காண்கின்றோம்.
+
+அக்ரமம் ஆர்ப்பரிக்கிறது. அதனை இசையாகக்
+கொண்டிடுக என்று அணவ அரசு கட்டளையிடுகிறது
+சுயநலம் கொக்கரிக்கிறது. அதனைக் காட்டி. வலுவுள்ளோன்
+வாழ்வான் என்று வறட்டுப் பேச்சு பேசுகின்றனர் சிலர்.
+
+இல்லை! இல்லை! அக்ரமம் அழிந்துபடத்தான்
+வேண்டும்! என்ற முழக்கம் எழுப்பிட முன் வந்தது ஒரு
+சிறுபடை! அது நாளாக நாளாக வளர்ந்தது, வளர்ந்தது,
+வளர்ந்து கொண்டே இருக்கிறது! அந்தப் படையின்
+. துணைகொண்டு, அநீதியை அழித்து நல்லரசு காணமுடியும்
+என்ற நம்பிக்கையை நாடு பெற்றுள்ளது. நல்வாழ்த்துக் கூறி
+வரவேற்கின்றது.
+
+கதிரவன் உதிப்பான் காரிருள் களையும் என்று நாடு
+கூறுகிறது. நம்பிக்கையுடன்
+
+அந்த நம்பிக்கையை எழச்செய்த பெருமை, நமது
+கழகத்திற்கு உண்டு!
+
+இன்றைய விழா நாள் நாம் நமக்காக அல்ல. நாட்டுக்காக!
+
+என்ற உணர்வு மேலோங்க வேண்டும். தூய்மை செம்மைப்பட
+
+## Image 5: 005-3db0919096.png
+
+- Image: `katturaigal/vazhvu_oru/005-3db0919096.png`
+
+இந்த என் விருப்பத்தை உமக்கு வழங்குவதில்
+மகிழ்கின்றேன். உதய சூரியன் எழுகிறது, நல்லரசு அமைகிறது
+என்ற பண் எங்கும் எழுந்து இனிமை தருகிறது. அந்தப்
+பண்பாடிடும் தோழர்கள் அண்டுக்கு ஒரு நாள் திருநாள்
+என்று மட்டும் இன்று உள்ள நிலையை மாற்றி, வாழ்வு ஒரு
+திருநாள். என்ற நிலை அமைந்திடப் பாடுபடுவர் என்ற
+எண்ணம் தேனாக இனிக்கிறது, மலராக மணம் தருகிறது,
+
+மகிழ்கின்றேன். வாழ்த்துகின்றேன்.
+அண்ணாதுரை
+
+(14-1-67 - முரசொலி பொங்கல் மலர்)
+
+## English Translation
+
+When we walk without being able to understand where we are going or which road we are taking, we feel joy if we see a signboard telling us that, by following this path, a small town lies so many miles away.
+
+Pitch darkness! We cannot discern the form or nature of anything. We cannot tell the rise from the hollow, the snake from the rope. How delighted we are if someone gives us a lamp in that condition.
+
+The summer burns. We fear that the crown of the head may split. Sweat pours, and the eyes sting. What joy we feel if a gentle breeze blows then.
+
+The flood rises ever higher, and the current whirls. After swimming and swimming, our arms and legs are exhausted. We reach the point of saying, "I can do no more; everything is over." What joy there would be if a simple piece of floating timber came within reach at that moment.
+
+Even if someone later presented us with a raft made of gold and studded with diamonds, the joy it produced could not equal even one ten-thousandth of the joy felt on receiving an ordinary piece of wood that saved us from drowning in the flood.
+
+Sorrow pierces the heart. Through unending trouble the mind becomes a fragment of iron in a furnace. At that moment, the sound of a flute comes from somewhere. Even while grief envelops us, does not that music offer sweetness?
+
+For people caught in poverty's grip, sighing that life is a great burden, sobbing, rubbing their eyes, and wringing their hands, the new Pongal festival that arrives once a year brings just such joy, pleasure, and sweetness.
+
+But so long as life is covered by the condition in which one day is a festival and all the others bring bewilderment, happiness cannot be lasting, complete, or fully meaningful.
+
+That is why the wise said that people's lives must be made peaceful.
+
+The great Valluvar, who gave a grammar for the country itself, said:
+
+> A country is that where consuming hunger, unceasing disease, and invading enemies do not gather.
+
+Today the country is deteriorating and the people are being driven about under the grip of precisely those things Valluvar said should not be present.
+
+We cannot rest content with a festival that merely enables us to forget this condition for one day. To seek such contentment would be foolish.
+
+The festival day must therefore help every person acquire the conviction that good government, working according to a plan, is necessary for the country to prosper and the people to live well; the sense of responsibility that it is our duty to create such a government rather than imagine someone else will make and give it to us; confidence that effort can succeed; eagerness for corresponding action; and a plan for working together.
+
+Injustice must be destroyed, justice established, prosperity increased, and the arrogance of the cruel restrained. A path must be followed on which everyone may live in happiness and the public welfare is protected. On the festival day, we must resolve that our knowledge, abilities, facilities, and opportunities shall be used to contribute our share to that sacred work.
+
+When a single drop of blood falls from the body of a pure-hearted person, tears pour from the eyes of a crore people. Why? Because they feel that one who lives for us, for the country, and for what is good must continue to live.
+
+Today we see a few people bathing joyfully in rosewater even while they behold a worker shedding tears.
+
+Injustice roars. An arrogant government orders us to accept that roar as music. Self-interest crows, and some point to it while offering the barren doctrine that only the strong will survive.
+
+"No, no! Injustice must be destroyed!" A small force came forward to raise this cry. Day by day it grew, grew, and continues to grow. With the aid of that force, the country has acquired confidence that injustice can be destroyed and good government established. It welcomes the force with its good wishes.
+
+With confidence, the country says that the sun will rise and dispel the pitch darkness.
+
+The distinction of awakening that confidence belongs to our Kazhagam.
+
+On today's festival day, the feeling "We exist not for ourselves but for the country" must rise above all else. Purity must be perfected.
+
+I am happy to offer you this wish of mine. Everywhere the song, "The rising sun ascends; good government is formed," rises and gives sweetness. The thought that the comrades who sing that song will labour to change today's condition, in which only one day a year is a festival, and establish a condition in which life itself is a festival tastes sweet as honey and gives fragrance like a flower.
+
+I rejoice. I offer my greetings.
+
+Annadurai
+
+*Murasoli* Pongal Annual, 14 January 1967.
+
+## Translator's Notes
+
+The apparent page-boundary break after `தூய்மை செம்மைப்பட` was checked against both original scans. The sentence ends on page 4 as `தூய்மை செம்மைப்பட வேண்டும்`; page 5 then begins the concluding wish. The canonical Tamil OCR remains unchanged.

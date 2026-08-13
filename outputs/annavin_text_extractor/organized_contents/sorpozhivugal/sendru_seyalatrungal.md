@@ -1,0 +1,1 @@
+../../md_pages/sorpozhivugal/sendru_seyalatrungal.md

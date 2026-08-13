@@ -1,0 +1,488 @@
+# தர்மம் தலைகாக்கும் / Charity Protects One's Head
+
+**Tamil title:** தர்மம் தலைகாக்கும்  
+**English title:** Charity Protects One's Head  
+**Source file:** `nadagangal/dharmam_thalai_1.md`
+
+## Source Tamil (verbatim)
+
+- Source image folder: `/Users/pugazhendhirajendran/Documents/Codex/2026-07-09/https-www-annavinpadaippugal-info/outputs/annavin_text_extractor/ocr_images/nadagangal/dharmam_thalai_1`
+- OCR language: `tam`
+- Tesseract page segmentation mode: `3`
+- OCR cleanup: `enabled`
+
+## Image 1: 001-a4d1faa5bf.png
+
+- Image: `nadagangal/dharmam_thalai_1/001-a4d1faa5bf.png`
+
+தர்மம் தலைகாக்கும்
+
+இடம்: மளிகைக் கடை
+
+பாத்திரங்கள்: முதலாளிச் செட்டியார், கணக்கப்பிள்ளை,
+எடுபிடிகள், அவர்களில் ஒருவனான குப்பன்.
+
+செட்டியார்: தலையைக் காக்குமாம்! புத்தி சொல்ல வந்துட்
+டான் புத்தி! போடா, உம்... போடா வெளியே! கால் காசுக்கு
+வழி கிடையாது; கழுதே தர்மோபதேசம் பண்ணக் கிளம்பிட்டாரு!
+பெரிய மகாப்பிரபுல்ல... மானங்கெட்ட நாயே! இறங்குடா
+கடையைவிட்டு, இறங்குடாங்கிறேன்...
+
+குப்பன்: நான் ஒண்ணும் செய்யலீங்களே. ஏங்க இப்படி
+கோவிச்சுக்கிறீங்க...
+
+செட்டி: கோவிச்சுக்கிறாங்களாம்... இல்லே! ஐயாவுக்கு
+மாலை மரியாதை செய்வாங்க! மண்டைக் கர்வத்தைப் பாரு! வயிறு
+வளர்க்க வழியில்லே - வாய்மட்டும் இருக்கு - புத்தி சொல்ல
+வந்துட்டான். போடா... போறீயா...
+
+குப்பன்: இல்லீங்க எஜமான்... ஐயோ பாவம்னு
+இருந்திச்சுங்க... ஒரே ஒரு வெல்லக்கட்டித் தாங்க... தெரியாமே
+செஞ்சுட்டேனுங்க...
+
+செட்டி: வெல்லக் கட்டியை எடுத்து வீசறதுக்கு இது என்ன
+உங்கப்பன் கடையா? ஒரே ஒரு வெல்லக் கட்டிதானாம்... ஐயோ,
+பாவம்னு போட்டாராம்... ஏண்டா! பிச்சைக்காரங்களுக்காகவாடா
+நான் கடை வச்சிருக்கேன்.
+
+குப்பன்: எஜமான்! நான் மொதல்லே வெல்லக் கட்டியை
+எடுத்துக் கொடுக்கலீங்க. அந்தப் பிச்சைக்காரன், மயக்கம் போட்டு
+விழுந்துட்டான். ஐயோ பாவம், பசிமயக்கமா இருக்கும்னு நினைச்சு
+ஒரு வெல்லக் கட்டியை எடுத்துப் போட்டேன். அவன் வாயிலே
+போட்டுக்கிட்டு, தண்ணீர் குடிச்சதும் எழுந்து போயிட்டான்.
+
+செட்டி: ஏய்! உன் இராமாயணத்தைக் கேட்க, இங்கே
+நேரமில்லே... நீ இங்கே தேவையுமில்லே... போயிரு.
+மரியாதையாச் சொல்றேன்!
+
+(குப்பன் சோகம் ததும்பிய முகத்துடன் ரோடு நோக்கி
+நடக்கிறான். கணக்குப்பிள்ளையிடம் செட்டியார் பேசுகிறார்.)
+
+## Image 2: 002-6bd502479d.png
+
+- Image: `nadagangal/dharmam_thalai_1/002-6bd502479d.png`
+
+செட்டி: ஏன்யா, கணக்குப்பிள்ளை... உம்மைத்தானய்யா!
+ஆளிருந்தா, என்னமோ கொட்டிக் குவிக்கிறதுபோலத்தான்
+கணக்குப் புஸ்தகத்தையே புரட்டுகிறது.
+
+கண: ஏங்க...
+
+செட்டி: கொஞ்ச நேரம் நான் இங்கே இல்லாட்டி, இப்படித்
+தான் நடக்குதாக்கும் எல்லாம். என்ன திமிரு...! நான் ஒருத்தன்
+உட்கார்ந்து கிடக்கிறேன், கல்லுப் பிள்ளையார் மாதிரி! அவன்
+பாட்டுக்கு எடுத்துப் போடறான் வெல்லக் கட்டியை... பிச்சைப்
+போடறானாம், பிச்சை! பெரிய கோடீஸ்வரரு...
+
+கண: குப்பன், ரொம்ப யோக்யனுங்க... சொன்ன சொல்
+தட்டமாட்டான், நல்ல பயலுங்க!
+
+செட்டி: ஆமாம்! நீ என்னா செய்வே, ஒரு குட்டையிலே ஊறின
+மட்டைதானே! நீ சர்ட்டிபிகேட் தர வந்துட்டே... ஏன்யா,
+அந்தக் கணக்கையெல்லாம் முடிச்சாச்சா? இன்கம்-டாக்ஸ்
+கணக்குத்தான், ஏன் தலையைச் சொறியறே!
+
+கண: ஆயிட்டு இருக்குதுங்க!
+
+(கார் ஒன்று வந்து நிற்கிறது. இருவர் இறங்கி வருகின்றனர்
+செட்டியார் கடைக்கு.)
+
+செட்டி: வாங்க! வாங்க! வரணும்! வரணும்! சவுகரியத்
+தானுங்களே... மெட்ராசிலேருந்தா!
+
+வந்தவர்: ஆமாங்க! சவுகரியத்தாங்க!
+
+செட்: (எடுபிடியைக் கூப்பிட்டு) ஏய்! பையா இரண்டு கப்
+காப்பியும், ஏதாவது டிபன்...
+
+வந்தவர்: அதெல்லாம் ஒண்ணும் வேணாம்...
+
+செட்டி: என்னாங்க, மெட்ராசிலே சாப்பிட்டுக் கிளம்பினா,
+செங்கல்பட்டு வர்றத்துக்குள்ளேயே ஜீரணம் ஆயிடுங்களே!
+
+ஏய், இரண்டு காப்பி, இரண்டு ஸ்வீட். என்னடா, சொல்றேன்
+நிக்கிறியே, ஓடுடா!
+
+வந்த: கடை, வியாபாரமெல்லாம் எப்படி நடக்குதுங்க...
+
+செட்: ஏதோ, நமக்குண்ணு, ஈசுவரன் படியளக்காமலா
+போயிடுவான்... நடக்குதுங்க... சுமாரா...
+
+(காப்பி வருகிறது. எடுபிடி ஆற்றித் தருகிறான்.)
+
+செட்: எங்கேங்க! எல்லாம் இந்தத் தயவிலே கிடக்கு.
+பாருங்களேன் நம்ப கணக்கப்பிள்ளையை. தானும் நாளைக்கொரு
+
+## Image 3: 003-3280884e25.png
+
+- Image: `nadagangal/dharmam_thalai_1/003-3280884e25.png`
+
+தரம் கேட்கிறது. அவுரும் “ஆவுதுங்க” ன்னு சொல்றது. . . இந்த
+உலகத்திலே எதையும் நம்பறதுக்கு இல்லைங்க. .
+
+வந்த: ரொம்ப வாஸ்தவமான பேச்சு!
+
+செட்: ஐயா பாருங்க. . . எங்கே இவ்வளவு தாரம். . .
+
+வத்த: எல்லாம் உங்க கிட்டதான் செட்டியார்வாள்! இவுங்க
+நம்ப சிநேகிதாள். மெட்ராசிலே பெரிய புள்ளி. . . சங்கீ தத்திலே
+ரொம்ப பைதீயம்!
+
+செட்: ஒகோ!
+
+வந்து: ஒரு காரியம் செய்யணும்னு துடியா துடிக்கிறார் -
+௮௨, வேணாமய்யா அந்த வேலை, அப்படீன்னா கேட்க மாட்
+டேன்கிறார். . . ஆரம்பிச்சுட்டுத் தான் மறு வேலைன்னு ஒத்தெக்
+காலிலே நிற்கிறார். .
+
+செட்டி: ஏன் அப்படி? என்னாது அப்படி!
+
+வந்த: ஒண்ணும் அப்படிப் பிரமாதமல்ல. . . சங்கத சபா
+ஆரம்பிக்கணுமாம்! ஒரு இலட்சம் ரூபாயிலே கட்டிடம் முடிக்கிற
+தாக ஒரு திட்டம்! இதுவரை என்னங்க அனந்து எவ்வளவு
+எங்கெங்க அலஞ்சு வசூலாகியிருக்கு?
+... ” அனந்து: நாற்பதாயிரத்துக்கு மேலே. . .
+
+செட்: பெரிய மனுஷாள்ளாம் சேர்ந்திருக்கா போலேயிருக்கு...
+
+வந்த: ஆமாம்! சின்னப்பட்டி ஜமீன், ஜில்லா துரை
+இன்னும் பெரிய பெரிய அளெல்லாம் சேர்ந்திருக்காங்க. . .
+
+செட்: ஒகோ! நம்ப வீட்லே குழந்தை குட்டி எல்லாம் சவுகரி
+யதந்தானுங்களே!
+
+வந்த: சவுகரியந்தான். . . வந்து, இந்தச் சங்கீத சபாவிலே
+நீங்களும் இருக்கணும்னு எனக்கு ஆசை!
+
+செட்: நான் என்னாங்க. . . சிறு துரும்பு. . .
+
+வந்த: ஒண்ணு சொல்ல மறந்துட்டேன். . .! இந்த சங்கத
+சபாவிலே வர்ர வருமானம் எதுக்குத் தெரியுமோ! ஏழைப்
+பையன்க, படிக்கக் கஷ்டப்படுகிறானுங்களே, அவுங்களுக்கு உதவி
+ஒத்தாசை.
+
+செட்: நல்ல காரியம். ஏழைக கண்ணைத் துறந்து பார்த்தா,
+
+போற கஒக்குப் புண்யமாவது கிடைக்கும். . .
+
+அனந்து: தர்ம கைங்கரியம் இருக்கே, எப்பவும் வீண்
+போகாதுன்னு, எங்க தாத்தா ஒருவர், இருந்தார்! அவர் அடிக்கடிச்
+சொல்லுவார். . . வந்து. . .
+
+## Image 4: 004-2f0b28eb8d.png
+
+- Image: `nadagangal/dharmam_thalai_1/004-2f0b28eb8d.png`
+
+செட்: நேரே மெட்ராசுக்குங்களா, வேறெங்கேயாவது
+போறீங்களா?
+
+வந: உங்களைத்தானே பார்க்கவந்தோம். இதோ, இப்படியே
+இரும்ப வேண்டியதுதான். . .
+
+அனந்து: நீங்க நம்ப சபாவிலே, சேர்ந்துடணுங்க.
+அங்கத்தினர் தொகை 200, நன்கொடையா எவ்வளவு வேணு
+மானாலும் தரலாம்!
+
+வந: அட, செட்டியார்வாள் கிட்டே ஏங்க, விபர மெல்லாம்
+பேசுறீங்க, தருமகாரியத்துக்கு எப்போதும் தயங்கிறதேயில்லையே
+அவரு! ஏங்க செட்டியார்?
+
+(செட்டியார் பாடு தர்ம சங்கடமாகிறது. ஒன்றும் சொல்ல
+முடியாமல். . )
+
+செட்டி: ஆமாங்க. . . ஆனால். . .
+
+அனந்து: இது என்னாங்க, இரு நூறு ரூபாய் உங்களுக்குப்
+பிரமாதமா?
+
+வந்த: நீங்க, சும்மாயிருங்க, செட்டியார்வாள் கொடுக்கிற
+ஒவ்வொரு தம்பிடியும் எங்கே போவுது தெரியுமோ, ஏழைக்
+குடிசைக்கு. . . ஆமாம்!
+
+செட்டி: அது சரிங்க, அனால். . .
+
+வந்த: நம்ப நாட்டிலே, இந்த ஏழைக நிலையிருக்கே!
+ரொம்பப் பரிதாபங்க. .
+
+செட்டி: அதையேன் கேட்கறீங்க! தலைவேதனை!
+
+வந்த: அதையெல்லாம், கண்ணால் பார்த்துக்கிட்டு இருக்க
+எப்படிங்க நமக்கெல்லாம் மனசு வரும்!
+
+செட்: ஆமாங்க, ரொம்பச் சங்கடந்தாங்க!
+
+வந்த: சங்கீதசபாவின் ஆதரவாளர்களிலே தாங்களும்
+ஒருவராக!
+
+செட்: அதுக்கு என்னாங்க! ஆதரவாளர் இல்லையா
+என்னாங்க...
+
+(ஒரு நூறு ரூபாயை எடுத்து)
+
+இதை நன்கொடையா வச்சுக்குங்க.
+
+வந்த: சரி, உங்க இஷ்டம், அப்புறம்.
+
+செட்: கூடிய சீக்கிரம் வந்து பார்க்கச் சொல்றேன்.
+
+## Image 5: 005-1aa498a3c9.png
+
+- Image: `nadagangal/dharmam_thalai_1/005-1aa498a3c9.png`
+
+வந்த: ஆகா! கணக்குத்தானே, எப்ப வேணுமானாலும்
+பார்க்கட்டும்!
+
+(காரில் வந்தவர் இருவரும் ஏறுகிறார்கள். கார்
+புறப்படுகிறது.)
+
+அனந்து: செட்டியார் ரொம்ப தர்மிஷ்டர் போலிருக்கு.
+ஏழைகளைப்பற்றிச் சொன்னதும், எவ்வளவு தருகிறார்,
+பார்த்தீங்களா!
+
+வந்த: ஆமாம்!
+
+அனந்து: நான் நினைக்கவேயில்லை... ஆள் பேச்சைப்
+பார்த்ததும்... ஏண்டா, இங்கே வந்தோமென்று நினைச்சேன்!
+ஆனால், ரொம்பத் தங்கக்கம்பி!
+
+வந்த: எல்லாம் வேஷம்! வெளிவேஷம்!!!
+
+அனந்து: வெளிவேஷமா! இதென்னப்பா.
+
+வந்த: அனந்து, எனக்குத் தெரியாதா என்ன, இதுகளோட
+நிலை! ஆடிட்டர் என்றால், இவர்கள் விஷயமெல்லாம் ஓரளவு
+புரிஞ்சுதானிருக்க வேண்டும். கேட்டதும் எப்படிப் பேசினான்...
+கடைசியில் ரூபா 100 கொடுத்தான். கொடுத்தது உன்
+கண்ணுக்குப் பிரமாதமாப்படறது! ஏன் கொடுத்தான் தெரியுமோ?
+
+அனந்து: அதான், அந்த ஆளே சொன்னாரே, ஏழைங்கன்னாவே
+மனம் உருகுதுண்ணு...
+
+வந்த: அதனாலே இரக்கம் வந்து நூறு ரூபாயைத் தூக்கித்
+தந்துட்டாருன்னு நினைக்கிறே!
+
+அனந்து: ஆமாம்! அதிலென்னவாம்!
+
+வந்த: அதான் இல்லே! அவுரு கொடுத்தாரே பணம், அது
+ஏழைகளுக்காக அல்ல, எனக்காக!
+
+அனந்து: உனக்காகவா?
+
+வந்த: ஆமாம்! அவர் கடைக் கணக்கு என்னிடமல்ல அகப்
+பட்டுக் கொண்டிருக்கிறது! நான் பணங் கேட்குறேன், அவுரு
+இல்லேன்னு சொல்லறாரு இன்னைக்கு! நாளைக்கு... யாருகிட்டே
+வரணும்?
+
+அனந்து: ஓகோ! அப்படியா!
+
+## Image 6: 006-1b35622aac.png
+
+- Image: `nadagangal/dharmam_thalai_1/006-1b35622aac.png`
+
+ஒரு வெல்லக் கட்டியை வேலையாள் பிச்சைக்காரனுக்குப்
+போட்டான் என்பதற்காகச் செட்டியார் அவனைக் கடையினின்றும்
+விரட்டினார்! வேதனைப்படும் அவனை “ஓடடா” என்று ஓட்டினார்!
+
+அவனும் தர்மம்தான் செய்தான், தலைகாக்கும் என்று
+சொன்னார்களே என்ற எண்ணத்தால்! அதற்குப் பரிசு அவனுக்குக்
+கடையிலிருந்து கல்தா. ஒரு வெல்லக் கட்டியால் அவன் வாழ்வில்
+வேதனை வீச ஆரம்பித்தது!
+
+ஆடிட்டரும் அவர் நண்பரும் சங்கீத சபாவுக்கு நிதி
+கேட்டனர்! செட்டியாருக்கோ கொடுக்க இஷ்டமில்லை. ஆனால்
+ஆடிட்டரை நினைக்கும்போது கொடுக்காமலிருந்தால் தொல்லை
+ஏற்படுமென்று தெரிகிறது. ஆகவே “தருமம்” என்று சொல்லிக்
+கொண்டு பணம் தருகிறார், பெரிய தர்மிஷ்டர் போல!
+
+“தர்மம்” நாட்டில் எப்படியிருக்கிறது என்பதன் ஒரு படப்
+பிடிப்பு இது! சுயநலம், சுயலாபம் இரண்டில்தான் “தர்மம்”
+மலர்கிறது இங்கு!
+
+ஆனால் கவர்னர் ஜெனரல் “சி.ஆர்.” விசாகையில்
+பேசுகையில் “தர்மம் செய்யாதவர்கள் மிருகங்கள்” என்று தர்மோ
+பதேசம் செய்திருக்கிறார், சமீபத்தில்!
+
+தர்மம் கொடுக்கும் நிலையில் ஒருவனும், அதை வாங்கியே
+வாழ வேண்டிய வேதனையில் இன்னொருவனும் நாட்டில் நீடிக்கும்
+வரை வறுமை வீசுவது மட்டுமல்ல, வாழ்வே சோபிக்காது!
+ஏழையும் பணக்காரனும், இருப்பவனும் இல்லாதவனும் இருந்து
+கொண்டுதான் இருப்பார்கள்!
+
+“தர்மம் தலைகாக்கும்” என்ற சொல் சுயநலமிகளின்
+சூதுக்குத்தான் பயன்படும்; மக்கள் வாழ்வுக்கல்ல!
+
+திராவிடநாடு, 14-11-1950.
+
+## English Translation
+
+**Place:** A grocery shop.
+
+**Characters:** The proprietor Chettiar, the accountant, shop assistants, and one of those assistants, Kuppan.
+
+**Chettiar:** Charity will protect your head, will it? Here comes the great sage to advise me! Get out... get out! You have no way to earn even a quarter paisa, yet you set off preaching charity! A great lord, aren't you? Shameless dog! Get down and leave the shop. I said get out!
+
+**Kuppan:** I didn't do anything, sir. Why are you so angry?
+
+**Chettiar:** He asks why I am angry! No, they will garland and honour His Excellency! Look at his arrogance. He cannot feed himself, but he has a mouth big enough to advise me. Get out. Are you going or not?
+
+**Kuppan:** No, master... I felt sorry for him. It was only one lump of jaggery. I did it without thinking, sir.
+
+**Chettiar:** Is this your father's shop, for you to pick up jaggery and throw it away? “Only one lump,” he says. He took pity and gave it away, he says. Hey! Did I open this shop for beggars?
+
+**Kuppan:** Master, I didn't give him the jaggery at first. The beggar fainted and fell. I thought, “Poor man, it must be hunger,” and gave him one lump. He put it in his mouth, drank some water, got up and left.
+
+**Chettiar:** Hey! I have no time to hear your Ramayana. I have no need of you here either. Leave. I am telling you politely!
+
+[Kuppan walks toward the road, his face overflowing with grief. Chettiar speaks to the accountant.]
+
+**Chettiar:** Accountant! Yes, I mean you! When there is an employer here, you turn the account book as though wealth were pouring in by the heap.
+
+**Accountant:** Sir...?
+
+**Chettiar:** So this is what happens whenever I am away for a little while. What insolence! I sit here like a stone Pillaiyar, while he casually takes a lump of jaggery and gives it away. Charity, he says! A great millionaire!
+
+**Accountant:** Kuppan is very honest, sir. He never disobeys an instruction. He is a good fellow.
+
+**Chettiar:** Of course! You are two palm stems soaked in the same pond. Now you have come to give him a certificate. Have you finished all those accounts? I mean the income-tax accounts. Why are you scratching your head?
+
+**Accountant:** They are being completed, sir.
+
+[A car arrives and stops. Two men get down and enter Chettiar's shop.]
+
+**Chettiar:** Welcome! Welcome! Please come. I trust you are well. Have you come from Madras?
+
+**Visitor:** Yes, we are well.
+
+**Chettiar:** [Calling an assistant] Hey, boy! Two cups of coffee and some tiffin.
+
+**Visitor:** None of that is necessary.
+
+**Chettiar:** What is this? Even if you ate before leaving Madras, it would all be digested by the time you reached Chengalpattu! Hey, two coffees and two sweets. Why are you standing there after I have told you? Run!
+
+**Visitor:** How are the shop and business doing?
+
+**Chettiar:** Would God fail to measure out a portion for us? It goes on, moderately well.
+
+[Coffee arrives. An assistant cools it and serves them.]
+
+**Chettiar:** Everything depends on divine grace. Look at our accountant. Every day he asks for another day, and says, “It is being done.” Nothing in this world can be trusted.
+
+**Visitor:** Very true!
+
+**Chettiar:** Look, sir... why maintain such distance between us?
+
+**Visitor:** Everything rests with you, Chettiar. This is our friend, an important man in Madras and quite mad about music.
+
+**Chettiar:** Oh!
+
+**Visitor:** He is desperate to carry out one undertaking. I told him, “Sir, do not take up that work,” but he will not listen. He stands on one leg insisting that he must begin it before doing anything else.
+
+**Chettiar:** Why so? What is this undertaking?
+
+**Visitor:** Nothing extraordinarily grand. He wants to establish a music sabha. The plan is to complete a building costing one lakh rupees. Ananthu, how much have you collected after travelling from place to place?
+
+**Ananthu:** More than forty thousand.
+
+**Chettiar:** It appears many important people have joined.
+
+**Visitor:** Yes. The Chinnapatti Zamindar, the district collector, and many other prominent people have joined.
+
+**Chettiar:** Oh! I trust the children and everyone at home are well.
+
+**Visitor:** They are well. I want you too to be part of this music sabha.
+
+**Chettiar:** What am I? Merely a tiny splinter.
+
+**Visitor:** I forgot to tell you one thing. Do you know what the income of this music sabha is for? It is to assist poor boys who struggle to study.
+
+**Chettiar:** A good undertaking. If one opens one's eyes to the poor, one may at least acquire merit before departing this life.
+
+**Ananthu:** A grandfather of ours used to say often that charitable service never goes to waste...
+
+**Chettiar:** Are you going straight to Madras, or somewhere else?
+
+**Visitor:** We came only to see you. We must now return directly.
+
+**Ananthu:** You must join our sabha. The membership fee is two hundred rupees, and you may give any amount as a donation.
+
+**Visitor:** Why explain every detail to Chettiar? He never hesitates over a charitable cause. Is that not so, Chettiar?
+
+[Chettiar is placed in an acute dilemma and cannot answer.]
+
+**Chettiar:** Yes, but...
+
+**Ananthu:** What is this, sir? Is two hundred rupees such a great amount to you?
+
+**Visitor:** Be quiet. Do you know where every copper coin Chettiar gives goes? To a poor person's hut. Yes!
+
+**Chettiar:** That is all right, but...
+
+**Visitor:** The condition of the poor in our country is truly pitiable.
+
+**Chettiar:** Why ask me? It is a headache.
+
+**Visitor:** How can we have the heart merely to watch all that with our own eyes?
+
+**Chettiar:** Yes, it is very distressing.
+
+**Visitor:** You too shall be one of the music sabha's patrons.
+
+**Chettiar:** Why not? Am I not a patron?
+
+[He takes out one hundred rupees.]
+
+Keep this as my donation.
+
+**Visitor:** Very well, as you wish. Later...
+
+**Chettiar:** I shall ask you to come and see me again soon.
+
+**Visitor:** Ah! It is only the accounts. He may inspect them whenever he wishes!
+
+[The two visitors get into the car, and it drives away.]
+
+**Ananthu:** Chettiar seems to be a great philanthropist. Did you see how much he gave as soon as we spoke of the poor?
+
+**Visitor:** Yes!
+
+**Ananthu:** I never expected it. The moment I heard him speak, I wondered why we had come here. But he is pure gold!
+
+**Visitor:** It is all an act, an outward show!
+
+**Ananthu:** An outward show? What do you mean?
+
+**Visitor:** Ananthu, don't I know the nature of these people? As an auditor, I must understand something about their affairs. Did you hear how he spoke when we asked? At last he gave one hundred rupees, and that looks magnificent to you. Do you know why he gave it?
+
+**Ananthu:** That man himself said his heart melts at the very thought of the poor.
+
+**Visitor:** So you think compassion made him hand over a hundred rupees?
+
+**Ananthu:** Yes. What else?
+
+**Visitor:** That is precisely what it was not. The money he gave was not for the poor. It was for me!
+
+**Ananthu:** For you?
+
+**Visitor:** Yes. His shop accounts are caught in my hands. Today I ask for money and he says he has none. Tomorrow, to whom must he come?
+
+**Ananthu:** Oh! So that is it!
+
+A shopkeeper drove his worker out merely because the man had given a lump of jaggery to a beggar. He chased the grieving man away with the words, “Run, get out!”
+
+The worker too had performed an act of charity, believing the saying that charity protects one's head. His reward was dismissal from the shop. One lump of jaggery brought suffering into his life.
+
+The auditor and his friend sought funds for a music sabha. Chettiar had no wish to give. Yet when he thought of the auditor, he knew that refusing would bring trouble. And so, invoking “charity,” he hands over money and appears to be a great philanthropist.
+
+This is a snapshot of how “charity” operates in the country. Here, charity blossoms only from self-interest and private gain.
+
+Yet Governor-General “C. R.” recently preached at Visakhapatnam that “those who do not give charity are animals.”
+
+So long as one person remains in a position to give charity while another suffers the need to live by receiving it, poverty will not merely persist in the country: life itself cannot prosper. The poor and the rich, those who possess and those who lack, will continue to exist.
+
+The saying “charity protects one's head” serves only the schemes of the self-interested, not the life of the people.
+
+*Dravida Nadu*, 14 November 1950.
+
+## Translator's Notes
+
+Images 1, 2, 5, and 6 were recovered from transparent-background scans after the original OCR pass treated them as blank. The scan's line immediately before Chettiar dismisses Kuppan is partly unclear; its readable narrative sense is retained without adding unsupported detail. `சங்கீத சபா` is rendered “music sabha” because it denotes a period cultural association. `சி.ஆர்.` (“C. R.”) refers to C. Rajagopalachari, then Governor-General. The title invokes the proverb “தர்மம் தலைகாக்கும்”; the play reverses it by showing charity used to protect the donor's interests rather than the recipient's life.

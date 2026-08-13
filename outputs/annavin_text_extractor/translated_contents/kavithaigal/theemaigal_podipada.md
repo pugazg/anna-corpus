@@ -1,0 +1,230 @@
+# தீமைகள் பொடிபட / Let Evils Be Ground to Dust
+
+**Tamil title:** தீமைகள் பொடிபட  
+**English title:** Let Evils Be Ground to Dust  
+**Source:** <http://www.annavinpadaippugal.info/kavithaigal/theemaigal_podipada.htm>
+
+## Source Tamil (verbatim)
+
+(தேர்தல் நேரத்தில் மக்கள் உரையாடல்)
+முனியன் :
+அய்யா செய்யும் அக்கிரமம்
+அய்யே! உனக்குத் தெரியாதென்று
+கேலி என்னைச் செய்தாயே!
+கேளடி! கேளடி! முத்தம்மா!!
+நாடு மீட்டவர் நல்லவர்கள்
+ஆட்சி நடத்தி வருபவர்கள்
+காங்கிரசார் எனச் சொன்னாயே
+அந்தக் காங்கிரஸ்காரர் செயலதனை
+கேளடி முத்து! கேளம்மா
+நம்ம அய்யா வீடு வந்தார்கள்!!
+முத்தம்மா:
+ஊரை ஆளும் உத்தமர்கள்
+உங்க அய்யாவிடமா வந்தார்கள்?
+உலகம் புகழ வாழ்பவர்கள்
+உங்க அய்யாவிடமா வருவார்கள்?
+நாடு மெச்ச வாழ்பவர்கள்
+நாடி வருவரோ, அவரிடந்தான்?
+முனியன்:
+வந்ததைக் கண்ணால் பார்த்தேண்டி!
+வாய்பிளக்க நின்றேண்டி!
+வந்தார் காங்கிரஸ் தலைவரெலாம்
+வரிசையாகவே மாளிகைக்கு!
+முத்தம்மா:
+வந்து?
+முனியன்:
+வந்தா? மாலைகள் பலப்பல போட்டாரடி!
+மண்டியிடக்கூடப் பார்த்தாரடி!
+மானம் காத்திட வேணுமென்று
+மனுக்கள் கொடுத்தார் அய்யாவிடம்!
+காங்கிரஸ் வெற்றி உம்கரத்தில்
+கருணை காட்ட வேண்டுமென்றார்!
+முத்தம்மா:
+உங்க அய்யாவிடமா?
+அறுந்த விரலுக்கும் சுண்ணாம்பு
+அய்யே! அவர்தர மாட்டாரே!
+அடுத்த வீட்டான் வாழ்ந்திட்டால்
+ஆத்தே! வயிறு எரிவாரே!
+அய்யா இலட்சணம் ஊரறியும்
+யார்தான் அவரை நாடிடுவார்!
+முனியன்:
+எதையோ சொல்லு முத்தம்மா!
+எவன் உன் பேச்சை மதிக்கிறான்!
+அய்யா தேர்தலில் குதிக்கிறார்
+ஆறேழு இலட்சம் செலவழிக்கிறார்!!
+முத்தம்மா:
+இவரா காங்கிரஸ் கட்சியிலே
+இப்ப தேர்தலில் நிற்கிறார்?
+கள்ளுக்கடையை நடத்தினவர்
+இந்தக் கண்ணியவான் அல்லவா?
+முனியன்:
+அய்யா சொன்னார் அதைக்கூட,
+அதனால் பாதகமில்லை யென்று
+அடித்துப் பேசினார் பெரியவரும்,
+மண்டலக் காங்கிரஸ் தலைவரடி!
+மந்திரிக்கும் அவர் சொந்தமடி!
+கதரும் கட்டிப் பழக்கமில்லை
+கண்ட பயல்களைக் காண்பதில்லை!
+கண்டிப்பான பேர்வழி நான்
+என்றும் சொன்னார், எஜமானர்.
+முத்தம்மா:
+அய்யா சொன்னதைக் கேட்ட பின்பு!
+முனியன்:
+மெய்யாத் தாண்டி, எல்லோரும்
+மேதையின் பேச்சிது என்றார்கள்!
+முத்தம்மா:
+ஐயையே! இது அநியாயம்
+அடிப்பவர் கொள்ளை பல தொழில்
+அதை அனைவரும் அறிவார் தெளிவாக
+அன்பும் அறமும் அவர் அறியார்
+அழுத கண்ணைத் துடைத்தறியார்
+எரிந்து விழுவார் எவரிடமும்
+எவருக் கிவரால் உபகாரம்?
+சத்திரம் சாவடி கட்டினாரா?
+சாலைகள் சோலைகள் அமைத்தாரா?
+சாத்திரம் பலபல கற்றாரா?
+சான்றோருடன் சேர்ந்துழைத்தாரா?
+சட்டம் திட்டம் அறிவாரா?
+சட்டசபையில் நின்று உரைப்பாரா?
+சஞ்சலம் துடைத்திட வல்லவரா?
+முனியன்:
+அதெல்லாம் எனக்குத் தெரியாது!
+ஆமாம், அவர்க்குப் படிப்பில்லை!
+ஆன்றோர் பேசும் சொல்லெல்லாம்
+அவர்க்குக் காதில் ஏறாது.
+அய்யா உழைக்க மாட்டார்தான்!
+அதனால் என்ன முத்தம்மா!
+அனைவரும் கூடி ஒருமுகமாய்
+உம்மால்தான் இது ஆகுமய்யா
+உடனே கைஎழுத்திடும் என்றார்.
+முத்தம்மா:
+இப்படியா காங்கிரஸ் சீரழியுது
+எப்படித்தான் ஒப்பி மக்கள் ஓட்டளிப்பார்கள்?
+தப்பிதங்கள் மெத்தவுமே செய்தவராச்சே
+தருமம் துளிகூடச் செய்தறியாரே!
+முனியன்:
+புலம்பிக் கிடடி முத்தம்மா!
+அய்யா, புதுசா கதரு போட்டாச்சி!
+போகுது புறப்பட்டுக் கொடிபடையும்
+போலோ பாரத் மாதாக்கீ
+ஜே! ஜே! என்று கூவிக்கொண்டு.
+முத்தம்மா:
+ஓட்டுக் கேட்கவா போகுது
+உலக உத்தமர் வளர்த்த படை?
+முனியன்:
+அய்யாவுக்கு ஓட்டுபோடச் சொல்லி நேருவும்
+அனைவரையும் கேட்கிறாரே இன்னும் என்னடி?
+முத்தம்மா:
+நேருவா இவருக்கு போடச்சொல்லுறார்
+நேர்மைக்கும் இவருக்கும் பகையாச்சே!
+நேத்துவரை, காங்கிரசின் எதிரியாச்சே!
+முனியன்:
+இருந்தால் என்ன முத்தம்மா!
+இதுதான் இப்பத்திக் காங்கிரசு!!
+முத்தம்மா:
+"ஓட்டு' சீட்டுள்ள மக்களெல்லாம்
+உன்னைப்போல இருந்திடப் போவதில்லை
+உழைப்புக்கும் உண்மைக்கும்
+தோல்வி இல்லை பார்!
+உங்க எஜமானருக்குப் பட்டை நாமம்தான்!
+ஊர்க்குடி கெடுப்போர்க்கு ஓட்டு இல்லை
+ஊராளும் காங்கிரசு பேர் சொன்னாலும்
+உதயசூரியன் சின்னந்தான்
+உழைப்பின் சின்னம், ஊரறியும்.
+உழைக்கிற மக்கள் "ஓட்டு' உண்மையாக
+அதற்கேதான்!
+ஊர்முழுதும் படைதிரட்டி
+உங்க எஜமானரை நான்
+தோற்கடிப்பேன்!!
+"உதயசூரியன்' சின்னம்
+வெற்றிபெற
+உழைப்பேன்; இது உறுதி
+அறிந்திடு நீ!
+முனியன்:
+மூளை உனக்குத் தானோடி
+மொத்தமாய் இருக்குது முத்தம்மா!
+நானும் உண்மை அறிவேண்டி
+நாடும் தூங்கிக் கொண்டில்லை!
+நம்மைப்போலப் பாடுபடும்
+ஏழை மக்கள் எல்லோர்க்கும்
+ஏற்ற சின்னம் அறிவேண்டி
+"உதயசூரியன்' நம் சின்னம்
+உழைப்போம், வெற்றி பெற்றிடுவோம்.
+••••
+தி. மு. க.
+சட்டசபை சென்று
+கொள்கை இழக்கவில்லை
+கோணல் வழி செல்லவில்லை.
+கோலேந்தும் காங்கிரசின்
+கோலம் கண்டு
+மயங்கவில்லை
+மருளவில்லை
+நாடு செழித்திடும் திட்டம்
+நல்லாட்சிக்கான சட்டம்
+வேண்டுமென
+வாதாடி
+ஏழை வாழ வழி தேடி
+ஏற்ற பொறுப்பை
+நிறைவேற்றி
+விருந்து வைபவம்
+நாடாமல்
+எதிர்க்கட்சியாய்
+பணியாற்றி
+விதவித வடிவம்
+தேடாமல் நாடு மீட்டிட,
+கேடு அழித்திட
+எதிர்ப்புக்கண்டு அஞ்சாமல்
+ஏளனம் கேட்டுப் பதறாமல்
+எங்கள் தொண்டு நாட்டுக்குண்டு
+எதையும் தாங்கும் இதயம் உண்டு
+தென்னகம் பொன்னகம் ஆகிடவும்
+தேம்புவோர் நிம்மதி பெற்றிடவும்
+எல்லோருக்கும் நல்வாழ்வு எங்கும் நீதி நிம்மதி
+கண்டிட நாளும் போராடி!
+பணிபுரிவது நாடறியும்
+அறிவொளி பரப்பி
+அரசியல் விளக்கி
+மக்களாட்சியின் மாண்பு காத்திட
+மீண்டும் அனுமதி வேண்டி நிற்கிறோம்.
+நாட்டினரே நல்லாதரவு தந்திடுவிர்
+பாதை வழுவாது பணிபுரிவோம்
+பாட்டாளியின் அரசு அமைப்போம்
+ஏழையை வாட்டும் விலைவாசி
+முதுகை முறிக்கும் வரிச்சுமைகள்
+எதிர்ப்போம் குறைப்போம் உமதருளால்!
+செல்வம் சிலரிடம் சிக்குவதும்
+செத்திடும் நிலையில் மிகப்பலரும்
+உள்ள கொடுமை களைந்திடுவோம்!
+உறுதி தளரோம்! இது திண்ணம்!
+இம்முறை செய்திட அலுவல்கள்
+ஏராளம் - குவிந்திருக்குது.
+தொண்டுகள் புரிந்திட அனுமதி தந்து
+எமை வாழ்த்துவீர், தோழர்காள்!
+திருவிடம் விடுபட! தீமைகள் பொடிபட!
+தி. மு. க. தொண்டு
+நாட்டுக்கு என்றும் உண்டு!
+(திராவிடநாடு - 24.11.1961)
+
+## English Translation
+
+During an election, Muniyan tells Muthamma that Congress leaders came in procession to his master's mansion, garlanded him, nearly knelt, and petitioned him to preserve their honour because Congress victory lay in his hands.
+
+Muthamma is astonished. His master would not give lime even for a severed finger and burns with jealousy if a neighbour prospers. The whole town knows his character. Muniyan says the master will stand as a Congress candidate and spend six or seven lakhs.
+
+Muthamma recalls that this “honourable man” ran a liquor shop. Muniyan says the regional Congress leader dismissed that objection; the man is related to a minister. The master himself boasts that he never wore khadi, avoids common people, and is a strict man. Everyone nevertheless calls his speech the words of a genius.
+
+Muthamma lists what he lacks: love, virtue, charity, learning, public service, knowledge of law, or ability to speak in the assembly. Muniyan admits he is uneducated, cannot understand wise speech, and does not labour, but says everyone united to ask him to sign because only he could achieve their purpose.
+
+Muthamma asks how Congress fell so low and how people could vote for a man of countless wrongs and no charity. Muniyan replies that the master has newly put on khadi and his flag-bearing force is marching, shouting “Bharat Mata ki Jai.” Nehru himself asks everyone to vote for him. “He was Congress's enemy until yesterday and is the enemy of honesty,” she says. “That may be,” Muniyan answers, “but this is today's Congress.”
+
+Muthamma declares that voters will not all be like Muniyan. Labour and truth will not lose. His master will receive a decisive mark of defeat. No vote will go to one who ruins the community, even under Congress's name. The Rising Sun is the known symbol of labour; she will mobilize the whole town and defeat him.
+
+Muniyan recognizes that she possesses the brains and that the country is not asleep. The Rising Sun is the fitting symbol for poor working people; they will labour and win.
+
+The closing declaration says the DMK entered the legislature without abandoning principle or taking crooked paths. It resisted Congress power, argued for development plans and laws for good government, sought ways for the poor to live, fulfilled opposition duties without chasing feasts or ceremony, and endured resistance and ridicule.
+
+It asks again for authority to protect democratic dignity, spread knowledge, explain politics, reduce prices and taxes that break the poor, and end the cruelty by which wealth remains with a few while many face death. Much work remains; comrades should grant permission to serve. The DMK's service will always belong to the country, so the sacred homeland may be freed and evils ground to dust.
+
+## Translator's Notes
+
+The first part is a colloquial dialogue; the second is a direct statement of the DMK's legislative record and electoral programme. `பட்டை நாமம்` carries the sense of a conspicuous mark and, idiomatically, decisive defeat or deception.

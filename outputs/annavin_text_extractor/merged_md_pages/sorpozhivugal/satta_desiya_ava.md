@@ -1,0 +1,1 @@
+../../ocr_text_corrected/sorpozhivugal/satta_desiya_ava.md

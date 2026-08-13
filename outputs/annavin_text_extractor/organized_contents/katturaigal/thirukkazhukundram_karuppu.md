@@ -1,0 +1,1 @@
+../../md_pages/katturaigal/thirukkazhukundram_karuppu.md

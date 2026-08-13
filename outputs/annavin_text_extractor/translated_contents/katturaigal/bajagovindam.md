@@ -1,0 +1,389 @@
+# பஜகோவிந்தம் / Bhaja Govindam
+
+**Tamil title:** பஜகோவிந்தம்  
+**English title:** Bhaja Govindam  
+**Source file:** `katturaigal/bajagovindam.md`
+
+## Source Tamil (verbatim)
+
+- Source image folder: `/Users/pugazhendhirajendran/Documents/Codex/2026-07-09/https-www-annavinpadaippugal-info/outputs/annavin_text_extractor/ocr_images/katturaigal/bajagovindam`
+- OCR language: `tam`
+- Tesseract page segmentation mode: `3`
+- OCR cleanup: `enabled`
+
+## Image 1: 001-12bbd589d8.png
+
+- Image: `katturaigal/bajagovindam/001-12bbd589d8.png`
+
+தடிப்பயல் - பிச்சை எடுப்பதற்கு இது ஒரு சாக்கு!
+கோவிந்தனாம் கோவிந்தன்! இவன் கூப்பிட்ட உடனே
+ஏழுமலையையும் தாண்டி ஓடோடி வரமாட்டாரா கோவிந்தன் !
+பிச்சைபோடு தாயே என்று கேட்கிறதுதானே - பிச்சைக்காரப்
+பிழைப்பிலேயும் ஒரு கெளரவமான பிழைப்பு! ஏழுமலையானைக்
+கூப்பிடுகிறான், ஏழுமலையானே ! செக்கு உலக்கைபோல
+இருக்கிறானே, வேலை செய்தா என்ன? -” என்ற பேச்சைக்
+கேட்கும், உருண்டு உடல் வளர்க்கிறானே, அவனுடைய
+*பஜகோவிந்தமா' இது!
+
+“ஆஹா! என்ன மேதாவித்தனம் ! எவ்வளவு ஞானத்
+தெளிவு - தாமரை இலை தண்ணீர்போல. பற்றற்ற மனம் -
+பரந்த ஞானம் - வேதாந்த விதாதா - பஜகோவிந்தம் செய்கிறார்
+பாருமே - எவ்வளவு பெரிய காவியத்தை, ஆதி சங்கரரின்
+அருமையான செல்வத்தை, வாரி வாரி வழங்குகிறார் ராஜாஜி,
+அவரன்றோ ராஜரிஷி! கலிகால ஜனகர்!” - என்று போற்ற,
+நான் நீ, என்று போட்டியிட்டுக் கொண்டல்லவா, கிளம்புவர்,
+அன்பரின் பஜகோவிந்தத்தைக்கேட்டு ! அவர் “பஜகோவிந்தம்'
+செய்வதிலே அர்த்தமிருக்கிறது, நியாயமிருக்கிறது, வசதி
+இருக்கிறது - அடிவயிறு வலிக்க வலிக்க அல்லவா கத்துகிறான்,
+கோவிந்தா கோவிந்தா என்று நம்மவன் - வாழ முடியாதவன்
+அல்லது வாழ்ந்து கெட்டவன் !
+
+பைத்தியக்காரா! பாரடா அவரை! பஜகோவிந்தம்
+செய்கிறார் - வாழ்க்கை நடத்துவது எப்படி என்ற வாட்டமா
+வருத்தமா அவருக்கு, பிள்ளை குட்டிகளின் எதிர்காலம் நல்லதாக
+இருக்கவேண்டுமே, அதற்காகப் பாடுபட வேண்டுமே என்ற
+
+## Image 2: 002-a34b702485.png
+
+- Image: `katturaigal/bajagovindam/002-a34b702485.png`
+
+நல்ல வெயில் வேளை - புரள்கிறான் கீழே - மண்
+உடம்பு பூராவும் - கையிலே உண்டிச் செம்பு - நெற்றியிலே
+குழைந்து வழிகிறது நாமம் - உள்ளே புளித்துக் கொண்டி
+ருக்கிறது காலையில் சாப்பிட்ட பழைய சோறு - குரலிலே பக்தி
+யல்ல, கதறல் தொனிக்கிறது - கோவிந்தா கோவிந்தா என்று
+தான் கூவுகிறான் - அபசாரம், அபசாரம் - பூஜிக்கிறான் -
+ஆனால், கொழந்தசாமியும், கோலம்பாளும், அன்னமும்,
+சொர்ணமும், தத்தனும் தாயம்மாளும் தான் வருகிறார்கள் அவன்
+குரல் கேட்டு, காலணாவும் கைப்பிடி அரிசியும் தர! கோவிந்தா
+- கோவிந்தா - கோவிந்தா என்று பூஜிக்கிறான், பிழைக்கும்
+வழியாக அவனுக்கு அதுதான் அமைந்திருக்கிறது.
+
+கோவிந்தநாம சங்கீர்த்தனம், கோவிந்தா கோவிந்தா -!
+இராக பாவத்துடன் பூஜிக்கிறார் காலட்சேப பாகவதர் - காதிலே
+வைரம் மின்னுகிறது - விரல்களிலும் கூடத்தான் - பின்புறம்
+வெள்ளிச் செம்பிலே பால் - மடியிலே தங்கப்பொடி டப்பி -
+எதிரே சீமான்கள், சிங்காரிகள் - கோவிந்தனை பூஜிக்கிறார்,
+ரூபாய். இருநூறு பஜனை பீஸ்!!
+
+கோவிந்தா - கோவிந்தா -! பஜனை அல்ல - வேலைக்
+காரனை கூப்பிடுகிறார். பலசரக்குக் கடை பரந்தாம முதலியார்
+அதட்டும் குரலில்.
+
+## Image 3: 003-770f38617c.png
+
+- Image: `katturaigal/bajagovindam/003-770f38617c.png`
+
+கோவிந்தா கோவிந்தோய்.... கேலிக்குரலில் கூவுகிறான்
+ஒருவன், அவனுடன் இருக்கும் நண்பர்கள் சிரிக்கிறார்கள்,
+காதிலே இது விழாதது போலப் பாவனை செய்து கொண்டு
+போகிறான், பொன்னுச்சாமி, கிண்டி ரேசில் அந்த வாரம் ஆறுநூறு
+பறிகொடுத்தவன்.
+
+போட்ட “பிளான்” கோவிந்தா ஆயிட்டுது தெரியுமோ? -
+கேட்கிறார் சரிகைத் தலைப்பாகைக்காரர். சந்தனப்பொட்டுக்காரர்,
+ஆமாம், கேள்விப்பட்டேன், எனக்கு முன்னாடியே தெரியும், அவன்
+பிளான் கோயிந்தா ஆயிடும்னு - என்று கூறுகிறார். இருவரும்
+எதிர்கடைகாரனின் வியாபாரத் திட்டம் தோற்றுப் போனதைப்
+பற்றிப் பேசுகிறார்கள்.
+
+இப்படிப் பலர், பலவித “நிலையில்” கோவிந்தா,
+கூறுகிறார்கள் - கேட்கிறீர்கள் - ஆனால் இப்போது ஒருவர்
+கிளம்பியிருக்கிறார், இவர்களைப்போல, வயிறு ஒட்டியவரோ,
+வாழ்க்கைச் சருக்கலில் நடப்பவரோ அல்ல - சாமான்ய
+மானவரல்ல - பெரியவர் - மிகமிகப் பெரியவர்.
+
+பஜகோவிந்தம் - பஜகோவிந்தம் என்று. கூறுகிறார் -
+சீமான் சக்ரவர்த்தி ராஜகோபாலாச்சாரியார்!! “கல்கி'யிலே.
+
+## Image 4: 004-080753de0c.png
+
+- Image: `katturaigal/bajagovindam/004-080753de0c.png`
+
+தீட்டுகிறார் பஜகோவிந்தம் - கோவிந்தன் பெருமையை,
+பஜனையின் அருமையை, பாரத மக்களுக்கு விளக்கும், அதி
+முக்யமான, அதிக அவசியமுள்ள, அதி மேதாவித்தனத்தால்
+மட்டுமே விளக்கக்கூடிய, “சேவையைச் செய்து வருகிறார்.
+
+பஜகோவிந்தம் - பஜகோவிந்தம் - என்ற பஜனைப் பேச்சு
+கிளம்புகிறது, அன்பர் ஆச்சாரியாரிடமிருந்து. இதிலிருந்து,
+கோவிந்த நாமத்தின் சிறப்பு விளங்குகிறதோ, அல்லது
+ஆச்சாரியாரின் சிறப்பு துலங்குகிறதோ என்பது அல்ல, எனக்குத்
+தோன்றும் பிரச்னை. பஜகோவிந்தம் சொல்வது என்றால்,
+இப்படிப்பட்ட நிலையிலே சொல்ல வேண்டும் - பிடி அரிசிக்கும்
+பிச்சைக்காசுக்கும் சொல்கிறானே நமது தோழன் -.மூன்றுமணி
+நேரம் விதவிதமாகக் கத்திப் பணம் சேர்க்கும் காலட்சேபக்காரன்
+- அப்படிப்பட்ட நிலையிலா “பஜகோவிந்தம்” சொல்கிறார்
+ஆச்சாரியார்?
+
+குற்றால நீர்வீழ்ச்சியின் குளுகுளுப்பைப் பெற்று,
+முத்தொள்ளாயிரத்தின் இனிமையைப் பருகி, ஓய்வாக, நிம்மதியாக
+இருந்து கொண்டல்லவா, பஜகோவிந்தம் கூறுகிறார் - ஏ! அப்பா!
+அந்த நிலையிலே பஜகோவிந்தம் மட்டுமா, பஜகோபாலம், ஜே
+ஜே விட்டல், அரேராம் அரேரராம், என்று எவ்வளவு வேண்டு
+மானாலும் சொல்லலாமே ! குடும்பத்திலே குறைவற்ற. செல்வம்
+திருமகன் நல்ல நிலையில் திருமகளும் காரணப் பெயரிட்டார்களோ
+என்று எண்ணக்கூடிய நிலையில், “மருமான்” மகோன்னதமான
+அந்தஸ்துடன், நண்பர்கள் நாடாளும் நாயகர்களாக வீற்றிருக்கும்
+கோலம், இவ்வளவு “சுகானுபவம்” பெற்றால் “பஜகோவிந்தம்” ஏன்
+வராது? -
+
+## Image 5: 005-7a5d541133.png
+
+- Image: `katturaigal/bajagovindam/005-7a5d541133.png`
+
+கோவிந்தா என்று. கோவிந்தன், உன்னைக் கவனிக்கக் கிளம்பி
+இருந்தால், அவரைக் கனமாக்கி, எக்ஸலென்சி ஆக்கி வைத்திட
+நேரம் கிடைத்திருக்குமா? கோவிந்தன்தான் அவருக்காக வேலை
+செய்ய வேண்டிய அளவு செய்தாகி விட்டது, இனி பஜகோவிந்தம்
+என்று அவர் கூறுவது கேட்டு, என்னைக் கவனிக்க
+வராமலிருப்பாரா - என்று எண்ணுகிறாயல்லவா - தவறு அப்பா,
+தவறு - இந்த 'பஜகோவிந்தத்தை' அன்பர் ஆச்சாரியார், நிறுத்தப்
+போவதில்லை, 'ஜனாதிபதி'யாக அவரைக் கோவிந்தன் கொண்டு
+போய் உட்கார வைக்கிறவரையில் - அப்படி உட்கார வைத்ததும்,
+மறுபடியும், “ஜெய்இந்த்' கூறுவார் - பஜகோவிந்தம் கூறமாட்டார்
+- கூறத் தேவையில்லை.
+
+நீ கூட பஜகோவிந்தம் போடு -. வேண்டாம் என்று
+சொல்லவில்லை, ஆனால் இப்போது போடுகிறாயே கூச்சல்,
+கோவிந்தா கோவிந்தா என்று குடல் அறுகிறபடி, பிடிஅரிசிக்காக,
+பிழைக்கும் வழியாக, அப்படி அல்ல - கோவிந்தனும் கவனிக்க
+மாட்டார், கோவிந்தனின் பக்த கோடிகளும் உன்னைக் கவனிக்க
+மாட்டார்கள் - பெற வேண்டிய நிலையை ஆச்சாரியார் போலப்
+பெற்றுவிட்டு, குடும்பத்தை பூந்தோட்டத்திலே இருந்திடச் செய்து
+விட்டு, உன் குரலைப் பிறர் மதிப்புடன் கவனிப்பார்கள் என்று
+தெரிந்ததும், நீயும் வேண்டுமானால் பஜகோவிந்தம் போடு!
+ஆனால் இப்போது அந்தப் பஜகோவிந்தத்தையும் பார், நாட்டிலே
+உழைத்து உருக்குலைபவர் போடும் பஜகோவிந்தத்தையும் பார்
+- விளைவும் இன்னது என்று புரியும்.
+
+- இவ்வளவு பெரியவரே பஜகோவிந்தம் சொல்கிறாரே என்று
+அதிசயப்படுகிறாயே, எப்படிப்பட்டவர் எத்தகைய நிலையில்,
+
+ர
+
+## Image 6: 006-83d5c86c9b.png
+
+- Image: `katturaigal/bajagovindam/006-83d5c86c9b.png`
+
+நிர்ப்பந்தம் இருக்கிறதா -துளியும் கிடையாதே - எல்லா
+வசதிகளும் ஏராளமாகக் கிடைத்திருக்கிறது -' இருபத்தி நாலு
+மணி நேரத்தில் அரைமணி நேரம்கூட கவலை தோன்றக்கூடிய
+சிந்தனையோ, கஷ்டம் தரக்கூடிய வேலையோ, இல்லை - அந்த
+மலர் விரிப்பிலே இருந்து கொண்டு, “பஜகோவிந்தம்” சொல்கிறார்
+- சொல்லலாமே - தட்டுத் தடங்கலின்றி வருமே, பஜகோவிந்தம்
+- உன்நிலை அப்படியா? .
+
+... “பஜகோவிந்தம்” அவரே சொல்கிறாரே, அவ்வளவு
+பெரியவரே சொல்கிறாரே, உலகமறிந்தவரே சொல்கிறாரே,
+அதிலிருந்து, பஜகோவிந்தம் கூறவேண்டியதன் அவசியம்
+விளக்கமாகிறதே - என்று வாழ உழைக்கும் வகையினர் கூறுவர்,
+பைத்தியக்காரர்கள் ! அன்பர் ஆச்சாரியாரின் “பஜகோவிந்தம்”
+தருகிற பாடம் அதுவா! கவனியுங்கள் - பஜகோவிந்தத்தை
+அல்ல பஜகோவிந்தம் கூறுபவரின் நிலைமையை. எப்போது
+கிளம்புகிறது பஜகோவிந்தம் ! !
+
+“யுவர் ஆனரில்” தொடங்கி, மஹா ஜனங்களே ! என்று
+வடிவெடுத்து, “யுவர் எக்சலென்சி' என்று வளர்ந்து, பாயோ -
+“என்றும் ஆகி, ஜெய்இந்த் கூறி - இவைகளெல்லாம், படிப்படியாக,
+முறையாக நடந்தேறிய பிறகு, வர்ணம், கீர்த்தனை, இராகம்,
+எல்லாம் முடிந்தபிறகு வித்வான் பாடுகிறாரே திருப்புகழ், அதுபோல
+அல்லவா “பஜகோவிந்தம்” கிளம்பிற்று ! கவனித்தாயா அதை?
+
+வக்கீல், தேசத் தலைவர், முதல் மந்திரி, வங்காள கவர்னர்,
+வைசிராய், போலீஸ் மந்திரி, இவ்வளவும் முடிந்தபிறகு, '
+“பஜகோவிந்தம்” - ஏனப்பா கிளம்பாது பஜகோவிந்தம் !! நீ
+கத்துகிறாய், கதறுகிறாய், தீராதவினை எல்லாம் தீர்த்து வைப்பாய்
+
+## Image 7: 007-9625c6b6ee.png
+
+- Image: `katturaigal/bajagovindam/007-9625c6b6ee.png`
+
+விடமாட்டான், அவனிடம், நீ எதைச் சொன்னாலும் விடமாட்டான்.
+நான் சீமான் என்றாலும் விடமாட்டான். நான் அசகாயசூரன்
+என்றாலும் விடமாட்டான், இதுமட்டுமல்ல, நான் மிகவும் படித்தவன்,
+மேதாவி, பாணினியின் சூத்திரங்களையே படித்துக் கரைத்துக்
+குடித்தவன் என்றாலும் விடமாட்டான், ஆகவே கோவிந்தனை
+பஜி ! -இதுதானப்பா, மந்திரி, கவர்னர், வைசிராய், பெரிய மந்திரி
+எனும் பலபதவிகளில் அமர்ந்து அனுபவித்து அலுத்து வந்துள்ளவர்,
+அருளியுள்ள, அறிதற்கரிய உண்மை, பெறுதற்கரிய பேருண்மை
+- கிடைத்தற்கரிய ஞானம் !! தெரிந்ததா, தெரிந்து கொள்.
+
+யமபயத்தை வெல்ல கோவிந்த நாமபஜனை செய்யச்
+சொல்கிறார் ஆச்சாரியார் - ஆதிசங்கரரின் 'பஜகோவிந்தம்'
+எனும் பொக்கிஷத்திலிருந்து எடுத்துத் தருகிறார் இந்த
+மாணிக்கத்தை.
+
+இந்த உண்மையை - உண்மையாகவே கேட்கிறேன்,
+ஊரார், ஊராரில், மிகமிகச் சாதாரணமானவர்கள் கூட, அறியாமலா
+திண்டாடித் திகைத்துக் கொண்டிருக்கிறார்கள் ! யமன்
+பாசக்கயிறை வீசும்போது, என்ன சொல்லலாம் என்ன செய்யலாம்,
+யமபயம் போகும் வழிதான் என்ன என்று எண்ணி எண்ணிப்
+பார்த்து ஒரு தெளிவும் ஏற்படாததால், திக்குத் தெரியாத காட்டில்
+உலவும் சிறுமிபோல, நாம் எல்லாம் திகைப்புற்று இருப்பது
+போலவும், “ஒஹோ ! பாமரர்காள் ! இது தெரியாமல் மெத்தக்
+கஷ்டப்படுவதை அறிந்து கொண்டோம் - இதோ கூறுதும்
+கேண்மின் - இதுநாள்வரை நாம் ராஜ்ய பாரம் சுமந்திருந்ததால்
+இதைக் கூறாதிருந்தோம் - மீண்டும் ராஜ்ய பாரம் கிடைப்பதற்குள்,
+இதைக் கூறுகிறோம்” என்று கூறிக் கொண்டல்லவா ஆச்சாரியார்
+
+## Image 8: 008-7f4ebbb376.png
+
+- Image: `katturaigal/bajagovindam/008-7f4ebbb376.png`
+
+முன்வருவதுபோலத் தெரிகிறது! வேறு எது தெரியாவிட்டாலும்
+இந்த நாட்டு மக்களுக்கு தெரிந்திருக்கும் ஒரே விஷயம் இது
+தானே - ராமான்னு சொல்லு போறகதிக்கு நல்லது - சிவான்னு
+சொல்லு போற கதிக்கு நல்லது என்று கூறாதார் யார்? -
+மரணத்தைக் குறித்துத்தான் பேசாதவர் யார்? ஆதிசங்கரர்தானா,
+இந்த உண்மையைக் கண்டறிந்து கூறுகிறார்? ஆண்டிகள்
+ஒவ்வொருவரும் பாடுகிறார்களே இதை - சொல்லட்டுமா -
+பாடல்கள்...
+
+“நமனுடைய முறை நாள் வருகிற காலை, பொன்னொடும்
+போகான் பொருளொடும் போகான் புலம்பினும் போகான் புகழிலும்
+போகான்” - என்ற பழம் பாடல் உண்டு,
+
+“கிட்டே வந்து யமபடர் பாசம் வீசிடும் போது சொல்லு
+சிவநாமம்தனையே எட்டிப் போவார் கிட்ட வாரார், எமதூதுவர்”
+என்றதொரு கூத்துப்பாட்டு உண்டு.”
+
+“காலன்வரு முன்னே
+
+கண் பஞ்சடை முன்னே
+
+பாலுண் கடவாய் படுமுன்னே
+
+மேல்விழுந்தே உற்றார் அழுமுன்னே
+
+ஊரார் சுடு முன்னே
+
+குற்றாலத்தானையே கூறு”
+
+இது பட்டினத்தார் பாடல் - இந்தப் பாடலிலே உள்ள
+
+கருத்தேதான் அதிமேதாவித் தனத்தின். துணை கொண்டு,
+"பஜகோவிந்தம்" மூலம் ஆச்சாரியார் அறிவிக்கும் பேருண்மை.
+
+## Image 9: 009-9b85fe4a0d.png
+
+- Image: `katturaigal/bajagovindam/009-9b85fe4a0d.png`
+
+சுரங்கம் தோண்டுபவர், உள்ளேயிருந்து செம்பொன்
+கொண்டு வருவார் என்றுதானே எதிர்பார்ப்பர் எவரும் - செத்துக்
+கிடக்கும் சுண்டெலியைக் கண்டெடுத்தால் கைகொட்டிச் சிரிக்க
+மாட்டார்களா? ஆச்சாரியார், சாதாரண மக்கள் எதைச் சர்வ
+சாமான்யமாகப் புரிந்து கொண்டு, சதாசர்வகாலமும் பேசிக்
+கொண்டிருக்கிறோர்களோ, அதையேதானா . அரும்பாடுபட்டுக்
+கூறவேண்டும் ! இப்போது அவர் பஜகோவிந்தம் கூறி, எந்தப்
+புரியாத பிரச்சினையை விளக்கிவிட்டார், எந்தத் தத்துவத்தை
+நிலை நாட்டிவிட்டார்? காயமே இது பொய்யடா என்பது போன்றது
+தானே மும்முறை கனமாகி, இருமுறை எக்சலன்ஸி ஆகியவர்
+கண்டெடுத்த ஞானமுத்து! இதற்குப் பாருங்களேன், என்னென்ன
+, சிறப்புரைகள், பாராட்டுரைகள், ஆஹா ஹாக்கள் - பஜகோவிந்தம்
+செய்வதானாலும் இப்படிப்பட்ட 'வாய்ப்பு' வைத்துக் கொண்டல்லவா
+செய்யவேண்டும், நம்மவர்களும் செய்கிறார்களே, பஜனை -
+வேகாத சுண்டலுக்குக்கும் வாழைப்பழத்துக்கும்.
+
+(9.12.51 திராவிட நாடு இதழில் வெளி வந்தது)
+
+## English Translation
+
+“The fat fellow! This is merely an excuse for begging! Govindan, indeed! Will Govindan not run across all seven hills the instant this man calls? After all, he is only asking, ‘Mother, give me alms.’ Even among beggars, that is an honourable way to live. He calls upon the Lord of the Seven Hills. Look at him, built like the beam of an oil press. Why should he not work?”
+
+The round-bodied man who hears such talk and continues to fatten himself is the one chanting this *Bhaja Govindam*!
+
+“Ah! What genius! What clarity of wisdom! A mind as unattached as water upon a lotus leaf, vast knowledge, a master of Vedanta. See him perform *Bhaja Govindam*! Rajaji pours forth the great poem, Adi Shankara's precious treasure, in abundance. Is he not a royal sage, a Janaka of the Kali age?”
+
+People will compete with one another to offer such praise when they hear our friend's *Bhaja Govindam*. There is meaning, justice, and convenience in his chanting it. But our own man cries “Govinda! Govinda!” until his lower belly aches because he cannot make a living, or because he once lived well and has fallen into ruin.
+
+“Madman! Look at him. He chants *Bhaja Govindam*. Does he suffer anxiety over how to conduct his life? Does he worry that his children's future must be secure and that he must labour for it?”
+
+It is the heat of full daylight. Our man rolls upon the ground, his whole body covered with dirt. A begging vessel is in his hand. The sacred mark upon his forehead dissolves and runs. The previous morning's fermented rice churns inside him. What sounds in his voice is not devotion but a cry of misery. He calls “Govinda! Govinda!” and supposedly worships, lest it be called sacrilege. Yet it is only Kolandasami, Kolambal, Annam, Sornam, Thathan, and Thayammal who come on hearing him, giving a quarter-anna or a handful of rice. He worships with “Govinda, Govinda, Govinda” because that has become his means of survival.
+
+“Chant the name of Govinda! Govinda! Govinda!”
+
+The *kalakshepa* storyteller worships with melody and feeling. Diamonds glitter in his ears and upon his fingers. Behind him stands milk in a silver vessel; upon his lap is a box of gold-coloured snuff. Wealthy gentlemen and fashionable ladies sit before him. He worships Govinda for a devotional fee of two hundred rupees!
+
+“Govinda! Govinda!”
+
+This time it is not worship. Paranthama Mudaliar, proprietor of a large provisions shop, is summoning his servant in a commanding voice.
+
+“Govinda! Govindoy!” someone calls mockingly. His friends laugh. Ponnusami, who lost six hundred rupees at the Guindy races that week, walks on pretending not to hear.
+
+“Did you hear that the plan he made has gone Govinda?” asks the man in the brocaded turban.
+
+“Yes, I heard,” replies the man with the sandalwood mark. “I knew in advance that his plan would go Govinda.”
+
+They are discussing the failure of a rival shopkeeper's business scheme.
+
+Thus you hear many people say “Govinda” in many different situations. But now another has arisen. He is not thin with hunger like those people, nor does he tread life's slippery path. He is no ordinary person. He is great, very, very great.
+
+“Bhaja Govindam! Bhaja Govindam!” says the wealthy emperor Rajagopalachari in *Kalki*.
+
+He writes *Bhaja Govindam*, performing the exceedingly important, urgently necessary “service,” explicable only by extraordinary genius, of teaching the people of Bharata the greatness of Govindan and the excellence of devotion.
+
+This devotional talk of “Bhaja Govindam” arises from our friend Achariyar. My question is not whether it reveals the excellence of Govinda or displays the excellence of Achariyar. To chant *Bhaja Govindam*, ought one not to do so in a condition like that of our comrade who chants for a handful of rice and a beggar's coin, or that of the storyteller who cries in many styles for three hours to collect money? Does Achariyar chant from such a condition?
+
+He enjoys the coolness of the Courtallam falls, drinks the sweetness of the *Muthollayiram*, and rests in ease and peace while chanting *Bhaja Govindam*. Good heavens! In such a condition, one could chant not merely “Bhaja Govindam,” but “Bhaja Gopalam,” “Jai Jai Vittal,” “Hare Rama, Hare Rama,” as much as one pleased.
+
+There is undiminished wealth in the family. His son is well placed. His daughter too is in such a position that one might wonder whether she was given an auspicious name for a reason. His son-in-law enjoys the loftiest status, and his friends sit as rulers of the country. With so much pleasant experience, why should *Bhaja Govindam* not arise?
+
+You call “Govinda,” thinking: “If Govindan sets out to attend to you, will he have time to make Achariyar an Honourable, an Excellency, and a man of weight?” Govindan has already done all the work he needed to do for him. You suppose that after hearing Achariyar chant *Bhaja Govindam*, Govindan will surely come attend to you. You are mistaken, father, mistaken.
+
+Our friend Achariyar will not stop this *Bhaja Govindam* until Govindan takes him and seats him as President. Once seated there, he will again say “Jai Hind,” not *Bhaja Govindam*, because there will be no further need.
+
+You too may chant *Bhaja Govindam*. I do not tell you not to. But do not cry “Govinda! Govinda!” now until your gut tears, merely for a handful of rice and as a means of survival. Neither Govindan nor his legions of devotees will notice you.
+
+First attain the position Achariyar has attained. Place your family within a flower garden. Once you know that others will listen respectfully to your voice, you too may chant *Bhaja Govindam*. But look at that *Bhaja Govindam* now, and look at the *Bhaja Govindam* of those who labour and are crushed in this country. You will understand the difference in their effects.
+
+You marvel that so great a man chants *Bhaja Govindam*. But consider what kind of person he is and under what conditions. Is there any compulsion? Not a particle. Every convenience is available in abundance. In twenty-four hours he has not even half an hour of thought that could produce anxiety or work that could cause hardship. Seated upon that bed of flowers, he chants *Bhaja Govindam*. Of course he can; it will come without hindrance. Is your condition like that?
+
+Those who labour to live will say: “He himself chants *Bhaja Govindam*. So great a man, a man who knows the world, says it. Surely that demonstrates the necessity of chanting it.” Madmen! Is that the lesson our friend Achariyar's *Bhaja Govindam* gives? Attend not to *Bhaja Govindam*, but to the condition of the man who chants it. When does his *Bhaja Govindam* arise?
+
+It began with “Your Honour,” took shape as “Great people!”, grew into “Your Excellency,” became “Bayo,” and then said “Jai Hind.” Only after all these occurred step by orderly step did *Bhaja Govindam* arise, just as a musician sings *Tiruppugazh* after finishing the *varnam*, composition, and raga. Have you noticed that?
+
+Lawyer, national leader, Premier, Governor of Bengal, Viceroy, Police Minister: after all these have ended comes *Bhaja Govindam*. Why, father, should it not arise?
+
+You cry and lament: “He who resolves every endless consequence of karma will not spare you. Whatever you tell him, he will not spare you. Even if I am wealthy, he will not spare me. Even if I am an invincible hero, he will not spare me. Even if I am highly educated, a genius who has studied and thoroughly absorbed Panini's aphorisms, he will not spare me. Therefore worship Govinda!”
+
+This, father, is the rare truth, the supreme truth difficult to obtain, the wisdom difficult to acquire, graciously bestowed by one who sat in and enjoyed the many offices of minister, governor, viceroy, and great minister until he tired of them. Do you understand? Learn it.
+
+Achariyar tells us to chant Govinda's name to conquer the fear of Yama. He takes this jewel from Adi Shankara's treasure called *Bhaja Govindam* and gives it to us.
+
+I ask sincerely: have the people, even the most ordinary among them, been struggling in ignorance of this truth? Are we all bewildered like a little girl wandering in a pathless forest because, after reflecting endlessly upon what may be said or done when Yama throws his noose, we have obtained no clarity about the way to escape the fear of death?
+
+Achariyar seems to come forward saying: “Oh, ordinary people! We have learned that you suffer greatly without knowing this. Listen, and we shall tell you. Until now we bore the burden of governing and therefore could not say it. We shall say it now, before the burden of rule returns to us.”
+
+Even if they know nothing else, is this not the one matter the people of this country know? Who has not said, “Say Rama; it will help you on your final journey,” or “Say Shiva; it will help you when you go”? Who has not spoken about death? Was Adi Shankara alone the discoverer and announcer of this truth? Every mendicant sings it. Shall I give you the songs?
+
+There is an old song:
+
+> When Yama's appointed day arrives,
+> he goes not with gold, nor with possessions;
+> he goes despite lament, and despite praise.
+
+There is a folk-theatre song:
+
+> When Yama's servants draw near and cast their noose,
+> utter Shiva's name alone;
+> they will stay away and not approach.
+
+And Pattinathar sang:
+
+> Before Death arrives,
+> before the eyes grow dim,
+> before milk can no longer pass your lips,
+> before kin fall upon you and weep,
+> before the townspeople burn the body,
+> speak of the Lord of Courtallam.
+
+The idea in this song is precisely the supreme truth Achariyar announces through *Bhaja Govindam* with the aid of extraordinary genius.
+
+When miners dig a shaft, everyone expects them to bring up pure gold. If they emerge carrying a dead mouse, will people not clap and laugh? Must Achariyar labour so hard merely to repeat what ordinary people understand as utterly commonplace and discuss at all times?
+
+What incomprehensible problem has he now explained by chanting *Bhaja Govindam*? What philosophy has he established? Is not the pearl of wisdom discovered by a man who became an Honourable three times and an Excellency twice merely another version of “This body is false”?
+
+Yet look at all the special introductions, tributes, and exclamations of “Ah! Ah!” it receives. Even to chant *Bhaja Govindam*, one must secure such an opportunity. Our people too conduct worship, but for undercooked chickpeas and a banana.
+
+*(Published in Dravida Nadu, 9 December 1951.)*

@@ -1,0 +1,206 @@
+# சென்னை ராயபுரம் பனைமரத்தொட்டி மாநகராட்சி உயர் துவக்கப் பள்ளியில் / At the Panamarathotti Corporation Higher Elementary School, Royapuram, Madras
+
+**Tamil title:** சென்னை ராயபுரம் பனைமரத்தொட்டி மாநகராட்சி உயர் துவக்கப் பள்ளியில்  
+**English title:** At the Panamarathotti Corporation Higher Elementary School, Royapuram, Madras  
+**Source file:** `sorpozhivugal/chennai_rayapuram.md`
+
+## Source Tamil (verbatim)
+
+- Source image folder: `/Users/pugazhendhirajendran/Documents/Codex/2026-07-09/https-www-annavinpadaippugal-info/outputs/annavin_text_extractor/ocr_images/sorpozhivugal/chennai_rayapuram`
+- OCR language: `tam`
+- Tesseract page segmentation mode: `3`
+- OCR cleanup: `enabled`
+
+## Image 1: 001-15ba12593e.png
+
+- Image: `sorpozhivugal/chennai_rayapuram/001-15ba12593e.png`
+
+115
+
+சென்னை ராயபுரம்
+பனைமரத்தொட்டி மாநகராட்சி
+உயார் துவக்கப் பள்ளியில்
+
+15-6-1967 அன்று ராயபுரத்தில் பனைமரத்தொட்டி
+மாநகராட்சி உயர் துவக்கப் பள்ளியில் நடைபெற்ற
+
+கூட்டத்தில் ஆற்றிய உரை:-
+
+தோழார்களே!
+
+சென்னை, வசதிக் குறைவுகள் நீங்கி எழிலுரு கொண்ட
+நகரமாக ஆக்கப்படுவதற்கு முதலில் இங்குள்ள இட நெருக்கடி.
+தீர்க்கப்பட வேண்டும். இப்பிரச்சினையை மற்றவர்கள் எப்படித்
+தீர்த்து இருக்கிறார்கள் என்பதை விரைவில் ரஷியா செல்லும்
+மேயரும் மற்றவர்களும் அறிந்து வந்து கூற வேண்டும்.
+
+நான் ரஷியாவுக்குப் போனதில்லை - என்றாலும்
+படித்ததிலிருந்து தெரிந்து கொண்டவற்றைச் சொல்லுகிறேன்.
+
+மாஸ்கோ நகரில் அவர்கள் அதிகமானவர்களை
+அனுமதிப்பதில்லை. வெளியூர்களிலிருந்து எவரேனும் மாஸ்கோ
+வருவதானால், அவர்கள் ஏன் வருகிறார்கள். எத்தனை நாள்
+தங்குவார்கள் என்பதை அறிந்து அதற்கேற்ப, அனுமதிச்
+சீட்டுகளை வழங்குகிறார்கள்.
+
+இதற்குக் காரணம் அவர்கள் வேறு கட்சி, இவர்கள் வேறு
+கட்சி என்பதல்ல - அதிக ஐஜனநெருக்கம் ஏற்பட்டால் வசதிக்
+குறைவு ஏற்படுமே என்பதால் அவர்கள் அப்படிச் செய்கிறார்கள்.
+
+இப்போது அருகில் நாமறிந்த ஒரு உதாரணத்தைக்
+கூறுகிறேன். பஜனைக்கோயில் கூட்டம் அதிகரித்தால் மூன்
+
+## Image 2: 002-b09b1697a3.png
+
+- Image: `sorpozhivugal/chennai_rayapuram/002-b09b1697a3.png`
+
+வரிசையில் உள்ளவர்களுக்கு மட்டுமே ஒழுங்காகக் கிடைக்கும்.
+வரவரக் குறையும். அதுபோல சென்னை நகரமானது குறிப்பிட்ட
+அளவு மக்களுக்காக ஏற்பட்டது. எதிர்பார்த்த அளவைவிட
+இப்போது பத்து மடங்கு அதிகமாக உள்ளனர்.
+
+ஓரிரு நாட்கள் மட்டும் சென்னை நகரில் அலுவலாக வந்து
+போவோரின் எண்ணிக்கை மட்டும் இரண்டு லட்சம் இருக்கும்
+என்கிறார்கள். இவர்களுக்குத் தங்க இடமும் குடிதண்ணீர்
+வசதியும் செய்து தர வேண்டியுள்ளது.
+
+இதைச் சொல்வதால் மாஸ்கோவைப் போல இங்கு
+செய்வோம் என்றோ, இருப்பவர்களை வெளியேற்றி விடுவோம்
+என்றோ யாரும் பயப்படத் தேவையில்லை.
+
+சென்னை நகரம் கட்டுக்கடங்காமல் வளர்ந்துள்ளது.
+நண்பர் முனுசாமி வட ஆற்காட்டைச் சேர்ந்தவர். நானும்
+செங்கற்பட்டி லிருந்து வந்தவன் என்று சொல்லலாம்.
+
+ஆனால் சென்னை நகரே செங்கற்பட்டு மாவட்டத்தில்
+இருந்திருக்க வேண்டிய நகரம் என்பதால் நான் வந்தவன் என்று
+சொல்ல முடியாது. துணைமேயர் சடகோபனும் தென்
+ஆற்காட்டைச் சேர்ந்தவர்கள். இதனால் யாரையும் வெளியே
+அனுப்பிவிட மாட்டோம்.
+
+சென்னை நகரில் வசதிகள் மெல்ல மெல்ல ஏற்படும்.
+நல்ல பணிகள் :
+
+மாநகராட்சி பல நல்ல காரியங்களைச் செய்துள்ளது. பல
+புதிய பள்ளிக் கட்டடங்களைக் கட்டியுள்ளது. படி. ப்பகங்களை
+ஏற்படுத்தியுள்ளது. தாய் சேய் நலவிடுதிகளைத் திறந்துள்ளது.
+கல்யாண மண்டபங்களைக் கட்டியுள்ளது.
+
+மாநகராட்சியினரது பக்குவமான முறைக்கு இங்கேயுள்ள
+சர்க்காருக்குச் சொந்தமான கட்டி டத்தைத் தங்களுக்குக்
+கொடுத்துவிடும்படிக் கேட்டார்களே, இதுவும் ஒரு
+எடுத்துக்காட்டு. இப்போதும் இந்தக் கட்டிடத்தை இவர்கள்தான்
+வைத்திருக்கிறார்கள். மாத வாடகை ஒரு ரூபாய். இவர்களைப்
+போலவே நானும் மாநகராட்சிக்குச் சர்க்காருக்குக் கொடுக்கும்படி
+இவர்களைக் கேட்டுக் கொண்டி ருக்கிறேன்.
+
+இந்தப் பரிவர்த்தனைக்கு இவர்கள் ஒப்புக் கொள்வார்களே
+யானால் நான் நிச்சயம் இதுபற்றிப் பரிசீலிப்பேன்.
+
+## Image 3: 003-7fca54cf53.png
+
+- Image: `sorpozhivugal/chennai_rayapuram/003-7fca54cf53.png`
+
+கல்விக்கூடங்கள் வளர்ந்து வருகின்றன. அவற்றுக்காக
+ஆண்டுக்கு ஆண்டு நிரம்பத் தொகை செலவிடப்பட்டு
+வருகின்றன. மாநகராட்சியில் மட்டுமல்லாமல் மாநில முழுவதும்
+இவ்வாறு செலவிடப்பட்டு வருகின்றது.
+
+இவ்வளவு பெருந்தொகை செலவிடப்படுகிற நேரத்தில்
+பிள்ளைகளின் பெற்றோர் தங்கள் பிள்ளைகள் இப்பள்ளிகளில்
+நல்ல வண்ணம் பயிலுகிறார்களா என்பதைப் பற்றி அக்கறை
+எடுத்துக் கொள்ள வேண்டும். இத்தனைக் கோடித்
+தொகைகளையும் பயனுள்ள வழியில் செலவிடப்படுகின்றது
+என்பதை உலகம் ஒப்புக்கொள்ள இது அவசியம்.
+
+ஆசிரியருக்குக் கெளரவம்
+
+ஆசிரியர்களது வாழ்வில் நிம்மதி ஏற்பட வேண்டும்.
+சமுதாயத்தில் அவர்களுக்கு உயர்ந்த அந்தஸ்து அளிக்கப்பட
+வேண்டும்.
+
+அவர்கள் நிம்மதியாக இருந்தால்தான், கல்வி தரமாக
+அமைந்தால்தான் செலவு பயன்தரும் - ஆகையினால் பெற்றோர்
+தங்கள் பிள்ளைகளின் கல்வியில் இன்னும் அதிக அக்கறை
+எடுத்துக் கொள்ள வேண்டும்.
+
+எவ்வளவு கட்டிடங்கள் கட்டினாலும், விஞ்ஞானக்
+கூடங்கள் அமைத்தாலும்; புதிய ரெயில் பாதைகள்
+போட்டாலும், புதுப்பூங்காக்கள் அமைத்தாலும் கல்விச் செல்வம்
+இல்லாவிடில் அவை பயன் தரமாட்டா. கல்விச் செல்வம்
+வளர்ந்துள்ளது. வளர்ந்த கல்வி தரமானதாக இருக்கும்படிப்
+பார்த்துக்கொள்ள வேண்டியது அடுத்த கட்டப்பணி.
+
+மாலை நேரத்திலும் முன்னிரவு நேரங்களிலும் பள்ளிக்கூட
+கட்டி டங்கள் மூடிக் கிடக்கின்றன. இவற்றின் பயன் முழுமையாக
+சமுதாயத்திற்குக் கிடைப்பதில்லை.
+
+இளம் வயதில் கற்கத் தவறியவர்கள் இக்கட்டி டங்களில்
+வந்து கற்கத் தக்க வகையில் முதியோர் கல்வித் திட்டம் ஒன்றைக்
+கொண்டு வருவது பற்றித் தீவிரமாகப் பரிசிலித்து வருகிறேன்.
+
+ரஷிய நாட்டில் குழந்தை ஒன்றின் கல்விக்கு மூன்று ரூபாயும்
+முதியோரின் கல்விக்கு நான்கு ரூபாயும் செலவிடுவதாகக்
+கூறுகிறார்கள்.
+
+மாநகராட்சிக் குழுவினர் ரஷியாவில் நல்லவண்ணம் சுற்றிப்
+பார்த்து அதில் தாங்கள் பெறுகின்ற கருத்துக்களை நமக்களிக்க
+வேண்டுமென்று விரும்புகிறேன்.
+
+## English Translation
+
+Speech delivered at a meeting at the Panamarathotti Corporation Higher Elementary School in Royapuram on 15-6-1967:
+
+Comrades!
+
+For Madras to overcome its lack of amenities and become a beautiful city, its congestion must first be resolved. The Mayor and others who will soon travel to Russia should learn how others have solved this problem and return to tell us.
+
+I have not been to Russia, but I shall state what I have learned from reading.
+
+In Moscow, they do not permit the population to grow without limit. When someone from outside wishes to enter Moscow, they learn why that person is coming and how many days he will remain, and issue a permit accordingly.
+
+They do this not because one person belongs to one party and another to a different party, but because excessive crowding would create a shortage of amenities.
+
+I shall give a familiar nearby example. When the crowd at a bhajan temple increases, only those in the first three rows receive things properly; the share diminishes with each successive row. Likewise, Madras was created for a particular number of people, but its present population is ten times greater than expected.
+
+It is said that as many as two lakh people come to Madras on business and leave after only a day or two. Accommodation and drinking water must be provided for them.
+
+No one need fear that, because I say this, we shall imitate Moscow or expel those already here.
+
+Madras has grown beyond control. Our friend Munusamy comes from North Arcot. One may say that I came from Chingleput. But since Madras itself is a city that ought to have been in Chingleput district, I cannot quite say that I came here. Deputy Mayor Sadagopan too comes from South Arcot. None of this means anyone will be sent away.
+
+Amenities in Madras will emerge gradually.
+
+## Good Works
+
+The Corporation has performed many good works. It has built new school buildings, established reading rooms, opened maternal and child welfare centres, and constructed marriage halls.
+
+The Corporation’s request that the government-owned building here be handed over to it is another example of its mature approach. Even now, they occupy this building at a monthly rent of one rupee. Just as they ask the government to give it to the Corporation, I am asking them to give something to the government.
+
+If they agree to this exchange, I shall certainly consider their request.
+
+Educational institutions are growing, and larger sums are spent upon them year after year, not only by the Corporation but throughout the State.
+
+When such vast sums are being spent, parents must take an interest in whether their children study well in these schools. This is necessary if the world is to acknowledge that these crores are being spent usefully.
+
+## Honour for Teachers
+
+Teachers must have peace in their lives and be given an elevated status in society.
+
+Only if they have peace and education possesses quality will the expenditure bear fruit. Therefore, parents must take still greater interest in their children’s education.
+
+No matter how many buildings, science laboratories, new railway lines, or new parks are created, they will bring no benefit without the wealth of education. Educational wealth has grown; ensuring that this expanded education possesses quality is the next task.
+
+School buildings remain closed in the evenings and early hours of the night. Society does not receive their full benefit.
+
+I am seriously considering an adult-education plan through which those who missed learning when young may come and study in these buildings.
+
+It is said that Russia spends three rupees on a child’s education and four rupees on an adult’s education.
+
+I hope that the Corporation delegation will observe Russia carefully and provide us with the ideas it gains there.
+
+## Translator's Notes
+
+The source is a complete speech record with two printed subheadings.
+The school name “பனைமரத்தொட்டி” is retained by transliteration because an established English institutional form is not supplied.
+Population, policy, and expenditure statements are translated in the speaker’s voice and are not independently verified here.

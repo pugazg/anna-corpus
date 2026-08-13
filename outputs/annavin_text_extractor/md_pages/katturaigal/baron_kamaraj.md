@@ -1,0 +1,44 @@
+---
+source_url: "http://www.annavinpadaippugal.info/katturaigal/baron_kamaraj.htm"
+final_url: "http://www.annavinpadaippugal.info/katturaigal/baron_kamaraj.htm"
+fetched_at: "2026-07-09T21:23:23+05:30"
+http_status: 200
+content_type: "text/html"
+html_title: "-:: Annavin Padaippugal ::-"
+---
+
+# BARON KAMARAJ!
+
+Source: <http://www.annavinpadaippugal.info/katturaigal/baron_kamaraj.htm>
+
+அறிஞர் அண்ணாவின் கட்டுரைகள்
+ஆங்கிலக் கட்டுரைகள் பட்டியல்
+BARON KAMARAJ!
+Note please the latest development; Mr. Kamaraj has become a baron! Not that any such title has been conferred on him, nor has he founded any domain bold enough to employ the language, that only arrogant barons used to indulge in. All along he has been telling the public, that he is a humble servant of the people, one amongst the toiling masses—caring not for any of the comforts in life. But of late he has become a bit furious! Miscalculation naturally causes irritation and it was because of that that the carefully maintained poise was disturbed, and the Chief Minister has been led to indulge in a language, which only insolent lords employ.
+Those of the D.M.K., are likened by this baron, to beggars—street-singers who eke our their livelihood by vending sweet songs. When beggars sing sweet songs, a crowd gathers around them, even throw some small coins before them—but that crowd would not act up to the advice of the street-singers. So too, when the D.M.K., men and women talk, an appreciative crowd gathers around them—just for the delight of the music—but that crowd would not cast their votes to the D.M.K.
+Mr.Kamaraj, has given this 'scholarly and masterly' analysis! The D.M.K., is likened to a set of beggars! And the other inference naturally is, that Mr.Kamaraj has become a baron today! The beggars at least have 'sweet voice' as their asset; we do not know, what extra-ordinary talent and enviable genius, this baron possesses! But for the fact that a curious set of circumstances, has placed this man on the cushioned seat, he would have been left unnoticed by ninety out of a hundred! He was occupying a seat at the Parliament for a number of years, and the public of Tamil Nad, took no notice of that fact for his contribution was next to nothing. He spoke ardently, but not while on the floor of the Parliament; he adumbrated several schemes, but only outside the House! He was not interested even in interpellation, and the only stupendous achievement to his credit, was a stony silence and a vacant look.
+And when in this State, the Congress party was in doldrums, it was, Mr.C.Rajagopalachariar, who was pressed into service, to stem the tide, to ward off the danger; not this doughty warrior!
+His emergence to power was preceded by a number of factors, arising out of various problems—and neither the head nor the heart of this huge-sized man was of any use at that time.
+But when once he found himself placed in power, a small band of flatterers gathered around him, to sing loyal lyrics, just for some harvest. It seems that it has gone into his head and that is why he has become insolent—so insolent indeed that he thinks it fit to call those of the D.M.K., as 50 many beggars!
+Status in politics, obtained by whatever means, should inculcate a spirit of humility and not of arrogance. In fact, the only factor that Mr.Kamaraj could place before the public, as doing him credit, could be a sense of humility. He can't claim to be the repository of political wisdom and administrative acumen. He can't claim to be the genius for solving problems—at best he is a master of evasion. For such a man, to suddenly shout out insolence, is nothing but a symptom of an impending crash.
+The Tamilians, who were to some extent irritated by the 'aloofness' exhibited by C.R., found a sort of relief and rejoicing when Mr.Kamaraj came to power, because he showed his inclination to be with the people, speak their tongue, share their worries, and stand by them. The people, it sould be categorically stated, were not attracted by the intellectual abilities of Mr.Kamaraj. Mediocracy was crowned just because, it was coupled with a sense of humility! But when mediocrity assumes arrogance, well, it becomes not only intolerable, but a positive insult to the people.
+But, Mr.Kamaraj, said nothing derogatory about the people; he had his dig only at the D.M.K.—some would like to put in this argument. But when a Chief Minister, who should be conscious of his responsibility, hence of restraint, indulges in such a wild talk, as that of comparing the D.M.K., to beggars or street-singers, what else could be the conclusion than this: that having assumed power, over-confidence has entered his mind, and giddy with unbridled power, he emits, just gutter-stuff. The D.M.K.—no sane political observer would dispute the point—is a popular movement, popular with the intellectuals as well as the masses—and it is a growing movement. Ill-equipped, the D.M.K., faced the firing squad, but came out unscathed. Many observers thought that the phalanx brought about by the unholy combination of the Congress and the Dravida Kazhagam would totally annihilate the D.M.K., during the general elections. Yet, the D.M.K., was able to secure nearly seventeen lakhs of votes!—the Congress mighty, hoary and well-trained in the art of electioneering secured fifty lakhs. To dub the D.M.K., as beggars, is nothing short of political arrogance.
+But, while baron Kamaraj brandishes bad language at the Maidan, his lieutenant, the 'hero of many retreats' Mr.C.Subramaniam, dons on the garb of the statesman, and appeals for co-operation from the D.M.K. and other opposition parties.
+In his budget speech, the finance minister employs fine language depictive of nice sentiment—"these problems could be solved only when they are treated as national problems, not mere party problems. Hence I request the co-operation of all the opposite parties"
+Outside, the Chief Minister parades his new-found status, and dubs the D.M.K. as beggars! On the floor of the House, his chief-assistant pleads for co-operation. Why this incongruity? The Chief exhibits the Kathakali and the mouth-piece gives a portrayal perhaps of Bharatha Natyam! The chief assumes the shape of a 'Samhara-Moorthy', and the finance minister becomes the 'Samarasa-Moorthi'!
+The leader of the D.M.K., placed this point before the House, while speaking on this year’s budget.
+“Sir, those of the ruling party often issue frantic appeals to all the opposition parties to give them co-operation. I assume that they are sincere in their appeals and proceed to put forward my views.
+“They ask the co-operation of the opposition parties in executing the plans already framed and not in formulating them. They do not feel the necessity for considering the views of the opposition parties, when the plan projects are being framed.
+“Again they have not given a clear definition of what they call ‘co-operation’. As far as I can understand, making the people law-abiding is considered to be that sort of co-operation. In the light of this definition, the opposition parties in this State are offering earnest co-operation to the government.
+“But if the government expects that the opposition parties should not criticise their plans, should not point our loopholes, let me humbly express that, that sort of co-operation cannot be expected in a democratic set up.
+“I know the opinion held by the ruling party about those of the opposition. Recently, our Home Minister declared that none of the opposition parties in our State is capable of carrying on its function, effectively. By such declaration, he attempts at belittling them.
+“Not that he alone uses such kind of words. Our Chief Minister, Mr.Kamaraj, in a public meeting, has likened the D.M.K. to the street-singers!
+“When such is their opinion how can I think that their plea for co-operation is earnest?
+“In spite of all those things, we have offered our helping hand, whenever the cause was good and commendable. For the success of Prohibition, the D.M.K has given its co-operation both inside and outside this House.”
+Mr.Kamaraj, though present at that time, gave neither an explanation nor a regret. His silence, might mean anyone of these things,
+A sort of supreme contempt
+A sort of supine indifference
+A sort of remorse.
+We do not know, nor do we care much, as to which of these sentiments was having Mr.Kamaraj in its grip. We but request the public, to pay their best consideration over this problem—while the Chief and other Congress bosses, talk so insolently about the D.M.K., can there be an iota of earnestness in their appeal for co-operation? Co-operation is between equels, not as between barons and beggars! Baron Kamaraj, need not allow his burgomaster, to plead for co-operation from the D.M.K.—a party of beggars!
+(Editorial - 22-03-1959)
+முகப்பு | எழுத்து | பேச்சு | புகைப்படம் | ஓவியம் | தொடர்பு

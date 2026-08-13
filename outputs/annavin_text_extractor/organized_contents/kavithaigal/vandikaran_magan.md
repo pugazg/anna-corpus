@@ -1,0 +1,1 @@
+../../md_pages/kavithaigal/vandikaran_magan.md

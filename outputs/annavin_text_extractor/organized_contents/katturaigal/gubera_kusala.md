@@ -1,0 +1,1 @@
+../../md_pages/katturaigal/gubera_kusala.md

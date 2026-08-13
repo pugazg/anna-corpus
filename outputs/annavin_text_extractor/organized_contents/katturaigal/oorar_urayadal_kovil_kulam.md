@@ -1,0 +1,1 @@
+../../md_pages/katturaigal/oorar_urayadal_kovil_kulam.md

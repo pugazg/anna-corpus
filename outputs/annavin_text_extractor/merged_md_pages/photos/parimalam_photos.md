@@ -1,0 +1,1 @@
+../../md_pages/photos/parimalam_photos.md

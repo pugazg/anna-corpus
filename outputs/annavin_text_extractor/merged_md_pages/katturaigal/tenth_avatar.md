@@ -1,0 +1,1 @@
+../../md_pages/katturaigal/tenth_avatar.md

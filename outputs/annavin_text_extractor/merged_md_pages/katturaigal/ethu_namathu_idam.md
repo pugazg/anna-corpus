@@ -1,0 +1,1 @@
+../../md_pages/katturaigal/ethu_namathu_idam.md

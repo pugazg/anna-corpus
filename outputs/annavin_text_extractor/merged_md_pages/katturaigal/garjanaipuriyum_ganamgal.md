@@ -1,0 +1,1 @@
+../../md_pages/katturaigal/garjanaipuriyum_ganamgal.md

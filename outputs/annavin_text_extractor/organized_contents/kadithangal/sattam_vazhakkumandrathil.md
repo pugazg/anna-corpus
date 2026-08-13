@@ -1,0 +1,1 @@
+../../md_pages/kadithangal/sattam_vazhakkumandrathil.md

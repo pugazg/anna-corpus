@@ -1,0 +1,470 @@
+# நீதிமன்றத்தில் அண்ணாவின் வாக்குமூலம்! / Anna's Statement in Court
+
+**Tamil title:** நீதிமன்றத்தில் அண்ணாவின் வாக்குமூலம்!  
+**English title:** Anna's Statement in Court  
+**Source file:** `katturaigal/neethimandra_anna.md`
+
+## Source Tamil (verbatim)
+
+- Source image folder: `/Users/pugazhendhirajendran/Documents/Codex/2026-07-09/https-www-annavinpadaippugal-info/outputs/annavin_text_extractor/ocr_images/katturaigal/neethimandra_anna`
+- OCR language: `tam`
+- Tesseract page segmentation mode: `3`
+- OCR cleanup: `enabled`
+
+## Image 1: 001-a2d0ce9026.png
+
+- Image: `katturaigal/neethimandra_anna/001-a2d0ce9026.png`
+
+44, நீதி மன்றத்தில்
+அண்ணாவின் வாக்குமூலம்!
+
+இந்த வாக்கமூலத்தைப் பதிவு யெயும்படியான சந்தர்ப்பம்
+
+கிடைத்தமைக்கு என்னுடைய நன்றியறிதலைத் தெரிவித்தக் கொள்கிறேன்.
+
+இதன்மூலம், என்மீது சுமத்தப்பட்டுள்ள குற்றச்சாட்டுகளை மறக்கவோ -
+
+வாதிடவோ, அல்ல, நான் விரும்புவது. தங்களது நீதியுணர்ச்சி2” 2
+நேர்மை எண்ணத்திலும் முழு நம்பிக்கைவைத்திருக்கும் ஈான் பகள்மீது
+சுமத்தப்பட்டுள்ள பலவிதமான குற்றச்சாட்டுகளுச். . காரணமான -
+
+இயற்கையானதும்; உண்டாக்கப்பட்டதுமான குழ்நிலைகளை - விளக்க
+விரும்புகிறேன்.
+
+எங்களைப் பொறுத்தவரையில் இந்த வழக்கு ஒரு சாதாரண
+சம்பவமல்ல; நாங்கள் ஈடுபட்டிருக்கும் இயக்கத்தின் வரலாற்றில் '
+குறிப்பிடத்தக்கதோர் சம்பவமாகும். எனவே, விரிவாகவும், விளக்க
+மாகவும் இந்த வாக்குமூலம் இருக்க வேண்டியிருக்கிறது.
+
+இந்த வழக்கு சம்பந்தமான கில முக்கிய அம்சங்களை - மேன்மை
+தங்கிய நீதிபதி அவர்களே! - உங்கள் முன்வைக்க, அனுமதியுங்கள்.
+பலதரப்பட்ட குற்றங்களில் ஈடுபட்டதாகக், குற்றம் சாட்டப்பட்டுள்ளோம் -
+சட்ட மொழியிலே கூறவேண்டுமானால், சில குறிப்பிட்ட குற்றங்களைச்
+செய்யத் தூண்டினோம், என்று இங்கே நிறுத்தப்பட்டிருக்கிறோம்.
+
+குற்றம் சாட்டப்பட்டவன், தன்னுடைய குழ்நிலைகளையும் சுற்றுச்
+சார்புகளையும் - தண்டனையிலிருந்து தப்புவதற்காக, அல்ல; நீதி
+மன்றத்தின் முன்பும் அதன்மூலம் மக்கள் மன்றத்துக்கும் - விளக்கி,
+விவகாரங்களின் உண்மை நிலையை உணர்த்துவதற்கு, சட்ட ஏடுகளில்
+இடமுண்டா என்பது எனக்குத் தெரியாது - ஏனெனில், சட்ட எடுகளைக்
+
+## Image 2: 002-900fadbade.png
+
+- Image: `katturaigal/neethimandra_anna/002-900fadbade.png`
+
+கற்றவனல்ல! - ஆனால், நீது ஏடுகளில் நிரம்ப இடமுண்டு என்று
+உறுதியாக நம்புகிறேன்.
+
+சர்க்கார் தரப்பு முதல் சாட்சி கூறியபடி, லட்சத்துக்கு மேற்பட்ட
+உறுப்பினர்களைக் கொண்டிருப்பதும், சிற்றூர்களிலும் பேரூர்களிலும்
+ஏராளமான கிளைகளுடன் தமிழகமெங்கும் பரவியிருப்பதுமான,
+ஜனநாயக அமைப்பு - திராவிட முன்னேற்றக் கழகம். அதன் பொதுச்
+செயலாளன் நான். மற்ற நால்வரும், அதனுடன் நெருங்கிய தொடர்பு
+கொண்டு, எனக்குத் துணை நிற்கும் தோழர்கள்.
+
+எந்த இயக்கமும் பெற முடியாத செல்வாக்கும், சிறப்பும் பெற்று
+விளங்குகிறது, திராவிட முன்னேற்றக் கழகம். நேரமும் சந்தர்ப்பமும்
+கிடைத்தால், ஜனநாயக முறைகளுக்குப்பட்டு, ஆளும் கட்சியை அகற்றி,
+ஆட்சிப் பொறுப்பை ஏற்கக்கூடிய வலிமையும் வாய்ப்பும் பெற்ற
+உன்னதமான அமைப்பாகும். இதனை, நான் குறிப்பிடுவது - திராவிட
+முன்னேற்றக் கழகத்தைப் பற்றிய விரிவான விளக்கத்தைத் தருவதற்காக
+அல்ல; தனிப்பட்ட முறையிலும், கூட்டாகவும் எத்தகைய மகத்தான
+பொறுப்பில் வைக்கப்பட்டுள்ளோம் என்பதை எடுத்துக்காட்டவேயாகும்.
+
+ஆயினும், இங்கே, நிறுத்தப்பட்டிருக்கிறோம் - 'குற்றம் செய்யத்
+தூண்டினோம். ' என்பதாக.
+
+வழக்கு, எங்கள்மீதுதான் என்றாலும், எங்களுக்கும் தி.மு.க.வுக்கும் :
+இருக்கும் தொடர்பு காரணமாக, இந்த வழக்கின் விளைவுகள் எங்களை
+மட்டுமல்ல - தி.மு.க.வையும் பாதிக்கும். எனவே, உங்கள் முன்னிலையில்,
+எல்லா விவரங்களையும் கூற, விரும்புகிறேன். சட்டத்தின் தண்டனையி
+லிருந்து தப்பித்துக் கொள்ள அல்ல - திராவிட முன்னேற்றக் கழகத்தின்
+திருப் பெயருக்கு மாசு ஏற்படாமலிருப்பதற்காக.
+
+திராவிட முன்னேற்றக் கழகம் - திராவிட நாட்டின் விடுதலைக்குப்
+. பாடுபடுவதாகும். ஆந்திரம், கன்னடம், கேரளம், தமிழகம் ஆகிய
+மொழிவாரிப் பிரதேசங்களைக் கொண்ட, 'திராவிட நாடு' எனும் சுதந்திரத்
+தனி அரசை ஏற்படுத்தி, உலக நாடுகளின் மத்தியில் உன்னதமான
+நிலையில் திகழும்படி செய்ய வேண்டுமெனும், உயர்ந்த இலட்சியத்தைக்
+கொண்டதாகும். இந்த உயர்ந்த இலட்சியத்துக்காக, இலட்சக்கணக்கான
+
+## Image 3: 003-74fcde5dcd.png
+
+- Image: `katturaigal/neethimandra_anna/003-74fcde5dcd.png`
+
+திராவிட மக்கள், தங்களை அர்ப்பணித்திருக்கிறாரகள். அவர்கள்
+வழங்கும், வலிமையையும் சக்தியையும் கொண்டு, நாங்கள் ஐவரும்,
+பாடுபட்டு வருகிறோம்.
+
+வடநாட்டு ஆதிக்கப் பிடியிலிருந்து, எங்கள் தாயகத்தை மீட்கும்
+உன்னத நோக்கமே - எங்களுடைய அரசியல் இலட்சியம். இந்த உயரிய
+இலட்சியத்துக்காக, எங்களை அர்ப்பணித்துவிட் டோம். எது தேரினும்,
+இதற்காகவே பாடுபடுவோம். வீம்புக்காக அல்ல, மனித வரலாற்றின்
+சுவைமிகுந்த அத்தியாயமாகிய, சுதந்திரப் போராட்டத்தில், ஈடுபட்ட
+எல்லோருக்கும் எத்தகைய மனோவேகம் இருந்ததோ அத்தகைய
+மனோவேகத்துடன்.
+
+தி.மு.க.வின் நோக்கம் கண்ணியமானது. நோக்கமட்டுமல்ல, அதை
+அடைய வகுக்கப்படும் வழிமுறைகளும் கண்ணியமானவைகளேயாகும்.
+
+சொல்லாலோ, செயலாலோ பலாத்காரத்துக்கு இடமளிக்காத
+வகையில், அமைதியான - சட்டவரம்புக்குட்பட்ட - கண்ணியமான
+முறையில் பணிபுரிவதே தி.மு.க.வின் திட்டமாகும் என்பதை, சர்க்கார்
+தரப்பு சாட்சியங்களும், அவர்கள் சமர்ப்பித்த ஆதாரஙளும், தெள்ளத்
+தெளிவாக்கி இருக்கின்றன. உணர்ச்சியும் ஆர்வமும் நிரம்பிய
+அறப்போராட்டங்களின் போது கூட, அமைதி - கண்ணியம், கட்டுப்பாடு
+என்பதே, எங்களது மூலாதார முழக்கமாகும்.
+
+அரசியல் துறையில் மட்டுமல்ல, சமுதாயத் துறையிலும், ஜாதி,
+வகுப்பு பேதங்கள் ஒழிக்கப்பட்டு, சமுதாயத்தைத் திருத்தியமைக்க
+வேண்டுமென்று கூறும் நாங்கள், அமைதி கெடா வகையிலும், கண்ணியத்
+தோடும், பணியாற்றி வருகிறோம். இவ்வண்ணமே, பொருளாதாரத்
+துறையிலும், பணிபுரிந்து வருகிறோம்.
+
+தி.மு.க.வின் வரலாற்றைப் பார்த்தால், உள்ளத் தூய்மையோடும்
+கண்ணியத் தோடும் அது பணிபுரிந்து வருவது விளங்கும். இந்த
+உண்மையைத் தெள்ளத் தெளிவாக விளக்கிய சர்க்கார் தரப்புக்கு,
+என்னுடைய நன்றி.
+
+பலாத்காரம் - மனிதப் பண்புக்கு ஏற்றதல்ல; ஜனநாயத்துக்குச் சாவு
+மணிஅடிப்பதாகும், என்பதே எமது கருத்தாகும்.
+
+## Image 4: 004-928f7928ca.png
+
+- Image: `katturaigal/neethimandra_anna/004-928f7928ca.png`
+
+வகுப்பு வேறறுமையையோ, மனமாச்சரியத்தையோ உண்டுபண்ண,
+என்றும் நாங்கள், எண்ணியதில்லை. இன்னும் சொல்லவேண்டுமானால்,
+தாயகத்தின் விடுதலைக்குப் பணிபுரியுமாறு பார்ப்பனர் உள்பட எல்லா
+வகுப்பினரையும் இரு கையேந்தி வரவேற்றிருக்கிறோம்.
+
+எப்படி, இந்தளவு அமைதியும் சாந்தமும் ஏற்படுத்த முடிந்தது
+என்பதை எண்ணினால், எங்களுக்கு வியப்பாயிருக்கிறது.
+
+ஏனெனில், நாட்டிலே திராவிட சமுதாயத்துக்கு இழைக்கப்பட்டு
+
+வரும் கொடுமைகளும் அக்கிரமங்களும் யாரையும் எளிதிலே
+
+ஆத்திரமூட்டக்கூடியனவாகவே உள்ளன. நாடாண்ட சமுதாயம், இன்று,
+
+் நாலாம்ஜாதி, ஐந்தாம் ஜாதி என்று இழிநிலையில் வைக்கப்பட்டு
+
+பாழ்படுத்தப்படுகிறது. பண்புகள் பரிகசிக்கப்பட்டு, நிலைகுலைக்கப்பட்டு,
+திராவிட சமுதாயம் சீர் குலைக்கப்பட்டு வருகிறது.
+
+அரசியல் துறையிலே அடிமைகளாக்கப்பட்டு, திராவிடர்கள்,
+அவதிக்காளாக்கப்படுகின்றனர். பொருளாதாரத் துறையிலே திராவிடப்
+பெருங்குடி மக்கள் தரித்திரர்களாக நலிகிறார்கள். சொந்த நாட்டினின்றும்
+துரத்தியடிக்கப்பட்டு, ஒரு கவளம் சோற்றுக்காக, வேற்று நாடுகள் சென்று,
+மானமிழந்து, மரியாதை இழந்து, அந்த நாடுகளின் அடக்குமுறைகளுக்கு
+ஆட்பட்டு, அவதியுறுகிறார்கள். இந்தக் கொடுமைகளை நிரந்தரமாக்கி -
+விடும். பயங்கர முயற்சியும் இடைவிடாது, நடைபெறுகிறது. இந்த
+நிலையில் திராவிட மக்கள் தங்கள் இழிநிலையைப் போக்கிக்கொள்ள -
+அக்கிரமத்தை அழித்தொழிக்க - சட்டங்களை மீறியும், பலாத்
+காரத்திலீடுபட்டும், செயல் பல புரியாதபடி தடுத்து நிறுத்தி, அமைதியும்
+அறிவும் கொண்டதும், கண்ணியமும் கட்டுப்பாடும் நிரம்பியதும்,
+சட்டத்தின் மாண்பை மதிப்பதும் ஆன நடவடிக்கைகளில் திராவிட
+முன்னேற்றக் கழகம், ஈடுபடச் செய்துவருகிறது. ஏனென்றால், சட்டத்தின்
+மாண்பை மதிப்பது - கோழைத்தனமல்்ல, என்று, தி.மு.க. மனதார
+நம்புகிறது. இப்படிப்பட்டதுதான் எங்கள் வரலாறு - இருந்தும், நாங்கள்,
+சட்டத்தை மீறியவர்களென்று குற்றஞ்சாட்டப்பட்டு நிறுத்தப்பட்டிருக்
+கிறோம்!
+
+நாங்கள், சட்டத்தை மதிப்பவர்கள்; மரியாதை செலுத்துபவர்கள்.
+சட்டத்தின் நோக்கத்தையும், பொறுப்பையும் உணர்ந்து போற்றுபவர்கள்.
+
+## Image 5: 005-c658efc97a.png
+
+- Image: `katturaigal/neethimandra_anna/005-c658efc97a.png`
+
+சட்டம் - நீதியைக் குறிக்கோளாகக் கொண்டு மக்களிடையே
+அமைதியையும் ஒழுங்கையும் நிலைநாட்ட நாகரிக அறிவு தந்த சாதனம்.
+ஆள்வோருக்கும் - ஆளப்படுவோருக்குமிடையே ஏற்படுத்தப்பட்ட ஓர்
+புனித ஒப்பந்தம் - சட்டம். ஆளப்படுவோரின் நலன் கருதி ஆள்வோரும்;
+நீதி, மனித உரிமைகளுக்குக்கட்டுப்பட்டு ஆளப்படுவோரும், சட்டத்துக்குக்
+கீழ்ப்படியவேண்டும்.
+
+நான் சட்டத்தைப் பற்றிய நுணுக்கங்களிலோ - புதிய
+விளக்கங்களிலோ - ஈடுபட விரும்பவில்லை. ஆனால், சட்டம், தன்
+இடமாறாது தன் பெருமை குன்றாது இருக்க வேண்டுமானால், ஆள்வோர்
+அல்லது ஆளப்படுவோர் இவர்களில் எவருமே, மீறக்கூடாது. அப்படி
+இருந்தால்தான், சட்டம் கோலோச்சமுடியும் - சகலரும் சென்று பூஜிப்பர்.
+பூஜைக்குரிய 'தெய்வத்தை' பக்தர்களின் மனத்தில் அச்சத்தை உண்டு
+பண்ண அர்ச்சகன் பயன்படுத்தினால், ஆலயம் வெறுங்கோயிலாகிவிடும்!
+பக்தர்கள் பாதை மாறிட நேரும்!
+
+நீதி/அமைதி! ஒழுங்கு! - இவைகளை நிலைநாட்டுவதே, சட்டம்.
+இதனை மறந்து, ஆட்சிப்பீடம் அமர்ந்தோர், தங்கள் ஆசாபாசங்களுக்கு
+ஆட்பட்டு, தன்னிலை மறந்து, மகீகளின் மன அமைதியைக் கெடுத்து,
+நீதியைக் கேலிக் கூத்தாக்கினால் - தங்களது ஜனநாயக உரிமைகளைக்
+காத்துக்கொள்ள அறப்போர் துவங்கும்படியான நிலைக்கு ஆளாகும் '
+போது, ஆட்சியிலே அமர்ந்திருக்கும் அரசாங்கம், சட்டத்தை நீட்டி, 'சட்டம்,
+சட்டம்' என்று பேசினார், அது, 'சைத்தான், தன் சவுகரியத்துக்காக '
+சாத்திரத்தைக் காட்டுகிறது', எனும் பழமொழியைத் தானே,
+நினைப்பூட்டும்.
+
+ஆட்சியிலிருக்கும் ஒரு கட்சி, நாட்டின் அமைதியைக் கெடுத்து,
+நீதியைச் சாய்த்து, இஷ்டம்போல் நடக்கிறதென்றால், நாட்டின் சட்டத்தைத்
+தொடவும் அருகதையற்றுவிடுகிறதென்பதே, என்னுடைய எண்ணமாகும்.
+
+சட்டத்துக்கு மதிப்பளிக்காத சர்க்கார், விடுதலை விரும்பிகளை
+வீழ்த்த, சட்டத்தைத் தடியாகக் கருதி அதை எடுத்து வீச முயன்றால், அதை
+அனுமதிக்கக்கூடாது.
+
+இவ்விதம் நான் கூறுவதால், சட்ட வரம்பு மீறிய. செயல்களை
+ஆதரிப்பதாக அர்த்தமல்ல - தி.மு.க.வைப் போன்ற பொறும்பு வாய்ந்த
+இயக்கம், இதுபோன்ற நிலைமைகளை ஒருபோதும் சகிக்கர்து;
+
+## Image 6: 006-412e1dbca9.png
+
+- Image: `katturaigal/neethimandra_anna/006-412e1dbca9.png`
+
+சட்டத்தை மீறுதல் குற்றம். ஆனால், சட்டத்தை மீறுவோர்,
+இருக்கிறார்கள். சிலர், தமது சுய நல ஆசைகளுக்காக சட்டத்தை
+மீறுகிறார்கள் - ௮ங்ஙனம் செய்துவிட்டு, 'எப்படித் தப்பலாம் ' என்று
+முயற்சிப்பார்கள். இவர்கள், சமுதாயக் காளான்கள் - இவர்களால்,
+ஜனநாயகம் ஆபத்துக்கு ஆளாகும்.
+
+ஆனால், உன்னத நோக்கத்துக்காகப் பாடுபட்டும் 'சட்டத்தை
+மீறியோர் ' எனும் குற்றம் சாட்டப்பட்டுக் கொண்டு வத்து நிறுத்தப்
+படுவோரும் இருக்கிறார்கள். விடுதலைப் போர் எனும் புனிதப்
+பணியிலீடுபட்டிருக்கும் அவர்களது உரிமைப் பாதையில் கொடுங்கோலர்
+கள், சட்டத்தை வீசியோ - வீசாமலோ - தடைகளைப் போடுகிறார்க
+ளென்றால் அந்தத் தடைகளை விடுதலை விரும்பிகள், பொருட்படுத்த
+மாட்டார்கள். அமைதியோடு தங்கள் பணியைச் செய்வார்கள் - அதனால்
+- வரும் விளைவுகள் அத்தனையையும், ஆனந்தமாகத் தாங்கிக்
+கொள்வார்கள். அவர்கள் இலட்சியம் எவ்வளவுக் கெவ்வளவு உன்னதமா
+யிருக்குமோ, அவ்வளவுக் கவ்வளவு கொடுமையும் அதிகமாயிருக்கும்.
+அவர்கள் யாவரும், நீதிமன்றத்தின் முன், நிறுத்தப்பட்டிருக்கிறார்கள்.
+அப்படி. நின்றவர்களில் ஒருவாதான், இன்றைய முதலமைச்சா!
+இத்தகையவர்களை 'சட்டத்தை மதிக்காதோர்' என்று, என்றும்
+கருதப்படுவதில்லை. சாதாரணமாகச் சட்டத்தை மதியாதவனுக்கும்,
+இத்தகைய ஒரு புதிய இலட்சியத்துக்காகச் சட்டத்தை மீறுபவர்களுக்கு
+மிடையில், குறிப்பிடத் தகுந்த வித்தியாசம் உண்டு. ்
+
+ஆனால், நீதிமன்றத்தில், இந்த இரு பிரிவினரிடையிலும்,
+ஏற்றத்தாழ்வு, காட்டப்படுவதில்லை - சட்டப்படி, இருவகையினரும்,
+குற்றவாளிதான்! ஆனால், சரித்திரம், இதனை மாற்றியிருக்கிறது. நேற்று
+சட்டத்தை மீறியோர்தான், இன்று சட்டத்தைச் செய்கிறார்கள். நான்,
+இவ்விதம், கூறுவதால், என்னைப் பற்றித் தவறாக எண்ணாதீர்கள்.
+சுயராஜ்யப் போராட்டத்தில் பங்கு கொண்ட - அந்த வீரர்களுக்கு,
+தியாகிகளுக்கு, சமமானவன் என்று நான், என்னைச் சொல்லிக்
+கொள்ளவில்லை. ஆனால்,அவர்களுடைய குழுவில் நானும்
+சேர்க்கப்பட்டு விட்டதாக உணர்கிறேன்! மகிழ்கிறேன்! தாயகத்துக்காகவும்,
+என் இலட்சியத்துக் காகவும் நான் செலுத்தவேண்டியதை, செலுத்த
+வேண்டியவனாகிவிட்டேன்.
+
+## Image 7: 007-e51d336165.png
+
+- Image: `katturaigal/neethimandra_anna/007-e51d336165.png`
+
+நான், எந்தக் குற்றங்களுக்காக இங்கே, நிறுத்தப்பட்டுள்ளேன்?
+
+நான், சில குற்றங்களைச் செய்யுமாறு தூண்டினேன் - இதனை
+நிரூபிக்க, ஆதாரங்களைத் தேடியும், சாட்சியங்களைக் கொண்டுவத்தும்,
+சர்க்கார் தரப்பினர் மிகுந்த பிரயாசை எடுத்துக் கொண்டார்கள். தி.மு.க.
+செயற்குழுவில் நிறைவேற்றப்பட்ட தீர்மானங்கள் - சென்னை தி.மு.க
+மாநாட்டில் நான் பேசியதில் ஒரு பகுதி - 'நம்நாடு' இதழில் வெளிவந்த சில
+அறிக்கைகள்; கட்டுரைகள், ஆதாரங்களாகக் காட்டப்பட்டன. இவைகளில்
+எதையும் நான் மறுக்கவில்லை. உண்மையில் அவைகள், இவ்வளவு
+உணாரச்சி யூட்டக்கூடியதாகவிருந்தது கண்டு, வியப்புறுகிறேன்!
+அவைகளின் விளைவால், சுமார் 5000க்கு மேற்பட்ட என் தோழர்கள்
+சிறைக்குள் - ஒரு வீரத் தோழர் தன்னுடைய கரங்ளில் ஒன்றை இழுந்தார் -
+இன்னொருவர், தன் 'பங்குக்குக் கால் ஒன்றைப் பறிகொடுத்தார் - ஆறு
+உயிர்கள், ஜூலை 15ந் தேதி, போய்விட்டன!
+
+அடக்கு முறைத் தீயைக் கண்டும் ஆயிரக்கணக்கான வாலிபர்களும்
+பெண்களும் தயாராகவிருக்கிறார்கள் என்பதொன்றே போதும் - எந்த
+இலட்சியத்துக்காகப் பாடுபட்டு வருகிறோமோ, அந்த இலட்சியத்துக்கு
+மக்களின் 'ஆசி' கிடைத்துவிட்டது என்பதை விளக்க - அதிகார
+மேந்திகளால், அந்த 'ஆதரவை 'ப் புறக்கணித்துவிட முடியாது - இங்கே,
+எத்தகைய தீர்ப்பு வழங்கப்பட்டாலும் சரி, 'அதனை' அணைத்துவிட
+முடியாது. முதலமைச்சரின் மாளிகைக்கு முன், மறியல் செய்யச் சொன்னது
+ஒரு குற்றம்! சத்யாக்கிரக முறைக்குத் தன்னுடைய சீடர்கள் வழங்கும்
+மரியாதையைக் கேட்டால், கல்லறையிலிருக்கும் காந்தியார், திடுக்கிட்டுக்
+கலங்குவார்
+
+என்னுடைய தோழர்கள் மீது, 'மறியல் செய்ததாகக் குற்றம்
+சாட்டாமல், லைசென்ஸில்லாமல் ஊர்வலம் நடத்தியதாகவும்,
+சட்டவரம்பை மீறியவகையில் கூடியதாகவும், இது போன்ற குற்றங்களைச்
+சுமத்தியிருப்பதாக நான் மிகவும் வருந்துகிறேன். மறைமுகமாகத் தாக்குவது
+விவேகமல்ல. ஆட்சியிலிருப்போர், எதிர்க்கட்சியினரை இவ்வளவு
+கொடுமையாகா நடத்துவது?
+
+தி.ந0.க. அதனை ஏற்றுக் கொள்ளும்! அதற்குப் பலம் உண்டு -
+இலட்சியத்தில் உறுதியுண்டு.
+
+## Image 8: 008-f1bb1db8e4.png
+
+- Image: `katturaigal/neethimandra_anna/008-f1bb1db8e4.png`
+
+நீதிபதி அவர்களே! மக்களின் கோரிக்கைகளை - விருப்பங்களை -
+ஆட்சியாளருக்குத் தெரிவிக்க, ஜனநாயக முறையில் என்னென்ன
+வழிகளுண்டோ, அத்தனையும் தி.மு.க. செய்து பார்த்தது. சிறு புன்னகை -
+கொஞ்சம் தலையசைப்பு - எதுவும் கிடைக்கவில்லை, ஆட்சி
+யாளரிடமிருந்து. கற்சிலைபோல் வாய்திறவாது, மக்கள் குரலைப் பார்த்துக்
+கேலி செய்து கொண்டிருந்தார்கள். எல்லா வழிகளும் முடிந்துபோய்
+விட்டது - எல்லாக்கதவுகளும் மூடப்பட்டு விட்டன - மக்கள் குரல் வலுக்க,
+வலுக்க கதவுகள் பலமாக மூடப்பட்டன. ஏனிந்தச் சர்க்கார், ஜனநாயக
+வழிகளை அவமதித்து, மக்களைக் காண மருண்டு, கொடுங்கோலர்போல்
+நடந்துகொண்டது என்று இன்னும் எனக்கு விளங்கவில்லை. இவ்வளவு
+வழிகளையும் செய்து பார்த்தும் பலன் காண முடியாத தி.மு.க. வேறு
+வழிகளைக் காணத்தானே வேண்டும்? எங்களுக்குப் பஸ்லுல்லா ரோடு
+மீது மட்டும் மோகமா! எங்களது குறைகளை - மக்களது குறைகளை -
+முதலமைச்சரிடம் போய்த் தெரிவிக்க அவருடைய இல்லத்துக்குப்
+போகாமல் எங்கே போவது? மக்களின் கருத்தை - ஆவலை -
+அமைதியோடு, கட்டுப்பாடாக, கண்ணியத்தோடு, கூறுவதா குற்றம்?
+
+ஜனநாயக முறையில் முயன்று பார்த்தும் முடியாமற்போனதன்
+விளைவாகத்தான், மற்ற இரண்டு, அறப்போர்களும் உருவாயின.
+
+ஜனநாயகம் கேலிக்கூத்தாகும் பொழுது, அறப்போர் - கண்டனங்கள்
+மூலம், நாட்டின் நலிவைச்சர்க்காருக்குணர்த்த தி.மு.க. முயன்றதா குற்றம்? -
+சர்க்கார் சாதாரண வார்த்தைகளால் பதில் சொல்லக்கூடாதா?
+குண்டுகளாலா பேச வேண்டும்! நீதிபதி அவர்களே! சூழ்நிலைகளின்
+விளைவால், அமைதியான மக்கள் ஆத்திரமடைந்தார்கள் - சட்டம்,
+அதிகாரம் ஏந்தியவர்களின் கையில் சிக்கிக்கொடுமைகளில் 'என்சின்'
+(2072) போலாகிவிட்டது.
+
+மக்கள் தங்கள் வெற்றிக் கீதத்தைப் பாடும்போது, அதன் உண்மைக்
+குரலை மறைப்பதற்குக், கொடுங்கோலர்களால் சட்டம் துணைக்கழைக்கப்
+பட்டிருக்கிறது.
+
+சட்டத்தை மீறிய ஐவரையல்ல, இந்த மண்ணின் இன்றயை நிலையை.
+
+இந்த வழக்கு எடுத்துச் சொல்கிறது மக்களின் உள்ளத்தில் ஒரு உற்சாகம் -
+ஆர்வம் - மனோவேகத்தைக் காண்கிறோம். நீதியைப் பெறவும்,
+
+## Image 9: 009-8adb994989.png
+
+- Image: `katturaigal/neethimandra_anna/009-8adb994989.png`
+
+சுதந்திரத்தை அடையவும், அவர்கள் துடிக்கிறார்கள். அவர்களுடைய
+உற்சாகத்திற்கு நாங்களே காரணம் என்பது கேட்டு மகிழ்கிறோம்.
+
+நீதிபதி அவர்களே. குற்றம் செய்யத் தூண்டியது என்பதையல்ல,
+நான் விளக்குவது. சர்க்கார் தரப்பில் கூற்ப்பட்ட எதையும் நான்
+மறுக்கவில்லை! இத்தகைய சூழ்நிலைகளில், இவைகள் யாவும் குற்றங்களா
+என்பதை மட்டுமே, கேட்கிறேன் மக்களின் ஆசையை - கோரிக்கைகளை
+மதியாமல் ஆட்சிப்பீடம் ஏறியோர் அக்கிரம வழியில் சென்ற காரணத்தால்,
+அல்லவா, இத்தகைய இன்றியமையாத நட வடிக்கைகளில் ந ரங்கள் இறங்க
+நேர்ந்தது?
+
+வாழ்த்தும் வணக்கமும்
+
+தாயகத்தின் விடுதலைக்காக, மழலையின் மொழியையும்
+மனைவியின் காதலையும் மறந்து, பெற்றோரிடம் விடைபெற்ற வண்ணம்.
+அற்பபோரிலீடபட்டு, ஆளவந்தாரின் வெறியாட்டத்துக்க இரையாகி,
+சிறைச்சாலைக்குள்ளே கிடக்கும், தயாகத்தின் கண்மணிகளாம் நம்முடைய
+சகோதர்களுக்கு. நம்முடைய வாழ்த்துதல்களையும் வணக்கங்களையும்
+தெரிவித்துக் கொள்கிறோம். வாழ்க, வீரர்கள்! ஒழிக அடக்கு முறை!
+
+(திராவிடநாடு - 16.8.53)
+
+## English Translation
+
+I express my gratitude for having received the opportunity to place this statement on record.
+
+Through it, I do not seek either to deny or to argue against the charges laid upon me. Having complete confidence in Your Honour's sense of justice and integrity, I wish to explain the circumstances, both natural and contrived, that gave rise to the several charges against us.
+
+For us this case is not an ordinary occurrence. It is a notable event in the history of the movement in which we are engaged. This statement must therefore be extensive and explanatory.
+
+Your Honour, permit me to place before you certain important aspects of this case. We are accused of involvement in various offences; in legal language, we stand here charged with having instigated certain specified offences.
+
+I do not know whether the law books provide room for an accused person to explain his circumstances and surroundings, not in order to escape punishment, but to make the true state of affairs understood before the court and, through it, before the forum of the people. I have not studied the law books. But I firmly believe that the books of justice contain ample room for it.
+
+As the prosecution's first witness stated, the Dravida Munnetra Kazhagam is a democratic organization with more than one hundred thousand members and innumerable branches in villages and cities throughout Tamil Nadu. I am its general secretary. The other four are comrades closely connected with it who stand beside me.
+
+The Dravida Munnetra Kazhagam possesses an influence and distinction that no other movement has attained. Given time and opportunity, it has the strength and prospect, by democratic means, to remove the ruling party and assume responsibility for government. I mention this not to provide a detailed account of the DMK, but to show the magnitude of the responsibility placed upon us individually and collectively.
+
+Yet we stand here accused of “instigating an offence.”
+
+Though the case is against us, our connection with the DMK means its consequences will affect not only us but the organization too. I therefore wish to state every detail before you, not to escape the law's punishment, but to ensure that no stain falls upon the honoured name of the Dravida Munnetra Kazhagam.
+
+The DMK labours for the liberation of Dravida Nadu. It holds the noble ideal of establishing an independent sovereign state called Dravida Nadu, comprising the linguistic regions of Andhra, Karnataka, Kerala and Tamil Nadu, and enabling it to occupy an exalted place among the nations of the world. Hundreds of thousands of Dravidian people have dedicated themselves to this high ideal. With the strength and power they provide, the five of us continue our work.
+
+Our political ideal is the noble purpose of recovering our homeland from the grip of northern domination. We have dedicated ourselves to this ideal. Whatever may happen, we shall labour for it, not out of vanity, but with the same ardour possessed by all those who took part in the struggle for freedom, that fascinating chapter of human history.
+
+The DMK's objective is honourable. Not only its objective, but the means devised to attain it are honourable too.
+
+The prosecution's own testimony and exhibits have made perfectly clear that the DMK's programme is to work peacefully, lawfully and honourably, allowing no place for violence in word or deed. Even during passionate and enthusiastic moral struggles, our foundational watchwords are peace, dignity and discipline.
+
+We work with peace and dignity not only in politics, but also in society, where we demand reconstruction through the abolition of caste and class distinctions. We work in the same manner in the economic sphere.
+
+The DMK's history demonstrates that it has laboured with purity of heart and dignity. I thank the prosecution for making this truth unmistakably clear.
+
+Violence, in our view, is unworthy of human nature and sounds the death knell of democracy.
+
+We have never intended to create class division or mutual jealousy. Indeed, we have welcomed with both hands people of every community, including Brahmins, to work for the homeland's liberation.
+
+When we consider how we have been able to maintain such peace and calm, even we are astonished. The cruelties and injustices inflicted upon Dravidian society in this country are enough to provoke anyone easily. A community that once ruled the land is today degraded and ruined as a fourth or fifth caste. Its culture is mocked and destabilized, and Dravidian society is being disordered.
+
+Dravidians are made political slaves and subjected to suffering. Economically, the great Dravidian community languishes in poverty. Driven from their own land, people travel to foreign countries for a mouthful of rice, lose honour and respect, and suffer under the repression of those countries. A dreadful effort to perpetuate these cruelties continues without pause.
+
+In these circumstances, the DMK has restrained Dravidian people from breaking laws, resorting to violence or undertaking other acts to end their degradation and destroy injustice. It has instead engaged them in measures marked by peace and reason, dignity and discipline, and respect for the majesty of law. The DMK sincerely believes that respecting the dignity of law is not cowardice. Such is our history; yet we stand accused of being lawbreakers.
+
+We respect and honour the law. We understand and cherish its purpose and responsibility.
+
+Law is the instrument given by civilized intelligence to establish peace and order among the people with justice as its aim. It is a sacred agreement between rulers and ruled. Rulers must obey it for the welfare of the governed, and the governed must obey it within the bounds of justice and human rights.
+
+I do not wish to enter into legal subtleties or novel interpretations. But if law is to remain in its proper place without losing its greatness, neither rulers nor ruled may transgress it. Only then can law reign and everyone worship at its shrine. If a priest uses the “deity” worthy of worship to create fear in devotees' minds, the temple will become empty and the devotees will be compelled to choose another path.
+
+Justice, peace and order: law exists to establish these. If those occupying the seat of government forget this, submit to their passions, lose their balance, disturb the people's peace of mind and turn justice into a farce, the people will be driven to begin a moral struggle to defend their democratic rights. If the government then stretches out the law and cries “Law! Law!”, it merely recalls the proverb that the devil cites scripture for his own convenience.
+
+If a party in power destroys the country's peace, bends justice and acts as it pleases, I believe it loses even the moral qualification to touch the law of the land.
+
+If a government that does not respect the law treats law as a club and tries to hurl it at seekers of freedom, that must not be permitted.
+
+In saying this, I do not mean that I support acts beyond the bounds of law. A responsible movement such as the DMK will never tolerate such conditions.
+
+Breaking the law is an offence. Yet there are different kinds of people who break it. Some do so for selfish desires and then try to discover how they may escape. They are fungi upon society, and they endanger democracy.
+
+But there are also people who labour for a noble purpose and are brought before a court accused of “breaking the law.” If tyrants, by invoking law or otherwise, place barriers in their path of rights while they perform the sacred work of liberation, seekers of freedom will disregard those barriers. They will carry on their work peacefully and gladly bear every consequence. The nobler their ideal, the greater the cruelty directed against them. All such people have stood before courts. One who once stood in that position is today's Chief Minister. Such people are never regarded simply as those who disrespect the law. There is a significant difference between an ordinary person who disregards law and one who transgresses it for a new ideal.
+
+The court, however, distinguishes no rank between these two classes; under law, both are offenders. History has altered that judgment. Those who broke the law yesterday make the law today. Do not misunderstand me for saying this. I do not claim equality with the heroes and martyrs who took part in the Swaraj struggle. But I feel that I too have now been added to their company, and I rejoice. I have become one who must pay what is due for my homeland and my ideal.
+
+For what offences do I stand here?
+
+The prosecution has taken great pains, searching for evidence and producing witnesses, to prove that I instigated certain offences. Resolutions passed by the DMK executive committee, a portion of my speech at the Madras DMK conference, and statements and articles published in *Nam Nadu* were tendered as evidence. I deny none of them. Indeed, I am astonished to see that they possessed such power to awaken feeling.
+
+As a result, more than five thousand of my comrades are in prison. One heroic comrade lost an arm; another surrendered a leg as his share. Six lives were lost on 15 July.
+
+The fact that thousands of young men and women remain ready despite seeing the fire of repression is itself enough to show that the ideal for which we labour has received the people's blessing. Those wielding authority cannot disregard that support. Whatever judgment may be delivered here, it cannot be extinguished.
+
+Calling for a picket before the Chief Minister's residence is an offence! If Gandhi in his grave could hear the respect his disciples accord the satyagraha method, he would start in anguish.
+
+I deeply regret that instead of charging my comrades with conducting a picket, they have been accused of holding an unlicensed procession, assembling beyond legal bounds and similar offences. Indirect attack is not wisdom. Is this how those in power treat the opposition?
+
+The DMK will endure it. It has the strength and remains firm in its ideal.
+
+Your Honour, the DMK tried every democratic means available to convey the people's demands and wishes to the ruler. It received from the government neither the smallest smile nor the slightest nod. Like a stone statue, the government kept its mouth closed and mocked the people's voice. Every path was exhausted; every door was shut. As the people's voice grew stronger, the doors were closed more firmly.
+
+I still do not understand why this government scorned democratic methods, recoiled from seeing the people and behaved like a tyrant. Having tried so many means without success, was the DMK not compelled to seek others? Are we enamoured of Fazlullah Road for its own sake? Where could we go to state our grievances and the people's grievances to the Chief Minister except his residence? Is it a crime to express the people's opinion and longing peacefully, with discipline and dignity?
+
+The other two moral struggles likewise arose because democratic efforts had failed.
+
+When democracy was turned into a farce, was it a crime for the DMK to try through moral struggle and protest to make the government recognize the country's suffering? Could the government not answer in ordinary words? Must it speak with bullets?
+
+Your Honour, circumstances made peaceful people angry. In the hands of those wielding law and authority, law became an instrument of cruelty; a nearby parenthetical in the OCR is unreadable.
+
+Tyrants summoned law to conceal the true voice of the people's song of victory.
+
+This case speaks not merely of five people who broke the law, but of the present condition of this land. We see enthusiasm, aspiration and ardour in the people's hearts. They yearn to obtain justice and attain freedom. We rejoice to hear that we caused their enthusiasm.
+
+Your Honour, I am not explaining away the charge of instigation. I deny nothing stated by the prosecution. I ask only whether all these things are offences in such circumstances. Were we not forced to undertake these indispensable measures because those who ascended the seat of government ignored the people's wishes and demands and proceeded along a path of injustice?
+
+## Greetings and Homage
+
+We convey our greetings and homage to our brothers, the cherished children of our homeland, who forgot the speech of their little children and the love of their wives, took leave of their parents, entered a moral struggle for the homeland's liberation, became victims of the rulers' frenzy and now lie in prison.
+
+Long live the heroes! Down with repression!
+
+Published in *Dravida Nadu*, 16 August 1953.
+
+## Translator's Notes
+
+The printed title is normalized in the bilingual heading as “நீதிமன்றத்தில் அண்ணாவின் வாக்குமூலம்!” while the OCR source block remains verbatim.
+
+The source refers to three contemporary DMK moral struggles, a picket at the Chief Minister's residence on Fazlullah Road, arrests exceeding five thousand, serious injuries, and six deaths on 15 July. No event labels absent from the source have been inserted into the translation.
+
+The phrase after “சட்டம், அதிகாரம் ஏந்தியவர்களின் கையில்” contains the corrupt OCR reading `என்சின் (2072)`. Its meaning cannot be established confidently from the OCR alone, so the English marks that local gap openly rather than supplying invented wording.

@@ -1,0 +1,1 @@
+../../md_pages/sorpozhivugal/solvathellam_seithal.md

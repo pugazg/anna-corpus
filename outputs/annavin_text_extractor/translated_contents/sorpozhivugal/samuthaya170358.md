@@ -1,0 +1,500 @@
+# சமுதாய நலத் திட்டத்திற்கான விவாதம் / Debate on the Community Development Programme
+
+**Tamil title:** சமுதாய நலத் திட்டத்திற்கான விவாதம்  
+**English title:** Debate on the Community Development Programme  
+**Source file:** `sorpozhivugal/samuthaya170358.md`
+
+## Source Tamil (verbatim)
+
+- Source image folder: `/Users/pugazhendhirajendran/Documents/Codex/2026-07-09/https-www-annavinpadaippugal-info/outputs/annavin_text_extractor/ocr_images/sorpozhivugal/samuthaya170358`
+- OCR language: `tam`
+- Tesseract page segmentation mode: `3`
+- OCR cleanup: `enabled`
+
+## Image 1: 001-7d1406ab82.png
+
+- Image: `sorpozhivugal/samuthaya170358/001-7d1406ab82.png`
+
+சமுதாய நலக் திட்டத்திற்கான விவாதம்
+உரை: 74 நாள் : 77.02.1958
+
+(சமுதாய நலத் திட்டத்திற்கு ஒதுக்கவேண்டுமென்று கோரிய
+தொகையை வெட்ட வேண்டுமென்று விளக்கிப் பேசியது.)
+
+இரு. சி. என். அண்ணாதுரை: சட்டமன்றத் துணைத் தலைவர்
+அவர்களே, சமுதாயநலக் திட்டத்திற்கு இரண்டு கோடி ரூபாய்க்கு
+மேல் தொகை ஒதுக்க வேண்டுமென்று நிதி அமைச்சர் அவர்கள் இந்த
+சபையைக் கேட்டு இருப்பதில், ஒதுக்க வேண்டுமென்று அவர்கள்
+சொல்லுகின்ற தொகையின் அளவை கொஞ்சம் வெட்ட
+வேண்டுமென்று இந்தத் தரப்பிலுள்ள நாங்கள் சில காரணங்களைக்
+காட்டி. விளக்கிக் கொண்டு வருகிறோம். இந்த சமுதாய நலத்
+திட்டத்தை தத்துவ ரீதியிலே ஆராய்ந்து பார்ப்பது என்பது ஒன்று.
+நடைமுறையில் என்ன பலன்களைத் தந்திருக்கிறது என்று ஆராய்வது
+மற்றொன்று. நடைமுறையில் சமுதாய நலத் பப வட்டக் ஆராய்ந்து
+பார்க்சிற நேரத்தில் அது இந்த ராஜ்ய சராக்காருக்கும் மற்ற ராஜ்ய
+சர்க்கார்களுக்கும் ஓப்புவைமை பார்த்து, இந்த பம ஆக்கிகவ பள்டப
+திறமையைப் பாராட்டுவது, சரியான ஒயில் நடைபெறவில்லை,
+என்று இந்த ராஜ்ய சர்க்காருடைய திறமைக் குறைவைக் கண்டிப்பது
+என்ற வகையிலே ஆராய்வது. மற்றொன்று. 01 ன முதலில் இந்த
+சமுதாய நலத் திட்டம், தேசிய விஸ்தரிப்புத் திட்டம் ரா ப
+திட்டத்தை தத்துவ ரீதியாக ஓரளவுக்கு ஆராய வறு விருப்ப றன
+ஏனென்றால் இந்தத் இட்டம் ஐந்தாணறுத் இட்ட க்க
+சொல்லப்படுகின்ற திட்டத்திற்கு உயிரோட்டம் அறதத கனு த ப
+உலகத்திலே உள்ள பலறாடு ல் இல் ் ்
+கவனிக்கின்றன என்றும், இந்தியத் அமன்வதி என்க ளப அற்ப.
+
+09 கபட (ப ஈடு ர 4
+் ல் ல  புத்துணர்ச்சியும், ... புத்துயிரும் இநதத
+கி ங்களிலே ... புதிதிணா ம பதிலோ பல வ தது
+கலு ப ரஇறது என்றும் கொண்டாடப்படுற;
+
+## Image 2: 002-3c07c339b4.png
+
+- Image: `sorpozhivugal/samuthaya170358/002-3c07c339b4.png`
+
+வெளிநாடுகளிலே இருந்து வருகிற பெரும் தலைவர்களும், சமுதாய
+நலத்திட்டங்கள் நடைபெறுகிற இடங்களுக்கு அழைத்துச்
+செல்லப்பட்டு, அவர்கள் எல்லாம், திட்டங்கள உருவாகிக்
+கொண்டிருக்கின்ற நேரத்தில் கண்டு, தங்களுடைய பாராட்டுக்களைத்
+தெரிவித்துக் கொண்டு வருகிறார்கள். இப்படி. இந்தியத் துணைக்
+கண்டத்தின் மத்திய சர்க்காரினாலே வெகுவாகப் புகழப்படுவதும்
+வெளிநாட்டினருக்கு வெகுவாகக் காட்டப்படுவதும், வட்ட டுத்
+குலைவர்கள் பாராட்டிவிட்டுப் போவதுமான இந்தத் திட்டம்
+சரியான தத்துவத்தின் பெயரால் கட்டப்பட்டிருக்கிறதா ட்ட ட அமல்
+வேண்டிய பெரும் பொறுப்பு ஒவ்வொருவருக்கும் இருக்கிறது
+என்பதை வலியுறுத்திக்கூற விரும்புகிறேன்.
+
+இந்த மாநில சர்க்காருடைய வரவு செலவுத் திட்டத்தில் 63
+கோடி ரூபாயை இந்த ஆண்டில் செலவழிக்க இருக்கிறார்கள். அதிலே,
+2 கோடி ரூபாய் குறிப்பிடப்பட்ட இந்தத் துறையிலே
+செலவழிக்கப்பட இருக்கிறது. இந்த 2 கோடி ரூபாய் செலவழிக்கின்ற
+இந்தத் துறைகள் ஒன்றும் தனித் தனித் துறைகள் அல்ல, புதுமையான
+துறைகள் அல்ல. மிச்சம் இருக்கிற 61கோடி ரூபாயை எந்தெந்த
+துறைகளுக்குச் செலவழிக்க இருக்கிறார்களோ அதற்கு செலவழிக்கப்
+படும். உதாரணமாக விவசாயத்திற்கு என்று குறிப்பிட்ட கொகையை
+செலவழிப்பதில், அதிலே சமுதாய நலத் திட்டத்திலே கொஞ்சம்
+தொகையும், அது போலவே, கால்நடை பராமரிப்புக்கு. என்று
+பட்ஜெட்டில் ஓதுக்கி இருக்கிற தொகையோடு இதிலேயும் கொஞ்சம்
+தொகையும் ஒதுக்கியிருக்கறொர்கள். 67 கோடி ரூபாய் செலவழிப்பதன்
+மூலம் இந்த நாட்டை ஆளுகின்றவர்கள், நம்மை ஆளுகின்றவர்கள்,
+என்ன பலனை செய்து காட்ட விரும்புகிறார்களோ, மேலும் 2 கோடி
+ரூபாய் செலவழிப்பதினால், மிக்க அதிக நன்மை செய்து விடமுடியும்
+என்று அவர்களே வலியுறுத்த மாட்டார்கள் என்று கருதுகிறேன். ஒரு
+இடை ஆளுகின்ற சர்க்காரின் தராதரத்தைப்பற்றி வலியுறுத்துகன்ற
+நேரத்தில், இந்த நாட்டைப் பொறுத்தவரை, கரங்கரஸ் ஆட் சியைப்
+பொறுத்தவரை இந்த அளவுக்கு வரி போட்டோம், இந்த அளவுக்கு
+அதிகாரக்தை கொடுத்தோம் என்று சொல்லுஇன்ற நேரத்தில், இதற்கு
+அமைச்சா் அவை என்ன காரரியங்களை சாதித்தது, இது, என்ன
+
+## Image 3: 003-f52e24522e.png
+
+- Image: `sorpozhivugal/samuthaya170358/003-f52e24522e.png`
+
+சாதிக்கவில்லை என்று ஓப்புவமை பார்ப்பதற்கு வாய்ப்பு இல்லை.
+இனி வர இருக்கிற அமைச்சரவையைவிட இந்த அமைச்சர் அவை
+திறம்பட நடக்கின்றதா என்று பார்ப்பதற்கு எதிர்கால அரசியல்தான்
+பதிலளிக்க வேண்டும். இதற்கு முன்னாலிருந்த அமைச்சரவை
+இப்பொழுது நாம் வசூலிக்கின்ற வரிப் பணத்தில் 4-ல் ஒரு பாகமோ
+0-ல் ஓரு பாகமோ. மிகக் குறைந்த அளவிலே வரி வசூலித்துக்
+கொண்டிருந்தது என்பதை மறந்துவிடுவதற்கில்லை.
+
+கிராமப் புறங்களிலே, சமுதாய நலத் திட்டத்தின் மூலம்
+நாங்கள்தான் அபிவிருத்திகள் செய்து இருக்கிறோம், மற்றவர்கள்
+ஒன்றும் செய்யவில்லை என்ற சொல்லுவதற்கில்லை. உண்மையி
+லேயே ஒப்பிட்டுப் பார்ப்பது சரியான முறையாகாது என்பதை இந்த
+மாமன்றத்தில் வலியுறுத்திக் கூற விரும்புகிறேன். சமூதாய நலத்
+இிட்டங்கள் வகுத்திருக்கின்ற நேரத்தில் 4 பெரிய பலன்களை
+எதிர்பார்ப்பதாக அதனுடைய கர்த்தாக்கள் வலியுறுத்தி சொல்லி
+யிருக்கிறார்கள். இதிராமப் புறங்களில் புத்துணர்ச்சி, புத்துயிர்,
+ஆங்கிலத்தில் "188%:01ய14௦ 1 88மாவி 1/௧” என்று சொல்வார்கள் -
+இிராமங்களில் ஒரு புரட்சியை நான் காண விரும்புகிறேன், என்று
+அதனுடைய கர்த்தா சொல்லியிருக்கிறார். இன்றைய தினம் கிராமப்
+புறங்கள் அத்தகைய உருவத்தை அடைந்து இருக்கின்றனவா என்பதை
+சமுதாய நலத்திட்டத்திற்கு பொறுப்பாக உள்ளவர்கள் நெஞ்சில் கை
+வைத்து உண்மையில் பதில் அளிக்க வேண்டும். தக்ப்றக்கடில்
+இன்றைய இனம் இருக்கும் நிலைமை, சமுதாய நலத் இட்டங்கள்
+மூலமாக இரண்டொரு புதிய கட்டிடங்கள் உட்டுதுபி, பொறுக்கு
+விதைகளைத் தருவதும் இப்படிப்பட்ட கககோக்க்ளை 2௫ம் ட
+பெரிய புரட்சி மனப்பான்மை பரவி விட்டது என்ற எண்ணம்
+அல்லாது, தோற்றத்திலே பரவி விட்டது என்று கொல்வதில் பொருள்
+இல்லை. சமுதாய நலத்திட்டத்தின் மூலம் இல்லாவிட்டால்; வேறு
+வகையில் இவை நடை பெறும். கிராமங்களில் பணம் படைத்தவர்கள்
+பஜனை கோயில் கட்டியிருப்பார்கள், இன்னும் அதி தட்
+படைத்தவர்கள் திருக் கோயிலைக் கப்பிகிருங்கக்க் த்க்
+
+இந்த சமுதாய நலத் திட்டப் பகுஇகல ல் இ?
+
+## Image 4: 004-b6f3120345.png
+
+- Image: `sorpozhivugal/samuthaya170358/004-b6f3120345.png`
+
+தக்க பவட தலம் கட ட பட்ட தத தைது ட்டன
+கட்டியதால் மட்டும், அங்கு இருக்கின்ற அலங்கோல நிலைமை
+
+மாற்றப்படவில்லை.
+ஆகவேதான் இ கத் திட்டக் கர்த்தாக்கள் கிராமப்புறங்களில்
+புரட்சி மனப்பான்மை வரவேண்டும் என்று 2 ப 2ல்ட மட்டுமல்ல,
+இரா மர்புறங்களில் உற்பத்தி பெருகவேண்டும் என்று எடுத்துச்
+சொன்னார்கள். அந்த உற்பத்தி பெருகி இருக்கிறதா தவில் ன் வுக்கு,
+நாங்கள் அல்ல என்று சொல்லுகிறோம். அந்தத் திட்டம் சரியான
+முறையில் அமுலாக்கப்படுகிறதா என்று பார்ப்பதற்கு போடப்பட்ட
+பல்வந்த்ராய் மேதா கமிட்டியினர் பல்வேறு இடங்களுக்குச் சென்று
+சுற்றிப் பார்த்து பெருமைப்படக்கூடிய அளவுக்கு உற்பத்தி
+பெருகவில்லை என்பதையும், உற்பத்தி பெருகினதாக தவறான
+கணக்கை மக்களுக்குக் கொடுத்து விட்டதாகவும் ஒரு
+குற்றச்சாட்டையும் இந்த கமிட்டியினர் குந்திருக்கிறார்கள். அதிலும்
+குறிப்பாக இந்த ராஜ்யத்திலே அது சரியான முறையில்
+நடைபெறவில்லை என்று அந்தக் கமிட்டியின் அறிக்கையில் ஒரு
+பணக் காணப்படுகிறது. அந்தக் கமிட்டியில் இருந்தவர்கள்
+இன்கும்பாலும் எதிர்க்கட்சியைச் சார்ந்தவர்கள் என்றோ
+அலலது செய்கின்ற காரியங்களுக்கு குற்றங்களைக் காணக்
+ர ட... கிராமப்புறங்களுக்கே இது வரையிலும்
+வ அவக? அலட்சியப்படுத்தி விடமுடியாது. அவர்கள்
+ர் ட சோரந்தவர்கள், நல்ல மதிப்பு அளிக்கக் கூடியவர்கள்,
+ம் கட்சியில் ௮க்கறை கொண்டுள்ளவர்கள் ௫. உட அக
+சொல்லியிருக்கிறார்கள் ““இந ன் ப படத்து டன 0 அறுத்த
+ல் ப இந்த திட்டம் எதிர்பார்த்த பலனை
+குரவில்லை”” என்று சொல்லியிருக்கிறார்க
+் ் ௬ககறார்கள். அதிலிருந்து மற்றொ
+குத்துவ ரீதியான விளக்கத்தையும் கனம் அமைச்சு! க் றாடு
+ரமணி கெண்ட ம்ப சசார் அவர்களிட மிருந்து
+௦ - உற்பத்தி பெருக வேண்டிய அளவில்
+பெருகவில்லை என்று பல்வற்த் ் 19:17. அரை
+் / வநத ராய மே 1 டிட் கர்தகு
+அதன் மூலமாக செல்வம் வளர்ந்து விடு உற்பத்தி பெருகத்
+போன்றவர்களுக் 5 ் மா எனபதைப் பற்றி என்னைப்
+் த் ஞூக்கு ஐயப்பாடு உண்டு. ஆனா ன் 2 ல் ்
+உற்பத்தியிலிருந்து இடைக்கக் கூடிய 5 உற்பத்தி பெருக, அறத
+கிடைக்கும் வருவாய், வ வட்ட்ட படம், உற்பத்தியிலிருந்து
+செருவதற்கான வழிமுறை இல்லாத கவட ட அன
+ஈத. காரணத்தால் உற்பத்தி
+
+## Image 5: 005-ab5b92dbfe.png
+
+- Image: `sorpozhivugal/samuthaya170358/005-ab5b92dbfe.png`
+
+ட
+
+பெ ருகுவதன் மூலம் மட்டும் மறுபடியும் மறுபடியும், பொருளாதாரத்
+துறையில் பேதங்கள், வித்தியாசங்கள் இருக்கத்தான் செய்யும் என்ற
+கருத்தை இந்த நேரத்தில் வலியுறுத்த விரும்புகிறேன்.
+
+உற்பத்தி பெருகுவதற்குக் காரணம் என்ன என்பதை
+ஆராய்வதற்கு ஒவ்வொரு ராஜ்ய சர்க்கார்களும், விவசாய
+அமைச்சர்களும் காஷ்மீர் நாட்டைச் சேர்ந்த ஸ்ரீநகரில் கூடி
+நிறைவேற்றிய தீர்மானத்தை இந்த அமைச்சர் அவைக்கு நான்
+நினைவூட்ட விரும்புகிறேன். உண்மையிலேயே உற்பத்தி பெருக
+வேண்டுமென்றால் நிலத்தில் பாடுபடுகிறவர்கள்தான் நிலத்தின்
+சொந்தக்காரர் என்ற உரிமை உணர்ச்சி ஏற்பட்டாலொழிய உற்பத்தி
+பெருகும் என்பதையும் உணராமல் இதற்கு உரிய சட்டத்தை
+நிறைவேற்றுவதில் ராஜ்ய சர்க்கார் தயக்கம் காட்டுகிறது, தாமதம்
+கொண்டிருக்கிறது என்பதையும் சுட்டிக் காட்ட விரும்புகிறேன்.
+ஸ்ரீகரில் கூடிய விவசாய அமைச்சர்கள் மகாநாட்டில் உடனடியாக
+விரிவான நிலச்சீர்திருத்தச் சட்டத்தைக் கொண்டுவர வேண்டும்,
+அப்பொழுதுதான் உற்பத்தியைப் பெருக்க முடியும் என்று அவர்கள்
+தறிப்பிட்டிருக்கிறார்கள். உற்பத்தியைப் பெருக்கினால் மட்டும்
+நாட்டு மக்களிடம் பரவலாக செல்வத்தை அளித்துவிடாது, என்பது
+ஒன்று. உற்பத்தியைப் பெருக்குவதற்கு ஊக்கத்தை அளிக்க
+தேவையான வகையில் அதில் உழைக்கிறவர்களுக்கு நிலத்தை
+உடைமையாக்க வேண்டும் என்ற இந்த இரண்டு கருத்துக்களையும்
+பலனையும் சுமந்து கொண்டுதான் சமுதாய நல திட்டம் இன்றைய
+இனம் இருக்கிறது. இந்தத் திட்டத்தை நடைமுறையில் கவனிக்கும்
+போது உண்மையிலேயே இதைச் சுற்றிப் பா *ததுவிட்டு வந்தவர் ட
+ஆராய்ந்து பார்த்துவிட்டு வந்தவர்கள், எந்த இடம் ஏற்கெனவே வளம்
+பெற்று இருக்தறதோ அந்த இடங்களில்தான். வளர்? இருகிறது
+என்பதையும் சுட்டிக்காட்டி யிருக்கிறார்கள். இதை உறுகிப்படுததும்
+தன்மையில் இருமதி குழந்தை அம்மாள் அவர்கள் பேசும்போது
+“எவ்வளவு பணம் வேண்டுமா பம் ன்னான் அதிகப் கொடுத்துவிட
+முடியும், அதை வாங்கிக்கொண்டு என் திட்டங்களை வளர்ச்சி.
+செய்யாமல் இருக்கிறீர்களே”: என்று கேட்டார், அவாகள், கம ப
+நாட்டைச் சேர்ந்தவர்கள்... ட்டன தண்னயலால்க் ப. க...
+
+இ. க் ரூ௮
+
+## Image 6: 006-d16f8a893f.png
+
+- Image: `sorpozhivugal/samuthaya170358/006-d16f8a893f.png`
+
+ப படபட ப பய யமி ம்மெலயயம யல் ல கை தவத தத ற்
+ப் ் ர்களிடத்தில்
+நடமாட்டம் இருக்கிறது என்பதால் 4 சரளா.
+இத்தகைய மாவட்டங்களுக்குத்தா ச இத்த பல்வகவவள்! வ்
+செருறெதே தவிர நாங்கள் இருக்கும் செங்கற்பட்டு மாடட்டத்தை
+பொறுத்த வரையில் அதிலும் குறிப்பாக காதே து ப்ற்றி
+எங்களுடைய கட்ச. மாச்சர்யத்தோடு ர கத்த
+தட்டப் காய்ந்திருக்கி காஞ்சியிலும் அநேக சமூதாய நல
+திட்டங்களை நிறைவேற்ற வேண்டுமென்ற கருத்தாலும், அதற்கு
+பொது மக்களிடமிருந்து அதிகப்படியான பணத்தைப் பெருவுதற்கு
+இல்லை. அதிகப்படியான பணத்தை பொது மக்களிடமிருந்து
+பெருவுதற்கு இல்லாத நேரத்திலே உழைப்பு மூலமாக அவாகள் தானம்
+அளிக்கலாம் என்ற வாதத்தை எழுடபப்படுகிறது. உழைப்பு மூலமாக
+தானம். அளிக்க வேண்டும் என்றால் அந்த உழைப்பை வைத்துக்
+கொண்டுதான் அவர்கள். தங்களுடைய குடும்பத்தை நடத்திச்
+செல்லுகிறார்கள். அதனால் மிச்சம் இருக்கும் காலத்தில் இதற்கு அந்த
+உழைப்பைத் தரவேண்டும் என்பது இயலாத காரியம். ஆகையினால்
+சமுதாய நலத் இட்டத்தை நிறைவேற்றுகிற நேரத்தில் அந்த இடத்தில்
+பணத்தை கேட்கிறபடியோ அல்லது உழைப்பை கேட்கிறபடியோ
+என்பதை குறிக்கோளாக பார்க்காமல் ௮ந்த இடங்களில் அவசர
+அவசரமாக திட்டங்கள் நிறைவேற்றப்பட வேண்டும் என்கிற
+குறிக்கோளை மனதில் வைத்துக் கொண்டு அவைகளை நிறைவேற்ற
+வேண்டும். இதில் அரசியல் கண்ணோட்டம் அடியோடு இல்லை
+என்று நான் சொல்லிக்கொள்ளும்போது உண்மையிலேயே
+நாம் இந்தப் பிரச்சினையிலிருந்து நழுவிக் கொள்ளுகிறோம்.
+ஆளுகிற கட்சி எப்பொழுதும் தாங்கள் செய்கிற காரியம் அரசியல்
+கண்ணோட்டத்துடன் செய்யப்படவில்லை என்றுதான் வாதிடு
+வார்கள். எதிர்க்கட்டியினர்கள்
+
+7 தாங்கள் கண்டவைகளை எடுத்துச்
+சொல்லி அரசியல் கண்ணோட
+
+பறுகின் எல்லா சர்க்கார்
+அவரிடம் தே ட் சம்பந்தமான எல்லா
+பவ ை ் டம் தோற்றுப்போன காங்கிர எபர்தான்
+மலம் ் ரஸ் நண்பாதா
+
+அந்த இடத்திலேயே இடம் பெறுகிறார். வெற்றிபெற்ற என்னுடைய
+
+## Image 7: 007-47d6f4253a.png
+
+- Image: `sorpozhivugal/samuthaya170358/007-47d6f4253a.png`
+
+ட கொடுக்கின்ற கடனுடைய அளவு 3-3 என்று
+
+கழகத் தோழருக்கு அந்த இடத்திலேயே இடம் அளிக்கப்படவில்லை.
+அப்படி இடம் அளிக்கப்படாதது மட்டுமல்ல, நிறைவேற்றப்படும்
+திட்டங்களின் திறப்பு விழாக்கள் நடைபெறும்பொழுது, “நாங்கள்
+இவைகளையெல்லாம் செய்திருக்கிறோம். இன்றைய தினம் நீங்கள்
+தோர்ந்தெடுத்தவர் என்ன சாதித்துவிட்டார்”” என்று கேட்பதன் மூலம்
+அடுத்த தேர்தலுக்கு அச்சாரம் வைத்து விடுவதாக நம்முடைய
+காங்கிரஸ் கட்ச பிரசாரகர்கள் கருதிக் கொண்டி ருக்கிறார்கள், இதை
+நான். சொல்வதற்குக் - காரணம்; இதில் அரசியல் கட்சி
+கண்ணோட்டத்தை புகுத்தவில்லை என்று எடுத்துச் சொல்லுவது,
+பிரச்சிரனையை நழுவ விடுவதாகும். பிரச்சினையை நழுவவிடுவது
+மாத்திரமல்ல, பெரிய தொகை செலவழிக்கிறோம், சமுதாய நல
+திட்டத்திற்காக பெரிய தொகை ஒதுக்கப்பட்டிருக்கிறது, ஏறக்குறைய
+இந்திய துணைக் கண்டத்தில் ரூ. 100 கோடி செலவழிக்கப்படுகிறது
+என்று சொல்லுகிறார்கள். 1700 கோடி ரூபாய் செலவழிக்கும்
+இட்டத்தில் அரசியல் கட்சி மாச்சரியம் உள்ளே புகுந்தால் அதன் மூலம்
+பெறக்கூடிய பலனை நாம் நிச்சயம் பெற முடியாது. நமது நிதி
+அமைச்சர் அவர்கள் முதலிலே கொடுத்த விளக்க உரையில்
+இவைகளெல்லாம் எப்படி ஒன்றுக்கொன்று தொடர்பு
+கொண்டிருக்கின்றன என்பதை எடுத்துச் சொன்னார்கள். விவசாயம்
+வளரவேண்டுமானால் பொறுக்கு விதைகள் வேண்டும், (டொறுக்கு
+விதைகள் கிடைத்தால் மட்டும் போதாது, நல்ல உரம் தேவை; நல்ல
+உரம் மட்டும் இடைத்தால் போதாது, செயற்கை உரம் மட்டும்
+கிடைத்தால் போதாது, இயற்கை உரம் தேவை; இவைகளெல்லாம்
+மட்டும் இடைத்தால் போதாது, இவைகளை ஒன்றுபடுத்த கூட்டுறவு
+தேவை: கூட்டுறவு இருந்தால் மட்டும் போதாது, கிராமத்திலுள்ள
+வர்களுக்கு கடன் தஇிடைப்பதற்கு வசதி. செய்து கொடுக்க வேண்டும்
+என்றெல்லாம் எடுத்துக் கூறினார்கள். கடன் வசதியை பொறுத்த
+வரையில் ஒரு கூட்டுறவு நிபுணர் கொடுத்திருக்கிற கணக்குப்படி
+இிராமத்தில் 100-க்கு 69.7 120186401ல 1௦ -100027% பங்கு பல
+வட்டிக்குக் கொடுக்கின்ற வட்டிக்கடைக்காரர்களை நமது. கிராம
+மக்கள் நம்பியிருக்கிறார்கள் என்று கூறியிருக்கிறார். 709-க்கர2 பங்கு
+சராமத்தார்களுக்கு வட்டிக்குக் . கடன் கொடுக்க 1100
+120816. என்று இருக்கிற. நேரத்திலே, தம்முடைய, ர்ணார் நதி
+
+## Image 8: 008-783034e957.png
+
+- Image: `sorpozhivugal/samuthaya170358/008-783034e957.png`
+
+டன். கொடுப்பது மட்டுமல்லாமல்
+6 ் று நமது அமைச்சர் அவர்க
+சரகலச்கனைமி காண்ட் றைகளைப்பற்றி அவற்கு
+எடுத்துச் சொன்னார்கள். மற்ற றி ௮71 £லும், கூட்டுறவை
+என்ன பாத்தியதைக் கொண்டாள் கொண்ட வத்தக் வ அவைப்
+பொறுத்த. வரையில் காங்கிரஸ் ஆட்சி ஏற்படுவதற்கு நீண்ட
+
+் இத்த . த த ராஜ்யத்தில் கூட்டுற
+நாளைக்கு முன்பே இந்த மாநிலத்தில் இந் ராக் ட. ப்ப
+துறை மிகமிக போற்றத்தக்க முறை ஜில் அ டம்த்தளு் (க ரந்த
+கூட்டுறவு. மூலமாக இப்பொழுது இவர்களால் தரப்படு றை கடன்
+700-க்கு 8 பங்கு என்ற அளவிலே இருக்கிறது. 5-9: ௮௫௫ கத
+கொடுக்கின்றவர்கள் 100-க்கு 69 பங்கு . இந்த நிலையில் இவர்கள்
+எங்கே முன்னேற்றத்தை காட்டுகிறார்கள் என்று நா ன அறிய
+விரும்புகிறேன். இன்றைக்குப் பொறுக்கு விதைகளைத் தருவது
+ஆட்சியாளர். கண்ட . புதுமை அல்ல. பொறுக்கு விதைகள்
+முன்னாலேயே நம் தாலுகா அலுவலகங்களில் விநியோகிக்கப்பட்டு
+வந்தன. அதேமாதிரி பொலி காளைகள் வளர்ப்பதும் ஆட்சியாளரின்
+புரட்கெரமான புதுமையான திட்டமல்ல. இதற்கு முன்னாலேயே
+இந்தத் திட்டங்கள் இருந்துகொண்டு வருகின்றன. இந்தத்
+திட்டங்களுக்கு நாங்கள் செலவழிக்கும் பணம் அதிகம் என்று
+சொல்லலாம். அதை எப்படி ஏற்றுக்கொள்வது? நீங்கள் வரூலிக்கின்
+வரிஅதிகம் என்பதைச் சுட்டிக்காட்டுகிறேன். இந்த மாநில சர்க்காரின்
+நிர்வாகச் செலவுக்காக முன்பு 6 கோடி ரூபாய் கிடைத்தது.
+இப்பொழுது 63 கோடி ரூபாய் கிடைக்கிறது. அந்த நிலையில்
+கொஞ்சம் அதிகம் செலவழித்து விட்டால் கீர்த்தியோ, கிதாப்போ
+அடைந்துவிடலாம் என்று நினைத்தால், அவர்கள் அடையவேண்டிய
+தல்ல புகழை அடையவில்லை என்றுதான் கருதவேண்டும். எதிர்
+திறம்வில் இருப்பவர்கள் இது அரசியல் கண்ணோட்டத்தோடு
+பாரக்கப்படுகிறது என்று சொன்னால், அமைச்சர் அவர்கள் இந்த
+.”” வண்லைலப் உடைப்பதற்கு எதை வேண்டுமானாலும்
+டட அட் ப ஜல அதிலே நான் ப்குமை
+ஸ்ரீபெரும்புதூர், பூந்தமல்லி ப ரத்து த்வத் வரவப்ட்க
+
+அடைந்து அம்மையார் அவர்கள் பத்து ன் அதுத ணத
+் கூறியபடி மக்கள் இட்டங்களுக்காக
+
+கூட்டுறவு முறையில் ௧
+
+## Image 9: 009-43056decaa.png
+
+- Image: `sorpozhivugal/samuthaya170358/009-43056decaa.png`
+
+்
+4
+
+குது அம்
+
+வாங்கிக் கொள்வதற்கு முடியாத அளவில் அஜீரணம் ஏற்பட்டிருக்
+கிறது என்பதை தெரிவித்துக்கொள்ளுகிறேன். மதுராந்தகமும்
+அதுபோலவே நல்ல வளம் பெற்றிருக்கிறது. என்னுடைய
+தொகுதியாகிய காஞ்சிபுரமும் உங்களுடன் ( காங்கிரஸ்காரர்களுடன்)
+இருந்துவிட்டு இப்போது எங்கள் பக்கத்தில் உட்கார்ந்திருக்கும் இரு.
+வி.கே. ராமசாமி முதலியாரின் தொகுதியாகிய உத்திரமேரூரும்
+சாக்காரால் மாற்றாந்தாயின் பிள்ளைகளைப்போல் நடத்தப்
+படுகின்றன. மாற்றாந்தாயின் பிள்ளைகளைப்போல் நடத்தப்படும்
+தொகுதிகளைச் சேர்ந்தவர்கள், தங்கள் தொகுதிகள் அரசியல்
+கண்ணோட்டத்துடன் ஆட்சியாளர்களால் அவ்வாறு நடத்தப்
+படுவதாகச் சொல்லும்போது, அவ்வாறு நடத்தப்படுவதில்லை என்று
+வாதிக்கப்படுவதைத்தான் நான் காண முடி௫றது.
+
+இந்தியத் துணைக் கண்டத்தில் எல்லா மாநிலங்களிலும்
+பெருந்தொகை செலவில் சமுதாய நல அபிவிருத்தித் திட்டங்கள்
+ஆரம்பிக்கப்பட்டு நடத்தப்படும் விஷயத்தில், அவை வெற்றிகரமாக
+நிறைவேற்றப்படுவதற்கு எல்லா அரசியல் கட்சிகளும் அக்கறை
+காட்டுவதற்கும், அவை தங்கள் கருத்துக்களைக் தெரிவிப்பதற்கும்
+வாய்ப்பளிக்கும் வகையில் திட்டங்களின் துவக்க கட்டத்தில் அரசியல்
+கட்சிகளின் ஒத்துழைப்பை ஆட்சியாளர்கள் கோரவேண்டும். துவக்க
+கட்டத்தில் அரசியல் கட்சிகளின் ஓத்துழைப்பைக் கோராததினால்,
+இப்போது பல ஊழல்கள் தோன்றிவிட்டன என்பதை நான் எடுத்துச்
+சொல்வதைவிட, இந்த ஆட்சியாளர்களுடன் இருந்தவரும், சபையில்
+அங்கத்தினராக இருப்பவரும், காங்கிரஸ்காரராக இருப்பவருமான
+திரு. சண்முக ராஜேஸ்வர சேதுபதி எடுத்துச் தொல்லியிருக் தர்
+என்று குறிப்பிட விரும்புகிறேன். அவர் அண்மையில் சென்னையில்
+ஒரு கூட்டத்தில். பேசும்போது, கான்ட்ராக்டர்கள் கொழுப்பதற்கும்
+ஊழல்கள் அதிகமாவதற்குந்தான் சமூதாய அபிவிருத்தித் திட்டங்கள்
+இப்போது வாய்ப்பளிக்கின்றன என்று குறிப்பிட்டாஈ. அவர் கூறிய ட
+ஆமோதிக்கும் தன்மையில்தான் தேற்று முன் இனம் பாரதத்தி
+பிரதமராகிய பண்டித ஜவஹர்லால் நேரு, தம் இட்டம்கால் த
+
+னில் ர்க ற்றங் காண வேண்டு
+அம் முன்னேற்றத்தின் பலனை... கிராம மக்கள் அடைய
+
+்
+
+## Image 10: 010-13f8896f83.png
+
+- Image: `sorpozhivugal/samuthaya170358/010-13f8896f83.png`
+
+வலக ப ஆவில்வு1 அஅத்ப பகலை னவ கைகைளைகைாள வாகிய ட டப்ப
+ஏறாமல் இருக்க வேண்டுமென்றும், நாம் 255 ட
+“டங்களால் இந்தப் பலன்கள் ஏற த ௮ அத்
+ன டட பவனா நிலையில் (லைப்லெஸ்) தான இருக்குமென்று
+குறிப்பிட்டிருக்கிறார். கன்ம
+“எங்களைப் பொறுத்தவரையில், சமுதாய நத திட்டங்கள்,
+பழைய காலத்தில் பெருமை வாயந்திருந்த பஜனை றாக்ள எத்து
+கோயில்களைப் போலவும், இடைக்காலத்தில் பம் ஒழன் வ்டா மப.
+கட்டிய கோயில்களைப் போலவும், தங்கள் பப்ப பழத்க சா படக வது
+கட்டிக் கொள்வதற்கு காங்கிரஸ்காரர்களுக்கு கட்டர் அளித்திருக்
+இன்றன என்றும், அந்த வாய்ப்பைப் பயன்படுத்திக் கொண்டு அவர்கள்
+தங்கள் விளம்பரச் சாவடிகளைக் கட்டிக் கொண்டிருக்கிறார்கள்
+என்றுந்தான் கருதுகிறோம். சமுதாய அபிவிருத்தித் திட்டங்களினால்,
+சரொமங்கள் புத்துயிர் பெற்றுவிடவில்லை என்றும், நாட்டில் விவசாய
+அபிவிருத்தி ஏற்பட்டு விடவில்லை என்றும், கிராம மக்களின்
+பொருளாதார நிலை உயர்ந்துவிடவில்லை என்றும் நாங்கள்
+வருத்தத்துடன்: கூறிக்கொள்ள விரும்புகிறோம். இத்திட்டங்களை
+வெற்றிகரமாக நிறைவேற்றுவதற்கு நாங்கள் எவ்வாறு உதவ முடியும்
+என்று அமைச்சரவை கேட்குமானால், நான் மீண்டும் சொல்வேன்.
+திட்டங்களிலும், திட்டங்களை நடத்துவதிலும் இருக்கக்கூடிய
+குறைகளை நீக்குவதற்கான எங்கள் யோசனைகளை ஆளும் கட்சி
+திட்டங்களின் துவக்க கட்டத்திலேயே பெறவேண்டும்.
+
+எதிர் தரப்பினரின் எல்லா வாதங்களையும் முறியடிப்பதில்
+மட்டும் உங்கள் சாமர்த்தியத்தைக் காட்டக்கூடாது என்றும், அவ்வாறு
+செய்வது அரசியல் அறிவுடைமை ஆகாது என்றும், திட்டங்களை
+வெற்றிகரமாக நிறைவேற்றுவதற்கான வழிமுறைகளைக் கடை பிடிக்க
+வேண்டுமென்றும் கனம் அமைச்சர்களிடம் சொல்லிக் கொள்கிறேன்.
+இத்திட்டங்களுக்காக ஒதுக்கப்ப
+
+## English Translation
+
+Speech 14, delivered on 17 March 1958.
+
+(Speech explaining why the amount requested for allocation to the Community Development Programme should be reduced.)
+
+**Mr C. N. Annadurai:** Honourable Deputy Speaker, the Finance Minister has asked this House to allocate more than two crore rupees to the Community Development Programme. We on this side have been giving reasons why the requested amount should be reduced somewhat.
+
+One question is to examine the programme philosophically; another is to examine the practical results it has produced. In assessing its implementation, we may compare this State Government with other State Governments, praise its ability to administer the programme, or condemn its lack of ability if the work has not been properly carried out.
+
+First I wish to examine, to some extent, the philosophy underlying the Community Development Programme and the National Extension Service. This programme is celebrated as the life force of the Five-Year Plan. We are told that many countries watch it with great interest and that it brings new feeling and vitality to the villages of the Indian subcontinent. Distinguished foreign visitors are taken to Community Development areas and offer praise while seeing projects being formed.
+
+Because the Central Government praises it so highly, presents it prominently to foreigners, and sends visiting leaders away impressed, every one of us bears a serious duty to determine whether the programme rests upon a sound philosophy.
+
+This State Government’s budget proposes expenditure of sixty-three crore rupees this year, of which two crores are assigned to this field. Yet the activities financed by these two crores are neither separate nor novel departments. They overlap the fields to which the remaining sixty-one crores are allocated. Alongside the amount budgeted for agriculture, for example, another amount is included under Community Development; similarly, animal husbandry receives both its departmental allocation and an allocation here.
+
+Those who govern us would not seriously claim that, while sixty-one crores produce one level of benefit, spending another two crores through this programme will suddenly create immensely greater good. When judging a government, one cannot merely say that it levied so much tax and wielded so much authority; one must ask what the ministry achieved and failed to achieve. We have no direct standard of comparison. Future politics alone will tell whether this ministry performs more efficiently than one yet to come. Nor should we forget that earlier ministries collected only one-fourth or perhaps an even smaller fraction of the taxes now collected.
+
+The government cannot say that only it has developed the countryside through Community Development while others did nothing. I stress that such a comparison would not be proper.
+
+The programme’s authors said they expected four great results. They spoke of new vitality and new life in the villages and declared in English that they wished to see a revolution there. Those responsible must place a hand upon their hearts and answer honestly whether the countryside has acquired such a form today.
+
+The present condition of villages does not justify claiming that a revolutionary outlook has spread merely because one or two buildings have arisen and selected seeds have been distributed. Such things would have occurred in other ways even without Community Development. Wealthy villagers might have built a bhajan hall, and still wealthier people might have renovated a temple. Building another structure under this programme has not by itself transformed the disorder surrounding it.
+
+Its architects therefore said not only that a revolutionary spirit must arise but also that rural production must increase. Has production increased? We say it has not increased to the promised extent. The Balwantrai Mehta Committee toured many areas to examine implementation. It reported that production had not risen to a level worthy of pride and alleged that the public had been given incorrect figures suggesting an increase. Its report contains a specific adverse observation about implementation in this State.
+
+The committee members cannot be dismissed as opposition figures eager to find fault. They were respected people concerned with the ruling party and had travelled through the villages. They said that the programme had not yielded the expected result.
+
+Even if production increased, I doubt that this alone would cause wealth to grow for people generally. Unless there is a means by which the income arising from production reaches those who labour, economic inequalities will continue to recur despite higher output.
+
+To understand what increases production, I remind the ministry of the resolution passed when State Governments and Agriculture Ministers met at Srinagar in Kashmir. If production is genuinely to rise, those who labour upon the land must feel that they own it. Yet the State Government hesitates and delays enacting the necessary law. The Agriculture Ministers’ conference at Srinagar said comprehensive land-reform legislation must be introduced immediately, for only then could output increase.
+
+Two propositions must therefore be carried together: increasing production alone does not distribute wealth widely, and those who cultivate the land must own it if they are to receive the incentive necessary to increase production. The Community Development Programme now bears the consequences of ignoring both.
+
+Those who toured and studied the programme observed that development occurred chiefly in places already prosperous. Mrs Kulanthai Ammal reinforced this point when she asked, “However much money is needed, we can provide even more. Why do you not take it and develop my schemes?” Her area has people with the resources and mobility to contribute. Funds and schemes consequently flow to such districts.
+
+The position of Chingleput district, and especially Kanchipuram, is different. Because of our party rivalry and local poverty, the public cannot supply additional cash for the many Community Development works needed there. It is argued that people who cannot contribute money may donate labour. But they sustain their families through that very labour; asking them to give whatever working time remains is impracticable.
+
+Implementation should therefore not depend upon demanding cash or labour from each locality. The objective must be to carry out urgently needed projects wherever they are required.
+
+To claim that political considerations are entirely absent is to evade the issue. A ruling party will always argue that its work is free from party motives, while the opposition states what it has observed. In local bodies and committees connected with the programme, a Congress friend defeated in the election receives a place, while the successful member from my Kazhagam does not.
+
+At opening ceremonies for completed schemes, Congress propagandists ask, “We did all this; what has the person you elected achieved today?” They imagine they are thereby laying the foundation for the next election. It is therefore an evasion to say no party perspective has entered the programme.
+
+They tell us that a large sum has been allocated and that nearly one hundred crore rupees is being spent on Community Development across the Indian subcontinent. If party rivalry enters a programme spending such enormous sums, we certainly cannot obtain its intended benefit.
+
+In his introductory explanation, the Finance Minister described how all the elements are connected. Agriculture requires selected seeds; seeds alone are insufficient without good manure; chemical fertiliser alone is insufficient without natural manure; and all these still require cooperation to unite them. Even cooperation is insufficient unless villagers can obtain credit.
+
+According to figures supplied by a cooperative expert, about 69.7 per cent of rural credit still comes from moneylenders charging heavy interest, while cooperative institutions provide only about eight per cent. Where, in that situation, is the progress the government claims?
+
+Nor is distributing selected seeds a novelty discovered by the present rulers. Such seeds were distributed earlier through taluk offices. Maintaining breeding bulls is likewise neither revolutionary nor new; these schemes already existed. The government may say that it now spends more, but I point out that it also collects far more tax. Administrative revenue once stood at six crore rupees and now stands at sixty-three crores. Spending a little more under those circumstances does not by itself confer glory or distinction.
+
+If opposition members say the programme is viewed politically, the minister should break down that criticism with evidence. Yet some localities have received so many schemes that, as one lady member observed about Sriperumbudur and Poonamallee, the people have developed indigestion and cannot cooperatively absorb any more. Madurantakam has likewise received ample benefit.
+
+By contrast, my Kanchipuram constituency and Uthiramerur, represented by Mr V. K. Ramasami Mudaliar, who formerly sat with you Congressmen and now sits on our side, are treated by the government like stepchildren. When representatives of neglected constituencies say political considerations explain such treatment, all I hear in reply is a denial.
+
+All political parties should be enabled to take an interest and offer their views if Community Development schemes, begun at great expense in every State of the Indian subcontinent, are to succeed. The government should seek their cooperation at the planning stage.
+
+It is not only I who say that failure to seek cooperation from the outset has produced corruption. Mr Shanmugha Rajeswara Sethupathi, a Congress member of this House who was associated with the rulers, recently said at a meeting in Madras that Community Development now chiefly creates opportunities for contractors to grow fat and corruption to multiply.
+
+Prime Minister Jawaharlal Nehru has also acknowledged the need to find defects in these programmes and ensure that their benefits reach village people rather than being lost through leakages.
+
+In our view, Community Development has given Congressmen an opportunity to erect monuments to their own publicity, like the once-prestigious bhajan halls and the temples erected in a later age. They use the programme to build advertising booths for themselves.
+
+We say with regret that these schemes have not revived the villages, produced agricultural development throughout the country, or raised the economic condition of rural people. If the ministry asks how we can help make them successful, I repeat: the ruling party must seek our proposals at the initial planning stage so that defects in both the schemes and their administration can be removed.
+
+Do not display your skill merely by demolishing every argument advanced by the opposition. That is not political wisdom. I ask the honourable ministers to adopt the measures needed to carry the programmes to success.
+
+The surviving OCR and image set end abruptly as the speaker begins another sentence concerning the sums allocated to these programmes.
+
+## Translator's Notes
+
+The original scan verifies the heading as “உரை: 14 நாள்: 17.03.1958.” OCR misread both numerals; the corrected date and speech number are used in the translation while the Tamil extraction remains unchanged.
+
+The file ends mid-sentence after “இத்திட்டங்களுக்காக ஒதுக்கப்ப…”. No conclusion beyond the available scan has been invented.
+
+Several statistical lines on rural credit are heavily damaged. The clearly recoverable comparison is approximately 69.7 per cent from private moneylenders versus about 8 per cent through cooperatives; uncertain intervening figures are not supplied.
+
+“Community Development Programme” and “National Extension Service” are the historical programme names intended by சமுதாய நலத் திட்டம் and தேசிய விஸ்தரிப்புத் திட்டம்.
+
+The period term “Harijan” does not appear in this speech’s translated body; historical caste and party language is otherwise retained in context without endorsement.

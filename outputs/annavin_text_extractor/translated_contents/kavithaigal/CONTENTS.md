@@ -1,0 +1,81 @@
+# கவிதைகள் / Poems
+
+Total source works: 77
+
+- [ஆரிய மாயை போற்றி!](aariyamayai_potri.md) - translated
+- [தம்பி! அடித்தாலும் அணைத்தாலும்](adithalum_anaithalum.md) - translated
+- [பொருள்](annavin_kavithaigal.md) - translated
+- [அவனா இவனா அறிவாளி?](avana_ivana_arivali.md) - translated
+- [காங்கிரஸ் ஊழல்](congress_oozhal.md) - translated
+- [தேவதை போற்றி](devathai_poatri.md) - translated
+- [எனது கருத்தோட்டம்](enathu_karuthoattam.md) - translated
+- [எதிர்கால நிலைமை](ethirkaala_nilamai.md) - translated
+- [காந்தி பனிரெண்டு](gandhi_panirendu.md) - translated
+- [இதழ் வாழ்த்து](idhazh_vaazhthu.md) - translated
+- [ஒரே நிலவு!](ilamayil_mudhumai.md) - translated
+- [இன்பம் காண!](inbam_kaana.md) - translated
+- [இனியன இனி பல](iniyana_ini_pala.md) - translated
+- [இவர்களைப் பாருங்கள்](ivargalai_paarungal.md) - translated
+- [ஜுவஸ் போற்றி!](juvas_poatri.md) - translated
+- [ஜுவசின் 'திருக்கல்யாண' குணம்](juvasin_kalyana_gunam.md) - translated
+- [காடுடையார்](kaadudayar.md) - translated
+- [காத்திருந்தேன்](kaathirunthaen.md) - translated
+- [கடைசிச் சின்னம்](kadaisi_sinnam.md) - translated
+- [கடவுள் எங்கே?](kadavul_engae.md) - translated
+- [கல்கத்தா கலக்கம்](kalkatha_kalakkam.md) - translated
+- [கற்பனையூர்; ஆனால் கருத்தூர் காட்சி](karpanayur.md) - translated
+- [கதரின் மகிமை](katharin_mahimai.md) - translated
+- [கோபம்](koabam.md) - translated
+- [கோச்சுவண்டிக் கும்மி](kochuvandhi_kummi.md) - translated
+- [கொலைகாரன் கோட்சே](kolaikaaran_kotsae.md) - translated
+- [குன்றம் பல சென்றிருந்தேன்](kundram_pala.md) - translated
+- [குறை கேளாய்](kurai_kaelai.md) - translated
+- [மலர் மணம்](malar_manam.md) - translated
+- [மனித மேம்பாடு](manitha_maembadu.md) - translated
+- [மனிதன்](manithan.md) - translated
+- [மூதறிஞர் மூவர்](mootharignar.md) - translated
+- [நச்சரவு வளர்க்கின்றார்!](nacharavu.md) - translated
+- [நடைச் சித்திரம்](nadai_chithiram.md) - translated
+- [நானே தலைவன்](nanae_thalaivan.md) - translated
+- [நசுக்கி விட்டால்](nasukkivittal.md) - translated
+- [நீ என்னடி கண்டாய்!](nee_ennadi.md) - translated
+- [நீங்கள் படைத்த ஏழை!](neengal_padaitha_aezhai.md) - translated
+- [நிறவெறியர் விரும்புவது](niraveriyar.md) - translated
+- [ஓடின் போற்றி!](odin_poatri.md) - translated
+- [ஒரே நிலவு!](orae_nilavu.md) - translated
+- [பேசுகிறார் ஏசுபிரான்](paesugirar_aesubiran.md) - translated
+- [பறந்தது ஓர் புறா!](paranthathu_oru_pura.md) - translated
+- [பிடிபட்டான்](pidipattan.md) - translated
+- [போர் முரசு கொட்டுவீர்](poarmurasu.md) - translated
+- [பொங்கல் வாழ்த்து](pongal_valthu1961.md) - translated
+- [பொங்கல் வாழ்த்து](pongal_valthu1963.md) - translated
+- [பொங்கல் வாழ்த்து](pongal_valthu_dnadu1963.md) - translated
+- [பொற்காலம் காண!](porkalam_kaana.md) - translated
+- [புத்தியில்லா உலகமிது!](pubthiyilla_ulagam.md) - translated
+- [புண்ணிய நாடு](punniya_naadu.md) - translated
+- [புதுப்போர் ஆரம்பம்](puthupoar.md) - translated
+- [சீறிடும் சிட்டு](seeridum_seettu.md) - translated
+- [சின்னான் சிந்து](sinnaan_sindhu.md) - translated
+- [சூரிய குட்டியைத் தேடிய மாப்பிள்ளை](sooriya_kutty.md) - translated
+- [தமிழ் இசை](tamil_isai.md) - translated
+- [தேம்புகின்றேன்](thaembuhiraen.md) - translated
+- [தேயிலைத் தோட்டத்திலே!](thaeyilai_thottathilae.md) - translated
+- [தம்பி கேள்!](thambi_kael.md) - translated
+- [தார் தேவன் போற்றி!](tharthevan_poatri.md) - translated
+- [தீக்குரல்](theekural.md) - translated
+- [தீமைகளை ஒழித்துக் கட்ட](theemaigal_ozhithukatta.md) - translated
+- [தீமைகள் பொடிபட](theemaigal_podipada.md) - translated
+- [திருமபிப்பார்](thirumbippar.md) - translated
+- [திருவிடத்தை அமைப்போம்!](thiruvidathai.md) - translated
+- [உடையார் ஓலம்!](udayar_oalam.md) - translated
+- [உணர்வீர்](unarveer.md) - translated
+- [வேலப்பனும் வீரப்பனும்](vaelappanum_veerappanum.md) - translated
+- [வேண்டும் விடுதலை](vaendum_viduthalai.md) - translated
+- [வேட்பாளர் வருகின்றார்...](vaetpalar_varugirar.md) - translated
+- [வண்டிக்காரன் மகன்](vandikaran_magan.md) - translated
+- [வண்டு கண்டேன்](vandu_kandaen.md) - translated
+- [வழிபாடு](vazhibadu.md) - translated
+- [வீட்டு விளக்கு](veettu_vilakku.md) - translated
+- [வெள்ளி முளைக்குது](velli_mulaikkuthu.md) - translated
+- [விடுதலை](viduthalai.md) - translated
+- [விழிப்புற்ற பாட்டாளி!](vizhiputra_paattali.md) - translated

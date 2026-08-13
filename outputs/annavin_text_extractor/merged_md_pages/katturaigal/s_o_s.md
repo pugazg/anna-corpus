@@ -1,0 +1,1 @@
+../../md_pages/katturaigal/s_o_s.md

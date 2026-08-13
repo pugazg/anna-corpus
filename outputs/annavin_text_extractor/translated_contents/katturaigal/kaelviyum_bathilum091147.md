@@ -1,0 +1,226 @@
+# கேள்வியும் பதிலும் / Questions and Answers
+
+**Tamil title:** கேள்வியும் பதிலும்  
+**English title:** Questions and Answers  
+**Source file:** `katturaigal/kaelviyum_bathilum091147.md`
+
+## Source Tamil (verbatim)
+
+- Source image folder: `/Users/pugazhendhirajendran/Documents/Codex/2026-07-09/https-www-annavinpadaippugal-info/outputs/annavin_text_extractor/ocr_images/katturaigal/kaelviyum_bathilum091147`
+- OCR language: `tam`
+- Tesseract page segmentation mode: `3`
+- OCR cleanup: `enabled`
+
+## Image 1: 001-77f09cedbe.png
+
+- Image: `katturaigal/kaelviyum_bathilum091147/001-77f09cedbe.png`
+
+கேள்வியும் பதிலும்
+
+இந்தப் புதிய பகுதியைத் துவக்கும் போது, ஒரு
+முன்னுரை.
+
+(கேள்விகளை, வரவேற்கிறோம். - கண்ணியத்துடன்
+அனுப்பப்படும் என்ற நம்.பிக்கையுடன். கேள்விகள், கேட்பதும்,
+பதில் கூறுவதும், .பொதுக் கூட்டங்களிலே, . அதிகமாகப்
+பழக்கத்துக் கொண்டு வந்தவர்கள், சுயமரியாதைக்கார்கள் தான்.
+
+இதனால், பயனும் ஏற்பட்டிருக்கிறது. சிலருக்கு, நம்மைப்
+பரிகாசம் செய்யச் சந்தர்ப்பமும் கஇடைத்திருக்கிறது. சிலர்,
+வீணான, விஷமத்தனமான கேள்விகள் கேட்டு, காலத்தையும்
+கருத்தையும் கெடுப்பதைக் குறித்துச் சென்ற இழமை, பெரியார்,
+பேசியிருக்கிறார். நண்பர்கட்கு அதனைக் கவனப்படுத்துகிறோம்.
+
+கேள்விகேட்பதற்கு, ஓர், மரியாதைக் கோடு அமைத்துக்
+கொண்டு, இந்தப் பகுதியைப் பயனும் சுவையுமுள்ளதாக்கு
+வதற்கு. நண்பர்கள் ஒத்துழைக்க வேண்டுகிறோம். )
+
+. மலேயாவில் உள்ள தமிழர்களைக் குறித்துத், தாங்கள்
+எழுதியது பற்றித் திராவிடர் கழகம், ஏதாவது நடவடிக்கை
+எடுத்துக் கொண்டதா? அதாவது மலேயாசர்க்காருக்கோ,
+“இந்திய' சர்க்காருக்கோ கழகம், தீர்மானங்கள்
+அனுப்பிற்றா?
+
+'திராவிட நாடு: - மலாய் நாட்டுத் தமிழர்கள் உள்ள
+நிலையைப் பற்றித் தாய் நாட்டுத் தோழர்கள் அறிய வேண்டும்,
+என்பதையே முதல் நோக்கமாகக் கொண்டு, அது சம்பந்தமான
+- கட்டுரைகளை வெளியிட்டது. சல ஊர்த்திராவிடர் கழகங்கள்,
+“தீர்மானங்கள் நிறைவேற்றின. அந்த. அளவோடு தான்
+நின்றிருக்கிறது, பிரச்னை. ௫
+
+2. குண்டிக் குதிரைப்பந்தய பிரச்னை போலவே தான் இதுவும்.
+ஆனால், இந்தப். பிரச்னை. சம்பந்தமாகச், சல ஊர்க்
+
+## Image 2: 002-3dc2fe32cc.png
+
+- Image: `katturaigal/kaelviyum_bathilum091147/002-3dc2fe32cc.png`
+
+காங்கிரஸ் கமிட்டிகளும், ஏதேனும் நடவடிக்கை எடுத்துக்
+கொள்ள வேண்டும் என்று. தீர்மானித்துள்ளன. சட்ட
+சபையும், ஏதோகொஞ்சம் வழிக்கு வரும் போலத்
+தோன்றுகிறது.
+
+3. கம்யூனிஸ்டுஜீவா, திராவிடர்கழகத்தையும், தலைவரையும்,
+தங்களையும், தாக்கக்: கொண்டு: வருகிறார் என்பது
+தெரியுமா?
+நன்றாகத். தெரியும் - ஏன் தாக்குகிறார், . எதுவரை
+
+தாக்குவார், என்பதும் தெரியும். காங்கிரஸ் கட்சியிடம் “சபாஷ்:
+பட்டம் வாங்கும் வரையிலே தாக்கிக் கொண்டிருப்பார். ஆனால்,
+கதர்ச் சட்டையிலே காரல்மார்க்ஸ் புத்தகம், நெடுநாட்டுகளுக்கு
+இருக்க முடியாது. இன்று ஏற்பட்டுள்ள 'கூட்டுற்வு' நீடிக்காது.
+பழையபடி, காங்கிரஸ் கம்யூனிஸ்டு தகறாரு கிளம்பியே தீரும்.
+
+4. கம்யூனிஸ்டு ஜீவாவுடன், நீங்கள் ஏன் ஒத்துழைக்கிறீர்கள்?
+
+அவருடன் அல்ல - அவரும் அந்தக் கட்சியும் கூறிவரும்,
+பொருளாதாரக் . கோட்பாடுகள், திராவிடர் கழகத்துக்கு
+உடன்பாடு. ஆகவே, அந்தக் கோட்பாடுகளைப் பொறுத்த
+வரையிலே, ஆதரவு காட்டுகிறோம்.
+
+5... அகிலதமிழர் மாநாடு பற்றித் தங்கள் கருத்து என்ன?
+
+கருத்து உண்டாகக்கூடிய அளவுக்கு, அந்த மாநாடு பற்றிய,
+விளக்கம், எனக்குத் தரப்படவில்லை.:- எனக்கு: மட்டுமா,
+யாருக்கும் தரப்படவில்லை - ஒரு சமயம், மாநாடு கூட்ட
+முனைந்திருப்போருக்கே, அந்த விளக்கம் ௧௬ அளவிலேதான்
+இருக்கிறதோ என்னவோ! ஆனால், தமிழர்... நலன் என்றால்
+என்ன, அதற்கு இப்போது உள்ள கேடுகள் யாவை, களையும் வழி
+என்ன, என்பவைகளைப் பற்றி, வெங்கடேச ஐயங்காரும்,
+முத்தைய முதலியாரும் - கோவை ஆலை அரசர் ரதனசபாபதி
+முதலியாரும் சேர்ந்து கூறுவதைக் கேட்பதென்றால், அபூர்வமான
+சந்தர்ப்பம் அல்லவா? பொதுவாக, இப்படித் இடீர் இடீர் என்று
+கூட்டப்படும் மாநாடுகளின் பயன் என்ன என்பது, கூடி.க்- கலைந்த
+பிறகுதான் கணக்குப் பார்க்க முடியும். முன்: கூட்டிக்
+கூறமுடியாது. கருவிலுருவாகி வந்து: வயதளவிலே வளர்ந்து,
+வெளிவந்தான பிறகு பார்ப்போம்.
+
+6. திராவிடர் கழக ஏடுகளிலே, பலநாட்டு விஷயங்களை,
+வெளியிட வேண்டுவது அவ௫சியமல்லவா?
+
+## Image 3: 003-84f777ce34.png
+
+- Image: `katturaigal/kaelviyum_bathilum091147/003-84f777ce34.png`
+
+ஆம்! ஆனால், அதன் அவசியத்தை அலட்சியப்படுத்தும்
+நண்பர்கள் ஏராளமாக இருக்கிறார்கள். கழக வெளியீடுகளிலே,
+உலக விவகாரம் இருந்தாலே, ஏதோ அவசியமற்ற பகுதி என்று
+எண்ணுபவர்களின், தொகை குறைந்து வருவது, நல்ல அறிகுறி.
+இந்திய துணைக்கண்டத்திலே, திராவிட நாடு இணைந்துள்ளது,
+இந்தியாவோ, உலகநாடுகளிலே, தொடர்பு வைத்துக்
+கொண்டிருக்கிறது. எனவே, அந்தத்தொடர்பு எப்படி இருக்கிறது,
+. அதனால் திராவிட நாட்டுக்கு ஏற்படக் கூடிய சாதகபாதகம் என்ன
+என்பதை அறிந்து கொள்ள வேண்டியது, மிக மிக அவசியம்.
+உலகின் பல பகுதிகளிலே, அறிவுத்துறையிலும், தனி அரசு
+அமைக்கும் துறையிலும், பொருளாதார விஞ்ஞானத்துறை
+களிலும், நடைபெறும் நடவடிக்கைகள், திராவிடர்
+கழகத்தாருக்கு, நிச்சயம் தெரியவேண்டும். ஆனால் அந்தப் பகுதி
+அலட்சியப்படுத்தப்பட்டிருப்பதால், ''திராவிடநாடு”' - சிறு சிறு
+பகுதிகளாகமட்டுமே வெளிநாட்டு விஷயங்களை
+வெளியிடுகிறது. நண்பர்களின் நாட்டம், அந்தப் பகுதி மீது நன்கு
+சென்ற பிறகு, அந்தப் பகுதி விரிவுபடுத்தப் படும்.
+
+7. தமாஷாவரி, அதிகரிப்பது சரியா?
+
+நிச்சயமாகத் தவறுதான். .அதுபற்றித் தோழர் டி.கே.
+சண்முகம், அறிவு நிரம்பிய அறிக்கை வெளியிட்டிருக்கறார்.
+மக்கள், நாடக.சினிமாக்களிலே, சல காலமாகத்தான், சீர்திருத்தக்
+கதைகளைக் காணவும், ரசிக்கவும், பயனடையவும் நிலை
+பிறந்திருக்கிறது. தமாஷா வரி அதிகரிப்பு, டிராமக்களை, மிக
+அதிகமாகப். பாதிக்கும். பலரால் கம்பெனிகளை நடத்த
+முடியாமலே போய்விடும் - அது, நடிகர்களுக்கும் கம்பெனி
+நடத்துபவர்களுக்கு மட்டும். நஷ்டமல்ல, சீர்திருத்தப்
+பிரசாரத்துக்கு இந்தச் சாதனங்களை உபயோகிக்க வேண்டு
+மென்று எண்ணும், திராவிடர் கழகத்துக்குப் பெருநஷ்டமாகும்.
+அமைச்சர் அறியும். வண்ணம், இதனை எடுத்துரைத்து, இந்த
+அநீதி நேரிடாதபடி தடுக்க வேண்டுவது, கலைவளர வேண்டும்
+என்ற. கருத்துள்ளவர்களின் நீங்காக் கடமையாகும்.
+
+8. அடிக்கடி சென்னையில், கண்காட்சிகள் (8301101710)
+நடத்தி வருகிறார்களே காங்கிரசார், ஏன், சென்னை
+திராவிடர் கழகத்தார், பகுத்தறிவும், விஞ்ஞான விளக்கமும்
+ஏற்படக்கூடிய கண்காட்சி நடத்தக் கூடாது?
+
+## Image 4: 004-3140e5baf1.png
+
+- Image: `katturaigal/kaelviyum_bathilum091147/004-3140e5baf1.png`
+
+நானுந்தான் கேட்கிறேன்! நடத்தத்தான் வேண்டும். ஆனால்
+யார் நடத்துவது? தனியாக ஒருவர் இருவரால் . நடத்தக்
+கூடியதல்லவே. சென்னை நண்பர்கள் கூடி யோசித்தால் வழி
+பிறக்கக் கூடும். 7
+9. காமராஜர் மீது எதிர்ப்பு உண்டாக்கி வருவதாகவும், அவரை
+நீக்கிவிட ஏற்பாடுகள் நடைபெறுவதாகவும், வதந்தி
+உலவுவதுபற்றி, உங்கள் அபிப்பிராயம் என்ன?
+
+வதந்திதான் எனக்கும் தெரியும். காமராஜர், ஆச்சாரியாரை
+எதிர்த்ததன் மூலம் அவருக்கு. ஏற்பட்ட செல்வாக்கு, மீண்டும்
+அவர் ஆச்சாரியாருடன். குலவ ஆரம்பித்ததால், சிதைந்து
+விட்டதாம், அவரை நீக்கி விடும் அளவு, பலம் சேர்ந்தாகி
+விட்டதாம். ஆனால், அவருக்குப் பதில், யார், தமிழ்நாடு
+காங்கிரஸ் தலைவராக வருவது என்பதிலே, அபிப்.பிராய பேதம்
+பலமாக இருப்பதால், 'சட்டியை உடைக்க'வில்லை. என்று,
+ஆச்சாரியார் உபமானத்தோடு, காங்கிரஸ் வட்டாரத்திலே
+பேசிக்கொள்கிறார்கள்.
+
+9-11-1947
+
+## English Translation
+
+## A Preface to This New Section
+
+We welcome questions, trusting that they will be sent with dignity. It was the Self-Respecters who did most to make asking and answering questions a customary part of public meetings.
+
+This has produced benefits. It has also given some people an opportunity to ridicule us. Last week Periyar spoke about those who waste time and thought by asking pointless and malicious questions. We draw our friends’ attention to that.
+
+We request their cooperation in establishing a standard of courtesy for questions and making this section both useful and engaging.
+
+**1. Has the Dravidar Kazhagam taken any action regarding what you wrote about the Tamils in Malaya? That is, did the Kazhagam send resolutions to either the Malayan government or the “Indian” government?**
+
+*Dravida Nadu* published those articles primarily so that comrades in the mother country would learn about the condition of Tamils in Malaya. Some local branches of the Dravidar Kazhagam adopted resolutions. The matter has stopped at that point.
+
+**2. Is this just like the Guindy horse-racing issue?**
+
+But in this matter, some local Congress committees too have resolved that action should be taken. The Legislative Assembly also appears likely to come around to some extent.
+
+**3. Do you know that Communist Jeeva has been attacking the Dravidar Kazhagam, its leader, and you?**
+
+I know very well. I also know why he attacks us and how long he will continue. He will keep attacking until he earns a “Well done!” badge from the Congress party. But a Karl Marx book cannot remain inside a khadi shirt for very long. The present “cooperation” will not last. The old Congress–Communist quarrel is certain to break out again.
+
+**4. Why do you cooperate with Communist Jeeva?**
+
+Not with him personally. The Dravidar Kazhagam agrees with the economic principles that he and his party advocate. We therefore support them only so far as those principles are concerned.
+
+**5. What is your view of the All-Tamil Conference?**
+
+I have not been given enough information about the conference to form a view. Am I alone? No one has been given it. Perhaps even those attempting to convene the conference possess information only to that same extent!
+
+But would it not be a rare opportunity to hear Venkatesa Iyengar, Muthiah Mudaliar, and Coimbatore mill magnate Rathinasabapathi Mudaliar jointly explain what Tamil welfare means, what presently harms it, and how those harms may be removed? Generally, the value of conferences convened so suddenly can be calculated only after they have assembled and dispersed. It cannot be predicted beforehand. Let us see after what has formed in the womb grows to term and emerges.
+
+**6. Is it not necessary for Dravidar Kazhagam journals to publish affairs concerning many countries?**
+
+Yes. But there are many friends who disregard that necessity. It is a good sign that the number of people who regard world affairs in Kazhagam publications as an unnecessary section is declining.
+
+Dravida Nadu is joined to the Indian subcontinent, and India maintains relations with the countries of the world. It is therefore essential to understand the nature of those relations and the advantages or dangers they may create for Dravida Nadu. Members of the Dravidar Kazhagam must certainly know about developments in intellectual life, movements for establishing independent governments, economics, and science in different parts of the world.
+
+Because this material has been neglected, *Dravida Nadu* currently publishes foreign affairs only in small portions. Once our friends’ interest in the subject grows sufficiently, the section will be expanded.
+
+**7. Is it right to increase the entertainment tax?**
+
+It is certainly wrong. Comrade T. K. Shanmugam has issued an intelligent statement about it. Only recently have people gained opportunities to see, enjoy, and benefit from reformist stories in drama and cinema. An increase in entertainment tax will affect theatrical productions especially severely. Many will become unable to operate companies.
+
+That would not be a loss only to actors and company proprietors. It would be a great loss to the Dravidar Kazhagam, which wishes to use these media for reform propaganda. Those who desire the growth of art have an inescapable duty to explain this to the minister and prevent the injustice.
+
+**8. Congressmen frequently conduct exhibitions in Madras. Why should the Madras Dravidar Kazhagam not conduct an exhibition that promotes rational thought and scientific understanding?**
+
+I ask the same question! It certainly should be held. But who will organize it? It is not something one or two individuals can conduct alone. If friends in Madras gather and deliberate, a way may emerge.
+
+**9. What is your opinion of the rumour that opposition to Kamaraj is being created and arrangements are being made to remove him?**
+
+I too know it only as a rumour. It is said that the influence Kamaraj gained by opposing Achariyar has eroded since he began associating with Achariyar again, and that enough strength has now gathered to remove him. But there is sharp disagreement over who should replace him as president of the Tamil Nadu Congress. Congress circles therefore say, using Achariyar’s metaphor, that they have not yet “broken the pot.”
+
+9 November 1947
+
+## Translator's Notes
+
+Question 2 is compressed in the OCR and is reconstructed as a comparison with the Guindy horse-racing issue; its answer continues clearly onto the next scan. `தமாஷா வரி` is rendered by its period administrative meaning, entertainment tax. Achariyar refers to C. Rajagopalachari in this political context.

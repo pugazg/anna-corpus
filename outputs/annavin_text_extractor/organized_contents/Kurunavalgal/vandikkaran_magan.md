@@ -1,0 +1,1 @@
+../../md_pages/Kurunavalgal/vandikkaran_magan.md

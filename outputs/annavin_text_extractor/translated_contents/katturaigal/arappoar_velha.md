@@ -1,0 +1,147 @@
+# அறப்போர் வெல்க / May Arappor Triumph!
+
+**Tamil title:** அறப்போர் வெல்க  
+**English title:** May Arappor Triumph!  
+**Source file:** `katturaigal/arappoar_velha.md`
+
+## Source Tamil (verbatim)
+
+- Source image folder: `/Users/pugazhendhirajendran/Documents/Codex/2026-07-09/https-www-annavinpadaippugal-info/outputs/annavin_text_extractor/ocr_images/katturaigal/arappoar_velha`
+- OCR language: `tam`
+- Tesseract page segmentation mode: `3`
+- OCR cleanup: `enabled`
+
+## Image 1: 001-fa27018de7.png
+
+- Image: `katturaigal/arappoar_velha/001-fa27018de7.png`
+
+49, அறப்போர் வெல்க/
+
+போர்
+
+தமிழர் தொன்று தொட்டுத் தமது தலையாய
+கடமையெனக் கொண்டிருந்த ஒன்றாகும். எவர்மீதும்
+வீண்பகை கொண்டு எழுவதன்று. எங்கணும் அன்பும்
+அறனும் தழைத்திட மேற்கொள்ளப்படும் முயற்சியாகும்.
+
+போர்
+
+துவக்குங்காலை,துணிவு வேண்டும்; நடாத்திச் செல்ல
+உறுதி வேண்டும்; துணை கிடைத்திடக் காத்திருத்தல்
+ஆகாது; வேண்டாமென்று ஓதுக்கிடலும் தீது! தோழமை
+பெற உழைத்திடவும் வேண்டும்...
+
+## Image 2: 002-4731a6a12c.png
+
+- Image: `katturaigal/arappoar_velha/002-4731a6a12c.png`
+
+போர்
+
+நடாத்திட முன் வருவோர், வாகை சூடும் வரை
+நடாத்தியாக வேண்டும்; இடையில் எழுந்திடும் இன்னல்,
+கன்னல் மென்று தின்றிடும்போது பல்லிடுக்கில் ஏற்படும்
+வலி போன்றது என்று உணர்ந்து பொறுத்திடல் வேண்டும்.
+
+பபர்
+களத்துக்கான கருவிகள், வாளும் வேலும்
+எறியீட்டியும் குத்து வாளும் வில்லும் அம்பும், வேழமும்
+பரியும்தான், என்று எண்ணற்க! முயற்சி, உழைப்பு,துணிவு,
+தெளிவு, கனிவு, உறுதி, தாங்கிடும் வலிவு, தக்க முறை தேடல்
+என்பன போன்றவைகளே தேவையான கருவிகள்.
+
+நடாத்தும் அரங்கண்ணல் இத்தகு கருவிகளைப்
+்-. பெற்றிருப்பவர் என்பதை நாடறியும்; நல்லோர் ஆதரவு
+அவருக்குப் பெரிதும் துணை நிற்பதை நான் அறிவேன்.
+
+*. ே ஙு
+வலிவுடன் பொலிவும் சேர்த்தளித்திட எல்லாவிதமான
+முயற்சிகளும் குறைவின்றி எடுத்துக்கொள்ளத்தக்கவர் - தம்பி
+அரங்கண்ணல். இளைஞரல்லவா!!
+
+நடாத்தும் தம்பிக்கு என் அன்பு வாழ்த்துக்கள்.
+அவருடைய முயற்சிக்கு ஊக்கமும் அதரவும் அளித்திடும்
+
+## Image 3: 003-3d84a90313.png
+
+- Image: `katturaigal/arappoar_velha/003-3d84a90313.png`
+
+அனைவருக்கும், பொங்கற் புதுநாள் வாழ்த்துக்களை
+வழங்குகிறேன்.
+
+போர்
+
+இரப்போரற்ற எழிலிடமாய், தொழில்வளம்
+கொஞ்சிடும் வாழ்விடமாய், பண்பு மிகுந்திடும் சீரிடமாய்,
+இன்பத் திராவிடமாய் நமது நாடு ஏற்றம் பெற்றிட
+நடாத்தப்பட்டு வருகிறது.
+
+வீரருக்கு விருந்து, தீரருக்கு அழைப்பு,
+திருவிடத்தாருக்கு நல்லதோர் வாய்ப்பு!
+
+ப னர்
+
+வெல்க! அறிவுடன் ஆற்றல் இணைந்து நின்று,
+
+. தென்றல் வீசிடும் வேளை தன்னில் பழமுதிர்ச்சோலை பக்கம்
+
+சென்று, பாடிடும் அருவியின் பாங்கும் கண்டு இசை பயில்
+
+பறவைகள் கூட்டம் ஓர்புறம், நடம் பயில் மயிலும் நடைபயில்
+
+அன்னம் மற்றோர்புறம் என்றிவ்விதம் இருந்திடும் இன்பத்
+
+திருவிடம் கண்டவெற்றி தேடித்தந்திடும். எனவே 'அறப்போர்'
+- வாழ்த்துகிறேன்.
+
+அன்பன்,
+
+அண்ணாதுரை
+
+(14.1.62 - அறப்போர் பொங்கல் மலர்)
+
+## English Translation
+
+## Righteous Struggle
+
+From time immemorial, the Tamil people have regarded struggle as one of their foremost duties. It does not mean rising in pointless hostility against anyone. It is an endeavour undertaken so that love and virtue may flourish everywhere.
+
+## Righteous Struggle
+
+At the outset, courage is needed; firmness is needed to carry it forward. One must not wait for assistance to arrive, nor is it right to reject help as unnecessary. One must also work to gain comradeship.
+
+## Righteous Struggle
+
+Those who come forward to conduct it must persist until they wear the garland of victory. They must endure the troubles that arise along the way, recognising them as no more than the pain felt between the teeth while chewing sugarcane.
+
+## Righteous Struggle
+
+Do not suppose that the instruments needed for the field are only swords, spears, javelins, daggers, bows and arrows, elephants and horses. Effort, labour, courage, clarity, kindness, resolve, strength to endure, and the search for a suitable method are the instruments required.
+
+The country knows that Arangannal, who conducts *Arappor*, possesses such instruments. I know that the support of good people stands as a great aid to him.
+
+Younger brother Arangannal is capable of undertaking every effort without stint to add splendour to strength. Is he not a young man!
+
+My affectionate greetings to the younger brother who conducts it.
+
+I offer Pongal New Year greetings to everyone who provides encouragement and support to his endeavour.
+
+## Righteous Struggle
+
+It is being conducted so that our country may rise as a beautiful land without beggars, a place of life where industry flourishes, a land of excellence rich in culture, and a joyful Dravidian land.
+
+A feast for the brave, a summons to the resolute, a fine opportunity for the people of the sacred land!
+
+## May Arappor Triumph!
+
+May knowledge and strength stand united and seek victory that will discover a delightful sacred land: a place where, when the southern breeze blows, one may go towards Pazhamudircholai, behold the harmony of a singing waterfall, see on one side a flock of birds learning music, and on the other a dancing peacock and a graceful swan.
+
+I therefore greet *Arappor*.
+
+Yours affectionately,  
+Annadurai
+
+(*Arappor* Pongal Special, 14 January 1962)
+
+## Translator's Notes
+
+Several display headings survive in OCR only as “போர்” or as stray characters. The English restores “அறப்போர்” from the article title, repeated structure, and journal context while leaving the Tamil source unchanged. The final lyrical sentence is syntactically damaged in OCR; its images and governing wish for victory are translated conservatively.

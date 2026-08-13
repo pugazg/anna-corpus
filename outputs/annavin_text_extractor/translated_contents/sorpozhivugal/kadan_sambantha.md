@@ -1,0 +1,105 @@
+# கடன் சம்பந்தப்பட்ட மானியக் கோரிக்கை / Demand for Grants Relating to Loans
+
+**Tamil title:** கடன் சம்பந்தப்பட்ட மானியக் கோரிக்கை  
+**English title:** Demand for Grants Relating to Loans  
+**Source file:** `sorpozhivugal/kadan_sambantha.md`
+
+## Source Tamil (verbatim)
+
+- Source image folder: `/Users/pugazhendhirajendran/Documents/Codex/2026-07-09/https-www-annavinpadaippugal-info/outputs/annavin_text_extractor/ocr_images/sorpozhivugal/kadan_sambantha`
+- OCR language: `tam`
+- Tesseract page segmentation mode: `3`
+- OCR cleanup: `enabled`
+
+## Image 1: 001-af9dfd39d5.png
+
+- Image: `sorpozhivugal/kadan_sambantha/001-af9dfd39d5.png`
+
+உரை-23 நாள்:
+
+கடன் சம்பந்தப்பட்ட மானியக் கோரிக்கை
+
+மாண்புமிகு திரு சி. என். அண்ணாதுரை: தலைவர்
+அவர்களே, கடன் சம்பந்தப்பட்ட மானியக் கோரிக்கையில்
+நம்முடைய நண்பர் காசிராமன் அவர்கள் பல துறைகளில்
+ஏற்கெனவே இருந்ததைவிட அளவு குறைக்கப்பட் டி. ௬ப்பதைக்
+குறிப்பிட்டார்கள். அதை மிக வருத்தத்துடன்தான் குறைத்துக்
+கொண்டேன். குறைத்துக் கொண்டதற்கு சந்தோஷப்படவில்லை.
+நிதி நிலைமையில் எதிர்பாராத சிக்கல்கள் ஏற்பட்டதன்
+காரணமாக இந்தவிதமான குறைப்புகளை ஏற்படுத்திக்கொள்ள
+வேண்டிய நிலைமை ஏற்பட்டது குறித்து திரு காசிராமனைப்
+போல நான் வருத்தப்படுகிறேன். நிதி நிலைமையைச் சீர்படுத்துகிற
+வகையில் நிலைமைகள் வளருமானால் இதில் குறைக்கப்
+பட்டிருக்கிற பல துறைகளில் மறுபடியும் அதிகப்படுத்து
+வதற்கான முயற்சியில் நான் நிச்சயமாக ஈடுபடுவேன் என்பதைத்
+தெரிவித்துக் கொள்கிறேன்.
+
+நண்பர் கோதண்டராமன் அவர்கள் நகரசத்தித்
+தொழிலாளர்களைப்பற்றிப் பேசும்போது, அவர்களுக்கு வீடுகள்
+கட்டித் தர வேண்டுமென்று தாழ்மையுடன் சொல்லிக்
+கொள்கிறேன் என்றாலும் உரிமையுடன் சொல்லிக் கொள்ளாமல்,
+அவர்கள் குறைகள் நீக்கப்பட்டாக வேண்டும். இதற்கு இந்த
+மானியத்திலே ஓதுக்கப்பட்டிருக்கிற தொகை குறைவாக
+இருந்தாலும், வீட்டு வசதிக்குத் தேவையான மனை கொடுக்கவும்
+கடன் வசதிகளைப் பெற்றுத் தருவதிலும் இந்த சர்க்கார்
+முனைந்து இருக்கும் என்பதை நான் தெரிவித்துக் கொள்கிறேன்.
+
+அடுத்து, நமது அரக்கோணம் தொகுதி உறுப்பினர்
+குறிப்பிட்டதை நான் சரியாகப் புரிந்துகொண்டேனோ,
+என்னவோ தெரியவில்லை. கடன்களை எல்லாம் ஒருமுகப்படுத்தி
+
+## Image 2: 002-6ff8466711.png
+
+- Image: `sorpozhivugal/kadan_sambantha/002-6ff8466711.png`
+
+.
+|
+
+மொத்தமாகக் கொடுத்துவிட வேண்டுமென்று அவர்கள்
+குறிப்பிட்டார்கள். ஒரு விவசாயியைக் கூப்பிட்டு, இந்தா உனக்கு
+ஐயாயிரம் ரூபாய் கடன், இதை வைத்துக்கொண்டு நீ கிணறு
+வெட்டினாலும் சரி, கெடா மாடு வாங்கினாலும் சரி, கலியாணம்
+செய்வதற்கு வைத்துக் கொண்டாலும் சரி என்று கொடுத்துவிட
+வேண்டுமென்று சொன்னார்கள். அப்படிப்பட்ட ஆபத்தான
+பரீட்சைகளிலே ஈடுபட இந்தச் சர்க்கார் தயாராக இல்லை.
+ஏற்கெனவே கிணறுகள் வெட்டுவதற்காகக் கொடுக்கப்பட்ட
+மானியங்கள் சரியாகப் பயன்படுத்தவில்லை என்ற புகார்கள் வந்து
+கொண்டிருக்கின்றன. திரு, கோதண்டராமன் அவர்கள்
+பேசும்பொழுது கிணற்றை வெட்டிக் கொடுத்துவிட்டால் நல்லது
+என்று குறிப்பிட்டார்கள். இப்பொழுது தரப்படுகின்ற
+மானியங்கள் எல்லாம் மாவட்டத்திற்கு மாவட்டம் கணக்கெடுத்
+துத்தான். வெவ்வேறு அளவிலே கொடுக்கப்படுகின்றன.
+தஞ்சாவூர் மாவட்டத்திலே ஒரு கிணறு வெட்டுவதற்கு என்ன
+செலவாகும் என்பதை யெல்லாம் கணக்கிட்டுத்தான் கடன்கள்
+வழங்கப்படுகின்றன. சேலம் மாவட்டத்திலும், கோயபுத்தாூரிலும்
+திணறு வெட்டுவதற்கு சர்க்கார் கொடுக்கிற கடனிலேயே கிணறு
+வெட்ட முடியாது. யாரும்: வெட்டியதும் கிடையாது. சர்க்கார்
+வழங்குகின்ற கடனை உரிமையோடு வாங்கிக்கொள்ள வேண்டு
+மென்றுதான் அதையெல்லாம் பெற்றுக்கொள்கிறார்கள்.
+கோயம்புத்தூர். மாவட்டத்திலே ஒரு கிணறு வெட்ட
+வேண்டுமென்று சொன்னால், 20. ஆயிரம் ரூபாய் வரை செலவு
+செய்தால்தான் கிணறு வெட்ட முடியும். ஆகவே. இவற்றை
+யெல்லாம் சர்க்கார். நன்றாக உணர்ந்திருக்கிறது. இதிலே எனக்கு
+அக்கறை நிரம்ப இருக்கிறது என்பதைத், தெரிவித்துக் கொண்டு
+என்னுடைய உரையை முடித்துக்கொள்கிறேன்.
+
+## English Translation
+
+Speech 23; date unreadable in the source OCR.
+
+The Honourable C. N. Annadurai: Honourable Speaker, in discussing the demand for grants relating to loans, our friend Kasiraman pointed out that the allocations in many fields had been reduced from their previous levels. I made those reductions only with great regret; I did not take pleasure in reducing them. Like Kasiraman, I regret that unexpected difficulties in the financial position created the necessity for reductions of this kind. I wish to state that, if circumstances develop in a manner that restores the financial position, I shall certainly strive to increase again the allocations in many of the fields reduced here.
+
+When our friend Kothandaraman spoke about municipal sanitation workers, he said humbly that houses should be built for them. Rather than presenting it merely as a humble request, their grievances must be remedied as a matter of right. Though the amount allocated for this purpose in the grant is small, I wish to state that this government will take the initiative in providing the sites needed for housing and securing loan facilities.
+
+Next, I do not know whether I correctly understood what the member for the Arakkonam constituency said. He suggested that all loans should be consolidated and given as one total sum. He said that a farmer should be called and told, “Here are five thousand rupees as a loan. You may use it to dig a well, buy livestock, or keep it for a wedding.” This government is not prepared to engage in such dangerous experiments.
+
+Complaints are already being received that grants provided for digging wells have not been properly used. When Kothandaraman spoke, he suggested that it would be better to dig the well and hand it over. The grants now provided are calculated district by district and given at different levels. Loans are granted only after calculating what it costs to dig a well in Tanjore district.
+
+In Salem district and Coimbatore, a well cannot be dug with the loan given by the government, and no one has done so. People obtain all these sums only because they are entitled to receive the loans supplied by the government. If one wishes to dig a well in Coimbatore district, it can be done only by spending up to twenty thousand rupees. The government is therefore well aware of all these matters. I conclude my speech by stating that I have a great deal of concern about this issue.
+
+## Translator's Notes
+
+The source prints “Speech 23” but no readable date; none is supplied in English.
+“நகரசத்தித் தொழிலாளர்கள்” is read contextually as “நகர சுத்தித் தொழிலாளர்கள்,” municipal sanitation workers, without altering the Tamil source.
+The OCR phrase “கெடா மாடு” is unclear; “livestock” avoids asserting a narrower animal category not securely recoverable from the scan.
+Financial and administrative claims are translated in the speaker’s voice and are not independently verified here.

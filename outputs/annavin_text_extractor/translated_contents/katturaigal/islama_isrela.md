@@ -1,0 +1,549 @@
+# இஸ்லாமா? இஸ்டரேலா? / Islam or Israel?
+
+**Tamil title:** இஸ்லாமா? இஸ்டரேலா?  
+**English title:** Islam or Israel?  
+**Source file:** `katturaigal/islama_isrela.md`
+
+## Source Tamil (verbatim)
+
+- Source image folder: `/Users/pugazhendhirajendran/Documents/Codex/2026-07-09/https-www-annavinpadaippugal-info/outputs/annavin_text_extractor/ocr_images/katturaigal/islama_isrela`
+- OCR language: `tam`
+- Tesseract page segmentation mode: `3`
+- OCR cleanup: `enabled`
+
+## Image 1: 001-d537b5303a.png
+
+- Image: `katturaigal/islama_isrela/001-d537b5303a.png`
+
+30. இஸ்லாமா? இஸ்டரேலா?
+
+பாலஸ்தீன் பிரச்னை !
+யூதரின் மனேராஜ்யம் உருவமாயிற்று !
+“யாத்ரா மார்க்கத்தில்” இரத்த வெள்ளம் !
+
+மன்னனென்றும், மாவீரனென்றும் கூறிக்கொண்டு, இங்கு
+மந்தகாசமாக வாழ்ந்து கொண்டிருக்கிறீர்கள் - அங்கு, உமது
+மதத்தவரின், மானம் பறி போகிறது ! மாதா தெருக்கூட்டுகிறாள்,
+மகன் தேர் மீதேறி வருகிறான் ! செல்வம் இங்கே ! அங்கே எல்லாச்
+செல்வத்தினும் மேலான செல்வமாகிய மார்க்கம் மூர்க்கர்களால்,
+சூறையாடப்படுகிறது. இங்கே, தங்கக்கலசமுள்ள மாட
+மாளிகைகள் ! அங்கே, நமது ஐயனின் சமாதி அயலாரிடம் சிக்கிச்
+சீரழிகிறது. இங்கு கூடுகிறீர்கள் பரமன் புகழ்பாட - பிரம்மாண்ட
+மான தேவாலயங்களில் - அங்கு தெருத் தெருவாகத் துரத்தப்
+படுகிறார்கள், உங்கள் மார்க்கத்தவர் ! சிலுவைக்கு ஆபத்து!
+சிலுவைக்குச் சீரழிவு! பிறைக் கொடியோர், சிலுவையை
+
+## Image 2: 002-c13efba1fa.png
+
+- Image: `katturaigal/islama_isrela/002-c13efba1fa.png`
+
+இகழ்கிறார்கள். - சிலுவையில் உயிர் நீத்த உத்தமனை
+உன்மத்தன் என்று உளறுகிறார்கள் - தேவகுமாரன் தீட்டிய
+திருப்பாதை செல்வோரை, தீயர் என்றும், பேயர் என்றும்
+தூற்றுகிறார்கள் -துரத்தி அடிக்கிறார்கள் - இங்கு நீங்கள்
+துரைமார்களென்று துந்துபி முழக்கமிட்டுக் கொண்டு வாழ்கிறீர் !
+அந்தத் துர்பாக்கியர்களுக்குத் துணைபுரியும் தூய உள்ளம்
+படைத்த வீராகள் இங்கு இல்லையா? மார்க்கத்துக்காக. உயிரை
+அர்ப்பணிக்கும் உத்தமர், இங்கு இல்லையா? சிலுவைக்காக
+உயிரை விடத்துணியும் செம்மல் எவரும் இல்லையா? இங்கு
+உள்ளவர்களுக்கெல்லாம், ஊராள, உண்டு கொழுக்க,
+உல்லாசத்தில் புரள மட்டுந்தான் தெரியுமா? உண்மைக்கு
+உழைக்கத் தெரியாதா! கொடுமைக்காளக்கப்பட்டு, அங்கு
+ஏசுமார்க்கத்தவர், ஏங்குகிறார்கள் - தூங்காதீர் -துடித்தெழுவீர் !
+ஐயனின், புதைகுழி, புனிதஸ்தலம் - அது, வேற்று மார்க்க
+வேந்தரின், விளையாட்டு மைதானம் ஆகிவிடுகிறது -
+விழித்தெழுவீர். வீரரே ! வீறுகொண்டேழுவீர் புனிதபுரி, ஜெருசலம் !
+அதைப் புல்லர் வசமிருந்து மீட்பீர்! மார்க்கத்திற்கோர் மாணிக்கம்,
+ஜெருசலம் - அதை மாற்றாரிடமிருந்து, திரும்பப் பெற்றாக
+வேண்டும் - மாநிலம், நம்மை இகழாதிருக்க வேண்டுமானால்
+- மானத்தின்மீது நமக்குப் பற்று இருக்குமானால், நாம் மனித
+மாடுகளல்ல, மனிதர்கள் என்பதை நிரூபிக்க வேண்டுமானால் !
+
+உடன்பிறந்தோரே ! ஒரு மார்க்கத்தவரே ! உள்ளம் நொந்து
+இதை உரைக்கிறேன் - அங்கே நம்மவர் படும் அல்லலைக்கண்ட
+யாரும், நாணி, நடுங்கிச் சாகாதிருக்க முடியாது. கூப்பிட்டுவா,
+உன் கும்பலை! - என்று அங்கு மாற்றார் கொக்கரிக்கின்றனர் !
+சிலுவை சிலாக்கியமானது என்று செப்புகிறீர் - பித்தரே ! உன்
+
+## Image 3: 003-fee617a642.png
+
+- Image: `katturaigal/islama_isrela/003-fee617a642.png`
+
+மார்க்கத்தவருக்கு, சிலுவையைவிட அவர்களின் உல்லாச வாழ்வு
+சிலாக்கியமானதாகத் தெரிகிறது, ஆகவேதான் அவர்களின்
+சிறுவிரலும் அசையக் காணோம் என்று கேலி பேசுகிறார்கள்,
+கொடியவர்கள். ஆற்றலற்ற மாமிசப் பிண்டங்களல்ல ! உயிருக்குப்
+பயந்து ஒடி ஒளியும் கோழைகளல்ல. உல்லாச வாழ்வுக்காக
+வேண்டி, ஆண்மையை இழந்துவிடத் துணியும் உலுத்தர் அல்ல!
+போரிடத் தெரியாத பேடிகளல்ல - என்றெல்லாம் நான் கூறினேன்
+-. உங்களைப்பற்றி - அவர்களிடம், அவர்கள் சிரித்தனர்,
+கைகொட்டி ! கூப்பிட்டுக் கொண்டுவா, அந்தக் கூட்டத்தை, என்று
+கொக்கரித்தனர். சிலுவையைக் காக்கச் சீறி -வருவர்,
+சிங்கங்கள்போல், என்றேன் - சிரித்தனர்! வாள்உண்டு, வல்லமை
+உள்ள தோள் உண்டு, எம்மவருக்கு என்றேன் - அவர்கள் தமது
+தாளைக் காட்டினர் ! தலையிறக்கமான பேச்சு! தாங்க முடியாத
+கொடுமை ! தத்தளிக்கும் நிலை! சிலுவையை, நீங்களே ஒடித்து
+வீசி எறியுங்கள் ! மாற்றார் இகழும்போது, அவர்களின்
+கொட்டத்தை அடக்க முடியாத கோழைகளிடம் சிலுவை ஏன்?
+அவர் சிந்தினார் இரத்தம் உங்களுக்காக. அவருக்காக இரத்தம்
+'சிந்தத் தயங்குகிறீர்!! அவருடைய, மார்க்கத்தவர் என்றும்
+மார்தட்டிக் கொள்கிறீர்! எங்கே: உங்கள் வீரம்! எங்கே வாள்.
+எங்கே உங்கள் மான ரோஷ உணர்ச்சி! உங்கள் மார்க்கம்
+மாற்றாரிடம் சிக்கிச் சீரழிகிறது - மாதாவின் மானம் பறிபோகிறது
+- மைந்தர்களே ! கிளம்புகள் ! செங்கோல் தாங்கும் கை, ஏரடிக்கும்
+கரம், துலாக்கோல் ஏந்தும் கை, செல்வத்தைத் தீண்டித் தீண்டி
+மகிழும் கரம், காதலியின் கன்னத்திலே விளையாடும் கரம்,
+அணைக்கும் கை - எல்லாம், வாள் ஏந்தவேண்டும் - இவை
+எல்லாம் நிலைக்க வேண்டுமானால், இவற்றினுக்கெல்லாம்
+
+## Image 4: 004-aacaab8eb3.png
+
+- Image: `katturaigal/islama_isrela/004-aacaab8eb3.png`
+
+மேலான, மானம், மங்கி மடியாதிருக்க வேண்டுமானால் ! மாவீரர்
+அல்ல, நான் கேட்பது - மனிதர்களைக் கேட்கிறேன் !
+
+நட 2 நர் 44 தகி
+
+3 253 2
+
+பதினோராம் நூற்றாண்டின் இறுதியில், ஐரோப்பா
+கண்டத்திலே, மன்னர் அவையிலும் மாதாகோயிலிலும், மக்கள்
+மன்றத்திலும், கிருஸ்தவப் பாதிரிமார்கள் சிலுவைக்கு ஆபத்து!
+மார்க்கத்துக்கு ஆபத்து! - என்று, ஆவேசமூட்டக்கூடிய
+விதமாகப் பேசிப்பேசி, மக்கள் மனதிலே கொதிப்பேற்றினர் .
+மக்களின், உணர்ச்சிவேகம், அவர்கள் ஆற்றிய உரைகளால்,
+புயலெனக் கிளம்பிற்று, ஊருக்கு ஊர் பரவிற்று, சிலுவைக்கு
+ஆபத்து என்ற கோஷம் ! வீடெல்லாம், இதே பேச்சு! பல நாடு
+களிலும் இதே பிரச்னை ! படைவீரர்களிடை மட்டுமல்ல, படுகிழவர்
+முதல் அடுப்படி இருந்து வந்த ஆரணங்குகளும், உணர்ச்சி
+வேகத்தால் தாக்கப்பட்டனர். ஐரோப்பா எங்கும், சிலுவைக்கு
+ஆபத்து - சிலுவைக்கு ஆபத்து - என்ற 'சேதி' - காட்டுத்
+தீயெனப் பரவிற்று.
+
+ஜெருசலம், 'பலஸ்தீனில் உள்ள புனிதபுரி - கிருத்துவ
+மார்க்கத்தவர், அங்குதான், ஏசுவின் புதைகுழி இருப்பதால்,
+அவ்விதம் கருதுகின்றனர் - மார்க்கப்பற்றுடையார், வாழ்விலே
+ஒர்நாளேனும், ஜெருசலம் சென்று ஏசுவின் கடைசி. நாட்களின்
+சின்னங்களைக் காண்பதைப் “புண்ய காரியம்' என்று
+கருதுகின்றனர், ஏசு அளித்த, கட்சி விருந்து நடைபெற்ற இடம்,
+அவர் உலவிய இடம், புதையுண்ட இடம், பிழைத்தெழுந்த இடம்,
+ஜெருசலத்தில் உண்டு. எனவே, ஜெருசலம், எங்கள் மார்க்கத்துக்கு
+
+## Image 5: 005-f17891bdd9.png
+
+- Image: `katturaigal/islama_isrela/005-f17891bdd9.png`
+
+ஒரு மகத்தான இடம் என்று கிருஸ்தவர் கூறுவர். அங்கு திரளாகச்
+செல்வர்.
+
+கிருஸ்தவரின் புனிதபுரியாக, ஜெருசலம் கருதப்படுவது
+போலவே, யூதர்கள், அதனைத் தமது திருஇடமாகக் கருது
+கின்றனர். ஏசுவுக்கு முன்பிருந்தே, யூதர்களுக்கு ஜெருசலத்திலே,
+திருக்கோயில்கள் உண்டு; யூதர்களின் வாழ்வு ஜொலித்திருந்த
+நாட்களிலே.
+
+ஜெருசலம், கிருஸ்தவருக்கும், யூதருக்கும் புனிதபுரியாக,
+பலப்பல நூற்றாண்டுகளாக இருந்து வந்த போதிலும், அந்த
+நகரம் பலமுறை பலவகையான படை எடுப்புகளுக்கு ஆளாகிப்
+பாழ்பட்டிருக்கிறது. யூதர்கள், ஜெருசலத்தில், தனி ராஜ்யம் நிறுவி
+ஆள்வதும், பிறகு அவர்களுக்குள்ளாகக் கட்சிகள் பிரிந்து கலகம்
+விளைந்து, அரசு இரண்டாவதும், அவை ஒன்றுக்கொன்று
+போரிட்டுக் கொள்வதுமாக இருந்தனர். சாலமன் என்ற மன்னன்
+காலத்திலே யூதராஜ்யம், பெரும் புகழ் பெற்று விளங்கிற்று.
+
+பலஸ்தீனப் பகுதியிலே, யூத ராஜ்யம் அமைத்திடும், பெரும்
+பணியை, முதன்முதலில் மேற்கொண்டவர் யூதர்களின் மார்க்க
+போதகர் என்றும் தீர்க்கதரிசி எனவும் கீர்த்தி பெற்ற, மோசஸ்.
+அவருடைய, ஆணைப்படி, பல இலட்சம் மக்கள், பலப்பல நாடு
+களையும், வெளிகளையும் காடுமலைகளையும் கடந்து சென்றணர்
+புதிய அரசுகாண, ஆனால் பலஸ்தீன் போகுமுன்பு, அவரை
+இழந்தனர். மோசசின் உடன் பிறந்தவர், பிறகு, யூதராஜ்யத்தை
+அமைத்தார். அமைத்த அரசுதான், மேலே குறிப்பிட்டபடி அடிக்கடி
+சிதைவதும் பிறகு ஜொலிப்பதுமாக இருந்து வந்தது.
+
+## Image 6: 006-85a449249a.png
+
+- Image: `katturaigal/islama_isrela/006-85a449249a.png`
+
+பலஸ்தீன், பல அரசுகளின் கையிலே சிக்கிச் சிதைந்த
+வரலாறு ஏராளமாக உண்டு.
+
+ரோம் நாட்டவர், பலஸ்தீனத்தைப் பிடித்து ஜெருசலம்
+நகரையே இடித்துத் தரைமட்டமாக்கினர் ஒரு சமயத்தில்,
+ஜெருசலம் என்ற பெயரையே நீக்கி விட்டனர் - எலியா
+காபிடோலினா என்ற புதுப் பெயரிட்டு - அந்த நகருக்குள் யூதர்
+பிரவேசிக்கக்கூடாது - மீறி நுழைந்தால், அவர்களுக்கு மரண
+தண்டனை விதிக்கப்படும் என்று உத்தரவிட்டனர். இதுபோல்
+பன்முறை, யூதர்களுக்குப் பேராபத்து வந்ததுண்டு. ஆனால்,
+மீண்டும் மீண்டும் அவர்களுக்கு ஏதேனும் ஒரு காரணத்தால்
+பழைய நிலைமையும் வருவதுண்டு.
+
+ரோம் நாட்டவரால், இடித்துத் தரைமட்டமாக்கப்பட்ட
+ஜெருசலத்தில், ரோம் நாட்டு ராணியாரே, பிறகு அழகான ஒர்
+கோயில் அமைத்தார் - புனிதபுரியாக்கினார். ஏசு தோன்றி
+மறைந்தார். அவர் நடமாடிய நகர், புனிதபுரி என்றாயிற்று .-
+ரோம்ராணி கிருஸ்தவ மார்க்கத்தை மேற்கொண்டதால், எந்த
+ரோமலிருந்து படைகள் கிளம்பி வந்து ஜெருசலத்தை இடித்துத்
+தள்ளிற்றோ, அதே ரோம் நாட்டிலிருந்து சிற்பிகள் வந்தனர் -
+கோயில்கட்ட - ஜெருசலம் நகரைப் புதுப்பித்து அழகுப்படுத்த.
+
+ஜெருசலம், பல ஆண்டுகள், எகிப்து அரசிடம் -இருந்
+திருக்கிறது.
+
+பெர்ஷியா ராஜ்யத்தில் ஒருபகுதியாகப் பலகாலம், பலஸ்தீன்
+இருந்திருக்கிறது.
+
+## Image 7: 007-696073c4f4.png
+
+- Image: `katturaigal/islama_isrela/007-696073c4f4.png`
+
+வரலாற்றிலே, பார்த்தால், பலஸ்தீன், பலமுறை நைந்திருக்
+கிறது, பலமுறை ஜொலித்திருக்கிறது, படுகளமாகப் பலமுறை
+இருந்திருக்கிறது.
+
+ஏசு, இரத்தம் சிந்தினார், ஜெருசலத்தில் ! - மக்களின்
+இரத்தம், அதற்கு முன்பும் இன்றுங்கூடப் பலஸ்தீனில், கொட்டப்
+பட்ட வண்ணம் இருக்கிறது. இரத்த அபிஷேகம் பெற்றுக்கொண்டு
+வரும், இந்த ஜெருசலம், அதை அடுத்துள்ள அரசுகளை
+மட்டுமல்ல, ஐரோப்பா முழுவதையும் ஆட்டிப் படைத்திருக்கிறது.
+
+புனிதப் போர்! சிலுவை யுத்தம் ! என்று கூறப்டும், போர்,
+ஐரோப்பிய நாடுகளுக்குப் பெரும் பாரமாக இருந்தது.
+
+ஏசுவின் நாட்களுக்குப் பிறகு, ஜெருசலம் கிருஸ்துவ
+மார்க்கத்தவருக்குப் புனிதபுரியாகி விட்டது. ஐரோப்பாவிலே
+கிருஸ்தவ மார்க்கம் பரவிவிட்டது. எனவே, ஜெருசலத்தின்மீது
+ஐரோப்பாவுக்கு ஒரு பற்றும் பாசமும், இயற்கையாகவே ஏற்பட்டது.
+ஜெருசலத்தைக் காப்பாற்றுவது என்றால், தங்கள் மார்க்கத்தைக்
+காப்பாற்றுவது என்று பொருள் கொண்டனர். எனவேதான் மூன்று
+நூற்றாண்டுகள், புனிதப்போர் நடத்தினர் கிருஸ்தவர்கள்,
+
+ஜெர்மனி, பிரான்ஸ், பிரிட்டன், ஹங்கேரி - பல
+வல்லரசுகள், இந்தப் புனிதப் போரிலே பங்கு எடுத்துக் கொண்டன.
+எட்டுமுறை, புனிதப்போர்! படை எடுப்புகள் ! ஐரோப்பாவிலிருந்து
+பலஸ்தீனுக்கு !!
+
+பலஸ்தீனில், பிறைக்கொடி ! பலஸ்தீனில், ஜெருசலம்!!!
+ஜெருசலத்தில் ஏசுவின் புதைகுழி !! இந்த நிலைமை, போரை
+மூட்டிவிடப் போதுமானதாக இருந்தது; இதனுடன், ஜெருசலத்
+
+## Image 8: 008-ae25b644a4.png
+
+- Image: `katturaigal/islama_isrela/008-ae25b644a4.png`
+
+திற்குப் புண்யகாரியமாகச் செல்லும் கிருஸ்தவர், கொடுமைப்
+படுத்தப்படுகிறார்கள் என்ற செய்தி கலந்து கொண்டது - கடும்
+புயல் கிளம்பிற்று, கிருஸ்தவரின் உள்ளங்களில் ! சிலுவைக்கு
+ஆபத்து! என்ற. முழக்கம் கோழைகளையும் ஷீராக்கும் அளவுக்கு,
+ஐரோப்பாவில் பரவிற்று - உணர்ச்சி ஊட்டிற்று. அப்போது
+பலஸ்தீன், எகிப்து நாட்டிலே ஒருபகுதி !
+
+பலஸ்தீனை விடுவிக்க வேண்டும் - ஜெருசலத்தைப்
+
+பாதுகாக்க வேண்டும் - புனிதபுரி பிறைக்கொடியினரின்
+ஆதிக்கத்தில் இருக்கக்கூடாது.
+
+இது போர் முழக்கம். மதத்துக்கு ஆபத்து என்ற முழக்கம்,
+மன்னர்களையும் மக்களையும் ஏககாலத்தில் தட்டி எழுப்பிற்று.
+ஒவ்வொருவரும் தமது சொந்தக்காரியம் என்று கருதித்துடித்து
+எழுந்தனர்.
+
+1099-ஆம் ஆண்டு, பீடர் எனும் கிருஸ்தவத்துறவி,
+ஜெருசலம் சென்று வந்தார். புனிதபுரியிலே, கிருஸ்தவ மக்கள்
+சொல்லொணாக் கொடுமைக்காளாகி வதைகிறார்கள் என்பதை,
+அவர் ஐரோப்பாவில் பல்வேறு இடங்களிலே, எடுத்துரைத்து,
+ஆண்மையாளர்கள் இந்த அக்ரமத்தை ஒழித்தாக வேண்டும் -
+சிலுவையின் மாண்பு பாதுகாக்கப்பட வேண்டும் என்று கூறினார்.
+அவரும் அவர் போன்றாரும், ஆவேசமூட்டக்கூடிய விதத்திலே,
+பேசினதன் விளைவாக, -ஐரோப்பா கண்டமே போர்க்கோலம்
+பூண்டெழுந்தது.
+
+முதல் புனிதப்போர் 1096ல் துவங்கிற்று. பல்லாயிரக்கணக்
+கான கிருஸ்தவர்கள் கிளம்பினர் - பயிற்சி - படைக்குரிய
+
+## Image 9: 009-15070b8fdb.png
+
+- Image: `katturaigal/islama_isrela/009-15070b8fdb.png`
+
+இலட்சணம் - இவைகளுமின்றிக் கிளம்பி, பாதி வழிபோவதற்குள்,
+இந்தப் பெருங்கூட்டம் பாழ்பட்டது. பிறகு, காட்ப்ரி என்பவரின்
+தலைமையில், கட்டுப்பாடான முறையில் 80 ஆயிரம் பேர்
+கிளம்பினர். பல நாடுகளைக் கடந்து, பல் போர்களை நடத்தி
+வென்று, இந்தப் பெரும்படை, மூன்றாண்டுகளுக்குப் பிறகு,
+ஜெருசலத்தின் எல்லைக்கு வந்து சேர்ந்தது, கிளம்பும்போது 80
+ஆயிரம் பேர்! ஜெருசலத்தின் எல்லையை அடைந்தபோது,
+எண்ணிக்கை, இருபதினாயிரம் ! அறுபதினாயிரம் பேர், உயிரைக்
+கொடுத்தனர், புனிதபுரியின் எல்லையைக் காணுமுன்பே.
+
+1099-ம் ஆண்டு ஜுன் மாதம், ஜெருசலத்தை
+முற்றுகையிட்டனர் - அதை ஜுலை 15-ந் தேதி பிடித்தனர்.
+
+கிருஸ்தவ உலகம் களித்தது; மாதா கோயில்களிலே மணி
+ஒசை கிளம்பிற்று; மகிழ்ச்சி பூத்தது; காட்ப்ரி, ஜெருசலத்தின்
+மன்னனாக்கப்பட்டான். அடுத்த ஆண்டு அவன் இறந்தான்.
+
+ஜெருசலத்தின் கதி மீண்டும் இருள் கொடுக்கலாயிற்று.
+: எகிப்தின் பிடியில் மீண்டும் ஜெருசலம் சிக்கிற்று. இரண்டாம்
+புனிதப் போர், தேவையாகிவிட்டது.
+
+ஜெர்மன் சக்ரவர்த்தியும், பிரஞ்சுப் பேரரசரும் படை
+திரட்டினர் - பயன் காணவில்லை - 1149ல் அவர்கள், வெற்றி
+காணாமலேயே, வீடு திரும்பினர். மூன்றாம் புனிதப் போர்
+மூண்டது.
+
+இதேபோது, எகிப்து நாட்டுக்கு ஒரு இணையற்ற வீரன்
+மன்னனானான். மாற்றார் கண்டு அஞ்சக்கூடியவனாக மட்டுமல்ல,
+மதிக்கக்கூடியவனாகவும், மாவீரனாக மட்டுமல்ல, மதிவாணனாக
+
+## Image 10: 010-ea7f236f3b.png
+
+- Image: `katturaigal/islama_isrela/010-ea7f236f3b.png`
+
+வும், இருந்தான். சாலாவுடீன் எனும், அந்த மன்னனுடைய
+ஆற்றலைச் சமாளிக்க வேண்டி பெரும் பொறுப்பை, ஜெர்மனி,
+பிரான்சு, பிரிட்டன், ஆகிய மூன்று நாட்டுப் பேரரசர்கள் மேற்
+கொண்டனர். ஏராளமான படை பலம்! வீரர் வட்டம்! சாலாவுடீனைத்
+தோற்கடிக்கும் பேறு, பிரிட்டிஷ் மன்னன் ரிச்சார்டுக்குக்
+கிடைத்தது. சாலாவுடீன் தோற்றான் - ஆனால் போர் நின்று
+விடவில்லை; ஜெருசலமும் மீட்கப்படவில்லை. அதற்காகக் கடும்
+போர் நடந்தது; ரிச்சார்டு பன்முறை முயன்றும், ஜெருசலம் பிடிபட
+வில்லை. பிறகு, ரிச்சார்டு, சமாதானப் பேச்சைத் துவக்கினான்.
+1192ம் ஆண்டு செப்டம்பர் இரண்டாந் தேதி, சமாதானம் ஏற்பட்டது
+- தற்காலிக உடன்பாடு - மூன்று வருஷம் மூன்று மாதத்துக்கு
+மட்டுமே அமுலிலிருக்கும் விதமான சமாதானம் ! இதன்படி,
+கிருஸ்தவர்கள், ஜெருசலத்துக்கு யாத்திரை வரலாம் என்று
+சாலாவுடீன் அவர்களுக்கு உரிமை அளித்தான்.
+
+நான்காம் முறையாகப் புனிதப் போர் 1202ல்
+ஆரம்பமாயிற்று வெனீஸ் நகரில் கூடினர். போர்க்கோலத்துடன்
+- படை கிளம்பிற்று, கான்ஸ்டான்ட்டி நோபில் நகரைத் தாக்கித்
+தகர்த்து, அந்தப் பகுதியிலே, சில இடங்களைப் பிடித்தது மட்டுமே,
+கண்ட பலன். ஜெருசலம் பிறைக்கொடியாரிடமே இருந்தது.
+
+1217ல் நடைபெற்ற ஐந்தாம் புனிதப்போருக்குத் தளபதியாக
+ஒரு ஹங்கேரிய வீரன் கிளம்பினான் - நைல் நதி தீரத்தில் சில
+இடங்களைப் பிடித்ததோடு அவன் ஆற்றல் முடிந்தது. ஜெருசலம்
+விடுவிக்கப்படவில்லை.
+
+ஆறாம் புனிதப்போரை முன்னின்று நடத்தினார், ஜெர்மன்
+சக்ரவர்த்தி, அவர் போர் புரியாமலேயே சமாதானம் பேசி,
+
+## Image 11: 011-c51132606b.png
+
+- Image: `katturaigal/islama_isrela/011-c51132606b.png`
+
+பத்தாண்டுகளுக்கு ஒரு உடன்படிக்கை ஏற்படுத்திவிட்டு, வீடு
+திரும்பினார்
+
+பிரமாதமான ஏற்பாட்டுடன் கிளம்பினான் ஒன்பதாம் லூயி
+மன்னன், ஏழாம் புனிதப்போர் நடத்த இந்த பிரான்சுப்பேரரசன்,
+எகிப்து நாட்டிலே இஸ்லாமியரின் ஆதிக்கம்' இனி என்றென்றும்
+இருக்க முடியாதபடி செய்துவிடுகிறேன் என்று சூளுரைத்துச்
+சென்றான். போரிலே தோல்வியே கண்டான். அதற்கு முன்பு
+நடைபெற்ற புனிதப் போரிலே, பெற்ற, இடங்களையும் இழந்து
+விட்டுத் திரும்பிவந்து சேர்ந்தான், 1254ல்.
+
+எட்டாம் முறையும், லூயியே சென்றான் - பலன் இல்லை.
+புனிதப் போர்கள், இதுபோல, எட்டுமுறை நடைபெற்றதும்,
+ஜெருசலம் கிட்டவில், பிறகு பத்தொன்பதாண்டுகள், சிறுசிறு
+பிரிவினர், ஏதோதோ. வகையான முயற்சிகள் செய்து பார்த்தனர்,
+ஜெருசலம் கிடைக்கவில்லை. 1291ல் (ஈஜிப்ட்) எகிப்து சுல்தான்
+கிருஸ்தவரிடம். இருந்த ஏகர் எனும் கடைசி இடத்தையும்
+கைப்பற்றி விடவே, பலஸ்தீன் பகுதியில், கிருஸ்தவ அரசு
+அமைக்கும் முயற்சி அடியோடு குலைந்தது.
+
+1917ல் நடைபெற்ற ஜெர்மன் சண்டையின்போது, ஜெருசலம்,
+பிரிட்டிஷாரால் பிடிக்கப்பட்டது. அது முதல் மே மாதம் 15ந் தேதி
+வரையில் பலஸ்தீன், பிரிட்டிஷ் மேற்பார்வைக்குரிய ஆட்சியின்கீழ்
+இருந்து வந்தது. அந்த ஆட்சிக்காகக் குறித்திருந்த காலம் முடிந்து,
+பிரிட்டிஷார் வெளியேறியதும், புனிதப் போர்களின்போது இருந்த
+முழக்கம்போல், சிலுவையா, பிறையா என்பதல்ல இஸ்ரேலா?
+இஸ்லாமா? என்பது போர்முழக்கமாகி விட்டது.
+
+## Image 12: 012-774474e0a7.png
+
+- Image: `katturaigal/islama_isrela/012-774474e0a7.png`
+
+புனிதப் போர்களுக்குப் பிறகு, ஐரோப்பிய நாட்டுக்
+கிருஸ்தவர்கள், ஜெருசலத்தின்மீது கொண்டிருந்த நாட்டத்தை
+விட்டுவிட்டனர்; ஆனால், யூதர்கள், தங்கள் மனதிலிருந்து
+ஜெருசலத்தை அகற்றிவிடவில்லை ! அவர்கள், உலகிலே, எங்கே
+சுற்றிக்கொண்டிருந்தாலும், என்ன தொழிலைச் செய்து
+கொண்டிருந்தாலும், செல்வத்தில் புரண்டாலும் வறுமையில்
+வாடினாலும், அவர்களின் வாழ்க்கையின் குறிக்கோளாக,
+ஜெருசலத்தைத் திரும்பப் பெறுவது - பலஸ்தீனை,
+_. யூதராஜ்யமாக்குவது, இஸ்ரேல் அரசு அமைப்பது என்பதுதான்.
+
+யூதர்களின் வட்டித் தொழில், அவர்களைப் பிறர்
+வெறுக்கும்படி செய்தது, பலநாடுகளில், யூதர்களை, விரட்டவும்
+விலக்கவும் சட்டங்கள் இயற்றப்பட்டன. பல நகர்களில், யூதர்கள்
+வசிக்கும் பகுதிகள், தனிப்பெயரிடப்பட்டு, இழிவிடமாகக் கருதப்
+பட்டது. உலகத்திலே, பலநாடுகளிலே இவ்வித வெறுப்புணர்ச்சி
+கிளம்பித் தாக்கிய காலத்திலும், யூதர்கள் தங்கள் மனதிலே,
+இஸ்ரேல் அரசை அமைத்துக்கொண்டு வந்தனர். பலஸ்தீன்,
+தங்களுடையது - எகிப்துப் பேரரசின் ஒரு பகுதி என்ற எண்ணம்,
+அரபுகளுக்கு அசைக்கமுடியாதபடி ஏற்பட்டு விட்டது. யூதர்களின்
+மனோராஜ்யத்தைப்பற்றி, அரபுகள், பெரும்பாலானவர்கள்
+கேலியாகவே பேசினர் - யூகமுள்ள சிலர் மட்டும், இது ஒர்
+எதிர்கால ஆபத்து என்று எடுத்துரைத்தனர்.
+
+அடிக்கடி: பலஸ்தீனில், யூத-அரேபிய சச்சரவுகள்
+நடைபெறலாயின.
+
+மெள்ளபெள்ள யூதர்கள், பலஸ்தீன் எமது பூர்வீகநாடு !
+எமக்கே அது சொந்தமாக வேண்டும் ! எமது ஆட்சியே அங்கு
+
+## Image 13: 013-e0dbecab2a.png
+
+- Image: `katturaigal/islama_isrela/013-e0dbecab2a.png`
+
+இருக்க வேண்டும் என்று பேசவும், கிளர்ச்சி செய்யவுமாயினர்,
+இது, நாளாவட்டத்தில் ஒரு இயக்கமாகவே உருவமெடுத்தது -
+ஜியானிஸ்ட்டு இயக்கம் என்பது அதன் பெயர்.
+
+இதை, வெளிப்படையாகத் தூண்டிவிடும் முறையிலேயே,
+பிரிட்டிஷார் நடந்து கொண்டனர்.
+
+ஜெருசலத்தைப் பிடித்தபிறகு, 1917ல் பிரிட்டிஷ் சர்க்காரின்
+சார்பில், பால்பர் பேசுகையில், பலஸ்தீனில், யூதர்களைக் குடியேறச்
+செய்து, அந்த நாட்டை, யூதர்களின் தாயகமாக்குவது, பிரிட்டிஷ்
+நோக்கம் என்று கூறினார். ஜியானிஸ்டு இயக்கம் இதன் பயனாய்,
+புதிய நம்பிக்கையும் எழுச்சியும் பெற்றது. சர்வதேச சங்கத்தார்,
+ஜெர்மன் சண்டை முடிந்தபிறகு, பலஸ்தீனை, ஒரு ஒழுங்குமுறை
+ஏற்படும்வரை ஆட்சி செய்துவரும்படி, பிரிட்டனுக்கு அதிகாரம்
+அளித்தனர். பிரிட்டிஷார் அந்த அதிகாரத்தைத் தவறான
+காரியத்துக்குப் பயன்படுத்தினர் - பலஸ்தீனை யூதரின்
+தாயகமாக்குவோம் என்று கூறியதன் மூலம் 1918-ல்,
+யூதர்களுக்கு, ஜெருசலத்தில் ஒரு கல்லூரி ஏற்படுத்தினர்.
+உலகின் பல பகுதிகளில் இருந்துவந்த யூதர்கள், அந்தந்த
+நாடுகளில், தங்களுக்கிருந்த செல்வாக்கைப் பயன்படுத்தி,
+யூதராஜ்யத்தின், அவசியத்தை வலியுறுத்தினார்.
+
+ஹிட்லரின் யூத ஒழிப்புத் திட்டத்தினால், உலக
+நற்கனவான்களின் அன்பும் ஆதரவும் யூதர்பக்கம் திரும்பிற்று.
+ஒரு பெரிய இனம் - பலப்பல நூற்றாண்டுகளாகப் பலவகையான
+கொடுமைகளைத் தாங்கிவரும் கூட்டம் - அதற்கென ஒர்
+தனிநாடு இல்லாமல் தவிப்பது கூடாது - ஆகவே, பலஸ்தீனை,
+
+## Image 14: 014-23c7013b10.png
+
+- Image: `katturaigal/islama_isrela/014-23c7013b10.png`
+
+யூதர்களின் தாயகமாக்கத்தான் வேண்டும் என்ற. பிரச்சாரம்
+பலப்பட்டது.
+
+இன்று, நெடுங்காலமாக இருந்து வந்த யூதர்களின்
+மனோராஜ்யம், நிஜமாகவே உருவெடுத்து இஸ்ரேல் ராஜ்யம் என்று
+அமைக்கப்பட்டு விட்டது. அமெரிக்காவும் ரஷியாவும் அதனை
+அங்கீகரித்து விட்டன.
+
+சிலுவையா? பிறையா? என்ற பிரச்னை மாறி, இன்று,
+அங்கு இஸ்லாமிய ராஜ்யமா? இஸ்ரேல் ராஜ்யமா? என்பது
+பிரச்னையாகி விட்டது.
+
+ஜெருசலம் இப்போது யூதர்களிடம் இருக்கிறது. அதன்மீது,
+எகிப்துநாட்டு விமானங்கள் வட்டமிடுகின்றன. இந்தச் சண்டை
+உலகப் பெரும் போராக வளர்ந்து விடாதபடி பார்த்துக் கொள்ள
+வேண்டுமே என்ற கவலை, பல வட்டாரங்களிலே ஏற்பட்டுவிட்டது,
+பலஸ்தீனில் போர்! மூன்று நூற்றாண்டுகள், ஐரோப்பிய நாட்டவர்
+இரத்தம் கொட்டிக் கொட்டிப் பெறமுடியாமல் போய்விட்ட,
+ஜெருசலம், இனி. யாருக்குச் சொந்தம், யூதருக்கா?
+அராபியருக்கா? என்பதைத் தீர்மானிக்கப் போர் மூண்டுவிட்டது,
+சமாதான தூதரின் சமாதி உள்ள புனிதபுரியிலே, சுமார் உலகின்
+நானாபாகங்களிலும், “நாடோடிகள் போல் சுற்றித்திரிந்த யூதர்கள்,
+இஸ்ரேல் ராஜ்யம் அமைத்து விட்டோம் என்று பெருமையுடன்
+கூறிக்கொண்டுள்ளனர். டிரான்ஸ்ஜோர்டன், ஈராக், சிரியா,
+லெபனான், எகிப்து ஆகிய நாட்டுப்படைகள் யூத அரசை
+எதிர்க்கின்றன. இந்தப் போரைத் .தடுக்க, வல்லரசுகளும், ராஜ
+தந்திரிகளும், ஐக்யநாடுகள் சபையும், பல்வேறு திட்டங்களைக்
+கொடுத்தனர் - பலன் ஏற்படவில்லை. பலஸ்தீனை பூதர் பகுதி
+
+## Image 15: 015-15ad509c59.png
+
+- Image: `katturaigal/islama_isrela/015-15ad509c59.png`
+
+- அரபு பகுதி என்று பிரித்து விடலாமே என்று 1936ல் பிரிட்டிஷார்
+ஒரு திட்டம் கூறினர் - ஏற்றுக் கொள்ளவில்லை எவரும் ! எனவே
+போர். இந்தப்போர் உலகப்போராக மூண்டுவிடக்கூடாதே
+என்பதற்காக, மீண்டும் ஏதேனும் சமரச முயற்சி செய்து
+பார்க்கலாம் என்று நாலுவார காலத்துக்குச் சண்டையை நிறுத்தி
+வைக்கும்படி, இருதரப்பினரையும், ஐக்யநாடுகள் சபை கேட்டுக்
+கொண்டது. இணங்கினர். ஆனால் போர்க்கோலம்
+கலையவில்லை. பலஸ்தீன் இதுவரையில் வாங்கிய பலி
+போதாதென்று, மீண்டும் “பலி' கேட்கிறது! மீண்டும் இரத்த .
+அபிஷேகம் நடக்கிறது. பலஸ்தீனில் ! ஆனால் அங்கு இருப்பதோ,
+உலகில் சமாதானத்தை நிலைநாட்டவந்த உத்தமர் ஏசுவின்
+சிலுவை !!
+
+(6. 6.48 திராவிட நாடு இதழில் வெளி வந்தது:
+
+## English Translation
+
+## The Palestine Question
+
+The Jewish realm of imagination has taken form! A flood of blood upon the “pilgrimage route”!
+
+“You call yourselves kings and great warriors and live here in comfort, while the honour of your co-religionists is being lost there! The mother sweeps the street while her son rides in a chariot. Here lies wealth; there, religion, wealth greater than all riches, is being plundered by brutes. Here stand mansions crowned with golden finials; there the tomb of our Lord, caught in alien hands, falls into ruin. Here you gather in immense churches to sing the glory of the Supreme; there your people are chased through every street.
+
+“The Cross is in danger and disgrace! The people of the crescent insult it, call the noble one who died upon it a madman, revile as evil and demonic those who follow the sacred path laid down by the Son of God, and beat and drive them away. Yet you live here to trumpet blasts proclaiming you lords! Are there no pure-hearted heroes here to aid those unfortunate people? None noble enough to sacrifice life for religion? None brave enough to die for the Cross? Do people here know only how to rule towns, eat richly and wallow in pleasure, but not how to labour for truth? The followers of Jesus suffer there. Do not sleep; spring up! The Lord's tomb, that holy ground, is becoming the playground of rulers of another faith. Awake, heroes! Rise with valour and recover the holy city Jerusalem from base hands. Jerusalem is a jewel of the faith and must be regained if the world is not to scorn us, if we care for honour, and if we are to prove ourselves human beings rather than human cattle.
+
+“Brothers, people of one faith! I speak with a wounded heart. None who sees our people suffering there can avoid dying of shame and trembling. ‘Call your whole crowd here!’ the others crow. You praise the Cross, they mock, but your people value their life of luxury above it, and so not even their little fingers move. I told them you were neither powerless lumps of flesh, cowards who flee for fear of life, wretches who surrender manliness for pleasure, nor weaklings unable to fight. They clapped and laughed, challenging me to bring you. I said you would charge like lions to defend the Cross; they laughed. I said our people had swords and mighty shoulders; they pointed to their own feet in contempt.
+
+“What unbearable humiliation! Break the Cross yourselves and cast it away. Why should cowards who cannot curb an enemy's arrogance possess it? He shed blood for you, yet you hesitate to shed blood for him while boasting that you follow his faith. Where are your courage, sword, honour and righteous anger? Your religion is being ruined in alien hands; the Mother's honour is being lost. Sons, arise! The hand that bears the sceptre, drives the plough, holds the scales, handles wealth, plays upon a beloved's cheek and embraces her must now take up the sword, if all those things and the honour above them are to endure. I ask not for superhuman warriors, but for human beings!”
+
+At the end of the eleventh century, Christian priests spoke with such passion in royal courts, churches and popular assemblies across Europe, crying that the Cross and the faith were in danger. Their speeches made emotion rise like a storm and spread from town to town. The danger to the Cross became the talk of every household and country. Not only soldiers, but the very old and women from the hearth were seized by it. The message spread through Europe like wildfire.
+
+Jerusalem, the holy city of Palestine, was revered by Christians because they believed the tomb of Jesus stood there. The devout considered it meritorious to visit at least once and see the places associated with his last days: the Last Supper, his wanderings, burial and resurrection. Thus Christians called Jerusalem supremely sacred and travelled there in crowds.
+
+Jews likewise regarded it as holy. They had temples there even before Jesus, when Jewish life flourished. Yet through many centuries this holy city of Christians and Jews was repeatedly invaded and devastated. Jews established kingdoms there, split into factions, divided their state and fought one another. Under Solomon the Jewish kingdom attained great fame.
+
+Moses, honoured as teacher and prophet, first undertook the great task of establishing a Jewish kingdom in Palestine. At his command, hundreds of thousands crossed countries, plains, forests and mountains seeking a new state, but lost him before reaching Palestine. His brother later founded the kingdom, which repeatedly collapsed and shone again.
+
+Palestine has a long history of passing among empires. Rome once captured it, razed Jerusalem, erased its name, renamed it Aelia Capitolina and decreed death for any Jew entering the city. Such disasters repeatedly befell the Jews, though changing circumstances also repeatedly restored some of their former position.
+
+Later a Roman empress built a beautiful church in the Jerusalem Rome had destroyed and made it a holy city. After Jesus had lived and died there, and the Roman empress embraced Christianity, sculptors came from the same Rome whose armies had demolished Jerusalem to rebuild and adorn it. Jerusalem was for many years under Egypt, and Palestine was also long part of Persia. History shows Palestine repeatedly ruined and restored, and repeatedly made a battlefield.
+
+Jesus shed blood in Jerusalem, and blood had flowed there before him and continues to flow today. This city, continually receiving an anointing of blood, has shaken not merely neighbouring kingdoms but all Europe.
+
+The “Holy War,” or Crusade, became an immense burden upon European countries. Once Christianity spread across Europe, attachment to Jerusalem arose naturally. Europeans came to equate defending Jerusalem with defending their religion and waged holy wars for three centuries. Germany, France, Britain, Hungary and other powers participated in eight expeditions from Europe to Palestine.
+
+The crescent flew over Palestine and Jerusalem, where Jesus's tomb stood. Reports that Christian pilgrims were being persecuted added to this situation and raised a fierce storm in Christian hearts. The cry “The Cross is in danger!” spread so powerfully that it could make heroes of cowards. Palestine was then part of Egypt.
+
+“Liberate Palestine, protect Jerusalem, and do not leave the holy city under the crescent”: this religious war cry roused rulers and people together, each treating it as a personal cause.
+
+In 1099, the Christian monk Peter returned from Jerusalem and travelled through Europe describing the unspeakable suffering of Christians there. He called upon courageous men to end the injustice and defend the dignity of the Cross. The impassioned speeches of him and others put the whole continent on a war footing.
+
+The First Crusade began in 1096. A vast, untrained and undisciplined multitude set out and perished before completing half the journey. Later a disciplined force of 80,000 led by Godfrey crossed many countries and fought many battles. After three years it reached Jerusalem with only 20,000; sixty thousand had died before seeing the holy city's boundary. The survivors besieged Jerusalem in June 1099 and captured it on 15 July. Christendom rejoiced, church bells rang, and Godfrey became Jerusalem's ruler, only to die the following year.
+
+Jerusalem's fate darkened again and it returned to Egypt's grasp. The German emperor and French king mustered forces for the Second Crusade but returned without victory in 1149. Then came the Third.
+
+At that time Egypt had an incomparable ruler, Saladin, feared by enemies but also respected as both warrior and man of wisdom. The emperors of Germany, France and Britain assumed the immense task of confronting him. The British king Richard defeated Saladin, but neither the fighting ceased nor Jerusalem fell. After repeated unsuccessful attempts Richard opened peace negotiations. On 2 September 1192 they reached a temporary settlement lasting three years and three months, under which Saladin permitted Christian pilgrimage to Jerusalem.
+
+The Fourth Crusade began in 1202. Its army assembled at Venice, attacked and devastated Constantinople and seized a few places nearby, but Jerusalem remained with the people of the crescent. In the Fifth Crusade of 1217 a Hungarian commander captured only a few places along the Nile; Jerusalem was not liberated. The German emperor led the Sixth, negotiated rather than fought, made a ten-year agreement and returned home.
+
+Louis IX of France launched the Seventh with elaborate preparations, vowing to end Islamic authority in Egypt forever. He was defeated and returned in 1254 after losing even territory gained earlier. Louis went again for the Eighth, also without result. After these eight Crusades failed to secure Jerusalem, small groups tried various expeditions for another nineteen years. In 1291 the Egyptian sultan captured Acre, the last Christian possession, and the effort to establish a Christian state in Palestine collapsed completely.
+
+During the First World War in 1917 Britain captured Jerusalem. Palestine remained under British mandatory rule until 15 May, when that mandate ended and Britain withdrew. The war cry was no longer “Cross or crescent?” as during the Crusades, but “Israel or Islam?”
+
+After the Crusades, European Christians abandoned their fixation upon Jerusalem. Jews did not remove it from their hearts. Wherever they wandered, whatever work they performed, whether rich or poor, their life's aim remained to recover Jerusalem, turn Palestine into a Jewish country and establish Israel.
+
+Jewish moneylending caused hostility toward them. Many countries enacted laws to expel or exclude Jews, and their quarters in many cities received separate names and were regarded as degraded places. Even while such hatred assailed them across the world, Jews continued constructing Israel in their imagination. Arabs, meanwhile, held an unshakable conviction that Palestine was theirs and part of the Arab realm. Most mocked the Jewish dream, though a perceptive few warned that it posed a future danger. Jewish-Arab clashes increasingly occurred in Palestine.
+
+Gradually Jews proclaimed that Palestine was their ancestral country, must belong to them and must be governed by them. The agitation became the Zionist movement. British conduct openly encouraged it.
+
+After capturing Jerusalem, the British government declared through Balfour in 1917 that it intended to settle Jews in Palestine and make it their homeland. Zionism gained new faith and vigour. After the German war, the League of Nations authorised Britain to administer Palestine until an orderly settlement was made. Britain misused that authority. Having promised a Jewish homeland, it established a college for Jews in Jerusalem in 1918. Jews throughout the world used their influence in their respective countries to emphasise the necessity of a Jewish state.
+
+Hitler's programme of exterminating Jews turned the sympathy and support of decent people everywhere toward them. The campaign grew that a great people, which had endured many forms of cruelty for centuries, should not suffer without a country and that Palestine must therefore become the Jewish homeland.
+
+Today that long-standing Jewish dream has taken physical form as the state of Israel. America and Russia have recognised it. The question “Cross or crescent?” has changed into “Islamic state or Israeli state?”
+
+Jerusalem is now in Jewish hands, while Egyptian aircraft circle above it. Many quarters fear that this conflict may grow into another world war. War rages in Palestine. Jerusalem, which Europeans could not secure despite shedding blood for three centuries, has again become the object of battle: will it belong to Jews or Arabs? Jews who wandered like nomads throughout the world proudly proclaim their state of Israel. The armies of Transjordan, Iraq, Syria, Lebanon and Egypt oppose it. Great powers, diplomats and the United Nations have offered schemes to stop the war, without success.
+
+Britain proposed in 1936 that Palestine be partitioned into Jewish and Arab areas, but neither side accepted it. Thus came war. Hoping it would not ignite a world war, the United Nations asked both sides to suspend hostilities for four weeks while another settlement was attempted. They agreed, but the battle formation did not dissolve. As though the sacrifices Palestine has already taken were insufficient, it asks for sacrifice again. Once more blood is poured in an anointing upon Palestine, where stands the Cross of Jesus, the noble messenger who came to establish peace in the world.
+
+Published in *Dravida Nadu*, 6 June 1948.
+
+## Translator's Notes
+
+The Tamil OCR source is retained verbatim. The source title itself reads “இஸ்டரேலா,” an apparent OCR or period-spelling form of “இஸ்ரேலா”; it has not been silently changed. The article reflects its author's terminology, historical understanding, and political moment in June 1948. The English translation preserves that perspective without endorsing its characterisations. Several historical forms are rendered by their commonly recognised English names, including Aelia Capitolina, Godfrey, Saladin, Richard, Louis IX, Acre, Balfour and the League of Nations. The source's dates and factual claims are translated as printed and have not been independently corrected.

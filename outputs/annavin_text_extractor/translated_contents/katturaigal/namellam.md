@@ -1,0 +1,574 @@
+# "நாம் எல்லாம் ஒரே குடும்பம்!" / “We Are All One Family!”
+
+**Tamil title:** "நாம் எல்லாம் ஒரே குடும்பம்!"  
+**English title:** “We Are All One Family!”  
+**Source file:** `katturaigal/namellam.md`
+
+## Source Tamil (verbatim)
+
+- Source image folder: `/Users/pugazhendhirajendran/Documents/Codex/2026-07-09/https-www-annavinpadaippugal-info/outputs/annavin_text_extractor/ocr_images/katturaigal/namellam`
+- OCR language: `tam`
+- Tesseract page segmentation mode: `3`
+- OCR cleanup: `enabled`
+
+## Image 1: 001-6bd8d91bfc.png
+
+- Image: `katturaigal/namellam/001-6bd8d91bfc.png`
+
+47. "தாம் எல்லாம் ஒரே குடும்.பம்7/””
+
+கோரமான புயல் - சில நிமிடங்கள்தான். ஆனால், அந்தச் சிங்காரச்
+சிறுநகர் சிதைந்தது - வீழ்ந்தது.
+
+'ஐயோ!' என்று அலறவில்லை. 'என்ன செய்வோம்' என்ற கூக்குரல்
+எழும்பவில்லை. 'என்ன பாடுபட்டோம் இதை நிர்மாணிக்க' என்ற
+பெருமூச்சு அங்கே எழும்பவில்லை.
+
+பல்லாயிரக் கணக்கான மக்கள், பாதியளவு பெண்கள் - எனினும்
+இங்குமங்கும் ஓடவில்லை. திகைக்கவில்லை. பதறவில்லை!
+
+புயலைத் தொடர்ந்து - ஒரு கடுமழை. அதுவும் சிறிது நேரந்தான்
+எனினும் அங்கிருந்த புத்தகக் கடைகளை, சிற்றுண்டிக்கடைகளையெல்லாம்
+'குளம்' ஆக்கிச் சென்றது.
+
+மழையிலே, மக்கள்! அவர்களின் நடுவிலே, கருப்பு பாதியும் சிவப்பு
+பாதியுமான அடையாள உடை அணிந்த தொண்டர்கள் 'மெதுவாக
+வெளியேறுங்கள் - கவலை வேண்டாம். வெளியேறுங்கள்' என்ற
+கூவியவாறே, பம்பரம் போல் சுழன்ற கொண்டிருந்தனர்.
+
+"என்ன பாடுபட்டோம் தெரியுமா? இவ்வளவு பெரிய பந்தல்
+அமைக்க. பிற மாநாட்டுப் பந்தல் அளவை விடப் பெரிது, இது. ஆனாலும்,
+போதுமோ கூட்டம் அதிகமாகி அல்லல் வருமோ, என்றெல்லாம்
+அஞ்சினோம். அதைப் போலவே காலையில் நான் கண்டிராத அளவு மக்கள்
+வந்தனர் - குடும்பத்தோடு, குழந்தைகளோடு. ஆனால், நாங்கள் எதிர்
+பார்த்தது போல மக்களைக் கட்டுப்படுத்த சிரமம் ஏற்படவில்லை
+
+## Image 2: 002-64193d799b.png
+
+- Image: `katturaigal/namellam/002-64193d799b.png`
+
+எங்களுக்கு. அவ்வளவு அமைதியைக் கண்டேன்! பூரித்துப் போனேன்!!
+பந்தல் அலங்காரங்கள், எங்கும் கண்டிராத புதுவித மேடை அமைப்பு, மாட
+மாளிகையின் வாயிலோ என்று பிறர் கூறுமளவுக்குப் போட்டிருந்த பந்தல்
+முகப்பு, அங்கே, மேகங்களுக்கிடையே வெண்ணிலா போல, நாங்கள்
+நிர்மாணித்திருந்த வெள்ளுடை வேந்தன் தியாகராயர் திருஉருவம்...
+சின்னஞ் கிறுநகர் போலிருந்ததே, சிறிது நேரத்துக்கு மூன்பு! இப்போது
+
+சின்னா பின்னமாகி விட்டதே.'' என்று கூறவில்லை, சேலம் மாநாட்டுச்
+செயலாளர் தோழர் எ.சித்தையன். 'ஓடுங்கள்! புதுமூங்கில்கள் வரட்டும்.
+தொண்டர்களே திரளுங்கள் - என்ன? மின்சார பல்புகள் நாசமாகி
+விட்டனவா, சரி. ஊம்... நடக்கட்டும்' என்று, இங்குமங்கும், ஓடிக் கொண்டி
+ருந்தார், விலாவிலே அம்புபட்ட புலிபோல. ''இன்னும் கொஞ்சநேரத்தில்
+பாருங்கள், இதே இடம். அதே பந்தல். ஆகிறதா இல்லையா என்று! -
+பெருமூச்சோடு ஆனால் வீரத்தோடு சொன்னார், வரவேற்புக் குழுத்தலைவர்
+
+இதோ, வந்துவிட்டேன். என்ன செய்யவேண்டும்'' என்று, காற்று
+போலச்சுழன்றார்கள், அமைதியே உருவான நாராயணசாமி, வேல்.
+
+"தொண்டர்களே! ஏன், தாமதம்? நடக்கட்டும் வேலைகள். நம்மாலா
+முடியாது, வீழ்ந்த இந்த பந்தலை நிமிர்க்க?'' என்று வீரச் சொல் தந்து :
+கொண்டிருந்தார் ஜலகண்ட புரம். ப. கண்ணன், பெருமாள்.
+
+இவர்கள்தான் என்றல்ல - சேலம் மாவட்ட வீரர்கள் எல்லோரும்
+(பெயர்களைக் குறிப்பதானால் பட்டியல் நீளும். அவ்வளவு பேரும் நமது
+அருமைச்சகோதரர்கள் தான்!) ஆடி, ஓடி வீழ்ந்த பந்தலை நிமிர்க்க வியர்வை
+விழ விழ, வேலை செய்து கொண்டிருந்தனர்.
+
+வீழ்ந்தது பந்தல் - ஆகவே, சிறு நகர் போல அமைக்கப்பட்டிருந்த
+அந்த இடம், அனுமனால் சீரழிந்த 'இலங்கை' போலாயிற்று.
+
+5-5-51 காலை சேலம் மாவட்ட மாநாடு துவங்கி, முற்பகல்
+நிகழ்ச்சிகள் முடிவடைந்த இடைவேளை நேரம் அப்போதுதான் இந்த
+அலங்கோலப் புயல்
+
+புயலுக்குப் பின், வீழ்ந்த பந்தலையும் முறிந்து தொங்கிய வளைவு
+களையும், அறுந்து கிடந்த அலங்காரங்களையும், அகமகிழ்ந்து மேலே
+
+## Image 3: 003-a9b4f7cae3.png
+
+- Image: `katturaigal/namellam/003-a9b4f7cae3.png`
+
+கொட்டகை வீழ்ந்ததால் கேடுற்றுப் போன மின்சார அமைப்புகளையும்,
+கண்டோர் இதயமும் கண்களும், கண்ணீராலேதான் நிரம்பும்!
+
+ஆனால், சேலத்து வீரர்கள் சிந்தை கலங்கவில்லை. தொடர்ந்து
+எப்படியும் மாநாட்டை நடத்துவதென்றே முடிவு செய்தனர். ஓலி பெருக்கி,
+மின்சார அமைப்பு ஆகியவைகளைப் பெருமைப் படத்தக்க முறையில்
+அமைத்திருந்த திருச்சி, நமது கழகப்பற்று மிக்க, ராபி கம்பெனியாளரை
+அழைத்து 'உடனே - ஒலிபெருக்கி - லைட் ஆகட்டும்' என்றனர். தோழர் ராபி
+“இதோ!' என்று சிரித்த முகத்தோடு சொன்னார். ரூபாய் ஆயிரத்துக்கு மேல்
+நஷ்டமிருக்கும், ஓடிந்த 'மைக்'; அறுந்த 'வொயர்', தூளான 'பல்பு 'கள் மூலம்.
+அதுமட்டுமல்ல, பந்தலுக்கடியில் மாட்டிக் கொண்டதால் முதுகிலே வேறு
+அடி! ஆயினும், அவர் 'இதோ!' என்றார். சிறிது நேரத்துக்கெல்லாம்,
+பந்தருக்கருகிலேயிருந்த வெட்ட வெளியிலே, 'மாநாடு', குறிப்பிட்டபடி
+தொடங்கிற்று.
+
+3 * ட ச் ம்
+
+இதனை, இரண்டாம் நாள் பேசிய பொது செயலாளர்,
+குறிப்பிட்டார். அடித்தது, ஆரியப் புயல் - திராவிடம், இன்று அலங்
+கோலப்படுத்தப்பட்ட பந்தல், ஆனால், கடமையே கருத்தில் கொண்ட
+காளைகள், பொறுப்புணர்ந்து பணியாற்றும் தீரர்கள், உணர்ச்சி மிக்க
+வாலிபர்கள் விழுந்த பந்தலை நிமிர்த்தி விட்டார்கள். ஆம், நாம்
+முயன்றால் சிதைந்த திராவிடத்தைச் சீராக்க முடியும் என்பதே, பந்தல்
+விபத்து தரும் பாடம்.
+
+பந்தல் விழுந்தது, சேலத்திலே - பதைக்கவில்லை, தோழர்கள். ஏன்
+பதைக்கப் போகிறார்கள், பந்தல் எரிந்ததைக் கண்டே, பயங்கொள்ளாத
+வர்கள்! ஆகவே, பந்தல் மீண்டும் எழுந்தது.
+
+சேலம் செயலாற்றும் வீரர்கள் கூடாரம்!
+
+அங்கு தீட்டப்படும் திட்டம் எதுவும், மாலையில் மங்கையரின்
+கூந்தலை அலங்கரித்து, காலையிலே குப்பை மேட்டுக்குச் சென்றிடும்
+கசங்கிய மலரானதில்லை
+
+சேலம் - செயலாற்றும் காலமறிந்து பணியாற்றும்.
+
+## Image 4: 004-33cc384638.png
+
+- Image: `katturaigal/namellam/004-33cc384638.png`
+
+அந்தச் செயலும், ஒரு காலங்காட்டியாகத் தானிருக்கும்.
+
+சிறு புயல் நேற்று வீசிபந்தலைச் சாய்த்தது - இதற்கு மன்னர் பெரும்
+புயலே வீசியிருக்கிறது - அப்பொழுது சாய்ந்தது பந்தலல்ல - சீமான்கள்,
+பூமான்கள்!
+
+சேலம் மாநாட்டுத் தலைவர், தோழர் வி.எம்.ஜான் இதனை எடுத்துக்
+காட்டினார்.
+
+'மாளிகை வாசிகளுக்கும், குடிசை வாழ்வினருக்கும் இடையே இருந்த
+மாபெரும் பள்ளத்தாக்கை நிரப்பும் வீண் வேலையிலே ஈடுபடாமல் குடிசை
+
+வாழ்வினரின் பாசறையாக, நம்மியக்கத்தை மாற்றிற்று. அதுவரை
+முதலாளித்துவ ரீங்காரத்திலும், கனதனவான்களின் கைலாகிலும்,
+திலச்சுவான்தாரர்களின் கடைக்கண் பார்வையிலும் வளர்ச்சியைக்
+கண்டதாகப் பெருமையடித்த கட்சியை அந்தப் பயங்கரமான குழ்நிலையி
+லிருந்து மாற்றி, கழனியிலே நிற்கும் சாதாரணக் குடிமகனின் தாழ்வாரமாக
+மாற்றிற்று! பட்டாடைகளும், சரிகைத் தலைப்பாகைகளும் குவிந்த கிடந்த
+இடங்கள் கிழிந்த, அழுக்கேறிய கந்தல் துண்டுகளால் நிரப்பப்பட்டன. .மது
+சிந்திய இடங்களிலெல்லாம் வியர்வை சிந்தலாயின!''
+
+இப்படி அவர் 'சேலம்' பிறந்த வகையை எடுத்து விளக்கினார். தமது
+தலைமையுரையில்!
+
+“முன்னெல்லாம் நம் கட்சியிலிருப்பவர்கள் சீமான்களிடம்
+செல்வார்கள். பிரசாரத்திற்கு, சீமானின் காரிலே ஏறுவார்கள். கார் டிரைவர்
+காங்கிரஸ்காரராக இருப்பார்.
+
+"எங்கே போகவேண்டும்?'' டிரைவரின் கேள்வி அது.
+“ஸ்டேஷனுக்கு!'' என்று பதில் பாதி காதில் விழு முன்பே, கதவு படார் என்று
+சாத்தப்படும். அதிலேயே டிரைவருக்குரிய காங்கிரஸ் பக்தியும், நம்மீதுள்ள
+_ வெறுப்பும் தெரிந்துவிடும்.
+
+பத்தாண்டுகளுக்கு முன்னால் இந்த நிலை - இப்பொழுதோ, நாம்
+நடந்து சென்றால், வழியிலே பார்க்கிற அதே டிரைவர் காரை நிறுத்தி ஏற்றிக்
+கொள்றார். எங்கே செல்ல வேண்டும் என்று அன்பாகக் கேட்டு,
+போகுமிடத்திற்குக் கொண்டுவிட்டுப் போகிறார். இப்பொழுது அவர்
+
+## Image 5: 005-0532cbf530.png
+
+- Image: `katturaigal/namellam/005-0532cbf530.png`
+
+காங்கிரசிலே இல்லை - ஆனால் அந்தச் சீமான், காங்கிரகிலே சேர்ந்து
+விட்டார்.
+
+சீமான் இருப்பதைவிட, கார் டிரைவர் இருப்பதற்காக பெருமையடை
+கிறாயா என்ற கேட்டால் ஆம் என்று தான் பதில் சொல்ல வேண்டும் நமக்குச்
+சிமானும் தெரியும். அவரின் காரின் விலை எத்தனை ஆயிரம் என்பதும்
+தெரியும். டிரைவரின் விலை மாதம் நாற்பது ரூபாய் தான் என்பதும்
+_ தெரியும். ஆனால் டிரைவரைத் தூண்டிவிட்டால் காரின் கதியும்,
+சீமானின் விதியும் என்னாகும்?" என்று சி.என்.ஏ., குறிப்பிட்ட பொழுது,
+எழுந்த கைதட்டுதல் அடங்கவே வெகு நேரம் பிடித்தது. -
+
+% *் % ச் க்
+
+சேலம் - ஒரு காலக் கண்ணாடி! இந்தக் கண்ணாடியில்தான் நம் இயக்க
+சரித்திரத்தின் முக்கிய நிகழ்ச்சிகளைக் காண முடியும்
+
+சீமான்களின் சிரிப்பிற்கும். பிரபுக்களின் பெருமித வாழ்விற்கும்,
+உழைப்பாளிகளின் வியர்வை வீணாக்கப்பட்டதை எண்ணி எண்ணி
+ஏங்கித்தான் முன்பு சேலத்திலே கூடினர்
+
+திராவிடர்கழகம் எனப் பெயர்கண்டனர். கரையான்கள் ஒழிந்தன. தூசு
+போயிற்று - மாசு நீங்கிற்று மணியும் ஒளிவிட £லயிற்று
+
+பட்டம், பதவிகளை விட்டுவிட வேண்டும் என்று தீர்மானித்தவுடன்,
+படாடோபக்காரர்கள் ஓட்டம் பிடித்தனர். கட்சி, கறை நீங்கியதாயிற்று -
+களங்கம் மறைந்து, புது ஒளி வீசத் தொடங்கிற்று.
+
+தேர்தல் திருவிழாவில் உலா வரும் உற்சவ கூர்த்திகளின் உறவும்,
+தொடர்பும் முறிந்தன - நாமும் பிரிந்தோம். உழைப்பாளிகள் நம்மைத்
+. தழுவினர்,
+
+கழகம் வளர்ந்தது வளர்ந்து கொண்டேயிருக்கிறது
+
+சீமான்களின் சீறறம். பணக்காரர்களின் வெறுப்பு, பதவியாசைக்
+காரர்களின் பகை, தோதம் விரும்பிகளின் தூற்றல். அரசியல் சூதாடிகளின்
+
+## Image 6: 006-9665eb1d90.png
+
+- Image: `katturaigal/namellam/006-9665eb1d90.png`
+
+அர்ச்சனை, பட்டம், பதவி வேட்டைக்காரர்களின் கண்டனம் : இத்தனையும்
+துச்சமெனத்தள்ளி நடந்தோம். பொது மக்களின் வாழ்த்தொலி, உழைப்பாளி
+களின் வரவேற்புரை நம் காதுகளில் விழுந்தன.
+
+சீமான் நம்மிடம் இல்லை - ஆனால் அவரின் கார் டிரைவர்
+இப்பொழுதுநம்மிடம். இது 'சேலம்' செய்த ஜாலம் என்று அவர்கள் பேசினர்
+பிறகு ஓய்ந்தனர்
+
+சேலம், அன்று, வைரத்தின்மீது புதிய பள பளப்பைத் தீட்டிற்று!
+
+பிறகு, சேலத்தைச் சேர்ந்த ஏற்காட்டு ஏற்பாட்டால், தான் மீண்டும்
+பிரிந்தோம் - இருந்தாலும் கொள்கைகளில் பிரியாமல், பணியாற்றுகிறோம்
+முன்னைவிட. அதிதீவிரமாக, வெகு வேகமாக!
+
+சேலம், முதலில் சீமான்களின் வெளியேற்றத்தைக் காட்டிற்கு. பிறகு,
+"உழைப்பாளிகளின் கூடாரத்தைப் படம் பிடித்தது.
+
+சேலத்தில்தான் முதன் முதல் ஜனநாயகத் தென்றல் வீச
+ஆரம்பித்தது.
+
+% க ச ச ௫
+
+சேலம், பிரபுக்களின் பிடியை விலக்கி, கட்சியை, ஏழைகளின் இதய _-
+ஒவியை எழுப்பும் இயக்கமாக மாற்றியது மட்டுமல்ல, உண்மை ஜனநாயக
+உணர்ச்சிக்கு வித்திட்டது மட்டுமல்ல, தொழிலாளர்களுக்குத் தோழமை
+ஸ்தாபனம் என்பதை விளக்கியிருக்கிறது
+
+சேலத்தில் அண்மையிலே நடந்த நெசவாளரின் அறப்போரிலே
+
+முழுமூச்சாக ஈடுபட்டு வேலை செய்தது நம் இயக்கம். தலைமை வகித்து
+
+நடத்தியவர் நம் தோழர், செயலாற்றும் செம்மல் சித்தையன் தோன்றாத்
+
+.. துணையாய் நின்று பணியாற்றியவர் தோழர் நாராயணசாமி, மற்றும் பலப்
+பலர் எல்லாம் நம் இயக்க இளஞ்சிங்கங்கள்!
+
+பட்டாடைக்காரர்கள் விரட்டப்பட்டது மட்டுமில்லை. அவர்களுக்கு,
+பட்டும், பீதாம்பரமும் நெய்து கொடுத்து விட்டு, கந்தலையணிந்து, கம்புக்
+
+## Image 7: 007-083c7b552a.png
+
+- Image: `katturaigal/namellam/007-083c7b552a.png`
+
+கூழைக்கூடித்துவாடுவோரின் துயரைத்துடைக்கவும் பாடுபட்டது நமது
+
+. இயக்கம். சேலத்திற்குரிய மற்றுமொரு சிறப்பு இது!
+
+ஆ ்் % ்் ந
+
+இத்தகைய சிறப்புகள் வாய்ந்த சேலத்தில்தான் மே 5,ல் தேதிகளில்
+சேலம் மாவட்ட திராவிட முன்னேற்றக் கழக முதல் மாநாடு கூடிற்று.
+
+அந்த இருநாட்களிலும், சேலமே திராவிட இயக்கத்தின் போர்க்
+கூடாரமென எண்ணும்படி, இயக்க இரும்பு இதயத்தவர் ஏராளம் உலவிய
+
+படியிருந்தனர்.
+
+'கேரளம் கேட்கிறதா?' என்று 'கேவுக்கு 'கே' தேடும் தோழர்களின்
+கேள்வி வீச்சைத் தடுக்கும் கேடயமாக, திருவிதாங்கூர் பகுதியைச் சேர்ந்த
+தோழர் வி.எம்.ஜான் தலைமை வகித்தார்.
+
+திராவிடப் பிரிவினைப் போரில் பெண்களின் அணிவகுப்பும் முன்
+வரிசையில் நிற்கும் என்று கூறுவதுபோல, சென்னைக் தோழியர்
+சத்தியவாணிமுத்து, துவக்கவுரை, நிகழ்த்தினார்.
+
+தி.மு.க, இயக்க முன்னணி வீரர்கள் அனைவரும் பங்கு கொண்டனர்.
+
+சேலம் ஒரு காலக் கண்ணாடியல்லவா? இந்த மாநாடும், இயக்க ப
+வளர்ச்சியைக் காட்டத் தவறவில்லை
+
+திராவிட இயக்கம் இரண்டாகப் பிரிந்தபொழுது, ஆளுக்கு
+ஒருவகையான ஆருடங்கணித்தனர் அவை, அவரவர் ஆசையை,
+நாட்டுக்குத் தெரிவித்ததே,தவிர, அவர்கள் எண்ணம் போல் எதுவும்
+நடக்கவில்லை.
+
+மோதிக்கொள்வோம் என்றனர். அவர்கள் எண்ணங்கள்
+மோதிக்கொண்டனவே யொழிய. நாம் மோதிக் கொள்ளவில்லை.
+
+## Image 8: 008-9644161bac.png
+
+- Image: `katturaigal/namellam/008-9644161bac.png`
+
+பிரிந்தவர், இங்கே ஒட்டுவர், இவரை நத்துவர், அவர் பரணிபாடுவர்,
+இவர் புகழ் பெறுவார், இந்தக் கொள்கை அவர்களுக்கு பிடிக்கும், அந்தக்
+கொள்கையிலேதான் அதிகப் பற்று அவர்களுக்கு, இனி அவர்கள் அப்படி
+யிிருப்பர், இப்படிப் பேசுவார் என்து ஏதேதோ கூறினர் - எதுவும்
+நடக்கவில்லை.
+
+தி.மு.க. பிறந்தது, வளர்ந்தது தர் கண்டு அஞ்சுகிற அளவு
+வளர்ந்துவிட்டது!
+
+ஆரூடங் கணித்தவர்களுக்கு திருச்சி திகைப்பைத் தந்தது! கணியூர்
+கண்விழிப்பளித்தது! ஆரணி. நம் போரணியைக் காட்டிற்று! குறிஞ்சிப்பாடி.
+நமது பாடிவீட்டுப் பாடலை பாடிற்று! கோவில்பட்டி குலைநடுக்கத்தை தந்தது!
+சிவகங்கை அவர்களின் சிந்தையைக் குடைந்தது! சென்னையோ,
+அவர்களுக்கு, நம்வளர்ச்சியின் கணக்கைக் காட்டிற்று! காஞ்சியோ, நம்
+எழுச்சியை அளந்தது! சோழவந்தான் இந்த நாட்டை வாழ்விக்க வந்தவர்கள்
+நாம் என்ற நம்பிக்கையை ஊட்டிற்று! நாகர்கோவில், நம் இலட்சியச்'
+சித்தியின் தூரத்தை விளக்கிற்று! தஞ்சை அஞ்சாவீரரின் அணிவகுப்பு நாம்'
+என்பதை அனைவரும் உணரச் செய்தது! இன்று சேலம், எல்லாவற்றையும்
+தொகுத்துக்காட்டிவிட்டது.
+
+சேலம் மாநாடு, கடைசி மாவட்டமாதநாடு, அதே நேரத்தில்
+நாட்டோருக்கும் நாட்டை ஆள்வோருக்கும் முன்னறிவிப்பு மாநாடு.
+
+நம் இயக்கம், இன்று நாம் எதிர் பார்த்ததற்கு மேல் வளர்ந்து விட்டது.
+ஆகவேதான், எதிரிகள், ஆயுதமாகத் தேடியெடுத்து, போரிடுகின்றனர்
+
+நம்மாள்வார்களோ, அடக்குமுறை அம்புகளை வீசி வீசி கைசோர்ந்த,
+விட்டனர்.
+
+இந்நிலையில், நம் இயக்கத்தோழர்களின் கட்டுப்பாடும், கடபை
+உணர்ச்சியும் வளரவேண்டும். வளர்வது கூடப். பெரிதல்ல - வளர்ந்தசை
+வகையாகக் கட்டுப்படுத்துவது தான் கடினம் - ஆனால் அதுதான் தேவை
+
+வளர்ச்சியை சேலங்காட்டிற்று - அதோடு மட்டுமல்ல, அதனை:
+கட்டுப்படுத்தவும் முடியும் என்பதையும் காட்டிவிடடது சேலம்
+
+## Image 9: 009-26e77904a8.png
+
+- Image: `katturaigal/namellam/009-26e77904a8.png`
+
+॥ பந்தல் விபத்து இதற்கொரு பரீட்சையே நடந்துவிட்டது.
+
+காலை நிகழ்ச்சி முடிந்தது - மாலை நிகழ்ச்சி தொடங்குவதற்குள் பந்தல்
+விழுந்துவிட்டது.
+
+இயக்க நரம்புகள் போன்றதோழர்கள், இதனைக்கண்டு நடுங்கியா
+போனார்கள்? இல்லை. மாலை நிகழ்ச்சியை, பந்தலுக்கு வெளிப்புறத்திலே
+இருந்த பரந்த வெளியில் நடத்தினர். அற்நிகழ்ச்சி முடிவதற்குள், அந்தப்
+பந்தலமைப்பு வேலையில், அதுபற்றிய கவலையின்றி, பந்தலை
+யமைத்தனர். இரவு பத்து மணிக்குள், பந்தலை முடித்து, நாடக நிகழ்ச்சியை
+நடத்தியே காட்டினர். கட்டுப்பாட்டோடு, கடமையுணர்ச்சியோடும்
+காரியமாற்றினால், முடியாததொன்றில்லை.
+
+சிறு புயல் - பெரிய பந்தலைச் சாய்த்துவிட்டது!
+
+ஆரியப் புயல் திராவிடத்தை இப்படித்தான் சாய்த்துவிட்டது! அதனால்
+
+சேதம், ஏட்டில் முடியாத அளவு அதிகம்! மேடை தாழ்ந்து விட்டது, திரைகள்
+
+அறுந்துவிட்டன, பல்புகள் நொறுங்கின, ஒலிபெருக்கி உடைந்தது. அவருக்கு
+
+சிறு காயம், இந்த அம்மைக்கு அடி என்று பந்தல் விழுந்தால் சேதக் கணக்கு
+
+காட்டுவார்களே, அது போலல்ல, ஆரியப் புயலால் விழுந்த திராவிடததிம்
+
+கேற்பட்ட சேதம் - மிகப் பயங்கரமானது, நினைத்துப் பார்க்கவும்
+பரிதாபகரமானது!
+
+சேதம் ஒரு துறையிலல்ல - பல வழிகளில்!
+
+சமூகத்தின் பேதம் வளர்ந்து விட்டது! பொருளியலில் நம்மைச்
+சுரண்டுவோர் அதிகரித்து விட்டனர்! அரசியலில், நாம் பிறருக்கு அடிமை!
+இப்படி ஆரியப் புயலால் அவதிக்கு ஆளானோம். கழன்றடிக்கும் கூறாவணி
+“போலவே, துன்பமும் நம்மைத் துரத்தி துரத்தியடித்து! வேதனை, நீங்காத
+
+,_ தோழமை பூண்டது!
+புரோகிதத்தின் பிடி நீங்கவேண்டும், அயலார் சுரண்டல் ஒறுத்தபபட
+
+வேண்டும். நம் தாடு நமதாகி, நம்மாட்சி மலரவேண்டும். இதற்கு நாம்
+போராடவேண்டும்.
+
+## Image 10: 010-a798a6e6ce.png
+
+- Image: `katturaigal/namellam/010-a798a6e6ce.png`
+
+ஆரியப் புயலால் ஏற்பட்ட சேதத்தை நாம் மீட்க வேண்டும். விழுந்த
+திராவிடத்தை, நிமிர்த்திட வேண்டும். அதற்கு நெஞ்சுரம் வேண்டும்.
+
+விழுந்த பந்தல் எழுந்தது - விழுந்த திராவிடமும் எழும் என்பதைச்
+சேலங் காட்டிவிட்டது!
+
+சேலம், நமது சிந்தனைக்கோர் புது ஒளியைத் தந்துவிட்டது.
+கட்டுப்பாடு, கடமையுணர்ச்சி இவைகள் நமது கழகத்தில் எந்த அளவு
+வளர்ந்திருக்கிறது என்பதைப்படம் பிடித்துக் காட்டிற்று.
+
+அருமையான காட்சி! அதை, நாம் கண்டோம் சேலத்தில்! கழகத்தின் |
+முன்னணி வீரராயிருந்தாலும் சாதாரணத் தொண்டராயிருந்தாலும் தொண்டு
+செய்வது என்று வரும்போது தோளோடு தோளிணைந்து வேலை செய்தனர்.
+
+|
+
+சாதாரணக் காட்சியா இது? அதுவும், இந்தத் துரதிஷ்ட பூமியில்!
+
+எனினும், நம்மிடம், இந்தக் காட்சி மலர்ந்திருக்கிறது.
+
+நமது எண்ணங்கள் வெற்றிபெற்றுக்கொண்டே உள்ளன. நாம்
+வளர்ந்துகொண்டே உள்ளோம். நம்மிடை நாம் எல்லாம் ஓரே குடும்பம்
+என்கிற பாசமும் நேசமும் வளர்கிறது! வளர்கிறது!
+
+இந்த வளர்ச்சியை அதிகமாக்குவோம் - நமது இலட்சிய முரசை
+வேகமாக ஓலிப்போம் - நமது ஆசைக்கனவுகளை மலரவைப்போம்!
+
+வாழ்க, நமது சகோதரர்கள்!
+
+வளர்க, நமது கட்டுப்பாடு!!! ர
+|
+॥
+
+(திராவிடநாடு - 13.5.51)
+
+## English Translation
+
+A terrible storm lasted only a few minutes, but that beautiful little town was shattered and brought down.
+
+No one screamed “Alas!” No cry of “What shall we do?” arose. No one sighed, “How hard we worked to build this.”
+
+There were many thousands of people, half of them women, yet they did not run here and there, become bewildered or panic.
+
+The storm was followed by heavy rain. That too lasted only a short while, but turned the bookshops and snack stalls there into ponds.
+
+The people stood in the rain. Among them volunteers in their distinctive half-black, half-red uniform spun like tops, calling, “Move out slowly. Do not worry. Please leave.”
+
+Comrade A. Chithaiyan, secretary of the Salem conference, did not say:
+
+“Do you know how hard we worked to put up such a great pavilion? It is larger than those of other conferences, yet we feared even this might be insufficient and the crowd cause difficulty. Just as expected, more people arrived this morning than I have ever seen, bringing families and children. But we did not find it difficult to maintain order. What tranquillity I saw! My heart swelled.
+
+“The pavilion decorations, the novel stage arrangement seen nowhere else, the entrance made so grand that people compared it to the gateway of a many-storeyed palace, and amid it all the figure we constructed of Sir P. Theagaraya, the white-clad leader, like the full moon among clouds—only a short while ago it resembled a little town. Now it has been torn apart.”
+
+He said none of this. Instead he ran everywhere like a tiger with an arrow in its flank: “Hurry! Bring fresh bamboo. Volunteers, assemble. What? The electric bulbs have been destroyed? All right. Come on—let the work proceed.”
+
+The chairman of the reception committee said with a sigh but with courage: “Look again in a little while. You will see whether this very place becomes the same pavilion once more.”
+
+The usually tranquil Narayanasami and Vel spun like the wind, saying, “Here I am. What must be done?”
+
+Jalakandapuram P. Kannan and Perumal offered words of courage: “Volunteers, why delay? Let the work begin. Are we incapable of raising this fallen pavilion?”
+
+Not only these men, but all the warriors of Salem district—the list would be long if every name were given, and all are our dear brothers—ran and laboured, sweat pouring as they raised the fallen structure.
+
+The pavilion had fallen. The site laid out like a little town came to resemble Lanka ruined by Hanuman.
+
+The first Salem district conference had begun on the morning of 5 May 1951. The destructive storm struck during the interval after the forenoon programme.
+
+Anyone seeing the fallen pavilion, broken hanging arches, torn decorations and electrical installations ruined when the roof collapsed would have heart and eyes filled with tears.
+
+But Salem's warriors did not lose heart. They resolved to continue the conference by any means. They summoned the deeply devoted proprietor of Trichy Rabi Company, which had installed the loudspeakers and electrical system so admirably, and said, “We need sound and light immediately.”
+
+Comrade Rabi answered with a smile, “Here they are!” Broken microphones, severed wires and shattered bulbs meant a loss exceeding one thousand rupees. He had also been struck on the back after being trapped beneath the pavilion. Even so, he said, “Here they are!”
+
+Within a short time the conference resumed as scheduled in the open ground beside the pavilion.
+
+The General Secretary referred to this in his speech on the second day. The storm that struck was Aryan; the Dravidian land is now the disfigured pavilion. But bulls devoted to duty, responsible warriors and impassioned youth raised the fallen pavilion again. Yes, the accident teaches that through effort we can restore shattered Dravidian society.
+
+The pavilion fell at Salem, but comrades did not panic. Why would people unafraid even at the sight of a pavilion burning panic now? Thus the pavilion rose again.
+
+Salem is a camp of warriors who act.
+
+No plan made there resembles a crushed flower that adorns a woman's hair in the evening and reaches the rubbish heap in the morning.
+
+Salem understands the hour and acts. That action itself becomes a clock showing the age.
+
+A small storm felled the pavilion yesterday. Earlier a much greater storm had blown here, and what fell then was not a pavilion but wealthy lords and grandees.
+
+Conference president Comrade V. M. John explained this:
+
+“Instead of wasting effort trying to fill the enormous gulf between palace residents and hut dwellers, it transformed our movement into the camp of those in huts. A party that until then boasted of growth through the hum of capitalism, the services of wealthy gentlemen and the sidelong favour of landlords was removed from that dreadful condition and converted into the veranda of the ordinary citizen standing in the field. Places once filled with silk garments and brocade turbans were filled with torn and dirty rags. Sweat began to flow wherever liquor had flowed.”
+
+In his presidential address, he explained how “Salem” was born.
+
+“Earlier, members of our party went to wealthy men. For propaganda work they rode in a wealthy man's car, whose driver would be a Congressman.
+
+“‘Where are we going?’ the driver would ask.
+
+“Before even half the reply ‘To the station’ reached his ear, he would slam the door. That revealed both his Congress devotion and his hatred for us.
+
+“This was the condition ten years ago. Now, when we walk along the road, the same driver sees us, stops the car and takes us aboard. He asks affectionately where we wish to go and drops us there. Today he is no longer in Congress, but his wealthy employer has joined it.
+
+“If asked whether we are prouder to have the driver than the wealthy man, our answer must be yes. We know the rich man and know his car costs thousands, while the driver's price is only forty rupees a month. But awaken the driver, and what becomes of the car and the rich man's fate?”
+
+When C. N. A. said this, the applause took a long time to subside.
+
+Salem is a mirror of the times. In it we can see the major events of our movement's history.
+
+Longing at how workers' sweat was wasted for the smiles and proud lives of lords, people once gathered in Salem and adopted the name Dravidar Kazhagam. Termites disappeared, dust departed, grime was removed and the gem began to shine.
+
+When the resolution required members to renounce titles and offices, people of pomp fled. The party shed its stain, lost its blemish and began radiating new light.
+
+Ties with the processional idols who parade at the festival of elections were broken. We too separated, and workers embraced us.
+
+The Kazhagam grew and continues to grow.
+
+We walked on, treating as trivial the rage of grandees, hatred of the rich, hostility of office-seekers, abuse of opportunists, ritual curses of political gamblers, and condemnation from hunters of title and position. Instead, public congratulations and workers' words of welcome reached our ears.
+
+“The rich man is not with us, but his driver is. That is Salem's magic,” they said, then fell silent.
+
+That day Salem gave the diamond a new polish.
+
+Later, because of the Yercaud arrangement associated with Salem, we separated once again. Yet without separating in principle, we work more intensely and swiftly than before.
+
+First Salem showed the departure of the rich; later it pictured the workers' camp. It was in Salem that the breeze of democracy first began to blow.
+
+Salem did more than free the party from the grip of lords and turn it into a movement raising the heart-cry of the poor. It did more than sow genuine democratic feeling. It demonstrated that the movement is a companion institution to workers.
+
+Our movement threw itself completely into the recent weavers' moral struggle in Salem. Comrade Chithaiyan, a master of action, led it. Comrade Narayanasami stood as an unseen support, together with many other young lions of our movement.
+
+We did not merely chase away people in silk. Our movement also laboured to wipe away the suffering of those who weave silk and ceremonial cloth for them while wearing rags and languishing without even millet gruel. This is another of Salem's distinctions.
+
+In Salem, endowed with such distinctions, the first Salem district conference of the Dravida Munnetra Kazhagam met on 5 and 6 May.
+
+Throughout those two days, so many iron-hearted members moved through Salem that it resembled the Dravidian movement's war camp.
+
+Comrade V. M. John of Travancore presided, serving as a shield against the questions fired by comrades who seek a “K” to counter Kerala's “K” and ask, “Does Kerala demand it?”
+
+As though to declare that women too would stand in the front rank of the formation fighting for Dravidian separation, Madras comrade Sathyavani Muthu delivered the opening address.
+
+All the front-line warriors of the DMK participated.
+
+Is Salem not a mirror of the age? This conference too faithfully reflected the movement's growth.
+
+When the Dravidian movement split in two, people made predictions of every kind. They merely announced their respective desires to the country; nothing happened as they imagined.
+
+They said we would clash. Only their own thoughts collided; we did not.
+
+They claimed those who separated would attach themselves here, approach him, sing another's praises, seek fame, prefer this principle or cling more strongly to that one, and henceforth behave or speak in various predicted ways. None of it occurred.
+
+The DMK was born and grew—grew enough to make them afraid.
+
+Trichy astonished the fortune-tellers. Kaniyur opened their eyes. Arani displayed our battle formation. Kurinjipadi sang the song of our military camp. Kovilpatti made them tremble. Sivaganga burrowed into their thoughts. Madras showed them the measure of our growth. Kanchi measured our awakening. Cholavandan inspired confidence that we had come to give life to the country. Nagercoil revealed the distance to fulfilment of our ideal. Thanjavur made everyone understand that we are a formation of fearless warriors. Today Salem has gathered and displayed all of it.
+
+The Salem conference was the final district conference, and at the same time a conference of warning to the country and its rulers.
+
+Our movement has grown beyond our expectations. That is why enemies search out weapons and fight us, while our rulers have exhausted their hands firing arrows of repression.
+
+In this condition, discipline and duty-consciousness among our comrades must grow. Growth itself is not the greatest thing. Controlling what has grown is difficult, but necessary.
+
+Salem showed growth and also showed that it could be disciplined. The pavilion accident became a practical test.
+
+The morning programme ended, and before the evening programme began the pavilion collapsed.
+
+Did comrades who are the movement's nerves tremble? No. They held the evening programme in the broad open ground outside. Before it ended, workers rebuilt the pavilion without being distracted by the meeting. By ten at night the pavilion was complete and they conducted the dramatic performance. Nothing is impossible when people act with discipline and a sense of duty.
+
+A small storm felled a great pavilion.
+
+The Aryan storm similarly felled the Dravidian land, but the damage is too vast for any ledger. When a pavilion collapses, one may count a lowered stage, torn curtains, shattered bulbs, broken loudspeakers, a small wound to one man and a blow to one woman. The damage suffered by fallen Dravidian society in the Aryan storm is incomparably dreadful and pitiable even to contemplate.
+
+It occurred not in one sphere but many. Social divisions grew. Economic exploiters multiplied. Politically, we became slaves to others. The Aryan storm brought this suffering; misery pursued and struck us repeatedly, becoming an inseparable companion.
+
+The priestly grip must end. External exploitation must be stopped. Our country must become ours and our rule must blossom. We must struggle for this.
+
+We must recover what the Aryan storm destroyed and raise fallen Dravidian society. That requires courage of heart.
+
+The fallen pavilion rose. Salem has shown that fallen Dravidian society too will rise.
+
+Salem has given our thought a new light and pictured the extent to which discipline and duty-consciousness have grown within our Kazhagam.
+
+What a splendid sight we saw there. Whether front-line warrior or ordinary volunteer, when service was required they joined shoulder to shoulder and worked.
+
+Is this an ordinary sight—especially in this unfortunate land?
+
+Yet it has blossomed among us.
+
+Our ideas continue to triumph and we continue to grow. Among us grows the affection and love that says we are all one family. It grows and grows.
+
+Let us increase that growth, sound the drum of our ideal more powerfully and bring the flowers of our cherished dreams into bloom.
+
+Long live our brothers!
+
+May our discipline grow!
+
+(*Dravida Nadu*, 13 May 1951)

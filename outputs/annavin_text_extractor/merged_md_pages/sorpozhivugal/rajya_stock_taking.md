@@ -1,0 +1,1 @@
+../../md_pages/sorpozhivugal/rajya_stock_taking.md

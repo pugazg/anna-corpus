@@ -1,0 +1,1 @@
+../../md_pages/navalgal/parvathi_ba.md

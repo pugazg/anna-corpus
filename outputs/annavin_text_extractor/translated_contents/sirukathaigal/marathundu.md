@@ -1,0 +1,379 @@
+# மரத்துண்டு / The Piece of Timber / மரத்துண்டு
+
+**Tamil title:** மரத்துண்டு  
+**English title:** The Piece of Timber / மரத்துண்டு  
+**Source file:** `sirukathaigal/marathundu.md`
+
+## Source Tamil (verbatim)
+
+- Source image folder: `/Users/pugazhendhirajendran/Documents/Codex/2026-07-09/https-www-annavinpadaippugal-info/outputs/annavin_text_extractor/ocr_images/sirukathaigal/marathundu`
+- OCR language: `tam`
+- Tesseract page segmentation mode: `6`
+- OCR cleanup: `enabled`
+
+## Image 1: 001-02c7c663f1.png
+
+- Image: `sirukathaigal/marathundu/001-02c7c663f1.png`
+
+் த
+மரததுண்டு !
+
+:நீண்டகாலமாகக் கலனாகிக் கிடந்த வீட்டை, மிகச்
+சிரமப்பட்டு, செலவிட்டு, பழுதுபார்த்து, குடி இருப்பதற்குத்
+தக்கவிதமானதாக்கினார் தருமலிங்கம். வீடு, மண்மேடாகித்தான்
+போகும் - அதைப் பழுது பார்ப்பதற்குப் பணமும் நேரமும்
+சிரமமும் அதிக வேலை. இதைவிடப் புதிய, அருமையான, வீடே
+கட்டிவிடலாம். தருமலிங்கம் வீண்வேலையில் ஈடுபடுகிறார் -
+சிரமம்தான் பலன்! என்று கூறினர், பலர். இருக்கும் வீட்டையே
+சரியாகப் பார்த்துக் கொள்ள முடியாத உல்லாச வாழ்வினர்.
+
+- பரம்புப் புற்று புறக்கடையில்; தெரியுமோ!" ்
+
+“அமாம்! அதற்கு அருகே ஒரு பாழுங் கிணறும் உண்டு;
+பார்த்திருக்கிறேன்.” ்
+
+“கடைக்கால் மட்டும், பலமானதாம்.'”
+
+“என்ன பலம்! ஏதோ, இரண்டு தலைமுறைகளுக்கு
+முன்னாலே, அந்தக். காலத்திலே பலமானவை. என்று கருதப்பட்ட
+சா.மான்களைப். போட்டு, கடைக்கால் அமைத்திருக்கிறார்கள்.”"
+
+“சவரிலே, பல இடம். . .'*
+
+“பிளந்து போயிருக்கிறது; தரையிலே எங்கே பார்த்தாலும்
+குழிகள்; கூரை ஒழுக்கல்,"” ்
+
+“பேசாமல், அதை அப்படியே விட்டுவிட்டால், தானாக,
+மண்மேடாகி விடும்.”
+
+“பிறகு, கத்தியோ, வெண்டையோ, பயிரிடலாம்.'!
+
+“இதைப் போரம், பழுது பார்தது, வீடாக்கிக் குடி
+போகிறேன் என்று கூறுகிறாரே, தருமலிங்கம்!"
+
+“பழுது பார்த்து, வீடாக்கி, குடிபோகிறார்!:”
+
+## Image 2: 002-5bf3fd7ba7.png
+
+- Image: `sirukathaigal/marathundu/002-5bf3fd7ba7.png`
+
+““பைதயக்காரராக இருக்கிறீரே! குடிபோய் விட்டார்
+அங்கே! அங்குக் குடி இருந்து கொண்டே, பழுது பார்க்கப்
+போகிறாராம்.” பலரும் பேசினர் - சிலர், தருமலிங்கத்திடமே
+கூறினர். அவரோ, பழுதுபார்க்க முடியும் - வேண்டுமானால்
+பாருங்கள் - என்னால் முடியும் - அதற்கு இன்னின்ன வழிகள்
+உண்டு, என்றெல்லாம் பேசவில்லை.
+
+““கஷ்டந்தான்! வீண் தொல்லைதான்! ஆனால், கவனிக்காம
+லிருந்துவிட்டால், குட்டிச்சுவராகத்தானே போகும். கள்ளி காளான்
+முளைத்து, கழுதை மேயுமிடமாக], ஊருக்கே கேடாகப்
+போகுமே!” என்று கூறிவிட்டு,
+
+பழுது பார்ப்பதற்காக, அங்கேயே சென்று தங்கி, சிரமப்
+பட்டு, வீட்டைச் சரியாக்கி, குடியிருப்பதற்கு இலாயக்கானதுதான்
+என்று (முன்பு குறை கூறினவர்கள் கூடக்) கூறும்படியான
+நிலையை உண்டாக்கினார்.
+ஆற்றலாலும், ஒயாத உழைப்பாலும், இந்த மகத்தான
+காரியத்தைச் செய்து முடித்தவரைப் பாராட்டவும், அவரால்
+இருத்தி அமைக்கப்பட்ட வீட்டைக் காணவும், பலர் வந்தனர்.
+வந்தவர்களில் ஒருவர், வீட்டின் புறக்கடைக்குப் போகும் வழியில்,
+ஒரு மரத்துண்டு, இருக்கக் கண்டார்.
+் “இது என்ன செம்மரமா?'' என்று கேட்டார் தருமலிங்கத்தை.
+
+தருமலிங்கம், அப்போதுதான், அந்த மரத்துண்டைப்
+பார்த்தவர் போலப் பேசலானார்.
+் “இருக்கும்! அல்லது, வேறு ஏதாவது வகையான
+மரமாகவும் இருக்கும்'' என்றார்.
+
+இதற்குள்: புதியவர், மரத்துண்டைப் பார்வையிட்டு,
+“இல்லை, தருமலிங்கம்! இது. தேக்குத்தான்! நல்லவிதமாகவே
+இருக்கிறது. சரியான அளவு! அழகான சரம் செய்யலாமே,
+இதைக் கொண்டு!”” என்றார். ,
+மு “அமாம். . .."” என்று, அர்த்தமற்ற முறையிலே, பேசினார்
+தருமலிங்கம்,
+
+_... இதற்குள் புதியவர், தூண் செய்து, இந்த இடத்தில் நிறுத்தி,
+அதற்கு ஏற்றபடி, இன்னவிதமாக ஒரு சிறு மாடம் அமைக்கலாம்,
+கட்டடம். அழகாகத். தோற்றமளிக்கும் என்றெல்லாம் புதிய
+விளக்கமே கூறலானார். தருமலிங்கம் தலை அசைத்தார்.
+
+ட் நாட்கள், மாதங்கள், ஆண்டுகளும் ஒடின! மரத்துண்டு,
+அங்கேயே கிடந்தது.
+
+## Image 3: 003-7927c321c5.png
+
+- Image: `sirukathaigal/marathundu/003-7927c321c5.png`
+
+“சரங்கள் போடலாமே! வாசலில், அழகு வளைவுகளுக்கு
+உபவயோகிக்கலாமே! அதைச் செய்யலாமே, இதைச் செய்யலாமே!
+- என்று எவ்வளவோ போ, எத்தனையோ யோசனைகளைக்
+கூறினர் தருமலிங்கத்திடம், அவர் எதற்கும் இசையவு மில்லை-
+மறுக்கவுமில்லை “ஆமாம்! அது சரி! ஆகட்டும்! பார்ப்போம்!”
+என்ற அளவோடேயே, பேச்சை முடித்துவிடுவார்.
+
+மரத்துண்டு, இருந்த இடத்திலேயே கிடந்தது.
+
+விவரமறியாதவர்கள், “இது இன்ன சரியான மரமல்லவா!"”
+என்று கேட்பர்; தருமலிங்கம், “இதுவா! அருமையான மரம்!
+உபயோகமானது! நல்ல மரம்'” என்று பாராட்டுவார். அவர்கள்
+ஆச்சரியமடைந்து, “அப்படியானால், ஏன் இதை, இப்படியே
+போட்டு வைத்திருக்கிறீர்? உபயோகப்படுத்துவதுதானே!'” என்று
+கேட்பர். தருமலிங்கம், அவர்களிடமும், “ஆமாம் - செய்ய
+வேண்டும்'' என்றுதான் கூறுவார்.
+
+குப்பை கூட்டவேண்டிய நேரங்களிலோ-அல்லது,
+இடுக்கிலே தேளோ, வேறு ஏதேனும் விஷப் பூச்சியோ பதுங்கும்
+போதோ, மரத்துண்டை, நகர்த்துவார்கள் - வேலை முடிந்ததும்,
+மீண்டும் மரத்துண்டு, இருந்த இடத்துக்கே போய்ச் சேரும்.
+
+“இந்தக் கட்டையை இங்கேயே போட்டு வைத்திருப்பதால்,
+(போக வர வழிக்குக்கூட இடைஞ்சலாக இருக்கிறது. குப்பை,
+கூளம், இடுக்கிலே சேருகிறது” - என்று. வீட்டினர் குறைகூறிப்
+பார்த்தனர்.
+
+“அது ஒரு பக்கமாக இருக்கிறது - அதனாலே,
+உனக்கென்ன இடைஞ்சல் - வழியை அது அடைத்துக்
+கொண்டில்லை”' என்று கூறிவிடுவார் தருமலிங்கம்.
+
+நல்லமரம் - வேலைப்பாட்டுக்கு ஏற்றது - அழகான பல
+பொருள் செய்யலாம் அதைக் கொண்டு - என்று பலர் பேசிய
+பிறகும், இருந்த இடத்திலேயே, கிடந்தது, மரத்துண்டு, எனவே
+முதலில், அதை உபயோகமான பொருள் என்று எண்ணின
+வர்களில் சிலருக்கு, அது, வெறும், 'கட்டை'யுமாகி விட்டது -
+அதை வெட்டி, விறகு ஆக்கினால், அடுப்படிக்கு நல்லது, என்று
+கூட எண்ணினர் - அவரிடமும் கூறினர். அவரோ... அடுப்
+பெரிக்க உங்களுக்கு. வேறு எதுவும். கிடைக்கவில்லையோ!
+இதைப்போய், விறகு ஆக்கும்படி சொல்கிறீர்களே! உங்களுக்கு
+ஏதாவது மரச்சாமான்களின் தரமும், உபயோகமும் தெரிந்தால்
+தானே: என்று சற்றுக் கண்டித்துப் பேசுவார்.
+
+## Image 4: 004-54b69c3d3b.png
+
+- Image: `sirukathaigal/marathundu/004-54b69c3d3b.png`
+
+“ஒரு காரியத்துக்கும் இதை உபயோகப்படுத்தாம
+விருக்கவே, விறகுக்காவது ஆகட்டுமே என்று சொன்னோரசம்”'
+என்று அவர்கள் விளக்கம் கூறுவர்.
+
+“சரிசரி, எனக்குத் தெரியும், நீங்கள் போங்கள்” என்று
+கோபிப்பார் தருமலிங்கம்.
+
+மரத்துண்டோ, அங்கேயே திடந்தது. மரததுண்டுதானே!
+
+தேள் ஒடும் அதன்மீது - பல்லி ஒடும்! குப்பைகூளம்
+பக்கத்திலே சேர்ந்து உறவு கொண்டாடும். ஆனால், மரத்துண்டு,
+அதனால் பாதிக்கப்படவில்லை. தேள் கொட்டினால் என்ன! அது
+மரத்துண்டுதானே!
+
+“தருமலிங்கம் வீட்டிலே பார்த்தேன், ஒரு நல்ல மரத்துண்டு!
+அது கிடைத்தால், நமது காரியத்துக்கு, பொருத்தமாக இருக்கும்.”
+
+“அமாம் நானும் பார்த்திருக்கிறேன் - நீண்ட நாளாக
+அவரிடம் இருக்கிறது.”
+
+ஏதேனும் காரியமாகத்தான் அவர் அதை வைத்துக்
+கொண்டிருப்பார்.”
+
+“அப்படித் தெரியவில்லையே! இவ்வளவு நாளாகவா,
+அவருக்கு, அதைக் கொண்டு என்ன செய்வதென்று தெரியாம
+விருக்கும்!”*
+
+“யாருக்கும் தரவும் மாட்டார்!”!*
+
+என்றும், ஊரிலே, பலர் பேசிக்கொண்டனர். தருமலிங்கம்,
+மரதீதுண்டை இருந்த இடத்திலேயே போட்டு வைத்தார்-
+மரத்துண்டுதானே, அது எப்படி, இடம்விட்டு இடம் நகரும்!
+அங்கேயே கிடந்தது!
+காற்றுமழை அடித்தது ஒருநாள்! மண் சுவர்கள் கரைகிற
+நிலைமை! ஜன்னல்கள் படார்-படார்-என அடித்துக் கொண்டன,
+தருமலிங்கத்தின் வீட்டின் சமயலறைச்சுவர், வீரலிட்டது. சாய்ந்து
+விடுமோ சரிந்து விடுமோ என்று கவலைப்படும் நிலைமை.
+
+“சுவர் சாய்ந்து விடும் போலிருக்கிறதே'' என்று கூவினர்
+வீட்டினர்.
+
+தருமலிங்கம், யோசனையில் இருந்தார். காற்றும் மழையும்
+கலந்து அடிக்கிறது - சுவர் சரிவதற்குத் தன்னைத் தயாராக்கிக்
+கொண்டது! தருமலிங்கத்துக்கும் யோசனை உதித்தது, வீட்டினரில்
+சிலரைக் கூப்பிட்டார்! “டே! மரத்துண்டு இருக்கிறதே, அதைப்
+
+## Image 5: 005-017d729a91.png
+
+- Image: `sirukathaigal/marathundu/005-017d729a91.png`
+
+பிடித்துக் கொண்டுபோய், சுவருக்கு, முட்டுக் கொடுங்கள்”
+என்றார். செய்தனர். சுவர் சரியவில்லை! காற்றும் மழையும்,
+கொஞ்ச நேரத்திற்குப் பிறகு, நின்றுவிட்டது. தருமலிங்கம் வீட்
+டிலே.. சமயற்கட்டுச் சுவர், பலமில்லாதது - பிளவு உள்ளது -
+ஆகவே இந்தக் காற்று மழைக்கு, கீழே விழுந்து போயிருக்கும்,
+என்று எண்ணிக் கொண்டனர் - சிலர். அவர்களிலே ஒருவர்,
+மழை விட்ட பிறகு வந்தார் - தருமலிங்கத்தைக் காண சுவருக்கு
+- மரத்துண்டு, :முட்டு' கொடுக்கப்பட்டு இருப்பதைக் கண்டார்.
+
+“இதற்காகத்தானா, இந்த மரத்துண்டை இவ்வளவு காலமாக,
+எதற்கும் உபயோகிக்காமல் வைத்திருந்தீர்'” - என்று சிரித்துக்
+கொண்டே கேட்டார். தருமலிங்கம் “ஆமாம்” என்றார் - அதுவும்
+ஒப்புக்கு. மரத்துண்டுக்குத் தெரியாது தன்னைப் பற்றியும்,
+அவர்கள் இருவரும் பேசியது! எப்படித் தெரியும்! அது மரக்கட்
+டைதானே!! சரியும் சுவருக்கு, “மூட்டு' ஆகி நிற்கும் நிலைமையும்
+அதற்குத் தெரியாது. மரக்கட்டைதானே!!
+
+சரிய இருந்த சுவரைப் பழுது பார்த்து, பலமானது
+மாக்கினார் தருமலிங்கம். பிறகு 'முட்டு' தேவையில்லை - எனவே
+பழையபடி மரத்துண்டு, கீழே கிடததப்பட்டது.
+
+நாளாவட்டத்திலே, அந்த மரத்துண்டிலே,.. :செல்'
+பிடிக்கலாயிற்று மரத்துண்டுதானே! உள்ளேயே தின்று
+கொண்டிருந்தது, கரையான் கூட்டம், மரக்கட்டைக்கு. இயல்பாக
+இருந்த தரமும் வலிவும் போய்விட்டது.
+
+அந்த நிலையிலே, வீட்டுக்கு வந்த ஒருவர், மரத்துண்டைக்
+காட்டிக் கேட்டார், “இது என்ன, பயனிலலையர?:*. என்று.
+கேட்டுவிட்டு, அருகே சென்று மரத்துண்டைத் தள்ளிப்பார்த்தார-
+செல் ஏறியிருக்கக் கண்டு, “ஒஹோ ஹோ! இதனால்தானா இதை
+எதற்கும் உபயோகிக்காமலே இருந்து விட்டீர்கள்'' என்று
+கேட்டார். தருமலிங்கம் குறிப்பாக ஒருபதிலும் கூறவில்லை. “நான்
+திடமாக இருந்தேன் - பயன்பட்டிருப்பேன். - பலர்
+எதிர்பார்த்தனர் - எடுத்துரைத்தனர் - பயன்படுத்தவில்லை -
+மூலையில் கிடந்தேன் - இப்போது கரையான் தின்று
+கொண்டிருக்கிறது- அதற்கு நான் என்ன செய்ய'' என்று
+கேட்க, வாய் ஏது மரத்துண்டுக்கு!
+
+13-6-1948
+3 4 3
+
+## English Translation
+
+Dharmalingam spent great effort and money repairing a house that had long lain in ruins, making it fit for habitation.
+
+Many people said the house would inevitably become a mound of earth. Repairing it would require too much money, time, hardship and labour. A fine new house could be built instead. Dharmalingam was engaged in useless work, they said; hardship alone would be his reward.
+
+These were pleasure-seekers unable to care properly even for the houses they already possessed.
+
+“Do you know the anthill in the backyard?”
+
+“Yes. There is a ruined well beside it too. I have seen it.”
+
+“They say only the foundation is strong.”
+
+“What strength? Two generations ago they laid the foundation with materials considered strong in those days.”
+
+“In many places the wall...”
+
+“Has split. There are holes everywhere in the floor, and the roof leaks.”
+
+“If he leaves it alone, it will become a mound of earth by itself.”
+
+“Then brinjal or okra can be grown there.”
+
+“Yet Dharmalingam says he will repair this burden, turn it into a house and move in.”
+
+“Repair it, turn it into a house and move in? You are behind the times. He has already moved there! He says he will live in it while repairing it.”
+
+Many spoke so, and some said it directly to Dharmalingam. He did not argue that repairs were possible, challenge them to watch, declare that he could do it or list the available methods.
+
+“It will be difficult and troublesome. But if it is neglected, will it not become a broken wall? Spurge and mushrooms will grow, donkeys will graze there, and it will become a blight upon the whole town,” he merely said.
+
+He moved there, stayed while repairing it, struggled and put the house in order. He brought it to a condition where even former critics said it was fit to live in.
+
+Many came to praise the man who completed this great task through ability and ceaseless labour, and to see the house he had restored.
+
+One visitor found a piece of timber on the way to the backyard.
+
+“What is this, redwood?” he asked Dharmalingam.
+
+Dharmalingam spoke as though he too had only just seen it.
+
+“It may be. Or it may be some other kind of wood.”
+
+The visitor examined it.
+
+“No, Dharmalingam, this is teak. It remains in good condition and is exactly the right size. You could make a beautiful frame from it.”
+
+“Yes,” Dharmalingam replied without meaning.
+
+The visitor began offering a new explanation. It could be made into a pillar and erected at a particular spot; a small loft could then be arranged around it; the building would look beautiful. Dharmalingam nodded.
+
+Days, months and years passed. The piece of timber remained where it lay.
+
+“You could make frames. You could use it for decorative arches at the entrance. You could make this or that.”
+
+Many people offered Dharmalingam countless ideas. He neither agreed nor refused.
+
+“Yes. That is right. Very well. We shall see,” he would say, ending the discussion.
+
+The piece of timber remained where it was.
+
+Those unaware of its history would ask, “Is this not a fine piece of wood?”
+
+“This? Excellent timber! Useful, good wood,” Dharmalingam would praise it.
+
+They would ask in surprise, “Then why have you simply left it here? Should you not use it?”
+
+To them too Dharmalingam merely replied, “Yes, it must be done.”
+
+When it was time to sweep away rubbish, or when a scorpion or some other poisonous creature hid in the narrow space, they moved the timber. Once the work ended, it returned to its former place.
+
+“Leaving this log here obstructs even our coming and going. Dust and rubbish gather in the gap,” members of the household complained.
+
+“It lies to one side. How does it obstruct you? It has not blocked the path,” Dharmalingam replied.
+
+Although many said it was good timber, suited to workmanship, and capable of becoming many beautiful objects, it remained where it lay. Some who initially regarded it as useful began to see it as a mere log. They even thought cutting it into firewood would serve the kitchen, and told him so.
+
+“Could you find nothing else to burn in the stove? You tell me to turn this into firewood! As though you know anything about the quality or usefulness of timber,” Dharmalingam scolded.
+
+“Since you use it for nothing, we said it might at least serve as firewood,” they explained.
+
+“Enough. I know what to do. You may go,” Dharmalingam said angrily.
+
+The piece of timber lay there. Was it not merely a piece of timber?
+
+A scorpion ran across it; a lizard ran across it. Dust and rubbish gathered nearby and celebrated their kinship. The timber was unaffected. What did a scorpion’s sting matter? Was it not timber?
+
+“I saw a good piece of wood at Dharmalingam’s house. If we obtained it, it would suit our purpose.”
+
+“Yes, I have seen it too. He has possessed it for a long time.”
+
+“He must be keeping it for some purpose.”
+
+“It does not seem so. Could he remain for this many years without knowing what to do with it?”
+
+“Yet he will not give it to anyone.”
+
+People throughout the town spoke in this fashion. Dharmalingam left the timber where it had always been. It was only timber; how could it move from place to place by itself? It remained there.
+
+One day wind and rain struck together. Mud walls began to dissolve, windows banged repeatedly and the kitchen wall of Dharmalingam’s house cracked. Everyone worried it might lean over and collapse.
+
+“The wall appears ready to fall!” the household cried.
+
+Dharmalingam stood thinking. Wind and rain drove together, and the wall prepared itself to collapse. Then an idea occurred to him.
+
+He called some members of the household.
+
+“Hey! Take that piece of timber and prop it against the wall.”
+
+They did so. The wall did not fall. After a while, the wind and rain stopped.
+
+Some people had assumed the kitchen wall lacked strength, was cracked and would fall in that storm. One of them came to see Dharmalingam after the rain and found the timber propping it up.
+
+“Was it for this that you kept the piece of wood unused all these years?” he asked with a laugh.
+
+“Yes,” Dharmalingam replied, merely for form’s sake.
+
+The timber did not know what the two men said about it. How could it know? It was only a wooden log. Nor did it know that it stood as a prop beneath a collapsing wall. Was it not merely a log?
+
+Dharmalingam repaired and strengthened the wall that had been ready to fall. Then the prop was no longer needed, and the piece of timber was laid down in its former place.
+
+As time passed, termites began to infest it. It was only timber. The colony ate from within, and the wood lost its natural quality and strength.
+
+In that condition, a visitor pointed to it and asked, “What is this? Is it useless?”
+
+He approached and pushed the timber. Seeing the termite damage, he asked, “Oh! Was this why you never used it for anything?”
+
+Dharmalingam gave no definite answer.
+
+The timber had no mouth with which to ask:
+
+“I was strong. I could have been useful. Many people expected it and explained it. You did not put me to use. I lay in a corner, and now termites consume me. What can I do about it?”
+
+13 June 1948

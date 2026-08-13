@@ -1,0 +1,675 @@
+# பள்ளியறையில் பரமசிவன் / Paramasivan in the Bedchamber
+
+**Tamil title:** பள்ளியறையில் பரமசிவன்  
+**English title:** Paramasivan in the Bedchamber  
+**Source file:** `sirukathaigal/palliyarayil_paramasivan.md`
+
+## Source Tamil (verbatim)
+
+- Source image folder: `/Users/pugazhendhirajendran/Documents/Codex/2026-07-09/https-www-annavinpadaippugal-info/outputs/annavin_text_extractor/ocr_images/sirukathaigal/palliyarayil_paramasivan`
+- OCR language: `tam`
+- Tesseract page segmentation mode: `3`
+- OCR cleanup: `enabled`
+
+## Image 1: 001-43dc0c6b97.png
+
+- Image: `sirukathaigal/palliyarayil_paramasivan/001-43dc0c6b97.png`
+
+பள்ளியறையில் பரமசிவன்
+
+%
+
+மீனாட்சி! எதற்காக இப்படிக் கோபங் கொள்கிறாய்?
+காமாட்சி! நான் கொஞ்சுவது உன் காதிலே விழவில்லையா?
+நீலாயதாட்சி! நீ இப்படி இருந்தால் என் மனம் நிம்மதியடையுமா?
+அகிலாண்டேஸ்வரி! நான் உனக்குத் தவறென்ன செய்தேன்!
+அம்பிகே! இப்படிப் பார். தியாகவல்லி! திரும்பிப் பார்.
+திரிபுரசுந்தரி. . ."” என்று சரசமாடும் சத்தம் கேட்டது. இது யார்,
+அர்த்த ராத்திரியிலே அநேக ஸ்திரீகளின் பெயரை அழைப்பது
+என்று பார்த்தேன். ஆலவாயப்பன், சொக்கன், சிவபெருமான்
+இருக்கிறாரே, அவர் தமது தர்ம பத்தினியுடன் பேசிக்
+கொண்டிருக்கக் கண்டேன். அவருக்கும் அம்மைக்கும் ஆயிரக்
+கணக்கிலே நாமதேயம் உண்டல்லவா! ஆலயத்துக்கு ஆலயம்,
+வேறு. வேறு பெயரல்லவா! ஆகவேதான் அவர் காமாட்சி!
+மீனாட்சி! நீலாயதாட்சி! அம்பிகே! திரிபுரசுந்தரி! என்று
+அநேகவிதமான பெயர் கூறி அழைத்தார். அம்மையாரோ, வாயை
+அசைக்கவில்லை”: என்று கூறினான் வீரன். “போதுமப்பா உன்
+
+புதுப்புரளி, நிறுத்து. எனக்கு வேறு வேலை இருக்கிறது. உன்
+
+கதையைக் கேட்க நேரமில்லை'' என்று நான் சொன்னேன்.
+வீரனா விடுபவன்! “என் கதையைக் கேட்க மனமிருக்குமா
+உனக்கு! நான் என்ன “சர்: பட்டம் பெற்றவனா, மிட்டாமிராசு
+உடையவனா, பட்டம் தரித்த புலவனா, பாவாணனா,
+புராணிகனா? என்னிடம். உனக்கு அலட்சியந்தான் இருக்கும்'*
+என்று கோபித்துக் கொண்டான். “கோபப்படாதே வீரா! நீ
+சொல்ல..விரும்புவதோ ஏதோ ஒரு புதுப்புராணம். நாட்டிலே
+நானாவிதமான நிகழ்ச்சிகள் நடைபெறுகின்றன. பலருடைய
+அபிப்பிராயங்கள் வெளியிடப்படுகின்றன. சர்க்காரின் போக்கும்
+அதனைச். சாருவோரின் போக்கும், காங்கிரசின் நிலையும், லீகின்
+
+## Image 2: 002-cdb74f2013.png
+
+- Image: `sirukathaigal/palliyarayil_paramasivan/002-cdb74f2013.png`
+
+நிலையும், திராவிடர் கிளர்ச்சியும், மாணவர் எழுச்சியும், கலை
+வளர்ச்சியும், ரசிகர்களின் உள்ள நெகிழ்ச்சியுமெனப் பல்வேறு
+விஷயங்களிருக்க, நீ எதையோ இழுக்கிறாயே”” என்று நான்
+சமாதானம் கூறி விட்டுச் சாந்தமோ திருப்தியோ அடையாத
+வீரனுக்கு உண்மை நிகழ்ச்சியை உரைத்தால் உளம் மகிழமுமெனக்
+கருதி, “கேள், வீரா! உண்மையாக நடைபெறும் சம்பவங்களைக்
+கவனிக்க மாட்டேனென்கிறாயே. இத்தாலியிலே போர்
+நடக்கிறதல்லவா, அங்கே காசினோ என்ற களத்திலே நடந்த
+ஒரு அற்புதமான வீர சம்பவத்தைக் கேள். தமிழரின் புகழ் சுடர்
+விட்டு விளங்குவதைப் பார். பீரங்கிகள் முழக்கமிடும் களம்,
+துப்பாக்கிக் குண்டுகள் நெஞ்சைப் பிளக்கும் இடம்.
+மூர்க்கத்தனமாக ஜெர்மானியர் தாக்கும் அந்தப் போர்க்களத்திலே,
+எதிரிகள் சுரங்க வெடிகளை ஆங்காங்கு அமைத்து வைத்திருந்தனர்.
+நேசநாட்டுப் படையினரின் ஒரு பிரிவினர் இந்தச் சுரங்க
+வெடிகளை அப்புறப்படுத்தும் அபாயகரமான வேலையிலே
+ஈடுபட்டனர். அச்சமயத்திலே, ஒரு நாயக், சுரங்கவெடி ஒன்றின்
+மீது இடறவே, தீப்பிடித்தது. தீர்ந்தது. மறுவிநாடி குண்டு வெடிக்கும்.
+அந்த இராணுவ உத்தியோகஸ்தரின் உடல் சுக்குநூறாகிவிடும்.
+அவரோ அதைத் தெரிந்து கொள்ளவில்லை. மரணம் தன்னைத்
+தொட்டு இழுப்பதைத் தெரிந்து கொள்ளவில்லை. என்ன நடந்தது
+தெரியுமா வீரா? பண்டைப் பெருமையுள்ள தமிழ் மகனொருவன்,
+அங்கு இருந்தான். கண்டான் காட்சியை. மிரண்டானில்லை.
+நமக்கென்னவென்று சும்மா இருக்கவில்லை. 'நாயக், விலகு, ஒடு,
+பிழை, சுரங்கவெடி' என்று கூவிடவுமில்லை. ஒரு விநாடியும்
+தாமதியாது பாய்ந்தான் குண்டின் மீது. அதனை கட்டிப் பிடித்தான்.
+குண்டு வெடித்தது. அவன் உடல் சின்னாபின்னமாயிற்று.
+உயிரிழக்க இருந்த உத்தியோகஸ்தன் தப்பினான். வீரன்
+மாண்டான். வெற்பென்று ஓங்கிற்று அவன் புகழ் - தன்னுயிரை
+விட்டேனும் மற்றொருவன் உயிரைக் காப்பாற்றும் தமிழ்ப் பண்பு,
+ஆபத்து நேரத்திலே அஞ்சா நெஞ்சம் கொள்ளும் ஆண்மை,
+தமிழருக்கு உண்டு என்பது காசினோ களத்திலே சில நாட்களுக்கு
+முன்பு நடைபெற்ற இச்சம்பவத்தால் உலகுக்கு விளக்கப்பட்டது.
+வீரத் தியாகம் புரிந்த அவன், எங்கள் ஜில்லாவாசி. அதை
+எண்ணும்போதே, புன்னகையும் கண்ணீரும் கலந்து வருகிறது.
+செங்கற்பட்டுக்கு அடுத்த வாலாஜாபாத் என்ற நகருக்குப்
+பக்கத்திலே உள்ள குக்கிராமவாசி, கடல் கடந்து சென்று,
+காசினோ களத்திலே தமிழ் மரபினை உலகுக்கு உணர்த்து
+
+## Image 3: 003-e3bf050853.png
+
+- Image: `sirukathaigal/palliyarayil_paramasivan/003-e3bf050853.png`
+
+வித்தான். அவன் பெயர் சுபேதார் சுப்பிரமணியம். எதிரியின்
+படைவரிசைக்குப் பின்புறம், விமானம் மூலமாகச் சிறுபடையை
+இறக்கி, எதிரியைத் தாக்கும் புதியதோர் போர் முறையை, பர்மா
+
+போரிலே செய்துகாட்டிய ஜெனரல் விங்கேட் என்பவர், விமான
+
+விபத்தினால் இறந்து போனார். அவருடைய ஆற்றலையும்,
+ஆண்மையையும் பரிதாபகரமான முடிவையும் உலகம்
+உணர்ந்திடுவது போலவே, சுபேதார் சுப்பிரமணியத்தின் வீரத்
+தியாகத்தைப் பற்றி வியந்துரைக்கிறது. வீரர் தோட்டத்தின் விளக்கு
+சுடர்விட்டெரிகிறது. இத்தகைய சுடரொளி கண்டு சுதந்திரதேவி
+தனக்குரிய கோயில் இதுவே என்று பூரிப்பாளேயொழிய,
+சொல்லம்பரின் வெல்லப் பேச்சுக்கு மகிழ்ந்துவிட மாட்டாள்.
+சுபேதார் சுப்பிரமணியம் போன்ற தியாகிகளைப் பற்றிப்
+பேசுவதும், எழுதுவதும், படிப்பதும், கேட்பதும், வீரத்தை, பண்பை,
+தமிழரின் பெருமையை ஊட்டுமே! அதைவிடுத்து, வீணரைப்
+பற்றிப் பேசுவானேன். பார்வதியும் பரமசிவனும் பாதிராத்திரி
+வேளையிலே, என்ன பேசிக் கொண்டால் நமக்கு என்னப்பா!”
+என்று நான் கூறினேன். வீரன் சில விநாடி ஆழ்ந்த
+யோசனையிலே இருந்துவிட்டு, “பரதா! நீ கூறிய சம்பவம்
+உண்மையிலேயே தமிழர்கள் யாவரும் பெருமையுடன் உலகை
+நோக்கி நின்று ''உணரப்பா தமிழ் வீரத்தை!”' என்றுரைக்கக்கூடிய
+வீரச் செயலே. அதற்கோர் ஆட்சேபனையுமில்லை. அவை
+போன்ற வீர சம்பவங்களைக் கேட்டு நான் பெருமை கொள்ளா
+மலுமிருப்பதில்லை. கீர்த்திக் கணவாயிலே புகுந்த சுபேதார்
+சுப்பிரமணியத்தின் புகழ் தமிழகம் எங்கும் தெரியச் செய்வேன்
+இது உறுதி'” என்று கூறினார். நானும் மகிழ்ந்தேன். மேலும். சில
+கூற எண்ணினேன். வீரனோ, என் கதையைக் கேள்.
+பார்வதியிடம் பரமசிவம், இவ்வாறு பேசிடக் கேட்ட நான். . ."'
+என்று பழைய பல்லவியைத் தொடங்கினான். என்ன. வீரா!
+பார்வதியும் பரமசிவனும் பேசுவதும், நீ பக்கத்திலே இருந்து கேட்பதும்,
+இதுதானா விஷயம்? யார் இதை. நம்புவார்கள்?” என்று
+நான். குறுக்கிட்டேன் . ஓடி வரும் வெள்ளத்தைத் தடுக்க ஒரு ஜாண்
+கல்லை வைத்தால், வெள்ளம் நின்றுவிடுமா? வீரனா என் குறுக்குப்
+பாலத்துக்கு அடங்குபவன்? குரலைச் சரிபடுத்திக் கொண்டு கூறத்
+தொடங்கினான். கேட்பது தவிர வேறு எனக்கு வழியில்லை! .
+எதற்கும் இன்னொருமுறை முயற்சி செய்து பார்ப்போம் வீரனின்
+வாயை மூட என்று எண்ணி, வீரா! விஷயம். தெரியுமோ?
+ஜப்பானியர்கள் இம்பால் நகரருகே வந்து விட்டனர். கோஹிமா
+
+## Image 4: 004-ba65640382.png
+
+- Image: `sirukathaigal/palliyarayil_paramasivan/004-ba65640382.png`
+
+என்ற ஊருக்கும் ஆபத்து. யுத்தம் நம்மை நெருங்கி விட்டது” என்று
+ஆரம்பித்தேன். வீரனின் கவனத்தை பரமசிவன் பார்வதியின்
+பள்ளியறையிலிருந்து போர்க்களத்துக்கு இழுத்துச் செல்வோ
+மென்று. அவனோ “அதே விஷயமாகத்தான் அவர்களும் பேசிக்
+கொண்டனர்” என்று என்னிடம் கூறினான்.
+
+“விசித்திரமாகத்தான் இருக்கிறது. பரமசிவனும் பார்வதியும்
+இதைப் பற்றியும் பேசினார்களா? நான் அவர்கள் தங்கள் திருப்பார்வையை
+நாமிருக்கும் திக்குக்கே திருப்பக் காணோமே என்று
+வியாகுலப்பட்டேன்” என்று நான் பேசினேன், கேலியிலே
+வீரனுக்கு விருப்பமாயிற்றே என்பதற்காக. “பரதா! கேள்
+விஷயத்தை, கோபமாக இருந்த பார்வதியின் முகவாய்க் கட்டையைப்
+பிடித்தார் பரமசிவன். பிறகு ஏதோ செய்தார்.
+கலகலவென அம்மையார் நகைத்திடவே, ‘அப்பா! சிரிப்பு வர
+இவ்வளவு நேரமாயிற்றா! கோபம் ஒழிந்ததா?’ என்று
+கொஞ்சுமொழி பேசினார் புலித்தோலாடையார். பூவையரோ,
+மீண்டும் முகத்தைப் பழையபடி வைத்துக் கொண்டு “பெண்கள்
+கோபித்துக் கொண்டால் ஏதாவது பேசி, எதையாவது செய்து,
+பெண்களுக்குச் சிரிப்பு மூட்டிவிடுவதும், காரியத்தைச் சாதித்துக்
+கொள்வதும் ஆண்களின் வழக்கந்தானே அதற்கு நீர்தானே குரு!”
+என்று பரமசிவத்தைக் குத்தலாகக் கூறிவிட்டு “என்ன கோபம்,
+என் மனஸ்தாபம் என்று கேட்கிறீரே, ஏன் இராது கோபம்? ஒரு
+மனைவியின் காதிலே தனது கணவனைப் பற்றிப் பலபேர்
+தூஷித்தால் மனைவியின் மனம் புண்படாதா? உமக்கென்ன
+உலகத்தார் என்ன வேண்டுமானாலும் உரைக்கட்டும்
+கவலையில்லை என்று இருக்கிறீர். என்னால் முடியவில்லையே”
+என்று கூறிவிட்டுக் கண்களைத் துடைத்துக் கொள்ளவே, கபாலி
+கண்களை அகலத் திறந்து, “பார்வதி! யார் என்னைப் பற்றி
+இழித்தும் பழித்தும் பேசினார்கள்? சொல் சீக்கிரம், அவர்களைப்
+படுதரணமாக்குகிறேன்” என்று வெகுண்டுரைத்தார். “நேரே
+நேரடியாகப் பாரும் கண்ணால்; உமது காதினால் கேளும்.
+உம்மை யாரார் என்னென்ன கூறி நிந்திக்கிறார்கள் என்பதை”
+என்று கூறி காமாட்சி, பரமசிவத்தை மேல் மாடிக்கு அழைத்துச்
+சென்றிடவே, நானும் மெள்ள ஓசைப்படாமல், அவர்கள்
+கண்களுக்குத் தெரியாமல் மேல்மாடிக்குச் சென்றேன்.
+பொலிவுடன் விளங்கிய பூரணச் சந்திரன், மாசுமறுவற்ற
+வானத்திலே நட்சத்திரங்கள் பல சூழ இருக்கக் கண்ட பரமசிவன்,
+“பிரியே, அதோ பார்! அழகிகள் பலர் புடைசூழ அரசிளங்குமரி
+
+## Image 5: 005-be66d4231d.png
+
+- Image: `sirukathaigal/palliyarayil_paramasivan/005-be66d4231d.png`
+
+உலவுவது போலச் சந்திரன் காட்சி அளிப்பதை இந்த நேரத்திலே
+நிலவொளியிலே, நீயும் நானும் யாரோ எதற்கோ நிந்திப்பதைப்
+பற்றிப் பேசுவதைவிட...'" என்று கூறி முடிப்பதற்குள் பார்வதியார்
+“அதோ பாரும்'' என்று ஒரு காட்சியைக் காட்டினார்,
+பூலோகத்திலே! நானும் பார்த்தேன், பரமசிவனும் பார்த்தார்!
+பூலோகத்திலே எங்கோ ஓர் இடம் அது. மக்கள் குழந்தைகளைத்
+தூக்கிக் கொண்டு ஒருவரை ஒருவர் இழுத்துக் கொண்டு, நீர்
+புரளும் கண்களும், பதறும் உடலும், திகில் தோய்ந்த மனமும்
+கொண்டவர்களாய் காடு மலை கடக்கக் கண்டேன். காமாட்சி!
+இது என்ன காட்சி'' என்று கேட்டார் பரமசிவன். “காட்சியைக்
+கண்டீரா? சரி. அவர்கள் பேசுவதைக் கேளும்'' என்று
+அம்மையார் உரைத்தார். கோரமான அக்காட்சியைக் கண்ட
+எனக்கு அவர்களின் வார்த்தையும் கேட்டது. “அட ஆண்டவனே! :
+உனக்குக் கண்ணில்லையா? உன் நெஞ்சம் கல்லா? இப்படி
+எங்களைத் தவிக்கவிடும் உனக்குத் தயாபரன் என்று பெயரா?
+உனக்குக் கோயில் கட்டிய கரங்களைக் கொண்டு இன்று என்ன
+செய்வது என்று தெரியாமல் பிசைந்து கொள்கிறோமே, உனக்குக்
+கருணையில்லையா? உன் கோ யிலை வலம் வந்த கால்கள் இன்று,
+காடுமேடுச் சுற்றி, உயிர் பிழைக்க ஒரு இடம் கிடைக்காதா என்று
+ஒடத்தானே பயன்படுகிறது. எங்கள் ஒலம் உன் செவிக்கு எட்ட
+வில்லையா? உனக்குத் திருவிழாக்கள் நடத்தி, கோயில் வெடிச்
+சத்தத்தைக் கேட்டு ஆனந்தித்த காதுகளிலே பீரங்கி வேட்டுச் சத்தம்
+விழுந்து துளைக்கிறதே, உமது மனம் இளகாதா?”' என்று .அந்த
+மக்கள் கதறினர். யார் அவர்கள்? ஏன் அப்படி அழுகிறார்கள்?
+என்று கேட்கத் துடித்தேன். ஆனால் என்னை நானே அடக்கிக்
+கொண்டேன், நான் பேசினால் நான் இருப்பது தெரிந்து விடுமே
+என்ற. பயத்தால். நான் கேட்டறிய எண்ணியதை அறிந்தவர்போல
+பார்வதியார் மேலும் பேச ஆரம்பித்தார். “அந்த.இடம் இம்பால்
+நகரம்! கிராம மக்கள் ஜப்பானியரின் கரத்திலே சிக்கிச் சீரழியக்
+கூடாது. என்பதற்காக ஊரை விட்டு அகதிகளாகி .இம்பாலை
+நோக்கி இடர் மிகுந்து செல்கின்றனர். கண்ணில்லையா என்று
+உன்னைக் கேட்கின்றனர், அதன் சுருக்கம் “குருடா..நீ?' என்பது!
+மனம். இரும்பா என்று கேட்கின்றனர். நாதா! . இதைப். போல
+மட்டுமல்ல. இன்னும் கடுமையாக ஏசிப் பேசினார்கள்...முன்பு
+வங்காளத்திலே பட்டினியால் மாண்ட பரிதாபத்துக்குரிய மக்கள்,
+அதைப் போலவே பழித்துப் பேசினார்கள். பஞ்சம் பிணி. மிகுந்த
+பல்வேறு இடங்களிலே, குருடன், ஈரமற்ற நெஞ்சினன், கொடுமை
+
+## Image 6: 006-894b0a15b4.png
+
+- Image: `sirukathaigal/palliyarayil_paramasivan/006-894b0a15b4.png`
+
+புரியவன், ஏழைகளை ரட்சிக்காதவன் என்றெல்லாம், கணவனைப்
+பற்றிப் பேசிடக் கேட்டால் மனைவியின் மனம் என்ன
+பாடுபடும்? எதை உத்தேசித்தாவது நீர் இந்த மக்களுக்கு ஏற்பட்ட
+அவதியைப் போக்க வேண்டாமா? முடியவில்லையானால்,
+அதையாவது அவர்களிடம் சொல்லிவிட வேண்டாமா? கண்
+ணெடுத்துப் பாராமலும், காது கொடுத்துக் கேளாமலும் கைலாய
+வாசமும், எனது நேசமும், நாரதகானமும், நந்தியின் மிருதங்கமும்
+கங்கையின் சல்லாபமும், மற்றச் சுகபோகமுமே போதும்
+என்றிருக்கலாமா?” என்று கேட்டார். அம்மையின் பேச்சு
+ஐயனுக்குக் கோபமூட்டும் என்று நினைத்தேன். சக்தியின் பேச்சு,
+சிவனுக்குக் கோபமூட்டவில்லை. விஷயத்தைச் சாதுர்யமாக
+உலவிக் கொண்டே விளக்கலானார். “பார்வதி! பூலோகத்திற்கு
+நான் தரவேண்டியது அனைத்தையும் தந்தாகிவிட்டது; செய்ய
+வேண்டியது அனைத்தையும் செய்தாகிவிட்டது. இனி என்னால்
+ஆவது ஒன்றுமில்லை” என்று கூறினார். பார்வதியார் வேகமாக
+அவர் பின் சென்று தோளைப் பிடித்துக் குலுக்கி, “பேஷ்! செய்ய
+வேண்டியதெல்லாம் செய்து விட்டீரா? நன்றாக இருக்கிறது உமது
+நியாயம்! கேட்பாரில்லாததால் எதை வேண்டுமானாலும்
+செய்யலாம் எப்படி வேண்டுமானாலும் பேசலாம் என்ற துணிவு
+பிறந்து விட்டது உமக்கு” என்று கேட்டாள். என் மனதிலே அதே
+போது அதே எண்ணந்தான் குதித்தது. சிவபெருமான் “சிவகாமி!
+சீற்றத்தை விடு! நான் உலகைப் படைத்தேன்; கவர்ச்சிமிக்க
+காடுகளைப் படைத்தேன், கனிமரச் சோலைகளைப் படைத்தேன்,
+கானாறுகளை உண்டாக்கினேன். காற்றையும் நெருப்பையும்
+கடமையைச் செய்க என்று ஏவினேன். வற்றாத ஆறுகளையும்,
+வளமுள்ள நிலத்தையும் வழங்கினேன். மக்களின் சுகபோகத்துக்
+கான சகல பதார்த்தங்களையும் அளித்தேன். கடலைப் படைத்தேன்,
+கடலை கடக்க கலமும் தந்தேன். கடலிலே முத்துக்களைப்
+படைத்தேன், அதைக் கண்டவன் எடுக்காத வண்ணம்,
+சுறாவையும் சூழல் அலையையும் அவைகளுக்குக் காவலாக்கினேன்.
+தங்கத்தைப் படைத்தேன், அதைத் தாறுமாறாக உபயோகிக்காதிருக்க
+மறைத்து வைத்தேன். இவைகளை அறிய மக்களுக்கு
+அறிவும் அளித்தேன். வேறு என்ன தரமுடியும்? என்ன இருக்கிறது?
+இவ்வளவும் தந்த எனக்கு அவர்கள் தந்தது என்ன?” என்று
+கேட்கலானார் பரமசிவன்!
+
+“நாதா! இதென்ன கேள்வி” என்று நாம யாரும் கேட்க
+எண்ணுவது போன்றே பார்வதியார் கேட்டார்கள். பரமன்
+
+## Image 7: 007-e2c506a040.png
+
+- Image: `sirukathaigal/palliyarayil_paramasivan/007-e2c506a040.png`
+
+“என்ன தந்தார்கள்?!” என்று மீண்டும் கேட்டார், கோபத்துடன்.
+பிறகு இந்த உரையாடல் நடந்தது -
+
+ஏன், அழகான ஆலயங்கள் தரவில்லையா?:”
+
+எனக்கா, கோயிலிலே குடிபுகுந்து, கபட நாடகமாடிக் காசு
+பறிக்கும் கள்ளர்களுக்கா? யாருக்குக் காமாட்சி, ஆலயம்? எனக்கா?
+எனக்குக் குடியிருக்க இடமா கேட்டேன்? நான் கேட்டது
+அதுவல்லவே. மக்களின் மனமன்றில் எனக்குக் கோயில் வேறு
+வேண்டுமா?”
+
+“அபிஷேகமும், ஆராதனையும் செய்கின்றனரே உமக்கு!”
+
+எனக்கா? ஏமாளிகள் காசிலே, பாடுபடாதவன் வாழ
+நடத்தும் கோமாளிக் கூத்தல்லவா அது?:*
+
+“தேரும் திருவிழாவும் ஊரூருக்கும் நடத்துகிறார்கள்
+உன்னைப் பெருமைப்படுத்த.
+
+என்னைப் பெருமைப்படுத்தவா? குழலூதுவோனையும்,
+குறுநகை புரிவோனையும், இசைவாணனையும், இன்பவல்லி
+களையும் பெருமைப்படுத்தவா?'!
+
+“ஏராளமான பணத்தை உனக்கு ஆபரண
+அலங்காராதிகளுக்குச் செலவிடுகின்றனர்."
+
+“அந்தச் செலவு எனக்காகவா செய்யப்படுகிறது? நான்
+மண்ணோடு மண்ணாகப் படைத்த பொன்னைக் கண்டா
+பூரிப்படைவேன்? தேவி! பாம்பை அணிபவன் என்று கூறும்
+அதே பாமரர் பவுன்களைச் செலவிடுவது எனக்காகவென்றா
+எண்ணுகிறாய்? பக்திமான் என்று தன்னைக் காட்டிக்
+கொள்வதன் மூலம் பாமரரை அடிமை கொள்ளலாம் என்று
+நினைக்கும் காசு படைத்தவனின் கபட நாடகமல்லவா அது.'*
+
+“பாமாலை சூட்டினரே.''
+
+“தங்கள். புலமையைக் காட்ட'*
+
+“பூமாலை சூட்டுகின்றனரே.!
+
+“பூவையருக்குப் பிரியத்துடன் பூஜாரி வழங்க; எனக்கில்லை”!
+
+“எதற்கும். நீரே துணை என்று கூறிப் போற்றுகின்றனரே."'
+
+தன்னம்பிக்கையைத். தற்குறிகள் இழந்துவிட்டால் தலை
+யாட்டிப் பொம்மைகளாகிவிடுவர். பிறகு. தமது தர்பார் நடத்தச்
+செளகரியமாக இருக்குமென்று தன்னலக்காரர்கள். புகுத்திய
+தத்துவமல்லவா அது. அது எப்படி என்னைப் போற்றுவதாகும்?'””
+
+## Image 8: 008-4888f307a1.png
+
+- Image: `sirukathaigal/palliyarayil_paramasivan/008-4888f307a1.png`
+
+“உன் அடி தொழுதார்க்கு உண்டு சுகம் என்று கூறிப்
+பூஜிக்கின்றனரே.”
+
+“சுயநலக்காரன், ஒய்வு நேரத்தில் சொல்வது அது. கள்ள
+மறியாச் சிந்தைக்காரன் பிறனுடைய சுயநலத்தால் ஏமாறும்போது
+பேசும் வாசகம் அது, என்னைத் திருப்தி செய்யுமா?"
+
+“நீ கோயில் கொண்டிருக்கும் ஸ்தலங்களுக்கெல்லாம் திரள்
+திரளாக செல்கின்றனரே.*
+
+“மதியீனர்களின் மனமருள் அது. அதைத் துணை கொண்டு
+மந்தகாச வாழ்வு நடத்துகின்றனர் புரோகித வகுப்பார்.”
+
+““அர்ச்சகர்களையும், ஆலயப் பணியாட்களையும் அமர்த்தி
+யுள்ளனரே!"
+
+“அவர்கள் வாழ! என் தேவைக்காக அல்ல.”*
+
+“தேவ பூஜைக்கு என கீதமொழிக் குயில்களையும் ஆடலழகி
+களையும் ஆலயங்களிலே நியமித்துள்ளனரே.."
+
+ஆள் சேர்க்க, எனக்குத் தொண்டுபுரிய அல்ல.”
+
+“மன்னாதி மன்னர்களையும் மண்டியிட வைக்கும்
+மகத்துவம் உள்ள மகேஸ்வரன் என்று கூறினரே.
+
+“முடியுடை வேந்தரை மதியுடைக் கயவர் மடக்கியது அந்த
+மயக்க மொழி பேசித்தான்.”
+
+உரையாடல் முடிந்தது. பார்வதியாருக்குக் கேள்வி வறண்டு
+விட்டது. பரமசிவத்துக்கோ பேச்சு நிற்கவில்லை... பார்வதி!
+என்னைக் கல்லாக்கிச் செம்பாக்கினர் கயவர்கள். இவ்வளவு
+நலன்களைத் தந்த என்னைக் கல்லாக்கினர் செம்பாக்கினர்.
+தகுமாஅது? என்னைப் பற்றி அருவருக்கத்தக்க, ஆபாசம் நிறைந்த
+கதைகளை, காமக் கூத்துக்களை எழுதி வைத்தனர். அறிவுள்ள
+வரின் சிந்தனை என்னென்ன எண்ணுகிறது தெரிமா? அன்பே!
+நான் பக்தனிடம் சென்று அவன் மனையாட்டியை என்
+பின்னோடு அனுப்பச் சொன்னேனாம். எழுதலாமா இது போலக்
+கதை. எழுதித் தொலைத்தார்களே. அறிவு வளர வளர, இத்தகைய
+ஆபாசக் கதைகள் வேண்டாமென்று ஒதுக்கிவிட வேண்டாமா?
+நான் மற்றொரு பக்தனிடம் சென்று பிள்ளைக் கறி கேட்டேனாம்.
+வேறோர் பக்தனின் கண்களைப் பெயர்த்தேனாம்; வில்லடி பட்
+டேனாம்; கல்லடி பட்டேனாம்; பிரம்பாலடி பட்டேனாம்;
+பன்றிகளை மந்திரிகளாக்கினேனாம்; தாசி வீட்டுக்குத் தூது
+சென்றவனாம் நான். தேவி! கேள் இந்த அக்ரமத்தை! நான்
+
+## Image 9: 009-58a91943f6.png
+
+- Image: `sirukathaigal/palliyarayil_paramasivan/009-58a91943f6.png`
+
+சுந்தரன் என்ற பக்தனுக்காகத் தாசி வீட்டுக்குத் தூதுசென்றேனாம்.
+எழுதலாமா இதுபோன்ற கதைகளை? என்ன செய்வது, இப்படி
+என்னை 'நிந்திக்கும் கயவர்களை, என் பெயரைக் கூறி மக்களை
+ஏய்க்கும் புலவர்களை?” என்று பரமசிவன் கேட்டார்.
+
+என்ன செய்வதா? ஏன், இழுத்து வந்து ஆளுக்கு ஆறாறு
+மாதம் சுயமரியாதைப் பள்ளியிலே படிக்கச் சொல்வதுதானே?”
+என்று சொல்லிவிடத்தான் வேண்டும் “என்று தோன்றிற்று.
+இதற்குள் பார்வதியார், “பிரபோ! தங்கள் பேச்சைக் கேட்ட பிறகு
+எனக்குப் பித்தம் தெளிந்தது. நீர் என்ன செய்வீர்? மக்கள்
+தங்களைத் தாங்களே பாழாக்கிக் கொள்கின்றனர்; நம்மையும்
+இழிவாக்கிவிட்டனர். மதி வளருவது தவிர அவர்கள் மீள வேறு
+மார்க்கம் இல்லை'' என்று கூறிவிட்டு “நேரமாகிறது, தூக்கமும்
+வருகிறது: என்றார். அதே சமயத்திலே “நேரமாகிறது எழுந்திரு''
+என்று கூறி, என் முதுகைத் தம்பி தட்டக் கண்டு விழித்தேன்.
+கைலாயத்தில் நடைபெற்ற உரையாடலைப் பற்றிய கனவும்
+கலைந்தது என்றான் வீரன்.
+
+சரியான கனவுதான் கண்டாய்! இதைப் போய்ப் பெரிய
+பிரமாதமாகக் கூற வந்து விட்டாயே”' என்று நான் கேலி
+செய்தேன்.
+
+“பரதா! கூறினது மட்டுமல்ல, இது இந்தக் கிழமை
+பத்திரிகையிலே. வெளி வந்தாக வேண்டும்'' என்று
+வற்புறுத்தினான் வீரன்.
+
+“உனக்கு வேறு வேலை கிடையாது போ! கனவிலே
+கைலாயம் சென்றானாம். பார்வதி, பரமசிவன் பேசினதைக்
+கேட்டானாம். இதையெல்லாம் பத்திரிகையிலே போடுவதா? நல்ல
+வேலை” என்று நான் மறுத்தேன். விட்டானே ஒரு வெடிகுண்டு,
+வீரன்!
+
+“அதுசரி பரதா! நான் கனவு கண்டால் அது கவைக்கு
+உதவாது என்று கருதுவாய். இதுவே ஒரு ஐயர் கனவாக இருந்தால்
+அது அருள்மொழியாகி விடும். பத்திரிகைகளிலே பக்கம் பக்கமாக
+இடம் பெறும்'' என்றான்.
+
+அப்.படி ஒரு பத்திரிகையும், யாராரோ ஏதேதோ. கனவுகள்
+கண்டால் வெளியிடாது” நான் பத்திரிகை நடத்தும் முறை பற்றி
+விளக்கினேன்.
+
+“உனக்கு மறதி அதிகம்!”” என்றான் வீரன்.
+
+## Image 10: 010-bb76e3721a.png
+
+- Image: `sirukathaigal/palliyarayil_paramasivan/010-bb76e3721a.png`
+
+“எனக்கா?'' என்று கேட்டேன். “ஆமாம்” என்று
+
+கூறிவிட்டு, பலபேருடைய கனவுகள், புராணங்கள் என்ற
+பெயரிலே இன்றும் நாட்டிலே உலவி மக்களால் நம்பப்பட்டும்,
+பேசப்பட்டும் வருகிறது. பரதா! நான் அதைக்கூட ஆதாரமாகக்
+
+காட்டவில்லை. உன்னுடைய ஒன்றே காலணா பத்திரிகையைத்
+தள்ளு. பிரம்மஸ்ரீகள் நடத்துகிற பெரிய மூலதனமுள்ள, வளமான
+வருவாயுள்ள பத்திரிகையிலே, இதுபோன்ற கனவுகள் வெளியிடப்
+பட்டு, வாசகர்களின் மனதிலே நுழைக்கப்படுவதை நீ அறிவாயா?
+இரண்டே தாரணம் கூறுகிறேன், கேள். காந்தியார் பிர்லா
+கனவிலே தோன்றி பணம் கேட்டாராம், அது பத்திரிகையிலே
+வந்ததப்பா! சாதாரணமானவரல்ல அதற்கு ஆசிரியர். மகாத்மாவின்
+மகன் இருக்கிறாரே தேவதாசர், நம்ம ஆச்சாரியாரின் மருமகன்,
+அவரை ஆசிரியராகக் கொண்ட பத்திரிகையிலே “கனவு!
+வெளிவந்தது. கனவாக மட்டும் இல்லை அது, காசும் கிடைத்தது.
+அந்தக் கனவு கண்டதும் அந்தக் கோடீஸ்வரர் நிஜமாகவே
+பணமும் தந்தாராம் காந்தியாருக்கு. சந்தேகம் இருந்தால்
+இந்துஸ்தான் டைம்ஸ் என்ற டில்லி பத்திரிகையைப் பார்.
+ஆங்கிலப் பத்திரிகை. உன் தமிழல்ல!! காங்கிரசுக்கு முன்பு
+பிறந்ததே ஒரு கனபாடி ஏடு, சுதேசமித்திரன் அது
+சாமான்யமானதா, 4 பக்கம் பத்திரிகை என்றால், அதிலே
+விளம்பரம் எவ்வளவு தெரியுமா? அப்படிப்பட்ட பத்திரிகை
+ஒருவரின் கனவை. வெளியிட்டது. சாதாரணமானதல்ல! நான்
+கைலாயத்தைக் கண்டு, பரமனும் பார்வதியும் பேசியதைக் கேட்
+டேன் என்றால் நீ சிரிக்கிறாயே! சுதேசமித்திரன் ஆசிரியருக்கு,
+இதேபோலச் செய்தி அனுப்பப்பட்டது, அவர் சிரிக்கவில்லை,
+பரதா! உன்போல இதையெல்லாம் பத்திரிகையிலே வெளியிடுவது
+என்று. பத்திரிகா தர்மமும் பேசவில்லை. அழகாக் அலங்காரமாகப்
+பிரசுரித்திருந்தார். என்ன கனவு தெரியுமோ? மகாகனம் சீனுவாச
+சாஸ்திரியாருக்குக் கனவிலே மஹா விஷ்ணு காட்சியளித்தாராம்.
+முதலிலே கொஞ்சம் ஒளி தெரிந்ததாம், பிறகு வரவர .ஒளி
+பெரிதாகிக் கொண்டே இருந்ததாம். கடைசியில் சைவ
+மகாகனத்துக்கு மஹா விஷ்ணு தரிசனம் தந்தாராம். இதைப்
+பத்திரிகையிலே வெளியிட்ட, மித்ரன் ஆசிரியர், உலகப்
+பொருளாதார மென்ன, யுத்தத்தின் போக்கென்ன. நாணயமாற்று
+விகித விளக்கமென்ன, நாட்டுப் பொது நிதி விஷயமென்ன,;
+சர்ச்சிலின் தவறு, ஸ்டாலினின் கவனக் குறைவு; சீனாவின்
+சிரத்தை, அமெரிக்கரின் அக்கறை என்ற இன்னோரன்ன. பிற
+
+## Image 11: 011-1dcd505173.png
+
+- Image: `sirukathaigal/palliyarayil_paramasivan/011-1dcd505173.png`
+
+மகத்தான விஷயங்களிலே மனதை இலயிக்கச் செய்யும் ஆசிரியர்,
+மகாவிஷ்ணு மகாகனம் கனவிலே பிரத்யட்சமானார் என்ற
+செய்தியை வெளியிட்டாரே. இன்னும் சில கூறட்டுமா?'” என்று
+மேலும் பேசத் தயாரானான் வீரன்.
+
+“வேண்டாம். வேண்டாம். வீரா! உன் கனவு பற்றியே
+இக்கிழமை வெளியிடப் போகிறேன்! என்று வீரனிடம்
+கூறினேன். வெளியிட்டு விட்டேன். ்
+
+ஆறு காலுடைய எருமைக் கன்று. மூன்று கண்ணுடைய
+மாடு, ஆண் பெண் இல்லாது அலியாக இருக்கும் கோழி,
+இருபக்கம் தலையுள்ள பாம்பு, கிளைகளை உடைய பனை மரம்
+இன்னும் இதுபோன்ற பலவற்றை இயற்கையின் விசித்திரம்
+என்பர். இயற்கைக்கு இவை மாறுபட்டிருக்கிற காரணத்தால்.
+
+சிவலிங்கம் சாட்சி சொல்வது, எலும்பு பெண்ணுருவாவது,
+பனை ஓலைத்துண்டு வெள்ளத்தை எதிர்த்துச் செல்வது, கருங்கல்
+பாறை மிதப்பது, நரி பரியாவது, அறுத்துக் கறி சமைத்த பிள்ளை
+உயிர் பெற்று எழுந்து வருவது, பன்றியும். அன்னமும் அடிமுடி
+தேடுவது, ஒருவர் முதுகில் பிரம்பால் அடித்ததும் அனைவர்
+முதுகிலும் அடி விழுவது, யானை கதறினதும் ஆண்டவன்
+வருவது, சிலந்தி பந்தல் போடுவது, சிவனாரைப் பூஜித்த யானை
+சிவபதம் அடைவது போன்றவைகள் எங்கும் எக்காலத்திலும்
+நிகழ்ந்திருக்குமா? நிகழ்ந்திருக்க முடியுமா? என் வேலை முடிந்தது.
+இனி சிந்திப்பது உங்கள் வேலை!!
+
+க % ௬ 3
+
+ப பபண
+
+னி
+
+## English Translation
+
+Tamil title: பள்ளியறையில் பரமசிவன்
+
+"Meenakshi! Why are you so angry? Kamakshi! Do my endearments not reach your ears? Neelayadakshi! Can my mind be at peace when you are like this? Akilandeswari! What wrong have I done you? Ambika! Look at me. Thyagavalli! Turn around. Tripurasundari..."
+
+I heard the sound of someone speaking amorously in this fashion. Who could be calling out the names of so many women in the middle of the night, I wondered, and looked. There sat Aalavayappan, Sokkan, Lord Siva himself, talking with his lawful wife. Do not he and the Goddess have thousands of names? Is there not a different name at every temple? That was why he called to her by so many names: "Kamakshi! Meenakshi! Neelayadakshi! Ambika! Tripurasundari!" But the Goddess would not even move her lips," said Veeran.
+
+"That is enough of your latest tall tale. Stop it. I have other work to do. I have no time to hear your story," I said.
+
+Was Veeran one to let the matter go? "Would you ever be inclined to hear a story from me? Am I a recipient of a 'Sir' title, an owner of a landed estate, a decorated poet, a bard, or a puranic preacher? Naturally you have nothing but contempt for me," he said angrily.
+
+"Do not be angry, Veera! What you want to tell me is some new purana. So many different events are taking place in the country. So many people's opinions are being expressed. There is the course followed by the government and its supporters, the state of the Congress and the League, the Dravidian agitation, the awakening of the students, the growth of the arts, and the stirring of the hearts of their admirers. With all these matters before us, why drag in something else?" I said, trying to pacify him.
+
+Veeran was neither calmed nor satisfied. Thinking that a true occurrence might delight him, I said, "Listen, Veera! You refuse to pay attention to events that are actually happening. The war is being fought in Italy, is it not? Hear of an astonishing act of courage that took place on the battlefield at Cassino. See how the fame of a Tamil shines brightly.
+
+"It was a battlefield where cannon roared and rifle bullets tore through men's chests, where the Germans attacked ferociously. The enemy had planted mines here and there. A unit of the Allied forces was engaged in the dangerous work of removing them. At that moment a naik stumbled over one of the mines and ignited it. It was over: the bomb would explode the next instant, and the army officer's body would be blown to pieces. He did not know what had happened. He did not know that death had reached out and was pulling him away.
+
+"Do you know what happened, Veera? A Tamil son of an ancient and glorious people was there. He saw it. He did not panic. He did not remain still, thinking, 'What is it to us?' Nor did he merely shout, 'Naik, move! Run! Escape! A mine!' Without delaying even a second, he leapt upon the bomb and clasped it to his body. The bomb exploded. His body was torn to fragments. The officer who would have died escaped. The hero perished, and his fame rose like a mountain.
+
+"The Tamil quality of surrendering one's own life to save another, and the manly courage of possessing a fearless heart in a moment of danger, were revealed to the world by this incident at Cassino a few days ago. The man who made that heroic sacrifice came from our own district. When I think of it, a smile and tears rise together. A resident of a tiny village near Walajabad, outside Chengalpattu, crossed the sea and made the world aware of the Tamil tradition on the field at Cassino. His name was Subedar Subramaniam.
+
+"General Wingate, who demonstrated in the Burma campaign the new method of landing a small force by air behind enemy lines and attacking from there, died in an aeroplane accident. Just as the world recognizes his ability, his courage, and his tragic end, it speaks with wonder of Subedar Subramaniam's heroic sacrifice. The lamp in the garden of heroes burns brightly. Seeing such a flame, the Goddess of Freedom will rejoice that this is her true temple; she will not be delighted by the sugary speeches of mere word-warriors.
+
+"To speak, write, read, and hear about martyrs such as Subedar Subramaniam will nourish courage, character, and Tamil pride. Why abandon that to speak of the idle? What does it matter to us what Parvati and Paramasivan talked about at midnight?" I said.
+
+Veeran remained deep in thought for a few seconds. Then he said, "Bharatha! The event you have related is indeed a heroic deed about which every Tamil can stand proudly before the world and declare, 'Recognize Tamil courage!' I have no objection whatever to that. Nor do I fail to take pride on hearing such acts of heroism. I will make the fame of Subedar Subramaniam, who has entered the pass of glory, known throughout Tamil Nadu. That is certain."
+
+I was pleased and thought of saying more. But Veeran began his old refrain: "Now listen to my story. I heard Paramasivan say this to Parvati..."
+
+"What, Veera! Parvati and Paramasivan were talking, and you stood nearby listening? Is that the matter? Who will believe it?" I interrupted.
+
+Can a hand-sized stone laid before an onrushing flood stop it? Was Veeran one to submit to the little bridge of my interruption? He adjusted his voice and began. I had no choice but to listen.
+
+Still hoping to silence him, I tried once more. "Veera! Do you know the news? The Japanese have reached the outskirts of Imphal. Kohima too is in danger. The war has come close to us," I began, intending to draw his attention away from the bedchamber of Paramasivan and Parvati and toward the battlefield.
+
+"That was precisely what they too were discussing," Veeran told me.
+
+"How strange! Did Paramasivan and Parvati speak about that as well? I was distressed because we never see them turn their holy gaze in our direction," I said mockingly, knowing that Veeran enjoyed ridicule.
+
+"Bharatha, listen to what happened. Paramasivan took hold of the chin of the angry Parvati. Then he did something or other. The Goddess burst into laughter. 'Ah! Did it take this long for a smile to appear? Has your anger gone?' asked the wearer of the tiger skin in a coaxing voice.
+
+"The lady restored her face to its former sternness. 'When women grow angry, men habitually say something and do something to make them laugh, and thereby accomplish what they want. Are you not the master of that art?' she said, needling Paramasivan.
+
+"Then she continued, 'You ask why I am angry and what has hurt me. How could I not be angry? If a wife hears many people revile her husband, will her heart not be wounded? You may sit unconcerned, thinking the people of the world may say whatever they please about you. I cannot do so.' She wiped her eyes.
+
+"Kapali opened his eyes wide. 'Parvati! Who spoke scornfully and abusively of me? Tell me at once. I shall reduce them to dust!' he cried in fury.
+
+"'See them directly with your own eyes and hear with your own ears who abuses you and what they say,' said Kamakshi, leading Paramasivan upstairs. I too went softly upstairs, making no sound, invisible to their eyes.
+
+"The full moon shone splendidly in a stainless sky surrounded by many stars. Seeing it, Paramasivan said, 'Beloved, look there! The moon appears like a young princess walking amid a company of beautiful women. At such an hour, in this moonlight, instead of you and I talking about who has reviled us and why...'
+
+"Before he could finish, Parvati said, 'Look there,' and showed him a scene on earth. I saw it, and Paramasivan saw it too.
+
+"It was some place on earth. People carrying children and pulling one another along were crossing forests and mountains, their eyes overflowing with tears, their bodies trembling, and their hearts steeped in terror.
+
+"'Kamakshi! What is this sight?' Paramasivan asked.
+
+"'You have seen the sight. Good. Now hear what they are saying,' the Goddess replied.
+
+"After seeing that dreadful scene, I too heard their words.
+
+"'O God! Have you no eyes? Is your heart made of stone? Can one who allows us to suffer like this be called compassionate? With the hands that built temples for you, we now wring our fingers, not knowing what to do. Have you no mercy? The feet that circled your temple are now of use only for running over forest and hill, searching for some place where we might survive. Do our cries not reach your ears? The ears that delighted in the sound of fireworks at the festivals we held for you are pierced today by the blast of cannon. Does your heart not soften?' the people wailed.
+
+"I longed to ask who they were and why they wept so. But I restrained myself, fearing that if I spoke my presence would become known. As though she understood what I wanted to learn, Parvati continued:
+
+"'That place is Imphal. These village people have abandoned their homes and are travelling toward Imphal as refugees through terrible hardship, so that they will not fall into Japanese hands and be destroyed. They ask whether you have no eyes. In short, they ask, "Are you blind?" They ask whether your heart is iron. Lord, this is not all. The pitiable people who died of hunger in Bengal formerly reviled you even more harshly. In the many places afflicted by famine and disease, they call you blind, hard-hearted, cruel, and one who does not save the poor.
+
+"'What happens to a wife's heart when she hears her husband spoken of in such terms? For some reason or other, should you not relieve these people of their suffering? If you cannot, should you not at least tell them so? Can you remain without looking at them or lending them an ear, content with my fragrance and love, Narada's music, Nandi's drum, the play of the Ganges, and all your other pleasures?'
+
+"I thought the Goddess's words would anger the Lord. Sakti's speech did not anger Siva. Walking about, he began to explain the matter cleverly.
+
+"'Parvati! I have already given the earthly world everything I had to give and done everything I had to do. There is nothing more I can do.'
+
+"Parvati hurried after him, seized his shoulder, and shook it. 'Excellent! You have done everything that had to be done? Fine justice indeed! Because there is nobody to question you, have you acquired the boldness to do anything and say whatever you please?'
+
+"At that very moment the same thought leapt into my mind.
+
+"Lord Siva said, 'Sivakami! Put away your anger. I created the world. I created enchanting forests, fruit-bearing groves, and forest streams. I commanded wind and fire to perform their duties. I bestowed perennial rivers and fertile soil. I supplied every substance needed for people's comfort. I made the sea and gave them vessels with which to cross it. I created pearls in the sea and, lest anyone simply see and take them, appointed sharks and swirling waves as their guards. I made gold and hid it away so that it would not be used recklessly. I also gave people intelligence with which to discover all these things. What else can I give? What remains? And what have they given me in return for all that I gave them?'
+
+"'Lord! What sort of question is that?' Parvati asked, just as any of us would have wished to ask.
+
+"'What have they given me?' he demanded again, angrily. The following dialogue then took place:
+
+"'Why, have they not given you beautiful temples?'
+
+"'To me? Or to the rogues who take up residence in temples, stage fraudulent dramas, and extort money? For whom is the temple, Kamakshi? For me? Did I ask for a house to live in? That is not what I asked. When I have a temple in the hall of the human mind, do I require another?'
+
+"'They perform ablutions and worship for you!'
+
+"'For me? Is it not a clown show staged with the money of dupes so that those who do no work may live?'
+
+"'In every town they conduct chariot processions and festivals to glorify you.'
+
+"'To glorify me? Or to glorify the flute player, the smiling performer, the musician, and the women of pleasure?'
+
+"'They spend enormous sums on jewels and other adornments for you.'
+
+"'Is that expenditure incurred for me? Would I rejoice at the sight of gold which I myself created as part of the earth? Goddess! The same simpletons who call me one who wears snakes spend sovereigns and suppose it is for me. Do you think so too? Is it not the fraudulent drama of the wealthy man who imagines that by presenting himself as a devotee he can enslave the common people?'
+
+"'They have adorned you with garlands of verse.'
+
+"'To display their own learning.'
+
+"'They garland you with flowers!'
+
+"'So that the priest may fondly give them to women, not for me.'
+
+"'They praise you, declaring that you alone are their support in everything.'
+
+"'If the unlettered lose their self-confidence, they become nodding dolls. Self-seekers planted that doctrine because it would then be convenient to conduct their own court. How can that be praise of me?'
+
+"'They worship you, saying that happiness awaits those who bow at your feet.'
+
+"'That is what the selfish man says in his leisure. It is what an innocent mind repeats when deceived by another's selfishness. Will it satisfy me?'
+
+"'Crowds upon crowds travel to every sacred place in which you have a temple.'
+
+"'That is the delusion clouding foolish minds. The priestly class uses it to lead a life of indolent luxury.'
+
+"'They have appointed priests and temple servants!'
+
+"'So that those people may live, not because I need them.'
+
+"'They have appointed sweet-voiced singers and beautiful dancers in the temples for divine worship.'
+
+"'To recruit people, not to serve me.'
+
+"'They have called you Maheswara, possessed of the greatness that makes even kings of kings kneel.'
+
+"'It was by speaking those beguiling words that cunning men of intellect subdued crowned kings.'
+
+"The dialogue ended. Parvati had run out of questions. Paramasivan, however, had not run out of words.
+
+"'Parvati! The rogues turned me into stone and copper. They turned me, who gave them so many benefits, into stone and copper. Is that proper? They wrote disgusting and obscene tales and erotic spectacles about me. Do you know what the mind of an intelligent person thinks, beloved? They say I went to a devotee and commanded him to send his wife after me. Can such a story be written? Yet they wrote and left it behind. As knowledge grows, should they not reject such obscene stories as unnecessary?
+
+"'They say I went to another devotee and demanded meat cooked from his child. They say I plucked out another devotee's eyes; that I was struck by a bow, by a stone, and by a cane; that I turned pigs into ministers; and that I acted as a messenger to a courtesan's house. Listen to this injustice, Goddess! They say that for the sake of a devotee named Sundarar I carried a message to a courtesan's house. Can stories such as these be written? What am I to do with the rogues who revile me in this way, and with the poets who deceive the people by invoking my name?'
+
+"What should he do? Why not drag them in and make each study for six months at a Self-Respect school? I felt like saying exactly that.
+
+"Before I could, Parvati said, 'Lord! After hearing you, my confusion has cleared. What can you do? People are ruining themselves, and they have degraded us as well. They have no path to recovery except the growth of reason.' Then she said, 'It is late. I am sleepy.'
+
+"At that same moment my younger brother tapped me on the back, saying, 'It is late. Get up.' I awoke, and the dream of the conversation on Kailasa dissolved," said Veeran.
+
+"You certainly had a proper dream! And you have come to relate it as though it were some great marvel," I mocked.
+
+"Bharatha! It is not enough that I have told it. It must appear in this week's paper," Veeran insisted.
+
+"You have no other work. Go away! You supposedly travelled to Kailasa in a dream and heard Parvati and Paramasivan talking. Are we to print all that in a newspaper? A fine business that would be," I refused.
+
+Then Veeran dropped a bombshell.
+
+"Very well, Bharatha! If I have a dream, you consider it unfit for any purpose. If the same dream belonged to an Iyer, it would become a message of grace. Newspapers would devote page after page to it," he said.
+
+"No newspaper of that sort publishes whatever dreams assorted people happen to have," I replied, explaining the principles by which I ran a paper.
+
+"You are very forgetful," said Veeran.
+
+"I am?" I asked.
+
+"Yes," he replied. "The dreams of many people still circulate through the country under the name of puranas, and people believe and repeat them. Bharatha, I do not even offer that as my evidence. Set aside your quarter-anna newspaper. Do you not know that dreams of this sort are printed and planted in readers' minds by large, prosperous newspapers run by Brahmasris, with abundant capital and revenue?
+
+"'I shall give you just two examples. Listen. Gandhi supposedly appeared in Birla's dream and asked for money. That appeared in a newspaper! Its editor was no ordinary person. It was printed in the newspaper edited by Devadas, the Mahatma's son and our Acharya's son-in-law. Nor did it remain merely a dream: money came from it. After the dream, that millionaire is said actually to have given Gandhi money. If you doubt it, look at the Delhi paper *Hindustan Times*. An English paper, not your Tamil one!
+
+"'There is a weighty newspaper born even before the Congress: the *Swadesamitran*. Is that an ordinary four-page paper? Do you know how much advertising it carries? Such a newspaper published a person's dream. It was no ordinary dream. You laugh when I say I saw Kailasa and heard Paramasivan and Parvati speaking. Similar news was sent to the editor of the *Swadesamitran*. He did not laugh, Bharatha. Unlike you, he did not ask whether all this should be printed or preach the ethics of journalism. He published it beautifully and with embellishment.
+
+"'Do you know the dream? Maha Vishnu is said to have appeared in the dream of the Right Honourable Srinivasa Sastri. At first a little light appeared. Then the light grew greater and greater. At last Maha Vishnu granted a vision to the Saivite dignitary. The editor who published this story about Maha Vishnu appearing in the dignitary's dream is otherwise able to immerse his mind in such great matters as world economics, the course of the war, exchange rates, the public finances of the country, Churchill's error, Stalin's inattention, China's vigilance, America's concern, and many more. Yet he published that news. Shall I give you still more examples?'
+
+"Veeran was preparing to continue.
+
+"No, no, Veera! I am going to publish your dream this week," I told him. And I have published it.
+
+A buffalo calf with six legs; a three-eyed cow; a chicken neither male nor female; a two-headed snake; a palm tree with branches; and many other such things are called wonders of nature because they depart from nature's usual form.
+
+But could such things as these have happened anywhere, at any time: a Sivalingam giving testimony; a bone becoming a woman; a strip of palm leaf travelling against a flood; a black rock floating; a fox becoming a horse; a child who was slaughtered and cooked returning alive; the boar and the swan seeking Siva's feet and crown; a blow from a cane upon one man's back falling upon every back; the Lord arriving when an elephant cries out; a spider erecting a canopy; and an elephant that worshipped Siva attaining Siva's abode? Could they possibly have happened?
+
+My work is done. Now it is your work to think.
+
+## Translator's Notes
+
+The source is an OCR transcription of eleven scanned pages. Images 4 and 6 originally contained no OCR text and were transcribed directly from the scans before translation. Clear OCR spacing and character errors are documented separately; doubtful wording has not been silently regularized. "Paramasivan" is retained in the English title to preserve the story's familiar Tamil naming, while "Lord Siva" or "Siva" is used contextually in the body. Historical names, events, and newspaper claims are translated as presented in the source and are not independently asserted here as verified history.

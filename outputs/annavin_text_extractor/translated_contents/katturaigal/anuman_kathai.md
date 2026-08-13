@@ -1,0 +1,147 @@
+# அனுமன் கதை! / The Story of Hanuman!
+
+**Tamil title:** அனுமன் கதை!  
+**English title:** The Story of Hanuman!  
+**Source file:** `katturaigal/anuman_kathai.md`
+
+## Source Tamil (verbatim)
+
+- Source image folder: `/Users/pugazhendhirajendran/Documents/Codex/2026-07-09/https-www-annavinpadaippugal-info/outputs/annavin_text_extractor/ocr_images/katturaigal/anuman_kathai`
+- OCR language: `tam`
+- Tesseract page segmentation mode: `3`
+- OCR cleanup: `enabled`
+
+## Image 1: 001-93eabbac06.png
+
+- Image: `katturaigal/anuman_kathai/001-93eabbac06.png`
+
+92. அனுமன் கதை!
+
+வாங்கிய விலை ௫ 2,56,680-0-0
+ஏற்பட்ட செலவுரூ 1,96,580-8-0
+மொத்தச் செலவுரு 4,54,260-8-0
+
+்'அனுமானை வாங்கிக்கொண்டு வந்து, பராமரிக்கும் வகையில்
+இந்தச் செலவு ஆகியிருக்கிறது இன்னும், அனுமான், நம்மிடமே
+இருக்கிறது."
+
+''பக்தவத்சலா! பரமதயாளா. '' என்று பதறியதைக் கேட்டுப் பாபம் '
+பக்தன் கதறுகிறானே, ரட்சிப்போம் என்று கருடவாகன ரூபராய் வந்த
+பக்தவத்சலம் அல்ல; நமது மாநில மதிமுக மராமத்து அமைச்சர் '
+பக்தவத்சலம் தகவல்களே அறிவித்திருக்கிறார்
+
+“இப்போது, அனுமான் எங்கே?!
+
+“மீனம்பாக்கத்தில் கிடக்கிறது!”
+
+._ இதுபோல. ரசமான கேள்வியும் பதிலும் கடந்த 23ந்தேதி சென்னை
+மேல் சபையில் பரிமாறிக் கொள்ளப்பட்டனவாம். அப்போது, மேற்கண்ட
+கணக்கு விவரம், மராமத்து அமைச்சரால் தரப்பட்டிருக்கிறது.
+
+'அனுமான்' என்ற பெயரில், சென்னை சர்க்கார் ஆகாய விமானம்
+ஒன்று வாங்கியதும், அது உபயோகமற்று மீனம்பாக்கத்தில் கிடப்பதும்,
+எல்லோருக்கும் தெரியும் ஆனால், அதற்கென, சர்க்காரின் கஜானா
+விலிருந்து காலியாகியிருக்கும் தொகை இப்போது தெரிந்திருக்கிறது!
+
+## Image 2: 002-e4474f752c.png
+
+- Image: `katturaigal/anuman_kathai/002-e4474f752c.png`
+
+இத்தகவலைத் தயக்கத்தோடு தந்திருக்கும் பக்தவத்சலம், அனுமான்
+மூலம் வந்த வருமானத்தையும் குறிப்பிட்டுள்ளார். அது, ரூ. 11,325-7-0//
+
+இந்த விபரத்தைக் காண்போரின் இதயம் குமுறும் ஒரு
+விமானத்துக்காக சுமார் ஐந்து லட்சமா! என்று ஆவேசத்தோடு கேட்கத்
+தோன்றும்.
+
+அவர்களுக்கு மேலும், ஒரு தகவல் தந்துள்ளார், அமைச்சராக,
+இன்னும் சிலகாலம் இருக்கப் போபவர்.
+
+“அனுமான், இப்போது உபயோகத்திலில்லை. அதை விற்று
+விடலாமென விரும்பி, வெளியிட்டோம். யாரும் வாங்கவில்லை!''
+
+அனுமான், பேசாமல் கிடக்கிறது; அசையவில்லை. யார்
+தலையிலாவது கட்டலாமெனப் பார்த்தாலும் வாங்குவாரில்லை! யாராவது,
+எடுத்து உபயோகப்படுத்த முன் வருவார்களா என்றால் அதுவும் இல்லை!
+
+எட்டுக்கும் தேவையான நன்மைகளை நீங்கள் ஏன் செய்ய
+வில்லை'' - இதுபோலத் தேர்தல் கூட்டங்களில் கர்ஜனை எழுப்பச் செல்லும்
+காங்கிரஸ் 'கனம் 'களைக் கேட்டால், ''நாங்கள் என்ன செய்வோம்?
+செய்யவேண்டுமென்று ஆசைதான். ஆனால், பணம் இல்லையே!'' என்று
+பதில் தருகின்றனராம். பணம் இல்லாதது பற்றி விளக்க ஆரம்பித்து,
+பாகிஸ்தான் பிரிவினை, புதுச் சுதந்திரம், அணைக்கட்டு வேலை,
+இதுபோலப் பலப்பல பேசுகின்றனராம்!
+
+ஐந்து லட்சம்! - தங்களது ஆடம்பரத்துக்காக. ஆனால், அப்படி
+வாங்கிய விமானமும் ஓடவில்லை; பயனும் பலனும் தரவில்லை. அதை
+விற்கலாமென்றாலும் வாங்குவாரில்லை.
+
+எவ்வளவு அவலட்சணம் இது! இதை வெளியில் சொன்னால் என்ன
+நினைப்பர்!
+
+சர்க்காரின் கஜானாவை நிரப்பும் விவசாயியின் காதில் இந்தக்
+கேவலம் விழுந்தால், என்ன நினைப்பார். ஏழைத் லக் எல்
+எத்தகைய எரிமலையாகும்/
+
+## Image 3: 003-6ea8168ca5.png
+
+- Image: `katturaigal/anuman_kathai/003-6ea8168ca5.png`
+
+காங்கிரஸ் ஆட்சியின் அலங்கோலம் பற்றிக் கேள்வியுறுவோர்
+'அக்கிரமம்! அநீதி!!' என்றே குமுறுவர்.
+
+அந்தக் குமுறல், இன்று கோலேந்தினோரைக் கொண்டாட்டப்
+புரியிலிருந்து வீழ்த்த வேண்டும்.
+
+அப்போதுதான், எதிர்காலத்தின் சாபத்திலிருந்து, நமது நாடுதப்பிப்
+பிழைக்கும்.
+
+(திராவிட நாடு - 28.10,51).
+
+## English Translation
+
+| Item | Amount |
+|---|---:|
+| Purchase price | Rs. 2,56,680-0-0 |
+| Expenditure incurred | Rs. 1,96,580-8-0 |
+| Total expenditure | Rs. 4,54,260-8-0 |
+
+"This expenditure was incurred in purchasing Hanuman, bringing it here, and maintaining it. Hanuman is still with us."
+
+This information was not announced by Bhaktavatsala, the deity who, hearing a devotee cry in distress, "Protector of devotees! Infinitely compassionate one!" came in the form of the eagle-mounted Lord to save him. It was announced by our State Minister for Public Works, Bhaktavatsalam.
+
+"Where is Hanuman now?"
+
+"It lies at Meenambakkam!"
+
+Such amusing questions and answers were reportedly exchanged in the Madras Legislative Council on the 23rd. The Public Works Minister then supplied the account shown above.
+
+Everyone knows that the Madras Government purchased an aeroplane named "Hanuman" and that it lies unused at Meenambakkam. We now know how much of the government treasury has been emptied for it.
+
+Bhaktavatsalam, who supplied this information hesitantly, also stated the income earned through Hanuman: Rs. 11,325-7-0.
+
+The heart of anyone seeing these details will seethe. One feels compelled to ask angrily: nearly five lakh rupees for one aeroplane?
+
+The man who will remain a minister for some time longer provided another piece of information:
+
+"Hanuman is not in use now. We advertised it for sale. No one bought it."
+
+Hanuman lies silent and motionless. Though they tried to fasten it upon someone's head, there was no buyer. Nor did anyone come forward to take and use it.
+
+At election meetings, Congress "honourables" go forth roaring, "Why have you not carried out the improvements needed everywhere?" When questioned, they reportedly reply, "What can we do? We wish to do them, but there is no money."
+
+They begin explaining the lack of money and speak at length about the partition of Pakistan, newly won independence, dam construction, and many other matters.
+
+Five lakh rupees for their own pomp. Yet the aeroplane purchased with it does not fly and yields no use or benefit. Even when they seek to sell it, no one will buy it.
+
+What an ugly spectacle! What will people think if this becomes known outside?
+
+What will the farmer who fills the government treasury think upon hearing of this disgrace? What kind of volcano will the poor person's heart become?
+
+Those who hear of the disorder of Congress rule will seethe, crying, "Injustice! Wrongdoing!"
+
+That anger must now bring down from their realm of celebration those who hold the sceptre.
+
+Only then will our country escape the curse of the future and survive.
+
+(*Dravida Nadu*, 28-10-51)

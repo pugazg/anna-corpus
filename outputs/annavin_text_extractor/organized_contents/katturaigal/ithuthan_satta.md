@@ -1,0 +1,1 @@
+../../ocr_text_corrected/katturaigal/ithuthan_satta.md

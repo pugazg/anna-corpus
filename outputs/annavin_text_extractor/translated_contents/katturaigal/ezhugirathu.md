@@ -1,0 +1,536 @@
+# எழுகிறது ஆந்திரம்! / Andhra Rises!
+
+**Tamil title:** எழுகிறது ஆந்திரம்!  
+**English title:** Andhra Rises!  
+**Source file:** `katturaigal/ezhugirathu.md`
+
+## Source Tamil (verbatim)
+
+- Source image folder: `/Users/pugazhendhirajendran/Documents/Codex/2026-07-09/https-www-annavinpadaippugal-info/outputs/annavin_text_extractor/ocr_images/katturaigal/ezhugirathu`
+- OCR language: `tam`
+- Tesseract page segmentation mode: `3`
+- OCR cleanup: `enabled`
+
+## Image 1: 001-a64ba5aa2c.png
+
+- Image: `katturaigal/ezhugirathu/001-a64ba5aa2c.png`
+
+எழுகிறது ஆந்திரம்!
+
+காரியம் நீங்கள் வரவேண்டும். ஜனநாயகத்துக்காகப்
+பாடுபடும் மாணவர்களில் ஒருவராக வந்திருந்து, எங்கள்
+முயற்சிக்கான ஆலோசனைகளையும், மனவூக்கத்தையும் வழங்க
+வேண்டுமாகக் கேட்டுக் கொள்கிறேன்.
+உங்கள்,
+வெங்கடரத்னம்,
+M.L.A.,
+வரவேற்புக்குழுத் தலைவர்.
+்் ள்
+
+காங்கிரசு, வியப்பாக்க வேகத்தில் சரிந்த வண்ணமிருக்கிறது!
+சட்டமன்ற உறுப்பினர்கள், முப்பது பேருக்கு காங்கிரசிலே
+விலகியதோடு மட்டுமல்ல, விஜயவாடாவிலே கூடி, காங்கிரசினைக்
+காரசாரமாகக் கண்டிக்கிறார்கள் - முடிவில் புதிய கட்சியையும்,
+'ஜனநாயகக் என்ற பெயரிலே துவக்கி விடுகிறார்கள்!
+
+விஜயவாடாவிலே கூட்டப்பட்ட வரவேற்புக் குழு - காகனி
+வெங்கடரத்தினம் என்னையும் அழைத்து எழுதியிருந்தார்...
+
+காங்கிரசில் இன்று அங்கே .மலிந்து கிடக்கின்ற
+ஊழல்களனைத்தினையும். தேடிப்பிடித்துக் காட்டுகிற முறை
+அமைந்திருக்கிறது அந்த ஜனநாயகம். அங்கே சரக்கு அனுப்பப்
+. படுவதையும், இன்னும் பல ஊழல் ஒவ்வாத செயல்களும்
+பெருகியிருப்பதனையும் பற்றி, அந்தக் கடிதம் தந்திருக்கிற
+படப்பிடிப்பு, ஆந்திரத்தில் மட்டுமல்ல, நாடெங்கணும்
+இன்றைய காங்கிரஸ் . எப்படியிருக்கிறது' என்பதைக் காட்டுவ
+தாகும்.
+
+காங்கிரஸ் அரசு, சதிக்கிடங்காகி விட்டது, சட்டசபையில் -
+..” பெற்றிருக்கும் பலத்த 'மொஜரிடி'யைக் காட்டி தீய வழிகளிலே
+
+## Image 2: 002-05ca392d4b.png
+
+- Image: `katturaigal/ezhugirathu/002-05ca392d4b.png`
+
+செல்கிறது. இலஞ்சமும், ஊழலும், வேண்டியவர்களுக்கு
+இலாபம் தேடிக்கொள்ளுவதும் மலிந்து விட்டது. '*
+என்று குறிப்பிடுகிறார்! இதனைக் கண்டித்து, உண்மையான
+ஜனநாயகம் மலரச் செய்யவே, தாங்கள் எல்லாம் காங்கிரஸ்
+கட்சியைவிட்டு விலகியிருப்பதாகவும் அவர் தீட்டியுள்ளார்.
+காங்கிரசின் எதேச்சாரப் போக்குக் கண்டு: மனம் தொத்து,
+விஜயவாடாவில் கூடிய இவர்களின் மாநாட்டின் பெயரே,
+ஆந்திரப்பிரதேச ஜனநாயக ஊழியர்கள் மாநாடு என்பதாகும்!
+ஆனால், ஆட்சியிலே அமர்ந்துள்ள காங்கிரஸ்காரர்கள், பிரிந்து
+போனவர்களின்மீது, பழியையும் குற்றங்களையும் வீசலாம்;
+வெகு எளிதில், நாடெங்கும் பரப்பும் வாய்ப்புகளையும்
+பெற்றிருப்பவர்கள் அவர்கள், கண்சாடை காட்டினாலே, அதைப்
+புரிந்து கொண்டு ''தேசயத்தை அழிக்காதீர்! காங்கிரசைப்
+பிரிக்காதீர்!", என்று புத்திபோகும் ஏடுகள் ஏராளம். இவை
+யெல்லாம் உணராதவர்களல்ல, விஜயவாடாவில் கூடியவர்கள்.
+ஆந்திர கேசரி பிரகாசம் அவர்களின், கிளர்ச்சியினையும்,
+அதனால் அவர் பெற்ற ஏச்சையும் பேச்சையும், நன்றாகத்
+தெரிந்தவர்கள் அவர்கள்.
+
+இருந்தும், அவர்கள் கண்டிக்கிறார்கள்! விலகுகிறார்கள்!
+புது இயக்கம் தோற்றுவிக்கிறார்கள்!! இது, அவர்தம் உள்ள
+உரத்தை மட்டுமல்ல, ஊழல்கள் எவ்வளவு மலிந்து கடக்கின்றன
+இன்றைய ஆட்சியில் என்கிற உண்மையிளையும் எடுத்துக்காட்டு
+கின்றது. ஊழல்கள் மலிந்துவிட்டன! சதிக்கிடங்காவிட்டது!' -
+உண்மைதான். இதனை எல்லோரும் உரைக்கிறார்கள். இதற்கு
+என்ன பரிகாரம் காணப்பட வேண்டும்? சுலபமான வழி,
+“எல்லா ஜனநாயக சக்திகளையும் ஒன்று சேர்க்க வேண்டும்;
+மக்கள் மன்றத்திலே விழிப்புணர்ச்சி ஏற்படுத்த வேண்டும்;
+அவர்தம் தீர்ப்பைப் பெற வேண்டும்; ஆட்சிப் பீடத்தைப்
+பெறவேண்டும்; தூசுகளைத் துடைக்க வேண்டும், '' என்பதுதான்.
+
+இந்த வழி மாநாட்டிலே கூடியோர் உள்ளத்திலே இருந்தது
+என்பது தெள்ளத் தெளிய விளங்குகிறது, அவர்கள் ஆற்றிய
+உரைகளிலிருநது.
+
+திட்டமென்னவோ மிக எளிதானதுதான் - எவராலும்
+
+கடைப்பிடிக்கத்தக்க வகையிலே அமைந்திருப்பதுதான்! ஆனால்,
+௪.1
+
+## Image 3: 003-9f7aa04517.png
+
+- Image: `katturaigal/ezhugirathu/003-9f7aa04517.png`
+
+அந்தத் திட்டம், இப்போது இந்தத் துணைக் கண்டத் திலே
+இருக்கிற சூழ்நிலையில், இந்திய அரசியலமைப்பின் வரை
+முறைகளுக்கு உட்பட்டு, எந்த அளவு நடைமுறை சாத்தியமாகக்
+கூடும் என்று எண்ணிப் பார்க்கத் தோன்றுகிறது.
+
+ஆட்சிப்பீடத்தைக் கைப்பற்றுவதன் மூலம் காங்கிரசாருக்கு
+நல்லதோர் பட்டம் புகட்ட முடியும் என்று எண்ணும்போது,
+எப்படி அதனைக் கைப்பற்றுவது என்பதையும் எண்ணிப்
+பார்த்தாக வேண்டும்.
+
+இப்படிக் கூறுவதாலே அவர்களது திட்டத்தையோ, அந்தத்
+தட்டம் வெற்றியடைந்தால் ஏற்படக் கூடிய நற்பலனையோ,
+நாம் குறைத்து மதிப்பிடுவதாக எவரும் கருதத் தேவையில்லை.
+
+தேர்தல் போட்டியிலே குதிப்பதற்கேற்ற வலுவினையும்
+வாய்ப்பையும் பணபலத்தையும், மற்றும் பல சாதகமான
+சூழ்நிலைகளையும், காங்கிரசுக் கட்சி பெற்றிருப்பதைப் போல்,
+இந்தத் துணைக் கண்டத்திலே வேறெந்தக் கட்சியும், பெற்றிருக்க
+வில்லை என்கிற உண்மையினை நாம் மறக்கவோ, மறைக்கவோ
+கூடாது.
+
+ஆந்திர நாட்டிலே இன்று அ௮மைக்கப்பட்டிருக்கிற
+ஜனநாயகக் கட்சியினரோ, அல்லது அவர் போன்றே மற்றமற்ற
+மாநிலங்களிலே இயங்கி வருகிற கட்சிகளோ, காங்கிரசோடு
+அகில இந்திய அளவில் தேர்தல் களத்திலே குதித்து, மகத்தான
+தோர் எதிர்ப்பினைத் தரத்தக்க அளவு பலம் பெற்றிருக்கவில்லை.
+
+அந்தந்தக் கட்சிகள் அந்தந்த மாநிலங்களிலே வேண்டு
+மானால், மக்களாலே ஏற்றுக் கொள்ளப்படலாம், - ஆதரவு
+தரப்படலாம், - ஆட்சிப்பீடத்திலும் ௮மர்த்தப்படலாம். ஆந்திரத்
+இலே. ஜனநாயகக் கட்சி ஆட்சிப் பீடமேறலாம். பம்பாய்
+மாநிலத்தில் சம்யுக்த மகாராஷ்டிர சமிதி ஆட்சியைக்
+கைப்பற்றலாம் - நடைபெற முடியாத நிகழ்ச்சிகளல்ல இவை.
+
+ஆந்திரத்திலும் தமிழகத்திலும் வங்கத்திலும் பம்பாயிலும்,
+. காங்கிரசு முறியடிக்கப்பட்டாலும், ஆட்சிப்பிடத்திலே அமர்த்தப்
+படுகிற கட்சிகளின் நடவடிக்கைகளை மத்திய அரசு எளிதிலே
+தடுத்துவிட முடியும்-- அதற்கென்று தனிச் சட்டங்கள் இயற்றக்
+கூடத் தேவையில்லை - உத்தரப்பிரதேசம், மீத்தியப் பிரதேசம்,
+பீகார் இந்த மூன்று. மாநிலங்களும் ஓன்று சேர்ந்து. காரிய
+
+3
+
+## Image 4: 004-18581b7ed4.png
+
+- Image: `katturaigal/ezhugirathu/004-18581b7ed4.png`
+
+மாற்றினாலே போதும், அந்த மாநிலங்களுக்கு அந்த அளவு
+வலுவும், மத்திய பாராளுமன்றத்திலே பிரதிநிதித்துவமும்
+இருக்கின்றன.
+
+பின்னர் யார் ஆட்சிப் பீடத்திலே அமர்ந்தால் என்ன?
+காங்கிரசைத் தவிர, ஆட்சிப்பீடத்திலே அமர்த்தப்படுகிறெ எந்தக்
+கட்சியும் தனது கொள்கை - கோட்பாட்டின் வழி ஆட்சி
+முறையை மாற்றியமைத்திடவும், ஊழல்களைப் போக்கிடவும்,
+நல்லாட்சியை ஏற்படுத்தவும் இயலாது என்ற ஒர் பரிதாபகர
+மான, பயங்கரமான, நிலை மாநிலங்களுக்கு இருக்கும்போது,
+காங்கிரசை ஆட்சிப்பீடத்திலேயிருந்து இறக்கிவிட்டு அந்த
+இடத்திலே வேறோர் கட்சி அமர்வதாலே என்ன பயன் விளைந்து
+விடப்போகிறது? அதிகாரமில்லாத ஆட்சியின் பொறுப்பினை
+அடைந்தென்ன! அடையாமலிருந்தென்ன!!
+
+தேர்தல் களத்திலே கிடைக்கக்கூடிய வெற்றி, ஆட்சிப்
+பீடத்திலே அவர்களை அமர்த்திட, அங்ஙனம் அமர்த்தப்
+பட்டவர்கள் ஏதும் செய்ய இயலாத நிலையில் தமது கரங்கள்
+கட்டப்பட்டிருக்கன்றன என்பதை உணர வேண்டிய நிர்ப்பந்தம்
+ஏற்படும். கேலிக்குரியவர்களாவார்கள். வென்றவர் தோற்றார்! -
+என்று வரலாற்றிலே பொறிக்கப்படும் அவர்களைப்பற்றி.
+
+ஆட்சிப் பீடத்திலே அமர்த்தப்பட்டாலும், அவர்களாலும்,
+அவர்களைப்போன்ற மற்றமற்ற ஆட்சியினராலும், அவர்கட்கு
+ஆதரவு தநீத மக்களுக்கு எந்தவித உருப்படியான நன்மையையும்
+செய்து தர முடியாதநிலை இருக்கிறதென்று நாம் கூறுவதற்குக்
+காரணம், இந்தத் துணைக்கண்டத்து அரசியலமைப்பில் மாநிலங்
+கட்கு இருக்கிற அதிகாரவரம்புகள் மிகக்குறைவு என்பதாலே
+தான்.
+
+இந்திய அரசியலமைப்பு என்ற ஒரு பொன்விலங்கு
+பூட்டப்பட்டிருக்கிறது, மாநிலங்களின் கரங்களில்!
+
+அதனாலே, மாநிலங்கவிலே ஆட்டிப்பீடத்தில் அமர்த்தப்
+படுகிற எவரும், டில்லி ஆணைக்குக் கட்டுப்பட்டு கழிக்கின்ற
+தாண்ட முடியாத வகை நடந்தாக வேண்டும்.
+
+எஜ.ூமானனாக இருந்து அவர்களை ஆட்டிப் படைப்பார்கள்
+
+- எடுபிடிகளாக இருந்து .தொண்டு புரிந்தாக வேண்டும்
+இருங்கள்!, அடிக் கொரு முறை - “ஐயனே, மெய்யவினை என்று
+
+## Image 5: 005-6694f87c66.png
+
+- Image: `katturaigal/ezhugirathu/005-6694f87c66.png`
+
+அகவல் பாடி - தேர்தல்களை, நேரம் பார்த்து, பக்குவமாக
+எடுத்துக் கூறி - இடம் பெற்று, இயன்றால் மஇழ்ச்சிக்கும்
+இல்லையானால் மனக்குமுறலை ஜாக்கிரதையாக மூடி
+மறைந்தது போதுமென்ற மனமே பொன் செய்யும் மருந்து,
+'திருப்தி'யை வரவழைத்துக் கொள்ள வேண்டும்!
+
+ஆட்சிப்பீடத்திலே பாடுபடுபவர்கள் காங்கிரசல்லாவே
+பாடுபவர்கள் காங்கிரசல்லாரேனுயிருப்பின், அவர்கள் நாட்டு
+மக்களின் நல்வாழ்வினை கொண்டு இயற்ற விரும்பிய சட்டத்
+தினையும், எடுத்த நடவடிக்கைகளையும் எளிதிலே தடுத்து
+அரசினராக முடியும், மத்திய அரசினாராக அந்த அளவுக்கு
+அதிகாரம். பொருள் வசதியைப் பெறுவதற்கான வாய்ப்புகளும்
+குவிக்கப்பட்டிருக்கின்றன அங்கே!
+
+கூட்டாட்சி முறைப்படி அரசியலமைப்பு ஏற்படுத்தப்
+_ படுகிறது என்று, வாய்ப்புக் கேட்கும் போதெல்லாம், இப்போது
+பீடத்திலே அமர்ந்திருப்பது பேசி. வருகிறார்களெல்லாம்
+என்னவோ உண்மைதான். உண்மையில் இந்தத் துணைக்
+கண்டத்திலே நடைபெறுவது. என்று ஐவர் நமக்கு மட்டுமல்ல,
+அரசியல் மேதைகளுக்கே உரிய வகையில் மத்திய அரசு அதிகார
+பலத்தையும், பொருளாதார பலத்தையும் நாளுக்கு நாள்
+பெருக்கிய வண்ணமிருக்க வேண்டும்.
+
+இங்ஙனம் பிடி கிடைத்துவிட்ட பிறகு, உள்ள ஆட்சிப்
+பொறுப்பைக் கைப்பற்றுவதாலே என்ன சாதித்துவிட முடியும்?
+அப்படி ஆட்சிபீடம் ஏறுபவர்கள் டில்லி மூலவருக்கு கட்டுப்
+பட்டு, எது எப்படிச் சொன்னாலும் உள்ளத்தை திடப்படுத்திக்
+கொள்ள வேண்டும். இன்றேல் என்ன சரி, வருவது வரட்டும்
+என்று எதிர்த்திடத் துணியவேண்டும்.
+
+இரண்டு வழிகளிலே பின்பற்றப்பட்டாலும் நாட்டுக்கு
+உருப்படியான நன்மை ஏற்றப்பட்டு விடப் போவதில்லை
+மூறையைகீ கையாண்ட மக்களைப் பகைத்துக் கொள்ள
+வேண்டும், இரண்டாவது மூலம் மத்திய அரசின் பிரிவினை
+பெறவேண்டி வரும்!
+
+இந்த இரண்டு வகையிலே நடைபெற்றாலும், ஆட்சிப்
+பீடம் மூலம், ஆந்திர ஜனநாயகக் கட்சியிணைப் போன்ற எதைச்
+சாதிக்க விரும்புகின்றாமோ, அதைச் சாதிக்க இயலாது போவது
+
+மல்ல, உண்மைக்குரியவர் களுமாவார்கள்.
+ட
+
+## Image 6: 006-d68ddf62ba.png
+
+- Image: `katturaigal/ezhugirathu/006-d68ddf62ba.png`
+
+எனவேதான் ஜனநாயகக் கட்சி தருகின்ற திட்டம் எளிதான
+ஜனநாயகக் கோட்பாட்டுக்கு அமைந்திருப்பது என்றாலும்
+நடைமுறைக்கு ஒவ்வாதது, போதிருக்க அரசியலமைப்பும்.
+
+தேர்தல் களத்திற்கென்று அரசுக் கட்சி, இந்தத் துணைக்
+கண்டம் முழுவதிலும், 'தீனி' கட்டு வைத்திருக்கிற மாபெரும்
+வாதத்தை முறியடிப்பது கஷ்டம் - அப்படியே முறிந்து அங்கங்கே
+சிற்சில: கட்சி நிறைவேற்றி வெற்றி கண்டாலும், முடிவில்
+தோற்றோடிய காங்கிரசிலேயே கைகொட்டிச் சிரிக்கப் போகின்ற
+பரிதாப மானதோர் ஆளாகவேண்டி வரும்!
+
+எனவேதான்; விஜயவாடாவில் புதுக்கட்சி அமைத்தோர்
+நீல்லபடியான எதையாவது வேண்டும் என்ற எண்ணத்தில்,
+அவர்களுக்குச் சிற்சில நன்மைகளை எடுத்துக்கூற அழைக்கி
+ஹோம், அவர்களும் நம்மவர் என்பதால், நாட்டுமக்களின் துயர்
+போக்கிடவும், ஜனநாயகத்தை: காத்திடவும். அவர்கள் முன்
+முன்நிற்கின்ற காரணத்தால்."
+
+தேர்தல் களத்திலே குதிப்பது, வெற்றிபெற எத்தனிப்பது
+வெற்றி பெற்று ஆட்சிப் பீடத்திலே அமர்த்தப்பட்ட பிறகு நாட்டு
+மக்களுக்கு நலம்பல செய்ய எத்தனிப்பதும் ஒருபுறம்
+இருக்கட்டும்.
+
+தேர்தல் சமயத்தில் என்ன சொல்லி இவர்கள் ஒட்டுக்
+கேட்கப் போகிறார்கள்? எந்தக் கோட்பாட்டைக்: காட்டி
+எங்களுக்கு ஓட்டுப் போடுங்கள், என்று வேண்டுகோள் 3: :, ப்
+போடிறார்கள் 9 ்
+
+எந்த ஒரு அரசியல் கட்சியும் நல்லதோர் கோட்பாட்டை -
+வரையறைக்குட்பட்.ட கொள்கையினை எவருக்கும் எவீதில்
+புரிந்திடத்தக்க குறிக்கோளை, நிச்சயமாகப் பெற்றாக வேண்டும்.
+இன்றேல் அது மக்களுள்ளத்திலே இடம் பெற இயலாது என்ட:
+மட்டுமல்ல, கட்சி என்று அழைக்கப்படுதற்கேற்ற அருகதை யே
+பெறவில்லை என்றுபொருளாகும்.
+
+பொதுவாழ்வுத் துறையிலே ஈடுபடுவோர் அப்பழுக்கற்றோராக -
+தூய்மையின் எடுத்துக்காட்டுகளாக விளங்க வேண்டும்
+என்று: கருதுவது நல்லெண்ணத்தின் அறிகுறி - தூய. உள்ளத்தின்
+பிரதிபலிப்பு. இலஞ்சமும் இன்னபிற ஊழல்களும் களைநீ
+தெறியப்பட வேண்டுமென்று கருதுவதும், நேர்மையையும்
+
+## Image 7: 007-6b47deb773.png
+
+- Image: `katturaigal/ezhugirathu/007-6b47deb773.png`
+
+நல்லெண்ணத்கையும் காட்ட வல்லது. ஆனால். அவையெல்லாம்
+எவையெவை. கூடாதவை என்று தரப்படுகின்ற விளக்கங்களாக
+இருக்குமே தவிர, ஒரு கட்சிலின் கோட்பாடுகள் என்று எப்படிக்
+கருதிவிட முடியும்? ஆந்திரத்தின் முதலமைச்சராக உள்ள
+சஞ்சிவிரெட்டியின் ஆட்சியில் இன்னின்ன குறைகள்
+இருக்கின்றன, இன்னின்ன ஊழல்கள் மலித்துவிட்டன - இத்த
+இந்த வகையிலே நாட்டு மக்களின் நலன் பாதிக்கப்படுகறது
+என்று சுட்டிக் காட்டுபவர்கள், ஒரு முக்கியமான உண்மையினை
+நினைவுபடுத்திக் கொள்ள வேண்டும்.
+
+அவர்களாலே சுட்டிக்காட்டப்படுவனவெல்லாம் குற்றச்
+சாட்டுகள்! - கோட்பாடுகள் அல்ல!
+
+அத்தக் குற்றச்சாட்டுகளைக் காட்டித் தேர்தலில், சிற்சில
+இடங்களில், அவர்கள் வெற்றி பெறக் கூடும் - அந்த வெற்றியின்
+மகத்தானவையாகக் கூட இருக்கக் கூடும்.
+
+ஆனால், அந்தக் கட்சி தல்ல, வரையறுக்கப்பட்ட,
+திட்டவட்டமான கோட்பாட்டைக் கொண்டிருக்கிறதென்று
+மக்கள் நம்பினாலொழிய - அந்தக் கட்சி தேவைதான் என்று
+அவர்கள் கருதினாலொழிய, எப்படி அந்தக் கட்சிக்கு ஓட்டுக்
+கிடைக்கும்? திட்டவட்டமான ஓர் கோட்பாடு மக்கள்
+மன்றத்திலே வைக்கப்படாத நிலையில், '“இத்தக் கட்டிக்கு
+ஆதரவு தருவதைவிட, காங்கிரசையே ஆதரிக்கலாம் ”* என்று
+அவர்கள் கருதிவிடுவரானால், ஆச்சரியமென்ன அதில் ர
+
+அதையும்மீறி ஜனநாயகக் கட்சிக்கு ஆதரவு இடைப்ப
+தாகவே வைத்துக் கொள்வோம். பற்பல இடங்களில்
+தோற்றதாலே காங்கிரசார், விழிப்படைந்து, மக்கள் குரலுக்கு
+மதிப்புத்தரத் துவங்கிவிடுவார்களானால், பிறகு ஜனநாயகக்
+கட்சி இருப்பது தேவையுமில்லை. - இருப்பஇிலே பொருளு
+மில்லை!
+
+எனவேதான், திட்டவட்டமானதோர் கோட்பாட்டை
+ஜனநாயகக் கட்சி தீட்டிக் கொண்டாக வேண்டும். - அந்தக்
+கோட்பாட்டை அடைவதற்கான வழிமுறைகளை, வகுத்தாக
+
+திராவிடம் பிரிந்து, தனிநாடாகி, முழு உரிமை பெற்றுத்
+இிகழ்ந்திட வேண்டும் என்ற கோட்பாட்டினை, : எவர்
+க
+
+## Image 8: 008-99d771510d.png
+
+- Image: `katturaigal/ezhugirathu/008-99d771510d.png`
+
+துணையையும் தேடிப் பெறாமல், இடுக்கண் பலவற்றையும்
+தாங்கிக் கொண்டு, அச்சம் தயை தாட்சண்யதீதிற்குக் கட்டுப்
+படாமல் மக்கள் மன்றத்திலே வைத்து வருகின்றது தி.மு.க.
+
+அவர்கள் தருவதோ, ஊழல்கள் எனும் ஒரு நோயினைப்
+போக்கிடும் மருத்து - நம்முடையதோ உயர்நீததோர் கோட்பாடு.
+
+இத்த வேறுபாட்டை அவர்கள் நன்கு உணர்நீதாக
+வேண்டும்.
+
+விஜயவாடாவிலே கூடித் தனிக்கட்சியை அவர்கள்
+அமைத்திட்டபோது அவர்கள்பால் அந்த மாதிலத்து ஆட்சிப்
+பொறுப்பிலேயுள்ளவர்கள் கண்டனக் கணைகளை விடுத்தது
+போன்றே, திராவிட முன்னேற்றக் கழகத்தின் மீது கணைகள்
+வீசப்படுகன்றன! '“கற்பனாவாதிகள், கனவுலகிலே சஞ்சரிப்
+போர், சமுதாயத்தைச் சாக்காட்டுக்கு இட்டுச்செல்ல எத்தனிப்
+போர்'” என்ற வர்ணனைகளும், இன்னபிற இழி மொழிகளும்
+வீசப்படுகின்றன கழகத்தின்மீது!!
+
+பத்திரிகைகள் பல, அதுவம் பலம்வாய்ந்தவை, பற்பல
+இடங்களிலும் பரவுகின்ற வாய்ப்பினையும், வசதியையும்
+பெத்திருப்பவை, ஆட்சியாளர்தம் ஆணைக்குக் கட்டுப்பட்டு
+நடந்திடச் சித்தமாயிருப்பதால், திராவிட முன்னேற்றக் கழகத்
+இனைப் பற்றி எப்படியெல்லாமோ அவதூறுகளைக் கிளப்பிவிட
+முடிகிறது அவர்களால்.
+
+அண்மைய௰யிலேயிருக்கிற ஆந்திரத்திலேயுள்ள மக்களுக்குக்
+கூட நம்மைப்பத்றியும், நாம் வளர்ந்து வருகிற வேகத்தைப்
+பற்றியும், பெற்றுள்ள வலுவினைப்பற்றியும், காங்கிரசாரின்
+கடுமையான  எதிர்ப்புக்கடையே நாம் தேர்தலில் 77-இலட்சம்
+ஓட்டுக்களுக்கு மேல் பெற்றதையும், போன்ற உண்மையான
+தகவல்கள் இடைக்க மார்க்கமில்லை. காங்கிரசார் பெற்ற
+ஓட்டுகளில் மூன்றில் ஒருபங்குக்கு மேல் நம்மாலே பெற
+முடிந்தது என்த உண்மைமட்டுமே போதும், நமக்கு மக்கவிடம்
+அமோகமான ஆதரவு இருந்து வருகிறது என்பதனை விளக்கிட!
+என்றாலும், தமிழகமும் ஆந்திரமும், கேரளமும் கன்னடமும்,
+நான்கும் ஒரு கூட்டாட்டு அமைக்கப்பட வேண்டும் - என்று நாம்
+இனம் இனம் எழுப்பி வருகிற குரல், நம்மாலே மக்கள்
+மன்றத்திலே வைக்கப்படுகிற கோட்பாடு என்றாவது ஓர் தாள்,
+
+## Image 9: 009-9ef5477e4b.png
+
+- Image: `katturaigal/ezhugirathu/009-9ef5477e4b.png`
+
+எப்படியாவது, ஆந்திரத்திலேயுள்ள ஜனநாயகவாதிகளை
+ஈர்த்திடும் - அவர்கள் நம் குறிக்கோளிலே அக்கறை செலுத்து
+வார்கள் - என்று நாம். திடமாக நம்புகிறோம்.
+
+ஆந்திரத்திலே இருக்கின்ற இயற்கைச் செல்வங்கள்
+ஏராளம், பூமிக்கு உள்ளும் புறமும், அந்த நாட்டின் குடிகளும்,
+மறக்குடி. மாந்தர் - மிகப் புகழ்வாய்ந்ததோர் வரலாழ்றினைப்
+பெற்றிருப்போர்.
+
+ஆனாலும் அவர்கள் கரத்திலும், மற்றவர்கள் கரத்திலே
+பூட்டப்பட்டிருப்பதைப். போல் பொன். விலங்கு. பூட்டப்
+பட்டிருக்கிறது - அவர்கள் தாயகம் அடிமை நாடாய் வடவரின்
+வேட்டைக் காடாய் இன்று தாழ்வுற்று நிற்கிறது.
+
+எனினும்; என்றாவது ஓர் நாள் இதற்கோர் முடிவு
+ஏற்பட்டே தீரும். மத்திய அரசிலும் காங்கிரசாரே ஆட்சிப்
+பீடத்திலேயிருப்பதாலே,.. டில்லி மலவரிடம் கைகட்டி
+நிற்பதையோ,..கரமேந்திர வேண்டிய நிலை இருப்பதனையோ,
+தன்மானத்துக்கு இழுக்கென்று கருதாமல். இருக்கக்கூடும்.
+
+ஆனால் மாநிலத்தின் ஆட்டப் பிடத்திலே காங்கிரசல்லாத
+வேறோர் ஆட்சி வீற்றிருப்பின் நிலை என்ன ஆகும்? எவ்வளவு
+மோசமாக இருக்கும்?
+
+இன்று முணுமுணுப்போரெல்லாம் அன்று முழக்கமிடு
+வார்கள் - அகில இந்திய வாதம் உடைபடும் - வடவருக்கும் .
+நமக்கும் ஒட்டுறவு காட்டிப் பேசப்படுகிற போக்கு மாறும் -
+அன்னை நாட்டின் விலங்கொடித்திடும் மகத்தான பணிக்குப்
+படைவரிசை பெருகும்.
+
+எனவேதான் நமது கோட்பாட்டை, திட்டவட்டமான
+கொள்கையினை, ஆந்திரத்திலேயுள்ள ஜனநாயக வாதிகள்பால்,
+புதுக்கட்சி அமைத்துக் கொண்டோரின். பார்வைக்கு வைக்க
+விரும்புகிறது திராவிட முன்னேற்றக் கழகம்.
+
+"ஹோம்லண்ட்'” இதழ்மூலம், நமது கருத்துக்களையும்,
+ஆசையையும், அவர்களுக்கெல்லாம், இந்தக் கிழமை
+தெரிவித்தும் இருக்கிறோம்.
+
+இந்தக் கொள்கைதான் நாட்டுக்கு நன்மை பயக்கவல்லது.
+இந்த நாட்டுச் செல்வங்களத்தனையும் இந்த நாட்டிலே இருந்திட
+
+4
+
+## Image 10: 010-516a4d3ee8.png
+
+- Image: `katturaigal/ezhugirathu/010-516a4d3ee8.png`
+
+செய்வது, வடவரின் வேட்டை காடாகத் தாயகம் இருக்கின்ற
+தான நிலையை மாற்றியமைத்திட வல்லமை பெற்றது.
+என்பதற்கு அவர்கட்குத் தெரிவித்தது திராவிட முன்னேற்றக்.
+கழகம்,
+
+விஜயவாடாவிலே கூடி, முடிவில் அவர்கள் கூடிய
+வீரத்தினையும், நேர்மைப் போக்கினையும் கண்டு, கடமைப்
+பட்டிருக்கிறோம்.
+
+ஆனால், அதே சமயத்தில் ஜனநாயகக் கட்சியின்
+கோட்பாடுதான், அவர்களாலே சுட்டிக்காட்டப்படுகிறது பற்பல
+ஊழல்களை மட்டும் அந்த ஊழல் செய்வோருக்கு துணையாக
+நிற்கின்றோரின் ஆர்வத்தையும், அழித்திட என்பதனையும்
+நினைவு படுத்துகிறது.
+
+ஆந்திரத்திலேயுள்ள இப்படிப்பட்ட ஜனநாயகவாதிகள்
+கோட்பாட்டை, இதயத் தூய்மையுடன் ஏற்றுக் கொள்வரேல் வரலாற்றில்
+புதிய யுகம் தோன்றிவிட்ட தென்று பொருள். அந்த நாளை
+எதிர்பார்த்த வண்ணமிருக்கிறது திராவிட முன்னேற்றக் கழகம்.
+
+8.3.1959.
+
+## English Translation
+
+"You must attend this event. I request that you come as one among the students labouring for democracy and offer us your counsel and encouragement.
+
+Yours,
+Venkataratnam, M.L.A.,
+Chairman, Reception Committee."
+
+Congress is collapsing at an astonishing speed! Not only have some thirty legislators left Congress; they have assembled at Vijayawada, sharply condemned it, and finally launched a new organisation under the name "Democratic Party."
+
+Kakani Venkataratnam, chairman of the reception committee formed at Vijayawada, had written inviting me too. His letter portrays the corruption now rampant within Congress there, the improper dispatch of goods, and many other irregular practices. It is a picture not merely of Andhra but of the condition of today's Congress throughout the country.
+
+He writes: "The Congress government has become a den of intrigue. Flaunting the powerful majority it possesses in the legislature, it proceeds along evil paths. Bribery, corruption, and securing profits for favoured persons have become widespread." He adds that they have all left Congress precisely to condemn this and cause genuine democracy to blossom.
+
+Disheartened by Congress's autocratic course, they gathered at Vijayawada under the very name "Conference of Democratic Workers of Andhra Pradesh." Congressmen in power may hurl blame and accusations at those who departed. They possess easy means to spread these charges throughout the country. A mere signal from them is enough to make many witless journals cry, "Do not destroy nationalism! Do not divide Congress!" Those assembled at Vijayawada understand all this. They know well the agitation of Andhra Kesari Prakasam and the abuse he suffered because of it.
+
+Despite that, they condemn, withdraw, and create a new movement. This demonstrates not only their inner courage but also how deeply corruption has spread through the present administration. Corruption is rampant; government has become a den of conspiracy. Everyone says so. What remedy must be found? The simple course is to unite every democratic force, awaken the public forum, obtain the people's verdict, capture power, and sweep away the dirt.
+
+Their speeches make it perfectly clear that this plan was in the minds of those attending the conference. The plan appears simple and practicable by anyone. Yet in the present circumstances of this subcontinent, and under the limits of the Indian Constitution, we must consider how far it can actually be implemented.
+
+When imagining that Congress can be taught a good lesson by capturing power, one must also consider how that power can be captured. No one need suppose that this observation belittles their plan or the benefits its success might produce.
+
+We must neither forget nor conceal that Congress alone in this subcontinent possesses the strength, opportunities, financial power, and numerous favourable circumstances needed to enter an election contest. Neither Andhra's newly formed Democratic Party nor comparable parties in other states possess enough all-India strength to confront Congress electorally on a grand scale.
+
+Such parties may be accepted and supported within their respective states and may even be installed in office. The Democratic Party may rule Andhra; the Samyukta Maharashtra Samiti may capture Bombay. These are not impossible events.
+
+But even if Congress is defeated in Andhra, Tamil Nadu, Bengal, and Bombay, the central government can easily obstruct the actions of the parties placed in office there. It need not even enact special laws. Uttar Pradesh, Madhya Pradesh, and Bihar together possess sufficient strength and representation in the central Parliament to accomplish that.
+
+Who, then, gains merely by sitting in office? When any party other than Congress is unable to alter administration according to its principles, remove corruption, or establish good government, what benefit follows from removing Congress and seating another party in its place? What difference does it make whether one assumes responsibility for a government without authority?
+
+An electoral victory may seat them in office, only to compel them to realise that their hands are tied and they can do nothing. They will become objects of ridicule. History will inscribe of them: "The victor was defeated."
+
+We say they cannot give substantial benefits to the people who supported them because the Constitution of this subcontinent grants the states exceedingly narrow powers. A golden shackle called the Indian Constitution has been fastened upon the states' hands.
+
+Whoever is installed in a state government must therefore submit to Delhi's orders and behave within limits they cannot cross. Delhi will command them as master, while they must serve as attendants. They must repeatedly sing praise to the lord, choose the proper moment to make requests, obtain what room they can, rejoice if possible, or carefully conceal their anguish and summon the golden medicine called "contentment."
+
+If those in state office are not Congressmen, the central government can easily obstruct laws and measures they wish to undertake for the people's welfare. Power and the means of obtaining finance have been concentrated there to precisely that extent.
+
+Those now in office speak of a federal Constitution whenever opportunity arises. That much is true. But in actual practice the central government has continued to increase its political and financial strength day by day in a manner apparent not only to us but to political experts.
+
+Once the centre has obtained such a grip, what can be achieved merely by capturing a state government? Those who take office must either submit to Delhi's rulers and steel themselves against whatever is dictated, or declare, "Let whatever comes, come," and dare to resist. Neither course can produce substantial benefit for the country. The first alienates the people who elected them; the second invites action by the central government. In either event, the aims for which a party such as Andhra's Democratic Party seeks office cannot be accomplished, and those who hold office will become objects of pity.
+
+Thus, though the Democratic Party's proposal follows a simple democratic principle, the existing Constitution makes it impracticable. It is difficult to defeat the immense electoral machine that the ruling party has fed throughout the subcontinent. Even if it is broken and small parties win here and there, they may ultimately become pitiable figures while the defeated Congress claps and laughs.
+
+Because the founders of the new Vijayawada party desire something genuinely good, we wish to offer them a few beneficial thoughts. They are our people, and they have come forward to relieve public suffering and protect democracy.
+
+Set aside for a moment entering elections, striving to win, obtaining office, and trying thereafter to benefit the people. What will they say when seeking votes? What principle will they present when asking the people to vote for them?
+
+Every political party must possess a sound doctrine, a clearly bounded policy, and an objective readily understandable to everyone. Otherwise it cannot gain a place in the people's hearts and is not even worthy of being called a party.
+
+It is noble to expect those in public life to remain spotless examples of purity. The desire to eradicate bribery and other corruption also reflects honesty and goodwill. But these are explanations of what must not be done; how can they by themselves constitute a party's doctrines?
+
+Those who identify the defects and corruption of Chief Minister Sanjiva Reddy's administration and explain how public welfare is harmed must remember one vital truth: everything they point out is an accusation, not a doctrine.
+
+Such accusations may win them some electoral seats, perhaps even victories of great significance. But unless people believe the party possesses a good, definite, clearly defined doctrine and consider that party necessary, why would they vote for it? If no definite principle is placed before the public and people conclude that Congress might as well be supported instead, what is surprising in that?
+
+Suppose, despite this, that the Democratic Party gains support. If defeats in many places awaken Congress and make it heed the people's voice, the Democratic Party will thereafter be neither necessary nor meaningful.
+
+It must therefore formulate a definite doctrine and establish the means of attaining it.
+
+Without seeking anyone's assistance, enduring many hardships, and yielding neither to fear nor favour, the Dravida Munnetra Kazhagam has placed before the public its doctrine that Dravida Nadu must separate, become an independent country, and possess full rights.
+
+Their proposal is a medicine for one disease called corruption; ours is an exalted political doctrine. They must clearly recognise this distinction.
+
+When they met at Vijayawada and formed a separate party, those responsible for that state's government fired arrows of condemnation at them. Similar arrows are fired at the Dravida Munnetra Kazhagam. The Kazhagam is described as a body of fantasists, wanderers in a dream world, and people attempting to lead society toward death; many other insults are hurled at it.
+
+Numerous powerful newspapers with extensive reach are prepared to obey the rulers. This enables them to spread every kind of slander about the Dravida Munnetra Kazhagam.
+
+Even people in neighbouring Andhra have no means of learning the truth about us: the speed of our growth, the strength we possess, and the fact that despite fierce Congress opposition we received more than 1.7 million votes in the election. The single fact that we obtained more than one-third of Congress's vote is enough to show our immense popular support.
+
+Nevertheless, we firmly believe that the principle we repeatedly proclaim, that Tamil Nadu, Andhra, Kerala, and Karnataka should form a federation, will one day somehow attract Andhra's democrats and inspire their interest in our objective.
+
+Andhra possesses abundant natural wealth above and below the earth. Its people are a martial people with a glorious history. Yet a golden shackle has been fastened upon their hands as upon those of others. Their homeland stands degraded as a subject country and hunting ground of the North.
+
+One day this must end. Since Congress holds office both at the centre and in the state, its members may feel no affront to self-respect in standing before Delhi's masters with folded hands. But what happens if a non-Congress government occupies the state seat of power? How intolerable will its position become?
+
+Those who murmur today will roar then. All-India ideology will fracture. Talk that manufactures a bond between the North and us will change. The ranks engaged in the great work of breaking the motherland's shackles will grow.
+
+That is why the Dravida Munnetra Kazhagam wishes to place its definite doctrine before Andhra's democrats and before those who formed the new party. Through the journal Home Land, we have communicated our ideas and hopes to them this week.
+
+The Kazhagam has explained that this policy alone can benefit the country, keep all this country's wealth within it, and transform the homeland's condition as a northern hunting ground.
+
+We are indebted to those who assembled at Vijayawada for the courage and integrity displayed in their decision. At the same time, we remind them that merely pointing to numerous corrupt acts and seeking to destroy the influence supporting those who commit them does not itself amount to the Democratic Party's doctrine.
+
+If such democrats in Andhra accept the doctrine with heartfelt purity, it will mean that a new era has arisen in history. The Dravida Munnetra Kazhagam awaits that day.
+
+8.3.1959
+
+## Translator's Notes
+
+The opening reproduces Kakani Venkataratnam's invitation to Anna; the scan identifies him as an M.L.A. and chairman of the reception committee.
+`பொன்விலங்கு` is translated as “golden shackle,” the article's metaphor for constitutional state power that appears prestigious but remains restrictive.
+The middle of scans 5 and 6 contains severe OCR damage. Its translation follows the legible scan text and surrounding constitutional argument conservatively; no uncertain reconstruction was inserted into the Tamil source.
+Scan-proven corrections include Vijayawada, democracy, M.L.A., several political terms, and the terminal date 8.3.1959.

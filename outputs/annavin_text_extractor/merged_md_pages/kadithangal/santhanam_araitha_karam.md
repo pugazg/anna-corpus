@@ -1,0 +1,1 @@
+../../md_pages/kadithangal/santhanam_araitha_karam.md

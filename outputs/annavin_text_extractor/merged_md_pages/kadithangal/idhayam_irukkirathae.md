@@ -1,0 +1,1 @@
+../../md_pages/kadithangal/idhayam_irukkirathae.md

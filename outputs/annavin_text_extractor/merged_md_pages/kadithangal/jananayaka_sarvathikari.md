@@ -1,0 +1,1 @@
+../../md_pages/kadithangal/jananayaka_sarvathikari.md

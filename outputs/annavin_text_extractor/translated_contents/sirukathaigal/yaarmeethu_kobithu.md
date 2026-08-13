@@ -1,0 +1,973 @@
+# ஒயூரர் மீது கோபித்துக் கொள்வது??? / With Whom Could He Be Angry?
+
+**Tamil title:** ஒயூரர் மீது கோபித்துக் கொள்வது???  
+**English title:** With Whom Could He Be Angry?  
+**Source file:** `sirukathaigal/yaarmeethu_kobithu.md`
+
+## Source Tamil (verbatim)
+
+- Combined OCR parts: 2
+- OCR correction stage: `apply_ocr_corrections.py`
+
+## Part 1: yaarmeethu_kobithu_1.md
+
+- Source OCR file: `sirukathaigal/yaarmeethu_kobithu_1.md`
+
+### Image 1: 001-82c5f3d740.png
+
+- Image: `sirukathaigal/yaarmeethu_kobithu_1/001-82c5f3d740.png`
+
+ஒயூரர் மீது
+கோபித்துக் கொள்வது???
+
+வறுமை, எத்தகைய கோலத்தைத தரமுடியும் என்பதை
+,எடுத்துக்காட்டவே, அந்த மூதாட்டி விட்டுவைக்கப்பட்டிருக்கக்
+கூடும்! காலதேவன் எத்தனையோ வண்ண மலர்களை, அழகான
+அரும்புகளைக்கூட அழித்தொழித்துவிட்டு, இந்த எலும்புக் கூடு"
+உழல அனுமதிப்பதற்கு வேறு என்ன காரணம் இருக்க முடியும்?
+"வெறும் சரும! அதற்குக் காலும் கையும், கண்ணும்! அம்மட்
+டோ! பாழும் வயிறும்!
+
+ம. அந்தக் காய்ந்த வயிறுக்கு யாராவது “புண்யவது' புளித்த
+கஞ்சி தந்துவிட்டால், பெரிய விருந்துதான்!! விருந்து, இரண்டு
+நாளைக்கு ஒரு தடவை கிடைக்கும் -- புண்யவதியை, அவள்
+புருஷன் கொடுமைப்படுத்தாதிருத்தால்!!
+் மற்ற நாட்களில் தண்ணீர், காற்று!!
+
+..... ௮இகமாக ஏற்றுக் கொள்ளவும் இழவிக்குச் சக்தி இல்லை--
+ங்ட்டினியொடு நீண்ட காலமாகப் பழகிவிட்டதால்! கிழவியின்
+
+இரண்டு குழிகள்! . அவ்வளவுதான்! கண்களாகத்தான்
+அவை முன்பு இருந்தன!
+ட். மைகூடத் தட்டி அழகு பார்ப்பதுண்டு --- அனால் அது,
+ஜம்பது ஆண்டுகளுக்கு முன்பு -- அவர்” இருந்தபோது. அவர்
+திந்த செல்வம் “அக்கரை”: சென்று ஆண்டு இருபதுக்கு
+'மேலாகிவிட்டன -- அரும்பு மீசைக்காரனாகச் சென்றான் --
+
+(அன்னை அப்போது அழ முடிந்தது. -- இப்போது அதற்குச்
+சகதி வேண்டுமே, இல்லை!
+
+### Image 2: 002-6dd87bface.png
+
+- Image: `sirukathaigal/yaarmeethu_kobithu_1/002-6dd87bface.png`
+
+துக்கம் -- ஏக்கம்!
+
+நிலைத்துவிட்ட திகைப்பு!
+
+தரிததிரதீதின் கடைசிக் கட்டம்!!
+
+இவைகளின் :நடமாடும்' உருவம், அந்த மூதாட்டி!
+கிழவியைக் கண்டால், “ஐயோ பாவம்!'” என்று பரிதாபம்
+பேசிய காலம்கூட மடிந்து போய்விட்டது -- எத்தனை
+நாளைக்குத்தான் பரிதாபச் சிந்து பாடியபடி இருக்க முடியும்?
+
+மலையின் கெம்பீரம் -- மதியின் அழகொளி -- மேகக்
+கூட்டததின் மோகனம் --- இவை பற்றியே பேசிக் கொண்டும்,
+ரசித்துக் கொண்டும், சதா சர்வ காலமும் இருக்க
+முடிவதில்லையே! இந்தச் சஞ்சல மூட்டையைப் பற்றியா,
+சிந்தனையை எப்போதும் செலவிட்டபடி இருக்கமுடியும்?
+
+“பாட்டியம்மா: பாட்டி! ஆகி, பிறகு 'கிழவி:யாகி, பிறகு
+“ஏ! யாரது!” ஆகி, பிறகு “போ! போ!" என்றாகி), பிறகு, ''இதேதடா
+தொல்லை' என்றாகி, “பெரிய சனிய௰ன்' என்றாகி, :பிசின்,
+இலேசில் விடாது' என்றாகி இப்போது, கவனிப்பார்,
+கவலைப்படுவாரற்ற ஒர் உருவமாகிவிட்ட நிலை!!!
+
+சுவரிலே இருக்கும் சித்திரத்தோடு யார் பேசுகிறார்கள்!
+
+ஆனால் கிழவியோ, யார் கிடைத்தாலும் விடுவதில்லை!
+
+பசி -- பட்டினி --- இதைக் கூறவா? அல்ல, அல்ல! யார்
+
+பேசுவது: . . அப்பா. . . அடி அம்மா. . . அலமேலா.. ,
+ஆண்டியப்பனா. . . யாரடாப்பா. . .
+“நான்தான். . . என்ன, என்னா. . . வீட்டுக்குப் போ. . .
+
+வள்ளி இருக்கா, தண்ணி கொடுப்பா... ."*
+
+“ஆண்டியப்பன்தானா. . . டே அப்பா! எனக்குத் தண்ணியும்
+வேணாம். சோறும் வேணாம். சொக்க கூழ் கொடுத்தா போதும்.
+
+- ஒரு கடுதாசி எழுதிக் கொடுடா அப்பா. . கோடித்தெரு
+
+கோபாலன், “அக்கரை போறானாமே! அவனிடம்
+கொடுத்தனுப்பணும்... வாடா, அப்பா. . . புண்யம்டா உனக்கு. . .
+ஒரு நாலுவரி எழுஇுக்கொடு .. .”
+
+ஆண்டியப்பனுக்குக் கழவி கூறப்போவது தெரியும்-
+அவன் சென்றுவிட்டான், வேகமாக -- வேறே வேலை
+கிடையாது இந்தப் பைதீயத்துக்கு” என்று முணுமுணுத்தபடி.
+
+எதிரிலேயும், பக்கவாட்டங்களிலும். தடவிப் பார்த்துப்
+பார்தது, ஒரு உருவமும் கையில் தட்டுப்படாததால், கிழவிக்கு
+
+### Image 3: 003-dee9b5d9f1.png
+
+- Image: `sirukathaigal/yaarmeethu_kobithu_1/003-dee9b5d9f1.png`
+
+அவன் போய்விட்டான் என்பது தெரிந்தது. என்ன. அவசரமான
+வேலையோ பாவம்! -- என்ற எண்ணம் கிழவிக்கு --
+கோப.மல்ல!
+
+கோபம் குடிபுக, அந்த மூதாட்டியின் நெஞ்சிலே இடம் ஏது?
+சோகம் கப்பிக் கொண்டிருந்தது!
+
+'அக்கரை'யில் மூதாட்டியின் மணி!!
+
+இங்கு இந்த எலும்புக் கூடு!
+
+இடையே நாடு, காடு, மலை, வனம், வனாந்திரம், கடல்!
+
+எண்ணம், விநாடியிலே எதையும் தாண்டும்! எலும்புக்கூடு,
+எங்கே அந்தச் சக்தியைப் பெறுவது! புதை குழிக்குச் செல்லவே
+சக்தியில்லை!
+
+யாராவது கிடைக்கமாட்டார்களா என்று தேடித் தேடி
+
+அலுத்துப்போய், தன் குடிசையில் போய்ச் சுருண்டு விழுந்து
+விடுவது வாடிக்கை.
+
+சொந்தக் குடிசைதான்!!
+
+அது வேறு யாருக்கு வேண்டும்? --- அதனால்
+கிழவியிடமே இருந்தது!
+சரிந்துபோன சுவர் -- பிய்ந்துபோன கூரை -- அதன்
+
+நிலைமையும் கிழவியின் கோலமும் ஒரேவிதம்.
+
+அக்கரையில், “மணி'மார்க்: ஆகி, மாதாகோயில் தோட்
+தீதில் வேலை செய்து ஒடிந்துபோய், பிறகு உல்லாச உலகு"க்குக்
+கயவன் ஒருவனால் இழுத்துச் செல்லப்பட்டு, கள்ளனாகி, அடி
+பட்டு, உதைபட்டு, செத்தும் போய்விட்டான்.
+
+மூதாட்டிக்கோ, “மணி” மளிகைக் கடை வைத்திருக்
+கிறானோ, மலர்தீ தோட்டத்தில் வேலை பார்க்கிறானோ,
+மாடுமனை மனைவியோடு சுகமாக இருக்கிறானோ --- எவ்விதம்
+இருக்கிறானோ என்ற எண்ணம். நல்லவிதமாகத்தான்' இருப்பான்
+என்ற எண்ணம் -- நல்லவிதமாக இருக்க வேண்டும்
+என்றுதானே. தாய்: உள்ளம் எண்ண முடியும் -- அதனால்!
+
+“பாவிப்பய, ஒரு காலணாக் கடுதாசி போடக்கூடாதா”
+என்று, எண்ணி எண்ணி கிழவி. ஏக்கம்: பிடித்தலைவது கண்டு,
+முதவில். பலர். சமாதானம் கூறிப் பார்த்தனர். -- கார்டு. விலை
+முக்காலணாகூட.ஆஇிவிட்டது --- -பாவிப்பய மகன். காலணாக்
+கடுதாசி போட்டபாடில்லை' -- சமாதானம் கூறுவதைக். கூற
+
+### Image 4: 004-6565546e32.png
+
+- Image: `sirukathaigal/yaarmeethu_kobithu_1/004-6565546e32.png`
+
+மற்றவர்கள் நிறுத்திக் கொண்டனர் --- இழவியோ, அக்கரை”
+போகிறவர்களிடமெல்லாம் கடுதாசி, கொடுத்தனுப்பு வதை
+நிறுத்தவில்லை. சிரஞ்சீவி மணிக்கு. . ." என்று துவங்கி முத்தம்மா
+என்று முடியும் அந்தக் கடிதம் ஒவ்வொன்றும், எவ்வளவு
+கன்னெஞ்சத்தையும் கரைத்துவிடும் -- அவன்தான் கல்லறை
+சென்று விட்டானே --- பலன் என்ன கிடைக்கும்?
+
+ஒயாமல் கடிதங்கள்!
+
+அததக் கிராமமும் அடிக்கடி, அக்கரைக்கு, “அரும்பு
+மீசைகளை' அனுப்பியபடி இருந்தது.
+
+நஞ்சை இருந்தது -- புஞ்சையும் உண்டு! கரும்பு பயிராகும்,
+கால்வாய்ப் பாசனம் உண்டு --- அனால் அவ்வளவும் நாலைந்து
+பெரிய புள்ளிகளுக்குச் சொந்தம் -- அவர்களோ நாடாளும்
+நாயகர்கள் வரிசையில் இருந்தவர்கள் --- எனவே தலைநகரில்
+வசித்து வந்தனர்.
+
+அரும்பு மீசைகள், அக்கரை சென்று ஐந்தாறு ஆண்டு
+, பாடுபட்டால், ஆயிரம் ஐந்நூறு மீதம் பிடித்து அரையோ காலோ
+ஏக்கர் வாங்கி, பிறகு ஏதோ கால் வயிற்றுக் கஞ்சிக்குக்
+குறைவில்லாமல் வாழலாம் என்று ஆசைப்பட்டுத்தான்
+சென்றனர்!
+
+அவ்விதம் சென்றவர்களில் ஒருவன்தான் மணி.
+
+மணி என்பது செல்லப் பெயர் -- முழுப் பெயர்
+சிவசுப்பிரமணியம்!
+
+அவர்: இருந்தால் ஆயிரம் ஆயிரமாகக் கொட்டிக்
+கொடுத்தாலும் உன்னை அக்கரைக்கு அனுப்பமாட்டார் --
+என்று கூறிக் கதறி, பிறகு மணியின் நெற்றியிலே பிள்ளையார்
+கோயில் ஐயர் கொடுத்த (ஒரு அளவுக்கு) விபூதியைத் தடவி,
+ஆயிரம் தெய்வங்களை வேண்டிக் கொண்டு விடை
+கொடுத்தனுப்பினாள் கிழவி.
+
+எப்போதாவது கொஞ்சம் போடும் வழக்கம் உண்டு,
+மணிக்கு!
+
+அக்கரை சென்றதும் அந்த ரகமானவர்களின் நேசம்”
+அதிகமாகப் “போடுவது” வேகமாக வளர்ந்தது. அது அவனைப்
+படாதபாடு படுத்திவிட்டது -- கல்லறை அவனை அழைத்துக்
+கொண்டது.
+
+### Image 5: 005-89125d0c5e.png
+
+- Image: `sirukathaigal/yaarmeethu_kobithu_1/005-89125d0c5e.png`
+
+கிழவிக்குத் தன் :மகன்' அக்கரையில் இருப்பதாகவே
+
+நினைப்ப
+யாரிட்ட தவினையோ, என்னை அவன் மறந்து விட்டான்!
+
+என்று எண்ணி வருந்தினாள்.
+
+ஆயிரம் தெய்வங்களை மறுபடி மறுபடியும் வேண்டிக் '!
+கொண்டாள். தெய்வங்களுக்கு, இதுதானா வேலை? ஒரு இருவிழா '
+முடிந்ததும் மற்றோர் திருவிழாவுக்குத் தங்களை தயாராக்கிக்
+கொள்வதற்கே காலம் போதவில்லை. - அக்கை ்/ சென்றவன்
+மனத்திலே புகுந்து, இந்த ஐயோ பாவத்தின் மீது .பாசம் ஏற்படச்
+செய்யவா நேரம் கிடைக்கும்! அதிலும் கடல் கடந்து செல்ல
+வேண்டும்!
+
+அந்தக் கிராமத்துக்கு பெரிய பட்டணங்களெல்லாம்
+எ பாதாமைப்படக்கூடிய் பெயர் இருந்தது -- பொன்னூர்!
+
+ஜல்லடை போட்டுச் சலித்தெடுத்தால்கூட ஒரு குண்டுமணி!
+பொன்னும் கிடைக்காத பட்டிக்காடு! அதாவது பிள்ளையார்
+"கோயில் சாமியைத் தவிர! ஐயர் வீட்டிலே சோதனையிடத்
+துணிவு கொண்ட பாவிகள் உண்டா! மற்ற இடங்களிலே
+குண்டுமணி அளவு தங்கம்கூடக் கிடையாது. பெயர் மட்டும்
+பொன்னூர்!
+
+பொன்ஜனூருக்குப் பூர்வீகப் பெருமைகள்கூட உண்டு!
+
+தாப்பிராட்டியாரை மயக்கிய மாயமான் ஓடி வந்தபோது
+இளம்பிய 'தூ௫ி: அங்குப் படிந்ததால், பொன் மயமாகி விட்டதாம்
+அந்த ஊர்!
+் மாரிகோயில் திருவிழாவின்போது ஆடுவெட்டி,
+ஆண்டியப்பன், கதை படிப்பான். அப்படிப்பட்ட பொன்னூர்
+அக்கரைச் சமைக்குக் கூலிகளை அனுப்பும் :பாக்யம்' பெற்று
+விட்டது--அந்தத் தொகுஇியிலே வெற்றி பெற்ற எம்.எல்.ஏ. கூட,
+கடல் கடந்த இந்தியர் பாதுகாப்புக் கமிட்டியில் ஒர். உறுப்பினர்---
+கமிட்டி கூடும்போது நாளொன்றுக்குப் பதினெட்டு ரூபாய் :படி'ச்
+செலவுகூடப் பெற்று வந்தார்.
+
+'அக்கரை'ச் €மைக்கு அரும்பு மீசை: கிளம்பும்
+போதெல்லாம், கண்ணீரும் கம்பலையுமாகக். கிழங்கள் கூடிக்
+கூடிப் பேசும்.
+
+போனதும் கடுதாசி போடுகிறேன்! .
+வீணா, ஏன் மனசை அலட்டிக்கிறே!
+
+### Image 6: 006-9445ab7f2f.png
+
+- Image: `sirukathaigal/yaarmeethu_kobithu_1/006-9445ab7f2f.png`
+
+மாசாமாசம் தவறாமப் படிப்புக்கு பணம் அனுப்பி
+வைக்கிறேன்.
+
+மாடு கண்ணு, ஜாகரதை!
+
+மாரியம்மன் பண்டிகைக்கு, கிடா பலி கொடுக்க
+மறந்துடாத ங்க.
+
+இவ்விதமெல்லாம் “தைரியம்: கூறிவிட்டுத்தான்
+செல்கிறார்கள். அரும்பு மீசைக்காரர் --- “உன் மகனும் கிளம்பி
+விட்டானா...” என்று கேட்கும் போதே, கிழவிக்குக் தன் மகன்
+அக்கரைக்குப் புறப்பட்ட நாளின் நிகழ்ச்சிகள் கவனத்துக்கு வரும்;
+“இவனுக்காவது காளியாத்தா நல்ல புத்தி கொடுக்க வேணும்"
+என்று வாழ்ததுவாள் -- மனதுக்குள். அவனிடம் கெஞ்சிக்
+கூத்தாடி, தன் மகனை எப்படியாவது கண்டுபிடித்து 'கடுதாசி'யைக்
+கொடுத்து, ஒரு காலணாக் கடுதாசி போடச் சொல்லும்படி
+வேண்டிக் கொள்வாள். ஆகட்டும் பார்க்கலாம் -- அந்தச்
+ச மையிலே, அவன் எந்த மூலையிலே இருக்கிறானோ, நான்
+எந்தக கோடியிலே வேலை செய்யப் போறனோ, யார்
+கண்டாங்க. இருந்தாலும் கண்டா, கட்டாயமாக் கடுதாசியைக்
+கொடுத்து, புத்திமதி சொல்றேன்” என்று வாக்களிப்பான்;
+கப்பலுக்குக் களம்புவான். கண்ணுடா தங்கம்டா நீ! -- என்று
+கிழவி வாழ்த்துவாள். பணம், சில குடிசைகளுக்கு வந்தது! கடிதம்,
+பலபேருக்கு வந்தது. சிலா, “தோய் நொடியுடன்' திரும்பி வந்து
+விட்டனா!
+
+கிழவிக்கு மட்டும், காலணா கடுதாசியும் கிடைக்கவில்லை
+-- திரும்பியவர்களிடமிருந்து மகனைப் பற்றிய செய்தியும்
+கிடைக்கவில்லை.
+
+*் க் ஆ
+
+அன்று கிழவிக்கு, வ! ழுக்கமான வேலை கிடைத்து விட்டது
+-- வண்டியோட்டி வரதன், அந்தப் பக்கத்திலே “பஸ்” ஏற்பட்டு
+விட்டதால், நொடித்துப் போனான் --- ஆகவே வண்டி ஒட்டும்
+தொழிலுக்கு முழுக்குப் போட்டு விட்டு, அக்கரை: போகத்
+தீர்மானித்து விட்டான் --- அவனிடம் “கடுதாசி: கொடுத்தனுப்பும்
+வேலை, கிழவிக்கு.
+
+“அவ குலுக்கி மினுக்கித் இரியும்போதே எனக்குத் தெரியும்.
+அவ கெட்டுப் போவா என்பது'' என்று கூறுவார்கள் தலை
+நரைததவர்கள், வள்ளியைப் பற்றி. வள்ளி தவறியவள்!
+
+### Image 7: 007-5269f94a7d.png
+
+- Image: `sirukathaigal/yaarmeethu_kobithu_1/007-5269f94a7d.png`
+
+உ... ஆடுவெட்டி ஆண்டியப்பன் தாலி கட்டி வள்ளியைப்
+பெறவில்லை ---- தாலி கட்டிய தாண்டவன் காலமான பிறகு
+வள்ளி நெல் குத்தி ஜீவித்து வந்தாள். பக்கத்துக் கிராமத்திலே நெல்
+அரைக்கும் யந்திரம் அமைந்த பிறகு, அவளுக்குப் பிழைப்புக்கு
+வழி அடைத்துப் போய்விட்டது ஆண்டியப்பன் அவளை
+ஜாடை மாடையாகக் கவனிக்க ஆரம்பித்தான் -- வள்ளி,
+நாசமாப் போவான் -- மாரி சரியான கூலி கொடுக்கப்
+போகிறா பார்" -- என்று சபித்தாள். அவன் அஞ்சவில்லை --
+இவள் அண்ணேன் '' என்று முறை கொண்டாடி, அரை, கால்
+கடன் கேட்டுப் பெற்றுவந்தாள். அவன் வட்டி கேட்கவில்லை.
+
+தஇசலைப் பற்றியும் கவலை காட்டவில்லை --- அவள் புரிந்து
+கொண்டாள் -- வெறுப்பாக இருந்தது -- ஆனால் எவ்வளவு
+தாலம் வறுமையுடன் போராட முடியும் -- “ஐயையோ!
+
+வேணாமுங்கோ”' என்று கெஞ்சும் குரலில் தொடங்கி, “எப்பவும்
+கைவிட மாட்டாயே!” என்று கொஞ்சும் குரலில் முடிந்தது,
+அவளுடைய வீழ்ச்சி.
+வள்ளிக்கு, நாலு எழுத்து எழுதப் படிக்கத் தெரியும்.
+
+4 அவளிடம் சென்று, ஆயிரம் கண்ணே! கற்கண்டே!
+போட்டு, கிழவி கடிதம் எழுதச் சொன்னாள்.
+
+'சிரஞ்சீவி மணிக்கு,
+
+காரளியாயி கடாட்சத்தாலே நான் இன்னமும் உசிரை
+வ்ச்சிக்கிட்டுத்தான் இருக்கறேன். நான் ஒருத்தி இருக்கறேன்
+என்கிற நினைப்பே உனக்கு மறந்து போச்சா. உன்னைக்
+கண்ணாலே கண்டுவிட்டுச் செத்துத் தொலைக்கத்தான் நான்
+காத்துகிட்டு இருக்கறேன். கேவலம் ஒரு பிச்சைக்காரி போல
+'இருக்கிறேன். நாலு நாளைக்கு ஒரு தடவைகூடச் சோறு
+இடையாது. நான் இப்பவோ பின்னையோன்னு இருக்கிற இந்தச்
+சுமயத்திலேகூட நீ. ஊர் இரும்பாம இருக்கறது தர்மமா! ஒரே ஒரு
+தடவை வந்துபோ. உன்னைக் காணவேணும் என்கிற ஆசை
+என்னைக் கொல்லுது. நான் கண்ணை மூடறதுக்குள்ளே, ஒரு
+மூறை பார்த்தாகணும். இங்கே நான் அனுபவிக்கிற தரித்திரம்
+சொல்லி முடியாது. ஒரு அஞ்சோ பத்தோ அனுப்பினா நாலஞ்சு
+கோழி வாங்கி வளர்த்து, முட்டை வித்து பிழைச்சுக்கலாம் --
+நான் சாப்பிட்டது போக மிச்சம்கூடக் கிடைக்கும் -- பனிக்
+காலத்திலே உடல் வெடவெடன்னு ஆடிப் பிராணனே
+போயிடற மாதிரி ஆயிடுது. ஒரு கம்பளிப் போர்வை
+அனுப்பினா, நல்லது."
+
+### Image 8: 008-a9a82b685a.png
+
+- Image: `sirukathaigal/yaarmeethu_kobithu_1/008-a9a82b685a.png`
+
+கழவி சொல்லிக் கொண்டே வந்தாள் -- வள்ளி எழுதிக்
+கொண்டே இருந்தாள்.
+
+“இன்னும் என்ன எழுதணும் -- புபரிய பாரதமே
+எழுஇயாச்ச, . .” என்று சலித்துக் கொண்டாள் வள்ளி.
+
+“கண்ணு! இன்னும் ஒரே ஒரு சங்கதி எழுதிடு" என்று
+கெஞ்சினாள் கிழவி.
+
+“சொல்லித் தொலை” என்றாள் வள்ளி,
+
+கழவி சொல்லத் தொடங்கினாள், “உன்னாலே பணம் காச
+அனுப்ப முடியாவிட்டாலும் பரவாயில்லை. நீ இங்கே வந்து
+சேர்ந்தா போதும். உன்னைக் கண்ணாலே பார்த்தாலே என்
+கஷ்டம் அத்தனையும் தீர்ந்து போகும். அடுத்த கப்பலுக்கே
+பொறப்படு.
+
+வள்ளி, கட்டாயப்படுததிக் கிழவியை முடிக்கச் சொன்னாள்.
+
+கடிதத்தை எடுத்துக் கொண்டு கிளம்பினாள் கிழவி, வரதன்
+குடிசைக்கு,
+
+இதுபோல எத்தனை முறை அனுப்பினோம் - எவ்வளவு
+உருக்கமான கடிதங்கள் -- எத்தனை சாமி மீது ஆணையிட்டு
+எழுதினோம்- ஏனோ அவன் மனம் துளிகூட இரங்கவில்லை-
+இந்தத் தள்ளாத வயதிலே என்னைத் தவிக்க விட்டுவிட்டு,
+அக்கரையிலே சுகமாக இருக்க, எப்படித்தான் அவனுக்கு மனம்
+வந்ததோ -- என்றெல்லாம் எண்ணியபடி கிழவி சென்று
+கொண்டிருந்தாள்.
+
+கடிதங்களைப் படிப்பதே இல்லையா - படித்துப் பார்த்தால்,
+பகையாளியாக இருந்தால்கூடப் பரிதாபம் பிறக்குமே.
+
+சரியாகப் படிததிருக்கமாட்டான் -- ஒரு கணம் உருகுவான்;
+மறுகணமே மறந்து விடுவான் -- விளையாட்டுச் சுபாவம்-
+அல்லது. வேலை கடினமோ, கடிதம் போடக்கூட நேரம்
+கிடைக்காதோ -- என்ன மாயமோ, என்ன மர்மமோ என்று
+எண்ணிக் கொண்டே சென்றாள்.
+
+“பாட்டியம்மா! பாதை ஒரமாப் போ. . . எஇரே காளைமாடு
+வருது. . .* என்று அன்புடன் கூறினான், கிராமத்துக்குப் புதிதாக
+வத்து குடியேறிய பாதிரியப்பன்.
+
+கிராமத்தில் வைத்ய சாலை நடத்திக் கொண்டு,
+பச்சிலைகளைச் சேகரித்து ஏதோ ஆராய்ச்சி நடத்திக்
+கொண்டிருந்தான் பாதிரியப்பன். கிராமத்தில் நல்ல மதிப்பு.
+
+## Part 2: yaarmeethu_kobithu_2.md
+
+- Source OCR file: `sirukathaigal/yaarmeethu_kobithu_2.md`
+
+### Image 1: 001-9b2820d939.png
+
+- Image: `sirukathaigal/yaarmeethu_kobithu_2/001-9b2820d939.png`
+
+'திழவியைப் :பாட்டியம்மா' என்று அழைக்கும் ஒரே ஆசாமி,
+பாதிரியப்பன்தான்.
+| “டாக்டரய்யாவா”” என்று கேட்டுக் கொண்டே, அவன்
+கையைப் பிடித்துக் கொண்டாள் கிழவி. அவளுக்கு ஒரு
+எண்ணம் உதித்தது. கடிதத்தை மகன் சரியாகப் படிக்கிறானோ
+'இல்லையோ என்ற சந்தேகம் போய்விட்டது. எழுதிக்
+"கொடுப்பவர்கள் சரியாக எழுதிக் கொடுக்கிறார்களோ
+இல்லையோ என்ற சந்தேகமே ஏற்பட்டுவிட்டது. எனவே,
+கடிதத்தை எடுத்து டாக்டரிடம் கொடுத்து, 'அக்கரையிலே இருக்கிற
+என் மகனுக்கு அனுப்ப இந்தக் கடுதாசி -- படித்துச்
+'சொலலுங்கோ, டாக்டா்! அந்தச் சிறுக்கி கிறுக்கினா, சரியா
+இருக்குதான்னு பார்க்கலாம்' என்று சொன்னாள். டாக்டர்
+கடிதத்தைப் பிரித்தார் -- சிரிப்பு வந்து விட்டது.
+
+“என்ன டாக்டரு! சிரிக்கறிங்க.'”
+து “யார் பாட்டியம்மா, கடுதாசி எழுடுக் கொடுத்தது”
+் “அவதான் --- வள்ளி -- ஒரு மாதிரியானவன்னு சகளர்லே
+
+பேசுவாங்களே, அந்தக் குட்டி -- அவளுக்கு எழுதப் படிக்கத்
+
+தெரியும். . ."”
+
+போக்கிரிப் பொண்ணு, பாட்டியம்மா அந்த வள்ளி!
+
+கடுதாசியிலே, எழுத்தே கிடையாது --- கோலம் போட்டு
+“என்னாது. . . கோலம் போட்டிருக்காளா. . . பாவி. . .
+
+நான் சொல்லிக் கொண்டே இருந்தேன்; அவ எழுதிக்கிட்டே
+இருந்தா. டல்
+
+“உன்னை அந்தப் பெண்ணு ஏமாத்தி விட்டிருக்கா!
+கட்டும் பாட்டியம்மா, நான் பார்த்துக் கண்டிக்கிறேன்.”
+
+“இப்பத்தானே எனக்கு சூட்சமம் புரியுது. என் மகன்
+பேரிலே கோபித்துக் கொண்டேன் நானு, இந்தச் சூட்சமம்
+தெரியாததாலே. இந்தப் படுபாவிங்க ஒவ்வொருத்தரும், நான்
+கடுதாசி எழுதிக் கொடுக்கச் சொன்ன போதெல்லாம், இந்த
+வள்ளி செய்தது போலச் செய்து என்னை ஏமாத்தி யிருக்கிறாங்க.
+என் ஆசை மகனுக்கு ஒரு கடுதாசியும் போய்ச் சேர்ந்திருக்காது.
+அந்தக் கோபம். என் மகனுக்கு. அதனாலேதான் காலணா
+சுடுதாசிகூட இவன் போடல்லே. டாக்டரய்யா! இப்படி ஒரு
+கிழவியை ஏமாத்தலாமா. நீங்களே சொல்லுங்க! இது தர்மமா?”
+
+### Image 2: 002-b921e7ed5a.png
+
+- Image: `sirukathaigal/yaarmeethu_kobithu_2/002-b921e7ed5a.png`
+
+“வருத்தப்படாகூங்க பாட்டியம்மா -- சாயத்இர.கா வீட்டுக்கு
+வராங்க, நான் கடிதம் எழுஇத் தருகிறேன்
+
+டாக்டரை வாழ்த்திக் கொண்டே கிழவி தன் குடிசைப்
+பக்கம் சென்றாள்.
+
+வள்ள? வீட்டுக்கு பாதிரியப்பன் சென்று, சற்றுக்
+கோபமாகவே கண்டித்தான்.
+
+_. “அது ஒரு: பைதயம் டாக்டரய்யா! நான் மட்டுமில்லை. நம்.ம
+கிராமத்திலே யாருமே, கிழவி கடுதாசி எழுதச் சொன்னா,
+எதையாவது கிறுக்கித் தருவாங்க. அதுக்கு மரளை சரியில்லை;
+அதனாலே, இப்படி ஒயாம கடுதாசி எழுதிக் கொடு கொடுன்னு,
+உசிரை வாங்கும். அதனாலேதான் நான் கோலம் போட்டேன்.
+தப்பா எண்ணிடாதீங்க. அக்கரையிலே அதுக்கு மகனும் இல்லை.
+மகளும் இல்லை. அவன் எப்பவோ செத்துப் போயிட்டிருப்பான்
+-- உயிரோடு இருந்தா இத்தனை காலமுமா ஒரு காலணா
+கடுதாசி போடாதிருப்பான். இங்கே இது பைதயம் பிடித்துப்
+போயி, இப்படித் தலைவிரிகோலமா இருக்குது டாக்டரய்யா. நீங்க
+ஒண்ணும் வித்யாசமா எண்ணிடாடூங்க. அது “பைத்யம்” என்று
+வள்ள, சமாதானம் கூறினாள். டாக்டருக்குத் திருப்தி
+ஏற்படவில்லை.
+
+“என்ன காரணம் சொன்னாலும், நீ செய்தது தப்பு வள்ளி
+-- ஒரு தள்ளாத கிழவியை இப்படி ஏமாத்துவது பாபம்”” என்றார்.
+
+“ஐயோ, ஐயோ. . . நீங்க ஒரு உலகம் தெரியாதவரு. . . அந்தக்
+இழததுக்குப் புத்தி பேதலிச்சுப் போயிருக்குதுங்க. அதுக்கு . மூளை
+சரியா இருந்தா ஏன் அக்கரை போனவனை நினைச்சிகிட்டே
+கிடக்கோணும், இப்படி, ஐயா அம்மான்னு பிச்சை எடுத்துப்
+பிழைக்க வேணும் -- மலையாட்டமா இருக்றறானே மற்றொரு
+மகன் -- அவனோடு போய் இருந்துகிட்டு, வயிறாரச் சாப்பிடக்
+கூடாதா --.- நிம்மதியா இிடக்கலாமே”' என்றாள்.
+
+“மற்றொரு மகனா? திழவிக்கா?'”” என்று ஆச்சரியத்துடன்
+கேட்டான் பாதிரியப்பன்.
+
+“நீங்க கிராமத்துக்குப் புதுசுதானே, தெரிந்திருக்காது.
+கிழவிக்கு இன்னொரு மகன் இருக்கறான் -- பெரிய அந்தஸ்து
+இல்லைன்னாலும், வயிறார கஞ்சி ஊத்தக் கூடியவன்தான் --
+சமுசாரி --- அடுத்த கிராமத்திலே இருக்கிறான் --- சன்னாசின்னு
+பேரு. . .” என்று விவரம் கூறிக் கொண்டே இருக்கும்போது,
+
+### Image 3: 003-310e429c13.png
+
+- Image: `sirukathaigal/yaarmeethu_kobithu_2/003-310e429c13.png`
+
+தொலைவிலே ஆண்டியப்பன் வருவதைக் கண்டு, அதோ அது
+ருது. மூக்குமேலே கோபம்! அதுக்கு நாம்ப களங்கமத்து பேசிட்டு
+இருந்தாக்கூட, என்னமோ ஏதோன்னு சந்தேகப் பட்டுகிட்டு
+சண்டைக்கு வந்து தொலைக்கும். நீங்க போய் வாங்க
+டாக்டரய்யா -- பக்கத்து கிராமம் -- சன்னாசி --- அவனையே
+கேட்டுப் பாருங்க, கிழவியோட சமாசாரம் புரிந்து போகும்”*
+இன்று சொல்லிவிட்டுப் போய்விட்டாள்.
+
+சன்னாசி பெரிய குடும்பஸ்தன். நாணயமானவன்.
+
+ட் பெரிய வைக்கோற்போரைச் சரிபடுததிக் கொண்டி
+ருந்தான், டாக்டர் அவனைப் பார்க்கச் சென்றபோது.
+
+ஆஃ. “அமாங்க! என் மானத்தை வாங்கவே, அந்தக் கிழம்
+இப்படிச் செய்யுது. தலை இறக்கமாத்தான் எனக்கு இருக்குது.
+தடியாட்டமா நான் இருக்கறேன். சோத்துக்கும் துணிக்கும்
+குல றச்சல கிடையாதுங்க- இங்கே வந்து விழுந்து கிடன்னு
+ஆயிரம் தடவை வந்து கெஞ்சி கேட்டாச௫ிங்க, ஒரே பிடிவாதமா
+வ ரமாட்டே ங்குது. அங்கே பட்டினி இடக்குது. பிச்சை எடுக்குது-
+ளை க்கு மானம் தாங்க முடியலிங்க”!
+
+.. என்னா விரோதம் உன்னிடம்? உன் சொந்தத்
+தாயார்தானே?
+
+“என்னைப் பெத்தவங்கதான்! குழந்தையிலேயே என்னை
+
+“உங்க சின்னம்மாவிடம் விரோதமா?”
+(த “ஒரு இழவும் கிடையாதுங்க. ஆனா இங்கே நான்
+$ததிலே இருந்து, எங்க அம்மா காலடி எடுத்து வைக்கறதிலலே.
+என்ன வைராக்கியமோ, போங்க, என் கல்யாணத்துக்குக்
+கூட, பத்து பேர் வர்றது போல வந்துவிட்டு, ஒரு வேலை கையை
+ர் னை ச்சிட்டுப் போனதுதான். நான் காவிலே விழுந்து
+கும்பிட்டுக் கூப்பிட்டாக்கூட வரமாட்டேங்குது -- காரணமும்
+சொல்றதில்லே -- எனக்குச் சில சமயம் வருகிற கோபம், அதை
+இவட்டிப் போட்டு விடலாமான்னுகூடத். தோணுது போங்க.
+உங்க அம்மா அங்கே பிச்சை எடுத்துக்கிட்டு : இருக்கறாடாப்பா,
+என் அப்படி அவளை அலைய விடறே!ன்னு யாராவது
+கட்டா என் மனசு. என்னா பதறிப் போகும், நீங்களே
+சொல்லுங்க. இப்படி என் மனசை எரியச் செய்துகிட்டு அங்கே
+
+### Image 4: 004-06d2e8956e.png
+
+- Image: `sirukathaigal/yaarmeethu_kobithu_2/004-06d2e8956e.png`
+
+“சன்னாசி! கோபிக்காதே உன் சம்சாரத்தோட ஏதாச்சும். . .
+
+“அவ :அப்பிராணிங்க”--. மாமியார் காலிலே விழுந்து
+கும்பிட்டா புண்யம்னு எண்ணுகிறவ. அவளும், அவளாலே
+ஆன மட்டும் கூப்பிட்டுப் பார்த்தாச்சி. நம்ம “கொழந்தை'கள்
+கூப்பிட்டே வரலே, போங்களேன்.”
+
+“என்னப்பா இது அதிசயமா இருக்கு.”
+
+“அதிசயமா? அகரமம்னு சொல்லுங்க டாக்டரய்யா! வர்ர
+பழி வரட்டும்னு அதை அடிச்சுக் கொண்ணுபோடலாமானு கூட
+ஆத்திரம் வருது, தெரியுங்களா?”
+
+டாகடர் பாதிரியப்பனுக்குப் பச்சிலை ஆராய்ச்சியிலே கூட
+மனம் செல்லவில்லை. இந்தக் கிழவியின் விசித்திரப் போக்கு
+அவருக்கு மனக். குழப்பமே உண்டாக்கிவிட்டது. கிழவியைக்
+கண்டே கேட்பது என்று தீர்மானித்தார்.
+
+ச் ன் க்
+
+“அவன் பேச்சை மட்டும் எடுக்காதிங்க. . ."”
+
+“அவன் நல்லவனா இருக்கானே பாட்டி.”
+
+'தங்கமானவன்... அவன் சம்சாரம் குணசாலவி...
+எவ்வளவோ அன்பாத்தான் என்னைக் கூப்பிடறாங்க... ஆனா...''
+
+என்ன அனாவும் ஆவன்னாவும். . .'*
+
+“அவன், என் மகனில்லிங்க. . .*
+
+“உன் மகனில்லையா... உனக்கென்ன வள்ளி
+சொன்னதுபோல, மூளை குழம்பி இருக்குதா... உன் மகன்
+
+“நான் பெத்தவன்தான் சன்னா. . . ஆனா. . . டாக்டரய்யா,
+இதை மனசோட போட்டு வையுங்கோ. . - முக்கியமா அவனுக்குத்
+தெரியப்படாது. . . தெரிந்தா குடும்பத்துக்கே ஆபத்து. நான்தான்
+பெத்தேன். . . ஆனா, அவன் பேய் மகன்.
+
+'“பைதயமேதான் உனக்கு. பேய் , மகனாவது பூதத்தின்
+மகனாவது. . . என்ன கிழவி உளறிக் கொட்டதே. . .””
+
+“உங்களுக்கெல்லாம், என்ன தெரியும். . . இந்தக் காலத்துப்
+பிள்ளைங்க. . . சன்னாசி, பேய்க்குப் பொறந்தவன் அவனுக்கும்
+தெரியாது. கிராமத்திலே யாருக்கும் தெரியாது. . . இப்ப உங்க
+கிட்ட சொல்கிறேன்: பேய்க்குப் பொறந்தவன் சன்னாசி
+அதனாலேதான், பொறந்த மணாமாசமே அவனை என்
+தங்கச்சிக்குத் தத்து" கொடுத்து விட்டேன்."
+
+### Image 5: 005-d27ddaccab.png
+
+- Image: `sirukathaigal/yaarmeethu_kobithu_2/005-d27ddaccab.png`
+
+ட பாட்டி! உனக்கு மூத்த மகன் அக்கரை போயிட்ட
+துத்கத்தாலே மூளை குழம்பியிருக்கு. . ..”
+ஸி “கேள் டாக்டரய்யா. . . மூளையாவது குழம்பறதாவது.
+அறு பொறந்து அஞ்சு வருஷத்துக்குப் பிறகு, இவன்
+சாறந்தான். இவன் என் வயிற்றிலே ௧௫ தரிக்கிறதுக்கு ஒரு
+த்துக்கு முந்தி, என்னை இருக்குளத்துப் பேய் பிடிசிடு௪௪.
+0 ய ஒட்ட “அவடு' படாதபாடு பட்டாரு --- செலவு கண் மண்
+ற் தரியாம செய்தாரு --- அந்தப் பாழாப்போன பேய் ஒழியமாட்
+டன்னு சொல்லிடுச்சி. சூடுவைசசி பாத்தாங்க, தலை முழுக்கு,
+(62 வப்பனு சேலை கட்டி மாரியம்மன் கோயிலிலே சுற்றி வர்றது;
+ஈணு பாக்கியில்லை. திருக்குளததுப்பேய் எதுக்கும் மசியலே.
+எனக்குப் பேய் பிடிச்சிருந்த போதுதான் ௧௬௫ தரிச்சுது. இந்தப்
+ட் பொறந்தான் -- அவனைத்தான் நீங்க பார்த்தீங்களே --
+இலட்சணமாயிருப்பான் -- அவன் பெபாறந்ததும்,
+இர்க்கோடியிலே இருந்த ஒரு பிரம்மாண்டமான புளியமரம்
+வரோடு சாய்ந்து £ழே விழுந்தது. . . இடி இடிச்சி, மாரியம்மன்
+காயில் கோபுரத்திலே விழுந்து, அதை அடிச்சித் தள்ளிவிட்டுது;
+எ.ங்க வீட்டிலே இரண்டு படி கறக்கும் அருமையான பசுமாடு,
+து 'காவ், காவ்'னு கத்திக் கிட்டே ஃழே 'தொபீல்'னு விழுந்து
+சத்துப் போச்சு, அப்பப்பா! அவன் பொறந்ததும் ஊருக்கே
+பெரிய ஆபத்துன்னு வையுங்களேன், அப்படியெல்லாம் நேரிட்டுது.
+இதி இதோடு போச்சா! அவரு, அவங்க அப்பாரு, நல்லா இருந்த
+ஷனுக்குக் காச்சல் கண்டு, வாயிலே நொப்பும் நொரையும்
+ப் ள்ளி, கைகால் இழுப்பு வந்துடிச்சி. எனக்குப் பயம், சந்தேகம்,
+(க்கம். பூஜாரியைக் கூப்பிட்டு, என்னய்யா இதுன்னு கேட்டேன்,
+43
+எல்லாம் திருக்குளத்துப் பேய் செய்கிற வேலை”ன்னு
+0 £ரல்லிவிட்டு, அவன் சொன்னான்; 'உன் குடும்பமும் இந்தக்
+இ ரொமமும் நாசமாகாமே இருக்க வேணும்னா, முத்தம்மா! இந்தச்
+சுசவை நீ வளர்க்கக்கூடாது. இது பேய்க்குப் பொறந்தது.
+அதனாலேதான் இவ்வளவு ஆபத்து. இதை நீ உன் வீட்டிலே
+அழுத்தி செய்தே, ஒரே வருஷத்திலே அப்பனை முழுங்கிவிடும்;
+பிறகு, நீ, உன் மூத்த மகன், இப்படி காவு” வாங்கிக் கொண்டே
+இக்கும் அதனாலே இதை வேறே யாருக்காவது *தத்து”
+£டுத்துவிடு. உன். பிள்ளை என்கிற எண்ணமே கூடாது. நீயும்
+இதுவும்" ஒரே கூரையிலே இருந்தாலே ஆபத்துத்தான். ஒரு ஐஞ்சு
+நிமிஷத்துக்கு மேலே, நீ இதைப் பார்த்தாக்கூட ஆபத்து ஏற்படும்.
+
+### Image 6: 006-7ea9b84314.png
+
+- Image: `sirukathaigal/yaarmeethu_kobithu_2/006-7ea9b84314.png`
+
+இது பேய்க்குப் பொறந்தது” என்று சொன்னான். மூணா மாசம்
+என் தங்கச்சி தூக்கிகிட்டுப் போனா. அதுலே இருந்து அங்கேயே
+அவன் இருந்துகிட்டான். ஆனதாலேதான் டாக்டரய்யா, நான்
+அவனோட போய் இருக்க முடியறதில்லை, இதை அவனுக்குச்
+சொல்லவும் கூடாதுன்னு பூஜாரி சொலலியிருக்கிறான். மகன்
+என்கிற பாசத்தாலோ, இந்தத் தள்ளாத வயதிலே நிம்மதியா
+இருக்கலாமே என்கிற எண்ணத்தாலேயோ, .நான் - அவனோட
+போய் இருக்கறதுன்னா, என்னாலே, ஊருக்கே நாசம்
+வந்துவிடுமே. அந்தப் பாவத்தைச் சுமக்கச் சொல்றிங்களா.
+அவனும் குழந்தை குட்டிகளோட இப்ப சுகமா இருக்கறான்--
+நானும் அவனும் ஒரே கூரையின் &ழே இருக்க ஆரம்பிச்சா,
+அந்தப் பேய் அவன் குழந்தை குட்டிகளையும் “காவு” கேட்டு
+விடும். அதனாலேதான், அக்கரை: போயிருக்கிற என் மகன்
+வருகிற வரையிலே என்ன வேதனையானாலும் அனுபவிச்ச
+கிட்டு இருக்கறதுன்னு ஏற்பட்டுப் போச்சு: என்று கிழவி
+கூறினாள். அப்போது டாக்டருக்கு வந்த ஆதஇரத்துக்கு அளவே
+இல்லை. ::எங்கே அந்தப் பூஜாரி?” என்று கோபமாகக் கேட்டார்-
+“அவன் செத்து வருஷம் ஆறு. ஆவுதே”' என்றாள் கிழவி.
+
+என்ன செய்வான் பாதிரியப்பன்! பேயாவது பூதமாவது,
+சாபமாவது என்று சொன்னால், கிழவியால் நம்ப முடியுமா! பல
+கலை வல்லவர்களே அந்த மயக்கததிலிருந்து விடுபட முடியாது
+தவிக்கிறார்கள் --- இந்தக் கிழவிக்கு “பகுத்தறிவு ' வாதம்செய்து
+காட்டி, பேய் பூதம் பிசாசு என்பதெல்லாம் கட்டுக்கதை, பூஜாரி
+ஒரு புரட்டன், அவன் சொன்னது அத்தனையும் அர்த்தமற்றது
+என்று ஒப்புக் கொள்ளும்படி எப்படிச் செய்ய முடியும்?
+ஆக்ஸ்போர்டும் கேம்பிரிட்ஜும் படித்துவிட்டு, மனைவிமார்களை
+அரசமரம் சுற்றி வரச் செய்வதற்கு, அமெரிக்கன் மாடல்
+மோட்டாரில் அனுப்பி வைக்கிறார்கள். இந்தக் கிழவிக்குப்
+பகுத்தறிவு புகட்டவா முடியும்?
+
+“பாட்டி! எவனோ ஒரு. மூடன் சொன்னதை நம்பி,
+
+நாசமாகித் தொலைக்காதே'' என்று கூறினார்.
+
+“மூடனா! யாரைச் சொல்கிறாயப்பா? பூஜாரியையா!
+செச்சே! அவனுக்கு, ராமாயணம், பாரதம், கந்தபுராணம்,
+எல்லாம் மனப்பாடம். ஜோதிடம் தெரியும். இந்தப் பக்கத்திலேயே,
+ரொம்ப கிராக்கி அவனுக்கு!” என்று கிழவி கூறிவிட்டு, “ஏன்
+
+### Image 7: 007-8429b7e75c.png
+
+- Image: `sirukathaigal/yaarmeethu_kobithu_2/007-8429b7e75c.png`
+
+இந்தக் காலத்திலே, இதை எலலாம் நம்ப மறுக்கிறார்கள்” என்று
+எண்ணி வருத்தப்பட்டுக் கொண்டாள்.
+
+என்ன செய்வதென்று தெரியாமல், சலைபோலானார்
+டாகடா.
+
+“டாக்டரய்யா! என் வினை அது! அதுக்கு யார் என்ன
+செய்ய முடியும். விட்டுத் தள்ளுங்க. நீங்க வீண் பொழுதை
+ஓட்டாதபடிக்கு, ஒரு கடுதாசி எழுதிக் கொடுங்க'' என்று
+கெஞ்சினாள்.
+
+டாக்டரின் கண்களிலே நீர் கசிந்தது -- கோபமும்
+கொப்பளித்துக் கொண்டு வந்தது.
+
+ஆனால், அவர் யார்மீது கோபித்துக் கொள்வது?
+
+30-1-1955
+3 3 3 3
+
+## English Translation
+
+Tamil title: யார் மீது கோபித்துக் கொள்வது???
+
+Perhaps that old woman had been left alive merely to demonstrate the form poverty can give a human being. Time destroys so many colourful flowers and beautiful buds; what other reason could it have for allowing this skeleton to wander?
+
+Mere skin, supplied with arms, legs, and eyes. And, alas, a stomach.
+
+If some "blessed woman" gave that dried stomach sour gruel, it was a great feast. Such a feast came once every two days, provided the blessed woman's husband had not abused her.
+
+On other days there were water and air.
+
+The old woman had no strength to take much even when it was offered; she had lived so long with starvation. Her eyes were now only two hollows. Fifty years earlier, when "he" was alive, she had even lined them with kohl and admired their beauty.
+
+It had been more than twenty years since the treasure he gave her crossed to the "other shore." He left with the first growth of a moustache. The mother had possessed the strength to cry then. She did not now.
+
+Grief and longing; bewilderment made permanent; the final stage of destitution. The old woman was their walking form.
+
+Even the days when people said "Poor thing" at the sight of her had died. How long could they continue singing songs of pity?
+
+One cannot spend all one's time admiring the majesty of mountains, the moon's beauty, or the enchantment of clouds. Could anyone always spend thought upon this bundle of distress?
+
+First she was "respected grandmother," then "grandmother," then "old woman," then "Hey, who is that?" then "Go away," then "What a nuisance," then "a great curse," and finally "sticky resin that will not easily let go." Now she had become a form no one noticed or worried about.
+
+Who speaks to a picture on a wall?
+
+But the old woman would not release anyone she found.
+
+Was it to speak of hunger? No. She wanted someone to write.
+
+"Appa... Amma... Alamelu... Andiyappan... who is it?"
+
+"It is I. What do you want? Go home. Valli is there and will give you water."
+
+"Is it Andiyappan? I do not want water or rice. A little thin gruel is enough. Write me a letter, Appa. They say Gopalan from Kodi Street is going overseas. I must send it with him. Come, Appa; you will earn merit. Write just four lines."
+
+Andiyappan knew what she would say and hurried away, muttering, "This mad woman has no other work."
+
+Feeling in front and to either side and finding no person beneath her hands, the old woman realized he had gone.
+
+"Poor man, what urgent work must he have?" she thought, not in anger.
+
+Where was there room in her heart for anger? Sorrow occupied it entirely.
+
+Her Mani was overseas; this skeleton remained here. Between them lay country, forest, mountain, wilderness, and sea. Thought could cross them in a second. Where could the skeleton obtain such strength? It lacked even the strength to reach its grave.
+
+After tiring herself searching for someone, she habitually returned to her hut and collapsed in a curl.
+
+It was her own hut. Who else would want it? That was why it remained hers. Its fallen wall and torn roof resembled her body.
+
+Overseas, Mani had become "Mani Mark," worn himself down working in a church garden, then been drawn by a villain into a world of vice, become a thief, suffered beatings and kicks, and died.
+
+His mother, however, wondered whether he owned a grocery, worked in a flower garden, or lived happily in a fine house with his wife. She believed he must be well and wished it so. How else could a mother's heart think?
+
+At first, seeing her pine and repeat, "Could the sinful boy not send even a quarter-anna letter?" many tried to console her. The price of a card rose to three-quarters of an anna, but no card ever came. Others stopped consoling her; she did not stop sending letters with everyone travelling overseas.
+
+Each began "To the long-lived Mani" and ended "Muthamma." Every one could melt the hardest heart, but he had gone to the grave. What result could they bring?
+
+Still the letters never ceased.
+
+The village itself regularly sent young men with budding moustaches overseas.
+
+It had wet and dry fields, sugarcane, and canal irrigation, but all belonged to four or five important men. They ranked among the heroes who ruled the country and therefore lived in the capital.
+
+The young men went abroad hoping that after five or six years of labour they could save fifteen hundred rupees, buy a quarter or half acre, and live without lacking at least half a stomach of gruel. Mani was one of them.
+
+Mani was a pet name; his full name was Sivasubramaniam.
+
+"If he were alive, he would not send you overseas even for thousands," the old woman had wailed. Then she smeared on Mani's forehead the generous quantity of sacred ash given by the Pillaiyar-temple priest, prayed to a thousand gods, and sent him away.
+
+Mani had sometimes drunk. Overseas his friendship with men of that kind made him drink more. It tormented him and carried him to the grave.
+
+The old woman continued to believe her son lived abroad and had forgotten her through some evil fate. She repeatedly prayed to a thousand gods. But were the gods free for this? They scarcely had time after one festival to prepare for the next. How could they cross the sea, enter a migrant's heart, and create affection for this pitiable woman?
+
+The village bore a name that great cities might envy: Ponnur, the Golden Town.
+
+Even after sifting it through a sieve, one could find not a bead's weight of gold in that rural backwater, except perhaps on the Pillaiyar-temple deity. What sinner would dare search the priest's house? Elsewhere there was not a grain of gold, only the name Ponnur.
+
+It also possessed ancient glory. They said the dust raised when the magical deer that enchanted the divine lady ran past had settled there and turned the village golden. During the Mari temple festival, goat-slaughtering Andiyappan recited that tale.
+
+Such a Ponnur had received the "blessing" of exporting labour overseas. Even the constituency's MLA sat on a committee for the protection of overseas Indians and received a daily allowance of eighteen rupees when it met.
+
+Whenever a young man departed, tearful elders gathered.
+
+"I shall write as soon as I arrive."
+
+"Why trouble your heart unnecessarily?"
+
+"I shall send money every month without fail."
+
+"Take care of the cattle."
+
+"Do not forget the goat sacrifice at the Mariamman festival."
+
+After giving such courage, the young men left. Whenever someone asked, "Is your son leaving too?" the old woman remembered Mani's departure and inwardly blessed the traveller: "May Kali at least give this one good sense."
+
+She pleaded with him to find her son somehow, deliver her letter, and advise him to send even a cheap card.
+
+"We shall see. Who knows which corner of that country he occupies or where I shall work? Still, if I find him, I shall certainly give him the letter and advise him," the traveller promised before boarding his ship.
+
+"You are my eye, my gold," she blessed him.
+
+Money reached some huts, letters reached many people, and some returned afflicted by disease. The old woman alone received neither a card nor news of her son.
+
+That day she found her customary work. Varadan, a cart driver, had been ruined after a bus service began in the area. He abandoned cart driving and decided to go overseas. She had to send a letter with him.
+
+Grey-haired people said of Valli, "I knew she would go astray even when she strutted about glittering."
+
+Valli was a fallen woman. Goat-slaughtering Andiyappan had not tied the marriage pendant around her neck. After the death of Thandavan, who had, she survived by pounding paddy. When a rice mill opened in the neighbouring village, her livelihood disappeared. Andiyappan began showing indirect interest. She cursed him, but he was unafraid.
+
+Calling him elder brother as a matter of kinship, she borrowed a half or quarter rupee. He demanded neither interest nor repayment. She understood and felt disgust, but how long could she battle poverty? Her fall began with the pleading words "Please, no" and ended with the coaxing "You will never abandon me, will you?"
+
+Valli knew enough to read and write a little.
+
+The old woman went to her, called her eye and sugar candy a thousand times, and asked her to write:
+
+To the long-lived Mani,
+
+By Kaliayi's grace I am still keeping myself alive. Have you forgotten that I exist? I am waiting only to see you with my eyes and then die. I live like a miserable beggar. I do not receive rice even once in four days. Is it right that you remain away when I may die at any moment? Come once. The desire to see you is killing me. I must see you before I close my eyes.
+
+The poverty I endure cannot be described. If you send five or ten rupees, I can buy four or five chickens, sell eggs, and live. Something may even remain after I eat. In winter my body shakes until it feels as though life itself will leave me. It would be good if you sent a woollen blanket.
+
+The old woman dictated and Valli kept writing.
+
+"What more? We have written a whole Mahabharata," Valli complained.
+
+"My eye, write just one more matter," the old woman begged.
+
+"Say it and be done."
+
+"Even if you cannot send money, never mind. It is enough if you return. The sight of you will end all my hardships. Leave on the very next ship."
+
+Valli forced her to finish. Carrying the letter, the old woman set out for Varadan's hut.
+
+How many such letters had she sent? How many moving words and oaths upon gods? Yet his heart had not softened. How could he live comfortably overseas while leaving her to suffer in extreme age?
+
+Did he never read them? Even an enemy would feel pity. Perhaps he did not read properly, softened for a moment, then forgot. Perhaps his nature was playful, or his work so hard that he lacked time even to write. What magic or mystery was it?
+
+"Grandmother, keep to the edge of the road. A bull is coming toward you," said Pathiriyappan kindly. He had recently settled in the village, opened a clinic, and conducted research by collecting medicinal leaves. He was respected and the only person who still addressed her as "Grandmother."
+
+"Is it Doctor Ayya?" she asked, catching his hand.
+
+A thought struck her. Perhaps the problem was not whether her son read properly, but whether those who wrote the letters wrote them properly. She handed him Valli's letter.
+
+"This is to send my son overseas. Read it aloud, Doctor. Let us see whether that little wretch scribbled it correctly."
+
+The doctor opened it and laughed.
+
+"Why are you laughing, Doctor?"
+
+"Who wrote this for you?"
+
+"Valli, the young woman people say is of a certain kind. She can read and write."
+
+"She is a wicked girl. There is not a single letter here, only decorative patterns."
+
+"What? Patterns? Sinner! I kept dictating and she kept writing."
+
+"She deceived you. Never mind; I shall question her."
+
+"Only now do I understand the secret. I was angry with my son because I did not know. Every sinner I asked to write must have cheated me just as Valli did. Not one letter can have reached my beloved son. That is why he is angry and has not sent even a cheap card. Tell me, Doctor, is it right to deceive an old woman like this?"
+
+"Do not grieve. Come to my house this evening and I shall write the letter."
+
+Blessing him, she returned to her hut.
+
+Pathiriyappan went to Valli's house and reprimanded her rather angrily.
+
+"She is mad, Doctor. I am not the only one. Whenever the old woman asks anyone in the village to write, they scribble something. Her brain is unsound, and she torments us without end, demanding letter after letter. That is why I drew patterns. Do not misunderstand. She has neither son nor daughter overseas. He must have died long ago; if alive, would he have failed all these years to send even a cheap card? She has gone mad here and wanders with her hair loose. Do not think anything strange of us. She is insane," Valli explained.
+
+The doctor was not satisfied.
+
+"Whatever reason you offer, what you did was wrong. It is sinful to deceive a helpless old woman."
+
+"Ayyo! You know nothing of the world. Her mind has failed. If her brain were sound, why would she lie there thinking only of the man who went overseas and survive by begging 'Ayya, Amma'? She has another son, strong as a mountain. Why not live with him, eat her fill, and rest peacefully?"
+
+"Another son? The old woman?" Pathiriyappan asked in surprise.
+
+"You are new to the village, so you do not know. She has another son. He has no high position, but can provide a full bowl of gruel. He is a farmer in the next village named Sannasi."
+
+As she spoke, Valli saw Andiyappan approaching in the distance.
+
+"There he comes, anger sitting on the tip of his nose. If he sees us speaking privately, he will suspect something and start a quarrel. Go, Doctor. Ask Sannasi in the next village, and you will understand the old woman's affairs."
+
+Sannasi was an honourable man with a large family. When the doctor visited, he was straightening a great haystack.
+
+"Yes, sir. That old woman behaves this way only to destroy my honour. I hang my head in shame. Here I stand, strong and lacking neither food nor clothing. I have gone a thousand times and begged her to come live here. She stubbornly refuses, starves there, and begs. I cannot bear the humiliation."
+
+"What hostility does she bear you? She is your own mother, is she not?"
+
+"She gave birth to me, but gave me away in adoption when I was a baby."
+
+"Is she hostile toward your adoptive mother?"
+
+"Nothing of the sort. Yet from the day I came here, Amma has never set foot in this house. What vow or obstinacy she holds, I do not know. Even for my wedding she came like one among ten guests and left without lifting a hand to help. I have fallen at her feet and invited her, but she will not come and gives no reason.
+
+"Sometimes I become so angry I feel like cutting her down. When anyone asks, 'Your mother is begging there; why do you let her wander?' imagine how my heart panics. She remains there burning my heart."
+
+"Sannasi, do not be angry. Is there some problem with your wife?"
+
+"She is an innocent woman who thinks it meritorious to fall at her mother-in-law's feet. She too has invited Amma as much as she can. Even our children have called her, but she will not come."
+
+"This is astonishing."
+
+"Call it an outrage, Doctor. Sometimes I grow angry enough to kill her and bear whatever blame comes."
+
+Doctor Pathiriyappan could not even attend to his medicinal-leaf research. The old woman's strange conduct confused him. He decided to question her directly.
+
+"Do not even mention him," she said.
+
+"He is a good man, Grandmother."
+
+"A golden man, and his wife is virtuous. They invite me with great affection. But..."
+
+"What is this 'but'?"
+
+"He is not my son."
+
+"Not your son? Has your mind become confused as Valli said?"
+
+"I gave birth to Sanna. But Doctor, keep this within your heart. Above all, he must never know. If he does, the whole family will be in danger. I bore him, but he is a ghost's son."
+
+"You certainly are mad. A ghost's son! A spirit's son! Do not babble."
+
+"What do any of you know? Children nowadays! Sannasi was born to a ghost. Even he does not know, nor anyone in the village. I tell only you. That is why I gave him to my younger sister for adoption in the third month after his birth."
+
+"Grandmother, your mind is confused by grief over your elder son overseas."
+
+"Listen, Doctor. My mind is not confused. He was born five years after the elder boy. One month before he entered my womb, the ghost of the sacred tank possessed me. His father suffered terribly and spent without measure, but the ruined ghost declared it would not leave.
+
+"They burnt me, shaved my head, dressed me in neem leaves, and made me circle the Mariamman temple. Nothing remained untried, but the tank ghost yielded to nothing. I conceived while it possessed me, and this boy was born.
+
+"You have seen him: he is handsome. The moment he was born, a gigantic tamarind tree at the end of the street fell from its roots. Lightning struck the Mariamman temple tower and knocked it down. Our fine cow that gave two measures of milk cried 'kaa, kaa,' collapsed with a thud, and died. His birth brought disaster upon the whole village.
+
+"Did it end there? His father, who had been healthy, developed fever, foamed at the mouth, and suffered convulsions. Afraid and suspicious, I summoned the priest.
+
+"He said, 'All this is the work of the tank ghost. Muthamma, if your family and village are not to be destroyed, you must not raise this child. He was born to the ghost. That is why so much danger has occurred. If you keep him in your house, he will swallow his father within a year, then take you and your elder son as sacrifices one after another. Give him in adoption to someone else. You must not even think of him as your child. Danger will come if the two of you live beneath one roof or if you look at him for more than five minutes.'
+
+"In the third month my younger sister took him away, and he has lived there ever since. That is why I cannot go live with him. The priest said I must not tell him either.
+
+"If affection for my son or the desire for comfort in my old age makes me live with him, I shall bring destruction upon the whole village. Do you ask me to bear that sin? He now lives happily with wife and children. If I begin sharing his roof, the ghost will demand his children as sacrifices. That is why I resolved to endure any suffering until my son overseas returns."
+
+The doctor's anger knew no bounds.
+
+"Where is that priest?" he demanded.
+
+"He has been dead six years," she replied.
+
+What could Pathiriyappan do? Could this old woman be made to reject ghosts, spirits, and curses? Scholars accomplished in many arts struggled to escape the same delusion. How could he argue rationalism and make her admit that demons were inventions, the priest a fraud, and every word meaningless?
+
+Men educated at Oxford and Cambridge sent their wives in American-model motorcars to circle sacred fig trees. Could he instil rational thought in this old woman?
+
+"Grandmother, do not destroy yourself by believing what some fool said."
+
+"A fool? Whom do you mean, the priest? Shame! He knew the *Ramayana*, *Mahabharata*, and *Kanda Puranam* by heart. He knew astrology and was much sought after throughout this region."
+
+She then grieved that people nowadays refused to believe such things.
+
+The doctor stood like a statue, not knowing what to do.
+
+"Doctor, it is my fate. What can anyone do? Leave it. So that you do not waste your time, please write me a letter," she begged.
+
+Tears gathered in the doctor's eyes, and anger surged within him.
+
+But with whom could he be angry?
+
+30 January 1955
+
+## Translator's Notes
+
+The title is restored from the clear filename and closing line as “யார் மீது கோபித்துக் கொள்வது???”; its first scanned occurrence is visibly damaged. “அக்கரை” literally means the other shore and here denotes overseas migrant labour, while retaining emotional echoes of distance and death.

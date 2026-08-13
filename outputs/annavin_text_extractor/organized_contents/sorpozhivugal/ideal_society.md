@@ -1,0 +1,1 @@
+../../ocr_text_corrected/sorpozhivugal/ideal_society.md

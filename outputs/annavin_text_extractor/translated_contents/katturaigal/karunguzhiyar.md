@@ -1,0 +1,487 @@
+# கருங்குழியார்! / People of Karunguzhi!
+
+**Tamil title:** கருங்குழியார்!  
+**English title:** People of Karunguzhi!  
+**Source file:** `katturaigal/karunguzhiyar.md`
+
+## Source Tamil (verbatim)
+
+- Source image folder: `/Users/pugazhendhirajendran/Documents/Codex/2026-07-09/https-www-annavinpadaippugal-info/outputs/annavin_text_extractor/ocr_images/katturaigal/karunguzhiyar`
+- OCR language: `tam`
+- Tesseract page segmentation mode: `3`
+- OCR cleanup: `enabled`
+
+## Image 1: 001-0ed3b9f18c.png
+
+- Image: `katturaigal/karunguzhiyar/001-0ed3b9f18c.png`
+
+கருங்குழியார்!
+
+எட்டிக் கொட்டையல்லவோ எஜமானே! எப்படி அதனை
+நான் தின்பது? கசக்குமே, உயிர் பதைக்குமே! என்று கேட்கிறான்
+அடிமை.
+
+மட்டிப்பயலே! கொட்டத்தை அடக்குவேன். கிட்டே வந்து
+நின்று சட்டம் பேசுகிறாயா? கட்டிப்போட்டு உன் கர்வத்தைத்
+தட்டிவிடுகிறேன். எட்டியானால் என்ன, எடுத்துத்தின்றுதானாக
+வேண்டும். என்று இறுமாப்புடன் இயம்புகிறான், எஜமானன்.
+
+இது எஜமானன் வெறும் இறுமாப்புடன் இருந்த காலத்துக்
+காட்சி.
+“இது கசக்குமாமே, இதை எப்படி நான் தின்ன முடியும்?”
+என்று கேட்கிறான் அடிமை, எஜமானன் புன்சிரிப்புடன்,
+“அடமுட்டாளே! யாரோ உன்னை ஏய்த்துவிட்டார்கள். எட்டி,
+எங்காவது கசப்பாக இருக்குமா! எவர் சொன்னார் இங்கு
+கொண்டுவா: என்று இதமாகப் பேசுகிறார், வஞ்சகத்தை
+மறைத்து; இது கேள்வி பிறந்தகாலத்திலே, காலத்தை அறிந்த
+தந்திரக்காரன், கபடத்தால் தனது அடிமையை அடக்கும் காட்சி,
+எனக்குத் தெரியுமே. எட்டிக்கசப்பு என்று எவரும்
+கூறுவரே. அதை நான் ஏன் தின்னவேண்டும், முடியாது?” என்று
+தெளிவால் பிறந்த தீர்மானத்தோடு பேசுகிறான் அடிமை.
+“ஆமாம், எட்டி கசப்புதான், ஆனால் உடலுக்கு உறுதி தருமே,
+அதனை நீ அறியாய் இனிப்பு, இளைக்கச் செய்யும் கைப்பு
+தழைக்கச் செய்யும் என்று அகத்தியரின் வைத்திய அகவல்
+கூறுகிறது. நீ அதனைப் படித்ததில்லை; நீ எட்டி தின்றால், உன்
+தேகம் கெட்டிப்படும். தின்பதும் இன்னாததும் உன் இஷ்டம்?”
+என்று சூதைச் சமர்த்தாக மறைத்து ஏய்க்கிறான் எஜமானன். இது
+தெளிவு தோன்றிய போது, அடிமையை அறிவின் துணை
+கொண்டு தயாரித்த சூதினால் எஜமானன் அடக்கும் காட்சி,
+
+## Image 2: 002-2fe0b2f8a9.png
+
+- Image: `katturaigal/karunguzhiyar/002-2fe0b2f8a9.png`
+
+அந்திய காலம்
+
+"இங்ஙனம் அடிமையை அடக்கக் காலத்துக் காலம்,
+விதவிதமான முறைகளைக் கையாண்டு, ஆண்டான் அடிமை
+என்ற ஏற்பாட்டை மறையவிடாதபடி தடுத்து வருவது, உலகிலே
+இந்நாடன்றி, வேறெங்கும் இல்லை, ஏனெனில் இங்குதான்,
+மூளையில் மூடு பனியினரும், மனதிலே மருளுடையோரும்,
+நாக்கும் வாக்கும் போக்கற்றுப் போனோரும், தடித்ததோலரும்
+அதிகம். பச்சைத் தமிழில் கூறுவதானால், மானத்தையும்
+ரோஷத்தையும் இழந்தவர்கள் அதிகம்! எனவேதான், வலியோர்
+சிலர் எளியோர் தமை வதையேபுரிகிறார், மகறாஜர்கள்
+உலகாளுகிறார், - ஓட்டப்பர் ஓலமிடுகிறார், ஆண்டி அரசனை
+மிரட்டுகிறார், அநாகரிகம் அச்சமின்றி அரசோச்சுகிறது.
+அறிவுக்குச் சிதை, ஆண்மைக்கு நரை. பாதகத்துக்குப் பீடம்,
+பார்ப்பனியத்துக்குச் சூடம், இருந்திடக் காண்கிறோம்.
+
+இந்தக் கொடுமையை, எவரும் நன்கு உணரும் விதத்திலே
+இன்றும் ''இந்து மதம்”? எடுத்துக்காட்டுகிறது. இளித்த வாயனை
+ஏய்த்துப் பிழைக்கும் திட்டம், கால்தேசவர்த்தமானத்துக்குத்
+தக்கபடி, அவ்வப்போது செப்பனிடப்பட்டு வருகிற விந்தையை,
+இந்துமதத்தின் வரலாற்றை அறிந்தோர் அறிவர். இந்து மதத்திலே
+சீர்திருத்தம் என்றும், வழிபாடு முூறைகளிலே புதுமாற்றம்
+என்றும், மக்கள் வாழ்க்கை அமைப்பிலே புதிய திட்டத் தோற்றம்
+என்றும் பேசப்படும் போதும், வியாசரின் உண்மைக் கருத்து
+பராசரரின் பரந்த நோக்கம், வேதத்தின் சாரம், உபநிஷத்தின்
+உண்மை, என்று தத்துவார்த்தங்கள் உரைக்கப்படுகிற காலையும்,
+நமக்கு அடிமையை அடக்கியாள, எஜமானன் புது வேலை
+முறையைக் கையாளும் விதமாகவே தோற்றுகிறது. ஏனெனில்
+புரட்சி வாடை வீசும் நேரத்திலே, புத்துலகக் கருத்து. வளரும்
+இடத்திலே, இந்துமதப் பாதுகாவலர்கள் உடனே ஓர்
+மாற்றுமருந்து' தயாரித்து விடுகின்றனர், அதனைத் தந்திரமாகத்
+தந்துவிடுகின்றனர், புரட்சி வேகத்தைப் போக்கிவிட்டுப் பிறகு,
+பழய ஏற்பாடு நிலைத்தது என்ற மகிழ்ச்சியுடன், புன்னகை பூத்த
+முகத்தினராய் வாழுகின்றனர்! ஆனால், பாவம், அவர்கள்
+அறியவில்லை, அந்தியகாலத்தை அவர்கள் அணுகி இருக்கிற
+உண்மையை!
+
+## Image 3: 003-53d9466175.png
+
+- Image: `katturaigal/karunguzhiyar/003-53d9466175.png`
+
+விஷ விருட்சம்
+
+திருத்தி அமைப்பதன் மூலம் இந்து மார்க்கம் வளம்
+பெறுமென்றோ, அம்மார்க்கத்தைத் தழுவிடுவோரை வளமாக்கு
+மென்றோ மனப்பால் குடிப்பவர்கள், ஒரு முக்கியமான
+உண்மையை மறந்து, மருளுலகிலே வாழுகின்றனர். இந்து
+மார்க்கத்திலே, எண்ணற்ற முறை, இன்றுள்ளோரினும் மேலான
+திறம்படைத்தவர்களால், சீர்திருத்தங்கள் புகுத்தப்பட்டுப், புது
+முறைகள் வகுக்கப்பட்டு, புதிய திட்டங்கள் தீட்டப்பட்டு
+நாளாவட்டத்தில் அவைகள் பட்டுப் போகவே, பழயவிஷ
+விருட்சம், பழயபடி இருக்கிறது என்பதனைப், புதிய ஆர்வத்தை
+அணைத்துக் கொண்டு வாழும் அன்பர்கள் அறிவதில்லை.
+பிரமசமாஜமும் ஆரியசமாஜமும், இந்து மார்க்கத்தைத்
+திருத்தத்தோன்றிய இயக்கங்களே! அவை இரண்டும் இன்று
+இந்து மார்க்கத்தின் எடுபிடி ஆட்களாகிவிட்டன[ .சீக்கிய
+மார்க்கம், இந்து மதத்தின் சீர்கேட்டை மறுத்து அறப்போர்
+தொடுத்து அமைத்த அறிவுப்படையே! ஆனால் இன்று, அதனை
+“எமது ஏவலர் படை!:' என்று இந்து மதவாதிகள் மட்டுமல்ல,
+இத்து அரசியல்: வாதிகளும் இறுமாப்புடன் கூறிக்கொள்ளக்
+கேட்கிறோம்... எவரும் எம்பிரான் அடியார்களே! என்றும்
+ஆவுரித்துத் தின்று உழலும் புலையரானாலும் அரனைத்
+தொழும் அன்பரானால் அவர் கண்டீர் யாம் வணங்கும் தெய்வம்
+என்று . கூறின ஆழ்வார்களும். இதுபோது ஆலயங்களிலே
+அலங்காரப் பொம்மைகளாக, அவர்தம். மொழி, பிரசாதத்தின்
+மீது விழி வைத்து வாழும் கூட்டத்தினரின். காலை மாலைக்
+கூச்சலுக்குப் பயன்பட்டுப் போயினவேயன்றி, இந்து
+சமுதாயத்தின் அமைப்பு முறையை அசைக்கவும் முடியவில்லை.
+மேல் கீழ்நிலை. இன்றும், அன்று போலவே இருந்திடக்
+காண்கிறோம். ஜாதியின் சண்டித்தனம் குறையாது இருப்பதையே
+பார்க்கிறோம்... அந்தி சந்திவேளையிலே, அதிகார வேகத்தாலே,
+செல்வத்தின் சக்தியாலே, சிற்சில, கலப்புகள்.. கூட்டுறவுகள்,
+நேசங்கள், உண்டாகி. இருக்கலாமே ஒழிய, சாஸ்திரத்தை
+அடிப்படையாகக் கொண்ட சட்ட திட்டமோ, மார்க்கத்தை
+அடிப்படையாகக் கொண்ட கட்டுப்பாடோ, இன்றும் குறைந்தது
+என்று கூறுவதற்கில்லை.
+
+## Image 4: 004-4bce7b292c.png
+
+- Image: `katturaigal/karunguzhiyar/004-4bce7b292c.png`
+
+மனமாற்றம் இல்லையே!
+
+இந்த நிலையிலே, கொடுமைக்கு ஆளாகுபவர்கள்,
+இக்கொடுமையைவிட்டு விலகிடத் துணிவதிலே ஆச்சரியம்
+என்ன! இத்துணிவு, வேகமாகப் பரவாததிலே நாம் ஆச்சரியம்
+கொள்கிறோம்! பெரும்பாலான மக்கள் இத்துணிவு பெற
+வில்லையே, இன்னமும் பெறவில்லையே என்று ஆயாசப்
+படுகிறோம். ஆண்டவன் படைப்பிலே அனைவரும் சமமே
+என்று கூற, கூறியபடி நடைமுறையை ஏற்படுத்த மனமில்லை,
+இந்து மதவாதிகளுக்கு, காலத்தின் வேகத்தையும் அவர்கள்
+இலட்சியம் செய்வதில்லை. ஆதனூரில் அன்று வேதியர் இருந்த
+ஆணவத்திற்கு: இன்று: ஒரு இம்மியும் அக்கிரகாரத்திலே
+குறைச்சலாக இருப்பதாகக் கூற முடியாது அன்று அற்புதத்தை
+நடத்திக் காட்டியதற்காக .நந்தனார்' காலிலே வேதியர் வீழ்ந்தது
+போல. இன்று... அறிவுபெற்று அதிகாரமும்" பெற்றுள்ள
+அம்பேத்கார் திருவடிகளைத் தொழுவதற்கு வேண்டுமானால்
+வேதியக் கூட்டம் விரும்புமே ஒழிய சமூகத்திலே .. உள்ள சாதிப்
+பிரிவுகளை ஒழிக்க சித்தமாக இல்லை. எல்லோரும்-சமம் என்று
+கூறும் எண்ணம் வரவேண்டும். அந்த 'மன மாற்றம் ஏற்படாத
+வரையில் மத மாற்றம் இருந்தே தீரும். மலேரியா கிருமி
+இரத்தத்திலே இருக்கும்வரை காய்ச்சல் இருந்தே தீரும்.
+புண்ணிலிருந்து புனுகு வாடை பிறக்காது, /! விழிபழுதாகிவிட்டால்
+வழியிலே உள்ள கருங்குழியிலே வீழாமல் தப்ப முடியுமா?
+
+பிணியாளன் மருத்துவரைத் தேடுவதும், பசித்தோன்
+உணவு விடுதியை. நாடுவதும், இயற்கை! இதனை உணர
+மறுப்பது மடமை என்று நாம். கூறுவோம், -ஆனால்
+“மேதாவிகள்”'” என்று தம்மைக் கருதிக் கொள்ளும்பலர். இதனை
+உணரமறுப்பதால், அவ்வளவு பெரியவர்கள் மீது எப்படி
+இவ்வளவு கடுமையான வார்த்தையை வீசுவது என்று கருதி
+இதனை உணர மறுப்பவர்கள். உண்மையை. மறக்கிறார்கள் என்று
+உரைக்கிறோம். மீண்டும் கூறுகிறோம், தெளிவாகத் தைரியமாக,"
+இந்து மதத்திலே உயர் ஜாதிக்காரர் என்ற பட்டியலிலே. தமது
+பெயரைப் பொறித்துக் கொண்டுள்ளவர்களிடையே மனமாற்றம்
+ஏற்படாதவரை மதமாற்றம் இருந்தே தீரும்.
+ஆறில்லாத ஊர், தூர்காணா வானம், விளையாத வயல்,
+கூரைபிரிந்த குடிசை, கொல்லையிலே கொடும் பாம்பு வாசம்,.
+
+## Image 5: 005-cbd53a6529.png
+
+- Image: `katturaigal/karunguzhiyar/005-cbd53a6529.png`
+
+'இங்கே' குடியிருக்கிறான் குப்பன். அவனுக்கு அடுத்த
+கிராமத்திலே, ஆற்றோரத்திலே, நஞ்சை நிலத்துடன் கூடிய
+நல்லதோர் -விடுதியைத் தர விழைகிறார் ஒர் கொடையாளி,
+குமுறிக் கிடந்த குப்பன், கூத்தாடுவானா மாட்டானா இக்களிப்
+பூட்டும் செய்தி கேட்டு! அடுத்தக் கிராமத்துக்கு. ஓட்டமாகச்
+செல்லாதிருப்பானா! அங்ஙனம் போகிறவனை வழிமறித்துக்
+கொண்டு “குப்பா! எங்களை விட்டுப் போகலாமா அப்பா/”?
+என்று கேட்பது அழகா என்று கேட்கிறோம். நமக்கிருக்கும்
+தோட்டம்: வீடு, மாடு, “கன்று, முதலியனவற்றை : எண்ணி
+மகிழ்ந்து வாழ்வது” போலத்தானே; உயர்ஜாதி இந்துக்கள்
+என்போர், ஆறு கோடிக்கு மேற்பட்ட பழங்குடி. மக்களாகிய
+ஆதித்திராவிடர்கள் இருக்கிறார்கள் உழைக்க, அடிமையாகக்
+கிடக்க என்று எண்ணி இறுமாந்து கிடக்கிறார்கள். தங்களுடைய
+நிலத்துக்காவது, விளைவு அதிகமாக: 'வேண்டுமென்பதற்காக
+உரம் தருவர், வீடு கலனாகாதபடி பழுதுபார்ப்பர், பூசிமெழுகு
+வர், அதுவும் செய்வதில்லை ஆதித் திராவிடர் விஷயத்திலே.
+கட்டிக். கழித்த கந்தையைத் தருவர், அதனைப் பெரிய
+கண்ணியமென்று எண்ணுவர்! சேரியிலே இருக்கச் செய்வர், அது
+அவன் செய்த தீவினை என்று செப்புவர். தீண்டாதானெனக்
+கூறுவர், தெருவினில் நடக்கவிடார் சில இடங்களிலே.
+வேட்டிகட்டினால் வேலமரத்திலே கட்டிப் புளிய மிலாரினால்
+அடிப்பர்! குளத்திலே இறங்கி விட்டால், குருந்தடிகொண்டு
+அடிப்பர். செருப்புடன் நடந்தால் என்ன செருக்கடா, என்று
+கேட்டுச் சித்திரவதை செய்வது, இன்னமும் காட்டாட்சி போன்ற
+கிராமச் சமூக ஆட்சியிலே நடைபெறக் காண்கிறோம். “காருண்ய
+துரைகளுக்கு மனுக்கள்- போடுவதும், கலைக்டர் துரைக்குக்
+கடுதாசி எழுதுவதும், வக்கீல் ஐயாவின் வீட்டுக்கு வாத்தியார்
+ஐயாவை அனுப்புவதும், வழக்குக்கு ரூபாய் அதிகமாகும் என்று
+தெரிந்து கொள்வதும்” இன்னமும், அடிக்கடி கிராமாந்திரங்
+களிலே நடைபெறுவதுண்டு. இல்லை என்போரிடம் உண்மை இல்லை.
+
+இப்படிப்பட்ட கொடுமைகள் இருக்கின்றன, இவை
+இல்லாத இடம், எங்கே, எங்கே என்று அவர்கள் தேடுவதிலே
+ஆச்சரியம் கொள்வதா, ஆயாசப்.படுவதா? என்று கேட்கிறோம்.
+மனமாற்றம், ஜாதி இந்துக்களிடையே ஏற்படாவிட்டால்,
+தீண்டாதார் எனப்படுவோர், மதமாற்றத்தை மேற்கொள்வர்
+
+## Image 6: 006-5e7fb53280.png
+
+- Image: `katturaigal/karunguzhiyar/006-5e7fb53280.png`
+
+என்பதுமட்டுமல்ல,. மேற்கொள்ள வேண்டும் என்ற. பிரச்சாரம்
+
+- வலுவடையும் என்பதும் உறுதி. செங்கற்பட்டு ஜில்லா கருங்குழி
+
+எனும் கிராமத்தைச்: சார்ந்த எல்லப்பன் என்ற . ஒரு . தோழர்
+பத்திரிகையிலே, கீழ்க்கண்ட அறிக்கையை வெளியிட்டிருக்கிறார்.
+கருங்குழியார் :
+
+"மதுராந்தகம் தாலுகா அருங்குணம் கிராமத்தில் தேவாதூர்
+சேரியிலிருக்கும் ஆதித் திராவிடர்களுக்கு சுமார் 300 ஏக்கர் நிலம்
+சொந்தமாக . இருக்கிறது. அவ்வூர்... ஏரி -சிறிதாகையால்
+கடைப்போக்கிலுள்ள மேற்படி சேரிமக்களுக்குச் சொந்தமான
+நிலங்களுக்குத் தண்ணீர் பாய்வது சிரமம். ஆதலால். அந்
+நிலங்களில் அநேகமாக விளைவுகாண்பது அரிதே. சாவியாகப்
+போய்விட்ட போதிலும் கிஸ்திபணம் மட்டில் உழவுமாடுகளை
+விற்றேனும் கட்டும்படியாகிறது. மேற்படி நிலங்களுக்கு அருகே
+ஒரு பெரிய ஓடை போகிறது. அதற்கு அணைகட்டுக் கட்டினால்,
+மேற்படி நிலங்களுக்குத் தண்ணீர் கிடைத்து முதல் தர விளை
+நிலங்களாகி விடும். பலவிதங்களில். முயன்றும் அணைகட்டும்
+முயற்சிக்கு ஆதரவு கிடைக்காமல் கிராம ஜனங்கள் பெரிதும்
+கஷ்டப்பட்டு வருகிறார்கள். இந்த சந்தர்ப்பத்தைப் பயன்படுத்திக்
+கொண்டு பாதிரிமார்கள் சிலர் தாங்கள் அணைகட்டிப் பாசன
+வசதி செய்து தருவதாகவும் அதற்குப் பிரதியாக சேரியிலுள்ள
+குடும்பங்கள் அனைத்தும் ஹிந்து மதத்தை விடுத்து கிறிஸ்தவ
+மதத்திற்கு மாறிவிடும்படி சொல்லியும் வருவதாகக் கூறப்
+படுகிறது. போதிய நிலமிருந்தும் விளைவில்லாது பட்டினியால்.
+வாடுவதைக் காட்டிலும் மேற்படி முயற்சி நல்லதென்று தோன்றி
+மத. .மாற்றத்திற்கு சிலர் சம்மதப்படுவதாகத் . தோன்றுகிறது.
+ஆகவே ஹிந்து மதாபிமானிகளும், தரும சீலர்களும் இந்தச்
+சந்தர்ப்பத்தில் முன் வந்து இம்முயற்சியை மாற்றி மேற்படி
+குடும்பங்களுக்குச் செளகர்யம் செய்து ஆதரிக்க முற்படும்படி
+வேண்டிக் கொள்கிறேன். '?
+
+மதமாற்றமா, தண்ணீர் வசதிபெற மதமாற்றமா? என்று
+கலங்கும் அன்பர்களுக்குக் கூறுகிறோம், தண்ணீர் வசதியும்
+இன்றி தவிக்கும். தோழர்கள் இருக்கிறார்களே அவர்களின்
+தத்தளிப்பைக் கண்டும் நமக்கென்ன என்று இருக்கிறீர்களே, இது
+தர்மமா, நியாயமா, மனிதாபிமானமா? தண்ணீருக்கும்
+தவிக்கும்படி மக்களை விட்டுவைப்பது, .பிறகு அந்த வசதிபெற
+
+## Image 7: 007-f9f2e30035.png
+
+- Image: `katturaigal/karunguzhiyar/007-f9f2e30035.png`
+
+அவர்கள் மதம்மாறுகிறார்களாமே என்று மார்பிலே அடித்துக்
+கொண்டு அழுவதுஎன்றால், இந்தப் போக்கை என்னென்பது!
+
+கருங்குழித் தோழரின் அறிக்கையைப் பாதிரிமார்
+மறுக்கக்கூடும், அது வேறு விஷயம், நாம் கவலைகொள்வது அது
+பற்றியல்ல. தோழரின் வேண்டுகோளின்படி, ''இந்துமதத்திலே
+பற்றுகொண்ட தர்மவான்கள்'' தண்ணீர் தருமம் செய்ய
+முன்வரக்கூடும், அதைப்பற்றியும் நாம் இதனை எழுதினோ
+மில்லை. தண்ணீர் அல்ல, இந்த மதமாற்றத்துக்குக் காரணம்.
+பன்னெடுங்காலமாகப் பழங்குடி மக்களை இந்து மதத்தின் ஜாதி
+முறை. படுத்துகிற கொடுமையினாலே வாடி. அவர்கள் வடித்த
+கண்ணீர். அந்தக் கண்ணீர்தான், காடுமேடுகளிலே “'கர்த்தன் '
+கோவில்கள்”! கட்டிட உதவுகிறது. கருங்குழித் தோழரின் ''அபாய
+அறிவிப்பு'' போலப் பன்முறை பலர் விடுத்தனர். ஆனால்
+நிரந்தரமான வழி காணப்படவில்லை. மனம் மாறவில்லை,
+மதம்மாறுவதும் ஓயவில்லை.
+
+சாவுதான் விடுதலையாம்!
+
+இந்து மதத்தின் மணிகளின் திருவாய் மொழி இன்னமும்,
+மனமாற்றத்தைக் காட்டக் கூடியதாகவோ மனமாற்றம். ஏற்படும்
+என்ற நம்பிக்கையை ஊட்டக் கூடியதாகவோ இல்லை. 1937-ஆம்
+ஆண்டு டிசம்பர் 5-ந்தேதி, சென்னை திருவல்லிக்கேணி
+சிங்கராச்சாரி மண்டபத்திலே, திவான்பகதூர் இராமசாமி
+சாஸ்திரியார் தலைமையிலே அகில இந்திய பண்டித பரிஷத்
+நடைபெற்றது. அதிலே இந்துமதத்தின் உட்பொருள் மெய்ப்
+பொருள் உணர்ந்த மேதைகள் கூடினர், ஆதித்திராவிடரைப்
+பற்றிப் பேசினர். சிலருடைய மொழிகளை இதோ தருகிறோம்.
+இந்து மதத்தின் வழியைக் கருங்குழியார் உணர. பிரம்மஸ்ரீ
+சாஸ்திரரத்ன தீத்தியூர் சுப்பிரமணிய சாஸ்திரிகள் பேசியதாவது.
+
+சாஸ்திரம், தீண்டாதாராகப் பிறந்தவரை சண்டாளர் எனக்
+கூறுகிறது. ஆச்சாரங் . கெட்டதாலும், கெட்ட சகவாச
+தோஷத்தாலும் கூடத் “தீண்டாமை” ஏற்படுகிறது. ஆனால்
+சாஸ்திரப்படி இவைகளுக்குப் பரிகாரம் உண்டு. இத்தகையவன்.
+(ஆச்சாரங்கெட்ட பார்ப்பனன்) பிராமண அந்தஸ்த்தை
+இழந்துவிடமாட்டான். ஏனெனில் அவனுக்குப் பிராயச்சித்தம்
+உண்டு. சண்டாளர்களுக்குத் தீண்டாமைபோக சாஸ்திரப்படி
+எந்தவிதப் பிராயச்சித்தமும் கிடையாது! இதுவே சாஸ்திர
+
+## Image 8: 008-3e714304c1.png
+
+- Image: `katturaigal/karunguzhiyar/008-3e714304c1.png`
+
+நிலைமை” என்று குறிப்பிட்டார். வேறொருவர் இன்னம் விளக்க
+மாகக் கூறினார். பிறவியிலே தீண்டாதானாக ஜெனித்தவன் இந்த
+ஜென்மத்திலே அதைப் போக்கிக் கொள்ள முடியாது. வீணாக
+விவாதம் ஏன்? தீண்டாதாரை நல்லபடி, : பக்தியுடன் வாழும்
+படியான வ ழிகளைச் செய்யலாம். தீண்டாதாரில் உயர்ந்தோரின்
+மேன்மையைப் புகழும் ஏடுகளை எடுத்து நவீனக்
+கொள்கைகளுக்கு ஆதாரம் காட்டுவது பொருந்தாது. ஒருமரம்
+தோப்பு ஆகுமோ,” என்று கேட்டார். நந்தன், திருப்பாணாழ்வார்
+என்ற பக்தர்களின்கதையை ஆதாரமாகக்காட்டி, சமஉரிமை
+கேட்பது சிலருடைய வாடிக்கை. சாஸ்திரிகள் அத்தகை
+யோருக்குத் தருகிறார் இந்தச் சம்மட்டி. அடி! இதைவிடச்
+தெளிவாகவும், இம்மியும் குறையாத. இந்து மார்க்க மமதை
+யுடனும், தொடவாசல் நரசிம்மாச்சாரியார் என்பவர், செத்தால்
+ஒழியத் தீண்டாமைபோகாது என்று கூறிவிட்டார்.
+“தீண்டாதாருக்குப் பிறந்தவன், செத்தால்தான் தீண்டாமை
+போகும், பக்தி மூலமாகத்தான் உயரலாம் ஆனால் . இந்த
+ஜென்மத்திலேயே தீண்டாமையைப் போக்கிக் கொள்ளக் கூடிய
+அளவு உயர முடியாது!" என்று அவர் கூறினார்.
+
+நாம் திராவிடர்
+
+இங்ஙனம் இவர்கள் பேசிடக் காரணம் என்ன? பழங்குடி
+மக்களைப் பஞ்சமர் என்று ஒதுக்கி ஒடுக்கி வைப்பதுகூடாது
+என்ற சாதாரண அறிவுகூடவா அவர்கட்கு இல்லை. உண்டு. பின்னர்
+ஏன், அவர்கள் அதுபோலப் பேசினர்? இந்து மார்க்கத்தின்படி
+சமூகம் நடைபெற வேண்டுமானால் நாலுவருணமும்,
+ஐந்தாவதாகப் பஞ்சமனும், இருந்தேதான்தீர வேண்டும். இந்த
+ஏற்பாடே இந்துமதத்தின் உயிர்நாடி. இந்த ஏற்பாட்டைப்
+புகுத்தவே இந்து மதம் ஏற்பட்டது. இத்த ஏற்பாட்டை
+நீக்கிவிட்டால், பிறகு. இந்துமதம் இருக்காது. எனவே தான்
+இந்தமதத்திலே அக்கரை கொண்ட ஆரியப்பண்டிதர்கள்,
+அதுபோலப் பேசினர். இந்துமதம், அங்ஙனம் பேசிய வேதியக்
+கூட்டத்தைப் பூதேவராக்கிக் குருமார்களாக்கி, மோட்சத்தரகர்
+களாக்கிப் பாடுபடாது வாழவழியுண்டாக்கி வைத்திருக்கிறது.
+எப்படி அவ்வளவு ''இலாபகரமான'' மதத்தை அவர்கள்
+விடுவார்கள். ருசிகண்ட பூனை சும்மா இராதாமே! பரம்பரை
+யாகப் பலன்தந்த ஒரு மார்க்கத்தை அவர்கள் கைவிடுவார்களா?
+அதுபோலவே. நாலுவர்ணம் எனும் . ஜாதிப்பாகுபாடு,
+
+## Image 9: 009-e77a57e3f5.png
+
+- Image: `katturaigal/karunguzhiyar/009-e77a57e3f5.png`
+
+ஆரியர்களை முதலாமிடத்திலே வைத்திருக்கிறது! ஆரியர்கள்
+அதனை அழிக்க விரும்புவரா? எந்த இந்து மதமும் அதன்
+உயிர்நாடியாகிய வர்ணாஸ்ரமும், தம்மைப் பூதேவர்களாக்கி
+வைத்துச் சுகமாக வாழவழிசெய்து வைத்திருக்கிறதோ. அதனைக்
+காப்பாற்ற அந்த ஆரியர்கள் கடமைப்பட்டவர்கள், அதுவே
+அவர்களின் ஜீவ இலட்சியம், வாழும் வழி. அதே முறையிலே,
+நமக்கும் வாழ்க்கை இலட்சியம் இருக்க வேண்டாமா? நம்மை
+அதே இந்துமதம் சூத்திரனாக்கிப் பஞ்சமானாக்கிக் கொடுமைக்கு
+ஆளாக்கி, தற்குறியாக்கித் .தரித்திரனாக்கித் தாசானாக்கி
+நீசனாக்கிவிட்டதே, இன்னமும் நாம், ஏன் அந்த. இந்தமதத்தைக்
+கட்டி அழவேண்டும்? கட்டி அழும்வரை நமக்கு மீள் மார்க்கம்
+எங்கிருந்து கிடைக்க முடியும்? உவர்ப்பு நீருடன் எவ்வளவு
+இளநீர் கலந்து பருகுவது, எத்தனை காலத்துக்கு முடியும்?
+என்பனவற்றை இந்துமதத்தை சீர்திருத்தி இதம் உண்டாக்கக்
+கருதும் தோழர்கள் எண்ணிப் பார்க்க வேண்டும். 100-க்கு
+3-பேராக உள்ள ஒரு கூட்டத்துக்கு மட்டுமே உயர்வும் நலனும்,
+வாழ்வும் வளமும், பெருமையும் தருவதாக இருக்கும் ஒரு
+மதத்தைக் கட்டி அழுது கொண்டு 97-மக்கள் “'சூத்திரராகவும்
+சண்டாளராகவும்”? வாழுவதும், இடையிடையே இருக்க
+இடத்துக்கும் குடிக்கத் தண்ணீருக்கும் இருப்பவரிடம்” இளித்த
+வாயுடன் நின்று கெஞ்சுவதும், ஏன்? நூற்றுக்குத் தொண்ணூற்
+றேழு பேருக்குப் பலன்தராத ஒரு மார்க்கத்தைத் தமக்குரியது
+என்று கூறிக்கொள்வது எந்த நியதிக்குப் பொருந்தும்? பிறன்
+இல்லத்திலே பிடித்தவனிடம் தன் இடை அழகையும் நடை
+ஒய்யாரத்தையும் காட்டிக் காமக்கணைபூட்டி வாழுபவளை ''என்
+மனைவி” என்று எந்த -ஏமாளி கூறுவான்? அது போலப்
+பார்ப்பனருக்கே பலவிதத்திலும் பலன் அளிக்கும் ஒரு மதத்தை,
+நமது மதம்'' என்று எப்படிப் பார்ப்பனர் அல்லாதார்
+கூறுமூடியும், ஏன் கூற வேண்டும்? என்பன போன்றவைகளை,
+இந்துமத சீர்திருத்தம்!” என்ற இனிப்புக் காடியைப் பருகும்
+அன்பர்கள் எண்ணிப்பார்க்க வேண்டுகிறோம். இவைகளை
+அவர்கள் எண்ணிப்பார்ப்பார்களானால், சிலர் மதம் மாறுவதைக்
+கண்டு மனம் மருளமாட்டார்கள். என்பது மட்டுமல்ல;
+"இந்துமதம் எமது மதமல்ல” என்று திட்டமாகக் கூறுவர்,
+உண்மையும் அதுவே, நாம் இந்துக்கள் அல்ல, திராவிடர்.
+
+2-7-1944
+
+## English Translation
+
+"Is that not the fruit of the etti tree, master? How can I eat it? It will be bitter; my very life will shudder," asks the slave.
+
+"You fool! I will put down your insolence. Do you come near me and argue rules? I shall bind you and knock down your pride. What if it is etti? You must pick it up and eat it," declares the master arrogantly.
+
+This is a scene from the time when the master relied on naked arrogance.
+
+"They say this is bitter. How can I eat it?" asks the slave. The master smiles and says gently, concealing his deceit: "You fool! Someone has cheated you. Could etti ever be bitter? Who said so? Bring him here." This is the scene after questioning arose, when a schemer who understood the times controlled his slave through deceit.
+
+"I know. Everyone says etti is bitter. Why must I eat it? I cannot," says the slave with a resolve born of understanding. The master then skilfully conceals his trick and deceives him: "Yes, etti is bitter, but it gives strength to the body. You do not know that. Agastya's medical verse says that sweetness makes one weak while bitterness makes one thrive. You have not read it. If you eat etti, your body will grow strong. Whether you eat it or not is your wish." This is the scene when clarity has appeared and the master suppresses the slave with a prepared fraud assisted by learning.
+
+## The Final Days
+
+Nowhere in the world outside this country does the ruling class employ a different method in every age to keep slaves suppressed and prevent the master-slave arrangement from disappearing. That is because it is here that there are so many whose brains are covered in fog, whose minds are deluded, whose tongues and voices have lost their course, and whose skins have grown thick. In plain Tamil, there are many who have lost honour and righteous anger. Thus a few strong people torment the weak; maharajas rule the world; paupers wail; mendicants threaten kings; and barbarism reigns without fear. We see decay for knowledge, greyness for manliness, a throne for evil, and a crown for Brahminism.
+
+Even today "Hinduism" demonstrates this cruelty in a way anyone can understand. Those who know its history know the marvel by which the scheme for deceiving and living off the gullible is periodically refurbished to suit time, place and circumstance. Whenever people speak of reforming Hinduism, changing modes of worship or introducing a new plan for social life, and whenever philosophical claims are made about Vyasa's true thought, Parasara's broad vision, the essence of the Vedas or the truth of the Upanishads, it appears to us merely as the master adopting a new technique for ruling the slave.
+
+Wherever the scent of revolution blows and ideas of a new world grow, the defenders of Hinduism immediately prepare an antidote and administer it cunningly. Once the revolutionary speed has been checked, they live with smiling faces, pleased that the old arrangement has endured. Poor people, they do not realize the truth that they have approached their final days.
+
+## The Poisonous Tree
+
+Those who dream that Hinduism will prosper through reconstruction, or that those embracing it will prosper, forget an important truth and live in a world of delusion. In Hinduism, people more capable than those of today have introduced reforms countless times, designed new methods and drawn up new plans. In time they all withered away, while the old poisonous tree remained as before. Friends who embrace each new enthusiasm do not know this.
+
+The Brahmo Samaj and Arya Samaj arose as movements to reform Hinduism, yet both have now become its attendants. Sikhism was an army of reason formed by waging a moral struggle against Hinduism's degeneration. Today we hear not only Hindu religious advocates but Hindu political advocates arrogantly call it "our force of servants."
+
+The Alvars proclaimed that all are servants of the Lord, and that even one who skins and eats cattle, if devoted to Hara, is a god whom they worship. Yet today those Alvars have become ornamental dolls in temples. Their words are used merely for the morning and evening cries of crowds whose eyes are fixed on temple offerings; they have not shaken the structure of Hindu society. We see the hierarchy of high and low remaining as it was. We see caste's obstinacy undiminished.
+
+At twilight hours, the pressure of authority and the power of wealth may have produced a few mixtures, alliances and friendships. But one cannot say that laws founded on scripture or controls founded on religion have diminished even today.
+
+## There Has Been No Change of Heart
+
+In these circumstances, what is surprising about those subjected to cruelty daring to leave it? We are surprised only that this courage has not spread rapidly. We grow weary that most people have not yet acquired it. Hindu religious advocates have no desire to put into practice their repeated claim that all are equal in God's creation. They pay no heed to the speed of the times.
+
+One cannot say that the arrogance once displayed by the Brahmin of Adhanur has diminished by even a grain in the agraharam today. The Brahmin may be willing to fall at the feet of Ambedkar, who has acquired knowledge and authority, just as the Brahmin once fell at Nandanar's feet after he performed a miracle. But the Brahmin community is not prepared to abolish the caste divisions in society.
+
+The thought that all are equal must arise. Until that change of heart occurs, religious conversion will inevitably continue. Fever remains as long as the malaria germ remains in the blood. A wound cannot give off the scent of civet. If one's sight is ruined, can one escape falling into the dark pit on the road?
+
+It is natural for a sick person to seek a doctor and a hungry person to seek an eating house. We would call it foolishness to deny this. But because many who consider themselves "intellectuals" refuse to understand it, and because we hesitate to fling so harsh a word at such great people, we say instead that those who refuse to understand are forgetting the truth. We say again, clearly and courageously: until a change of heart arises among those whose names are inscribed on Hinduism's list of high castes, religious conversion will inevitably continue.
+
+Imagine a village with no river, a sky that gives no rain, an unproductive field, a hut whose roof has come apart and a deadly snake living in the yard. Kuppan lives there. In the next village, beside a river, a benefactor offers him a good dwelling with wet agricultural land. Would Kuppan, who had lain there groaning, not dance on hearing this joyous news? Would he not run to the next village? Is it proper to block his way and ask, "Kuppa, can you leave us, son?"
+
+Just as people rejoice in thinking of the garden, house, cattle and calves they possess, those called high-caste Hindus lie in pride thinking that more than six crores of indigenous people, the Adi Dravidars, are there to labour and remain enslaved. At least to increase the yield of their land they apply manure, repair the house so that it does not fall apart, and plaster it. They do not do even that for the Adi Dravidars.
+
+They give them discarded rags and regard that as great generosity. They force them to live in the segregated settlement and say it is the fruit of their past sin. They call them untouchable and, in some places, do not let them walk in the street. If they tie on a dhoti, they bind them to a velam tree and beat them with tamarind switches. If they step into a pond, they beat them with a short staff. If they walk wearing sandals, they ask, "What arrogance is this?" and torture them. Even now we see such acts occurring under village social rule resembling jungle rule.
+
+Petitions to compassionate officials, letters to the Collector, sending the schoolmaster to the lawyer's house, and then learning that litigation will cost too many rupees still occur frequently in the villages. Those who deny it do not possess the truth.
+
+When such cruelties exist, should we be surprised or weary that people search for a place where they do not exist? If caste Hindus do not undergo a change of heart, those called untouchables will convert. Not only that: advocacy that they ought to convert will certainly grow stronger.
+
+A comrade named Ellappan from the village of Karunguzhi in Chingleput District published the following report in a newspaper.
+
+## The Karunguzhi Report
+
+"The Adi Dravidars of the Devathur settlement in Arungunam village, Madurantakam taluk, own about 300 acres of land. Because the village tank is small, water reaches the lands belonging to the settlement people at the tail end only with difficulty. Consequently, it is usually rare to obtain a crop from those lands. Even when the crop fails, they must pay the land tax, if necessary by selling their plough cattle.
+
+"A large stream passes near those lands. If a dam were built across it, the lands would receive water and become first-class fields. Despite many efforts, support for the dam has not been obtained, and the village people suffer greatly. Taking advantage of this situation, some Christian priests are said to be offering to build the dam and provide irrigation, on condition that every family in the settlement leave Hinduism and convert to Christianity.
+
+"Some appear willing to convert, thinking that this proposal is better than starving without a crop despite possessing sufficient land. I therefore request Hindu well-wishers and charitable people to come forward at this moment, prevent this effort, provide the families with facilities, and support them."
+
+To friends distressed by the thought, "Conversion? Conversion merely to obtain water?" we say: comrades are suffering without even water, yet you see their distress and remain indifferent. Is this dharma, justice or humanity? You leave people to suffer even for water and then beat your chests and weep when they change religion to obtain that facility. What shall this conduct be called?
+
+The priests may deny the Karunguzhi comrade's report; that is another matter and not our concern here. "Charitable men devoted to Hinduism" may, in response to his appeal, come forward to donate water. We have not written this for that either. Water is not the cause of conversion. It is the tears shed by indigenous people suffering for ages under the cruelty imposed by Hinduism's caste order. Those tears help build "churches of the Lord" across forest and hill.
+
+Many have repeatedly issued warnings like the Karunguzhi comrade's "danger notice." Yet no permanent remedy has been found. Hearts have not changed, and conversion has not ceased.
+
+## Death Alone Is Liberation!
+
+The pronouncements from the sacred mouths of Hinduism's luminaries still neither reveal a change of heart nor inspire hope that one will occur. On 5 December 1937, the All India Pandit Parishad met at Singarachari Hall in Triplicane, Madras, under the chairmanship of Diwan Bahadur Ramasami Sastri. Scholars said to understand Hinduism's inner and true meaning assembled and spoke about the Adi Dravidars. We give some of their words here so that the people of Karunguzhi may understand Hinduism's path.
+
+Brahmasri Sastraratna Theethiyur Subramania Sastrigal said: "Scripture calls one born untouchable a chandala. Untouchability also arises through loss of ritual conduct and corrupt association. But scripture provides expiation for these latter conditions. Such a man, a Brahmin who has lost ritual conduct, does not lose Brahmin status because expiation is available to him. According to scripture, however, no form of expiation exists to remove the untouchability of chandalas. This is the scriptural position."
+
+Another explained still more plainly: "One born untouchable cannot remove it in this birth. Why argue in vain? Ways may be created for untouchables to live properly and devoutly. It is improper to take writings praising exceptional figures among them and cite them as authority for modern doctrines. Does one tree make a grove?"
+
+Some habitually cite the stories of the devotees Nandan and Tiruppan Alvar as grounds for demanding equal rights. The Sastrigal delivers this hammer-blow to them. Still more plainly, and with no less Hindu religious pride, Todavasal Narasimhachariar declared that untouchability would disappear only through death: "One born to the untouchable community loses untouchability only upon death. He may rise through devotion, but in this very birth he cannot rise high enough to remove untouchability."
+
+## We Are Dravidians
+
+Why did they speak in this manner? Did they lack even the ordinary understanding that indigenous people should not be excluded and oppressed as Panchamas? They possessed it. Why then did they speak so? If society is to function according to Hinduism, the four varnas and a fifth Panchama must necessarily remain. This arrangement is Hinduism's lifeline. Hinduism arose to implant it. Remove the arrangement and Hinduism itself will cease to exist. That is why Aryan pandits concerned for the religion spoke as they did.
+
+Hinduism has made that priestly group into gods on earth, gurus and brokers of salvation, and enabled them to live without labour. How could they abandon so "profitable" a religion? A cat that has tasted something does not remain still. Would they give up a path that has benefited them for generations?
+
+Likewise, the caste division called the four varnas places Aryans first. Would Aryans wish to destroy it? Hinduism and its lifeline, the varna-ashrama order, have turned them into gods on earth and provided them a comfortable life. Those Aryans are therefore bound to defend it; that is their life's objective and their livelihood.
+
+Should we not likewise possess an objective for our lives? That same Hinduism has made us Sudras and Panchamas, subjected us to cruelty, kept us illiterate, impoverished us, enslaved us and debased us. Why do we still cling to that religion and weep? As long as we embrace it and weep, where can we find a path of deliverance? How much tender coconut water can be mixed with salt water and drunk, and for how long? Comrades who seek to make Hinduism pleasant by reforming it must think about these questions.
+
+Why cling to and lament a religion that provides advancement, welfare, life, prosperity and honour only to a group numbering three in every hundred, while the other ninety-seven live as "Sudras and chandalas," periodically standing with pleading faces before those in possession to beg for a place to live and water to drink? By what justice can a path that gives no benefit to ninety-seven out of a hundred be called theirs?
+
+What fool would call "my wife" a woman who lives in another man's house, displaying her beauty and graceful walk to the man who possesses her and shooting arrows of desire? Likewise, how can non-Brahmins call "our religion" a faith that benefits Brahmins alone in numerous ways, and why should they?
+
+We ask friends drinking the sweet brew called "Hindu religious reform" to consider these matters. If they do, they will not be bewildered when some people convert. More than that, they will declare firmly, "Hinduism is not our religion." That is the truth. We are not Hindus; we are Dravidians.
+
+2 July 1944
+
+## Translator's Notes
+
+This polemical 1944 article discusses caste oppression, untouchability and religious conversion. Historically derogatory caste labels are translated only where they are integral to the source's argument or quoted doctrine; they are not endorsed by the translator.
+
+"Etti" is the bitter fruit used in the opening master-slave allegory. "Varna-ashrama" names the caste and life-stage order criticized by the article. "Pandit Parishad" is rendered as a council of religious scholars.
+
+The article's Karunguzhi report concerns a proposed dam and approximately 300 acres owned by Adi Dravidar residents. The scans clearly date the cited Triplicane meeting to 5 December 1937 and print the final contrast as three people in every hundred versus the other ninety-seven.

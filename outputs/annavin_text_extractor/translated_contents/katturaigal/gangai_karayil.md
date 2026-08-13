@@ -1,0 +1,212 @@
+# கங்கைக் கரையில்! / On the Banks of the Ganges!
+
+**Tamil title:** கங்கைக் கரையில்!  
+**English title:** On the Banks of the Ganges!  
+**Source file:** `katturaigal/gangai_karayil.md`
+
+## Source Tamil (verbatim)
+
+- Source image folder: `/Users/pugazhendhirajendran/Documents/Codex/2026-07-09/https-www-annavinpadaippugal-info/outputs/annavin_text_extractor/ocr_images/katturaigal/gangai_karayil`
+- OCR language: `tam`
+- Tesseract page segmentation mode: `3`
+- OCR cleanup: `enabled`
+
+## Image 1: 001-c3fd6b5a58.png
+
+- Image: `katturaigal/gangai_karayil/001-c3fd6b5a58.png`
+
+19. கங்கைக் கரையில்!
+
+கண்கவரும் காட்சி! சொல்லுந்தரத்தன்று ! “அந்தப்
+பூந்தோட்டத்தில், குயில் கூவிற்று! மயில் மற்றொருபுறம்
+மகிழ்வுடன் ஆடிற்று! மலர்கள், பலவித வர்ணங்களுடனும்
+வகையுடனும் காட்சி தந்தன ! மெல்லிய குரலிலே, இருதயத்தை
+12
+
+## Image 2: 002-e529ee5635.png
+
+- Image: `katturaigal/gangai_karayil/002-e529ee5635.png`
+
+உருகச் செய்யும் இசை, அதனை, இணையில்லா அழகுள்ள,
+இளமங்கை ஒருத்தி பாடிக்கொண்டிருந்தாள். சொக்கினான்
+இளைஞன் ! அவளை அணுகினான், உடனே, சூழ இருந்த செடி
+மறைவிலிருந்து பாய்ந்து வந்தத கொலைஞர்கள், அவனைப்
+பிடித்துக் கொன்றனர்! குமரியை நம்பி, அவள் குரலொலியில்
+மயங்கினான் ! மாண்டான் ! புன்னகைப் பூங்காவில் புகுந்தான்,
+பிணமானான் !
+
+இதற்கும் நம் நாட்டிலே. ஆரியம் தீட்டிபக் கவிதை, கலை,
+மதம் ஆகியவற்றில் சொக்கிச் சிக்கிய தமிழர், கருத்து அழிந்து
+கெட்டதற்கும், அதிக வித்யாசமில்லை.
+
+இயற்கையை வணங்கி, இறைவன் ஒருவனே, அவன்
+எங்குமுள்ளான், எவ்வுருவுமில்லான் என்ற சீரிய கொள்கையுடன்
+“யாதும் ஊரே” என்ற பரந்த நோக்கங் கொண்டு எல்லோரும்
+சகோதரர் என்ற கருத்துடன் வாழ்ந்து வந்த தமிழரை -
+திராவிடரை - நந்தவனத்து நங்கையைக் காட்டி இளைஞனைக்
+கொன்ற கதைபோல, பல்வேறு கலையையும், அலங்காரக்
+கற்பனைகளையும் காட்டிக் காட்டி, மயக்கியே கெடுத்தது பல
+நூற்றாண்டுகளுக்கு முன்பு, பரந்த சிந்து கங்கை முதலிய
+நதிகளின் தீரத்திலே குடிபுகுந்த ஆரியம். முலாமில்லாத
+மதத்தைப் பெற்ற, இன்பவாழ்வு வாழ்ந்து வந்த தமிழரிடம்,
+கோபிகைகளுடன் கூடும் கடவுளையும், கோயிலிலே கூத்தியுடன்
+குலாவும் கடவுளை யும், தேவி மகன் ஒருவன், பிறகாமக்
+கருவிகள்பால் தோன்றியவர் வேறு, என்ற அளவுக்கு வந்த
+கற்பனைக் கடவுள்களையும் காட்டி, மயக்கியதுடன், தமிழரின்
+தனிக்கொள்கையை மாய்த்தது.
+
+## Image 3: 003-d6b3f11e83.png
+
+- Image: `katturaigal/gangai_karayil/003-d6b3f11e83.png`
+
+சாதி என்ற சொல்லே அறியாத தமிழரிடை, நால்வகைச்
+சாதியைப் புகுத்திற்று, பேதமற்ற வாழ்க்கை நடாத்திய
+தமிழரிடையே விபரீத வர்ணாஸ்ரமத்தைப் புகுத்திற்று, இவைகளால்
+வேதனைப்பட்ட -நேரத்திலே, தமிழனின் உண்மை உணர்ச்சியை
+மாய்த்தது வீரத் தமிழனை வீணனாக்கி விட்டது வெளியிடத்து
+கலாச்சாரம்.
+
+இந்த முறையில் அந்த நாளில், ஆரியம் தமிழரை அழித்தது!
+இன்று நடப்பதென்ன?
+
+புத்துணர்ச்சி பெற்ற தமிழர், பார்ப்பனிபப் புரட்டைக் கண்டு
+் கொண்டனர். வைதீகக் கட்டிலிருந்தும், வர்ணாஸ்ரமக் கொடுமை
+யிலிருந்தும் மீளுவதற்கு மார்க்கமெது என ஆராயத் தொடங்கு
+கின்றனர்.
+
+இது ஆரியத்தை ஆதரிப்போருக்குப் பிடிக்காது என்பது
+இயற்கை! இதனை அவர்கள் எதிர்த்தே தீருவார்கள் என்பதும்
+நமக்குத் தெரியும். ஆனால் நேரடியாகத் தாமே எதிர்த்தால் காரியம்
+ஏதும் நடவாது என்று தெரிந்து கொண்டதால், இந்த கலைப்போரை,
+ஆஸ்திக - நாஸ்திக சம்வாத ரூபமாக்கிப் பொது மக்களிடம்
+காட்டி, பொல்லாங்கு பேசுகின்றனர்,
+
+இதன் அறிகுறியாகவே, இப்போது, பேசுகிறபோதெல்லாம்,
+பொதுவாக பிரபல ஆரிய ஆதாரவாளர்கள் இந்த திராவிடர்
+என்ற பேதம் கூடாது என்றும், அதைப்பற்றிப் பேசுவதே ஆபத்து
+என்றும் சொல்லி வருகிறார்கள்.
+
+வடமொழியில் வகுக்கப்பட்டுள்ள, வகுப்பு நீதிகளை நாம்
+எடுத்துக் காட்டினால் அவை எப்போதோ இருந்தவை, இன்று
+
+## Image 4: 004-a05aba3ebe.png
+
+- Image: `katturaigal/gangai_karayil/004-a05aba3ebe.png`
+
+செத்தன, செத்ததை ஏன் எண்ணி எதிர்க்கவேண்டும், என
+“சமர்த்தாக'ப் பேசுகின்றனர்.
+
+வர்ணாஸ்ரமம் கூடாதே, அதனால் விபரீதம் இன்னின்ன
+வருகின்றனவே என்று எடுத்தக்காட்டிக் கேட்டால், தொழில்
+முறைக்காக், ஜாதிப்பிரிவு எற்பட்டதே தவிர, வேறில்லை. இதனால்
+ஒரு தவறுமில்லை - என்று வாதம் செய்கின்றனர்.
+
+நாம், வடமொழி மூலமே, நம் தமிழரின் தனிக்கலையும்,
+கருத்தும் அழிக்கப்பட்டது என்பதை எடுத்துக்காட்டும் போது,
+வடமொழி முன்னோர் மொழியாயிற்றே, அதைக்குறை கூறலாமா
+என்று உருகி விடுகின்றனர்.
+
+வடமொழிப் பயிற்சிக்கு ஏதோ ஒரு சிறுகுறை இருப்ப்தாகத்
+தெரிந்ததும், பல இடங்களிலே கூட்டங்கள் போட்டு, பண்டை
+நாகரீகத்தின் சித்திரம் வடமொழி மூலமே காணமுடியுமென்று
+வடமொழி அழிந்துவிட்டால், “அந்த பண்டைப் பெருமை”
+பாழாகுமென்றும், பசப்புகின்றனர்,
+
+வடமொழிக்கு செல்வாக்கு அழிவதைக் கண்டே, அதன்
+வழிவந்த இந்தியைப் புகுத்த எவ்வளவோ பாடுபடுகின்றனர்.
+
+ஐயனே ! வடமொழியில் வந்த வம்புதான் வர்ணாஸ்ரமம் !
+இதோ மனுவைப்பார்! என்று நாம் எடுத்துக் காட்டினால், இவர்கள் .
+காளிதாசனின் கவிதையைப் பார், ஆத்மீகத்துறையிலே, வடமொழி
+தந்துள்ள அருமையான தத்துவங்களைப் படித்து இன்புறு என்று
+ஜாலம் செய்கின்றனர்.
+
+சொல்கிறூர்கள், வடமொழியாளரின் கலையின் மேன்மை
+யினால், மனிதத் தன்மைக்கு மேம்பாடு தரப்பட்டதாம் !
+
+## Image 5: 005-e6ceaf068f.png
+
+- Image: `katturaigal/gangai_karayil/005-e6ceaf068f.png`
+
+மனிதத் தன்மைக்கு மேம்பாடு ! இதனுடைய முதிர்ச்சிதான்,
+எட்டுக்கோடி மக்கள், இந்நாட்டுக் காவலர்கள், பார்க்கவோ
+தொடவோ, படாதவர்கள் என்று ஊருக்கு வெளியே,
+நாகரிகத்திற்கு புறம்பே, ஒதுக்கி வைக்கப்பட்டு, அடிமைகளாய்,
+உழைத்து உழைத்து வாடவேண்டிய வர்க்கத்தினராய், உடை,
+உணவு, உருவம் ஆகிய எல்லாவற்றிலும், யாரோ, எந்நாட்டவரோ
+என்று ஐயுறும்படிபான விதத்திலே ஆக்கப்பட்டு, 'தீண்டாதவராய்"
+_ “பஞ்சமராய்” கொடுமைப்படுத்தப்பட்டது போலும் !
+
+மனிதத் தன்மையின் மேம்பாட்டுக்கு மதிப்புக்
+கொடுத்ததால்தான், ஒரு வகுப்பார் பூதேவராகி, பூசுரராகி,
+ஆண்டவரின் தரகராகி, பிறர் சூத்திரராக்கப்பட்டனர்!
+
+சனாதனி, குதூகலத்துடன் குறிப்பிடும் மனிதத் தன்மை
+யின் மேம்பாட்டுக்குத் தரப்பட்ட மதிப்பின் காரணமாகத்தான்
+மனு வேதத்தைப் படிக்கும் சூத்திரனின் நாவைத் துண்டிக்கச்
+சட்டமிட்டான் ! கேட்டகாதிலே ஈயத்தைக் காய்ச்சியூற்ற
+உத்தரவிட்டான் ! பார்ப்பனர் அமர்ந்த இடத்தில் “பதட்டமாக”
+பிறிதொருவன் அமர்ந்தால், அவன் அங்கங்களைத்தண்டிக்கச்
+சொல்லி எழுதி வைத்தான்.
+
+ஐயோ! மனிதத் தன்மையின் மேம்பாடே ! வடமொழியாளர்
+
+உன்னை வளர்த்தனராமே !
+
+மனிதத் தன்மையை, மிருகத்தனமாக்கியது, ஆரியக்
+கலாச்சாரமும் அதனால் விளைந்த விபரீதச் சேட்டைகளுமே
+யாகும்.
+
+(/3./..49 திராவிட நாடு இதழில் வெளி வந்தது
+
+## English Translation
+
+An enchanting scene, beyond the power of words. In that flower garden a cuckoo sang; on another side a peacock danced in delight. Flowers appeared in many colours and varieties. In a soft voice, a young woman of matchless beauty sang music that melted the heart.
+
+A young man was captivated and approached her. At once, killers leapt from behind the surrounding plants, seized him, and killed him. Trusting the maiden, he was bewitched by her voice and died. He entered a smiling garden and became a corpse.
+
+There is not much difference between this story and the ruin of the Tamil people in our country, whose judgement was destroyed after they were captivated and trapped by the poetry, art, and religion fashioned by Aryanism.
+
+The Tamil people, the Dravidians, had worshipped nature and lived by the noble principle that God is one, present everywhere, and without form; by the broad outlook "Every place is our town"; and by the belief that all are siblings. Centuries ago, Aryanism, which had settled along the broad banks of rivers such as the Indus and Ganges, bewildered and ruined them by repeatedly displaying varied arts and ornamental imaginings, just as the maiden in the pleasure garden was used to lure and kill the young man.
+
+The Tamil people had possessed an unadorned religion and lived a pleasant life. Aryanism showed them gods who sported with the gopis, gods who dallied with dancing women in temples, and imagined deities whose births were described through increasingly fantastic devices. It thus bewitched them and erased their distinct principles.
+
+Among Tamil people who did not even know the word caste, it introduced the fourfold caste order. Among a people who had lived without divisions, it introduced the perverse varna-ashrama system. While they suffered under these, an alien culture erased the Tamil person's true awareness and reduced the heroic Tamil to futility.
+
+In that manner Aryanism destroyed the Tamil people in former times. What is happening today?
+
+Reawakened Tamil people have recognized Brahminical deception. They have begun to investigate how they may escape the bonds of orthodoxy and the cruelty of varna-ashrama.
+
+It is natural that supporters of Aryanism dislike this, and we know they will certainly oppose it. But because they realize that direct opposition by themselves will accomplish nothing, they present this cultural struggle to the public as a dispute between theism and atheism and speak maliciously about it.
+
+As a sign of this, prominent supporters of Aryanism now repeatedly say that no distinction should be made between Aryan and Dravidian and that even speaking about it is dangerous.
+
+When we point to the rules of class hierarchy formulated in Sanskrit, they cleverly reply, "Those existed long ago and are dead today. Why remember and oppose what is dead?"
+
+When we show the evils caused by varna-ashrama and ask why it should continue, they argue that caste divisions arose merely for occupational purposes and contain no wrong.
+
+When we demonstrate that Sanskrit was the means through which the Tamil people's distinctive art and thought were destroyed, they become emotional and ask, "Is not Sanskrit an ancestral language? How can it be criticized?"
+
+At the slightest indication of a decline in Sanskrit study, they organize meetings in many places. They blandly claim that the image of ancient civilization can be seen only through Sanskrit and that if Sanskrit disappears, "that ancient greatness" will be ruined.
+
+Seeing Sanskrit lose influence, they strive in every way to impose Hindi, which descends from it.
+
+When we say, "Sir, the varna-ashrama trouble came through Sanskrit; look at Manu," they perform their magic by replying, "Look at Kalidasa's poetry. Read and enjoy the excellent philosophies Sanskrit has given the spiritual realm."
+
+You say that the excellence of Sanskritic art elevated human nature.
+
+Elevated human nature! Its mature achievement, it seems, was to segregate eight crore people, the guardians of this country, outside their villages and beyond civilization as people who must neither be seen nor touched; to make them slaves and a class condemned to labour and waste away; to alter their clothing, food, and appearance so thoroughly that one might wonder who they were and from what country; and to torment them as "untouchables" and "Panchamas."
+
+It was because this elevation of humanity was so highly valued that one class became earthly gods, divine intermediaries, and brokers of the Lord, while others were made Shudras.
+
+Because of the value placed upon the "elevation of humanity" celebrated by the orthodox, Manu prescribed cutting out the tongue of a Shudra who read the Vedas, pouring molten lead into the ears of one who heard them, and mutilating another who presumed to sit in a Brahmin's place.
+
+Alas, elevation of humanity! And they say the Sanskritic tradition nurtured you.
+
+It was Aryan culture and the perverse practices it produced that transformed humanity into brutality.
+
+Published in *Dravida Nadu*, 13 January 1948.
+
+## Translator's Notes
+
+This is a polemical historical argument in the source; the translation preserves Anna's attributed claims and rhetoric rather than recasting them as independent factual assertions. The publication date was restored by direct scan inspection.

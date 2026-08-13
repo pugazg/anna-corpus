@@ -1,0 +1,524 @@
+# அரசுப் பணியாளர்கள் பற்றிய பணிநிலை அறியும் குழு குறித்த தீர்மானம் / Resolution on a Committee to Examine the Service Conditions of Government Employees
+
+**Tamil title:** அரசுப் பணியாளர்கள் பற்றிய பணிநிலை அறியும் குழு குறித்த தீர்மானம்  
+**English title:** Resolution on a Committee to Examine the Service Conditions of Government Employees  
+**Source file:** `sorpozhivugal/maanila300958.md`
+
+## Source Tamil (verbatim)
+
+- Source image folder: `/Users/pugazhendhirajendran/Documents/Codex/2026-07-09/https-www-annavinpadaippugal-info/outputs/annavin_text_extractor/ocr_images/sorpozhivugal/maanila300958`
+- OCR language: `tam`
+- Tesseract page segmentation mode: `3`
+- OCR cleanup: `enabled`
+
+## Image 1: 001-cc08aca7ae.png
+
+- Image: `sorpozhivugal/maanila300958/001-cc08aca7ae.png`
+
+படிம்பத்த்
+
+ட்ப அரசுப் பணியாளர்கள் பற்றிய
+பணிநிலை அறியும் குழு குறித்த தீர்மானம்
+
+இணை இர் கடலும் நாள் : 30.09.1958
+
+் இரு. 9. என். அண்ணாதுரை : மதிப்பிற்குரிய தலைவர்
+அவர்களே, சர்க்கார் உத்தியோகத்திலிருக்கும் அவலநிலையிலுள்ள
+கெஜட் பதிவில்லாத உத்தியோகஸ்தர்களுடைய பிரச்சினையை
+கவனிப்பதாக, ஆளும் கட்சியினர் இந்த சட்டமன்றத்தில்
+சொல்லியதுடன் மட்டுமின்றி வெளியிலும் பல்லாண்டு காலமாக
+பன்முறை சொல்லியிருந்தாலும்கூட, இன்று வரையில் ழ்:
+பிரச்சினையைத் தீர்க்க முடியாமல் அவர்கள் ஓரளவு திண்டாடிக்
+கொண்டிருக்கிறார்களே என்ற ஐயப்பாட்டால்தான், அதைத் தீர்ப்ப
+குற்கான சில யோசனைகளை எதிர்த் தரப்பில் உள்ளவர்கள்
+சொல்லுவதற்கு வகைசெய்வதற்காகவும், இந்தப் பிரச்சினையை அலசி
+ஆராய்ந்து பிரச்சினையைத் தீர்ப்பதற்கு ஒரு நல்ல ஆறுதலான
+திட்டத்தை உருவாக்குவதற்காகவும் ஒரு கமிட்டியை அமைக்கலாம்
+என்று, இந்தத் தார்மானத்தைக் கொண்டுவந்திருக்கும் கனம் / நண்பர் ஸ்ரீ
+கல்யாணசுந்தரம் விரும்புகிறார். வேலை நிறுத்தம் செய்யப்போவதாக
+முன்பு சொல்லிக்கொண்டி ருந்த சர்க்கார் ஊழியர்களுக்கு, சலுகைகள்
+தருவதாக கனம் நிதி அமைச்சர் வாக்களித்து, அவர்களை, வேலை
+நிறுத்த யோசனையைக் கைவிடச் செய்தார் என்பதை எனக்கு முன்
+பேசிய ஸ்ரீ கரிய கெளண்டர் அவர்களுடைய பேச்சிலிருந்து தான்
+தெரிந்து கொள்ளுகிறேன். அவர், அத்துடன் மட்டுமின்றி, அதற்காக
+சர்க்கார் வரி போட்டால் அதை நாங்களெல்லாம் ஏற்றுக்
+கொள்கிறோம் என்றும் சொன்னார். மேலும், ஸ்ரீ கரிய கெளண்டர்,
+தமக்கு கனம் நிதி அமைச்சரிடம் உள்ள அபாரச் செல்வாக்கைப் பயன்
+படுத்தி, வரிகள் போட்டு கெஜட் பதிவில்லாத உத்தியோகஸ்கர்களின்
+
+## Image 2: 002-2feca500b6.png
+
+- Image: `sorpozhivugal/maanila300958/002-2feca500b6.png`
+
+அதைத்தான் கரிய கெளண்டரர் அவர்கள் சென்னை கடற்கரையில்கூட
+கூட்டம் போடுகிறார்களே என்று மெத்த வருத்தத்துடன் சொன்னார்
+கள். கடற்கரை மாலை வேளையில் ஓய்வு பெறக்கூடிய இடந்தான்.
+அப்படி ஓய்வு எடுக்கப்போகிறவர்கள் ஒரு சிலர் இருப்பதோடு குங்கள்
+உள்ளக் குமுறல்களை வெளிப்படுத்த. பலர் கடற்கரைக்கு
+போகிறார்கள் என்ற நிலையை இந்நாட்டில் உங்கள் ஆட்சி ஏற்படுத்தி
+விட்டது. உல்லாசத்திற்கு பயன்படுத்தப்படக்கூடிய கடற்கரை உள்ளக்
+குமுறல்களை எடுத்துக் காட்டும் இடமாகிவிட்டது, உங்கள்
+ஆட்சியில். மாற்றுக் கட்சியினர் என்.ஜி.ஓக்களை தூண்டி
+விடுகிறார்கள் என்ற குற்றச்சாட்டை சொல்லிவிட்டு என்.ஜி.ஓக்கள்
+தங்கள் குறைபாடுகளை தாங்களே எடுத்துச் சொல்லலாமே என்று நிதி
+அமைச்சர் அவர்கள் முன்பு ஒரு தடவை இங்கு எடுத்துச் சொல்லியிருக்
+கிறார்கள். அது மட்டுமல்ல. அவர்கள் விஷயத்தில் எதிர்க்கட் சிக்காரர்
+களுக்குள்ள அக்கரையைவிட எங்களுக்கு அதிகம் இருக்கிறது
+என்பதை நாங்கள் கூட்டிக் கொடுத்திருக்கும் 12 ரூபாய் உயர்வு
+எடுத்துக் காட்டவில்லையா என்று புள்ளிவிவரங்களோடு தனது
+மனதில் உள்ள நல்லெண்ணக்கையும் இணைத்து கூறினார். அப்படி.
+72 ரூபாய் அதிகமாகக் கொடுத்த நிலையில் இயற்கையாகவே
+வாழ்க்கைச் செலவு. புள்ளிகள். அதிகப்பட்டு போனதால்
+ஏட்டளவில்தான் இந்த 12 ரூபாய் பயன்பட்டதே தவிர, வாழ்க்கைச்
+செலவு அதிமாக விட்டதால் என்.ஜி.ஓக்கள் அதனால் நல்லமுறையில்
+பயன் அடையவில்லை. ஆகவே, மறுபடியும் அந்தப் பிரச்சினையைப்
+புற்றி நாம் பேசுிறபோது ஒருவருக்கொருவர் மனம் விட்டு, ஆளும்
+கட்சியினரும் எதிர்கட்சியினரும், இந்தப் பிரச்சனையைப் பற்றி
+பேசவேண்டும். அப்படி மனம் விட்டு பேசிக் கொள்ள இந்த
+மன்றத்தை விட இதற்கென்று ஒரு ஆய்வுக் குழு அமைத்து எதிர்
+கட்சியில் உள்ளவர்களும், ஆளும் கட்சியில் உள்ளவர்களும், தேவைப்
+பட்டால் பொருளாதாரத் துறையில் புது யோசனைகள் சொல்ல
+என்.ஜி.ஓ. பிரதிநிதி ஒருவரையும் அழைத்து இந்தப் பிரச்சினைக்கு
+நல்ல தொரு முடிவு காணவேண்டும். அதை. உடனடியாக தீர்க்க
+வேண்டுமென்டதுதான் எங்கள் விருப்பமே தவிர ஒரு அங்கத்இனா்
+குறிப்பிட்டது பா ல் சர்க்காரை சங்கடத்தில் ஆழ்த்திவிட வேண்டு
+ென்புதல்ல எல்கள் நோக்கம். அப்படி சர்க்காரை சங்கடத்தில்
+
+## Image 3: 003-65d6c744a1.png
+
+- Image: `sorpozhivugal/maanila300958/003-65d6c744a1.png`
+
+கொள்ள உங்களுக்கு எண்ணிக்கை பலம் இருக்கிறது என்பதை
+எல்லோரும் அறிவார்கள். பலரது. வாதத்தின் பலமும் எண்ணிக்கை
+பலத்தில்தான் இருக்கிறது என்பதை நாங்கள் உணராமலில்லை. இந்தப்
+பிரச்சினை மூலம் சர்க்காருக்கு சங்கடத்தை விளைவிக்க வேண்டு
+மென்று நாங்கள் யாரும் விரும்பவில்லை. சர்க்கார் தளழியர்கள்
+அதிருப்திப்பட்ட மனதோடு இருந்தால் சர்க்கார் நிர்வாகம் திறம்பட
+நடக்காது என்பதை நாம் உணர வேண்டும். ஒரு கனம் அங்கத்தினர்
+குறிப்பிட்டார். சர்க்கார் ஊழியர்கள் பத்து, இருபது வருட காலம்
+வரை தியாக உணர்ச்சியோடு பொறுத்திருக்க வேண்டுமென்று.
+அப்படி பத்து இருபது ஆண்டுகாலம் வரை தியாக உணர்ச்சியோடு
+பொறுத்திருக்க வேண்டுமென்று எதிர்ப்பார்ப்பதில் தவறு இல்லை.
+ஆனால் அப்படி பத்து இருபது ஆண்டு காலம் இருந்தால் உண்மையா
+கவே அவர்கள் வாழ்க்கையில்: பெரும் சிக்கல்கள் ஏற்படுவது
+மட்டுமல்லாமல் அவர்களால் சமுதாயத்திற்கு அளிக்கப்படுகிற நமது
+எதிர்கால சந்ததிகள் மிகுந்த புத்தி சூன்ய மனதோடுதான் பிறக்க
+நேரிடும். ஆகையால்தான் இந்தப் பிரச்சினையை உடனடியாகத் தீர்க்க
+வேண்டுமென்று நாங்கள் விரும்புகிறோம். பல பிரச்சினைகளைத்
+தீர்ப்பதிலே இந்த சென்னை ராஜ்யம் முன்னனியில் நிற்கிறது என்று
+அடிக்கடி அறிவுறுத்தி வருகின்ற நிதி அமைச்சர் அவர்கள் இந்தப்
+பிரச்சினையைத் இர்ப்பதிலே என்ன சிக்கல் இருக்கிறது என்று
+தெரிவிக்க வேண்டும். சிக்கல் எங்கே இருக்கிறது. என்று அவர் எடுத்துக்
+காட்டுவார்களேயானால், அதைக் குறித்து ஆலோசித்துப் பார் உடதிடீல்
+எதிர்கட்சிகள் எல்லாம் உண்மையிலேயே அவர்களிட த்திலே
+நல்லெண்ணம் வைத்திருக்கின்ற காரணத்தினால் ஒத்துழைக்கத்
+தயாராயிருக்கின்றன. சம்பளம் அதிகம் தரப்படவேண்டியது நியாயம்
+என்று அவர்கள் நியாயத்தை ஏற்றுக்கொ ள்கிறா! நகத்னை ன்ப தெரிய
+வேண்டும். மத்திய சர்க்காருக்கும், மாநில சர்க்காருக்கும் இடையே
+பேதம் இருப்பதை நீக்கியாக வேண்டுமென்ற கொள் டர்தி னன்
+இருக்கறதா என்று அறிய விரும்புகிறேன். டபக் ட் தகர்
+களைப் பொறுத்த வரையில், மாறி சர்ச்சாருக்கேற்ற வீதிமுமைகளை
+சர்க்கார் உத்தியோகஸ்தர்களுக்கு மெளனம் அ க ட்டா
+இருந்து கொண்டிருக்கிற விதிக ற) தவள பககம
+
+க சர்க்காருக்கு மனம் இருக்கிறதா?- அதை ஹஜ? அது ப்பி 1 ்
+ள்கையளவில் என்று அறிய விரும்புகிறேன் தானி வக்டக்ககை
+
+## Image 4: 004-184bec03f9.png
+
+- Image: `sorpozhivugal/maanila300958/004-184bec03f9.png`
+
+சர்க்காரிடத்தில். வேலை செய்கிற ஊழியர்களுடைய நடைமூறை
+வேலைகளை கவனிப்பதற்கேற்ற புதிய வழி வகைகளை சர்க்கார்
+கையாளப் போடூறார்களா என்பதைத் தெரிந்து கொள்ள
+விரும்புகிறேன். இஇலே ஒரு தெளிவு ஏற்பட்டு விட்டால், அதற்குப்
+பிறகு பணத்தைக் கண்டுபிடிப்பது என்பது கஷ்டமான காரியமல்ல.
+நி அமைச்சருடைய வேலையே பணம் இருக்கிற இடத்தைப் பார்த்து
+எடுத்து, பணம் தேவைப்படுகிற இடத்தில் பகிர்ந்து கொடுப்பதாகும்.
+“பணம் எங்கே இருக்கிறது, பணம் இங்கே இருக்கிறது” என்று
+எங்களைப் போலவே அவரும் கேட்டுக் கொ ண்டிருப்பது நிதி
+அமைச்சருடைய வேலை இல்லை என்பதை தம் நிதி அமைச்சர்
+தெரிந்துகொண்டிருக்கிறார்கள். ஒரு சினிமா பாடலிலே வருகின்றார்
+போன்று “எங்கே தேடுவேன், பணத்தை எங்கே தேடுவேன்”' என்று
+சொல்லிக்கொண்டு - நாமெல்லாம் இங்கே ரூ. 750 பெற்றுக்
+கொண்டும், அமைச்சர் அவர்கள் ஆயிரக் கணக்கில் பெற்றுக்
+கொண்டும். - எங்கே பணம்: இருக்கிறது என்று, தேடிக்
+கொண்டிருக்கிறோம் என்று சொன்னால், அதை வெளியுலகத்தி
+லுள்ளவர்கள் பார்ப்பார்களேயானால், நம்முடைய திறமையைப்
+பற்றி ஐயுறுவார்கள்: ஆகையால். - இந்தப் பிரச்சினை ஒரு கட்சிக்கு
+மட்டும் சொந்தமானதாகாது - இந்த மன்றத்தில் வீற்றிருக்கிற நமக்கு
+இந்தப் பிரச்சினையைத் தீர்ப்பதற்கேற்ற திறமை இருக்கிறதா? -
+அல்லது இந்தப் பிரச்சினையைத் தீர்க்க முடியாத அளவுக்குத் திறமை
+குறைவு இருக்கிறதா? என்பதை உலகத்திற்குக் காட்டி யாக வேண்டும்.
+ஆகையால்தான் கொள்கையளவிலே சர்க்கார் திட்ட வட்டமாக
+என்ன கருதுகிறார்கள் என்று தெரிந்துகொள்ள விரும்புகிறேன்.
+ஒவ்வொரு தடவையும் இந்தப் பிரச்சினை உருவெடுக்கற நேரத்திலே
+“எங்களுக்கு இதை கவனிக்க தெரியும், நீங்கள் இதிலே தலையிட
+வேண்டாம்?! என்று ஒரு இடத்திலே சொல்வதும், மற்றொரு
+இடத்திலே. “எதிர் கட்சிக்காரர்களை நாடினால் உங்களுக்குக்
+இடைப்பதுகூட கிடைக்காமல் போய் விடும்!” என்று அவர்களை
+பிரச்சினைதான் முக்கியமான பிரச்னையா? இதைவிட அடிப்படைப்
+பிரச்சினைகள் ஏராளம்”? இருக்கின்றனவே. அவைகளே கவனித்து
+
+சை
+
+டு இவைகளுக்கு வருவோம் என்று இப்படியே நழுவிக்
+
+## Image 5: 005-a7afd7652f.png
+
+- Image: `sorpozhivugal/maanila300958/005-a7afd7652f.png`
+
+கொண்டிருப்பதில்தான் அவர்கள் திறமை காட்டுகிறார்களே தவிர;
+அவர்களுடைய கொள்கை என்ன என்பதனை திட்டவட்டமாக
+தெளிவுபடுத்தவில்லை. ஆகையால் நான் முதலில் அறிந்துகொள்ள
+விரும்புவது, இந்த சர்க்காருக்கு இந்த விஷயத்தில் என்ன வகையான
+கொள்கை இருக்கிறது என்பதாகும். இதைக் திட்டவட்டமாக
+எங்களுக்கு எடுத்துச் சொல்வதற்கு முன் வரவேண்டும்.
+
+பொதுவாக சர்க்கார் தரப்பிலிருந்தும், ஆளும் கட்சியிலிருந்தும்,
+இது வரையில் பேசியவர்கள் இப்போதும், இதற்கு முன்னாலே இந்த
+மன்றத்திலே எடுத்துப் பேசப்பட்ட காலத்திலேயும், அவர்கள்
+துந்திருக்கின்ற கருத்துக்களை மூன்று வகைகளாகப் பிரித்துப்
+பாக்கலாம். ஒன்று, “எங்கள் இடத்திலே போதுமான பணம் இல்லை”
+என்பது அவர்கள் சொல்லுகிற வாதமாகும். அதனை ஒரு வாதம் என்று
+ஏற்றுக்கொள்ள மாட்டேன் என்று நான் முதலிலேயே சொன்னேன் -
+பணம் இருக்கிற இடத்தைக் கண்டுபிடித்து எடுப்பதுதான் ஒரு நிதி
+அமைச்சருடைய வேலை. “வரி போட்டுப் பணம் வாங்கினால் நீங்கள்
+சும்மா இருப்பீர்களா?” என்று கனம் அங்கத்தினர் கரிய கெளண்டர்
+அவர்கள் கேட்டார்கள் - நிச்சயமாக சும்மா இருப்போம். ஆனால்,
+எந்த இடத்திலே வரி போட வேண்டும் என்பதிலே - வவ ப
+போடவேண்டும் என்பதிலே - யாருக்குப் இரா பவட
+என்பதிலே, நமக்குள்ளே அபிப்பிராய பேதம் பட் வல் ப்ட்
+இந்த மன்றத்திலே நான் பல தடவைகள் குறிப்பிட் டிருக்கறேன்.
+. உதாரணமாக, '*இந்த மாநிலத்திலுள்ள ஜமீந்தார்களிடத்திலிருந்து
+எடுத்துக்கொள்ளப்பட்ட நிலவுடமைகளுக்கு நஷ்ட உட்டாக்க்
+கொடுக்கிற பணத்தைக் கொஞ்ச காலத்திற்குக் பப்ப நிறுத்தி
+் ப்ச் ட் குப் பயன்படுத்தலாமா?”' என்று
+வைத்து, அந்தப் பணத்தை இதற்குப் பக ம ணடின்டு தம்க்
+கேட்டால், அதற்கு நான் என்னுடைய இரண்டு சைளையும் தூக்கத்
+தயாராக இருக்கிறேன். அதே நேரத்தில் “பண்டங்களை வாங்குற
+் ் 1 விற்பனை வரியில் இன்னொரு
+
+ஏமை மக்களுக்கு விதிக்கப்படுகிற பன ற பவள் பகட்டு
+. பைசா கூட்டலாமா?”' என்று கேட்டால் ரவர் ட. தத்
+ கொள்வீர்களா”' என்று பொது டட்வ்கு் அத்த ற்ப
+இல்லை. சாதாரணமாக பணம் இல்லை ல தற்கில்லை ல
+நேரத்தில் அதை ஒரு வாதம் என்றும் ஏற்றுக்...
+
+324-050
+
+## Image 6: 006-844a6f1c48.png
+
+- Image: `sorpozhivugal/maanila300958/006-844a6f1c48.png`
+
+ட பற்றிப் பேசுகிற நேரத்தில் கனப்
+ப்ர்ட்டஷ்க் வ உண்ணத் அன வன்ன ர்க: எதிலே
+நிதி அமைச்சர் அவர்கள் “2 குச் செலவிடுவது என்
+செலவழிக்கெ பணத்தைக் குறைத்து இதற்குர் 27 டட.
+பார்த்து விட்டு வழிகாட்டுங்கள் - குல்விக்குக் கொடுக் ன்ற
+மானியத்தைக் குறைத்துக் கொடுக்கட்டுமா? தணி ப ன்்ஷ்ன்
+கொடுக்கின்ற மானியத்தைக் குறைத்துக் கொடுக்கட்டுமோ* இதைக்
+குறைக்கட்டுமா? அதைக் குறைக்கட்டுமா?? என்று ட டார்கள்
+உண்மையாகவே ஒரு செலவைக் குறைத்து இதற்குத் துததாலகூட
+சரிக்கட்ட முடியாத அளவுக்கு நிலைமை இருக்கிறது என்பதை
+சாதாரணமாக அனைவரும் அறியலாம். டா லதான டர்
+இல்லை என்று சொல்லுகிற நேறத்தில், வரிகள் மூலமாகத்தான்
+பணத்தைக் தேட வேண்டும் என்பதை மாற்றிக் கொள்ள வேண்டும்
+என்று நான் பணிவன்போடு கேட்டுக்கொள்கிறேன். பல தடவைகள்
+இந்த மன்றத்திலே பேயும் இருக்கிறேன். வரி போடுவதன் மூலமாகத்
+தான் ஒரு சர்க்கார் தன் வருமானத்தைப் பெருக்கிக் கொள்ள
+வேண்டும் என்ற தத்துவத்தை மாற்றி, வரியோடு, வருமானத்தைப்
+பெறத்தக்க கொழில்களை நடத்த சர்க்கார் முன்வர வேண்டும்.
+
+இதனால் இன்னொரு அடிப்படைக் கொள்கையையும் மாற்றிக்
+கொள்ள நேரிடும். அந்த அடிப்படைக் கொள்கையை - நீங்கள்
+
+தொழில் திட்டத்தில் தனியாருக்குச் சிலவற்றை ஒதுக்கியிருக்கிறீர்கள்
+- பொதுத் துறைக்கென்று சிவற்றை ஒதுக்இயிருக்கிறீர்கள் - இதில்
+மாற்றமே கிடையாது என்று சொல்லுகிற அடிப்படைக் கொள்கையை
+சற்று மாற்றி, தனியார் துறைக்கென்று ஒதுக்கப்பட்டிருக்கிற - அதிக
+லாபம் தரக்கூடிய தொழில் - பயிற்சி ஏற்பட்டிருக்கிற தொழில் -
+இவைகளை தாங்களே ஏற்று நடத்த வேண்டும் என்று என்றைய தினம்
+இந்த சர்க்கார் கொ ண்டுவருகிறார்களோ, அப்போதுதான் வருமானம்
+ததாக - வருமானம் அதிகரித்தால்தான் இவர்களுக்கெல்லாம்
+பணத்தைத் தர முடியும். கனம் அங்கத்தினர் கரிய கெளண்டர்
+அவர்கள் வாதத்திற்காக வேண்டுமானால் சொன்னார்கள்
+ஒத்துக்கொண்டால் நிதி அமைச்சர்
+என்று - அவர் சொன்னதினால் நித
+என்று பொருள் இல்லை - நாங்கள்
+இந்த நாட்டில் 2 கோடி தமிழர்கள்
+பிரச்சினையைத் தீர்ப்பதற்காக க
+
+வரி போட
+அவர்களிடம் சொல்லுகிறேன்”'
+அமைச்சர் ஏற்றுக்கொண்டார்கள்
+வரி போட ஓத்துக்கொள்வோம் -
+இருக்கிறார்கள் என்றால், இந்தப்
+லைக்கு ஒரு ரூபாய் வரி போட
+
+## Image 7: 007-a9c985df4d.png
+
+- Image: `sorpozhivugal/maanila300958/007-a9c985df4d.png`
+
+வேண்டும் என்று சொன்னால் - நாங்கள் ஒத்துக் கொள்கிறோம் என்று
+சொன்னால் கூட நீங்கள் போடமாட்டீர்கள். ஏன் நீங்கள் போட
+மாட்டீர்கள் என்று சொல்லுவதற்குப் பல காரணங்கள் இருக்கின்றன.
+சும்மா, “போடுகிறோம்” என்று வாதத்திற்காகச் சொல்லி விடலாம்.
+இது சுவையளிக்கக் கூடியதாக இருக்கிறதே தவிர பிரச்சினையைத்
+தர்ப்பதாகாது. ஆகவே, சொல்லப்படுகிற முக்கியமான வாதம் பணம்
+இல்லை என்பது ஒரு வாதமாகாது. மற்றொரு வாதம் என்.ஜி.ஓக்கள்
+பரவாயில்லை - ஒரு கனம் அங்கத்தினர் சொன்னதைப்போல
+அவர்களை விட கஷ்டப்படக் கூடியவர்கள் அநேகம் பேர்கள்
+இருக்கிறார்கள் என்பது. முதல் தேதி எப்போது வரும் என்று பார்த்துக்
+கொண்டி ருப்பார்கள் - முதல் தேதி சம்பளம் வாங்கி விடுகிறார்கள் -
+28-ம் தேதி முதல் கடன்காரர்கள் பிடுங்குகிற பிடுங்கல் கனம்
+அங்கத்தினருக்குத் தெரியாது. 28-ம் தேதி முதல் கடன்காரர்கள்
+தொல்லைபடுத்த ஆரம்பித்து, “:3-ம்தேதி வரட்டும், 1-ம் தேதி
+வரட்டும்” என்று சொல்வதை அடிப்படையாக வைத்து ஒரு சினிமா
+படத்தையே தயாரித்திருக்கிறார்கள். சினிமாவையே விரும்பாத
+கட்சியிலே இருக்கின்ற காரணத்தினால், கனம்  அங்கத்தினா்
+பார்த்திருக்க மாட்டார்கள் - நான் பார்த்திருக்கிற காரணத்தினால்
+இதைப் பற்றிச் சொல்கிறேன் - அந்தப் படம்” முதல் தேதி ” என்பது.
+மூதல் தேதி ஆனவுடன், ஜமீன்தார்களுக்கு நஷ்ட ஈடாகக் £ டைக்கக்
+கூடிய தொகையைப் போல பெரும் தொகையை என்.ஜி.ஓக்கள்
+வாங்கிக்கொண்டு வருவது போலவும், அதைப் பங்கிட்டுப் பங்கிட்டுக்
+கை ஓய்ந்து போய், “கொஞ்ச நாளைக்கு ஓய்வு இருங்கள்” என்று
+இவர்கள் அறிவுரை எடுத்துச் சொல்வது எவவளல் ட் இருதயம்
+இருந்தால் அப்படிப்பட்ட வாதம் வரும்?” என்று என்னை நானே
+கேட்டுக்கொள்கிறேன்.
+
+மன்றாவதாக நாங்கள திட்டம் போட்டிருக்கோம் இட்டம
+பெரிதா?" இது பெரிதா?” என்று நிதி அமைச்சர் அவர்கள் கேட்டிருக்
+ஜெர்கள். இந்தத் தட்டம் என்ற பிரச்சினை இந்த மாநிலத்தில்
+மட்டுமல்ல. எப்போது பேசினாலும் - எந்தப் பிரதினையைப் பற்றிப்
+பேசினாலும் - இட்டத்தையும் அதையும் இண்ணைத்து இலக்
+பேசுகிறார்கள். அப்படிப் பேசுகிற காரணத்தினால் அவர்களுக்குத்
+' இருப்தி ஏற்பட்டால்தான் திட்டம் வெற்றி பெறும், தட்டம் வெற்தி
+
+## Image 8: 008-81c5f32012.png
+
+- Image: `sorpozhivugal/maanila300958/008-81c5f32012.png`
+
+ஈம் என்று சொல்வது சரியான முறை
+ஆகாது; திட்டம் தோற்றுப் போக இதுதான் ம க ட
+இருக்கும் என்று மிகவும் பணிவன்போடு தெரிவித்துக் கல்லும்
+விரும்புகிறேன்: ஆகவே, என்னுடைய இரண்ட £வது அல பங்கள்
+இட்டத்திலேயே எங்களுக்குச் சந்தேகம் இருக்கிறது!” ஏதோ, இட்டம்
+என்றால். நாடு பூராவிலும் சரிவர நிறைவேற்றியிருக்கிறோ ம்
+எல்லோரும் ஏற்றுக்கொண்டிருக்கிறார்கள் என்ற மனப்பான்மையில்
+பேசு௫றீர்கள். ஆனால், திட்டம் நிறைவேற்றப்படுகிற எழுத அல்
+இட்டம் இட்டப்படுகற முறையிலும், திட்டத்திற்காக நீங்கள்
+செலவழிக்கிற பெரும் தொகையை, சில வேளைகளில் கண்மூடித்
+தனமாகச் செலவழிக்கிறீர்கள் என்று ஐயப்படுகிற கூட்டத்தைச்
+சேர்ந்தவர்கள் நாங்கள்: ஆகையால், “தட்டம் நிறைவேறட்டும், பிறகு
+பார்க்கலாம்'' என்று சொல்வது திருப்திகரமான பதில் ஆகாது. திட்டம்
+ஒரு சமயத்தில் நல்லபடி நிறைவேற்றப்பட வேண்டும் என்று
+சொன்னாலும் கூட, இந்தத் திட்டத்தை நிறைவேற்றுவகற்கேற்ற
+மனப்பக்குவத்தை சர்க்கார் ஊழியர்கள் பெறவேண்டுமானால்,
+
+அவர்களுடைய சம்பளத்தை அதிகப்படுத்தித்தான் ஆகவேண்டும்.
+
+பெறட்டும், இதை கவனிக்கல
+
+என்னுடைய நண்பர்கள் எனக்கு சொன்னார்கள் - கண ந்து
+தவறுதலாக இருந்தால் நிதி அமைச்சர் அவர்கள் திருத்துவார்கள் என்று
+நினைக்கிறேன் - மத்திய சர்க்கார் ஊழியர்களாக இருப்பவர்களுக்கு
+சட்ட பூர்வமான எல்லாவகையான வருமானமும் சேர்ந்து மாதத்திற்கு
+120 ரூபாய் கிடைக்கிறது என்றும், மாநில சர்க்காரில் அதே விதமான
+பணியாற்றுபவர்களுக்கு ரூபாய் 94 கிடைக்கிறது என்றும், பஞ்சப்
+படியிலே இருக்கிற வித்தியாசத்தையாவது போக்க வேண்டுமென்று
+என்.ஜி.ஓக்கள் விரும்புகிறார்கள் என்றும் சொன்னார்கள். 120-க்கும்
+94-க்கும் இடையிலே இருக்கும் இந்தச் சிறு வித்தியாசத்தை போக்க
+குறைந்தது 8 கோடி ரூபாய் தேவை என்று புள்ளிவிவரத்திலே
+அரப பிருக ர்கள். மூன்று கோடி ரூபாயை எப்படிப் பெறுவது?
+ல 2. 2 பணம் இருக்கிறது?” என்று நம்முடைய
+நிதி அமைச்சர் அவர்கள் இல கூட்டங்களிலே சொல் க
+பத்திரிகையில் பார்த்தேன். “உங்கள் ௨. கயட்ட பது
+கேட்டின். ட ட அணணாதுரையை திட்டம்.
+
+## Image 9: 009-2fc5281c77.png
+
+- Image: `sorpozhivugal/maanila300958/009-2fc5281c77.png`
+
+திட்டம் கொடுத்தான்?” என்று கூறுகிறார். இன்று காலையிலே ஒரு
+சர்க்கார் வெளியீட்டை படித்துக்கொண்டிருந்தேன். மாநிலத்திலே
+கோழிகளைப் பற்றிய வெளியீடு அது. இந்த மாநிலத்தில்
+கோழிகளினால் மட்டும் ஆண்டு ஒன்றுக்கு ஒரு கோடி ரூபாய்
+வருமானமுள்ள முட்டைகள் கிடைப்பதாக கணக்குக் காட்டியிரு
+, கிறார்கள். வளர்க்கின்ற கோழிகளில், ஒரு கோழிக்கு இரண்டு கோழி
+வளர்த்தால், மூன்று கோழி வளர்த்தால் - எங்களையா கோழி
+. வளர்க்கச் சொல்லுகிறீர்கள் என்று கோபங் கொள்ளக் கூடாது - கோழி
+வளர்ப்பைப்பற்றி அறிக்கை வெளியிட்டதன். காரணமாகச்
+சொல்லுகிறேன். 20 நாட்களுக்கு முட்டை இடுகின்ற கோழி அதற்கு
+பதிலாக 40 நாட்களுக்கு மீண்டும் மூட்டையிடும். இதனால்
+இப்பொழுது கிடைக்கின்றதைவிட 2 கோடி ரூபாய், 8 கோடி ரூபாய்
+அதிக வருமானம் இடைக்கும். பணத்திற்கு என்ன செய்வது என்று
+நீங்கள் எடுத்துச் சொல்வது, உங்கள் விஷயங்களிலே அபாரமான
+நம்பிக்கை வைத்திருக்கிற எனக்கு ரொம்பவும் சந்தேகத்தைக்
+கொடுக்கிறது. தொழிலில் வருவாய் கிடைக்கக்கூடிய நல்ல வகையான
+தஇட்டங்களை நீங்கள் தீட்டலாம். அதை மேலெழுந்தவாரியாக இந்த
+மன்றத்திலே பேசுவதைவிட, என்னுடைய நண்பர் கலியாண சுந்தரம்
+அவர்கள் சொன்னதுபோல, இதற்கு ஓரு குழு அமைத்து அதிலே
+எதிர்க்கட் சிக்காரார்களையும் பொருளாதாரநிபுணர்களையும் உட்கார
+வைத்து நாம் அலசிப் பார்ப்போமேயானால், ஒரு ஒல்
+எங்களுடைய மனதிலே தவறு இருக்குமானா க ஜிக்கள்! அண்ட்
+அல்லது; உங்களுடைய சிக்கலை எடுத்துச் கண்ணால் இது க்கல்
+. அல்லவே என்று நாங்கள் எடுத்துச் சொல்லலாம். எங்கள் விஷயத்திலே
+கொஞ்சம் நம்பிக்கை செலுத்தி, நாங்கள் எதிர்க்கட்சியில் உள்ளவர்கள்
+ஆனாலும், நாங்களும் அந்தப் பிரச்சனையில் அக்கறை த டப்டிக்னு
+என்பதை ணர்ந்து, வேறு எந்த விஷயத்திலே இ ண்ள லாமல்
+விட்டாலும், அவர்களை தாண்டிலே விடத்தக்களர்கள். என்ற
+'வகையிலாவது கவனித்து, இந்தப் பிரச்சினையை தரவு வன ஆல்
+தவிர, 'எதிர்க்கட்சிக்காரர்கள் சொன்னால், நாங்கள் கவனிக்க
+பணிவன்புடன் சொல்ல விரும்புறேன். இப்பொழுது எத்தனையோ
+தொழில் துறைகளிலே நாட்டை ஆளுகின்ற சர்க்கார் தங்களை
+
+உட்படுத்திக் கொண்டு, அதன் மூலமாக வருவாய் பெற்று
+
+## Image 10: 010-3186fb02c5.png
+
+- Image: `sorpozhivugal/maanila300958/010-3186fb02c5.png`
+
+ள் கொள்கைகளைப்புற்றி திட்டவட்டமாக
+ரிவிக்க வேண்டுமென்று நான்
+டவட்டமாக அவர்களுடைய
+மென்று விரும்புவது என்ன
+
+இன்றையதினம் இந்தமன்றத்திலே தெ
+கேட்டுக்கொள்ளுகிறேன். அதிலே திட்
+கொள்கைகளை தெரிவிக்க வேண்டு
+வெனில், மாநில சர்க்கார் ஊழியர்கள் கோரிக்கை நியாயமானதா
+என்பதிலே. உங்கள் பதில் தெரியவேண்டும். மத்திய சர்க்கார்
+ஊழியர்களுக்கும், மாநில சர்க்கார் உளழியர்களுக்கும இடையே
+இருக்கிற இந்த சம்பள வித்தியாசம் அநியாயமானது. இதை நீக்குதல்
+போக்குதல் வேண்டும் என்பதிலே உங்களுக்கு திட்டவட்டமாக
+
+முடிவு இருக்கறதா என்று தெரியவேண்டும். இதற்கு பணம் ஒன்று -
+கான் குறுக்கிடுகிறதா, அல்லது உள்ளத்திலே “இவர்களுக்கு ஏன் -
+
+தரவேண்டும்” என்று எண்ணுகிறீர்களா என்று தெரியவேண்டும்.
+இதைவிட்டு விட்டு தந்ைதைதன் மகனுக்குச் சொல்லுவது போல, தாய்
+கன்னுடைய மகளுக்குச் சொல்வது போல, பொதுவாகச் சொல்வது
+போல நிதி அமைச்சர் “உங்கள் குறை எனக்குத் தெரியாதா?” என்று
+சொல்லக்கூடாது. அவர்கள் கட்சியில் இருப்பவர்கள் ''உங்களுக்கு
+மட்டும் தானா குறை, குறைப்பட்டவர்கள் எத்தனையோ பேர்கள்
+இருக்கிறார்கள். சொல்லப் போனால் எங்களுக்கே ஏகப்பட்ட குறை
+இருக்கிறது” என்று எடுத்துச் சொல்லுவதில் பலன் இல்லை. இந்தப்
+பிரச்சினை நம்மாலே ஆராய்ந்து முடிவு கட்டப்படவேண்டிய
+பிரச்சினை. ஏனென்றால், சர்க்காருடைய வேலையில் நாளாக நாளாக
+நுணுக்கங்களும், திறமையும், அறிவும் தேவைப்படுவது வளர்ந்து
+கொண்டே போகிறது. ““வெல்பேர்.ஸ்டே.ட்:? க்ஷேூமநல சர்க்கார் என்று
+திட்டத்திலே எடுத்துக்கொண்டி ௬ப்பதால், அந்த சர்க்கார் வேலைகள்
+தரன்றாக நாளாக வளர்ந்துகொண்டே வருகின்றன. வளர்ந்து
+கொண்டே வருவது மட்டுமல்ல, விரிவு படுவது மட்டுமல்ல, பல்வேறு
+வகையிலே நுணுக்கங்களும் அதிகரித்துக் கொண்டு. வருகின்றன.
+
+“௮ காரணத்தினால், அதை நடத்துகின்ற
+
+ட வார்கள் - ஒரு கனம் அங்கத்தினர் சொன்னது போல - அஸ்இவாரம், :
+
+ஊற்ற மறந்து விட்டு, சளைகளில்
+
+வெளிச்சம் போடுவது கவறு பலத்தின் பல்பு பொருத்தி
+
+குறிப்பிட விரும்புகிறேன்.
+
+## Image 11: 011-62202d1d4b.png
+
+- Image: `sorpozhivugal/maanila300958/011-62202d1d4b.png`
+
+ஆணிவேர் போல இருக்கிற சர்க்கார் ஊழியர்கள் மனதில் அதிருப்இ
+ஏமாத நிலையில் - ஒரு சனம் அங்கத்தினர் சொன்னது போல: லஞ்சம்
+வாங்காதவர்களே கிடையாது என்று சொல்லக்கூடிய அளவுக்கு
+லஞ்சம் பரவியிருக்கிறது என்று ஊரிலே உள்ளவர்கள் பேசிக்
+கொள்ளும் கேவல பொருளாக அவர்களை ஆக்காமல் அவர்கள்
+உண்மையான உத்தியோகஸ்தர்களாக இருக்கிறார்கள். அடிப்படை
+காரியங்களை செவ்வனே நடத்துகிறார்கள் என்று மிக நீண்டகாலமாக
+புகழ்பெற்று இருக்கும் சென்னை சர்க்கார் ஊழியர்கள், இந்திய
+துணைக் கண்டத்திலே மிகத் திறம்பட பணியாற்றுகிறவர்கள் என்ற
+நல்ல பெயர் பெற்றிருக்கிற சர்க்கார் ஊழியர்கள். அரசியல் புயல்
+எத்தனை ஏற்பட்டாலும், அதிலே தங்களை உட்படுத்திக் கொள்ளாத
+சர்க்கார் ஊழியர்கள், எத்தனை மாறுதல் ஏற்பட்டாலும் மாறுதலுக்குத்
+தக்கபடி தங்களுடைய மனதிலே பக்குவத்தை ஏற்படுத்திக்கொள்ளும்
+திறமை படைத்த சர்க்கார் ஊழியர்கள், இவர்களின் ஊதியத்தை
+உயர்த்துவது அறநெறி நின்று பணியாற்ற வேண்டியது
+அமைச்சருடைய காரியம். வெறும் புள்ளி விவரங்களை: கொடுத்து
+தப்பித்துக்கொள்ளக்கூடிய நிதி அமைச்சருடைய காரியம் மட்டுமாக
+இருத்தல் ஆகாது: அறநெறி நின்று, உள்ளத்திலே உள்ளதை
+வெளிப்படையாகப் பேசி, இதிலே இருக்கிற சிக்கல்களை ஆராய்ந்து
+பார்ப்பதற்கு ஒரு தனி கமிட்டி ஏற்படுத்துவதுதான். நியாமானது,
+தேவையானது, அவசரமானது, கட்சிகளுக்கு அப்பாற்பட்டது
+என்பதனை இந்த மன்றத்திலே வலியுறுத்திக்கூறி, என்னுடைய
+உரையை முடிக்கிறேன்.
+
+## English Translation
+
+Speech delivered in the Legislative Assembly on 30 September 1958.
+
+Mr Speaker, the ruling party has said in this Assembly, and repeatedly outside it for many years, that it would attend to the distress of non-gazetted government employees. Yet the problem remains unresolved and the Government still appears to struggle with it. That is why our honourable friend Kalyanasundaram has moved this resolution: to enable the Opposition to offer proposals and to appoint a committee that can examine the issue thoroughly and frame a sound, reassuring solution.
+
+From the speech of Kari Gounder, who preceded me, I learn that the Finance Minister promised concessions to government employees who had announced a strike and thereby persuaded them to abandon it. Kari Gounder also said that we would all accept any tax imposed for that purpose. I hope he will use his extraordinary influence with the Finance Minister to secure the necessary revenue and improve the position of non-gazetted officers.
+
+He spoke with great regret about their holding meetings even on Madras beach. The beach ought to be a place of evening recreation. A few may go there to rest, but your administration has created a condition in which many go there to express the anguish in their hearts. Under your rule, a place intended for leisure has become a place for displaying grievance.
+
+The Finance Minister once accused the Opposition of inciting non-gazetted officers and said the employees could state their own grievances. He added figures to his goodwill and asked whether the twelve-rupee increase granted by the Government did not prove that it cared more for them than the Opposition did. But the rise in the cost-of-living index meant that the twelve rupees existed only on paper; higher living costs prevented employees from receiving any real benefit.
+
+When we discuss the matter again, members of both the ruling party and the Opposition should speak frankly. A special inquiry committee would be better suited than this House for such an open discussion. It could include representatives from both sides and, if needed, an NGO representative capable of offering new economic proposals. Our desire is to obtain an immediate and sound settlement, not, as one member suggested, to embarrass the Government.
+
+Everyone knows that your numerical strength protects you from embarrassment. We are not unaware that the strength of many of your arguments lies in that numerical majority. None of us wishes to use this problem merely to trouble the Government. We must recognise that an administration cannot function efficiently while its employees remain dissatisfied.
+
+One honourable member said that government employees should endure with a spirit of sacrifice for ten or twenty years. There is nothing wrong in expecting sacrifice, but if they must live so for ten or twenty years, their lives will encounter severe hardship. Even the future generation they contribute to society may be born intellectually weakened by deprivation. That is why we seek an immediate solution.
+
+The Finance Minister frequently reminds us that Madras State leads in solving many problems. He should explain the difficulty in resolving this one. If he identifies the obstacle, every Opposition party is prepared to consider it and cooperate in goodwill. We need to know whether the Government accepts the justice of higher pay, whether it has a policy of removing the disparity between Central and State employees, and whether it wishes to revise the rules governing State personnel.
+
+Does the Government intend to adopt new methods appropriate to the day-to-day work of its employees? Once its policy is clear, finding the money is not impossible. A Finance Minister's work is to locate funds and distribute them where they are needed. He knows that it is not his function merely to join us in asking, "Where is the money? Is it here?"
+
+Like the song in a film, if we all cry, "Where shall I search, where shall I search for the money?" while members receive Rs 750 and ministers receive thousands, the outside world will doubt our competence. This is not the concern of one party alone. We must show the world whether those seated in this House possess the ability to solve it or are too deficient in ability to do so.
+
+I therefore seek a definite statement of Government policy. Whenever the issue arises, it says in one place, "We know how to handle this; do not interfere," and elsewhere warns employees, "If you approach the Opposition, you may lose even what you now receive." At another time it slips away by saying that there are more fundamental matters to address first. It displays skill in evasion but has never made its policy clear.
+
+The arguments advanced by the Government and ruling party, now and on earlier occasions, fall into three groups. The first is that there is not enough money. I have already said that I cannot accept this as an argument, since finding where money lies is precisely a Finance Minister's duty.
+
+Kari Gounder asked whether we would remain quiet if money were raised through taxation. Certainly we would, but we differ over where a tax should be imposed, what should be taxed and who should receive relief. I have stated this many times in the House. If asked whether compensation payments to zamindars for estates taken over by the State could be suspended temporarily and used for this purpose, I would raise both hands in support. But if asked to add another paisa to the sales tax burden borne by poor consumers, I would not consent. Thus a bare assertion that money is lacking cannot settle the question.
+
+Whenever this subject is raised, the Finance Minister asks us which expenditure should be cut: the education grant, some other subsidy, this item or that one. Everyone can see that the need cannot be met simply by reducing one existing expense. The belief that funds must be found only through taxation must change. I have repeatedly argued that, alongside taxes, the Government should itself operate income-producing industries.
+
+That requires another change of principle. The industrial plan reserves certain enterprises for private hands and others for the public sector. The Government should reconsider that rigid division. When it takes over established and highly profitable industries now reserved for private enterprise, public revenue will grow, and only increased revenue can provide the money required here.
+
+Kari Gounder may say for argument's sake that he will ask the Finance Minister to impose a tax if we agree. That does not mean the Minister has accepted it. Even if we said we would accept a levy of one rupee per head upon the two crore Tamils to solve the problem, you would not impose it, for reasons of your own. Saying lightly that you will levy it may sound attractive in debate but does not resolve anything. Thus "there is no money" is not a valid answer.
+
+The second argument is that NGOs are reasonably well off and that many others suffer more. They wait for the first of the month, receive their salary, and from the twenty-eighth onward endure creditors demanding payment. Their cry of "Let the first come!" even furnished the basis of the film *Muthal Thethi*. An honourable member belonging to a party that dislikes cinema may not have seen it; I have, and therefore mention it.
+
+Do NGOs bring home on the first a vast sum like the compensation paid to zamindars? After dividing it among creditors until their hands are empty, are they to be advised to rest content for a while? I ask myself what kind of heart can produce such an argument.
+
+The third argument is the Finance Minister's question: "We have framed a Plan; which is greater, the Plan or this demand?" The Plan is invoked in this State whenever any problem is discussed. It is wrong to suppose that repeating it will satisfy everyone and ensure its success; that very attitude may cause the Plan to fail.
+
+We have doubts about the Plan itself. You speak as though it were being properly implemented throughout the country and universally accepted. We belong to those who suspect both the manner in which it is framed and the sometimes indiscriminate expenditure of its large allocations. "Let the Plan be completed and then we shall see" is therefore not a satisfactory response. Even if the Plan must be successfully executed, government employees must be paid more so that they possess the confidence and disposition needed to carry it out.
+
+My friends tell me, and the Finance Minister may correct the figures if they are wrong, that a Central Government employee performing comparable work receives Rs 120 a month from all lawful emoluments while a State employee receives Rs 94. NGOs at least seek removal of the difference in dearness allowance. The printed record then gives inconsistent OCR readings of the estimated cost, alternating between three and eight crore rupees; the underlying figure requires verification from the scan.
+
+I read in a newspaper that the Finance Minister asked at a meeting, "Where is the money? Did Annadurai give you a plan?" This morning I read a Government publication on poultry in the State. It estimated that eggs produced here yield one crore rupees annually. If two or three birds were reared where one is now kept, production and revenue could increase greatly. Do not become angry and ask whether I am telling you personally to raise chickens; I cite the Government's own report.
+
+The OCR rendering of the laying periods and projected increase is numerically unstable, but the argument is clear: better poultry development alone could add crores of rupees in income. When a Government in which I place such confidence asks helplessly what can be done for money, it gives me serious doubt. You can frame productive industrial schemes that earn revenue.
+
+Rather than treating this superficially in the House, appoint the committee proposed by Kalyanasundaram. Seat Opposition members and economic experts upon it and examine the matter. If our thinking is wrong, you can demonstrate it. If you explain your difficulty, we may show that it is not insurmountable. Place some trust in us. Though we sit in Opposition, recognise that we too care about this issue. Even if you cannot admit us into other matters, at least attend to us here as people fit to be admitted into a poultry shed.
+
+The Government already participates in many industries and earns revenue from them. I ask it today to declare its policy clearly. Does it accept that the demand of State employees is just? Does it agree that the pay disparity between Central and State employees is unjust and should be removed? Is money the sole obstacle, or is there an inner feeling that these employees need not be paid more?
+
+The Finance Minister should not speak generally, like a father comforting a son or a mother a daughter, and say, "Do I not know your grievance?" Nor is there any use in ruling-party members replying, "Are you alone in distress? Many suffer; indeed, we ourselves have countless grievances." This is a problem that we must examine and decide.
+
+Government work increasingly requires subtlety, skill and knowledge. Since the Plan has embraced the idea of a welfare State, public responsibilities expand each day and become more intricate. To forget the foundation while fitting brighter lamps to the branches would be a mistake.
+
+Government employees are the taproot of administration. They should not be left so dissatisfied that the public comes to speak of them contemptuously as though none can work without accepting bribes. Madras Government employees have long been praised for conducting essential work properly. They enjoy a reputation as among the most efficient in the Indian subcontinent. They remain outside political storms and possess the ability to adapt their minds to every administrative change.
+
+It is the Minister's moral duty to improve the pay of such employees. This must not be treated merely as an occasion for the Finance Minister to escape by producing statistics. The just, necessary, urgent and non-partisan course is to speak candidly, examine the difficulties, and establish a separate committee. I conclude by strongly urging that course upon the House.
+
+## Translator's Notes
+
+“NGO” in this 1958 speech means a non-gazetted government officer, not a modern non-governmental organisation.
+
+The preserved OCR source alternates between Rs 3 crore and Rs 8 crore for the estimated cost of narrowing the pay disparity. The translation does not choose between them without direct scan verification.
+
+The poultry passage contains unstable OCR figures for laying periods and projected revenue. Its policy argument is translated, while the uncertain numbers are not presented as reliable data.
+
+The film *Muthal Thethi* (“The First Date”) is invoked to illustrate a salaried worker's recurring monthly debt cycle.

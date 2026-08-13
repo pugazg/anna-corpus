@@ -1,0 +1,1 @@
+../../md_pages/sorpozhivugal/jananayakathirku_aetra_idam.md

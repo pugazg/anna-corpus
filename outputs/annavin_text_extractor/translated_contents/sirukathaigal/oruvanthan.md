@@ -1,0 +1,329 @@
+# ஒருவன்தான் பிடிபட்டான் / Only One Was Caught
+
+**Tamil title:** ஒருவன்தான் பிடிபட்டான்  
+**English title:** Only One Was Caught  
+**Source file:** `sirukathaigal/oruvanthan.md`
+
+## Source Tamil (verbatim)
+
+- Source image folder: `/Users/pugazhendhirajendran/Documents/Codex/2026-07-09/https-www-annavinpadaippugal-info/outputs/annavin_text_extractor/ocr_images/sirukathaigal/oruvanthan`
+- OCR language: `tam`
+- Tesseract page segmentation mode: `3`
+- OCR cleanup: `enabled`
+
+## Image 1: 001-994b4e5f55.png
+
+- Image: `sirukathaigal/oruvanthan/001-994b4e5f55.png`
+
+ஒருவன்தான் பிடிபட்டான்
+
+அவன் ஒரு கொலைகாரன்!
+பெற்றெடுத்த தாயையே கொலை செய்தான்!
+
+அவன் ஒர் இளைஞன்!
+
+இரக்கமற்று, தன் அன்னையைக் கொலை செய்திருக்கிறான்!
+
+ஆயுட்தண்டனை தரப்பட்டிருக்கிறது, எனினும் ஐயோ!
+பாவம் என்றும் தண்டனை அளித்தோர் பச்சாதாபப்பட்டுள்ளணர்.
+
+சர்க்கார்' விரும்பினால், தண்டனையைக் குறைக்கலாம்
+என்றும் நீதிபதிகள் எடுத்துரைத்துள்ளனர்.
+
+பத்துமாதம் சுமந்து பெற்று, பாலூட்டிச் சீராட்டி,
+உச்சிமோந்து முத்தமிட்டு, மழலைகேட்டு மகிழ்ந்து - குறுநடை
+கண்டு களித்து, அவன் நோய் தர தான் மருந்துண்டு, அம்புலி
+காட்டி மகிழ வைத்து, ஆசைமகனே! ஆருயிரே! இன்பப் பெருக்கே!
+இன்னுயிரே! என் செல்வமே! என் குலக் கொழுந்தே!
+என்றெல்லாம் கொஞ்சிக் குதூகலித்த, தாமை, மகன் கொலை
+செய்திருக்கிறான். காதகன்! பாதகன்! பழி பாவத்துக்கு
+அஞ்சாதவன்! மிருகம்! என்று எவரும் கண்டிப்பர், காரித்துப்புவர்
+அவன் கொலைகாரன், சொந்தத் தாயைக் கொன்று விட்டான்!
+வெறியனா? இல்லை, இல்லை! தெளிவாகவே. இருக்கிறான்!
+
+காவாலியோ? அதுவுமில்லை! எனினும் கொலை செய்திருக்
+கிறான்.
+
+## Image 2: 002-fb4d597914.png
+
+- Image: `sirukathaigal/oruvanthan/002-fb4d597914.png`
+
+குடி போதையோ? கூத்து ஊட்டிய மோகமோ, களவாடியதன்
+விளைவோ? இல்லை, இல்லை! அவன் இந்தக் கொலை மட்டும்
+தான் செய்திருக்கிறான்!
+
+கெட்டவர்களுடன் கூடி அலைந்து, நெட்டை மரம் போல்
+வளர்ந்து கவைக்குதவாதவனாகி, கண்டபடி சுற்றி வந்து, குடும்பச்
+சொத்தைப் பாழாக்கி, தாயின் மனதைப் புண்ணாக்கி, அடித்து
+உதைத்து அவமானப்படுத்தி, அடுக்களையில் ஒளித்து வைதீதிருந்த
+சிறுதொகையையும் உருட்டி மிரட்டிப் பெற்று உலுத்தனாக
+வாழ்ந்து, கடைசியில், நள்ளிரவில் தாயின் காதோலையைக் கழற்றி
+வநது, காகூவென தாய் கூவிட, அரிவாள் கொண்டு அவளை
+வெட்டினானோ அந்த அக்ரமக்காரன், என்று கேட்பீர்கள்.
+இல்லை! இல்லை! தாயிடம் பாசம் காட்டி, குடும்பதீதில் பொறுப்பு
+காட்டி, நடந்து வந்தவன், இந்தக் கொலைகாரன்! தாயிடம் கூறி
+விட்டே, கொலை செய்தான், சம்மதம் பெற்றான், சாகடிப்பதற்கு
+முன்பு!!! ்
+
+குடும்பத்துக்கு இழுக்கு உண்டாகும் வகையில், தாய்
+தவறியவளாகிவிட, அது கண்டு கொதித்து எழுந்து, கொடுவாள்
+எடுத்து அந்தக் கொலை செய்தானோ? அதுவுமில்லை! அம்மா!
+உன்னைக் கொல்லத் தீர்மானித்து விட்டேன், என்று அவன்
+கூறினான். செய்யடா மகனே! என்று தாய் கூறிட, கொலையும்
+நடந்தது. பித்தர் விடுதியிலல்ல. நாம் வாழும் தமிழகத்தில்
+நடைபெற்ற சம்பவம். பேயாட்சியிலே அல்ல - சுயராஜ்ய
+ஆட்சிக் காலத்திலே சென்ற ஆண்டு ஜூலைத் இங்களில் - கோவை
+மாவட்டத்தில்.
+
+தாயைக் கொன்றான் அந்த இளைஞன். வயது பதினேழாம்!
+அரும்பு மீசை! தாய் அவனைக் கண்டு எவ்வளவு மகிழ்த்தாளோ,
+பாபம்! மகன் சறுவனல்ல, இளைஞனாக விட்டான், இனி அவன்,
+குடும்ப பாரத்தைத் தாங்கிக் கொள்வான். குடும்பம் தழைக்கும் -
+பேரனோ பேத்தியோ பூத்திடும், அந்த அரும்பு தரும் ஆனந்தத்தைச்
+சுவைத்து அந்தியப் பொழுதை இன்பமாகக் கழிக்கலாம் என்று
+அந்தத் தாய், என்னென்ன எண்ணினாளோ,, யார் கண்டார்கள்!
+எப்படி அந்த எண்ணம் வராதிருக்க முடியும்! மகனுக்கு வயது
+பதினேழு, இனி நமக்கு என்ன குறை! மகன் வாலிபன்! இனி,
+
+## Image 3: 003-8bc921ade0.png
+
+- Image: `sirukathaigal/oruvanthan/003-8bc921ade0.png`
+
+நமது குடும்பத்தின் பொறுப்பை அவன் ஏற்பான்! வாயைக் கட்டி
+- வயிற்றைக் கட்டி, ஆயிரம் பாடுபட்டு அருமை மகனை இவ்வளவு
+. பெரியவனாக்கி விட்டோம் - இனி அவன் நமக்கு ஒய்வும் வாழ்வும்
+ட பெற்றுத தருவான், என்று எண்ணாமலிருக்க முடியுமா? அந்தத்
+-தாயைத்தான், வெறியால் அல்ல, கோபத்தால் அல்ல, தாங்க முடியாத
+6 , சோகத்தால், கொலை செய்இருக்கிறான் .அந்த இளைஞன்! தாயிடம்
+பாசமற்ற பாவி அல்ல அவன், தன் கரத்தாலேயே, கருவில் வைத்துக்
+ப நன அன்னையைக் கொலை செய்யும் அளவுக்கு அவனைக்
+ண்டு சென்றது அந்தப் பாசம்.
+
+ரி “உனக்கென்னடி அம்மா! சிங்கக்குட்டி இருக்கிறான்! உனக்கு
+“ஒரு குறையும் இனி இராது - அவன் கல் உடைத்தாவது, கட்டை
+டெ ட்டியாவது, உன்னைக் காப்பாற்றாமல் போவானா!” - எனப்
+“பலர், பேசக் கேட்டுப் பூரித்தருக்கிறாள் அந்த அம்மை!
+.... எனக்கு இனி என்ன குறை! கோடி கோடியாகப் பணம்
+ட 2வத்திருப்பவனெல்லாம், ஒரு குழந்தையில்லாமல், காக்கும்
+ராமேஸ்வரததுக்கும் யாத்திரை போகிறான். எனக்கோ, கடவுள்
+அருளாலே கருவேப்பிலைக் கொழுந்து போல ஒரு மகன்
+இ! க்கிறான், அவன்தான் என் செல்வம்! அதைவிட வேறு
+ளா சல்வமும் உண்டா! மகனே என்று நான் அழைக்கும்போது,
+௮ ம்மா? என்று அவன் பல் கூறுவது, கேட்கக் கேட்கத் தெவிட்
+டாத தமாக அல்லவா இருக்கிறது! என்று நினைத்து நினைத்து,
+் 'ஐகழாஇருப்பாளா அத்தாய்! அனால் மகனே, அவளைக் கொலை
+[தச ய்கிறான்! பதறப்பதற அல்ல! பதுங்கி இருந்தல்ல! படுத்துறங்கும்
+வேளையில் அல்ல! சம்மதம் பெற்றுக் கொலை செய்கிறான்!
+கொலை செய்யவரும் அதே கரம், கஞ்சிக் கலயத்தைத் துழாவி
+ருக்கிறது, கட்டிப் பிடித்துக் களிப்பளிததிருக்கிறது - அதே கரம்,
+காலை வாளாகிறது!
+
+டட... “அவனும் அவளும் ஆடிப்பாடி ம௫ழ்கிறார்கள்!'” என்ற காட்
+௪. காணலாம் என்று கனவு கண்ட மூதாட்டி மகன், மருமகளை
+அழைத்துக் கொண்டல்ல, கொலை செய்ய வருகிற காட்சியைத் தான்
+காண்டிறாள்.
+
+உலகிலே எங்கு இதுபோல நடைபெற்றிருக்க முடியும்.
+பெற்றெடுத்த தாயை, அன்பு மறவா மகன் கொலை செய்யும் கோரம்!
+
+## Image 4: 004-dbea5a7a21.png
+
+- Image: `sirukathaigal/oruvanthan/004-dbea5a7a21.png`
+
+கற்பனை செய்யக்கூட, கயவர்க்கன்றி பிறர்க்கு மனம் இடந்தராது!
+எனினும் நாச்சிமுத்து தன் சொந்த தாயாரைக் கொலை செய்தான்
+- குற்றத்தை ஒப்புக் கொண்டுமிருக்கிறான் !!
+
+கேரவை மாவட்டம், நாகம்மா நாயக்கன் பாளையம் என்ற
+சிற்றூரில், பதினேழாண்டுள்ள நாச்சிமுத்து தன் தாய் வீரம்மாளை
+க்ஷ்வரக் கத்தியால் அறுத்து கொலை செய்தான். 1953-ம் ஆண்டு
+ஜூலை மாதம் ஆறாம் நாள் வழக்கு நடைபெற்று செஷன்ஸ்
+ஜஐட்ஜி அவனுக்கு ஆயுள் தண்டனை அளித்தார். இது
+பத்திரிகையில் வந்துள்ள செய்தி.
+
+வழக்கு அப்பீலுக்கு வந்தது, சென்னை உயர்நீதி
+மன்றத்துக்கு. நீதிபதிகள் மாக்கும், கிருஷ்ணசாமி நாயூடு அவர்களும்
+வழக்கை விசாரித்தனர். குற்றம் நடைபெற்றிருப்பது உண்மை,
+எனவே தண்டனை தரப்பட்டது சரியே என்று நீதிபதிகள் $ர்ப்புத்
+தந்துள்ளனர். பல கொலை வழக்குகளைப் போல இதுவும் ஒன்று
+அல்ல, என்பது இந்த அப்பீலின் போது விளக்கமாயிற்று.
+
+ஏழைக் குடும்பம்! தாயும் மகனும் எப்படியோ காலந்தள்ளி
+வந்தார்கள். உழைக்க உடலிலே வலிவு இருக்கிறது. இன்ன
+வேலைதான் செய்து பிழைக்க வேண்டும் என்ற போலி
+கெளரவமோ, குலப் பெருமையோ கிடையாது. இந்த சோகக்
+கொலை நடப்பதற்குச் சில காலத்துக்கு முன்பு, நாச்சிமுத்து ஒரு
+காப்பிக் கடையில் வேலை செய்து வந்தான். குடும்பத்தைப் ப௫ியும்,
+பட்டினியும் கொட்டாமலிருக்க, அந்த வேலை போதும், அவன்
+பணம் படைத்தவனல்ல, வியாபாரம் நடத்தி, இலாபக் கணக்குப்
+பார்க்க! வயிற்றுக்குச் சோறு - அது கிடைக்க ஏதோ ஒரு பிழைப்பு
+- அதுபோதும் என்று எண்ணித் தீர வேண்டிய ஏழை!
+பண்ணைச் சொதந்தக்காரனா, எந்த உரம், சோளப் பயிருக்கு
+நல்லது, எத்தகைய மண் வளம் பருத்திக்கு ஏற்றது, என்று ஆராய்ச்சி
+நடத்த! என்ன வேலை செய்தால், பட்டினியின்றி இருக்கலாம்
+என்பதன்றி வேறு எண்ண வேண்டிய நிலை பெறாத, ஏழை!
+கோவையில் கோமான்கள் உண்டு. சிங்காரச் € மான்கள் உண்டு,
+பெரும் பெரும் பண்ணையாளர்கள் உண்டு, நாடு அறிந்த பெரும்
+புள்ளிகள் உண்டு, நாச்சிமுத்துக்களும்தான் உண்டு!! பெற்றெடுத்த
+தாயைக் காப்பாற்றும் அளவுக்கு இருந்து வந்த பிழைப்பில், மண்
+
+## Image 5: 005-e5b75d200f.png
+
+- Image: `sirukathaigal/oruvanthan/005-e5b75d200f.png`
+
+விழுந்தது! வேலை போய்விட்டது! நாச்சிமுத்து பாய்மரமற்ற
+தோணி! வாழ்க்கைக் கடலிலே கிளம்பும் கொடிய அல்லல்
+அலைகள், அவனைத் தாக்கின! வயதோ பதினேழு! வாழ்க்கையை
+நகர்தீதிச் செல்வதற்கு ஒரு வேலை வேண்டும்! வேலை இல்லை!
+வேலை கிடைக்கவில்லை! அவன் பஞ்சை - பராரி! பாட்டாளிப்
+பரம்பரை! உழைக்கச் சித்தமாக இருந்தான், ஆனால் மனிதாபி
+மானத்தை இழந்து விட்டிருக்கும் இந்தச் சமுதாய அமைப்பு
+முறையிலே, அவன் உழைப்பை வாங்கும் ஆட்கள் கிடைக்க
+வில்லை. வீரம்மாள் விம்மினாள்! நாச்சிமுத்து கலங்கினான்! நாடு,
+இந்த நாதியற்றவர்களை ஏறெடுத்துப் பார்க்கவில்லை.
+நாடாள்வோருக்கு நாச்சிமுத்துக்களின் மீதா நாட்டம் விழும்!
+(அவசர அலுவல்கள், ௬சகரமான விஷயங்கள் ஆயிரமாயிரம்
+, அவர்களுக்கு!
+
+் வேலையை இழந்த மகன்! வேறு கதியற்ற தாய்! இந்தக்
+குடும்பம், கொட்டும் வறுமையை எப்படிச் சமாளிக்கும்? பசி!
+பட்டினி! திகைப்பு! உலகமே இருண்டு கடந்தது, அவ்விருவருக்கும்.
+
+். நாச்சிமுத்துவுக்கு நயவஞ்சகம் தெரியாது என்பது அவன்
+"நடவடிக்கையால் தெரிகிறது.
+ஒரு கத்தை வேப்பிலைக் கொத்தைக் கையில் எடுத்து
+வைத்துக் கொண்டு, வாழ்க்கையை நடத்துபவர்கள் இருக்கத்தான்
+'செய்கிறார்கள்!
+7] பல்லைக் காட்டிப் பிச்சை பிழைப்பு நடத்துவோர்
+இருக்கத்தான் செய்கிறார்கள்!
+
+சூது செய்து சுகம் தேடுவோர், சூழ்ச்சி செய்து பொருள்
+
+இரட் டுவோர்; புரட்டினாலேயே வாழ்வோர் உலவுகிறார்கள்!
+ப் கள்ளர்கள் உள்ளனர் - பலரகமானவர்கள்! கன்னம்
+வைக்கும் கள்ளனும் இருக்கிறான்! கள்ள மார்க்கட்காரனும்
+இருக்கிறான்!
+
+நாச்சிமுத்து, நாணயமாக உழைத்து, வாழ விரும்பினான்
+போலும்! அவனுக்கு இடம் தர மறுத்தது, சமூகம். அவன் மனம்
+உடைந்து விட்டது!
+
+தாயின் கண்ணீரை அவன் புரிந்து கொண்டான்.
+
+## Image 6: 006-8cd4d92e9e.png
+
+- Image: `sirukathaigal/oruvanthan/006-8cd4d92e9e.png`
+
+மகனுடைய பெருமூச்சின் பொருள், தாய்க்குப் புரிந்து
+விட்டது.
+
+இந்த உலகிலே இனித் தங்களுக்கு இடம் இல்லை என்பதை
+இருவரும் தெரிந்து கொண்டனர்.
+
+தென்னையும் பனையும் மழை காணாமல் நீண்ட நாள் வாழ
+_ முடியும் - முல்லைக் கொடியோ பட்டுப் போகிறது.
+
+எத்தன், வாழ்க்கைக்குச் சிக்கல்களைச் சமாளித்துக் கொண்டு,
+குறுக்கு வழிகளை கண்டுபிடித்துப் பிழைத்துக் கொள்கிறான்.
+நாச்சிமுத்து, எத்தனாகவில்லை, கொலைகாரனாகவே துணித்து
+விட்டான்.
+
+என் தாயாருக்கு என்னால் வாழ்வளிக்க முடியவில்லை.
+
+என்னால் மட்டுமே அந்தக் கடமையை உணர முடியும்.
+
+25-7-1954
+
+## English Translation
+
+He is a murderer.
+
+He murdered the very mother who gave birth to him.
+
+He is a young man.
+
+Without mercy, he killed his own mother.
+
+He has been sentenced to life imprisonment. Yet even those who imposed the punishment felt compassion and said, "Alas, poor fellow."
+
+The judges also stated that the government could reduce the sentence if it wished.
+
+A mother carried him for ten months, gave birth, nursed and cherished him, kissed the crown of his head, rejoiced in his baby speech, delighted in his first little steps, took medicine herself when illness afflicted him, showed him the moon to make him happy, and fondly called him, "My beloved son! My precious life! Flood of joy! Breath of my life! My treasure! Tender shoot of my lineage!" That mother was killed by her son.
+
+"Murderer! Sinner! A man unafraid of blame or sin! Beast!" Anyone would condemn him and spit in disgust. He is a murderer who killed his own mother.
+
+Was he insane? No. He was entirely lucid.
+
+Was he a habitual brute? No. Yet he committed murder.
+
+Was it intoxication, infatuation produced by debauchery, or the consequence of theft? No. This murder was the only crime he had committed.
+
+You may imagine a scoundrel who roamed with wicked companions, grew tall as a useless tree, wandered recklessly, squandered the family's property, wounded his mother's heart, beat and humiliated her, threatened her into surrendering the small sum hidden in the kitchen, lived as a wastrel, and finally, at midnight, tried to remove the ornament from her ear. Perhaps, when his mother screamed, he hacked her with a sickle. Was that how this wrongdoer killed her?
+
+No. The murderer had shown affection for his mother and responsibility toward the family. He told his mother before killing her. He obtained her consent before taking her life.
+
+Had the mother committed some act that brought disgrace upon the family, causing him to rage and strike her with a billhook? No.
+
+"Mother, I have decided to kill you," he said.
+
+"Do it, my son," the mother replied, and the killing took place.
+
+This did not happen in a madhouse. It occurred in the Tamil Nadu in which we live, not under demonic rule but during the period of self-government, in Coimbatore district in July of last year.
+
+The young man who killed his mother was seventeen. A young moustache had only begun to sprout. How greatly that mother must have delighted in him. "My son is no longer a child. He has become a young man. Now he will bear the family's burden. The family will prosper. A grandson or granddaughter will bloom, and I can savour the joy brought by that tender flower and spend my final years happily." Who knows how many such thoughts the poor mother entertained?
+
+How could such thoughts not arise? "My son is seventeen. What do I lack now? He is a young man. He will take responsibility for our family. I tightened my mouth and stomach, endured a thousand hardships, and raised my dear son to this age. Now he will give me rest and a life." Could she have avoided thinking so?
+
+That was the mother whom the youth killed, not from frenzy or anger, but from unbearable grief. He was not a sinner without affection for his mother. The very affection he bore her carried him to the point of killing, with his own hand, the woman who had carried him in her womb.
+
+"Why worry, mother? You have a lion cub! You will never again lack anything. Even if he must break stones or chop wood, will he fail to protect you?" Hearing many people speak this way, the mother must have swelled with happiness.
+
+"What do I lack now? People with crores of rupees but no child make pilgrimages to Kashi and Rameswaram. By God's grace, I have a son like a tender curry-leaf shoot. He is my wealth. Is there any greater treasure? When I call, 'Son!' and he answers, 'Mother?' I can never tire of hearing it." Would that mother not have rejoiced whenever she thought of this?
+
+Yet her son killed her. Not while she thrashed in terror, not from hiding, not while she lay asleep. He obtained her consent and killed her.
+
+The same hand that came to kill her had stirred the pot of gruel and embraced her in affection. That very hand became the executioner's blade.
+
+The old woman had dreamed of seeing the scene, "He and she are singing and dancing in happiness." Instead of seeing her son arrive with a bride, she saw him come to kill her.
+
+Where else in the world could such a thing have happened? A loving son killing the mother who bore him is a horror that no mind but a villain's would even permit itself to imagine. Yet Nachimuthu killed his own mother and confessed to the offence.
+
+In the small village of Nagamma Naicken Palayam in Coimbatore district, seventeen-year-old Nachimuthu cut the throat of his mother Veerammal with a razor and killed her. The case was heard on 6 July 1953, and the Sessions Judge sentenced him to life imprisonment. This is the report that appeared in the newspaper.
+
+The case came on appeal before the Madras High Court. Justices Mack and Krishnaswami Naidu heard it. The judges ruled that the offence had indeed occurred and that the sentence was therefore proper. During the appeal, however, it became clear that this was not merely one more case like many other murder cases.
+
+It was a poor family. Mother and son had somehow kept themselves alive. He had bodily strength for labour. They possessed no false prestige or caste pride dictating what kind of work they ought to perform. Some time before this tragic killing, Nachimuthu had worked in a coffee shop. That employment was enough to keep hunger and starvation from engulfing the family.
+
+He was not a wealthy man who could conduct business and calculate profits. He was poor and could aspire only to food for his stomach and some livelihood by which to obtain it. That had to be enough. He was no estate owner who could research which manure best suited sorghum or which soil was best for cotton. Poverty allowed him no thought beyond what work might keep starvation away.
+
+Coimbatore has grandees, fashionable rich men, great landowners, and eminent figures known throughout the country. It also has Nachimuthus.
+
+Then disaster struck the livelihood by which he had protected his mother. He lost his job. Nachimuthu became a boat without a sail. Fierce waves of misery from the sea of life struck him. He was seventeen and needed work to move life forward. There was no work. He could find none.
+
+He was destitute, a wanderer, descended from labourers. He was ready to work, but in this social order, which had lost its humanity, no one was available to accept his labour. Veerammal sobbed. Nachimuthu was distraught. The country did not so much as turn to look at these helpless people. Would the rulers of the country take an interest in Nachimuthus? They had thousands upon thousands of urgent duties and fascinating matters to occupy them.
+
+A son who had lost his job and a mother with no other refuge: how could this family withstand the poverty pouring down upon it? Hunger, starvation, bewilderment. The whole world became dark to the two of them.
+
+Nachimuthu's conduct shows that he knew nothing of deceit.
+
+There are people who carry a knife and a bunch of neem leaves and make a living through pretence. There are those who bare their teeth and survive by begging. There are those who seek comfort through fraud, gather wealth through conspiracy, and live entirely through deception.
+
+There are thieves of many kinds: the burglar who breaks through a wall and the profiteer of the black market.
+
+Nachimuthu seems to have wished to live by honest labour. Society refused to make room for him. His heart broke.
+
+He understood his mother's tears.
+
+The mother understood the meaning of her son's sighs.
+
+Both realized that this world no longer had a place for them.
+
+Coconut and palmyra trees can live for a long time without rain, but the jasmine creeper withers.
+
+A cunning man copes with life's difficulties, discovers crooked paths, and survives. Nachimuthu did not become cunning. He resolved instead to become a murderer.
+
+"I cannot provide my mother with a life.
+
+"Only I can recognize that duty."
+
+25 July 1954

@@ -1,0 +1,1 @@
+../../ocr_text_corrected/nadagangal/bankak_bankaja_1.md

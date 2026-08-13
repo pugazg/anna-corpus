@@ -1,0 +1,468 @@
+# வேளாண்மைத் திட்டம் நிதி ஒதுக்கீட்டுச் சட்டமுன்வடிவு / Agricultural Plan Appropriation Bill: Irrigation Debate
+
+**Tamil title:** வேளாண்மைத் திட்டம் நிதி ஒதுக்கீட்டுச் சட்டமுன்வடிவு  
+**English title:** Agricultural Plan Appropriation Bill: Irrigation Debate  
+**Source file:** `sorpozhivugal/velanmai190359.md`
+
+## Source Tamil (verbatim)
+
+- Source image folder: `/Users/pugazhendhirajendran/Documents/Codex/2026-07-09/https-www-annavinpadaippugal-info/outputs/annavin_text_extractor/ocr_images/sorpozhivugal/velanmai190359`
+- OCR language: `tam`
+- Tesseract page segmentation mode: `3`
+- OCR cleanup: `enabled`
+
+## Image 1: 001-f16b1e17d2.png
+
+- Image: `sorpozhivugal/velanmai190359/001-f16b1e17d2.png`
+
+(வேளாண்மைத் ப திட்டம் நிதி ஒதுக்கீட்டுச்
+சணிஸை _ சட்டமுன்வடிவு
+
+உரை : 88 நாள் : 19.02.1959
+
+திரு. ச. என். அண்ணாதுரை : சட்ட மன்றத் தலைவர்
+அவர்களே, இந்த மாநிலத்திலே ஒவ்வொரு ஆண்டும் நீர்ப்பாசனத்
+திட்டங்களுக்காக இந்த அரசாங்கம் கணிசமான நிதி ஒதுக்கி
+வருகிறோம் என்று அறிவிக்கிற சர்க்காருடைய அறிவிப்பை ஆதரிக்க
+வேண்டுமென்ற முறையிலே பேசிய கனம் அங்கத்தினர்களும், அந்தத்
+தொகையை கணிசமான அளவு அல்லது மேலும் அதிகமாக ஒதுக்க
+வேண்டுமென்று வெட்டுப் பிரேரணையின் மீது பேசிய
+எதிர்த்தரப்பில் உள்ளவர்களும் பல திட்டங்களை இந்த அரசாங்கம்
+நிறைவேற்றத் தவறிவிட்டது என்று எடுத்துக்கூறினார்கள். “*இந்த
+அரசாங்கம் இதுவரையில் சாதித்திருக்கக்கூடிய காரியங்கள்
+பாராட்டுதற்குரியன”” என்ற முறையில் காங்கிரஸ் அங்கத்தினர்கள்
+தங்களுடைய பேச்சைத் துவக்கிய போதிலும், ''இன்னும்
+செய்யப்படக்கூடிய காரியங்கள் எவ்வளவோ இருக்கின்றன”' என்று
+வலியுறுத்திக் கூறியிருக்கிறார்கள்.
+
+அமைச்சர் அவர்கள் அறிவித்திருக்கிற இந்த அறிவிப்பிலே
+மிகுந்த திருப்தியை இந்த நாடு அடைந்துவிட்டதைப் போலும், மிகுந்த
+திருப்திகரமாகப் பல காரியங்களைச் செய்துவிட்டால் போலவும், ஒரு
+பாவனை ஏற்படுகின்ற காரணத்தினால் - செய்யப்பட வேண்டிய
+காரியங்கள் இன்னும் எவ்வளவு பாக்கி இருக்கின்றன என்பதை
+வலியுறுத்தி எதிர்த்தரப்பில் உள்ளவர்கள் இந்த மன்றத்திலே எடுத்துக்
+கூறி இருக்கிறார்கள்.
+
+பொதுவாகப் பாராட்டுதலை மட்டும் அமைச்சர் அவர்கள்
+விரும்புவார்கள் கதற! நான் கருதவில்லை. பாராட்டுகலோடு கூட,
+அவர்கள் செய்யத் தவறிய காரியங்கள் அல்லது செய்வதற்கு
+
+## Image 2: 002-7b55b71602.png
+
+- Image: `sorpozhivugal/velanmai190359/002-7b55b71602.png`
+
+இன்றையதினம் அவகாசம் இல்லையென்று விட்டுவிட்ட காரியங்கள்
+- இவைகளைப் பற்றி எல்லாம் கவனிப்பது அங்கத்தினர்கள் பொறுப்பு
+என்ற முறையில் காங்கிரஸ் தரப்பில் உள்ளவர்களும், செய்யப்பட
+வேண்டிய பல திட்டங்களைப் பற்றி இந்த மன்றத்திலே எடுத்துக்
+கூறியிருக்கிறார்கள். எனக்கு அதிலே ஏற்பட்ட ஆச்சரியத்தைத்
+தெரிவித்துக்கொள்ள விரும்புகிறேன். பல அங்கத்தினர்கள் கேட்ட
+அளவிலே பார்த்தால் - அவர்கள் சொன்ன திட்டங்கள் எல்லாம்
+நிறைவேற்றப்படுமானால் குறைந்தது 4 லட்சம் ஏக்கர் நிலங்கள்
+புதிதாகப் பாசன வசத பெறும் என்று தெரி௫றது. குறிப்பாக, சர்தார்
+வேதரத்தினம் அவர்கள் “மிகக் குறைந்த செலவில் 40,000 ஏக்கர்
+நிலத்தைச் சாகுபடிக்குக் கொண்டு வரலாம்?! என்று அறிவித்தார்கள்.
+மற்றொரு கனம் அங்கத்தினர் - நல்லசாமி என்று கருதுகிறேன் - 80,000
+ஏக்கர்வரை பாசனத்திற்குக் கொண்டுவரலாம் என்று தெரிவித்தார்கள்.
+இப்படி ஒவ்வொரு அங்கத்தினர்களும் கொடுத்தக் கணக்கைப்
+பார்த்தால் ஹக்குறைய 2 லட்சம் அல்லது 4-லட்சம் ஏக்கர் நிலங்கள்
+புதிதாகப் பாசன வசதி பெறச் செய்ய முடியும் என்பதை நம்மால்
+அறிந்துகொள்ள முடிகிறது. இந்த முறையில் அந்த அங்கத்தினர்கள்
+எடுத்துச் சொன்னதன் காரணம் அவர்கள் தங்கள் தங்கள் தொகுதியில்
+வைத்திருக்கும் அக்கறையின் விளைவு என்று மட்டும் அமர்
+அவர்கள் கருதுகிறார்கள் என்று தெரியவில்லை. இதே பிரச்னையைப்
+பற்றி இதற்கு முந்திய ஆண்டிலும் அந்தக் கனம் அங்கத்தினர்கள்
+எடுத்துக் கூறி இருக்கிறார்கள். அங்க கள் சொல்லுகிற இந்தத்
+திட்டங்களைப் பற்றிச் சர்க்கார் எல்லா டல் அகல
+வைத்திருக்றொர்கள் என்று தான் அறிய விரும்புகிறேன் அட்டகம்
+கள் தங்கள் தங்களுக்குத். தேவையான, அலலது, தோன்று னற
+திட்டங்களைப் பற்றிப் பேசுவார்கள்; அன ரந்ச் ப த் கர்ப்பத்
+கேட்டுக் கொண்டு இருப்பார்கள்; ஆனால் அவைகளைப்பற்றிப் பிறகு
+அக்கறை செலுத்தமாட்டார்கள் ன் என்றா. ணில் றி அதீத்த
+இட்டங்களைப்புற்றி பேசிக் கொண்டிருப்பது விண் கோர் அடு ன்று
+சொல்லும் திட்டங்கள் பயனற்றது என அமை டல்
+கருதுவார்களேயானால் தங்கள் கட்டிக் கூட்டத்தைக் கூட ட. ப்
+
+அங்கத்தனர்களுக்கெல்லாம் “இந்த மு தி சரித்: ண் ண துக் ப் வ
+சொல்ல வேண்டாம்!” என்று கூறி இருக்கலாம். இந்த மன்றத்திலும்
+
+“இந்தத் இட்டங்கள் எல்லாம் காரிய 'சாத்திய் மற்றது” என்று இட்ட
+
+## Image 3: 003-584fe49526.png
+
+- Image: `sorpozhivugal/velanmai190359/003-584fe49526.png`
+
+அறிவித்திருப்பது என்னவென்றால் “ஏக்கருக்கு 00 ரூபாய்க்கு மேல்
+அதிகமாகப் - பணத்தைச் செலவழிக்காமல் இருகைக டட
+நிலங்களுக்கு அபிவிருத்திக் கட்டணங்கள் கிடைக்க வேண்டும்:
+இதுதான் எங்கள் கொள்கை என்று ஓரிடத்தில் அறிவிக்கிறார்கள்.
+மற்றொரு-இடத்தில் “ஆனால்'' என்று ஆரம்பித்து “பின்னடைந்த
+பிரதேசங்களைப் பொறுத்த வரை நாங்கள் இந்தக் கொ ள்கையைக்
+கொஞ்சம் தளர்த்துவோம். அங்கெல்லாம் அதிகப்: பணம் செலவழித்து
+அவைகளை எல்லாம் வளமாக்கத் தட்டம் இட்டிருக்கிறோம்”' என்று
+சொல்லியிருக்கிறார்கள். அவர்களிடத்தில் இருக்கிற கொள்கையில்
+கொள்கைக் குழப்பம் ஒரு புறமிருக்க, அவைகளை நிறைவேற்றுகிற
+நேரத்தில் விருப்பு வெறுப்புக்கு ஆளாகிறார்களோ என்ற ஐயப்பாடு
+ஏற்படுகிறது. காங்கிரஸ் அங்கத்தினர்கள் சொல்லுவதைச்
+செய்வார்கள்; காங்கிரஸ். அல்லாத உறுப்பினர்கள் சொன்னால்
+செய்யக் கூடாது என்று அமைச்சர் அவர்கள் மனதில் எண்ணிக்
+கொண்டிருக்கிறார்களோ என்ற சந்தேகம் பலமாக ஏற்படுகிறது.
+ஆகவே, இந்த ஆண்டு 2 லட்சம் ஏக்கருக்கு மேற்பட்ட நிலங்களைத்,
+தரிசாக இருக்கிற நிலங்களை; அல்லது அதிக வளம் இல்லாத நிலங்களை
+எல்லாம் எடுத்து - இவைகளுக்கெல்லாம் புதிய பாசன வசதிகள்
+செய்யலாம் என்று அங்கத்தினர்கள் சொன்ன யோசனையைப்பற்றி
+அமைச்சரவை திட்டவட்டமாகத் தங்கள் கொள்கையை எடுத்துச்
+
+சொல்ல வேண்டுமென்று பெரிதும் விரும்புகிறேன்.
+
+மற்றும் ஒன்று, பொதுவாக நீர்ப்பாசன விஷயத்தில் நம்முடைய
+மாநிலத்தில் பெரிய ஆறுகள் இல்லையென்ற காரணத்தால் முதல்
+இரண்டு ஐந்தாண்டுத் திட்டங்களில் செய்ய வேண்டிய அளவு செய்ய
+வசதி இல்லை என்று எடுத்துப் பேசிவந்ததன் விளைவு - இன்றைக்கு
+மத்திய சர்க்காரை அணுகும் நேரத்தில் “நீங்களே திருப்தி
+தெரிவித்திருக்கிறீர்களே; நீங்களே இன்னின்ன திட்டங்களை நிறை
+வேற்றிவிட்டோம் என்று பூரண பலன் பெற்றுவிட்டது” என்று மத்திய
+சாக்கார் இவர்களுக்குப் பதில் அளிப்பார்களோ என்று நான்
+
+அஞ்சுகிறேன்.
+
+வெளியிலே இருக்கும் வேறு பல மாநிலங்களில் ஆறு இருந்து
+அணைக்கட்டிப் பாசனத்திற்கு வசதி செய்து கொடுக்கிறார்கள். இங்கு
+ஏன் செய்யவில்லை என்று கேட்கும்போது, அப்படிப்பட்ட பெரிய
+அறுகள் இல்லை என்று இங்கே பதிலளிக்கப்பட்டது. பெரிய ஆறுகள்
+
+## Image 4: 004-390553a8af.png
+
+- Image: `sorpozhivugal/velanmai190359/004-390553a8af.png`
+
+நம்முடைய மாநிலங்களிலே இல்லை. என்பதையே வலுவற்ற
+துனமைக்குக காரணம் ஆக்கிக் கொள்ளாமல் பெரிய ஆறு இல்லாத
+மாநிலத்தில் சிறுநீர்ப்பாசன. திட்டத்துக்கு அதிகமான தொகையை
+நாளாக நாளாக ஒதுக்கியிருக்க வேண்டும். ஆனால் இந்த ஆண்டு
+அவர்கள் ஒதுக்கி இருப்பதாகக் குறிப்பிட்டுக் காட்டுவது 84 லட்சம்
+ரூபாய்தான். ஏறக்குறைய இரண்டு வாரங்களுக்கு முன்னால் என்று
+நினைக்கிறேன் - செங்கல்பட்டு, வட ஆற்காடு மாவட்டங்களைச்
+சேர்ந்த விவசாய சங்கத்தார், இந்த சட்ட மன்றத்தில் இருக்கும் பல
+எம்.எல்.எ.க்களும், எம்.எல்.ஹி.க்களும் அதில் அங்கம். வ௫ிக்
+கின்றார்கள் என்று நினைக்கிறோம் - அவர்கள் தீர்மானம் நிறைவேற்றி
+இருக்கிறார்கள். சிறு நீர்ப்பாசனத்திற்காக ஒதுக்கப்பட்டிருக்கும்
+தொகை மிகக் குறைவு, குறைந்தது இரண்டு கோடி ரூபாயாவது
+ஒதுக்கியிருக்க வேண்டுமென்று கனம் ராமச்சந்திர ரெட்டியார் என்று
+கருதுகிறேன்; அந்தக் கூட்டத்திலே எடுத்து வலியுறுத்தியிருக்கிறார்.
+இவைகளை நான் சொல்வதற்குக் காரணம் குற்றம் குறை சொல்லும்
+நேரத்தில், காங்கிரஸ். எதிர்ப்பாளர்கள் சொல்லுகிறார்கள் என்று
+ஒதுக்இத் தள்ளுவதற்கு இல்லை. காங்கிரஸ் உறுப்பினர்களும் எடுத்துச்
+சொல்லுகிறார்கள் என்ற காரணத்தினால், அமைச்சரவை அதைப்
+புறக்கணிக்காமல் உடனடியாகக் கவனிக்க வேண்டுமென்று கேட்டுக்
+கொள்கிறேன்.
+
+இந்த மன்றத்தில் ஒரு தடவை சொல்லப்பட்டது. “அங்கே
+வாய்க்கால்களில் ஓடும் நீரை -
+
+பெய்யும் மழை நீறை, ஆறுகள், ட் ்
+கடலிலே கலப்பதற்கு: முன்னால் சொட்டுக்கூட. அதிகமாகக்
+கலக்காமல் பார்க்கிறோம். நீரை விரையம் ஆக்கவி ட நட்ட
+த இைகாரலைளினர் எடுத்துச் சொல்லுறார்கள். ஆனால்,
+இன்றையதினம் பேசியதைக் கவனித்தால், று கடந்த ளட
+தங்கள் பகுதியில் தாங்கள் காணும் காட்டாறு; த பதா
+மலையருவி, தாங்கள் காணும் னள ர ம் ல்
+சேதப்படுவதாகவும், நெல்லுக்கு பயன்படு ல்லை என்று
+ஒவ்வொரு அங்கத்தினரும் எடுத்துச் கொன்ன த் கலப் 0
+... முத்தையா செட்டியார் அவர்கள் ஒரு பெரிய எக அடக்கிக்
+. சொன்னார்கள். சர்தார்... வேதரத்தினம், உல நபம
+. செலவழித்தால் நாற்பதாயிரம் அடம் அரசன் எட
+3) $இற்குக் கொண்டுவரக் ௯. ச ப் ல பதிய,
+
+## Image 5: 005-33296a5f95.png
+
+- Image: `sorpozhivugal/velanmai190359/005-33296a5f95.png`
+
+. அமைச்சரும் - வேறு காரணத்திற்குக் என்று சுருதுகிறேன் - சிரித்துக்
+கொண்டி ருந்தார்கள். சிரிப்புக்கு இடமான திட்டமாக இருந்தால்
+வெளிப்படையாகச் சொல்லிவிடுவதே நல்லது. வைய் அண்ட்
+உறுப்பினர்கள் இவைகளைப்பற்றி இங்கே பேசுவதற்கு பட்டை ல்,
+குங்கள் தங்கள் தொகுதி மக்களிடத்தில் இல்வை ன்னால் பற்றி
+பே௫யிருக்கிறார்கள். அந்தந்தத் தொகுதி மக்கள் அநதநதத தொகுதி
+யிலுள்ள உறுப்பினர்களிடத்திலே இவைகளைப் பற்றி முறையிட்டிருக்
+கிறார்கள். இங்கு வந்திருக்கும் காங்கரஸ் உறுப்பினர்களும், எதிர்த்
+தரப்பில் இருக்கும் உறுப்பினர்களோடும் எவ்வளவு சாமர்த்தியமாக
+வாதாடிக்கொண்டிருக்கிறார்கள் என்பதை பரீட்சை பார்ப்பதற்காக
+மட்டும் நாம் இங்கு வந்திருப்பதாகத் தெரியவில்லை. இந்தப்
+பருவத்தை நம்மில் பல பேர்கடந்திருக்கறோம் என்று நினைக்கிறேன்.
+தங்கள் தங்கள் தொகுதி மக்கள் சொல்லும் குறைபா டுகளைச் சட்ட
+மன்றத்தில் எடுத்துச் சொல்லி அதற்குப் பரிகாரம் தேட வந்திருக்
+இறார்கள். இந்தப் பரிகாரங்களைகத் தேடிக்கொள்வதற்காக
+திட்டங்களைச் சொல்லும்போது, அமைச்சர் அவர்கள் திட்டவட்ட
+மாக அந்தத் திட்டங்கள். நடைமுறைக்குக் கொண்டுவரக் கூடியனவா
+என்று தயவுசெய்து இந்த மன்றத்தில் எடுத்துச் சொல்ல
+வேண்டுமென்று விரும்புகிறேன்.
+
+அப்படிப்பட்ட பிரச்னைகளில் ஒன்று பாலாற்றுப் பிரச்னை.
+பாலாற்றுப் பிரச்னை என் வரையிலேதான் இருக்கிறது, எங்கள்
+மாவட்டத்திலேதான் இருக்கிறது என்று நான் கருதினேன். செட்டி
+நாட்டுப் பகுதியில் இன்னொரு பாலாறு இருக்கிறது என்று
+நம்முடைய ராஜா சர் முத்தையா செட்டியார் பேசியதிலிருந்து நான்
+அறிகிறேன். எங்கள் பாலாற்றை போலவே அந்தப் பாலாறும்
+சாதாரண மணலாக இருக்கிறதே என்று நான் மிகவும் வருந்துகிறேன்.
+பெரியவர்கள் அதற்கு எதற்காகத்தான் பாலாறு என்று பெயர்
+வைத்தார்களோ என்று ஐயப்பட வேண்டியிருக்கிறது. ஆனால்,
+அப்பொழுதிருந்த மக்கள் அந்த ஆற்றிலே வளத்தைக் கண்டதாலே,
+அதற்குப் பாலாறு என்று பெயர் வைத்திருக்கக் கூடும். அந்தப்
+பாலாற்றுத் திட்டத்தைப் பற்றி பல அமைச்சர்கள் எங்கள்
+தொகுதயிலே வந்து பேசும் போதுகூட, குறிப்பிட்டி ருக்கிறார்கள்.
+அண்ணாதுரை இங்கே வெற்றி பெற்று வந்துவிட்டான், பாலாற்றிற்கு
+தண்ணீர் கொண்டு வரமுடிந்ததா? என்று கேட்டிறார்கள். இப்படி
+கேட்பது என்னை குறைபடுத்தியதாகக் கருதுகிறேன். நான் இங்கே
+
+## Image 6: 006-af956a2c36.png
+
+- Image: `sorpozhivugal/velanmai190359/006-af956a2c36.png`
+
+வருவது விஷயங்களை முறையிடுவதற்கே தவிர காரியங்களை
+சாதிக்கும் ஆற்றல், காரியங்களை சாதிக்கும் வசதி, அதற்கான உரிமை
+அமைச்சரிடத்தில் இருக்கிறது. ஆகையினால் பாலாறு இட்டத்தைப்
+பற்றி உடனடியாக திட்டவட்டமாக அமைச்சரவை நாட்டுக்கும்,
+எங்களுக்கும் அறிவிக்க வேண்டும். இந்த விஷயத்திலே உங்களுக்கு
+அக்கறை இருக்கிறதா, இது வெற்றி பெறும் என திட்டவட்டமாக
+நம்புகிறீர்களா அல்லது வீணுக்கு இதைப் பற்றிப் பேசுவதற்கு அனுமதி
+அளிக்கிறீர்களா என்று நிச்சயமாகத் தெரிந்தாக வேண்டும்.
+ஏனென்றால், இந்தப் பாலாற்றுப் பிரச்னையைப் பார்த்தால் கனம்
+கரிய கவுண்டர் சொன்னபடி இன்று நேற்று அல்ல, பல ஆண்டு
+காலமாக, நாலைந்து ஆண்டுகளாக, சட்ட மன்றத்தில் பேசப்பட்டு
+வந்திருக்கிறது. பாலாற்றைப் பற்றி வட அற்காடு, செங்கல்பட்டு
+மாவட்டத்திலிருந்து வந்திருக்கும் உறுப்.பினர்களுக்கும் வாக்கு
+அளித்துவிட்டு வந்திருக்கிறார்கள். போகும் ஒவ்வொரு ஊரிலும்
+கேட்கிறார்கள். விவாதத்தில் உள்ள பிரச்னையாக பல ஆண்டு
+காலமாக இருக்கிறது. சென்ற வருஷத்தில் என்று நான் நினைக்கிறேன்
+- நம்முடைய அமைச்சர் அவர்கள் டில்லிக்குச் சென்றிருந்த காலத்தில்
+அங்கே இருக்கும்துணை அமைச்சருடைய துலைமையில் நடை பெற்ற
+கமிட்டிக் கூட்டத்தில், பாலாற்றுப் பிரச்னையை பற்றி ஒரு தடவை
+விவாதத்திற்கு எடுத்துக்கொண்டார்கள். ஹாண்டுக்குப் பிறகு
+நடத்தப்படும் இந்த விவாதத்தில் அது பற்றிய ஒரு குறிப்பும்
+காணப்படவில்லை. அமைச்சர் பேச்சிலே, அந்த விவாதம் எந்த
+அளவிலே இருக்கிறது, எந்த அளவுக்கு நாங்கள் அக்கறையோடு
+இருக்கிறோம், ஏந்த அளவுக்கு, வெற்றி பெறமுடியும் என்று
+அறிவித்திருப்பாரானால், வட ஆற்காடு, செங்கல்பட்டு ஆகிய
+இரண்டு மாவட்ட மக்களுடைய மனதிற்கும் குளிர25) ப்ட்:
+இதை விட்டுவிட்டு,பாலாற்றைப், பற்றி, அவர்கள் பென்
+நடக்குமா என்று கூறினால் அரப்பு மிகா கல, போதும ிலே
+இருந்து தவறிவிடுகிறார்கள் என்று, நாட் எக லக்கன
+| விரும்புகிறேன். பாலாற்றுக்குத். தண்ணீர் இடடககட்ரடு ப தட
+.. கூறவில்லை. மைசூர் ராஜ்யத்திற்கும் சென்னை ராஜயத்திறகும்
+.. இடையில் எற்பட்ட ஓப்பந்தத்தில் ஏதோ கோளாறு இருப்பதாக
+் எடுத்துச் சொல்லப்பட்டது. சர்க்காருடைய்த வரது ட சக,
+
+பரி௮க்கற வாய்ப்பு எனக்கு இல்லை என்று அமைச்சருக்கு நன்றாகக்
+. தெரியும். ஆகையால் அதிலே இருக்கும் விவ்
+
+(்
+க
+
+## Image 7: 007-d5fdb65ad3.png
+
+- Image: `sorpozhivugal/velanmai190359/007-d5fdb65ad3.png`
+
+உண்மைக்கு. மாறானவைகளைப் பற்றியோ பட்டு ப அத எதுவும்
+திட்டவட்டமாகச் சொல்வதற்கில்லை. ஆனால் இன்று சால்லிக்
+ஈரோடு சென்னை மாநிலச்
+
+கொள்வேன் - மைசூர் ராஜ்ய சர்க்கா £ஈடு 5௦
+சர்க்கார் ஒன்றாக கலந்து பேசி பாலாறறுஈகுத் ட்டது அறுக்கும்
+வருவதற்கு இதுவரை என்ன முயற்சிகள் எடுத்து* இதம் ட் டல்
+முதலில் அந்தப் பிரச்சினை இருக்கிறதென்று ஒத்துக் னள
+வேண்டும், இரண்டாவது, கவனிக்கப்பட மவ்த் பிரச்சினையா
+என்பதைத் திட்டவட்டமாக அறிவிக்க வேண்டும், (லன்ன து அததப்
+பிரச்சினைக்காக மைசூர் ராஜ்யத்தோடு கலந்து பேசி மைசூரா
+ராஜ்யத்துக்கும், சென்னை ராஜ்யத்துக்கும் கருத்து வேறுபா டு
+இருக்குமானால் மத்திய சர்க்காருடைய துணையை 2௮ வேண் ட்ட.
+இப்பொழுது மத்திய சர்க்காரிலே உள்ளவர்கள் ண வக கதை
+“உங்களால் தீர்த்துக்கொள்ள முடியவில்லை என்றால எ்கனை
+அழையுங்கள், நாங்கள் தீர்த்து வைப்போம்” என்று
+கேட்டிருக்கிறார்கள். அது கேட்டு ஒராண்டு காலம் ஆகிறது. ஒரு கனம்
+அங்கத்தினர் சொன்னார், ஆமை வேகத்தில் போகிறார்கள் என்று.
+நான் சொல்கிறேன் இவர்கள் ஆமை வேகத்திலும், நத்தை வேகத்திலும்
+போகவில்லை. அமைச்சர் வேகத்தில் போய்க் கொண்டிருக்கிறார்கள்
+என்று! அந்த வேகத்தைப் பற்றிக் கொஞ்சம் இந்த இரண்டு
+மாவட்டங்களும் உங்களால் பலம் பெற வேண்டும், அந்த விதத்தில்
+காரியத்தைச் சாதிக்க வேண்டுமென்று பணிவுடன் கேட்டுக்
+கொள்கிறேன்.
+
+அதைப் போலவே பாலாற்றுப் பிரச்சினையை சரியான
+முறையில் தீர்க்க வேண்டுமானால் இந்த பிரச்சினை பற்றிமட்டும்
+கவனிப்பதற்கு என்று தனி துணைக் குழு அமைக்கப்பட வேண்டும்.
+அதற்கு தனி அதிகாரி, ஸ்பெஷல் ஆபீசர் நியமிக்கப்பட. வேண்டும்.
+அந்தத் துணைக் குழு நிரந்தரமாக வேலை செய்துகொண்டு இந்தப்
+பிரச்சினை தீருகிற வரையில் அவர்கள் வேலை செய்ய வேண்டும்.
+அவர்களுக்குத் துணையாக ஸ்பெஷல் ஆபீசர் இருந்து இந்தக்
+காரியங்களைக் கவனிக்க வேண்டுமென்று அமைச்சர்களுக்கு இருக்கும்
+ஆயிரத்தெட்டு கவலையோடு இதையும் ஒன்றாக வைத்துக்
+கொண்டால் இந்தக் காரியம் சுலபத்திலே வெற்றி பெறும். அமைச்சர்
+அவர்கள் இந்தக் காரியத்தை மிகவும் முன்னிலையில் வைத்து
+அவசரமாக நிறைவேற்ற வேண்டிய காரியமாக கவனிக்க
+வேண்டுமென்று நான் பணிவன்புடன் கேட்டுக்கொள்கிறேன்.
+
+## Image 8: 008-918c6478d8.png
+
+- Image: `sorpozhivugal/velanmai190359/008-918c6478d8.png`
+
+் இவைகள் எல்லாவற்றையும் விட நம் மாநிலத்தின்
+பிரம்மாண்டமான - இட்டம் என்று கருதக்கூடிய இருஷ்ணா,
+பகாதாவரி துண்ணீரை நம்முடைய மாநிலத்திற்கு பயன்படுத்துவதற்
+கான திட்டத்தை நாம் உடனடியாக எடுத்துக்கொள்ள வேண்டும்,
+முடியாதென்றால் அடுத்த ஐந்தாண்டு திட்டத்திலாவது எடுத்துக்
+கொள்ளக்கூடாதா என்று கேட்சின்ற முறையில் ராஜா சர் முத்தையா
+செட்டியார் அவர்கள் சொன்னார்கள். இரு: கரிய கவுண்டர்
+அவர்களும் சொன்னார்கள். : இரண்டாவது: திட்டத்தில்
+இல்லையென்றால் எப்படியாவது மூன்றாவது இட்டத்தில் சேர்த்துக்
+கொள்ளுங்கள், மூன்றாவது திட்டத்தில் இல்லையென்றால்
+நான்காவது இட்டத்தில் எப்படியாவது சேர்த்துக்கொள்ளுங்கள் என்று
+கேட்டார்கள். இந்த ராஜ்யத்தினுடைய நலனைத் தங்களுடைய
+மனதில் வைத்துக்கொண்டிருக்கும் சர்க்காராக இருந்திருப்பாரானால்,
+மூதல் ஐந்தாண்டு திட்டத்திலேயே கிருஷ்ணா, கோதாவரி
+இட்டத்தைப் பற்றி பரிலைனைக்கு எடுத்துக் கொண்டு, இரண்டாவது
+ஐந்தாண்டு திட்டத்தில் அதற்கென நிதி ஒதுக்கி, மூன்றாவது
+ஐந்தாண்டு திட்டத்தில் அதை நிறைவேற்றிக் காட்டியிருப்பார்கள்.
+ஆனால் இந்தக் திட்டத்தை நிறைவேற்ற குவறிவிட்ட குறைபாட்டை
+நீக்கிக் கொள்வதற்காகவாவது அவர் திட்டவட்டமாக கிருஷ்ணா,
+கோதாவரித் தண்ணீரை நமது மாநிலத்திற்குக் இதா கடுவ்று தெ
+இட்டத்தை மூன்றாவது ஐந்தாண்டு திட்டத்தில் நிச்சயமாக சேர்த்துக்
+கொள்வதற்குப் பாடுபடுவோம் என்ற "விவாதத்திற்குப் பல்
+அளிக்கும் இந்தத் தருணத்தில் எடுத்துச்சொல்ல வேண்டுமென்று நான்
+விரும்புறேன். அத்தகைய ஒரு கொள்கை விளக்கமாவது இந்த
+மன்றத்தில் அமைச்சரவர்களால் சொல்லப்பட வேண்டும்.
+
+இதைப் போலவே கோமுக நீதித் திட்டம், குடவனாறுதீ
+திட்டங்களைப் பற்றிச் சொல்லியிருக்கிறார்கள். வட ஆற்காடு
+மாவட்டத்தில் செய்யாறு திட்டத்தைப் பற்றி அனவ கடத்தில் பல
+தடவைகள் சொல்லியிருக்கிறார்கள். அவர் கூட அந்தப் பக்கத்தில்
+. போய் அதைப் பார்த்துவிட்டு வந்திருக்கிறார்கள்.. வேசுவதி
+" இட்டத்தைப் பற்றி புத்தாண்டு காலமாக சொல்லி ன அது
+எடுத்துக்கொள்ளப்படவில்லை, (சென்ற வருஷத்தில் சொன்னேன்;
+. பெயரைக் கேட்டாலே நம்முடைய அமைச்சருக்கு இன்பம் காணக்
+கூடிய நந்தன் கால்வாய் திட்டத்தைப் ட இந்த. ர.
+5 'ஸ்வாயைப் பார்த்துவிட்டு வாருங்கள் என்று சொன்னேன். பல
+
+## Image 9: 009-4d6d9671c7.png
+
+- Image: `sorpozhivugal/velanmai190359/009-4d6d9671c7.png`
+
+இடத்திற்குப் போகிறார், சில இடங்களைப் பார்க்கிறார், சில
+இடங்களை மறந்து விடுகிறார் என்று நான குதறம சாட்ட
+". உயர்திரு. பி. கண்ணன் : மறந்து
+
+இரு. சி. என். அண்ணாதுரை : அதற்க பலத் ஸ்ட
+அவர் பார்க்கார்.. சல. இடங்களை கவனத்தில் வைத்துக்
+கொண்டிருக்கிறார். கடை சியில் எல்லாவுற்றையும் மறத்து விடுகிறார்
+என்று சொன்னேன். ஆகையால், எதையும் மறககாமல உடனடியாக
+இந்தத் இட்டங்களை நிறைவேற்றுவதற்கு அவர்கள் வழிவகை செய்ய
+வேண்டுமென்று கேட்டுக்கொண்டு, இதை நான் கழகத்தின் சார்பில்
+கட்சிச் சார்பிலே. அல்ல, இந்த ம ல மக்களின் சார்பிலே கேட்டுக்
+கொள்கிறேன். அமைச்சர் அவர்கள் குறிப்பில் 11-வது பாராவில் இந்த
+மாநில. மக்கள் இந்தச் சர்க்காருக்கு நீர்ப்பாசனத் துறை. விஷயத்தில்
+எவ்வளவு ஓத்துழைப்பு அளித்திருக்கிறார்கள் என்று அமைச்சர்
+அவர்கள் பாராட்டி இருக்கிறார்கள். மக்களுக்கு நன்றி தெரிவிக்கும்
+முறையில், அவர்களை வாழ வைக்கும் முறையில் வறண்டு கிடக்கும்
+பகுதிகளுக்கு வரம் அளிக்கும் முறையில் இந்தத் திட்டங்களை
+நிறைவேற்றுகிற காரியத்தில் கொஞ்சம் சுறுசுறுப்பாக எதிர்க் கட்சிக்
+காரர்கள் சொல்கிறார்கள் என்று கவலைப்படாமல், மத்திய
+சர்க்காரோடு.. வாதாடி, இந்தக். காரியங்களை நடத்தித் தீர
+வேண்டுமென்று பணிவுடன் கேட்டுக்கொள்கிறேன்.
+
+விடவில்லை. கவனிக்கிறோம்.
+
+ரகத்தான் சில இடங்களை
+
+ஆகையால், மக்களுக்கு நன்றி தெரிவிக்கும் முறையில்,
+அவர்களை வாழ வைக்கும் முறையில், வறண்டு கிடக்கும்
+இடங்களுக்கு வளம் அளிக்கும் முறையில் இந்தத் திட்டங்களை
+நிறைவேற்ற கொஞ்சம் சுறுசுறுப்போடு செயலாற்ற வேண்டுமென்றும்,
+எதிர்க்கட்சிகள் இவைகளைக் குறிப்பிடுகிறார்களே என்று கவலைப்
+படாமல் மத்திய சர்க்காரிடம் வாதாடி. இந்தத் திட்டங்களை
+நிறைவேற்றித் தர வேண்டுமென்றும் மதிப்பிற்குரிய அமைச்சரவர்
+களை பணிவன்போடு கேட்டுக்கொள்கிறேன்.
+
+## English Translation
+
+Speech 88, delivered on 19 February 1959.
+
+**C. N. Annadurai:** Mr Speaker, honourable members who supported the Government's announcement that it allocates substantial funds every year for irrigation schemes in this State, as well as Opposition members who spoke on cut motions seeking an equally substantial or larger allocation, have pointed out many schemes that this Government has failed to implement.
+
+Although Congress members began their speeches by saying, “What this Government has accomplished so far deserves praise,” they also strongly emphasised that much more remains to be done.
+
+The Minister's announcement creates the impression that the country has become highly satisfied and that many tasks have been completed in a thoroughly satisfactory manner. Opposition members therefore stressed in this House how much work remains unfinished.
+
+I do not believe the Minister desires praise alone. Congress members too have spoken in this House about many projects still to be undertaken, treating it as the responsibility of members to draw attention not only to achievements but also to work the Government failed to do or set aside for lack of time. I wish to express my surprise at this.
+
+Judging from what the many members requested, if all the schemes they mentioned were implemented, at least four lakh acres of land would newly receive irrigation. In particular, Sardar Vedarathinam stated that forty thousand acres could be brought under cultivation at very little cost. Another honourable member—I believe Nallasami—said that as many as eighty thousand acres could be irrigated.
+
+Adding the figures supplied by the respective members, we can see that roughly two to four lakh acres could receive new irrigation facilities. I do not know whether the Minister regards these members' statements merely as the product of their concern for their own constituencies. Those honourable members raised the same issue in the previous year too.
+
+I wish to know what consideration the Government has given to the schemes they describe. [Several lines in the source are heavily damaged.] If the Government regards the proposed schemes as impracticable or useless, it could have told members of its own legislative party not to present them and could have declared in this House that the schemes were not feasible.
+
+The Government announces in one place that its policy is to secure development benefits for land without spending more than a stated amount per acre; the amount itself is damaged in OCR. Elsewhere it begins with “but” and says, “For backward regions, we shall relax this policy somewhat. We have planned to spend more money there and make them prosperous.”
+
+Apart from the confusion within this policy, doubt arises whether preference and prejudice enter into its implementation. A strong suspicion arises that the Minister has decided to act upon what Congress members say but not upon proposals from non-Congress members.
+
+I therefore strongly desire the Cabinet to state its policy categorically concerning members' proposal that this year more than two lakh acres of fallow or less fertile land be taken up and provided with new irrigation facilities.
+
+There is one further matter. It has generally been argued that because our State has no great rivers, the first two Five-Year Plans could not undertake irrigation work on the required scale. I fear that when the State now approaches the Central Government, the Centre may reply, “You yourselves expressed satisfaction and said you had completed these schemes and obtained their full benefit.”
+
+When we ask why other States build dams upon rivers and provide irrigation while it has not been done here, the answer given is that we possess no comparable great rivers. The absence of large rivers should not be used as a reason for weakness. A State without large rivers ought progressively to have allocated more money for minor irrigation. Yet the amount shown as allocated this year is only eighty-four lakh rupees.
+
+About two weeks ago, I believe, the agricultural associations of Chengalpattu and North Arcot districts passed a resolution. I understand that several MLAs and MLCs in this Legislature are members of those associations. At that meeting, the honourable Ramachandra Reddiar, as I recall, emphasised that the amount allocated for minor irrigation was far too small and that at least two crore rupees should have been provided.
+
+I cite these statements so that criticism cannot be dismissed as merely the words of Congress opponents. Since Congress members themselves have raised them, I ask the Cabinet not to disregard them but to give them immediate attention.
+
+It was once said in this House that the authorities ensure that not even an additional drop of rainwater flowing through canals and rivers reaches the sea, and that they do not allow water to be wasted. Yet if we attend to today's speeches, member after member has said that the forest streams, hill cascades and other watercourses seen in their regions are being lost and are not benefiting the paddy fields. [Parts of this paragraph are illegible in OCR.]
+
+Mr Muthiah Chettiar mentioned a large scheme. Sardar Vedarathinam stated that forty thousand acres could be brought under cultivation with modest expenditure. The Minister laughed, perhaps for some other reason. If the scheme deserves laughter, it would be better to say so openly.
+
+Members who speak of these matters here have spoken about them among the people in their constituencies. Those constituents have represented these needs to their members. We have not come here merely to test how cleverly Congress and Opposition members can argue with one another. I think many of us have passed that stage. Members have come to present their constituents' grievances in the Legislature and seek remedies. When they propose schemes for those remedies, I request the Minister to state categorically whether those schemes can be put into practice.
+
+One such matter is the Palar question. I had thought the Palar extended only as far as my area and lay only in our district. From Raja Sir Muthiah Chettiar's speech, I learn that another Palar exists in the Chettinad region. I am deeply sorry that, like our Palar, that Palar too is merely sand. One must wonder why our elders named it “Palar”—the river of milk. Perhaps people then saw prosperity in the river and gave it that name.
+
+Many ministers, when speaking in our constituency, have referred to the Palar scheme. They ask, “Annadurai has won and gone to the Legislature; has he managed to bring water to the Palar?” I consider this an attempt to belittle me. I come here to present matters and make representations. The power, means and authority to accomplish them belong to the Minister.
+
+The Cabinet must therefore immediately and categorically inform the country and us about the Palar scheme. We need to know with certainty whether you care about it and firmly believe it can succeed, or whether you merely permit us to speak about it in vain.
+
+As the honourable Kari Gounder said, the Palar question is not a matter of today or yesterday. It has been discussed in the Legislature for four or five years. Members from North Arcot and Chengalpattu districts have also given promises concerning it. People ask about it in every village they visit. It has remained under debate for years.
+
+Last year, I believe, while our Minister was in Delhi, the Palar question was taken up once at a committee meeting chaired by the Deputy Minister there. Yet in the present debate a year later, there is no mention of it. If the Minister had explained in his speech the stage the talks had reached, the extent of the Government's concern and the prospects of success, it would have cooled the minds of the people of North Arcot and Chengalpattu.
+
+[Several lines concerning the Palar negotiations are heavily damaged in OCR.]
+
+It was said that some defect existed in an agreement between Mysore State and Madras State. The Minister knows well that I have no opportunity to inspect the Government's records. I therefore cannot state categorically which details are disputed or contrary to fact.
+
+But I ask today: what efforts have so far been made by the Mysore and Madras State Governments, acting together, to bring water to the Palar? First, the Government must acknowledge that the issue exists. Second, it must declare categorically whether it is a question deserving attention. Third, if discussions with Mysore reveal a difference of opinion between the two States, the assistance of the Central Government must be sought.
+
+Those now in the Central Government said, “If you cannot resolve it yourselves, call us and we shall settle it.” A year has passed since that invitation. One honourable member said the Government moved at the pace of a tortoise. I say they move neither at a tortoise's pace nor a snail's pace: they move at a minister's pace. I humbly ask that both districts be strengthened through action on this matter and that the Government bring it to fruition.
+
+To resolve the Palar question properly, a separate subcommittee should be established solely to attend to it. A separate special officer should be appointed. The subcommittee must work continuously until the issue is resolved, assisted by the special officer in attending to these matters. If it is left as merely one among the Minister's innumerable concerns, it will not readily succeed. I respectfully ask the Minister to give it priority and treat it as urgent work.
+
+Greater than all these is the plan that may be considered the grand scheme for our State: bringing Krishna and Godavari water for use here. Raja Sir Muthiah Chettiar and Mr Kari Gounder asked whether it could be undertaken immediately or at least in the next Five-Year Plan. They asked that if it was absent from the Second Plan, it somehow be included in the Third; and if absent from the Third, somehow included in the Fourth.
+
+Had this been a Government that kept the welfare of the State in its heart, it would have considered the Krishna–Godavari scheme in the First Five-Year Plan, allocated funds in the Second and completed it in the Third.
+
+At least to remedy its failure to carry out the project, the Government should categorically state during this debate that it will strive to include in the Third Five-Year Plan a scheme to bring Krishna and Godavari water to our State. The Minister must provide at least such a policy declaration in this House.
+
+Members have similarly spoken about the Gomukhi river scheme and the Kudavanar scheme. In North Arcot district, they have repeatedly mentioned the Cheyyar scheme. The Minister too has visited that region and inspected it. Another scheme whose name is damaged in OCR has been spoken of for many years but has not been taken up.
+
+Last year I mentioned the Nandan Canal scheme—a name whose very sound should delight our Minister—and asked him to inspect the canal and return. He travels to many places, sees some and forgets others. I am not making an accusation.
+
+**Hon. P. Kannan:** We have not forgotten. We are attending to it.
+
+**C. N. Annadurai:** There is much for him to see. He keeps some places in mind, but in the end forgets everything. I therefore ask the Government to make provision to implement these schemes immediately without forgetting any of them.
+
+I make this request on behalf of the Kazhagam—not merely on behalf of a party, but on behalf of the people of this State. In paragraph eleven of the Minister's statement, he praised the extent of the cooperation the people of this State have given the Government in irrigation matters.
+
+As a way of thanking the people, enabling them to live and granting prosperity to parched regions, the Government must act with greater energy to carry out these schemes. It must not worry that they have been proposed by Opposition members; it must argue with the Central Government and see that this work is completed. I respectfully make this request to the honourable Minister.
+
+## Translator's Notes
+
+The heading is heavily damaged but identifies an agricultural-plan appropriation bill, Speech 88, dated 19 February 1959. The English title follows the subject of the debate while the Tamil OCR remains verbatim in the source block.
+
+Several portions of images 2, 4, 6, 7, 8 and 9 have severe OCR loss or reordered columns. The translation recovers only wording established by continuous context and explicitly marks passages that cannot responsibly be reconstructed.
+
+“பாலாறு” literally permits Anna's wordplay as “milk river”; the speech contrasts that prosperous name with the river's contemporary bed of sand.
+
+The source appears to mention the Gomukhi river, Kudavanar, Cheyyar and Nandan Canal schemes. One additional scheme name is too damaged to identify safely and is not silently supplied.

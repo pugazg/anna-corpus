@@ -1,0 +1,1 @@
+../../md_pages/Kurunavalgal/kabothipurakkathal.md

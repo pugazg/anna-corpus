@@ -1,0 +1,1 @@
+../../md_pages/sorpozhivugal/makkal_mandiyittathu.md

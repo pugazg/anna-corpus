@@ -1,0 +1,1 @@
+../../md_pages/kavithaigal/enathu_karuthoattam.md

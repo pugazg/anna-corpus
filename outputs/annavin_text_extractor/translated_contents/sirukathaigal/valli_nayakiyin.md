@@ -1,0 +1,266 @@
+# வள்ளிநாயகியின் கோபம் / Valli Nayaki's Anger
+
+**Tamil title:** வள்ளிநாயகியின் கோபம்  
+**English title:** Valli Nayaki's Anger  
+**Source file:** `sirukathaigal/valli_nayakiyin.md`
+
+## Source Tamil (verbatim)
+
+- Source image folder: `/Users/pugazhendhirajendran/Documents/Codex/2026-07-09/https-www-annavinpadaippugal-info/outputs/annavin_text_extractor/ocr_images/sirukathaigal/valli_nayakiyin`
+- OCR language: `tam`
+- Tesseract page segmentation mode: `6`
+- OCR cleanup: `enabled`
+
+## Image 1: 001-0db5a52d06.png
+
+- Image: `sirukathaigal/valli_nayakiyin/001-0db5a52d06.png`
+
+ஓ ஓ ஓ
+வள்ளிநாயகியின் கோபம்
+வள்ளி! இப்படி அடிக்கடி கோபித்துக்கொண்டால்
+
+என்னதான் செய்வது? நான், உன் மனம் கோணும்படி' நடந்து
+கொண்டதுண்டா? ஏன், முகவாட்டம்? எவ்வளவோ
+தொல்லைகளை நான் பட்ட வண்ணம் இருக்க நேரிடுகிறது.
+திருப்புகழ் பாடிப்பாடி அழைப்பவரை நாடிச் சென்று, அவர்கள்
+நாவில் உறையும் வார்த்தைகளுக்கும் நெஞ்சிலுள்ள எண்ணங்
+களுக்கும் பொறுத்தமிருக்கிறதா என்று கண்டறிய வேண்டி
+பாடுபட நேரரிடுசிறது. இனிய குரலிலே பாடுகிறார்கள்!
+என்னப்பனே! முருகா! என்று. உருகும்போது. ஒரு விநாடி நானே
+மயங்கி விடுகிறேன். கூர்ந்து பார்க்கும்போதுதான், அந்த
+உருக்கமான குரல் எனக்கல்ல. பொன்னுருக்கு மேனியாளாகிய
+ஒரு பாவைக்கு என்பது புரிகிறது! இப்படி பரீட்சை பல நடத்தி
+வரவேண்டி இருக்கிறது. அலுவலை முடித்துக் கொண்டு அலுத்து
+வீடு இரும்பினால் நீ, உன் அழகை மறைத்துக் கொண்டு என்மீது
+அனலை வீசுகிறாய். அது ஏன் என்று கேட்டாலோ புனலைச
+சொரிகிறாய். “வள்ளி! உள்ளதைச் சொல்லு! கள்ளத்தனமாக
+உந்தனை நான் அன்று காண வந்தேனே தினைப்புனந் தன்னில,
+அன்று இருந்த அன்பு, ஏன் இப்படிக் குறைகிறது?'” என்று
+
+். ஆறுமுகனார், கண்களைத் துடைத்த வண்ணம் இருந்த, வள்ளி
+நாயகியைக் கேட்டார்.
+
+“என் துக்கம் என்னோடு இருக்கட்டும். நீர் ஏன் வீணாக
+வேதனைப்பட வேண்டும்? உமக்கு என்னைப் பற்றி என்ன
+அக்கறை வாழுகிறது?'' என்று. விம்மி விம்மிப் பேசலானாள்
+வள்ளிநாயகி.
+
+“கையிலே அல்ல வள்ளி! வேல், இப்போது என்
+நெஞ்சிலே பாய்ந்து விட்டது” என்று சற்றுக் கோபமாகப்
+பேசினார் கந்தன்.
+
+## Image 2: 002-d7a488d152.png
+
+- Image: `sirukathaigal/valli_nayakiyin/002-d7a488d152.png`
+
+“விஷம் பாய்ந்தது! அப்பாவுககு!”” என்று. கோபத்தினூடே
+கொஞ்சம் கேலியைக் கலந்து தந்தார் அம்மையார்.
+
+“குறும்பு வள்ளி உனக்கு! இதோ பார், என்ன குறை
+மனதில்?” என்று கொஞ்சுமொழி பேசலானார் முருகன்.
+
+“சொல்ல வேண்டாமென்றால் முடியவில்லை. பூலோ
+கத்திலே, அதிலும் குன்றுதோறும் உமக்குக் கோயில் கட்டிக்
+கொண்டாடும் தமிழ் நாட்டிலே, நாத்திகம் நாற்றமடிக்கிறதே, நீர்
+கவலையற்று இருக்கிறீரே, சரியா? என்று வள்ளிநாயக]
+விளக்கமுரைக்க, வேலவன், அம்மையை நோக்கி அழகான ஓர்
+சிரிப்பருளிவிட்டு, “ஆசைக்கினியவளே! நீ பேசுவது அந்த
+ஈரோட்டுப் பாசறையினரையோ!!” என்று கேட்டார். அல்ல!
+அல்ல! அவர்களை அல்ல! அவர்கள் ஆறுமுகமும் வேண்டாம்,
+மும்முகமும் வேண்டாம், ஆண்டவன், அன்பர் நெஞ்சிலுறையட்
+டும் என்று கூறுகிறார்கள். அவர்களை அல்ல நான் கூறுவது -
+ஆறுமுகம் - முருகா - வேலவா - பழனியப்பா - என்று பரம
+பக்தர்கள் போல, உமது புகழைப்பாடி, காவடி தூக்கி ஆடுகிறார்
+களே, அவர்கள்தானே தமிழகத்திலே பெரும்பான்மையினர்,
+அவர்களைத்தான் கூறுகிறேன் - அவர்கள் உம்மைப்
+போற்றுவதும் புகழ்வதும் வெறும் சூது - பொய் - முகஸ்துதி -
+ஏமாந்து போகிறீர்! அவர்கள், உண்மையிலே, உம்மை உமது
+நடைமுறையைக் கேலி செய்கிறார்கள். - கண்டிக்கிறார்கள்'!
+என்றாள். நாயகி. வேலவன் உண்மையாகவே கோபமடைந்து,
+“அஹா! சூரபதுமன் முதலானோர் தோற்றோடினதை நீ
+அறியாயோ, .பெண்பாவாய்! நம்மை நிந்திக்கவும், நமது
+வாழ்க்கை முறையினைக் கண்டிக்கவும் முற்பட்ட மூர்க்கர் யார்?
+"எத்திக்கு உள்ளனர் கூறு -. எறிகிறேன் வேலாயுதத்தை!” என்று
+கூற, வள்ளி. அம்மை. சற்று களித்து “இப்படி நானாகச்
+சொன்னால்தானே உமக்கு விஷயம் புரிகிறது. இதோ பாருங்கள்
+நாதா! தாங்கள் என்னைக் கண்டு காதல் கொண்டு. .. .'” என்று
+- விவரிக்கும்போது, வள்ளிநாயகன் இடைமறிதது, “வள்ளி! முழு
+உண்மை பேசு. நான் காதல் கொண்டதாகக் கூறுகிறாயே உன்
+நிலையைக் கூறாமல்! இருவரும் கண்டோம் காதலித்தோம் என்று
+கூறு.: ...'” என்று. திருத், அம்மை அதனை. ஒரு புன்னகையால்
+அங்கீகரித்துக் கொண்டு, மேலால் பேசலானார். ப
+
+் என்னைத் தாங்கள், தங்கள் தேவியாக ஏற்றுக் கொண்டீர்
+
+முதலில்: தேவயானை - பிறகு நான்.. அல்லவா? இந்த இருதார
+
+## Image 3: 003-060dbf301f.png
+
+- Image: `sirukathaigal/valli_nayakiyin/003-060dbf301f.png`
+
+மணத்தை, நீர் இடைவிடாமல் மயிலேறி வலம் வரும் இன்பத்
+தமிழ் நாட்டினர், கேவலம் அக்ரமம், அநீதி என்று பேசி, ஏசி,
+இருதார மணம் செய்து கொள்வோர், கடின சித்தமுடையவர்கள்,
+பெண்களின் இருதயத்தைப் பிளப்பவர்கள், என்றெல்லாம்
+கடிந்துரைதது, ஒரு மனைவி உயிருடனிருக்கும்போது வேறோர்
+பெண்ணைக் கலியாணம் செய்வதைத் தடுத்தாலொழிய
+பெண்களின் : வாழ்வு வதைபடும் என்று வாதாடி இருதார
+மணத்தை இனி அனுமதிக்கப் போவதில்லை. சட்டம் செய்து
+விடுகிறோம் என்று கூறி, சட்டசபையில் இது பற்றிக் கண்டவர்
+கண்டபடி பேசி ஏசி, கடைசியில் ஏக தாரம்தான் சட்டப்படி
+செல்லும், ஏதேனும் தக்க காரணம் காட்டி முதல் மனைவியை
+சட்டப்படி விலக்கினால் மட்டுமே, வேறு ஒர் மங்கையைக்
+கலியாணம் செய்து கொள்ளலாம் என்று சட்டமே செய்து விட்
+டனர்'' என்றார் வள்ளியம்மை.
+
+“சட்டமே செய்து விட்டார்களா? தமிழ் நாட்டிலா?'' என்று
+கேட்டார் முருகர்.
+
+“ஆமாம், ஆமாம்! அழகுக்குத் தெய்வம், தமிழுக்குத் தெய்வம்
+என்று உம்மை வழிபடுவதாகக் கூறும், அதே தமிழ் நாட்டில்தான்,
+உம்முடைய வாழ்க்கை முறையையே குடும்ப அமைப்பையே,
+காதல் திருவிளையாடலையே கண்டிக்கும் போக்கிலே சட்டம்
+செய்து விட்டார்கள். கேட்டது முதல் எனக்குப் பெரும் விசாரம்.
+தேவயானை வீட்டிலே திருநாளாம்! நாதா! தேவயானை இருக்க
+என்னை நாயகியாகத் தாங்கள் கொண்டது .கேலிக்குரியதாக,
+சட்டப்படி முறையற்றதாக, உமது பக்தர்களாலேயே கருதப்பட்டு,
+பேசப்பட்டால், என் மனம் வேதனை அடையாமல் இருக்குமா?
+உமது பக்தர்களுக்கு இது அடுக்குமா? முறையா?' இருதாரம் கூடாது *
+என்று சட்டம் இப்போது! இது நிலைத்து விட்டால் அடுத்த
+தலைமுறையினர், “இரண்டு பெண்டாட்டிக்காரர்கள்' என்று
+முன்னவர்களைக் கேலி பேசுவரே! பிறகு இருதாரமுடைய
+உமக்கும் திருப்புகழ் குறையுமே! ஏனோ தாங்கள் இவைபற்றி
+யோசியாமல், மயிலுண்டு மலையுண்டு என்று இருக்கிறீர்?
+என்று அம்மை விளக்கவே ஜயன்; உண்மையாகவே கோபம்
+கொண்டு. “இருதாரம் கூடாது என்று சட்டம் செய்தவர்கள்,
+உண்மையில் என் வாழ்க்கை முறையை இகழ்ந்தவர்கள் என்று
+தான் பொருள். அவர்களைச் சும்மா. விடக்கூடாது. கூப்பிடு
+மயிலை! கூறு தமிழகததிலா? இந்த அதர்மச்: செயல் நடந்தது!
+
+## Image 4: 004-0a9571f9da.png
+
+- Image: `sirukathaigal/valli_nayakiyin/004-0a9571f9da.png`
+
+வள்ளி! கோபிக்காதே மறந்துவிட்டேன். யார் அங்கே மந்திரி?
+அங்கு அடிக்கடி மாறிவிடுவதால் கவனம் வைப்பது கஷ்ட
+மாகிறது'' என்று கேட்க, “சட்டம் இயற்றிய தமிழகத்துக்கு
+இப்போது முதல் மந்திரி ஒமந்தூர் இராமசாமி ரெட்டியார்”!
+என்றார். '“ஒமந்தூராரா அவர் நமது பக்தராயிற்றே!'' என்றார்
+முருகன்! “பக்தன் செய்கின்ற செயலா. இது! மற்றவர்கள்
+ஏதேதோ காரணம் காட்டி, இருதாரம் கூடாது என்று
+வாதாடினாலும் அவர் உண்மையாகவே, உமது பக்தராக
+இருந்தால் என்னப்பன் முருகனே இருதாரம் கொண்டார் என்று
+எடுத்துக் காட்டித் தடுத்திருக்க மாட்டாரா, சட்டத்தை'” என்று
+அம்மை கூறிட, வேலவன், ::ஆமாம்! என் பக்தன் போல்
+வேடமிட்டு, என் வாழ்க்கை முறையையே கேவலமாக்கும் சட்
+டம் இயற்றிய ஒமந்தூராரை நேரிலேயே சென்று கேட்கிறேன்”
+என்று கூறிவிட்டு மயிலேறி மறைந்தார்.
+் வள்ளி அம்மை, ஆனந்தமாக, பலகணி அருகே சென்று
+தெய்வயானையின் மாளிகையை நோக்கிய வண்ணம்.
+“குதிக்காதே தேவா! குமரன் போயிருக்கிறார். குறும்புச் சட்டத்தை
+நொறுக்க” என்று மெள்ளக் கூறியபடி இருந்தார்.
+் சிறிது நேரத்திற்கெல்லாம், மயிலேறும் பெருமாள், வந்தார்,
+முகத்திலே வாட்டத்துடன்.
+் வள்ளி கோபக் குறியுடனேயே வரவேற்று, “ஏன் உமது
+வாதம் ஏதும் பலன் தரவில்லையோ?'' என்று கேட்க, முருகன்
+“வாதமா! ஓமந்தூரார் பேசவே இல்லையே என்னிடம்'' என்று
+கூற, “ஏன் பேசவே இல்லையா! இப்படி உம்மை
+அவமதுப்பவரை பக்தர் என்று நம்புகிறீரே! ஏன் பேசவில்லை:”*
+என்று கேட்டார். முருகன் வேலாயுதத்தை ஒரு புறம். வீசிவிட்டு,
+மயிலை விரட்டியபடி, “கிருத்திகையாம் இன்று. -. கிருத்திகை
+அன்று மெளன விரதம் இருக்கும் வழக்கமாம். ஒமந்தூரார்
+அதனால்தான் பேசவில்லை'' - என்றார்.. வள்ளியார். கோபம்
+கரை புரண்ட வெள்ளமாயிற்று-நான், இந்தச் சமயம் இங்கிருத்தல்
+ஆகாது என்று பறந்து சென்றேன், பக்கத்துச் சோலைக்கு.
+14-1-1949
+3 3 3 3
+
+## English Translation
+
+"Valli! What can I do if you grow angry like this so often? Have I ever behaved in a way that hurt your feelings? Why the long face?
+
+"I am forced to endure so many troubles. I must seek out those who summon me by singing Tiruppugazh again and again, and labour to discover whether the words dwelling upon their tongues agree with the thoughts within their hearts.
+
+"They sing in sweet voices, melting as they cry, 'My father! Muruga!' For a moment even I become entranced. Only when I look closely do I understand that the melting voice is not meant for me but for some maiden with a body like molten gold.
+
+"I must conduct many such tests. When I finish my duties and return home exhausted, you hide your beauty and hurl fire at me. When I ask why, you pour out a flood of tears.
+
+"Valli, tell me what is in your heart! Once I came in disguise to see you in the millet field. Why has the love you showed then diminished so?" Arumugan asked Valli Nayaki, who sat wiping her eyes.
+
+"Let my sorrow remain with me. Why should you suffer needlessly? What concern for me lives within you?" Valli Nayaki replied between sobs.
+
+"Valli, it is no longer the spear in my hand. It has now pierced my heart," Kandan said with some anger.
+
+"Poison has entered it, poor dear!" the lady replied, mixing a little mockery into her anger.
+
+"What mischief you possess, Valli! Look at me and tell me what grievance lies in your heart," Murugan coaxed.
+
+"I cannot keep from saying it. Atheism stinks upon the earth, and especially in Tamil Nadu, where people build temples for you upon every hill and celebrate you. Is it right that you remain unconcerned?" Valli Nayaki explained.
+
+Velavan bestowed a beautiful smile upon her and asked, "My beloved, are you speaking of the people from the Erode camp?"
+
+"No, no! Not them. They say they want neither six faces nor three faces, and that God should dwell in the hearts of loving people. I am not speaking of them.
+
+"I mean those who sing your praise like supreme devotees, crying, 'Arumuga! Muruga! Velava! Palaniappa!' and dance beneath the kavadi. Are they not the majority in Tamil Nadu?
+
+"Their praise and worship of you are mere deceit, falsehood, and flattery. You are being fooled! In truth, they mock your conduct and condemn it," said the lady.
+
+Velavan became genuinely angry. "Ah! Do you not know how Surapadman and the others were defeated and fled, woman? Who are the brutes who dare insult us and condemn our way of life? Tell me which direction they occupy. I shall hurl my spear!"
+
+Valli was somewhat delighted. "Only when I speak this way do you understand the matter. Listen, my lord. You saw me and fell in love..."
+
+Valli's lord interrupted her. "Valli! Speak the whole truth. You say that I fell in love without mentioning your own condition. Say that we saw one another and fell in love."
+
+The lady accepted the correction with a smile and continued.
+
+"You took me as your goddess. First Deivanai, and then me. Is that not so?
+
+"Yet the people of delightful Tamil Nadu, where you constantly ride your peacock, denounce marriage to two women as base injustice and wrongdoing. They condemn men who take two wives as hard-hearted people who tear women's hearts apart.
+
+"They argue that women's lives will be tortured unless a man is prevented from marrying another woman while his first wife is alive. They declare that they will no longer permit two-wife marriage and will make a law against it.
+
+"In the Legislative Assembly, everyone who pleased spoke and denounced it as they wished. At last they enacted a law under which only monogamy is legally valid. A man may marry another woman only after legally separating from his first wife by showing an adequate reason," Valli Amma said.
+
+"They have actually made such a law? In Tamil Nadu?" Murugan asked.
+
+"Yes, yes! In that very Tamil Nadu whose people claim to worship you as the god of beauty and the god of Tamil, they have made a law that condemns your way of life, your family arrangement, and your divine play of love.
+
+"Ever since I heard it, I have been deeply distressed. There is apparently a festival in Deivanai's house!
+
+"My lord, with Deivanai still there, you made me your beloved. If your own devotees regard and describe that as laughable and legally improper, how can my heart remain free of pain? Is this conduct fitting or proper for your devotees?
+
+"Today the law says there must be no second wife. If it endures, the next generation will mock its forebears as 'men with two wives.' Then the sacred praise offered to you, who also have two wives, will diminish.
+
+"Why do you ignore all this and content yourself merely with your peacock and your hill?" the lady asked.
+
+The lord became truly angry. "A law against taking two wives means that those who made it have indeed insulted my way of life. They must not be left alone. Call my peacock! Tell me, did this unrighteous act occur in Tamil Nadu?
+
+"Valli, do not be angry. I forgot. Who is the minister there? They change so often that it is difficult to keep track."
+
+"The Chief Minister of the Tamil Nadu that passed this law is now Omandur Ramasamy Reddiar," she answered.
+
+"Omandur? But he is our devotee!" Murugan said.
+
+"Is this the act of a devotee? Whatever reasons others may give in arguing against two-wife marriage, if he truly were your devotee, would he not have stopped the law by pointing out, 'My father Murugan himself took two wives'?" the lady asked.
+
+"Yes. Omandur disguises himself as my devotee while enacting a law that degrades my very way of life. I shall go and question him in person," Velavan declared. He mounted his peacock and vanished.
+
+Valli Amma went joyfully to the lattice window and looked towards Deivanai's palace.
+
+"Do not celebrate, Deiva! Kumaran has gone to shatter the mischievous law," she said softly.
+
+After a short while, the lord who rides the peacock returned, his face dejected.
+
+Valli received him with signs of anger and asked, "Why? Did your argument produce no result?"
+
+"Argument? Omandur did not speak to me at all," Murugan replied.
+
+"He did not speak at all? Yet you believe this man who insults you to be a devotee! Why did he refuse to speak?" she demanded.
+
+Murugan threw his spear aside and drove away the peacock.
+
+"Today is Krittikai. Apparently Omandur observes a vow of silence on Krittikai days. That is why he did not speak," he said.
+
+Valli's anger overflowed like a flood breaching its banks. Thinking that I should not remain there at such a moment, I flew away to the neighbouring grove.
+
+14 January 1949

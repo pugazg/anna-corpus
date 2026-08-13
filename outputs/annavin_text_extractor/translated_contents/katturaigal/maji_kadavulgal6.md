@@ -1,0 +1,734 @@
+# மாஜி கடவுள்கள் - பகுதி 6 / Former Gods, Part 6
+
+**Tamil title:** மாஜி கடவுள்கள் - பகுதி 6  
+**English title:** Former Gods, Part 6  
+**Source file:** `katturaigal/maji_kadavulgal6.md`
+
+## Source Tamil (verbatim)
+
+- Source image folder: `/Users/pugazhendhirajendran/Documents/Codex/2026-07-09/https-www-annavinpadaippugal-info/outputs/annavin_text_extractor/ocr_images/katturaigal/maji_kadavulgal6`
+- OCR language: `tam`
+- Tesseract page segmentation mode: `3`
+- OCR cleanup: `enabled`
+
+## Image 1: 001-4ae9106ebe.png
+
+- Image: `katturaigal/maji_kadavulgal6/001-4ae9106ebe.png`
+
+- கூறிக் கொண்டு, மனம் போனவாறு ஆடலாயினர். இந்த
+அக்ரமத்தை ஆத்திகம் என்றும் கூசாது கூறினர். இதைத் தீப்ஸ்
+நாட்டு: மன்னன் வெறுத்தான். பேகசின் சீடன்' ஒருவனைப்
+பிடித்து: விசாரணை நடத்தினான் - பேகஸ் கோபம் கொண்டு,
+அந்த மன்னனை அவன் நாட்டு மக்களைக் கொண்டே
+சாகடி த்தான். பேகஸ் விழாக் கொண்டாடினாராம் அந்த நாட்டு
+மக்கள் - அதாவது குடித்துவிட்டுக் கூத்தாடினர். அப்போது
+அவர்கள் கண்களுக்குத் தங்கள் மன்னன் காட்டுப் பன்றி போல்
+தெரிந்தாராம். பேகசின் வேலைத்திறம் அது என்கிறான்
+புராணிகன். குடி வெறியில் இருந்த மக்கள், மன்னனைக் குத்திக்
+கொன்று விட்டார்களாம்.
+
+பேகஸ் தேவனுடைய :பிரபாவ' விளக்கக் கதைகள் இது
+போல் பலப்பல உண்டு.
+
+ஒரு முறை இந்தத் தேவன் கடலோரரத்திலே படுத்துறங்கும்
+போது, சிலர் கட்டித் தூக்கிக், கப்பலில் போட்டு, எகிப்து
+நாட்டிலே கொண்டு சென்று, அடிமையாக விற்றுவிட முனைத்
+தனராம். கடலில் கலம் செல்லும்போது பேகஸ் கண் விழித்துக்
+கொண்டார். காதகர்களைக் கெஞ்சிக் கேட்டுக் கொண்டார்
+தன்னை நாக்சாஸ் தீவிலே விட்டு விடும்படி - அவர்கள் இணங்க
+வில்லை. உடனே பேகசின் கோபம் சாபமாகி, கலம் கடலில்
+அசைவற்று நின்று விட்டது. புதிய புதிய பாய்மரங்களை அமைக்
+கிறார்கள் - கப்பல் அசையவில்லை. பேகசின் சக்தியின்முன்
+சாமான்யர்களான மனித சக்தி என்ன செய்ய முடியும்!
+கலங்கினர் - கடைசியில், தன்னைச் சிறை பிடிக்கத் துணிந்த
+செருக்கர்களை மீன்களாகிவிடும்படி. சாபமிட்டு விட்டார்.
+
+பேகசின் காதல் விளையாட்டுக் கதைகளும் புராணிகன்
+தந்தான்.
+
+மற்றக் கடவுள்களுக்கு இருந்து வந்தது போலவே இந்த
+மதுதேவனுக்கும், மக்கள் மன்றத்திலே செல்வாக்கு இருக்கத்தான்
+செய்தது. கோயில்கள் உண்டு! கொண்டாட்டங்கள் பலப்பல!
+எல்லாம் இருந்தன, பாமரர் ஏமாளியாக இருந்த வரையில்!
+பாடுபடுபவன் பணத்தைப் பகற் கொள்ளைக்காரன் பக்தி என்ற
+பெயர் கூறிப் பறித்திடும் பாதகச் செயல் “அத்திகம்' என்ற
+பெயருடன் இருந்த வரையில். பிறகோ! முழு முதற் கடவுள்
+ஜுவசின் கதிதான், அவருடைய காதற் கனியாம் பேகசுக்கும் -
+மாஜியானான்.
+
+## Image 2: 002-f7a0881480.png
+
+- Image: `katturaigal/maji_kadavulgal6/002-f7a0881480.png`
+
+கடல் நுரையினின்றும் கிளம்பிய கட்டழகி வீனசைக்
+கண்டதும் கடவுளர் அனைவரும் எனக்கு, உனக்கு - என்று
+போட்டியிட்டனர். வீனசோ கடை காட்டி, இடையாட்டி.
+அவர்களின் மன அலையை அதிகப்படுத்தி விட்டு,
+அனைவரையும் அலட்சியமாகக் கருதினாள். முழுமுதற்
+கடவுள் ஜுவசுக்குக் கோபம். அழகும் ஆணவமும் ஒரு
+சேரக் குடிகொண்டிருந்த வீனசின் கர்வத்தை அடக்க,
+கடவுளர் உலகிலேயே அவலட்சணவானான, வல்கன்
+என்னும் கடவுளுக்கு வீனசைத் தாரமாக்கினார்.
+
+வீனஸ்
+
+“(ப/1[7/கு கனிமொழி மாதுகுறமகள் பாதம் வருடிய
+மணவாளா? - அஹா! அஹா! என்ன அழகான நடை! எவ்வளவு
+இன்ப சொற்செல்வம்! இதை உணர மறுக்கும் உலுத்தரும்
+உளரே! உமையொரு பாகா! இவர்தம் உள்ளமென்ன கல்லோ!
+இல்லை, இல்லை! கல்லும் உருகும் கவிதைகள் உளவே! அவை
+களையுமன்றோ அலட்சியம் செய்கின்றனர். இவர்தம் உள்ளம்
+கல்லுமல்ல, இரும்புமல்ல, இறைவா! இவர்கள் உள்ளமற்றவர்
+கள்! அதனால்தான், உன் எழிலை, உன் இலட்சணத்தை, உன்
+திருவிளையாடலைத் தித்திக்கத் தித்திக்கச் சித்தரிக்கும் கவிதை
+களைக் கேட்டும் சொக்காதுளர்! பாகு கனிமொழி - எவ்வளவு
+இனிமை, எவ்வளவு, இனிமை! அன்னை வள்ளி நாயகியின்,
+மொழி, பாகு, கனி - ஐயன் முருகன், பாதம் வருடாதிருப்பாரோ!
+பாதம் வருடிய மணவாளா! - என்று புகழ் பாடித் துதிக்கிறார்
+கவி. இவ்வண்ணம், இறைவனை இனிய கவிதையால் துதித்துப்
+பக்திரசத்தைப் பண்ணில் குழைத்தளித்த பெருமை, நந்தம்
+நாட்டுக் கவிவாணருக்கே சொந்தமானது. பிறநாடுகளிலே பிறந்
+தாரில்லை இப்படிப்பட்ட கவிவாணர்கள். இந்த அருமையினை
+அறிந்தாலேனும், திருந்துவரோ, இந்தத் தீயர்!
+
+இங்ஙனம் பேசிடும் இயல்பினர் இங்கு அநேகர்.
+
+காவியம், போற்றப்பட வேண்டும். எனவே, அவை மூலம்
+தரப்படும் கருத்துக்களைக் கண் மூடி ஒப்புக் கொள்ளத்தான்
+வேண்டும் - முருகனுக்குப் பன்னிரண்டு கரங்கள் என்று நம்புவது
+முடியாது என்று முரட்டுத் தனமாகப் பேசுகின்றனர் - கவி,
+எவ்வளவு அழகாக, ஈராறு கரமன்றோ ஈசனார் புதல்வர்க்கு
+என்று பாடுகிறார், இந்தச் சுவையை உணரமாட்டாது உளரே,
+
+## Image 3: 003-39808c7613.png
+
+- Image: `katturaigal/maji_kadavulgal6/003-39808c7613.png`
+
+எதற்கும் காரணம் கேட்டலையும், மாக்கள்! என்று கடுமொழியும்
+பேசுகின்றனர்.
+
+அறிவுத் துறையினின்றும் கிளம்பிய கேள்விக் ' கணைகளின்
+வேகமும் வல்லமையும் கண்டு மருண்டவர்கள், கவிவாணர்களின்
+புகழைக் கேடயமாகக் கொண்டு, சில காலமேனும் களத்திலே
+நின்று பார்ப்போம் என்று எண்ணுகின்றனர். அவர்தம் நினைப்பு,
+உலகிலே இங்குபேல் வேறெங்கும் புராணப் புளுகுகளை, இனிய
+கவிதை உருவிலே தந்தவர் கிடையாது என்பது. கம்பன் போல்
+அவதார மகிமையைப் பாடிய கவிஞன் இருந்திருந்தால், வில்லி
+போல் பெரும் போரைச் சித்திர நடையில் பாடி. இருந்திருந்தால்,
+பழங்காலக் கற்பனைகள், பழங்காலக் கடவுட் கொள்கைகள்
+பாழ்பட்டுப் போயிரா! அங்கெல்லாம் அருங்கவிவாணர்கள்,
+ஐயன் ஆடிய பாதத்தின் அற்புதத்தையும், அம்மையின்
+அருளொழுகும் கண்களின் வடிவழகையும், பாடினாரில்லை.
+எனவேதான், பழைய கொள்கைகள் பாழ்பட்டுப் போயின என்று
+எண்ணுகின்றனர் - மக்களிடையே இந்த வகையான பிரசாரமும்
+
+செய்கின்றனர். கலை மூலம் கற்காலக் கடவுட் கொள்கையைக்
+... காப்பாற்றலாம் என்று எண்ணுகின்றனர்.
+
+் ஹோமர், வெர்ஜில், ஷேக்ஸ்பியர், மில்டன், ஷெல்லி,
+்... தட்ஸ், டிரைடன் - கவிதா மண்டலத்திலே இவர்கள் உன்னத
+.. மான இடம் பெற்றவர்கள் என்பதை மறுப்பவர் கிடையாது.
+இந்நாட்டுப் பழம்பெரும் கவிவாணர்களிடம் காணப்படும்
+கற்பனைத் திறமும், கவர்ச்சிகரமும், இவர்களிடமும் ஏராளமான
+அளவு இருக்கத்தான் செய்தன. காவியச் சுவை சொட்டும் கவிதை
+களை அவர்களும் தத்தமது நாட்டவருக்குத் தந்தனர். மக்கள்
+அவர்தம் “கவிதா சக்தியைப் போற்றினர் - போற்றியும் வருகின்
+றனர். நம் நாட்டுக் கவிவாணர்கள் போலவே, மேற்கோள், உவமை
+்... என்பனவற்றுக்கும், அவர்களும் பழம் புராணக் கதைகளையே
+பயன்படுத்திக் கவிபாடினர். எனினும், கற்காலக் கடவுட்
+கோட்பாட்டை அவர்களின் 'கவிதை' காப்பாற்றி விடவில்லை.
+நல்ல கவிதை! அழகான நடை! சுவையுள்ள கற்பனை: - என்று
+. அந்தக் கவிவாணர்களின் திறமையைப் பாராட்டிவிட்டுக்
+கடவுள் சம்பந்தமான கருத்துக்களுக்கு, அறிவின் துணையைத்
+தேடினர் - முன்னேற்றம் கண்டனர்.
+
+இன்று மாஜி கடவுள்கள் பட்டியலில் காணப்படும் பெயர்
+களை, கவிவாணர்கள், தமது கவிதைகளிலே இணைத்து விட்டுத்
+தான் போயினர்! மாஜி கடவுள்களின் “லீலா விநோதங்களை'க்
+கவிதை வடி விலே, மக்களிடம் கூறித்தான் பார்த்தனர் - எனினும்,
+அறிவு வளர்ச்சியைக் கலை உணர்ச்சி கெடுக்கவில்லை. தங்கக்
+
+வே.வ.க 0௧௭௫-21 வென 476
+
+## Image 4: 004-d8c3537428.png
+
+- Image: `katturaigal/maji_kadavulgal6/004-d8c3537428.png`
+
+கூண்டிலே பஞ்சவர்ணக் கிளியை வளர்க்கிறோம். பாலும்
+பழமும் தருகிறோம், இனியமொழி கேட்க. பேசும் கிளி, குழியில்
+விழு! விழு குழியில்! - என்று கொஞ்சு மொழியில் கூறினால்
+சிரிப்பார்களேயன்றி, அதற்குப் பேசும் திறன் வந்ததே என்று
+மகிழ்ந்து, ஒரு கொவ்வைக் கனி தருவரேயன்றி, ஆசைக்கிளியே,
+இதோ வீழ்கிறேன் குழியில் என்று கூறி, யாரும் குழியில் விழ
+மாட்டார்களல்லவா! அது போலவே, அந்தாட்டு அறிவாளிகள்,
+கவிதை அருமையானது எனினும் கருத்து, காலத்துக்கு
+ஒவ்வாதது என்று கண்டறிந்து, புராணத்தை விலக்கிக் கவிதையை
+ரசித்தனர். கவிதை வடிவிலே இருக்கிற காரணத்தால்,
+உள்ளத்துக்கு மகிழ்வை ஊட்டும் கவர்ச்சியுள்ள முறையிலே
+கவிதைகள் இருப்பதால், அந்தக் கருத்துக்களைக் கைவிடக்
+கூடாது என்றோர் பொது விதிக்கு உலகம் கட்டுப்பட்டி ந்
+திருக்குமானால், ஜுவசும், ஹீராவும், அபாலோவும், பிறரும்
+இன்றும் கோயில் கொண்டு எழுந்தருளி, கோலாகலமான
+திருவிழாக்களைக் கண்டுகளித்துக் கொண்டிருந்திருப்பர் -
+மாஜிகளாயிருக்க மாட்டார்கள்.
+
+கடல் நுரை, வனப்புள்ள காட்சியல்லவா! தூய வெள்ளை
+நிறம் - தொட்டால் நீராகச் சொட்டி மறையும். பலப்பல
+சொட்டுகளை உள்ளடக்கிய நுரை, பாங்குடன் காட்சி
+தருகிறதல்லவா - இதைக் கண்ட, கற்பனைத் திறம் படைத்த
+ஒருவன், ஒரு தெய்வத்தைச் சிருஷ்டித்து விட்டான். கடல் நுரையி
+லிருந்து பிறந்தவள்தான்; பேரழகி வீனஸ் தேவி. அப்ரோடைட்
+என்றோர் திருநாமமும் தேவிக்கு உண்டு.
+
+திடீரென ஓர் நாள், கடல் நுரையிலிருந்து வீனஸ் தேவி
+தோன்றிக் கடல் சிப்பியின் மீதமர்ந்து, கரையோரம் வந்து
+சேர்கிறாள். கடவுளர் உலகு இதுபோன்ற எழில் மங்கையை
+இதுவரை கண்டதில்லையே, என்று அனைவரும் ஆச்சரியப்
+படுகின்றனர். அத்தகைய அழகி மட்டுமல்ல அம்மை, ஆவலைக்
+கிளரும் வல்லமை மிக்கவர்களாம்! சைப்ரஸ் என்ற தீவின் பக்கம்
+தான் தேவி முதலில் தரிசனம் தந்தது. இன்றும் இந்தத் தீவு
+இருக்கிறது - ஆனால் அதைக் காரணமாகக் காட்டி வீனஸ்
+தேவி, வெறும் கற்பனை என்று எங்ஙனம் கூறுவது, உண்மை
+உருவந்தான் வீனஸ் என்று வாதிடும் புராணிகன், அங்குக்
+கிடையாது. புராணிகனுடைய பிடி. பலமாக இருந்தபோது,
+வீனசுக்கு விதவிதமான விழாக்கள், அழகான கோயில்கள்,
+பாமாலை, பூமாலை, யாவுந்தான்! இன்றல்ல, இருட்டறையில்
+மக்கள் உழன்றபோது.
+
+## Image 5: 005-80350c78b8.png
+
+- Image: `katturaigal/maji_kadavulgal6/005-80350c78b8.png`
+
+கடல் நுரையினின்றும் கிளம்பிய கட்டழகி வீனசைக்
+கண்டதும், கடவுளர் அனைவரும் எனக்கு, உனக்கு - என்று
+போட்டியிடலாயினர். வீனசோ கடை காட்டி, இடையாட்டி
+இவர்களின் மன அலையை அதிகப்படுத்திவிட்.டு, அனைவரை
+யும் அலட்சியமாகக் கருதினாள். முழுமுதற் கடவுள் ஜுவசுக்குக்
+கோபம். அழகும் ஆணவமும் ஒரு சேரக் குடிகொண்டிருக்கிறது
+இவளிடம், இவளுடைய கர்வத்தை அடக்க வேண்டும் என்று
+எண்ணினார். உடனே, கடவுளர் உலகிலேயே அவலட்சண
+வானான வல்கன் எனும் கடவுளுக்கு, வீனசைத் தாரமாக்கினார்.
+அனைவரும் திடுக்கிட்டுப் போயினர்.
+
+வீனஸ், விண்ணவர் வியந்திடும் பேரழகி - வல்கன்,
+கடவுளர் உலகு கைகொட்டிச் சிரிக்கும் விதமான கோர உருவம்
+படைத்தவன். கடுகடுத்த முகம்! நொண்டிக் காலன்!
+
+இவள் போல் அழகியை எங்கும் கண்டதில்லை, என்றனர்
+வீனசைக் கண்டு. இவன் போன்ற அவலட்சணமானவன் எங்கும்
+கிடையாது என்ற ஏளனத்துக்கு ஆளாகிக் கடவுளருலகிலே
+களிப்புடன் உலவுவதையும் வெறுத்து, ஒதுங்கி வாழ்ந்து வந்தவன்
+வல்கன். இவர்களைத் தம்பதிகளாக்கினார் தயாபரன்.
+
+பொன்னிற மேனி! பூவிதழ்க் கன்னம்! செம்பவள அதரம்!
+முத்துப் பற்கள்! மோகனப் புன்னகை! மோன நிலையையும்
+முறியடிக்கும் பார்வை! துடியிடை! தோகை மயிலணையாள்!
+இவ்வளவு எழில் ததும்பும் கன்னியை, அருவருப்பைக் கிளரும்
+உருவம் படைத்த வல்கனுக்குத் தாரமாக்குகிறீரே! முழுமுதற்
+கடவுளே! கன்னி என்ன கதியாவாள்! இந்தப் பொருந்தாத்
+திருமணம் வேண்டாம்! கொதிக்கும் எண்ணெய்க் கொப்பரை
+யில் தள்ளிவிடலாம் இந்தத் தையலை! நொண்டிக் காலனுடன்
+இந்த நேரிழையாள் எப்படி இல்லறம் நடத்துவாள்! - என்று
+பலப்பல கூறிக் கடவுளர் தடுத்தனரா? இல்லை!! வீனசாவது
+இந்த விபரீதம் வேண்டாம் என்று கூறி விம்மினாளா? இல்லை! .
+அவர் தந்த கணவன் இவர் - இருக்கட்டும் இவரும் - இதயத்தை
+வெல்பவன் வேறொருவன் கிடைக்காமற் போவானா! -
+என்றெண்ணிக் கொண்டாள். கொண்ட கணவனுக்குத் துரோகம்
+செய்யும் காதகியா, கடவுளர் வரிசையிலே வைத்துப் போற்றப்
+பட்டாள். என்று கோபத்துடன் கேட்கத் தோன்றும். ஆமாம்,
+ஐயா ஆமாம்! வீனஸ் தேவி, விண்ணுலக அழகி, மக்களின்
+பூஜைக்குரியவளாகத்தான் இருந்து வந்தாள், மக்களின் மனம்
+பூஜாரி கையில் மெழுகாக இருந்த வரையில்.
+
+நொண்டிக்கால் தேவனுடன் சென்று வாழ்ந்து வந்தாள்,
+பேரழகி வீனஸ்.
+
+## Image 6: 006-cea006437f.png
+
+- Image: `katturaigal/maji_kadavulgal6/006-cea006437f.png`
+
+வல்கன் தேவனுக்குக் கால் நொண்டி, உருவம்
+அவலட்சணம், ஆனால் இவனும் சாமான்யமானவனல்ல.
+சாட்சாத் ஜுவஸ் தேவனின் மகன்தான் இவனும். ஹீரா
+தேவியாராம் அன்னையிடம் பக்தியும் கொண்டவனாகத்தான்
+இருந்து வந்தான். ஒரு நாள் ஹீராவின் தொல்லையால் கோபம்
+மூண்டது ஜாவசுக்கு. உடனே அவர், ஒரு தங்கச் சங்கிலியால்
+அவளைக் கட்டி, விண்ணிலிருந்து, மண்ணுலகத்துக்குத் தொங்க
+விட்டார். இதைக் கண்ட மகன் மனம் பதறி தங்கச் சங்கிலி
+மண்ணுலகம் போகாதபடி தடுக்கத் தன் முழு வலியையும்
+உபயோகித்தான். தந்தைக்குத் தாங்கொணாக் கோபம் பிறந்தது
+- தனயனைத் தூக்கி எறிந்தார் பூவுலகுக்கு. கீழே விழுந்த
+போதுதான், வல்கனுக்குக் கால் முறிந்து விட்டது.
+
+கடவுளர் உலக நடவடிக்கைதான்!
+
+முழுமுதற் கடவுளாகக் கிரேக்கராலும், ரோம் நாட்டவ
+ராலும் போற்றப்பட்ட ஜுவஸ் தேவனின் குடும்ப நிலை
+இவ்வண்ணம்!!!
+
+கீழே விழுந்து வேதனைப்பட்ட வல்களைத் தாயார்,
+செத்தானா பிழைத்தானா என்று கூடக் கவனிக்கவில்லை. எந்தத்
+தாயாருக்காகத் தந்தையின் கோபத்தைத் தாங்கிக் கொண்டு
+காலையும் இழந்தானோ, அந்தத் தாய், தன்னிடம் துளி அன்பும்
+காட்டாதது கண்ட வல்கனுக்கு, மனம் உடைந்து விட்டது -
+கடவுளர் உலகா இது, காதகர் உறைவிடம், இனி அங்குச்
+செல்லேன், என்னை இம்சைக்கும் இழிவுக்கும் ஆளாக்கியவா்
+களுக்குத் தக்க பாடம் கற்பிப்பேன் என்று சூளுரைத்துவிட்டு
+எட்னா மலை.மீது, ஒரு பெரிய உலைக்கடம் அமைத்துக்
+கொண்டு நெற்றியில் ஒற்றைக் கண் கொண்ட ஒருவகை ராட்சதப்
+பிறவிகளின் துணையைப் பெற்று, அற்புதமான ஆயுதங்களைத்
+தயாரித்துக் கொண்டிருந்தான். வல்கன், தயாரித்த அற்புதப்
+பொருள்கள் பலப்பல.
+
+தங்கத் தாதிமார் இருவர் - அதாவது தங்கப் பதுமைகள் -
+பதுமைகள் என்றாலும், தானாக இயங்கக் கூடியவை. அவன்
+எங்குச் சென்றாலும், இந்தத் தங்கத் தாதிமார் உடன் செல்வர்!
+
+பிறகு வல்கன், ஓர் அழகிய தங்கச் சிம்மாசனம் தயாரித்தான்
+- அது ஒரு சூட்சமமான பொறி. இதைத் தன் தாயார் ஹீரா
+தேவிக்கு அனுப்பி வைத்தான். அம்மை அதிலே அமர்ந்ததும்,
+அவளைச் சிம்மாசனம் சிறைப்படுத்தி விட்டது. விடுபட முடிய
+வில்லை. விண்ணிலுள்ள கடவுளர் அனைவரும் முயன்று
+
+## Image 7: 007-8be104c325.png
+
+- Image: `katturaigal/maji_kadavulgal6/007-8be104c325.png`
+
+பார்த்துத் தோற்றனர். கடைசியில், வல்கனை வரவழைத்து
+வேண்டிக் கொள்வதென்ற முடிவுக்கு வந்தனர்.
+
+“சிம்மாசனமா சிறையாகி விட்டது! வேண்டும் வேண்டும்!
+பெற்ற மகன் விபத்துக்குள்ளானபோது, நமக்கென்ன என்று
+இருந்துவிட்ட பெருமாட்டிக்கு, தக்க சிம்மாசனந்தான் அது” -
+என்று கூறினான் வல்கன், தன்னை நாடி. வந்த கடவுளரிடம்
+விண்ணகம் வர முடியாது! ஹீராவை விடுவிக்க முடியாது!
+கடவுளர்களே! காலிழந்தவன் நான்! என் அற்புதப் பொறி அந்தச்
+சிம்மாசனம் - காட்டுங்கள் உங்கள் கைவரிசையை - என்று கூறி
+விட்டான். திகைத்தனர் தேவர்கள்! கடைசியில் ஒரு யோசனை
+உதித்தது. எதற்கும் இசைய மறுக்கும் இவனை மதுதேவனைக்
+கொண்டுதான், இசையச் செய்ய வேண்டும் என்று தீர்மானித்
+தனர். 'மதுவேன் பேகஸ்' பற்றி முன்னரே குறிப்பிட்டுள்ளோம்.
+பஞ்சமா பாதத்திலே ஒன்றுதான் குடி - எனினும், விண்ண
+வருக்குள், குடி, சர்வ சாதாரணம் என்பது மட்டுமல்ல, அந்த
+இலாகாவைப் பரிபாலிக்கவே ஓர் தனிக் கடவுள் - அவர் பெயர்
+தான் பேகஸ்!
+
+பேகஸ் கிளம்பினான் வல்கனிடம்! மதுவைத் தந்தான் -
+மயங்கினான் நொண்டிக் கடவுள். விண்ணகம் வந்தான்.
+மாதாவை விடுவித்தான். ஓர் அளவுக்குச் சமரசம் ஏற்பட்டது.
+தங்க மாளிகைகளைக் கட்டிக் கொடுத்தான் பல கடவுளருக்கு -
+தந்தைக்கு இடியாயுதம் செய்து தந்தான். எனினும், விண்ணகத்
+திலேயே இருந்துவிட அவன் மனம் ஒப்பவில்லை. எட்னா மலை
+மீதே வசித்து வரலானான்.
+
+ங்குதான் வந்து சேர்ந்தாள், வடிவழகி வீனஸ்.
+கு ந்து டல்
+
+ஆற்றோரத்தில், முந்திரிச் சோலையில், ஓடி. ஆடிப் பாடிக்
+கொண்டு, காதலன் கண்ணைப் பொத்த, அவன் கரத்தை விலக்க
+முயலும்போது, அவன் தன்னை அணைத்துக் கொள்ள,
+ஐய்யய்யோ - என்று இவள் பாட, அவன், கன்னத்தைக் கிள்ளி
+இதழமுது கேட்க, ஊஹூம் என்று இவள் கொஞ்ச, இன்னுயிரே
+என்று அவன் கெஞ்ச, இப்படி இன்ப விளையாட்டில்
+ஈடுபட்டிருக்க வேண்டியவள், மலை மீது ஓர் உலைக்கூடம்,
+பெரு நெருப்புக்கு எதிரே இரும்பைக் காய்ச்சுவதும், அடிப்பதும்,
+வளைப்பதுமான வேலையில் ஈடுபட்ட அவலட்சணமான
+கணவன் - இந்தச் சூழ்நிலையில் எப்படி. இருக்க முடியும்!
+உதட்டை மடித்தபடி கடித்தாள், புருவத்தைச் சிறிதளவு நெறித்
+தாள் - யோசனை உதித்தது - காதலைத் தேடிக் கொண்டாள்.
+கடவுள் ஒருவன் கிடைத்தான்!
+
+## Image 8: 008-aa8bea520c.png
+
+- Image: `katturaigal/maji_kadavulgal6/008-aa8bea520c.png`
+
+போர்க்கடவுள் மார்ஸ் என்பான்தான், வீனஸ் பெற்ற புது
+விருந்து.
+
+ஒவ்வோர் இரவும், மார்ஸ், வீனஸ் இல்லம் வருவான்,
+இன்பம் பெறுவான்.
+
+இது, அபாலோ கடவுளுக்குத் தெரிந்து விட்டது.
+வல்கனிடம் தெரிவித்து விட்டார். கடுங்கோபம் கொண்டான்
+வல்கன். என்ன செய்வது! கடவுளல்லவா! ஒரு அபூர்வமான
+யோசனை உதித்தது. பித்தளைக் கம்பிகளைக் கொண்டு ஒரு
+அபூர்வமான வலை - சிலந்திக் கூடு போன்ற வலை - செய்தான்.
+பார்ப்பதற்குச் சாதாரண போர்வை போலவே இருக்கும் -
+ஆனால் பொறியாக மாறிவிடும், நொடிப்போதில். இந்த மாய
+வலையை, வீனசின் மஞ்சத்திலே வீசிவிட்டு, மறைவிடத்தில் தங்கி
+யிருந்தான். மார்ஸ் வழக்கப்படி. வந்தான், வீனஸ் கொஞ்சினாள்,
+மஞ்சம் சென்றனர். கொஞ்சுமொழி வளர்ந்து, குழைந்து, ஓய்ந்து
+- இறுகத் தழுவினர். அன்றும் என்றும் போல் - மறைந்திருந்த
+கணவன், மாயவலையை இழுத்தான் - காதற் கள்வர்கள்,
+காகூவெனக் கூவினர், வலையில் சிக்கிக் கொண்டு! விடுபட
+முடியவில்லை! வல்கன் வலை இலேசானதா! சிக்கிக் கொண்டீர்
+களா! சிரிப்பாய்ச் சிரிக்க வைக்கிறேன் பார்! என்று கூறி,
+வெளியே சென்று, எல்லாக் கடவுளரையும் அழைத்து வந்தான்
+வல்கன். “வாருங்கள், வாருங்கள்! வந்து பாருங்கள். என்னை
+மணந்து கொண்ட காதகி, என் வீட்டில் என் மஞ்சத்தில் சோர
+நாயகனை ஆறத் தழுவிக் கொண்டுள்ள காட்சியை, விழியுள்
+ளோர் அனைவரும் காண வாருங்கள்” - என்று அழைத்து வந்து
+காட்டினான். தமது அணைப்பிலிருந்து விடுபட முடியாதபடி,
+மாயவலை அவர்களை இறுகப் பிணைத்து விட்டிருக்கிறது -
+கடவுளர் யாவரும், கைகொட்டிச் சிரித்தனர் - கடவுளருலகுக்குப்
+பலகாலம், இந்தச் சம்பவம் வேடிக்கைப் பேச்சுக்குப் பயன்
+பட்டதாம்!
+
+வீனசும் மார்சும் விபசாரத் தடைச் சட்டத்தின்படி,
+தண்டிக்கப்பட்டனர் போலும் - என்று எண்ணி விடாதீர்கள்!!!
+கடவுளர் உலகு - எனவே, கேவலம் மானிடரைக் கட்டுப்படுத்தும்
+சட்டங்கள், அங்குச் செல்லுபடி யாகா! வழக்கம்போல மார்சும்,
+வீனசும், கடவுளர் பதவிகளிலேயேதான் இருந்து வந்தனர்.
+பக்தர்கள் கூட, இந்தக் கதையைக் கேட்டால் மனம் பதறி,
+கோயிலிலேயே இருப்பது இப்படிப்பட்ட குணக் கேடி என்று
+வெறுத்துப் பேசவில்லை. மார்சை மருவினாய் போற்றி! - என்று
+வீனசையும், வீனசை வென்றாய் போற்றி என்று மார்சையும்
+
+## Image 9: 009-c5b6575493.png
+
+- Image: `katturaigal/maji_kadavulgal6/009-c5b6575493.png`
+
+தொழுதுதான் வந்தனர். கணவனுக்கு, தன் சோரத்தனத்தையே
+காட்சியாக்கிக் கொடுத்த பெருங் குணவதி, வீனஸ், கிரேக்க,
+ரோம் நாட்டவருக்கு, வரம் தரும் கடவுளரில் ஒருவளாக இருந்து
+வந்தாள். - பலப்பல காலம். வீனசையும் மார்சையும் மட்டுமல்ல,
+அவர்கள் பெற்றெடுத்த ஹெர்மாயின், க்யூபிட், அண்டிராஸ்
+எனும் மூன்று தேவ குமாரர்களையும் வணங்கி வந்தனர். வீனஸ்
+தேவியின் விபசாரம், விண்ணுலகோடு நின்று விட்டது என்று
+எண்ணாதீர்கள் - மண்ணுலகத்தையும் அம்மை அவ்வப்போது
+பதம் பார்த்து வந்தார்கள். டி.ராய் நகர மன்னன் ஆன்ச்சிலீஸ்
+அம்மையின் காதலுக்கு இலக்கானான். ஈனாஸ் என்ற
+திருக்குமாரனைப் பெற்றாள்.
+
+மற்றோர் சமயம், வீனஸ் தேவி, அடவியிலே உலவிக்
+கொண்டிருந்தபோது, மரம் ஒன்று தானாகப் பிளந்தது. அதிலே
+ஒரு குழந்தை தெரிந்தது. வேறோர் தேவதையிடம் கொடுத்து
+அந்தக் குழந்தையை வளர்த்து வரச் சொன்னாள். இந்தக்
+குழந்தை, சுந்தரமான வாலிபனாக வளர்ந்தான் - வீனஸ்
+உள்ளத்திலே, காதல் மூண்டுவிட்டது! மகனென எண்ணித்தான்,
+மர இடுக்கிலிருந்து எடுத்தாள் - அரும்பு மீசைக்காரனானதும்,
+அவன், காதலைக் கிளறிடும் கட்டழகனாகவல்லவா ஆகி
+விட்டான் - அவள் என்ன செய்வாள் பாவம் - அவனைத்
+தன்னுடன் அனுப்பி வைக்கும்படி கேட்கிறாள் - அவனை
+வளர்த்து வந்தாளே, வேறோர் தேவி, அவள் இணங்கவில்லை -
+இரு இன்பவல்லிகளுக்கிடையே சிக்கித் தவிக்கிறான் அடனாய்ஸ்
+எனும் ஆணழகன். சிக்கல் நிறைந்த இந்த வழக்கு, முழுமுதற்
+கடவுளின் மன்றம் வந்தது. நாலு மாதம் வீனசுடன், நாலு மாதம்
+வளர்த்த தேவியுடன், மற்ற நாலு மாதம் உன் இஷ்டம் போல்,
+என்று தீர்ப்பளித்தாராம், ஐுவஸ்!
+
+என்னென்ன விதமான காமக்கூத்துக்கள், எப்படி ப்பட்ட
+சிக்கல்கள், வழக்குகள், கடவுளர் உலகிலே! பூஜாரிகள் இவை
+களையெல்லாம் புண்ணிய கதைகள் என்று கூறினர் - பாமரர்
+நம்பினர். புலவர்கள், இவை பற்றி இலக்கியச் சுவையுடன்
+எழுதினர், மக்கள் படித்து ரசித்தனர் - இப்படிப்பட்ட ஆபாசங்
+களா, கடவுள் என்ற உயர்ந்த தத்துவ விளக்கத்துக்குத் துணை
+செய்யும் மார்க்கம், என்பது பற்றி எண்ணிப் பார்க்கத் துணிவு
+பிறக்கவில்லை. கேள்வி கேட்கத் தைரியம் பிறக்கவில்லை. தேவ
+நிந்தனை செய்கிறான் என்று ஆத்தீகர்கள் கண்டிப்பரே என்ற
+பயம்!
+
+## Image 10: 010-a3a68980d1.png
+
+- Image: `katturaigal/maji_kadavulgal6/010-a3a68980d1.png`
+
+கரும்பு வில்லோன், பஞ்சபாணன் - என்று இங்கு,
+மன்மதனைக் குறிப்பிடுகிறார்களல்லவா, புராணிகர்கள் - இந்தக்
+கடவுளுக்கு ஈடாகத்தான், கிரேக்க, ரோம் நாட்டவர் வீனசின்
+மகன், க்யூபிட் தேவனைக் கொண்டாடி வந்தனர். காதற் கணை
+களைத் தொடுப்பது இந்தத் தேவனின் திருப்பணி. துள்ளு மத
+வேட்கைக் கணையாலே ஏற்பட்ட தொல்லைகள், கடவுளர்
+உலகிலே திருவிளையாடல்களாகி விட்டன.
+
+இப்படிப்பட்ட “புண்ணிய கதைகளைப் புல்லறிவு என்று
+கண்டு, ஒதுக்கித் தள்ளிவிட்டு, அந்த நாடுகளெல்லாம், உலக
+அரங்கிலே உயரிடம் பெற்றுத் திகழ்கின்றன. கடவுள் கொள்கை
+யிலே தெளியும் அறிவும் துலங்குகின்றன. மார்க்கத் துறை,
+மக்களிடை. வளரும் மாசுகளைத் துடைத்து மாண்புகளை
+வளர்க்கும் கருவியாக்கப்பட்டு விட்டது. கற்பனை அலங்
+காரங்கள், கவிதா ரசம் என்ற காரணம் பேசி, அங்கெல்லாம்,
+எறிந்த கட்சி எறியாத கட்சி பேசிடும் பாமரரும் கிடையாது,
+பெரும்பான்மையான மக்களைப் பாமரர் நிலையிலேயே இருக்கச்
+செய்து, சுரண்டிப் பிழைக்கும் எத்தர்களும் கிடையாது. வீனசும்
+மார்சும், வல்கனும் க்யூபிடும், கவிகளின் ஏடுகளிலே உள்ளனர்.
+மக்களின் மன்றத்திலே இருந்து மறைந்தனர் - மாஜிகளாயினர்.
+
+ப்பட
+
+யெமரின் உடலை, உலகு ஆலை எனும் பொறியைச்
+செலுத்திக் கொண்டிருந்தவர்களிடம், தேவர்கள் தூக்கிச்
+சென்றனர். அகோரக் கூச்சலுடன் ஆடிக் கொண்டிருந்த
+அந்த ஆலையிலே பேரசுரனின் உடலைப் போட, உடல்
+சின்னாபின்னமாக்கப்பட்டது. எலும்புகள் மலைகளாக
+மாறின! பற்கள், பெருங் கற்களாயின! இரத்தம் கடலாயிற்று!
+உடல் உலகமாயிற்று! மண்டை ஓடு, வானமாயிற்று!
+
+டியூடன் பிரபஞ்ச உற்பத்தி
+
+எல்லையற்ற இடம்! ஏதும் இல்லை! ஒளி, ஒலி, உருவம்,
+புல்பூண்டு ஒன்றும் இல்லை. பார்க்குமிடமெங்கும் நீக்கமறத்
+தெரிகிறது, பரந்த வெளி. வேறு எதுவும் இல்லை, கடலா அது?
+இல்லை கடலெனும் உருவம் படைக்கப்படாத காலம் அது.
+மண்ணா, விண்ணா? இரண்டுமல்ல! மண்ணும் விண்ணும்,
+முன்னதில் மாந்தரும் பின்னதில் சூரிய சந்திர நட்சத்திராதிகளும்,
+
+## Image 11: 011-6bf731c74a.png
+
+- Image: `katturaigal/maji_kadavulgal6/011-6bf731c74a.png`
+
+அமைவதற்கும் முன்னால் இருந்தது, ஓர் பெரும்வெளி - எல்லை
+யற்ற வெளி, காலத்தின் துவக்கம்!
+
+ந்தப் பெருவெளியிலே, காலம், கண் விழித்தது.
+ரூ து
+
+வெளியிலே, ஓர் குரல், கொந்தளிப்பு ஏற்பட்டது புகை
+சூழ்வது போல, நீர் பொங்குவதுபோல, பேரொலியுடன் பெரிய
+ஆறுகள் புரண்டோடுவது போல, ஓர் நிலை ஏற்பட்டது.
+வெளியிலே, இன்னதென்று புரிந்து கொள்ள முடியாத
+நிகழ்ச்சியின் துவக்கம். வெண்மை, கருமை, புகை, நீர், இப்படி
+நிறங்களும் உருவங்களும் அமைந்து எழலாயின. மூடுபனியும்,
+உறைந்த கட்டிகளும் தென்படலாயின - எல்லையற்ற வெளி
+இரு கூறாகக் காணப்பட்டது. ஒருபுறம், கொந்தளிப்பு, கரும்
+புகைப் படலம்! மற்றோர் புறம், ஒளி; அழகு, அமைதி!
+
+இருண்ட பகுதியிலே இறைவன் கட்டளைப்படி, வெப்பக்
+கதிர்கள் புகுந்தன. பனி கரையலாயிற்று! ஓரளவு, கரைந்தானதும்,
+அங்கிருந்து, மெள்ள மெள்ள, ஆடி அசைந்து கொண்டு
+களம்பிற்று பிரம்மாண்டமான ஓர் உருவம்! . அந்த உருவம்
+அரைத் தூக்கத்திலேயே இருந்தது. கோரமான அந்த
+பேரசுரனின் பெயர், யெமர். விழித்தெழுந்ததும், அவனுக்குக்
+கடும் பசி ஏற்பட்டது. என் செய்வான்?
+
+பசி! பசி! பசி! - சுற்றுமுற்றும் பார்க்கிறான் - பசி போக்க
+ஏதும் காணப்படவில்லை! எங்கும் உறைந்த பனி, உருகும் பனி,
+காற்று, வேறு ஏதுமில்லை. பசியோ வாட்டுகிறது. யெமர்
+திகைத்தான் - உண்ண ஏதேனும் கிடைக்குமா என்று அலைய
+லானான். கடும்பசி அவனுக்கு - பெருங்காற்று அவனைச் சுற்றி.
+காலத்தின் துவக்கத்தில் தோன்றிய பேரசுரன், பெரும்பசி தாங்க
+மாட்டாமல், வேதனையுடன் உலவலானான். கடவுளின்
+கட்டளைப்படி. வெப்பக் கதிர்கள் தமது வேலையைச் செய்து
+கொண்டே இருந்தன. உறைந்து கிடந்த பனிக்கட்டிகள் உருகிய
+படி. இருந்தன. யெமர் எனும் பேருருவம் தோன்றியவிதமாகவே,
+மற்றோர் உருவமும் தோன்றிற்று. அந்த உருவம், பிரம்மாண்ட
+மான ஓர் பசு!
+
+பசுவின் பெயர் ஆதும்லா. உறைந்த பனி மீது கடவுளின்
+ஆணைப்படி கதிர்கள்பட, அது உருக, உருகாத பகுதியினின்றும்
+உருப்பெற்றெழுந்த ஆதும்லா எனும் பசுவைக் கண்டான் யெமர்.
+வியப்புற்றான்! முதல் உருவம் இரண்டாவதாக எழுந்த உருவம்
+கண்டு, இது யாது? என்று ஆச்சரியப்பட்டு, அருகே சென்றது,
+தள்ளாடிக் கொண்டு! பசுவைச் சுற்றிலும் மூடுபனிப்படலம்.
+
+## Image 12: 012-57c1ac023c.png
+
+- Image: `katturaigal/maji_kadavulgal6/012-57c1ac023c.png`
+
+அருகே சென்று பார்க்கும்போது, ஆதும்லாவின் மடிக் காம்பு
+களிலிருந்து, பால் வழிந்து கொண்டிருக்கக் கண்டான். நாலு
+வெண்ணிற ஆறுகள் பெருக்கெடுத்தோடுவது போல வழிந்து
+கொண்டிருந்த பாலை, பேரசுரன் பருகலானான். பசி தீருமளவு
+பருகினான். மயங்கிக் கீழே சாயுமளவு பருகினான்! சாய்ந்தான்,
+உறங்கினான்.
+
+பால் கொடுத்து பேரசுரனை ரட்சித்த பசுவுக்குப் பசி
+பிறந்து விட்டது. புல்லும் பூண்டுமற்ற இடம். பசு கலங்கிற்று.
+
+பக்கத்திலே இருந்த ஒரு பனிப் பாறையை நாவினால்
+தடவித் தடவிப் பார்த்தது - அலுத்தது - பசி தீரவில்லை.
+
+பசுவுக்குப் பசி தரவில்லையே தவிர, அதன் நாவின்
+தடவுதல் பயன் தராது போகவில்லை. பனிப்பாறையின் ஊடே
+இருந்து ஏதோ உருவம் தெரியலாயிற்று. மூன்று நாட்களுக்குப்
+பிறகு, பசுவின் நா, பட்ட பாறை, கரைந்தது. முதல் தேவன்
+தோன்றினான். அவன் அழகன், பெயர் ப்யூர்.
+
+பிறகு, இருண்ட. பகுதியிலிருந்து, யெமர் போன்றவர்களும்
+ஒளிப் பகுதியிலிருந்து ப்யூர் போன்றவர்களும், உதித்தனர்.
+தேவரசுரப் போர் மூண்டது! கடும் போர்! வெற்றி யாருக்குக்
+கிடைக்கும் என்று தீர்மானிக்க முடி யாதபடியான சமர்.
+
+இறுதியில் யெமர் வீழ்த்தப்பட்டான். வீழ்ந்த பேரசுரனின்
+உடல் மீது தாவினர் தேவர்கள். கழுத்து நரம்புகளை ஆறுத்தனர்.
+இரத்தம் ஆறென ஓடி. வரலாயிற்று. அந்த இரத்தம், வழிய வழிய,
+ஆறளவிலிருந்து கடலளவாகி, அதிலேயே, யெமரின் சகாக்கள்
+மூழ்கி மடிந்தனர். பிறகு, யெமரின் உடலை, உலக ஆலை எனும்,
+பொறியைச் செலுத்திக் கொண்டி ருந்தவர்களிடம் தேவர்கள்
+தூக்கிச் சென்றனர். மாவரைக்கும் யந்திரம் போன்ற அந்தப்
+பொறியை, ஒன்பது அசுர மாதர்கள், செலுத்திக் கொண்டிருந்
+தனர். அகோரக் கூச்சலுடன் ஆடிக் கொண்டிருந்த அந்த ஆலை
+யிலே பேரசுரனின் உடலைப் போட, உடல் சின்னாபின்ன
+மாக்கப்பட்டது. எலும்புகள், மலைகளாக மாறின! பற்கள், பெருங்
+கற்களாயின! இரத்தம், கடலாயிற்று! உடல் உலகமாயிற்று!
+மண்டை ஓடு, வானமாயிற்று!! பிரபஞ்சம், இவ்விதம் சிருஷ்டிக்கப்
+பட்டதும், விண்ணிலே, சூரியன் சந்திரன், நட்சத்திரங்களைப்
+புதைத்தனர்.
+
+நம்புகிறீர்களா? நகைக்கிறீர்களா? நம்ப மறுப்பீர்கள்!
+ஆனால் இதை நம்ப மறுத்தவர்களை நாஸ்திகர்கள் என்று
+
+## Image 13: 013-43211f7e78.png
+
+- Image: `katturaigal/maji_kadavulgal6/013-43211f7e78.png`
+
+நிந்தித்த, தண்டித்த மக்கள் இருந்தனர். உலகம் உண்டான விதம்
+இதுதான் என்று நம்பி, பேரசுரனின் பிணமே இப்பிரபஞ்சம்
+என்று பேசிப் பசுவை வணங்கிய மக்கள் இருந்னர்.
+
+இப்படியும் ஒரு காட்டுமிராண்டிக் கூட்டம் உண்டா?
+எல்லையற்ற வெளியிலே ஒரு பேருருவம் தோன்றுவதாம்?
+அதற்குப் பால்தர ஓர் பசுவாம்! அந்தப் பசுவின் நா பட்ட
+இடத்தில் தேவனாம்! இவ்விதமாக ஒரு கூத்தா! சே! என்று
+கூறிடத் துணிவு கொள்வோர் ஏராளமாக இருக்க முடியும். ஒரு
+காலம் இருந்தது, இந்தக் கதையைத் தேவரகசியம் என்று பக்தி
+யுடன் கூறிக் கொண்டாடிய காலம்!
+
+ட்யூடன்! மக்கள் பிரபஞ்சம் இவ்விதமாகத்தான் உற்பத்தி
+செய்யப்பட்டது என்று நம்பி, புராணம் இயற்றி, அதனைத் தம்
+புனித ஏடெனக் கொண்டு, அதற்குத் தக்க பூஜைகளையும்
+ஏற்படுத்திக் கொண்டிருந்தனர்.
+
+இன்று? இந்தக் கதையை நம்புகிற கூட்டம், மேனாட்டிலே
+பித்தர் விடுதிகளிலேயும் கிடைத்தலரிது. மேனாட்டிலே,
+ஜெர்மனி, இத்தாலி, போலந்து, கிரீஸ் எந்த நாட்டிலேயும் சரி,
+சென்று அங்குள்ள பேராசிரியர்களை அல்ல, விஞ்ஞானிகளை
+அல்ல, கல்லூரி மாணவர்களை அல்ல, வயலில் வேலை
+செய்வோர், ஆலைத்தோழர் போன்றவர்களைக் கூடச் சரி,
+அப்பா! பிரபஞ்சம் உண்டான கதை தெரியுமா? யெமரின்
+பிரதாபம், ப்யூரின் பேரழகு, அதும்லாவின் அன்பு, தேவாசுரப்
+போர், இவை தெரியுமா? என்று கேட்டால், கேட். பவனின் மனம்
+குழம்பிக் கிடக்கிறது என்று எண்ணி விறைத்துப் பார்ப்பரே தவிர,
+ஆமாம்! அந்த தேவமா கதையை மறப்பாரும் உண்டோ! அதோ
+பாரும் அரசமரம், அதனருகே சென்று கிழக்குத் திசையாகச்
+சென்றால், ஒரு காத தூரத்தில் ஆதும்லா ஆலயம் காணலாம் -
+“அங்கு அண்டுக்கொரு முறை கல்பசுவின் காம்பி லிருந்து பால்
+பெருகும்! ஆண்டுக்கோர் முறை யெமர் கழுத்தறுப்பு விழா
+நடைபெறும்” - என்று கூறமாட்டார்கள். ஏனெனில், அறிவுக்கதிர்
+பரவியதும், மூளையில் படிந்திருந்த மூடுபனி கரைந்து
+போய்விடவே, அங்குச் சாதாரண மக்களுக்கும் இப்போது,
+தெளிவு பிறந்துவிட்டது. பிரபஞ்சம் உண்டான விதம் எப்படி
+என்று கேட்டால், அதற்கென்று உள்ள பிரத்யேக விஞ்ஞான
+நூற்களைக் காட்டுவர். மலையும் மாகடலும், நதியும் தவநிதியும்,
+காடும் மேடும், சூரியனும் சந்திரனும் ஒளிவிடு கதிர் களும், மழை
+விடு மேகமும், அலையும் ஆவியும், இன்னோரன்ன இயற்கைச்
+
+## Image 14: 014-41630d3f97.png
+
+- Image: `katturaigal/maji_kadavulgal6/014-41630d3f97.png`
+
+சக்திகளும், சக்திகளை உள்ளடக்கிய பொருள்களும் ஏற்பட்ட
+வகை பற்றி, எண்ணற்ற அறிஞர்கள், சிந்தித்துச் சிந்தித்துப்
+பரீட்சித்துக் கண்டறிந்த உண்மைகளை, ஏடுகளாக்கிப் புதிய
+எண்ணங்களை உலவவிட்டனர். இதன் பயனாகப் பழைய நாட்க
+ளிலே கட்டிவிடப்பட்ட கதைகள் சீந்துவாரற்றுப் போயின.
+
+எந்த நாட்டிலும், ஆதிகாலத்திலே, மக்கள் குருட்டறிவு
+பெற்றவராகத்தான் இருந்திருக்க முடியும். இன்று பாமர
+மக்களுக்கும் புரியக் கூடி யதாக்கப்பட்டு விட்ட பல விஷயங்கள்,
+பழங்காலத்தில், இருட்டறையிலே இருந்தன!
+
+முதலிலே, இயற்கைச் சக்திகளைக் கண்டு அஞ்சவும்,
+ஆச்சரியப்படவும், பூஜிக்கவும், புகழவுந்தான், மனிதன் பழகினான்.
+பிறகோ அவனுக்கு, அந்தச் சக்திகளின் இரகசியத்தைக் கண்டு
+பிடிக்க வேண்டும் என்ற ஆவல் ஏற்பட்டது. அந்த ஆவல்
+அறிவுத் தாகம்! அப்போது ஓவ்வொரு நாட்டிலும், ஏறத்தாழ
+ஒரேவிதமான கருத்துள்ள பல கதைகள் முளைத்தன. இந்தக்
+கற்பனைகளிலே ஒன்றுதான், முதலிலே கூறப்பட்டது. ட்யூடன்
+மக்கள் பலப்பல காலம் நம்பிய, தேவமா கதை. இங்குப் பேசப்
+படுவது போலவே அங்கும் தேவாசுரப் போர், இங்குக் கூறப்
+படுவது போன்ற காமதேனு, அங்குச் சிறிது மாற்றத்துடன்,
+இப்படிப் பல கதைகள் உலவின. இங்கு இன்று பழமையில்
+புதுமை தூவி மகிழும் பண்பினர் கூறுவர். “நமது மூதாதையர்
+மூடரல்ல! தேவர் - அசுரர் என்று இருவகையினரை அவர்கள்
+கற்பித்தனர் என்றால், அழகிய கருத்தின்மீதுதான் - அஃது
+என்னையோ எனில், இருளில் கெட்டதும், ஒளியில் நல்லதும்,
+இருப்பது பற்றி எண்ணிய நமது மூதாதையர், இருண்ட மேனியும்
+கறுத்த கருத்தும் கொண்டவர்களை அசுரர் என்றும், ஒளிவிடு
+மேனியும் தூய்மையான எண்ணமும் கொண்டவர்களைத்
+தேவர்கள் என்றும் கூறினர்! இருளுக்கும் ஒளிக்கும் போர்!
+அதனையே நமது ஆன்றோர் அசுரருக்கும் தேவருக்கும் போர்
+என்று கதை வடிவில் கூறினர்; ஒளியே, இருளை விரட்டி
+வெல்லும். எனவே தேவாசுர யுத்தத்தில், தேவர்களே வென்றனர்
+என்றனர் சான்றோர். இவ்வளவு அழகுற, ஆழ்ந்த கருத்துடன்
+அடிப்படை உண்மையை அனைவரும் புரிந்து கொள்வதற்காகக்
+கதைகளாக்கிய, அவர்தம் திறமே திறம்!” என்று பேசி மகிழ்வர்.
+மகிழ்வதுடன் நில்லார் . இத்தகு மதி, நமது பண்டையோர் தந்த
+நிதி! என்று பூரிப்பர், பூரித்ததுடன் நில்லாமல், இது போன்ற
+கற்பனைத் திறம், மதிவளம், உலகில் வேறு எங்கேனும்
+உண்டோ? - என்று கேட்பர்.
+
+## English Translation
+
+...and danced as they pleased, shamelessly calling this outrage theism. The king of Thebes despised it and interrogated a disciple of Bacchus. Enraged, Bacchus had the king killed by his own people. During a festival, when people drank and danced, their king supposedly looked like a wild boar to them through Bacchus’s skill, and in drunken frenzy they stabbed him to death.
+
+There were many such tales demonstrating Bacchus’s “glory.” Once, while he slept on the shore, men bound him, carried him aboard a ship, and tried to sell him as a slave in Egypt. Awakening at sea, Bacchus begged to be left on Naxos. They refused, and his curse stopped the vessel. New sails did nothing. Finally he cursed his captors into fish.
+
+Mythologists supplied stories of his love affairs too. Like other gods, this god of wine enjoyed public influence, temples, and celebrations while ordinary people remained gullible and daylight robbery of workers’ money under the name of devotion was called theism. Later Bacchus, beloved offspring of the primal god Zeus, shared his father’s fate and became a former god.
+
+When the gods saw beautiful Venus rise from sea foam, each competed to possess her. She increased their desire through her glances and movement but treated all with contempt. Zeus, angered by beauty joined with arrogance, humbled her by giving her as wife to Vulcan, the ugliest god in heaven.
+
+## Venus
+
+“Bridegroom who massaged the feet of the maiden whose words are syrup and fruit! Ah, what beautiful expression and delightful language! Some wretches refuse to appreciate it. Are their hearts stone? No, even stone melts before poetry. They possess no hearts, for they remain unmoved by verses sweetly portraying the Lord’s beauty and divine sport. Valli’s speech is syrup and fruit; would Murugan not massage her feet?”
+
+Many here praise the poet in this manner and claim that only our poets infused devotion into sweet verse. They argue that epics must be revered and their ideas accepted blindly: how crude to deny Murugan’s twelve arms when the poet beautifully sings of them! They use poetic fame as a shield against questions from reason and imagine that no other country presented mythological falsehood in beautiful poetry.
+
+They suppose ancient beliefs abroad perished only because no poets like Kamban or Villiputhurar sang incarnations and wars there, and hope art can preserve Stone Age theology. Yet Homer, Virgil, Shakespeare, Milton, Shelley, Keats, and Dryden possessed abundant imagination and charm. They too used ancient myths for allusion and simile, but their poetry did not save primitive doctrines. People praised the art while seeking reason for religious ideas and progressed.
+
+Poets placed names now found among former gods into enduring verse and narrated their exploits beautifully, but aesthetic feeling did not obstruct intellectual growth. If a sweet-speaking parrot says, “Fall into the pit,” we admire its speech and offer fruit; we do not obey. Likewise, thoughtful people separated poetry from obsolete ideas. Had the world accepted every idea because it appeared in attractive verse, Zeus, Hera, Apollo, and the rest would still occupy temples instead of becoming former gods.
+
+Sea foam is beautiful, pure white, composed of many drops, and vanishes as water at a touch. Seeing it, an imaginative mind created Venus, also called Aphrodite, born from sea foam. One day she supposedly appeared upon a shell and reached the shore near Cyprus, astonishing heaven with beauty and power to arouse desire. Cyprus still exists, but no mythologist there argues that this proves Venus real. When priestly control was strong, she had festivals, temples, garlands, and hymns, but only while people wandered in darkness.
+
+All the gods competed for Venus. She teased them and dismissed them. Zeus decided to crush her pride by marrying her to Vulcan, heaven’s ugliest deity. Venus was a golden-bodied beauty with flower-petal cheeks, coral lips, pearl teeth, enchanting smile, captivating gaze, slender waist, and peacock grace. Vulcan had a harsh face and lame leg and avoided the gods’ mockery. Yet the compassionate primal god joined this unmatched pair. Neither the gods protested nor Venus wept. She accepted the husband given her and thought another might win her heart. A woman betraying her husband was nevertheless worshipped as a goddess while people’s minds remained wax in priestly hands.
+
+Vulcan was lame and ugly but no ordinary being: son of Zeus and devoted to his mother Hera. Once Zeus, angered by Hera, bound her with a golden chain and suspended her from heaven. Vulcan tried to prevent the chain reaching earth. Zeus hurled him down, breaking his leg. Such were heavenly affairs and the family life of the supreme god worshipped by Greeks and Romans.
+
+Hera did not even inquire whether the son injured for her lived. Heartbroken, Vulcan vowed never to return to that home of villains. On Mount Etna he built a great forge, aided by one-eyed monsters, and made extraordinary objects. Two golden maidservants, statues capable of moving by themselves, accompanied him everywhere.
+
+He then sent Hera a beautiful golden throne that was secretly a trap. Once seated, she could not escape. All the gods failed to free her and appealed to Vulcan. He replied that the throne suited a mother indifferent to her injured son and refused to return. Finally they sent Bacchus, the god administering the heavenly department of drink. Bacchus intoxicated Vulcan, brought him to heaven, and secured Hera’s release. Vulcan built golden palaces and Zeus’s thunderbolt, but chose to remain on Etna.
+
+Beautiful Venus joined him there. How could a woman suited to playful romance beside a river endure a mountain forge, great fire, iron, and an ugly husband? She frowned, found a plan, and sought love elsewhere. Mars, god of war, became her new delight and visited nightly.
+
+Apollo discovered the affair and told Vulcan. Vulcan made an invisible brass net that looked like a coverlet but became a trap, placed it over Venus’s bed, and hid. Mars arrived; the lovers embraced; Vulcan tightened the net. Unable to escape, they cried out. Vulcan summoned every god to view the adulterers bound upon his own bed, and heaven laughed over the event for ages.
+
+Do not imagine Venus and Mars were punished. Human laws did not apply in heaven. They retained divine office, and devotees did not reject them. They worshipped Venus as one who embraced Mars and Mars as one who conquered Venus. For ages Greeks and Romans sought boons from her, and also worshipped their children Harmonia, Cupid, and Anteros.
+
+Venus’s affairs reached earth too. She loved Anchises, king of Troy, and bore Aeneas. Another time a tree split open to reveal a child whom she gave another goddess to raise. When Adonis became a handsome youth, Venus desired him. The foster goddess refused to surrender him, and Zeus judged that he spend four months with Venus, four with his foster mother, and four as he wished.
+
+Priests called these sexual intrigues sacred; poets adorned them and people enjoyed them. Fear of being condemned for blasphemy prevented questions about whether such obscenity could illuminate the lofty idea of God.
+
+As our mythologists call Manmatha bearer of a sugarcane bow and five arrows, Greeks and Romans worshipped Venus’s son Cupid, whose sacred task was shooting arrows of desire. Troubles caused by lust became divine sports.
+
+Those countries rejected such “sacred stories” as ignorance and rose in the world. Religion became a means to cleanse social defects and cultivate excellence. No one there now preserves discarded beliefs merely for imagination or poetry, nor do exploiters keep majorities ignorant through them. Venus, Mars, Vulcan, and Cupid remain in poets’ books but vanished from public worship and became former gods.
+
+Ymir’s body was carried to those operating the machine called the world-mill. Cast into its roaring mechanism, the giant’s body was shattered: bones became mountains, teeth great stones, blood the sea, flesh the world, and skull the sky.
+
+## The Teutonic Creation of the Universe
+
+At the beginning was limitless space: no light, sound, form, grass, sea, earth, or sky. Then time opened its eyes. A disturbance arose like smoke, surging water, and roaring rivers. Whiteness, darkness, mist, water, fog, and ice formed, dividing the expanse into two: turmoil and black smoke on one side, light, beauty, and peace on the other.
+
+By God’s command rays of heat entered the dark region and melted the ice. From it slowly emerged a gigantic, half-sleeping monster named Ymir. He awoke ravenously hungry but found only ice, melting water, and wind.
+
+As heat continued its work, another immense form emerged: the cow Audhumla. Ymir saw milk flowing from her udders like four white rivers, drank until his hunger ended and he collapsed asleep.
+
+The cow then grew hungry in a place without vegetation. She licked a nearby ice-rock. Though this did not feed her, a form appeared within the ice. After three days of licking, the first god, handsome Buri, emerged.
+
+More beings like Ymir arose from darkness and beings like Buri from light. A fierce war between gods and demons followed. Eventually Ymir fell. The gods severed his neck; his blood grew from river to sea and drowned his companions. Nine giant women operating the roaring world-mill ground his body. Bones became mountains, teeth rocks, blood sea, body world, and skull sky. Sun, moon, and stars were then planted in heaven.
+
+Do you believe or laugh? People once denounced and punished those who refused this account. They worshipped the cow and called the giant’s corpse the universe. Today one readily mocks such barbarism, but there was an age when this was celebrated as divine mystery and made sacred Teutonic scripture with corresponding worship.
+
+Now believers in this story are scarcely found even in Western asylums. Ask workers in Germany, Italy, Poland, or Greece about Ymir, Buri, Audhumla, and their divine war, and they will suspect confusion rather than direct you to an annual cow-milking temple or Ymir-beheading festival. Knowledge dissolved the fog in ordinary minds. Scientific works now explain cosmic origins through truths tested by countless thinkers, and old invented stories became unwanted.
+
+Every people must have begun in ignorance. Humans first feared, marvelled at, worshipped, and praised natural forces, then developed a thirst to discover their secrets. Similar stories sprouted everywhere. The Teutonic tale was one: like ours it contained gods and demons, and its Audhumla resembled Kamadhenu.
+
+Here defenders say our ancestors used gods and demons symbolically: darkness represented evil, light goodness, and their conflict the victory of light. They praise the skill that made deep truth understandable through story, call such wisdom an ancestral treasure, and ask where else in the world such imagination and intellect existed.
+
+## Translator's Notes
+
+Part 6 begins in the middle of the Bacchus account from `maji_kadavulgal5.md`. It ends with the argument about the supposed uniqueness of ancestral imagination, continued directly by `maji_kadavulgal7.md`.
+
+Conventional English names are used for identifiable source forms: `பேகஸ்` (Bacchus), `ஜுவஸ்` (Zeus), `வீனஸ்/அப்ரோடைட்` (Venus/Aphrodite), `வல்கன்` (Vulcan), `ஹீரா` (Hera), `மார்ஸ்` (Mars), `அபாலோ` (Apollo), `க்யூபிட்` (Cupid), `அடனாய்ஸ்` (Adonis), `யெமர்` (Ymir), `ஆதும்லா` (Audhumla), and `ப்யூர்` (Buri). The Tamil OCR is retained verbatim.
+
+Some names in the Venus genealogy are OCR-variable or reflect older spellings (`ஹெர்மாயின்`, `அண்டிராஸ்`, `ஆன்ச்சிலீஸ்`, `ஈனாஸ்`). Their conventional readings are used cautiously in English without silently correcting the source.
+
+Isolated OCR debris and damaged typography remain in the source block and are omitted from the translation where they carry no recoverable meaning.

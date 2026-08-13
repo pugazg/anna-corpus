@@ -1,0 +1,1 @@
+../../md_pages/kadithangal/patru_1.md

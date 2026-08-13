@@ -1,0 +1,1 @@
+../../md_pages/kadithangal/rajya_sabayil_2.md

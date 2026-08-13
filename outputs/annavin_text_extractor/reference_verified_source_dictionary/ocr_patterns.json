@@ -1,0 +1,49 @@
+{
+  "patternCounts": {
+    "Hout": {
+      "name": "mixed_language_tesseract_read_tamil_as_latin",
+      "examples": [
+        {
+          "word": "Hout",
+          "right": "அவர்",
+          "page": "katturaigal/aangilampol.md"
+        }
+      ]
+    },
+    "௮வர்": {
+      "name": "tamil_digit_eight_misread_as_initial_a",
+      "examples": [
+        {
+          "word": "௮வர்",
+          "right": "அவர்",
+          "page": "katturaigal/aangilampol.md"
+        }
+      ]
+    },
+    "zero_width_after_pulli": {
+      "name": "strip_invisible_zero_width_marks_for_searchable_text",
+      "examples": [
+        {
+          "word": "அவர்‌",
+          "right": "அவர்",
+          "page": "all OCR markdown"
+        }
+      ]
+    },
+    "ந்த_as_நீ": {
+      "name": "tesseract_read_ntha_cluster_as_nii",
+      "examples": [
+        {
+          "word": "மாநீதர்க்குந்",
+          "right": "மாந்தர்க்குந்",
+          "page": "katturaigal/aangilampol.md"
+        },
+        {
+          "word": "தாநீதாம்",
+          "right": "தாந்தாம்",
+          "page": "katturaigal/aangilampol.md"
+        }
+      ]
+    }
+  }
+}

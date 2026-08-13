@@ -1,0 +1,1 @@
+../../md_pages/kadithangal/adakkumurai_kural.md

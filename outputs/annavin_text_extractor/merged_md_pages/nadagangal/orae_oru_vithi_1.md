@@ -1,0 +1,1 @@
+../../ocr_text_corrected/nadagangal/orae_oru_vithi_1.md

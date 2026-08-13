@@ -1,0 +1,202 @@
+# நெல்லை மாவட்ட தி. மு. க. மாநாடு / Nellai District DMK Conference
+
+**Tamil title:** நெல்லை மாவட்ட தி. மு. க. மாநாடு  
+**English title:** Nellai District DMK Conference  
+**Source file:** `sorpozhivugal/nellai_mavatta.md`
+
+## Source Tamil (verbatim)
+
+- Source image folder: `/Users/pugazhendhirajendran/Documents/Codex/2026-07-09/https-www-annavinpadaippugal-info/outputs/annavin_text_extractor/ocr_images/sorpozhivugal/nellai_mavatta`
+- OCR language: `tam`
+- Tesseract page segmentation mode: `3`
+- OCR cleanup: `enabled`
+
+## Image 1: 001-40c1f1a847.png
+
+- Image: `sorpozhivugal/nellai_mavatta/001-40c1f1a847.png`
+
+39
+
+நெல்லை மாவட்ட
+தி. மூ. ௧. மாநாடு
+
+28-08-1950 அன்று கோவில்பட்டியில் நடைபெற்ற
+கூட்டத்தில் பொதுச்செயலாளர் ஆறிஞர் அண்ணா ஆற்றிய
+சொற்பொழிவு:-
+
+தோழர்களே!
+
+“டில்லி ஆதிக்கம் நம்மீது வளர்ந்து கொண்டே போகிறது.
+அதை எதிர்த்து, வாகை சூடிட. வேண்டியவர்களாக நாம்
+இருக்கிறோம். அதற்கான காரியங்களைச் செய்ய வீர உணர்ச்சி
+வேண்டும் - திட்டம் வேண்டும் என்று என் தம்பிமார்கள்
+துடிக்கிறார்கள். திட்டங்கள் இருக்கின்றன, ஏராளம்.
+அவைகளைப் பற்றி மக்களிடைப் புயல் வேகத்தில் பரப்பும்
+பிரச்சாரத் தோழர்களும் இருக்கிறார்கள். அவைகளைத்
+திடமனத்தோடு நிறைவேற்றும் பொறுப்பும், கட்டுப்பாடும் நமது
+கழகத்தவரிடையே வளர்ந்தால் - நமது இலட்சியபுரிப் பயணம்
+நெருங்கிவிடும். விரைவில் வெற்றி பெற்று விடுவோம். அத்தகைய
+சூழ்நிலையைச் சோதிக்கும் ஆசையுடன், துடித்து நிற்கும் என்
+தம்பிமார்கள்முன் பரீட்சார்த்தமாக இரண்டொரு திட்டங்களைத்
+தருகிறேன். அதில் ஒன்றுதான் டில்லி மந்திரிகளுக்குக் கருப்புக்
+கொடி. பிடிப்பது. தனிப்பட்ட. முறையில் நாம் அவர்களை
+வெறுக்கவில்லை. நேசிக்கவும் காரணமில்லை. அனால் அவர்கள்
+ஆதிக்கத்தால் அழிகிறது, நாடு! அதைக்காட்ட.க் கருப்புக் கொடி...
+பல பிரச்சினைகள் நம்மைச் சூழ்ந்து கிடக்கின்றன. இவற்றைத்
+தீர்க்க முடியவில்லை - தீர்க்க முயலும் மாகாண சர்க்காரையும்
+திகைக்கச் செய்கிறார்கள். ஆகவே நம்மிடை வளர்கிறது,
+அதிருப்தி! அதை, அவர்களுக்குத் தெரிவிக்கக் கருப்புக் கொடி!
+
+## Image 2: 002-e5da37eb32.png
+
+- Image: `sorpozhivugal/nellai_mavatta/002-e5da37eb32.png`
+
+டில்லி மந்திரிமார்கள் வந்தால், அவர்கள் உங்கள்
+கரங்களிலெல்லாம் கருப்புக் கொடியையே காண வேண்டும்!
+சிற்றூரோ, நகரமோ எங்கானாலும் அவர்கள் கண்களில் கருப்பே
+தென்பட வேண்டும். உணவில்லாது எங்கள் குடும்பங்களைப்
+பட்டினி போடுகிறாயே அடுக்குமா? என்று கேட்டுத் தாய்மார்கள்,
+அடுப்பங்கரையிலிருக்கும் கரித்துணியைக் காட்டி அவர்களை
+வரவேற்க வேண்டும். கரித்துணி கிடைக்க வேண்டுமே என்ற
+கஷ்டம் கூட. இல்லை நமக்கு - நமது உழைப்பால் உடம்பிலிருந்து
+வழியும் வியர்வையைத் துடைத்து அதைக் காட்டுங்கள்
+போதும்!
+
+டி.ல்லி மந்திரிமார்களை நோக்கிக் கூறுங்கள், “டெல்லி
+சலோ : டெல்லிக்குத் திரும்பிச் செல்!" என்று அவர்கள் இங்கு
+வந்தால், நமது அதிருப்தியைக் காட்டும் வகையில் கருப்புக்
+கொடியோடு, திரும்பிச் செல் டெல்லிக்கு என்ற முழக்கம்
+நாடெங்கும் எழும்ப வேண்டும்.
+
+டில்லி மத்திய சர்க்காரில் மந்திரியாக இருக்கும் எவர்
+வந்தாலுஞ் சரி, கருப்புக்கொடி. காட்டப்பட வேண்டும்! நமது
+கழகங்களிருக்குமிடங்களிலெல்லாம் அவர்களைக் கருப்புக்
+கொடியே வரவேற்க வேண்டும்! வடநாட்டு ஆட்சியில் நமக்குத்
+திருப்தியில்லை; நமக்கான நலனில் மத்திய ஆட்சி அக்கறை
+காட்டவில்லை. நமது தேவைகளை மத்திய ஆட்சி மதிக்கவில்லை.
+நம்மை இழி நிலையில் வைத்துச் சித்திரவதைப்படுத்தும் டில்லி
+ஆட்சியை நாம் விரும்பவில்லை. நமக்கு அதிருப்திதான்
+ஏற்பட்டிருக்கிறது. ஆகவே நமது அதிருப்தியைத்
+தெரியப்படுத்த - அங்கிருந்து எந்த மந்திரி வந்தாலும்,
+கருப்புக் கொடி பிடிக்கப்பட. வேண்டும். தயாரா? என்று
+கேட்டால், கூடியுள்ளோர் அனைவரும் கரங்களை உயர்த்திக்
+காட்டி விட்டீர்கள். அனால் இந்த வீர உணர்ச்சியிலிருந்து
+வழுக்கி விழுந்து விடக்கூடாது. நமது உரிமைக் கிளர்ச்சியை
+எதிரிகள் கேலி செய்யுமாறு விட்டு விடாதீர்கள்!
+
+கருப்புக்கொடி. காட்டினால் சுலபத்தில் விட்டுவிட.
+மாட்டார்கள்; அளவந்தார் சிறைக்குள்ளே தள்ளலாம்!
+தடியடிகளால் தாக்கலாம்! சித்திரவதை செய்யலாம்! இவைகளை
+யெல்லாம் ஏற்றுத் தியாகத் தழும்புகளோடு, நமது இலட்சிய
+கீதத்தின் பெருமையை உயர்த்த வேண்டும்.
+
+இதை உடனடி வேலைத் திட்டமாக நமது கழகத்
+தலைவர்கள் கொள்ள வேண்டுமெனக் கேட்டுக் கொள்கிறேன்.
+
+## Image 3: 003-5b731fa326.png
+
+- Image: `sorpozhivugal/nellai_mavatta/003-5b731fa326.png`
+
+எந்த இடத்துக்காயினுஞ் சரி, எதற்காக அனாலும் சரி, டில்லி
+அதிபத்தியத்தை வளர்க்கும் மத்திய சர்க்கார் மந்திரிமார்கள் எவர்
+வந்தாலும் சரி!
+
+வருகிறார் என்று தெரிந்ததும் கிளைக் கழகத்தின்
+கமிட்டி யைக் கூட்டுங்கள். அதிருப்தி காட்டும் வகைக்கான செயற்
+கமிட்டியொன்றை அமைத்துக் கொள்ளுங்கள். “நாங்கள்
+பகிஷ்காரம் செய்யப் போகிறோம்” என்று போலீசாருக்குத்
+தெரிவித்து விடுங்கள். ஏன்? என்று கேட்கலாம் எங்களுக்கு
+வடவரின் ஆட்சியில் திருப்தி இல்லை என்று தெரிவியுங்கள்.
+'கூடாது' என்று தடுக்கலாம் அதிகாரிகள். தடையுத்தரவு
+போடலாம். அதிகாரத்தால் மிரட்் டலாம். அடக்குமுறைகளை
+வீசலாம். அஞ்ச வேண்டாம். தடையை மீற வேண்டிய
+சூழ்நிலைக்கு அளவந்தார் நம்மைக் கொண்டு வந்தால் தயங்க
+வேண்டாம்! நமது அதிருப்தியைக் காட்டிக் கொள்ள கருப்புக்
+கொடி பிடித்துத் தீத்தான் வேண்டும்!
+
+சட்டம், ஓழுங்கு இவைகளுக்கு நாம் எப்போதும்
+கட்டுப்பட்டவர்கள். அவைகளைத் துச்சமென நினைப்பவர்
+களல்ல நாம். அகவே, அமைதியான முறையில், ஒழுங்கு தவறாமல்
+நமது உறுதி தளராமல், எடுத்த செயலை முடித்துக் காட்டுங்கள்.
+டி.ல்லி மந்திரிமார் பகிஷ்காரத்தை நடத்திக் காட்டுங்கள்.
+தடைகளை வீசினால், தயங்க வேண்டாம்! கிறைக் கதவைக்
+காட்டுவார்கள் சிந்தாகூலம் கொள்ள வேண்டாம்! செல்லுங்கள்,
+சென்று வாருங்கள்! கவனமிருக்கட்டும், தயாராயிருங்கள்!
+
+இரயில்வே நிலைய போர்டுகளில் தமிழைத்
+தாழ்த்தியிருக்கும் அநியாயத்தைக் குறித்துச் சென்னையிலே
+நடைபெற்ற இந்தி எதிர்ப்பு வெற்றி நாள் விழாவிலே நான்
+குறிப்பிட்டேன்: - இங்கு பேசிய நமது தோழர்களும்
+ஆத்திரத்தோடு, அவேசக் குரல் எழுப்பினர். அது பற்றியும் நாம்
+ஒழுங்கான நடவடிக்கை எடுக்க வேண்டியவர்களாகிவிட்டோம்.
+தலைப்பில், இந்தியில் ஊர்களின் பெயர்களையும், கீழே தமிழில்
+பெயர்களையும் எழுதியிருக்கும் முறை நம் தாய்மொழியை
+அவமானப்படுத்துகிறதாக மட்டுமல்ல - நமது சுயமரியாதைக்கே
+தீங்கு விளைவிக்கிறது. 'நமக்கு மானமுண்ட.ா?” என்று கேட்பது
+போலிருக்கிறது. இந்த அநியாயத்தை, அவமானத்தைத் துடைக்கத்
+தான் வேண்டும் - தூங்கிக் கொண்டிருக்க முடியாது! செயற்குழு
+இன்று நிறைவேற்றும் தீர்மானத்தையொட்டி. இரயில்வே
+போர்டாருக்கும் மத்திய ஆளவந்தாருக்கும் ஒருமாத நோட்டீஸ்
+
+## Image 4: 004-f67d37916d.png
+
+- Image: `sorpozhivugal/nellai_mavatta/004-f67d37916d.png`
+
+தரப்போகிறோம். தாய்மொழியை அவமதிக்கும் இந்தப்
+போர்டுகளை மாற்றியமைக்க ஒருமாதத் தவணை
+தரப்போகிறோம். ஒரு மாத காலத்திற்குள் இந்தி எழுத்துக்கள்
+தலைப்பிலிருக்கும் முறை மாற்றப்படாவிட்டால் அதற்கெனக்
+கிளர்ச்சி துவக்கத்தான் வேண்டும். துவக்கித்தான் தீருவோம்,
+ஆட்சியாளரிடமிருந்து திருப்திகரமான பதில் கிடைக்கவில்லை
+யென்றால்! ஒரு மாத காலத் தவணை தந் துவிட்டுப் பொறுத்துப்
+பார்ப்போம். பதில் நம் அத்திரத்தைக் குறைப்பதாக
+இல்லாதிருந்தால் அடுத்த மாதம் சிவகெங்கையில் கூட விருக்கும்
+மாவட்ட மாநாட்டின் போது செயற்குழு கூடும் நேரத்தில்
+இதைப் பற்றி அலோசித்து, போர்டு அழிப்புப் போராட்டங்
+குறித்து, முடிவு கட்டியே தீருவோம்!"
+
+## English Translation
+
+Speech delivered by General Secretary Arignar Anna at the meeting held in Kovilpatti on 28 August 1950:
+
+Comrades!
+
+“Delhi's domination over us continues to grow. We are the ones who must oppose it and emerge victorious. My younger brothers are eager, saying that we need courage and a plan to carry out the necessary work. There are plans, many of them. There are also propaganda workers who can spread them among the people with the speed of a storm. If our movement's members develop the responsibility and discipline to carry them out with firmness, our journey toward the city of our ideals will draw near. We shall soon achieve victory.
+
+“Before my younger brothers, who stand eager to test such a situation, I offer one or two plans by way of experiment. One of them is to show black flags to ministers from Delhi. We do not personally hate them, nor do we have any reason to love them. But the country is being ruined by their domination. The black flag is meant to demonstrate that fact. Many problems surround us. They cannot be solved, and even the provincial government that tries to solve them is left bewildered. Dissatisfaction therefore grows among us. The black flag is meant to communicate that dissatisfaction to them.
+
+“When ministers from Delhi arrive, they must see black flags in every one of your hands. Whether in a small village or a city, black must meet their eyes everywhere. Mothers must ask, ‘Do you rule only to leave our families starving without food?’ and welcome them by showing the soot-blackened cloth from the hearth. We do not even face the difficulty of finding such a piece of black cloth. Simply show them the cloth with which you wipe away the sweat that pours from your body through your labour.
+
+“Tell the Delhi ministers, ‘Delhi chalo: go back to Delhi!’ When they come here, the cry ‘Go back to Delhi!’ must rise throughout the land, accompanied by black flags displaying our dissatisfaction.
+
+“Whoever comes as a minister of the Union government in Delhi must be shown a black flag. Wherever our branches exist, black flags alone must welcome them. We are not satisfied with northern rule. The Union government shows no concern for our welfare and does not respect our needs. We do not want the Delhi administration that keeps us in a degraded condition and torments us. We have become dissatisfied. Therefore, to make our dissatisfaction known, a black flag must be raised whenever any minister comes from there.
+
+“When I asked whether you were ready, every person assembled here raised a hand. But you must not slip and fall away from this courageous feeling. Do not permit our agitation for rights to become an object of ridicule for our adversaries.
+
+“If you show a black flag, they will not let you off easily. The rulers may throw you into prison. They may attack you with batons and torture you. Accept all this and, bearing the scars of sacrifice, raise the glory of the anthem of our ideals.
+
+“I ask the leaders of our movement to adopt this as an immediate programme of action.
+
+“It applies wherever they may come, whatever the purpose of their visit, and whichever minister of the Union government that advances Delhi's domination may arrive.
+
+“As soon as you learn that one is coming, convene the committee of the local branch. Form an action committee to demonstrate your dissatisfaction. Inform the police, ‘We are going to conduct a boycott.’ They may ask why. Tell them that we are dissatisfied with northern rule. The authorities may try to stop you, saying it is not permitted. They may issue prohibitory orders, intimidate you with official power, and unleash repression. Do not be afraid. If the rulers create a situation in which we must defy the prohibition, do not hesitate. We must raise the black flag and demonstrate our dissatisfaction.
+
+“We have always submitted to law and order. We are not people who treat them with contempt. Therefore, peacefully and without breaching discipline, but without weakening your resolve, complete the action you have undertaken. Carry out the boycott of Delhi ministers. If prohibitions are imposed, do not hesitate. If they point to the prison door, do not be distressed. Go, and return. Stay alert and remain prepared.
+
+“At the celebration in Madras marking the victory of the anti-Hindi campaign, I referred to the injustice of relegating Tamil on railway-station signboards. Our comrades who spoke here also raised passionate and indignant voices about it. We have now become obliged to take organised action on that issue as well. The practice of writing place names in Hindi at the top and in Tamil below not only insults our mother tongue; it also injures our very self-respect. It is as though someone were asking us, ‘Do you possess any honour?’ We must wipe away this injustice and humiliation. We cannot remain asleep.
+
+“In accordance with the resolution that the Executive Committee will adopt today, we are going to give the Railway Board and the Union rulers one month's notice. We will allow one month for these boards that insult our mother tongue to be rearranged. If the practice of placing Hindi letters at the top is not changed within a month, we must begin an agitation specifically for that purpose, and we certainly shall begin it if no satisfactory answer comes from the rulers.
+
+“Let us give them a month and wait. If the reply does not diminish our indignation, then when the Executive Committee meets during next month's district conference at Sivaganga, we shall deliberate and reach a definite decision on an agitation to erase the signboards.”
+
+## Translator's Notes
+
+The scan title is “நெல்லை மாவட்ட தி. மு. க. மாநாடு.” OCR misreads the party abbreviation; the clean title is used in English and title metadata while the Tamil source block remains verbatim.
+
+“டெல்லி சலோ” conventionally means “Onward to Delhi,” but the speaker immediately glosses it here as “டெல்லிக்குத் திரும்பிச் செல்” (“go back to Delhi”). The translation preserves both the slogan as spoken and the source's own explanation.
+
+“பகிஷ்காரம்” is a historical Tamil borrowing meaning boycott. “போர்டு அழிப்புப் போராட்டம்” refers in context to an agitation to erase or alter the offending language order on railway signboards, not to destroy the railway infrastructure.
+
+“ஆளவந்தார்” is rendered contextually as rulers or authorities. OCR sometimes drops its initial vowel.
+
+Political and historical assertions, including the planned campaigns and descriptions of Union and provincial rule, are translated in the speaker's 1950 voice and have not been independently verified.

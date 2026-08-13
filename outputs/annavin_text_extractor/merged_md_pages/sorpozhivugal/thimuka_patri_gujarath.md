@@ -1,0 +1,1 @@
+../../md_pages/sorpozhivugal/thimuka_patri_gujarath.md

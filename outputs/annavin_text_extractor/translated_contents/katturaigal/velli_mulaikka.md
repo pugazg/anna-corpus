@@ -1,0 +1,607 @@
+# வெள்ளி முளைக்க / For the Morning Star to Rise
+
+**Tamil title:** வெள்ளி முளைக்க  
+**English title:** For the Morning Star to Rise  
+**Source file:** `katturaigal/velli_mulaikka.md`
+
+## Source Tamil (verbatim)
+
+- Source image folder: `/Users/pugazhendhirajendran/Documents/Codex/2026-07-09/https-www-annavinpadaippugal-info/outputs/annavin_text_extractor/ocr_images/katturaigal/velli_mulaikka`
+- OCR language: `tam`
+- Tesseract page segmentation mode: `3`
+- OCR cleanup: `enabled`
+
+## Image 1: 001-d5ede385b7.png
+
+- Image: `katturaigal/velli_mulaikka/001-d5ede385b7.png`
+
+34. வெள்ளி முளைக்க
+6
+
+ஆண்டுகள்!
+“வகுப்புவாதம்” - சோகத் தொடர்கதை
+
+மேடையில் பேசும்போது, எல்லோரும் சரியாகத்தான்
+பேசுகிறார்கள். ஆனால், தனியே சந்தித்துப் பேசுகையில் வகுப்பு
+வாதம் அவர்களைப் பிடித்துக்கொள்கிறது.
+
+இத்த நிலைமை நீடிக்குமானால், இந்தியா முன்னேற முடியாது.
+
+என்ற முதலமைச்சர் ஓமந்தூரார், சென்னையில் சென்ற கிழமை
+பேசியிருக்கிறார்.
+
+வெளுத்ததெல்லாம் பால். கருத்ததெல்லாம் நீர் என்ன நம்புபவர்,
+ஓமந்தூரார் என்று கூறுகிறார்கள். அப்படிப்பட்டவர், 'ராஜதந்திரத்துக்காக '
+இதுபோல் பேசியிருக்க முடியாது. உண்மையாகவே, உள்ளத்திலிருந்தே,
+இந்தக் கருத்து வெளிவந்திருக்கவேண்டும். வெறும் உதட்டசைவாக
+இருக்கமுடியாது.
+
+முதலமைச்சரின் இந்தப் பேச்சிலே, சலிப்பும் திகைப்பும்
+தோய்ந்திருக்கிறது. வகுப்புவாதம் கூடாது என்பது முதலமைச்சரின் ஆவல்.
+அந்த ஆவலின் காரணமாக அவர், வகுப்புவாதம் எங்காவது தலை
+காட்டுகிறதா என்று தேடிப் பார்க்கிறார் - யார் வகுப்புவாதம் பேசுகிறார்கள்
+என்று பார்க்கிறார், மேடை ஏறிப் பேசுபவர்களைக் கவனிக்கிறார். அவர்கள்
+யாரும், வகுப்பு வாதம் பேசுவதில்லை - ஆனால், தனிப்பட்ட மறையில்
+
+## Image 2: 002-425a1fa598.png
+
+- Image: `katturaigal/velli_mulaikka/002-425a1fa598.png`
+
+சந்திக்கும்போது, வகுப்புவாதம் அவர் எதிரே தெரிகிறது - எப்படி வந்தது
+அவர் திகைக்கிறார்!
+
+மேடைஏறி, இந்தியர், பாரத புத்ரா, என்று பேசிய கிலா,
+முதலமைச்சர் முன்போ, அல்லது அவர் கவனிக்கிறார் என்பதறியாமல்,
+வேறு யாரிடமோ, 'வகுப்புவாதியாகப் பேசியிருக்க வேண்டும் -
+அதனாலேதான் சலிப்பும் திகைப்பும் தோய்ந்த குரலில், மூதலமைச்சர்
+கூறுகிறார், மேடை ஏறிப் பேசும்போது சரியாகத்தான் பேசுகிறார்ககள்.
+தனிப்பட்ட முறையிலேயோ வகுப்புவாதம் பேசுகிறார்கள் என்று.
+
+“வாங்க! செளக்யந்தானே/ கதர் விற்பனை எப்படி? அரிஜன சங்கம்
+சரியாக வேலை செய்கிறதா? ' - என்று முதலமைச்சர், ஏதோ ஓர்
+ஊரிலிருந்து வந்த, காங்கிரஸ் தோழரை விசாரிக்கிறார். அவர்,
+“செளக்யந்தான்! கதர் விற்பனை பரவாயில்லை! '' என்று பதில் கூறிவிட்டு,
+''இது கிடக்கட்டும், ஏன் இப்படி ஒரே பார்ப்பன ராஜ்யமாகி வருகிறது - ''
+என்று ஒரு வெடிக்குண்டு வீசுகிறார், மூதலமைச்சர் அருவருப்படைந்து,
+''என்ன சொல்கிறீர்?'' என்று கேட்க, குறை கூறியவர், ''எங்கள் ஊரிலே,
+கலெக்டர் பார்ப்பனர், எப்படியாவது ஒரு தமிழனாக இருக்கவேண்டு
+மென்று நான் கிளிப்பிள்ளைக்குச் சொல்வது போலச் சொன்னேன் -
+சட்டையே செய்யாமல், எப்படியும் ஒரு ஐயராகவே கொண்டுவந்து
+போட்டீர்கள். இது என்ன நியாயம்! இப்படி, பெரிய உத்யோசஸ்த
+ரெல்லாம், ஐயர்மார்களாக இருந்தால், நாங்கள் என்ன செய்வது'' என்று
+கூறுகிறார். முதலமைச்சர் திகைக்கிறார். ''அடடா, எப்படிப்பட்ட தேசபக்தர்
+இவர் அலிபுரம் சிறையிலே ஆறு வருஷம் இருந்தார் - அப்பழுக்கற்ற
+தியாகி. இப்படிப்பட்டவர், வகுப்பு வாதம் பேசுகிறாரே, என்னென்பது
+இந்தப் போக்கை! இவரே சென்ற மாதம், வகுப்புவாதம் ஒரு கொடிய நோய்
+என்று பேசினார், என்று பத்திரிகையில் படித்தேனே - என் எதிரே இப்போது
+வகுப்புவாதம் பேசுகிறாரே!'' என்று எண்ணித் திகைக்கிறார்
+
+இவ்விதமான பல சம்பவங்களைக் கண்ட அனுபவத்தால் மட்டுமே,
+முதலமைச்சர், திகைத்துப் போய், அன்று சென்னையில் அவ்விதம்
+பேசியிருக்க வேண்டும். அவருடைய அனுபவம், காங்கிரஸ்
+வட்டாரத்திலே பெற்றதாகத்தானே இருக்க முடியும் - நமது பக்கம்கூட அவர்
+தலைவைத்துப்படுத்தறியாதவராயிற்றே! அனுபவபூர்வமாக ஐர்
+
+## Image 3: 003-2d25ca957b.png
+
+- Image: `katturaigal/velli_mulaikka/003-2d25ca957b.png`
+
+உண்மையை மூதலமைச்சர் கண்டறிநதிருக்கிறா£ா; வகுப்புவாதம்,
+மேடையில் தெரிவதில்லை, தனிப்பட்ட சந்திப்புகளின்போது, அதன்
+தாண்டவம் இருக்கிறது. அவர் திகைக்கிறார். மேடையிலே, வகுப்புவாதம்
+பேசுபவர் இல்லை - செயலிலும், தனியான பேச்சுகளிலும், வகுப்புவாதம்
+வேலை செய்கிறது, என்று அனுபவபூர்வமாகக் கண்டறிந்து, திகைத்து,
+௮நீத வகுப்புவாதம், இந்தியாவையே நாசமாக்கிவிடும் என்று கூறிக்
+கவலைப்பட்டு, வகுப்புவாதத்தை விட் டொழிக்கும்படி, அன்புரை
+வழங்குகிறார். ஆனால், முதலமைச்சர் ஓமந்தூராரே, இன்று ஓர்
+வகுப்புவாதியாகக் காணப்படுகிறார், பல காங்கிரஸ் தலைவர்களின்
+கண்களுக்கு!
+
+வகுப்புவாதம் கூடாது என்றுதான் அவர் பேசுகிறார். ஆனால்,
+அவரை வகுப்புவாதி என்றுதான்; அவர் வாழும் காங்கிரஸ்
+வட்டாரத்திலேயே சிலர் கூறுகிறார்கள். பாரததேவி சித்திர நடையிலேயே
+எழுதிற்று, விபூதி பூசும் இராமசாமிப்பெரியார் இவர்! என்று சுதந்திரா
+எனும் ஆங்கில வார இதழில், ஓமந்தூரார் ஓர் வகுப்புவாதி என்று
+பொதுவாகக் கூறியதோடு விடவில்லை. அவர் ஓர் 'பிராமணத் துவேஷி'
+என்று எழுதியதுடன் திருப்தி௫அடையவில்லை. அவருடையதலைமையில்
+நடைபெறும் மந்திரிசபையே பிராமணத் துவேஷ சபை!! என்று, சென்ற
+இதழில்கூட எழுதி இருக்கிறது.
+
+வகுப்பு வாதத்தை விரட்டப் போய், வகுப்புவாதி என்ற தூற்றலைப்
+பெற்றுக்கொண்டிருக்கிறாா முதலமைச்சர். இது கண்டு, அவர் மேலும்
+திகைப்படையக்கூடும். திகைப்பு கூடாது. தெளிவு பெற. சற்றுத் தீர
+யோசிக்கவேண்டும். வகுப்பு வாதம் என்றால் என்ன? ஏன், அது மாபெரும்
+குற்றமாகக் கூறப்படுகிறது? யாரால் கூறப்படுகிறது? எந்தெந்தச் சமயத்தில்
+கூறப்படுகிறது? என்ன நோக்கத்துடன் கூறப்படுகிறது? - இவைகளைப்
+பற்றி முதலமைச்சரும் அவர் வழி கிந்திக்கும் அன்பர்களும் யோசிக்க
+வேண்டும் - அப்போது, வகுப்புவாதத்தின் பிறப்பு வளர்ப்பு விளங்கும் -
+உண்மைக் குற்றவாளிகள் தெரிவர்.
+
+மேடையை மட்டும் கவனித்தால், வகுப்பு வாதம் தெரியக் காணோம்
+என்கிறார் முதலமைச்சர். அது முழு உண்மையல்ல!
+
+பிரிட்டிஷார், இவ்வளவு பெரிய நாட்டை எப்படி அடக்கி ஆள
+முடிந்தது?
+
+## Image 4: 004-98fe158a5d.png
+
+- Image: `katturaigal/velli_mulaikka/004-98fe158a5d.png`
+
+தாம் நாற்பது கோடி மக்கள் - ஆனால், நாலாயிரம் சாதிகளாகப்
+பிரிந்து, பிளவுபட்டுப் பாழானோம். உன் சாதி பெரிது, என் சாதி உயர்ந்தது,
+நீ மட்டம், நீ தாழ்ந்த சாதி என்ற நமக்குள் சண்டையிட்டு தாசமானோம்
+இதனைச் சாதகமாக்கிக் கொண்டான் அன்னியன். பாழான சாதி பேதம்,
+இந்த நாட்டிலே இருக்கும்வரையில், நாடு உருப்படாது.
+
+வீணான சாதி பேதத்தாலேதான், நம் நாடு வெள்ளைச்காரனிடம்
+இவ்வளவு காலம் அடிமைப்பட்டுக் கிடந்தது.
+
+தமிழர்கள், சாதி பேதத்தை அடியோடு விட்டொழிக்க வேண்டும்.
+
+ஒன்றே குலமும் - ஒருவனே தேவனும்
+சாதி இரண்டெொழிய வேறில்லை
+
+தாமெல்லாம் இந்தியர் - தமிழர். நமக்குள் ஒற்றுமை வேண்டும்.
+வகுப்புவாதம் கூடாது.
+
+அவாளவாளுக்கு ஒரு சாதின்னு ஏற்பட்டிருக்கு. அது சரியோ,
+தப்போ, நம்மாலே ஆகிய காரியமல்ல அது. மேலும், இன்று நேற்று
+ஏற்பட்ட விஷயமுமல்ல. ஞானஸ்தான், ஆதி நாட்களிலே, தீர்க்காலோ
+சனைக்குப் பிறகு, சாஸ்திரோக்தமாகச் செய்த ஏற்பாடு. வர்ணாஸ்ரமம்,
+சனாதனம் என்று அந்தக் காலத்திலே பெரியவர்கள் ஏற்பாடு செய்தான்னா,
+அது அரத்தமற்றதாகவோ, கேவலமானதாகவோ இருக்க முடியாது.
+மகரிஷிகள் காலத்திலே ஏற்பட்ட முறை. இப்போது காலம் மாறிண்டு
+போறதாலே, ஒரு சமயம், அந்த ஏற்பாடு, தப்புண்ணுகூடத் தோன்றலாம்.
+தப்போ சரியோ, அது.நம்ம பூர்வீகச் சொத்து, அதை நம்புகிறவா நம்பட்டும்,
+வேண்டாம்னு சொல்றவா சொல்லட்டும், ஆனா நான் என்ன
+சொல்றேன்னா, சாதித் பேதத்தைப் பிரமாதப்படுத்திண்டு, சதா சாவ
+காலமும் அதையே பேசிண்டு, ஒரு சாதியாரைப் பழிச்சிண்டு,
+வகுப்புவாதம் பேசிண்டு இருக்கிறது, கூடாதுன்னுதான் சொல்றேன். அது
+தம்ம தேசத்துக்கே பெரிய நாசமான காரியமாகும். அவாளவாளுக்கு
+அவாளவா சாதி உத்திதான்! இதிலே சண்டை எதற்கு, சச்சரவு எதற்கு?
+எல்லோரும் சகோதராளாகப் பாவிச்சிண்டு, வாழ்ந்தாதான் (க்ஷேமம்
+
+ச் & ஆ
+
+## Image 5: 005-7e0d6c30f3.png
+
+- Image: `katturaigal/velli_mulaikka/005-7e0d6c30f3.png`
+
+கூர்ந்து கவனித்தால், மேடைப் பேச்சிலேயே, இந்த இருவிதக் 'குரல்'
+கிளம்பக் காணலாம். முன்னது, உறுதியுடன் உள்ள குரல் - தீமையைத்
+தீய்த்தாக வேண்டும் என்ற தீர்மானமான குரல்! மற்றது, தட்டுத் தடுமாறி,
+மெல்லவும் முடியாமல் விழுங்கவும் முடியாமல், ஏனோ தானோ
+வென்றுள்ள குரல்! இந்த இருவிதங்களும், காங்கிரஸ் மேடையில் உண்டு -
+நெடுநாட்களாகவும் - இன்றும், இந்த இருவகைப் பேச்சில், பின்னதற்கே,
+பத்திரிகைகளில் தாராளமாக இடம் கிடைக்கும்/ எனவே, மேடைப் பேச்சு
+மூலம், அதிகமாகப் பரவிய கருத்து, இரண்டாவதாக உள்ள, 'இரண்டுங்
+கெட்டான்' கருத்துதான்!
+
+(ட
+
+இப்போதும், முதலமைச்சர், பரீட்சை பார்க்கலாம். அவர்
+வகுப்புவாதம் பேசவேண்டாம். சாதிக் கொடுமைகள் ஒழியவேண்டும்
+என்று பேசி, நாட்டிலே என்னென்ன வகையான கொடுமைகள் சாதியின்
+பேரால் நடைபெறுகின்றன, என்று விளக்கட்டும் - எத்தனை இதழ்கள்
+இருட்டடிப்புச் செய்கின்றன, என்பதை அனுபவபூர்வமாகக் கண்டு
+கொள்ளலாம்.
+
+வகுப்புவாதி! மிகமிகச் சாமாதீதியமாக, பொது மக்கள்
+முன்னிலையில் நடமாட விடப்பட்ட சொல்! தன்னலக்காரரின் அகராதியில்
+முளைத்தது இச்சொல்! தமிழகத்திலே, சமூக நீதிக்காகப் பாடுபட, அன்றைய
+தினம் சிலர், கிளம்பினார்களோ, அன்று மூதல் உலவிவரும் சொல்!!
+என்றைய தினம், ஆதிக்கக்காரரைப் பார்தது, விழிப்புநிலை பெற்ற
+அடிமைகள், இது என்னய்யா அநீதி என்று கேட்கத் தொடங்கினார்களோ,
+அன்றைய தினம் முதற்கொண்டு, நீதிக்காக வாதாடவும், பிறகு,
+போராடவும் சிலர் முன்வந்தார்களோ, அன்று முதல், இந்தச் சொல்
+கிளம்பிற்று. தூய்மையான மனமுள்ளவர்களை, இச்சொல், துடிதுடிக்கச்
+செய்திருக்கிறது! பலருடைய அரசியல் வாழ்வை, வாட்டி வதைத்திருக்கிறது
+- இன்றும் வதைக்கிறது. விழிப்புணர்ச்சியுடன் காணப்பட்டால்,
+விவேகியாகத் தெரிந்தால், வீரனாகக் காட்சிதந்தால் போதும், இந்தச் சொல்
+கிளம்பும், அவரை வதைக்க. அரசியல் வரலாற்றை, இந்தச் சொல்
+பாதித்ததைப் போல, டயரின் குண்டுகள்கூடப் பாதிக்கவில்லை. இதனால்
+மனம் உடைந்தவர்கள், வாழ்க்கை நொருங்கியவர்கள் எவ்வளவு பேர்!
+சந்தேகமும் கண்டனமும், சொல்லடியும் கல்லடியும், எவ்வளவு பேருக்கு,
+இந்தச் சொல் வாங்கித் தந்தது! இந்தச் சொல்லின் சரிதமே, ஓர் சோகத்
+தொடர்கதை! தியாகராயரில் தொடங்கி இன்று ஓமந்தூரார் வரையிலே,
+
+## Image 6: 006-9d0c577f6c.png
+
+- Image: `katturaigal/velli_mulaikka/006-9d0c577f6c.png`
+
+உள்ள தொடர்கதை! ஓமந்தூரார் மந்திரி சபை, பழைய ஜஸ்டிஸ் கட்சி
+வாடை வீசம் மந்திரி சபை என்றெல்லாம், காங்கிரஸ் கட்சியினரே,
+கூறுகின்றனர்.
+
+ஓமந்தூரார் சில காங்கிரஸ்காரா்கள் வகுப்புவாதி என்று
+கூறுகின்றனர்.
+
+ஓமந்தூரார் மந்திரி சபையை ஆதரிப்பவர்கள், மந்திரி சபையைக்
+குறை கூறுபவர்களை, வகுப்புவாதிகள் என்று கண்டிக்கின்றனர்.
+
+ஒரு பிரிவினர், மற்றப் பிரிவினரின் கண்களுக்கு, வகுப்பு
+வாதிகளாகத் தெரிகின்றனர்.
+
+ஓமந்தூரார், உள்ளம் நோகிறது! வகுப்பு வாதத்தை ஒழிக்க
+அரும்பாடு படும் நம்மை வகுப்புவாதி என்று, வகுப்புவாதச்
+செயல்புரிபவர், குறை காலக்கேடு! என்று எண்ணி வருந்துகிறார்.
+
+அதுபோலவே, காங்கிரஸ் கட்சியிலே ஒருசாரார், '"பேசுவது
+தேசியம், காரியமோ அசல் வகுப்புவாதம் - இந்த இலட்சணத்தில்
+வகுப்புவாதத்தை ஒழிக்கப் போவதாக வேறு வாய்வீச்சு! இப்படி ஒரு
+வகுப்புவாதியை நாங்கள் கண்டதே இல்லை” - என்று கண்டிக்கிறது
+ஆந்தை, குயிலைப் பழிக்கிறது, என்கின்றனர் ஒருசாரார்.
+
+பூனை, போதகாகியர் போல வேடம் போடுகிறது என்கின்றனர்
+மற்றோர் சாரார்.
+
+இப்படி, ஒரே காட்சியிலுள்ள இரு பிரிவுகளுக்குள், ஏற்பட்ட
+மனப்பேதம், வகுப்புவாதி என்ற அந்தப் பழைய சொல்லையே ஆயுதமாகக்
+கொண்ட, போருக்கு அடிகோலுவதாகிவிட்டது. இதிலே நியாயம் எந்தப்
+பக்கம் இருக்கிறது என்பது ௮ல்ல, முக்கியமான பிரச்சனை, இதற்கு,
+இன்றைய அரசியல் நிலைமையை மட்டும் கவனித்தால் போதாது,
+வகுப்புவாதம் என்ற சொல் பிறந்த காலத்தைக் சவனிக்க வேண்டும்.
+
+தமிழர். நன்கு அறிவர், - ஓயாத பிரச்சாரம் இதுபற்றி நடந்திருப்பதால்
+- வகுப்புவாதி என்ற சொல்லை, காங்கிரசார், பார்ப்பனலரல்லாதார் கட்சி
+ஏற்பட்ட உடனே, சிருஷ்டித்து, ஏவினர் என்பதை.
+
+## Image 7: 007-c3ec122a28.png
+
+- Image: `katturaigal/velli_mulaikka/007-c3ec122a28.png`
+
+சமூகத்திலே பல ஜாதிகள் - அவைகளுக்கிடையே உயர்வு தாழ்வுகள்
+- அதன் பலனாகச் சிலருக்கு ஆதிக்கம் - பலருக்கு அடிமைத்தனம் - அந்த
+ஆதிக்கத்தின் பலனாகப் பலருக்கு பாதி வாழ்வு! இப்படிப்பட்ட நிலையை
+மாற்றி சமூக நீதி ஏற்படுத்தவேண்டும், என்று கிலர் எண்ணினர்! இந்த
+எண்ணம் கொண்டது தவறா? சமூகத்தில், மிகப் பெரும்பாலோராகப்
+பார்ப்பனரல்லாதாரும், சிறுபான்மையினராகப் பார்ப்பனரும் இருப்பதும்,
+பெரும்பாலோர், அந்தச் சிறுபான்மையினரை, சாஸ்திர ஆதாரப்படியும்,
+பழக்க வழக்கத்தின்படியும், மேல் ஜாதியினராகக் கொண்டிருப்பதும், இந்த
+நிலைமையினால், பெரும்பாலோர், கல்வி, தொழில், பொருளியல்,
+அரசியல், மத இயல், முதலியவற்றில், உரிய அளவு இடமோ, வசதியோ
+பெறாமல், இருந்தும், அதே துறைகளில் சிறுபான்மை வகுப்பினரான
+பார்ப்பனர், மிகமிக அதிகமான உயர்வு பெற்று விளங்கியதும்,
+கருத்துள்ளோர் அனைவருக்கும் தெரிந்தது. அப்படிப்பட்டவர்களிலே,
+ஆண்மையாளர்கள் சிலர், இந்த அநீதி ஒழிக்கப்படவேண்டும் என்று
+கூறினர் - வகுப்பு நீதி கேட்டனர் - அந்த வகுப்பு நீதி கோரிக்கை, தங்கள்
+ஆதிக்கத்துக்கு உலைவைப்பதாகும் என்று எண்ணிய பார்ப்பனர், நீதி
+கேட்டவர்களை, வகுப்பு வாதிகள் என்றனர் - அந்தச் சொல், நிந்தனைப்
+பதமாகி, தக்க பிரச்சாரசாதனம் இருந்த காரணத்தால், வகுப்பு நீதி
+கோரியவர்களை. வகுப்பு வாதிகள் என்று பொதுமக்களே எண்ணி
+ஏசச்கூடிய ஒர் வேதனையான நிலைமையை உண்டாக்கிவிட்டது.
+
+பிரச்சார பீரங்கிகள் முழங்கி! எங்கும்!!! வகுப்புவாதி! வகுப்புவாதி/!
+கண்டனக் கணைகள் சரமாரியாகக் கிளம்பின; பலருடைய அரசியல்
+வாழ்வை, வதைத்தன - இருதயங்களைச் சிதைத்தன! காங்கிரஸ் மேடை
+ஏறினதும், சபாஷ் பட்டமும், பத்திரிகையில் இடமூம் பெற வேண்டு
+மானால், வெகு சுலபம், வகுப்பு வாதிகளைக் குழிதோண்டிப் புதைப்போம்
+என்று கூறினால் போதும்! கடந்த இருபதாண்டுகளாகத் தமிழ்நாட்டு
+அரசியலில், இந்த அணுக்குண்டு உபயோகப்படுத்தப்பட்டது, நீதி
+கேட்டவர்களுக்கு எதிராக.
+
+இப்போது, காங்கிரசிலேயே ஒரு பகுதி, மற்றோர் பகுதியை,
+வகுப்புவாதி என்று குற்றம் சாட்டுவதைக் காண்கிறோம்.
+
+## Image 8: 008-4e55ec1aa3.png
+
+- Image: `katturaigal/velli_mulaikka/008-4e55ec1aa3.png`
+
+வகுப்புவாதி என்று முதன் முதல், அநியாயமாக நிந்திக்கப்பட்ட
+நீதிக்கட்சியினர், செய்ய விரும்பியதெல்லாம், பெரும்பான்மையினராக
+உள்ள பார்ப்பனரல்லாதாரை, அவர்களின் வீழ்ச்சியுற்ற, தாழ்நிலையி
+லிருந்து, எழுச்சியுறச் செய்து, சமஉரிமை பெறச்செய்வது என்பதுதான்.
+இதற்குத்தான் வகுப்பு வாதம் என்று பெயரிடப்பட்டது.
+
+"தமிழ் நாட்டில் ஒரு விஷமப் பிரச்சாரம், சமீப காலத்தில்
+நடந்துவருகிறது. மெஜாரிட்டி வகுப்பாரைத் தூக்கிவிடுவதற்கு என்ன
+நடவடிக்கை எடுத்தாலும், உடனே அதைப் பிராமணத் துவேஷம் என்று
+சொல்லுகிறார்கள்.” என்று, தினசரி, ஏப்ரல் 5ந் தேதி, தலையங்கத்தில்
+தீட்டுகிறது. அதாவது, வகுப்புவாதி, பார்ப்பனத் துவேஷி, என்ற ஏசல்,
+தினசரியின் கட்டடத்தின் மீது வீழ்ந்த பிறகு.
+
+சமீப காலமாக விஷமப் பிரச்சாரம் நடைபெறுகிறது என்று தினசரி
+எழுதுகிறது. முழு உண்மை அல்ல! தினசரி சொக்கலிங்களார் தினமணி
+ஆசிரியராக அமைவதற்கு முன்பிருந்தே நடைபெறுகிறது - கால்
+நூற்றாண்டாக இக்கடுமொழி வீசப்பட்டு வருகிறது. இந்த விஷமத்தனம்
+நடைபெறுகிறது - நடைபெற்று வந்திருக்கிறது என்பது மட்டுமல்ல
+உண்மை, நண்பர் சொக்கலிங்கமும் சேர்ந்து நடத்தி வந்தார், இந்த விஷமப்
+பிரச்சாரத்தை! தன் தலைமீது, இதே வகைச் சொல் வீசப்படும் என்று
+எண்ணியிருப்பாரா, அந்த நாட்களில்!
+
+அந்த நாட்களில்! அவருடைய அறியாப் பருவத்தில், என்ற
+பொருளில் கொள்கிறோம், அந்த வாசகத்தை.
+
+இன்று, அனுபவம் நிரம்பப் பெற்று, உண்மையில் வகுப்புச்
+சுயநலமிகள் யார் என்பதைக் கண்டறிந்து, வகுப்பு நீதிக்காகப் போராடக்
+கிளம்பி, வகுப்புவாதி என்று ஏசப்படுகிறாரே, அந்த ஏசல் அவருக்குக்
+கோபத்தை மட்டுமல்ல, சிறிதளவு வருத்தத்தையும் தந்திருக்கும். இன்று நாம்
+எந்தக் காரியத்தை வகுப்பு நீதிக்காகச் செய்கிறோமோ, எந்தக்காரியம்
+செய்வதற்காக, தூற்றப்படுகிறோமோ, இதையே, பல ஆண்டுகளுக்கு
+முன்பு, நீதிக் கட்சியினர் செய்தபோது, அவர்களை நாம் எவ்வளவு பதை
+பதைக்கத் திட்டினோம், எவ்விதமாகவெல்லாம் கண்டித்தோம் - என்பது
+
+## Image 9: 009-5d3f8d4982.png
+
+- Image: `katturaigal/velli_mulaikka/009-5d3f8d4982.png`
+
+பற்றி, அவர், எண்ணும்போது இரண்டோர் சொட்டுக் கண்ணீர்
+வராமலிருக்குமா! விஷமப் பிரச்சாரம்! ஆ! சமீப காலமாக, இவர் மீது! பல
+காலமாக, நம்மவர் மீது!/
+
+மெஜாரிடி வகுப்பாரைத் தூக்கி விடுகிற காரியத்தைக் கண்தி,
+பிராமணத் துவேஷம் என்று விஷமப் பிரச்சாரம் செய்கிறார்கள் என்று
+தினசரியார் தீட்டுகிறார்.
+
+தூக்கிவிடுகிறார்! மெஜாரிடி வகுப்பை!! இந்த வாதத்தை இவர்
+எவ்வளவு கேலி செய்தார்! மெஜாரிடியைத் தூக்கிவிடுவதா! ஏன்! விரல்
+விட்டு எண்ணக்கூடிய நிலையிலுள்ள பிராமணர்கள்மீது, வீணாகத்
+துவேஷத்தைக் கிளப்பிக் கொண்டு, பார்ப்பனரல்லாதாரின் நலனைப்
+பாதுகாப்பதாகப் பறைசாற்றுகிறார்கள் இந்த வகுப்புவாதிகள் -
+இதுவன்றோ மூன்பு தினசரியார் தீட்டும் பாணி! இன்று? தூக்கிவிடுகிறார்,
+மெஜாரிடி வகுப்பினரை! ஆச்சரியம், இவருடைய, மெஜாரிடியின்
+நிலைமைதான்! முதல்வகுப்பு வாதிக்கும் முதலமைச்சராக ஓமந்தூரார்
+வீற்றிருப்பதற்கும் இடையே, எவ்வளவோ ஆண்டுகள்! எத்தனையோ
+முயற்சிகள்! எனினும், இன்றும் மெஜாரிடி வகுப்பினர், தூக்கிலிடப்பட
+வேண்டிய நிலை இருக்கிறது! ஏன்? அவ்வளவு கீழே அழுத்தி
+வைக்கப்பட்டுள்ளனர். தினசரியார் நாட்களிலே, இந்தத் தூக்கி விடும் பணி
+தேவை என்றால், தியாகர் நாட்களிலே, இது எவ்வளவு அதிகமாகத்
+தேவைப்பட்டிருக்க வேண்டும். எண்ணிப்பார்க்கவேண்டுகிறோம்,
+இன்னமும் எண்ணத்தில் தெளிவு பெறாதிருப்பவர்களை, சிறுபான்மை
+யோருக்குத்தான் பாதுகாப்புத் தேவை, பெரும்பான்மையினருக்கு ஏன்?
+என்று பேசினவர்கள், தினசரியாரின் கருத்தைக் கவனித்துத் தெளிவு பெற
+வேண்டுகிறோம்.
+
+தூங்கிக்கிடந்தவாகளைத் தட்டி எழுப்பிய தியாகா,
+விழித்தவர்களைப் பார்த்து, உங்கள் நிலை மிக மிகப் பிற்போக்காக
+இருக்கிறது, முன்னேறுங்கள் துரிதமாக, சகலதுறைகளிலும், என்று
+கூறினார். தாூக்கிவிடத் தொடங்கினார். இதுதான் அவர் செய்த
+வகுப்புவாதம்! ஆனால், அவருடைய பேரன்மார் காலத்துச்
+சொக்கலிங்களார், தாததா கண்டறிந்த திட்டத்தைத் தத்துவார்த்த
+
+## Image 10: 010-4a0572c01c.png
+
+- Image: `katturaigal/velli_mulaikka/010-4a0572c01c.png`
+
+விளக்கத்தோடு செய்து காட்டுகிறார். ''ஜனநாயகம் என்றால்
+எல்லோருக்கும். சம சந்தாப்பம் கொடுக்க வேண்டும். குறிப்பிட்ட
+காரியங்களைக் குறிப்பிட்ட வகுப்பார்தான் செய்ய வேண்டுமென்ற
+கட்டாயமோ, ஏகபோக உரிமையோ கிடையாது'' என்று தினசரி
+தீட்டுகிறது. இதே இலட்சியத்துக்காகத்தான், நமது இயக்கம் இடையறாது
+பாடுபடுகிறது. இந்தக் கருத்துடன், பணிபுரியத் தொடங்கியபோது,
+வகுப்புவாதி பார்ப்பனத் துவேஷி, வேத நிந்தகன், சாஸ்திர விரோதி, ஆரிய
+வைரி, நாத்திகன், என்று சரமாரியாகத் தூாஷிணைகள் நமது இயக்கத்தவரைத்
+துரத்திக் கொண்டு வந்தன. தூற்றும் சொக்கலிங்கங்களும் என்றேனும் ஓர்
+நாள், இதே கருத்துக்கு வந்து சேருவர் என்ற நம்பிக்கை ஒன்றுதான், நமது
+இயக்கத்தவரை, இவ்வளவு நிந்தனைகளையும் ஏற்றுச் கொள்ளச் செய்தது.
+அந்த நம்பிக்கையும் வீண்போகவில்லை. நாம், இன்று வரை, நீதிக்காக,
+உரிமைக்காகப் போரிடும் எங்களை அழித்தாலும் சரி, கடைசி மூச்சு
+இருக்கும் வரை, உரிமைக்குப் போராடுவோம் என்று மட்டுமே
+கூறவந்தோம். நெடுநாட்களுக்குப் பிறகு நாம் வகுத்த வழி நடக்கும் நண்பர்
+தினசரியார் ''மைனாரிடிகள் மெஜாரிட்டிகளை ஆள முயற்சிக்கும்போது
+தான் தகராறு கிளம்புகிறது. லீகர்கள் மைனாரிட்டியாய் இருந்து
+மெஜாரிட்டியை ஆள மூயற்சித்ததால்தான் இந்தியாவில் அமளி குமளி
+ஏற்பட்டது. அதே தவற்றை வேறு யாரும் செய்யாமல் ஜாக்ரதையாய் இருக்க
+வேண்டும், '' என்று தீர்மானமாக எழுதியிருக்கிறது! அமளி குமளி!
+ஜாக்ரதை! - நாம் உபயோகிக்க மறுக்கும் சொற்கள் - தினசரியிடமிருந்து
+கிளம்புகின்றன! ''இருக்கிற ஏகபோக உரிமையைக் காப்பாற்றிக் கொள்ள
+தேசியம் பேசுவது ராஜீய நாணயமல்ல '' என்றும் எழுதியிருக்கிறது.
+
+1940 இல், நமது இயக்க ஏடு. விடுதலை, டிசம்பர் 9ந்தேதி, இந்த
+வகுப்புவாதப் பிரச்சனையைப் பற்றி,
+
+"பார்ப்பனர் விஷயமாக நாம் கொண்டுள்ள கருத்தைக் கூற
+விரும்புகிறோம். பார்ப்பனத் துவேஷி என்று கூறப்படும் நாம், பல விதமான
+குற்றச்சாட்டுகளுக்கு ஆளாகியுள்ளோம். வகுப்புத் துவேஷ விஷத்தை நாம்
+மக்களிடை ஊட்டுகிறோம் என்றும், வீணான வகுப்பு வித்தியாசங்களைக்
+கூறி நாட்டிலே பிளவை, பேதத்தை, மாச்சரியத்தை, கலகத்தை
+உண்டாக்குகிறோம் என்றும், இங்ஙனம் நாம் செய்வதற்குக் காரணம்,
+
+## Image 11: 011-8c3d1f22c6.png
+
+- Image: `katturaigal/velli_mulaikka/011-8c3d1f22c6.png`
+
+தமக்குப் பட்டம். பதவி மீதுள்ள ஆசை என்றும் பலப்பல கூறுகின்றனர்.
+பட்டமும், பதவியும், காங்கிரசில் சேர்ந்தால், பாடுபடாமல், தொல்லைக்கு
+ஆளாகாமல், தொந்தரவை மேற்போட்டுக் கொள்ளாமல், பெற முடியும்
+என்பது நமக்கும் நம்மைத் தூற்றும் தோழர்களுக்கும் தெரியும். இருந்தும்,
+பதவியைச் சுலபத்திலே பெறக்கூடிய காங்கிரஸ் கூட்டுறவை விட்டுப் பதவி
+கிடைக்காத, தொல்லை நிரம்பிய 'வகுப்பு வாதம் '' பேசுவது ஏன்?
+என்பதைச் சற்றே சிந்தித்துப் பார்க்க வேண்டுகிறோம்.
+
+"வகுப்புவாதம்'' பேசுவதாக 'ஜாதித் துவேஷத்தை ' ஊட்டுவதாக,
+பார்ப்பன துவேஷம்'' பேசுவதாக, பாமர மக்களிடை, ரூசிகரமான
+பிரச்சார முறைகளைக் கொண்டு எடுத்துக் கூறி, தேர்தல்களில் நம்மைத்
+தோற்கடிக்கும் ''திறமை"' நமது மாற்றார்களிடம் இருக்கிறது என்பது
+தெரிந்தும், நாம் ஏன், அவர்களை எதிர்க்கிறோம். சும்மா இருந்தால் சுகம்
+உண்டு என்பதற்கு அவர்கள் ஜாடை மாடை காட்டியும் நாம் ஏன் சமாச்
+சுழலில் விழுகிறோம்.
+
+வெறும் சுகவாழ்வு, சுயநலம், பட்டம், பதவி, இவைகளைத் தேவை
+எனில், இவைகளைச் சுலபத்திலே பெறக் கூடிய வழி எது என்பதை
+மட்டுமே யோசித்து, காலத்துக் கேற்ற கோலமிட்டு வாழமுடியும். ஆனால்,
+எதற்காகப் புயலின் முன் கப்பலைச் செலுத்துவது போல், போராட்டத்தில்
+ஈடுபடுகிறோம்? எதிரிகளின் சக்தி பாமரரை ஏய்க்சக்கூடிய விதத்தில்
+இருக்கிறது என்பது தெரிந்தும், நம்மைப் பற்றித் தாறுமாறான பிரச்சாரத்தைத்
+தந்திரமாகச் செய்யும் கூட்டம் எது செய்யினும் செய்க, எ;த்தகைய தொல்லை
+தரினும் தருக, என்ற உறுதியுடன் நாம் இருக்கக் காரணம் என்ன? நமக்கு,
+நீம் மாற்றார்களின் வலிமை தெரியாதா? தெரியும்! பலவிதமான
+சாதனங்கள் அவர்களிடம் இருப்பதும் தெரியும், பாமரர் அவர்களின்
+பிரச்சாரத்துக்குப் பலியாகிறார்கள் என்பதும் தெரியும். நம்மைத் தாக்க
+அவர்கள் உபயோகிக்கும் கோடாரிக்குக் ''காம்புகள்'' நம்மவரிலேயே
+கிடைப்பதும் நன்கு நமக்குத் தெரியும். தெரிந்தும் எதிர்க்கிறோம்.
+பொல்லாங்கும் பழியுமே பரிசாகக் கிடைக்கிறது என்று தெரிந்தும்
+போரிடுகிறோம்! ஏன்? நமக்குப் பித்தமா?
+
+ஆம்! பித்தமே கொண்டுள்ளோம்! ஜாரின் படை பலம், பண பலம்,
+துருப்புகளின் ஈட்டி முனையின் கூர், தெரிந்தும், லெனின், ஜார்.ஆட்சியை
+
+## Image 12: 012-82eaaa09af.png
+
+- Image: `katturaigal/velli_mulaikka/012-82eaaa09af.png`
+
+ஒழித்தே தீருவேன் என்று ஓயாது கூறி வந்தாரே, ௨.ருமாறியும். ஊரூராக
+அலைததும், உற்றார் உறவினரைப் பற்றித் கவலையற்றும். பாரட்சிப போரை,
+புது உலக உற்பத்திப் போரை, நடத்தியே தீருவதென ''பித்தம்'' பிடித்து
+அலைதந்தாரே. அத்தகைய ''பித்தம்'' நமக்கு இருக்கிறது என்பதை நாம்
+மறுக்கவில்லை
+
+எதிர்த்தோர். பாஸ்ட்டில்லி (சிறைக்கூடம்)யில் இருதய வலியுடன்
+இருப்பது தெரிந்தும், ஈட்டி ஏந்திய வீரர்கள் குதிரைகளின் மீதேறி மக்களைக்
+குத்திக் கொல்வார் என்பது தெரிந்தும், மூடி ஆட்சியை எதிர்த்து குடி
+ஆட்சியை ஏற்படுத்தியே தீருவோம் என்று பிரான்சு நாட்டு மக்கள், புரட்சிப்
+பித்தம் கொண்டார்களே முன்னம், அத்தகைய பித்தம் நமக்கும் உண்டு.
+
+பல ஆயிரம் ஆண்டுகளாக நாட்டிலே பரவி, ஊன்றி, பாமரரைச்
+செயலற்ற, சிந்தனையற்ற உருவங்களாக்கி, உழைக்கவைத்து உறிஞ்சி
+வாழும் பார்ப்பனியத்தின், பலம், பயங்கரம், பக்க பலம் யாவும் நமக்கு
+நன்கு தெரிந்திருந்தும், அதனை ஒழித்தே தீருவோம், என்று ''பித்தம்"'
+பிடித்தே நாம் அலைகிறோம் பித்தர் லெனின் சோவியத் நாட்டைக் கண்டது
+போல, பெரியார், திராவிட நாட்டைக் காணட்டும் என்று கூறினோம்.
+
+ஏனய்யா இத்தனை ஆத்திரம்? எதற்கு, ஒரு சிறு கூட்டத்தினரான
+பார்ப்பனர் மீது இத்தனை துவேஷம்? என்று கேட்கிறார்கள் தோழர்கள்
+பார்ப்பனர் மீது பாய்வது ஒரு வீரமா? வேதியர் மீது ஏன் வீணாக மோதிக்
+கொள்கிறீர் என்று கேட்கிறார்கள் அவர்களை இங்ஙனம் கேட்க வைக்கும்
+பார்ப்பனருங் கூட, இது போலவே கேட்கக்கூடும், ஆகவே, அவர்களுக்கும்
+அவர் தம் அடியார்களுக்குமாகச் சேர்த்தே கூறுகிறோம். நாம் பார்ப்பனர்
+மீது மோதிக் கொள்ளவில்லை, பார்ப்பனீயத்தை எதிர்க்கிறோம்.
+
+பார்ப்பனீயத்தினால், பார்ப்பனர் என்ற சமூகம், பாடுபடாது
+வாழவும், பதமாக இருக்கவும் பதவியில் அமரவும், முடிகிறது என்ற
+"வெறும் பொறாமை'' மட்டுமல்ல, நாம் அதனை எதிர்ப்பதற்குக் காரணம்
+
+பிளேக் பிடித்த வீட்டிலே பாயையும் தலையணையையும் போட்டுக்
+கொளுத்துகிறார்கள் என்றால், பாய் மீதும், தலையணை மீதும், கோபம்,
+துவேஷம் என்று பொருள் கொள்ள மூடியுமா! பிளேச்சகால்
+பீடிக்கப்பட்டவனுக்கு ''ஊசி: போடுகிறார்கள் என்றால், டாக்ட ருக்கு அந்த
+
+## Image 13: 013-84498740ee.png
+
+- Image: `katturaigal/velli_mulaikka/013-84498740ee.png`
+
+நோயாளி மீது துவேஷம் என்று பொருள் கூற முடியுமா? அது போல்தான்.
+இந்தப் பழைய பெரிய பூபாகத்திலே, பார்ப்பனியம் என்ற கொடுமை
+இருக்கிறது. ௮து உடலை வாட்டுவது மட்டுமல்ல, உள்ளத்தையே
+வாட்டுகிறது, அது இருக்கும்வரை, அதன் விளைவுகளாகப் பல
+வேதனைகள் இருந்தபடிதான் இருக்கும்.
+
+பார்ப்பனியத்தின் பலனாக, ஒரு பெரிய திராவிட சமுதாயம் சின்னா
+பின்னப்பட்டுப் போய்க்கிடக்கிறது. பிறவி அடிமைகளாக, பேசும்
+ஊமைகளாக, நடைப்பிணமாகப் போய்விட்டது, ரோஷமான
+உணர்ச்சியற்று, தடித்த தோலராகிவிட்டது.
+
+தகப்பனுக்கு மேக வியாதி இருப்பின், பிறக்கும் குழந்தை குருடாகும்,
+என்பர் மருத்துவ நூல் கற்றோர். குருட்டுக் குழவிக்கு, குவலயத்தின்
+குதூகலக் காட்சி எங்ஙனம் தெரியும்? அதுபோல்தான் திராவிடச்
+சமூதாயம், பார்ப்பனியம் எனும் மேக தோயால் பீடிக்கப்பட்டு இருக்கிறது.
+பிறக்கும் திராவிடன் குருடனாகிறான். எனவேதான் இநதப்
+பார்ப்பனியத்தை ஓழிக்க விரும்புகிறோம்.
+
+ஓற்றுமை. சட்டுப்பாடு வீர உணர்ச்சி, தன்மானம், இவைகள் ஒரு
+பெரிய சமுதாயத்துக்கு வந்தால்தான் ஏகாதிபத்தியத்தை எதிரத்து
+வெல்லமுடியும், இக்குணங்கள் இன்று நம் மக்களிடை இல்லாது
+போனதற்குக் காரணம் பார்ப்பனியந்தான். எனவேதான் நாம் அதனை
+எதிர்க்கிறோம். முடியுமா வெல்ல என்பர். முடிவைப் பற்றிக் சவலை
+இல்லை. கடமை இது என்போம். வெற்றி கிடைக்காதா? என்பர். வள்ளி
+முளைக்குது என்போம்'' என்று தீட்டிற்று,
+
+வெள்ளி முளைக்குது! என்றோம். எட்டு ஆண்டுகள் (பிடித்தன,
+வெள்ளி, தினசரி நிலையத்திலே இருந்து கிளம்ப பட்ட கஷ்டம் வீண்
+போகவில்லை. யார் உண்மை வகுப்புவாதிகள் என்பதை தாடு உணரத்
+தொடங்கி விட்டது. வேதனைக்கு. ஆளாக ஓமந்தூராரும். வேல் தாக்கிய
+வேழமெனச் சீறும் தினசரியும், பார்ப்பனியம் என்பது, பிரித்தானியம்
+போலவே, ஒழிக்கப்படவேண்டிய முறைதான், என்பதை. ஆண்மையுடன்
+அறிவித்துவிட வேண்டும். மெள்ளமெள்ள நகருவோம் என்பதில் டலன்
+இல்லை. பார்ப்பனியத்தைச் காரணம்காட்டி, ஆதரிக்க, எந்த அறிவாளியும்
+
+## Image 14: 014-a5e3baa280.png
+
+- Image: `katturaigal/velli_mulaikka/014-a5e3baa280.png`
+
+முன் வரமுடியாது. அநீத முறையை முறியடிக்கப் போரிடுவதால்.
+ஓமநதூராருக்கும், அவரை ஆதரிப் போருக்கும், வகுப்புவாதி என்ற
+தூற்றலுடன், ஒரு சமயம் நாத்திகர் என்ற ஏசல் கிடைக்கக் கூடும் - ஆனால்,
+நெஞ்சில் கை வைத்து நேர்மையாக நடக்க விரும்பும் ''யாரும், தூற்றலையும்
+ஏசலையும் பொருட்படுத்தக் கூடாது. பொருட்படுத்த மாட்டார்கள்
+எவ்வளவு நியாயமான காரியத்தைச் செய்தாலும், அதனால், யாருடைய
+ஆதிக்கமோ, சுயநலமோ கெடும் என்று தெரிந்தால், அவர்கள், ஏசவும்
+செய்வர் - தூற்றவும் செய்வர் - எவ்வளவு இன் சொல்லால், அன்பையும்
+சத்தியத்தையும் உத்தமர் காந்தியார் போதித்தார்? கோட்சே, இதற்கே
+அவரைக் கொல்லத் துணிந்தானல்லவா! 2.த்தமர் உண்மைக்காக உயிரைத்
+தந்த போது, நாம், சாதாரணப் புகழை. வியை, இழந்தால்தான் என்ன!
+தஷ்டம் அல்ல! நாட்டுக்கு, விமோசனம் கிடைக்கும்.
+
+(திராவிட நாடு - 18.4,48)
+
+## English Translation
+
+## Six Years! “Communalism”: A Tragic Serial
+
+“When speaking from the stage everyone speaks properly, but in private conversation communalism seizes them. If this continues, India cannot progress,” Premier Omandur Ramasamy Reddiar said in Madras last week.
+
+They say Omandurar trusts whatever looks white to be milk and whatever looks dark to be water. Such a person could not have spoken this merely as statecraft. The thought must have come sincerely from his heart, not just his lips.
+
+Weariness and bewilderment fill his words. He longs for communalism to disappear, watches public speakers for it and hears none from the stage. Yet in private it appears before him, leaving him amazed.
+
+Perhaps someone who publicly proclaimed “Indian” and “son of Bharat” spoke communally before him. Imagine the Premier asking a Congress worker about health, khadi sales and Harijan Sangh activity. The visitor replies, then suddenly asks why everything is becoming a Brahmin kingdom. In his town, he says, the Collector is a Brahmin despite repeated requests for a Tamil; all high officials are Iyers. Omandurar recoils: this patriot spent six years in Alipur prison and last month publicly called communalism a deadly disease, yet now speaks communally in private.
+
+Only repeated experiences within Congress circles could have prompted the Premier's weary statement, since he has never even rested his head on our side. He discovered that communalism often hides on platforms but operates in action and private speech. Yet in the eyes of several Congress leaders Omandurar himself now appears a communalist. *Bharata Devi* wrote of him in caricature, while the English weekly *Swatantra* called him not merely communal but anti-Brahmin and described his entire ministry as an anti-Brahmin ministry.
+
+In trying to expel communalism, the Premier has acquired the accusation himself. He need not remain bewildered; he should ask what communalism means, why and by whom it is called a great crime, when the label is applied, and for what purpose. Its birth and upbringing will then become clear and the true offenders visible.
+
+His claim that communalism is absent from the stage is not wholly true. Congress platforms have long carried two voices.
+
+The first says: “How could Britain subdue this immense country? We are forty crores, but divided and ruined among four thousand castes, quarrelling that one is high and another low. The foreigner exploited this. While caste distinction remains, the country cannot prosper. Tamils must abolish it root and branch. Humanity is one community and God one; there are only the two moral castes. We are Indians and Tamils and need unity, not communalism.”
+
+The second says, in a hesitant dialect: “Everyone has a caste. Whether right or wrong, we did not create it yesterday. Ancient wise men established varnasrama and Sanatana Dharma after deliberation and according to scripture. A system made by sages cannot be meaningless or degrading. Times have changed and it may now seem wrong, but it is ancestral property. Let believers believe and rejecters reject. We should not constantly magnify caste differences, abuse one caste and speak communalism. Each person may keep his caste; why quarrel? Let all live as brothers.”
+
+The first is a firm voice resolved to burn evil; the second cannot swallow or spit it out. Both have long existed on Congress stages, but newspapers generously amplify the compromised second view. The Premier can test this: let him explain the cruelties committed in caste's name while calling for their abolition and observe how many journals suppress his words.
+
+“Communalist” is a word allowed to stroll casually before the public. It sprouted in the selfish person's dictionary when people first rose for social justice in Tamil country. The day awakened slaves asked their rulers, “What injustice is this?” and began to argue and fight for justice, the label arose. It has tormented pure minds and destroyed political lives. If someone appears alert, rational and courageous, it is launched against him. Even Dyer's bullets affected political history less. It brought suspicion, condemnation, verbal and physical attacks. Its history is a tragic serial from Theagaraya to Omandurar.
+
+Congress people themselves call Omandurar's ministry redolent of the old Justice Party and call him communal. His supporters call critics communal. Each faction sees the other as communalist. One side says a genuine communalist speaks nationalism while acting communally and then claims to abolish communalism; the owl blames the cuckoo. Another says the cat dresses as a preacher. Thus an old weapon now serves an internal Congress conflict.
+
+To judge it, we must examine the word's origin. Tamils know from sustained propaganda that Congress created and launched “communalist” immediately after the Non-Brahmin Party arose.
+
+Society contained many castes and graded inequality, giving domination to a few, slavery and half a life to many. Some sought social justice. Brahmins were a minority regarded by scripture and custom as upper caste, while the non-Brahmin majority lacked proportional access to education, occupations, economics, politics and religion. A courageous few demanded an end to the injustice and asked for communal justice. Those whose dominance it threatened labelled them communalists. Effective propaganda turned the label into abuse until the public itself reviled those seeking justice.
+
+Propaganda cannon roared everywhere, firing volleys of condemnation that broke hearts and political lives. Anyone seeking applause at a Congress meeting and newspaper coverage merely had to promise to bury communalists. For twenty years this political atom bomb was used against those seeking justice.
+
+Now one Congress section fires it at another. The Justice Party, first unjustly reviled by the word, wanted only to raise the non-Brahmin majority from degradation and secure equal rights. That was named communalism.
+
+After the insult reached its own building, *Dinasari* wrote on 5 April: “A poisonous campaign has recently operated in Tamil Nadu. Whatever step is taken to uplift the majority community is immediately called anti-Brahminism.” But the campaign was not recent. It had existed for a quarter century, before Sokkalingam became editor of *Dinamani*, and he himself had joined it. Could he then have imagined the same word would be hurled at him?
+
+Today experience has shown him who truly pursues communal self-interest. Now that he fights for communal justice and is reviled as communalist, anger and some grief must arise when he remembers how fiercely he once abused Justice Party members for doing the same work. A poisonous campaign against him recently; against us for many years.
+
+*Dinasari* now says action is required to uplift the majority. Yet it once mocked that reasoning: why awaken hatred against the handful of Brahmins while claiming to protect non-Brahmins? Even in Omandurar's day, the majority still needs lifting because it remains pressed so low. How much more necessary was that task in Theagaraya's time? Those who said only minorities require protection should reconsider.
+
+Theagaraya roused sleepers, told them how backward their position was and urged rapid progress in every field. That was his “communalism.” In his descendants' time Sokkalingam now explains the same programme philosophically: “Democracy must give everyone equal opportunity. No particular community can possess compulsion or monopoly over particular tasks.” Our movement has always worked for that ideal.
+
+When it began, abuses pursued it in volleys: communalist, anti-Brahmin, reviler of Vedas, enemy of Sastras, foe of Aryans and atheist. The belief that even those then abusing us would one day reach this view enabled the movement to endure. That hope was not vain. *Dinasari* now firmly writes that conflict begins when minorities try to rule majorities, warns others not to repeat that error, and says nationalism used to preserve monopoly is political dishonesty.
+
+On 9 December 1940, our movement's paper *Viduthalai* explained its position. Though accused of spreading caste hatred to secure title and office, it observed that those things could be obtained easily by joining Congress without toil or trouble. Why abandon that easy route for a persecuted “communalism” offering no office?
+
+The movement knew opponents could use attractive propaganda to call it anti-Brahmin and defeat it electorally. It knew they possessed power, instruments and public susceptibility, and even found handles for their axe among our own people. Yet it fought despite receiving only blame. Why? Was it madness?
+
+Yes, it possessed madness like Lenin's determination to overthrow the Tsar despite his armies, money and bayonets, wandering from place to place without concern for relatives to wage the struggle that created a new world. It possessed the revolutionary madness of the French people who opposed monarchy despite the Bastille and mounted soldiers' spears.
+
+Knowing the strength and support of Brahminism, rooted for millennia and rendering ordinary people inactive and thoughtless while extracting their labour, we wander with the “madness” to abolish it. As Lenin saw the Soviet land, we said, may Periyar see Dravida Nadu.
+
+Friends ask why such anger against the small Brahmin community and whether attacking Vedic priests is courage. We answer them and those who prompted the question: we do not clash with Brahmin people; we oppose Brahminism.
+
+Our reason is not mere jealousy that the system allows one community to live without labour and occupy office. Burning mats and pillows in a plague-stricken house does not mean hatred of those objects. Injecting a patient does not mean the doctor hates him. Brahminism is a disease in this ancient region, tormenting not only bodies but minds, and its painful consequences endure while it does.
+
+It shattered a vast Dravidian society into hereditary slaves, speaking mutes and walking corpses, without indignation or self-respect. Medical texts say a father's venereal disease may make his child blind; how can that child see the world's joy? Likewise Dravidian society is afflicted by Brahminism and each new Dravidian is born blind. That is why we wish to abolish it.
+
+Only unity, discipline, courage and self-respect enable a great society to defeat imperialism. Brahminism deprived our people of them. Asked whether victory is possible, we say the outcome does not matter; this is duty. Asked whether success will come, we say: “The morning star is rising.”
+
+We said the morning star was rising. Eight years passed. The hardship endured by *Viduthalai* was not wasted. The country has begun to recognise the true communalists. Omandurar, now suffering, and *Dinasari*, roaring like an elephant struck by a spear, should courageously declare that Brahminism, like British imperialism, is a system to be abolished. There is no benefit in moving slowly. No intellectual can defend it with reasons.
+
+Fighting injustice may earn Omandurar and his supporters the labels communalist and atheist. Anyone wishing to act honestly must disregard insult. Whenever even the most just act damages dominance or selfish interest, those affected abuse it. Gandhi preached love and truth with gentle words, yet Godse killed him for it. When that noble man gave his life for truth, what loss is it if we surrender ordinary fame? It is no loss; the country will gain liberation.
+
+Published in *Dravida Nadu*, 18 April 1948.
+
+## Translator's Notes
+
+The Tamil OCR source is retained verbatim. The opening layout separates “வெள்ளி முளைக்க,” “6,” and “ஆண்டுகள்,” so the English treats “For the Morning Star to Rise” as the main title and “Six Years!” as part of the subtitle without silently changing the Tamil. The article uses “வகுப்புவாதம்” in the historical South Indian political sense commonly rendered “communalism,” relating to caste/community representation rather than only religious conflict. “Brahminism” denotes the system explicitly distinguished by the author from Brahmin individuals. Caste labels, medical analogies and polemical language are preserved as historical source rhetoric, not endorsed. Quotations from *Dinasari* and *Viduthalai* are translated from the OCR text and should be checked against original issues before scholarly citation.

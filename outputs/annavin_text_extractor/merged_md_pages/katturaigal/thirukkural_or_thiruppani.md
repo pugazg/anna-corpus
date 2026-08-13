@@ -1,0 +1,1 @@
+../../md_pages/katturaigal/thirukkural_or_thiruppani.md

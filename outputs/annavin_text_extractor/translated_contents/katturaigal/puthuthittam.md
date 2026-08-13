@@ -1,0 +1,627 @@
+# புதுத் திட்டம் - பூரிப்பில்லை! / The New Scheme Brings No Satisfaction!
+
+**Tamil title:** புதுத் திட்டம் - பூரிப்பில்லை!  
+**English title:** The New Scheme Brings No Satisfaction!  
+**Source file:** `katturaigal/puthuthittam.md`
+
+## Source Tamil (verbatim)
+
+- Source image folder: `/Users/pugazhendhirajendran/Documents/Codex/2026-07-09/https-www-annavinpadaippugal-info/outputs/annavin_text_extractor/ocr_images/katturaigal/puthuthittam`
+- OCR language: `tam`
+- Tesseract page segmentation mode: `3`
+- OCR cleanup: `enabled`
+
+## Image 1: 001-3314b8f480.png
+
+- Image: `katturaigal/puthuthittam/001-3314b8f480.png`
+
+18. புதுத் திட்டம் - பூரிப்பில்லை!
+
+தேள் கொட்டியதுபோலத் திகைத்துக் கிடந்த சென்னை மாநில
+மக்கள், எதிர்பார்த்திருந்த ஜூன் 18, வந்து சென்றுவிட்டது.
+
+இந்திய அரசியலமைப்புச் சட்டத் திருத்தத்தை அனுசரித்து,
+கம்யூனல். ஜி.ஓ. சம்பந்தமாகப், புதுத் திட்டம் ஒன்றை, அந்தத் தேதியில்
+வெளியிட்டிருக்கின்றனர், சென்னை சர்க்கார்.
+
+வகுப்புவாரி முறை வம்பர்களால், சமாதிக்கு அனுப்பப்பட்டதும்,
+அதனால் சண்டமாருதம், தாழ்ந்தோரிடையிலே வீசத் துவங்கியதும்,
+அதனால் ஏற்பட்ட விளைவுகளையும், நாடு அறியும்.
+
+வகுப்புவாரி முறை ஐஸ்டிஸ்காராகளால் உண்டாக்கப்பட்ட
+ஏற்பாடாயிற்றே, அது ரத்தானால், நமக்கென்ன, என்று இருந்துவிட
+வில்லை, காங்கிரஸ்காரர்கள்.
+
+சமுதாயத்தின் முன்னேற்றத்தை முடக்கும் செயல் என்றே பலர்
+சீறினர்; வீராவேசமாகப் பேசினர்; டில்லிக்கு ஓடினர்; தம்மால் செய்ய
+முடிந்ததெல்லாம் செய்தனர்.
+
+ஆட்சிப் பொறுப்பில் அமர்ந்திருக்கும் தேசியத் தோழர்கள்,
+வகுப்புவாரிப் பிரச்சனையின் மீது, காட்டிய அக்கறையும்,
+உள்ளபடியே பாராட்டப்பட வேண்டியதுமாகும்.
+
+நம்மைத் தூற்றுவோர்தாம் அவர்கள், நல்லது செய்தாலும் திட்டித
+தீர்க்கும் போக்குதான் அவர்களுடையது. ஆனாலும், இந்தப் பிரச்சனையில்
+அவர்கள் நடந்துகொண்ட மூறை, சிறந்தது மட்டுமல்ல; சீர்தூக்கிப்
+பார்க்கவேண்டியதுமாகும்
+
+"வகுப்புவாரி முறை, அழிவது அநியாயம் '' என்று மந்திரி
+மார்களும், சட்டசபை உறுப்பினரும், வெளிப்படை யாகவே பேசினர் -
+௨.ழைத்தனர்.
+
+## Image 2: 002-e2e04d3593.png
+
+- Image: `katturaigal/puthuthittam/002-e2e04d3593.png`
+
+'“வகுப்புவாரிப் பிரச்சனை போய்விட்டது. இதில் நாம் வாளா
+யிருந்துவிட்டால் பழி நமக்கேற்படும். மக்கள் தூற்றுவர். எதிர்க்கட்சிகள்,
+இதையே காரணமாகக் காட்டி வளர்ந்துவிடும். ''
+
+் இதுகூடக் காரணமாக இருக்கலாம், காங்கிரஸ்காரர்கள், கவனம்
+செலுத்தியமைக்கு.
+
+'தோர்தல் வரப்போகிறது. காங்கிரஸ் பெயரைக் கேட்டாலே மக்கள்
+வெறுக்கும் இந்த நேரத்தில் கம்யூனல்.ஜி.ஓ.வும் போய், அதைப்பற்றி நாம்
+பேசாமலும் இருந்துவிட்டால், தேர்தலில் தோல்விதான் ஏற்படும்''
+
+இந்த எண்ணத்தால்கூட, இந்தப் பிரச்சனையில் அதிகக் கவலை
+கொண்டிருக்கலாம், அவர்கள்.
+
+ன் நாமும் பார்ப்பனரல்லாத இனம்தானே. நம்முடைய பையனுடைய
+கதியும் இதுதானே! பார்ப்பனருக்கு மட்டும் சலுகைகளா?"
+
+இதுபோன்ற கேள்விகள், அவர்களிடையேயும் ஆவேசத்தைக்
+கிளப்பி யிருக்கலாம், இந்தப் பிரச்சனையில்.
+
+எது காரணமானாலும், அவர்கள், கம்யூனல் ஜி.ஓ. விஷயத்திலும்,
+வழக்கம்போல் தூங்காமல், துணிவை உண்டாக்கிக்கொண்டு, சுப்ரீம்
+கோர்ட்வரை சென்று, பிறகு மேலிடத்தின் கன் னெஞ்சையும்
+கரையவைத்துத் திருத்தமும் பிறகு திட்டமும் தந்திருக்கிறார்கள்.
+
+இந்த உண்மையை நாம் மதிக்கக் கடமைப்பட்டிருக்கிறோம் -
+ஆகவே, ஏன், அவர்கள் அக்கறை காட்டினார்கள் 2' என்கிற
+ஆராய்ச்சிக்குப் போக விரும்பவில்லை.
+
+அதுமட்டுமல்ல, தேசிய நண்பர்களிடையே, பார்ப்பனரல்லாத
+மக்கள்தாமே நாமும், என்கிற ஆவேசம் இப்பிரச்சனையில் அதிகமாக
+வெளிப்பட்டிருக்கிறது.
+
+''திராவிட இயச்கத்து ஆசாமிகள் பேசும் பேச்சல்லவா இது;
+. தீமக்கேன்? நாம் இந்திய மாதாவின் மைந்தர்கள் - ஆரியராயினும்
+வேதியராயினும் ஒன்றே!'' என்று சமரசம் பேசிகளாயிருந்தோர், அதே
+பாதையில் இந்தப் பிரச்சனையிலும் நடக்கவில்லை.
+
+வகுப்புவாரி முறை - ஏற்பட்டதுக்குக் காரணம் நாம்தான்.
+
+## Image 3: 003-e5fa4f8063.png
+
+- Image: `katturaigal/puthuthittam/003-e5fa4f8063.png`
+
+அதன்மீது, குள்ள நரிகளின் அம்புபட்டபோதெல்லாம், பாய்ந்து
+எழுந்ததும் நமது இயக்கம்தான். இந்த உண்மை நாடறிந்த ஒன்றாகும்.
+
+சமுதாயத்திலே, எல்லா நிலையிலும் பிற்போக்கடை நீது கிடக்கும்
+ஒர மாபெரும் இனத்தின் விடுதலை இயக்கம் நம்முடையது. ஆகவேதான்,
+தமக்கு இந்த விஷயம் மிகவும் முக்கியமாக இருந்தது.
+
+ஆனால், தேசிய நண்பர்கள் அப்படிப்பட்டவா்களல்ல! நமது
+திசைவரை நோக்கவும் கூசும் கண்கள், அவர்களுடையது. நாம் நமது இன
+விடுதலைக்காகப் பேசினால், அவையெல்லாம், 'வகுப்புவாத 'மாகப்படும்.
+அவர்களுக்கு. வகுப்புத் துவேஷிகள்! தடைபோடு, அவர்கள் எழுத்துக்கு!
+- இதுதான், அவர்கள், நம்முடைய பணிபற்றி, வீசம் குற்றச்சாட்டுகள்.
+
+ஆனாலும், எதை நாம் தேவையெனக் கூறுகிறோமோ, அது
+விஷயத்திலேயே அவர்களும் கவலைப்பட வேண்டியவர்களானார்கள்.
+
+எது அவர்களால் வகுப்புவாதம் என்று கூறப்பட்டதோ, அதற்காகவே
+பாடுபட வேண்டியவர்களாயினர்.
+
+நாம் பல்லாண்டுகளாக நடந்துவரும் பாதையைப் பழித்தவர்கள்
+அதே பாதையில் நடந்தார்கள் - அந்தப் பாதை நியாயம் நிரம்பியது எனப்
+பேசினார்கள் - அதற்காகத் திருத்தம் கொணரவும், 'தாங்களே இதற்குக்
+காரணம்' என்று பெருமை கொள்ளவும் தயாரானார்கள்.
+
+இத்தகைய, புதுநிலை, காங்கிரஸ் பார்ப்பனரல்லாதாரிடையிலே,
+வகுப்புவாரிப் பிரச்சனை காரணமாக உருவாயிற்று. நம்மைத்
+தூற்றுவோர்கூட, திடுக்கிடும் படியான அளவில், தேசிய திராவிட இதழ்கள்,
+வகுப்புவாரி உரிமை குறித்து எழுதின.
+
+இது, நாடறிந்த உண்மை - எனவே, நாம் காங்கிரசாரிடையிலே
+மலர்ந்த இந்தப் புதுநிலையை மதிக்கிறோம்.
+
+இந்த ஒரு பிரச்சனை மூலம், பொது எதிரி யார் என்பதையும், எந்தக்
+.. கொள்கை இந்நாட்டு மக்களைக் கீழோராக ஆக்கிற்று என்பதையும்,
+அவர்கள் கூடாரமே, முரசொலித்து, விளக்கிற்று.
+
+ஆகவேதான், தேசிய திராவிட காங்கிரஸ் நண்பர்கள் நமது
+பாராட்டுக் குரியவர்கள் என்று குறிப்பிட்டோம்.
+
+## Image 4: 004-15431bad2e.png
+
+- Image: `katturaigal/puthuthittam/004-15431bad2e.png`
+
+காங்கிரஸ் - நமது எதிர்க்கட்சி. இது, எல்லோரும் அறிந்ததுதான்.
+
+ஆனாலும், நமது பேச்சு, அங்கே. நமது குரல், அந்த இடத்தில்! நமது
+கொள்கையின் உண்மை உணர்ந்தனர், அவர்கள், நாம் எது வேண்டு
+மென்றோமோ, அசதைத்தாங்களே செய்து மூடித்ததாகக் காட்டிக் கொள்ளும்
+ஆசை, அங்கே.
+
+இந்தப் புது நிலை, காங்கிரஸ் கட்சியில். அதுவும், காங்கிர
+சிலேயள்ள எல்லோரிடையிலுமல்ல - திராவிடர்களிடையே/
+
+பார்ப்பனரல்லாத மக்கள் மத்தியில் பார்ப்பன மக்களின் தலைவர்கள்
+செய்யும் தகாப் போக்கையும். தறுதலை ஆட்டத்தையும், இந்தப் பிரச்சனை
+தெளிவாக விளக்கியிருக்கிறது.
+
+எனவேதான், நாம் மகிழ்ந்தோம்! மலர் பறிப்போனைப் பார்த்து,
+'சேச்சே, மலம் அப்பா, அது” என்று கேலி பேசியோர், பிறகு, அதே மலர்ச்
+சோலைக்குள் சென்று, 'ஆகா, இம்மலர் எனக்கும் தேவை' என்றால் - அது,
+சாதாரணமானதல்லவே!
+
+ஆகவே, மதித்தோம் - அவர்களது செயல்களை. மகிழ்ந்தோம்,
+காங்கிரஸ் திராவிடர்களின் முயற்சிகண்டு. ''ஏமாளிகளல்ல; முதுகெலும்பு
+முறிந்தாலும், கவலை கொள்ளாதவர்கள் அல்ல. மானாமிமானம் :
+அவர்களுக்கும் உண்டு, மக்களைப் பாதிக்கும் எதையும் கண்டு வாய் மூடி
+மெளனியாபவர்களல்ல '' என்கிற திருப்தி, நமக்கேற்பட்டது.
+
+அத்திருப்தியில் தேன் சொரிவதுபோல, ''சென்றோம் - திருத்தம்
+செய்தோம், அரசியலமைப்பில் ' ' என்றனர். 'அப்படியா? நல்லது, ஆவன
+செய்வீர்!' என்று கூறினோம். எதிர்பார்த்தோம், ஜூன் 18-ஆம் தேதியை.
+
+தேதி சென்றுவிட்டது - திட்டமும் தந்திருக்கிறார்கள்.
+
+3 78 ட
+
+தொழிற் கல்லூரிகளில் (மெடிகல், என்சினீயரிங், விவசாயக் '
+கல்லூரி, கால்நடைக் கல்லூரி) மாணவர்களைச் சேர்க்க, சர்க்கார் பின்வரும்
+புது ஏற்பாட்டைத் தயாரித்துள்ளது.
+
+மொத்தம் நூறு இடங்கள் என்றால் அதில் பதினைந்து,
+தாழ்த்தப்பட்டோருக்கும் மலை ஜாதியினருக்கும் ஒதுக்கப்படும்.
+
+## Image 5: 005-32dcd37711.png
+
+- Image: `katturaigal/puthuthittam/005-32dcd37711.png`
+
+கல்வி, சமுதாயத் துறையில், பின்னணியிலிருப்போருக்கு இருபத்து
+ஐந்து இடங்கள் ஒதுக்கப்படும். லப்பை, மாப்பிளா, தூகுகுலா போன்ற
+முஸ்லீம்களும், கிருஸ்துவர்களாக மதம் மாறிய ஆதித் திராவிடர்களும்
+பின்னணி 'லிஸ்டில்' சேர்க்கப்பட்டவர்கள்.
+
+மீதி 60 இடங்கள் எல்லோருக்கும் போதுவானவை.
+
+மேலும், சில விளக்கங்களோடு, இத்திட்டம் பிரசுரிக்கப்
+பட்டிருக்கிறது. இதை, நமது மாநில அமைச்சர் பக்தவத்சலம் விளக்கு
+கையில், ''முன்பு இருந்த இடங்களை எல்லாச் சமூகத்தினருக்கும் பிரித்துக்
+கொடுத்துவந்தது. இப்போது குறிப்பிட்ட இடங்கள் ஆதித் திராவிடருக்கும்,
+பின்னணி வகுப்பாருக்கும் 'ரிசாவ்' செய்யப்பட்டிருக்கிறது, ஏனைய
+இடங்கள், எல்லோருடைய போட்டிக்கும் விடப்பட்டிருக்கிறது'' என்பதாக
+வெளியிட்டுள்ளார்.
+
+எல்லோருடைய போட்டிக்கும்' என்று அமைச்சர்
+அறிவித்திருப்பதில்,
+பார்ப்பனர்
+
+பார்ப்பனரல்லாதார்
+
+கிருஸ்துவர்கள்
+
+ஆதித் திராவிடர்
+
+முஸ்லீம்கள்
+
+பிற்போக்குப் பார்ப்பனரல்லாதார் ஆகிய அத்தனை பேரும்
+அடங்குவர். அதாவது, மீதம் 60 இடங்களும், பார்ப்பனருக்கு மட்டுமல்ல;
+எல்லோருக்கும் பொதுவானதுதான் என்று கூறியிருக்கிறார், அவர்.
+
+ஆனால், புது ஏற்பாடு, தேனாக இல்லை - தித்திக்க!
+
+பழைய வகுப்புவாரி - உத்திரவைவிட, பல மடங்கு பார்ப்பன
+சமுதாயத்துக்கு நன்மையும், திராவிட மக்களுக்குத் தீங்கும் தருவதாகவே
+தோன்றுகிறது.
+
+## Image 6: 006-60b00ef87c.png
+
+- Image: `katturaigal/puthuthittam/006-60b00ef87c.png`
+
+சென்னை மாநிலத்தில் வாழும் மொத்த மக்கள் தொகையை
+கணக்கிட்டு அதன்படி இந்த ஏற்பாடு செய்யப்பட்டிருக்கிறதா என்றால்,
+ஏமாற்றம்தான், பதிலாக வருகிறது.
+
+பழைய உத்திரவு
+பார்ப்பனர் 14
+பார்ப்பனரல்லாதார் 43
+பிற்போக்கு 14
+ஆதித்திராவிடர் 14
+முஸ்லீம்கள் 7
+கிருஸ்துவர் 7
+
+மொத்தம் இருப்பது 100 இடங்கள் என்றால், மேற்குறிப்பிட்ட
+விகிதாசார முறையில், அவரவர்க்கு இடமளிக்கவேண்டும் என்பதே பழைய
+உத்தரவாகும்.
+
+இந்த முறையே நியாயம் நிரம்பியதல்லவென்று, பலர் குறைபட்டு
+வந்தனர். ஏனெனில், மக்கள் தொகைக்கேற்றபடி, விகிதாசாரம், இந்த
+ஏற்பாட்டால் பகிர்ந்தளிக்கப்படவில்லை. மக்கள் தொகை நூற்றுக்கு
+எத்தனை என்பதைக் காட்டிக் கீழே தரப்பட்டிருக்கும் புள்ளி விபரத்தை
+நோக்குங்கள்:
+
+பார்ப்பனர் 2.4
+பார்ப்பனரல்லாதார் 67.7
+பிற்பட்ட
+
+ஆதித்திராவிடர் 16.3
+முஸ்லீம்கள் 7.8
+கிருஸ்துவர்கள் 3.7
+
+மச்கள் தொகையின், சதவிகிதக் கணக்கு இது.
+
+## Image 7: 007-c4bf43f7cc.png
+
+- Image: `katturaigal/puthuthittam/007-c4bf43f7cc.png`
+
+முதலிலே தரப்பட்டிருக்கும் 'பழைய உத்தரவு' மூலம், ஒவ்வொரு
+வகுப்புக்கும் தரப்பட்ட விகிதாசாரத்தையும், இதையும் ஒப்பிட்டுப்
+பார்த்தால் - உண்மை விளங்கும்.
+
+நூற்றுக்கு 3 கூட இல்லாத பார்ப்பனருக்கு 14 இடங்கள்.
+நூற்றுக்கு £0 பேராக உள்ள திராவிட மக்களுக்கு 57 இடங்கள்.
+நூற்றுக்கு 17 பேரான தாழ்த்தப்பட்டோருக்கு 14 இடங்கள்.
+
+பழைய உத்தரவு இது! பலரைப் பதறச் செய்தது, இது. ஆனாலும்,
+இதை ஆட்சேபித்துக் கச்சை கட்டினர் பார்ப்பன மாந்தர். கடைசியில் தங்கள்
+தந்திரங்கள் மூலம், இந்த ஏற்பாட்டை சவக்குழியிலும் தள்ளினர் -
+சட்டத்தின் மூலம்.
+
+இப்போது, புதுத் திட்டம், பிறந்திருக்கிறது பொங்கும் கடல்போலத்
+திராவிட சமூதாயம் தன் இன எழுச்சியைக் காட்டிக் கொண்ட பிறகு.
+
+ஆனாலும் புதுத் திட்டம் - பொன்னாக இல்லை; முலாம்
+பூசப்பட்டதாகக் காட்சிதருகிறது.
+
+இதன் மூலம் தாழ்த்தப்பட்டோருக்கு 100 - க்கு 15 இடங்கள்
+கிடைக்கும் வசதி உண்டாகியிருக்கிறது
+
+பழைய உத்தரவின்படி 14-இடங்கள்தான்; ஆனால், புது உத்தரவு
+1-இடம் அதிகமாகத் தருகிறது. எனினும், அவர்களின் மொத்த
+தொகைக்கேற்றளவு, விகிதாசாரம் இல்லையென்றாலும், இந்த அளவாவது
+கிடைத்ததே என்பதால் சிறிது தெம்பு வருகிறது, நமக்கு.
+
+கனி பறிக்கச் சென்றவனைக் கழுகு கொத்திட அதனால் கீழே
+விழுந்தும், அடிபடாமல் தப்பினான் என்றால், கனி கிடைக்கவில்லையே
+என்ற வருத்தம் எழும்பவா, செய்யும்?
+
+தாழ்த்தப்பட்ட மக்களுக்கு அடுத்தபடியாக, பின்னணி
+வகுப்பாருக்கென நூற்றுக்கு 25 இடங்கள், ஒதுக்கப்பட்டுள்ளன, புதுத்:
+திட்டம்மூலம்.
+
+இந்த மாற்றமும், எதிர்பார்த்ததைவிட அதிகமாகத்தான் தோன்றும்.
+
+## Image 8: 008-f4980b5f2c.png
+
+- Image: `katturaigal/puthuthittam/008-f4980b5f2c.png`
+
+ஏனெனில், பழைய கம்யூனல் ஜி. ஓ. படி, பின்னணி வகுப்பாருக்
+கென நூற்றுக்கு 14 இடங்கள் தான் தரப்பட்டிருந்தது.
+
+முன்பு 14; இப்போது 25! இது, அதிகமாகக் காட்சிதந்தாலும், ஒன்றை
+நாம் மறந்துவிடக் கூடாது.
+
+பின்னணி வகுப்பு எவை யெவை என்று, இந்தப் புதுத் திட்டத்தில்
+சர்க்கார் வரையறத்துச் சொல்லவில்லை. ஆனால், முன்பு வரையறுத்து
+வைக்கப்பட்டிருப்பதை வைத்தே, எவையெவை பின்னணி வகுப்பினர்
+என்று, சர்க்கார் தெரிந்து எடுத்துக்கொள்ளும்.
+
+அப்படிப் பார்த்தால் சென்னை மாநிலத்திலுள்ள பின்னணி
+வகுப்புகளில் (8404474129) பட்டியல் 156 வரை, செல்கிறது.
+
+156- பிரிவுகள்! ஆனால், அவைகளுக்கு ஓதுக்கப்படும் இடம் 25.
+
+பழைய உத்தரவு மூலம் 136 பிரிவுகள் நிரம்பிய பின்னணி
+வகுப்பாருக்கு நூற்றுக்கு 14 இடங்களே ஒதுக்கப்பட்டிருந்தன.
+
+இதைப்பற்றிப் பல முறை, சென்னை சட்டசபையில், தேசிய
+உறுப்பினர்களாலேயே கேள்விகளும் கண்டனமும் எழும்பியதுண்டு.
+
+இருந்தும், குறைந்த அளவிலேயே, பின்னணி வகுப்புக்கும் இடங்கள்
+ஒதுக்கப்பட்டுள்ளன. ்
+
+அதுமட்டுமல்ல, சர்க்காரின் புது உத்தரவு மூலம் பின்னணி வகுப்பு
+என்கிற ஜாபிதாவில், லப்பை, மாப்பளா. தூகுகுலா போன்ற முஸ்லீம்களும்
+கிறிஸ்தவர்களாக மதம் மாறிய ஆதித்திராவிடர்களும், மலைச்
+சாதியினரும் சேர்க்கப்படுகிறார்கள் இருந்தும், அதிகமாக்கி உத்தர
+விட்டிருப்பது 25 இடங்கள்தான்
+
+பிற்பட்ட மக்களின் தொகையையும் இப்போது ஒதுக்கப்பட்டிருக்கும்
+இடங்களையும் ஒப்பிட்டால், மகிழ்ச்சி அரும்பாது. ஏனெனில், அதிகத்
+
+தொகையும், பிரிவுகளும் நிரம்பியோருக்கு, நூற்றுக்கு 25 இடங்கள் என்று
+
+ஒதுக்குவது - ஓடையில் பெருங்காயம் கரைப்பது போலத்தான் ஆகும்.
+
+புதுத்திட்டம், பார்ப்பனர்களுக்கு பரந்த ஒரு சந்தர்ப்பச் சோலையைத்
+தந்திருக்கிறது.
+
+## Image 9: 009-42e4d763e2.png
+
+- Image: `katturaigal/puthuthittam/009-42e4d763e2.png`
+
+மீதம் 60 - இடங்கள் என்று சர்க்கார் குறிப்பிட்டிருப்பதுதான், அந்தச்
+சோலை
+
+பழைய உத்தரவின்படி, பின்னணி வகுப்பினருக்கு நூற்றுக்கு 14
+இடங்கள் என்பது தவிர, பார்ப்பனரல்லாத மக்களுக்கென 43 இடங்கள்
+ஒதுக்கப்பட்டிருந்தன.
+
+இப்போது, அந்த இடங்கள். பறிமுதலாகிவிட்டன.
+
+புது உத்தரவில், நமது நெஞ்சைக் கலக்கும் கட்டம், இதுதான்.
+
+இந்த 43 இடங்களையும் இப்போது பார்ப்பனர் தமது 'தகுதிதிறமை'
+கொண்டு வேட்டையாடும்படி விட்டு விட்டனர் - சர்க்கார்.
+
+பழைய உத்தரவுபோல, இனி பார்ப்பனரல்லாதோருக்கு, சலுகை
+கிடைக்க, இனி வழியில்லை.
+
+தாழ்த்தப்பட்டோருக்கும் பின்னணி வகுப்பினருக்குமாக மொத்தம்
+40 போக மீதமாகும் 60 இடங்களில் பார்ப்பனருடன் போட்டியிட்டே,
+பார்ப்பனரல்லாத மாணவர்கள் இடம் பெறவேண்டும்.
+
+இனி, பார்ப்பனரல்லாத மாணவர்களுக்கென சலுகை பெற எவ்வித
+வசதியுமில்லை. ்
+
+- இந்த 60 இடங்களிலும், தகுதி திறமையை வைத்துப் பார்ப்பனர்,
+பின்னணி வகுப்பினர், பார்ப்பனரல்லாதார், தாழ்த்தப்பட்டோர், முஸ்லீம்,
+கிருஸ்துவர் ஆகியோரெல்லாம் வேட்டையாடலாம்.
+
+இந்த வேட்டையில் எவர் கெலிப்பர் என்பது தெரியாத விஷயமல்ல.
+
+தகுதி திறமை பேசிய கும்பலுக்குத் தலை வணங்கிவிட்டது.
+புதுத்திட்டம்.
+
+தகுதியையும் திறமையையும் எடைபோட, மாணவர்களுடைய
+
+மார்க்குகள், சரியான எடைப் பொருள் அல்ல.
+
+இருந்தும், இதில் ஏனோ விட்டுக் கொடுத்திருக்கின்றனர், சென்னை
+
+சர்க்கார்.
+
+## Image 10: 010-dacd83eb29.png
+
+- Image: `katturaigal/puthuthittam/010-dacd83eb29.png`
+
+ஆனால், இதற்கு சமாதானம் கூறுவதுபோல், 60 இடங்களுக்கும்
+மாணவர்களைத் தேர்ந்தெடுக்க கமிட்டிகள் வேலை செய்யும் - அவை
+நேரில் பார்த்தே மாணவர்களைச் சேர்க்குமென சர்க்காரின் தகவல்
+கூறுகிறது.
+
+பல்கலைக்கழகத் துணைவேந்தர்கள் பொறுப்பிலே இக்கமிட்டி
+இருக்குமென்றாலும், பாதிக்கப்பட்ட சமுதாயத்தைச் சோந்தோரே
+எப்போதும் துணைவேந்தர்களாயிருப்பர் என்பது என்ன நிச்சயம்!
+
+இன்றுள்ளோர் மாறி, அந்த இடத்தில் 'அவர்கள்' வந்தால், நாம்
+பேசும் பரந்த மனோபாவம், அங்கே காணவர முடியும்? தற்போதைய
+ரயில்வே இலாகாவைப் பார்த்தாலே, விளங்குகிறதே!
+
+எனவே, இந்த ஏற்பாடுமூலம் நிரந்தர பலன், பார்ப்பனரல்லாத
+பெருங்குடி மக்களுக்கு ஏற்படும் வழியில்லை.
+
+சிலர் கூறலாம், ''பார்ப்பனப் பையன்கள் மட்டுமா கெட்டிக்காரர்கள்.
+நமது பையன்களும் கெட்டிக்காரர்கள்தான். (வேண்டுமானால் போட்டி
+போடட்டும், இருவரும். எப்போது பார்த்தாலும் படிப்பு வரும் இனம்
+பார்ப்பணருடையதே, என்று சொல்வதால் என்ன பிரயோஜனம். ஏனிந்த
+தாழ்வு மனப்பான்மை'' என்பதாக
+
+இந்த விளக்கம், நமது வீம்பைத்தான் காட்டுமே யொழிய,
+
+உண்மையைக் காட்டாது.
+
+ஏனெனில், நூற்றுக்கு மூவரான பார்ப்பனர், இதுவரை 14
+இடங்களைப் பெற்றுப் போக போக்கியங்களிலே மூழ்கித் திளைப்பவர்கள்.
+அதோடு, அவர்களது வாழ்க்கை முறையும், சிறுவர்கள் படிப்பதற்குள்ள
+வசதிகளும் எவரும் அறியாததல்ல. ஏழைப் பார்ப்பனராயிருந்தாலும்,
+அவர் வீட்டுப்பெண், எழுத்துக் கூட்டுமளவாவது படிக்காததாயிருக்காது?
+ஆனால், பார்ப்பனரல்லாத குடும்பங்கள் அப்படியல்ல.
+
+இது சமுதாயத்திலே, அமைந்து போன கோணல்.
+எப்படி இந்தக் கோணல் அமைந்தது?
+
+இந்தக் கேள்வி, பல விஷயங்களைக் கிளறச் செய்யும். எனவே,
+இங்கு, விளக்கம் தேவையில்லை.
+
+## Image 11: 011-a75e7accb3.png
+
+- Image: `katturaigal/puthuthittam/011-a75e7accb3.png`
+
+ஆனால் ஒன்றுமட்டும் உண்மை.
+
+சமுதாய விருட்சத்தின்மீது படர்ந்த கொடிகள் உச்சிக்கிளைக்குப்
+போய்விட்டன - தாவித் தாவி இந்நிலையில் வேரும், கிளையும் என்ன
+செய்யமுடியும், கொடி சென்றிருக்கும் இடம்வரை உயர?
+
+ஆகவே, சமுதாயத்திலே ஏற்பட்டுவிட்ட இந்தப் 'பரம்பரை மாச
+போக, வீம்பு பயன் தராது.
+
+தகுதி திறமை பேசி, ஏர் பிடிப்போன் மகனும், வேதமோதியின்
+குழந்தையையும் மோதவிடுகிறது - சர்க்கார்.
+
+கவலை நிரம்பிய குலத்திலே வந்தவன், 'கல்வியே கருந்தனம்' என
+உருப்போடும் கூட்டத்தோடு மோதி வெற்றி பெறுவது இலேசானதல்ல!
+
+மேல்தளத்தில் நிற்கிறது - பார்ப்பன சமுதாயம். கீழே கிடக்கிறது
+பார்ப்னரல்லாத இனம்.
+
+எப்படிப் போட்டியில் ஜெயம் காணமுடியும்?
+
+இதைக் காணும்போதுதான், புதுத்திட்டம் - நாம் எதிர்பார்த்த அளவு
+பூரிப்பைத் தரவில்லையே என்ற தூக்கம் வருகிறது.
+
+ன் ன் 8
+
+சமநீதி உரிமை கிடைக்க வேண்டுமென்பதில் சண்டமாருதமெனச்
+சுழன்றோர், கடைசியில், கலங்கிப் போயிருப்பதாகவே, தென்படுகிறது
+புதுத் திட்டத்தைக் காணும்போது.
+
+அரசியலமைப்புத் திருத்தப்படி, தமது கோரிக்கையை நிறைவேற்றிக்
+“கொள்ள, நல்லதோர் சந்தர்ப்பம். கிடைத்தும், குட்டையைக் குழப்.பியே
+விட்டிருக்கிறார்கள்.
+
+துணிவோடு தமது இனத்துக்கான நன்மைகளைச் செய்வர் என்று
+். நம்போன்றார் கொண்டிருந்த நம்பிக்கையில் - துளி விஷத்தைத் தூவி
+விட்டிருக்கிறார்கள்.
+
+மாற்றாருக்கு நல்ல பிள்ளைகளாகக் காட்டிக்கொள்ளும் மனோ
+பாவம் காரணமாக இருக்கலாம்.
+
+## Image 12: 012-384880f04c.png
+
+- Image: `katturaigal/puthuthittam/012-384880f04c.png`
+
+ஆனால், அதைவிட, இனத் துரோகம், மீளாப் பழியையல்லவா
+சம்பாதித்துவம்.
+
+ஆனால், அந்த ' இழிநிலை '' இந்த விஷயத்திலும் தொடராது -
+துணிவோடு எதையும் செய்வர் என்று நம்பினோம் - அவர்களை மதித்து.
+
+ஆனால், அவர்கள் ஏனோ தவறிவிட்டார்கள்! நல்ல குழ்நிலையைப்
+பயன்படுத்திக் கொள்ளத் தவறிவிட்டார்கள்!
+
+சமூக நீதியைச் சாய்த்தோருக்கும் நன்மை காட்ட வேண்டு மென்ற
+நினைப்பில், புதுத் திட்டத்தில் பொத்தல்களை வைத்துவிட்டார்கள்.
+
+நல்ல சந்தர்ப்பத்தை, சர்ப்பக் குகைக்குள்ளே, தள்ளி
+விட்டிருக்கின்றனர்.
+
+இதனால் ஏற்படும் பழியும் இழிவும் என்றென்றைக்கும் மாறாது.
+
+(திராவிட நாடு - 24.6,51)
+
+## English Translation
+
+The people of Madras State, stunned as though stung by a scorpion, have now seen the much-awaited June 18 come and go.
+
+Following the amendment to the Constitution of India, the Madras Government published on that date a new scheme concerning the Communal G.O.
+
+The country knows that mischief-makers sent communal representation to its grave, that a storm consequently began to sweep among the downtrodden, and what consequences followed.
+
+Congressmen did not remain indifferent on the ground that communal representation had been instituted by the Justice Party and that its cancellation therefore did not concern them. Many denounced the cancellation as an act obstructing society's advancement. They spoke passionately, hurried to Delhi, and did everything within their power.
+
+The concern shown over this question by the nationalist comrades occupying positions of government deserves genuine praise. They are people who denounce us, and their usual tendency is to condemn whatever we do, even when it is good. Yet their conduct in this matter was not merely commendable; it deserves careful consideration.
+
+Ministers and members of the legislature openly declared that destroying communal representation was unjust, and they worked against it.
+
+They may have reasoned: "The communal arrangement has disappeared. If we remain idle, the blame will fall on us. The people will condemn us, and the opposition parties will use this very issue to grow." That too may explain why Congressmen paid attention.
+
+They may also have thought: "An election is approaching. At a time when people recoil at the very name of Congress, if the Communal G.O. disappears and we remain silent, defeat at the election is certain." This thought too may have made them especially anxious about the question.
+
+Questions such as these may also have aroused them: "Are we not non-Brahmins too? Is this not also the fate of our boys? Are concessions to be given only to Brahmins?"
+
+Whatever the reason, they did not sleep through the Communal G.O. issue as usual. They summoned courage, went as far as the Supreme Court, then softened the hard heart of the high command, and secured first an amendment and then a scheme.
+
+We are bound to respect this fact. We therefore do not wish to investigate why they showed concern. Moreover, the feeling among our nationalist friends that they too belong to the non-Brahmin people revealed itself with particular force in this controversy.
+
+Those who had previously preached compromise, saying, "Is this not the kind of talk indulged in by fellows of the Dravidian movement? Why should it concern us? We are children of Mother India; Aryan or Vedic, all are one," did not follow that same path in this matter.
+
+It was we who brought communal representation into being. Whenever the arrows of cunning foxes struck it, it was our movement that sprang up in defence. The country knows this truth.
+
+Ours is the liberation movement of a great people kept backward at every level of society. That is why this question was of the greatest importance to us.
+
+But our nationalist friends were not of that kind. Their eyes were once ashamed even to turn in our direction. When we spoke for the liberation of our people, everything we said became "communalism" to them. "Communal haters! Ban their writings!" Such were the accusations they hurled at our work.
+
+Yet they too were compelled to concern themselves with the very cause that we had declared necessary. They had to labour for what they had denounced as communalism. Those who had condemned the road we had travelled for many years now walked along it themselves. They declared that road just, prepared to bring in an amendment for its sake, and were even ready to take pride in saying that they themselves had made it happen.
+
+This new condition arose among Congress non-Brahmins because of the communal-representation issue. Even those who abused us wrote about communal rights in nationalist Dravidian journals to a startling extent.
+
+The country knows this to be true. We therefore respect this new awareness that blossomed among Congressmen. Through this single controversy, their own camp proclaimed who the common enemy was and which doctrine had reduced the people of this country to an inferior condition.
+
+That is why we said that our nationalist Dravidian friends in Congress deserved praise.
+
+Congress is our opposing party; everyone knows that. Yet our words were heard there, our voice sounded in that place. They understood the truth of our principle, and a desire arose there to show that they themselves had accomplished and completed what we had demanded.
+
+This was a new development within Congress, though not among everyone in Congress: it arose among the Dravidians. The issue clearly exposed the improper conduct and reckless manoeuvres of Brahmin leaders among the non-Brahmin public.
+
+That is why we rejoiced. If people who once mocked a flower-gatherer, crying, "Shame, man, that is filth!" later enter the same flower garden and say, "Ah, I too need this flower," it is no ordinary event.
+
+We therefore valued their actions and rejoiced at the efforts of the Congress Dravidians. We felt satisfied that they were not fools, not people who would remain unconcerned even when their backbone was broken; that they too possessed honour and self-respect, and would not close their mouths and remain silent when the people were harmed.
+
+As though pouring honey into that satisfaction, they announced, "We went and amended the Constitution." We replied, "Is that so? Good. Do what is necessary," and awaited June 18.
+
+The date has passed, and they have presented their scheme.
+
+For admission to professional colleges, including medical, engineering, agricultural, and veterinary colleges, the Government has prepared the following arrangement.
+
+Out of every hundred seats, fifteen are reserved for the Depressed Classes and hill tribes. Twenty-five are reserved for those backward in education and social standing. Muslims belonging to communities such as Labbais, Mappilas, and Dudekulas, and Adi-Dravidars converted to Christianity, are included in the backward list. The remaining sixty seats are common to everyone.
+
+The scheme has been published with further explanations. Explaining it, our State Minister Bhaktavatsalam said that seats had formerly been divided among all communities, whereas specified seats were now reserved for Adi-Dravidars and backward classes, with the rest opened to competition by everyone.
+
+"Everyone" includes Brahmins, non-Brahmins, Christians, Adi-Dravidars, Muslims, and backward non-Brahmins. The Minister thus says that the remaining sixty seats are not for Brahmins alone but are common to all.
+
+But this new arrangement is not honey upon the tongue. It appears to confer many times more benefit upon Brahmin society and to inflict harm upon the Dravidian people when compared with the old communal order.
+
+If we ask whether this arrangement was framed in proportion to the total population of Madras State, disappointment is the answer.
+
+Under the old order, out of one hundred seats, Brahmins received 14, non-Brahmins 43, backward classes 14, Adi-Dravidars 14, Muslims 7, and Christians 7. Even this was criticised as unjust because it did not distribute representation according to population. The population percentages shown in the source are: Brahmins 2.4, non-Brahmins 67.7, Adi-Dravidars 16.3, Muslims 7.8, and Christians 3.7.
+
+Compare these figures with the proportions allotted under the old order and the truth becomes clear: fourteen seats for Brahmins who were not even three in every hundred; fifty-seven seats for the Dravidian people who were about seventy in every hundred; and fourteen seats for the Depressed Classes, who were about seventeen in every hundred.
+
+That was the old order. It alarmed many, yet Brahmin leaders girded themselves to oppose even this. Through their manoeuvres, they finally pushed the arrangement into the grave by means of the law.
+
+The new scheme has now been born after Dravidian society, surging like the sea, displayed its communal awakening. Yet it is not gold; it merely appears gold-plated.
+
+It gives the Depressed Classes fifteen seats in every hundred. The old order gave them only fourteen, so the new order adds one. Though this still bears no proportion to their total population, the fact that even this much has been secured gives us a little heart. If a man who climbed to pluck fruit were attacked by an eagle and fell, but escaped injury, would sorrow over the lost fruit be his first response?
+
+Next to the Depressed Classes, twenty-five seats in every hundred are reserved for the backward classes. This too may appear greater than expected, for the old Communal G.O. gave them only fourteen. Formerly fourteen, now twenty-five: although this looks like an increase, we must not forget one fact.
+
+The Government has not defined in this new scheme which communities constitute the backward classes. It will presumably rely on the earlier definition. On that basis, the list of backward communities in Madras State extends to 156 divisions, while only twenty-five seats are allotted to them.
+
+The old order had allotted only fourteen seats in every hundred to a backward-class list containing 136 divisions. Questions and condemnations concerning this had repeatedly arisen in the Madras Legislature, even from nationalist members. Yet representation for the backward classes remains small.
+
+Furthermore, under the new order the backward list includes Muslims such as Labbais, Mappilas, and Dudekulas, Adi-Dravidars converted to Christianity, and hill tribes. Even after these additions, the allotment has been raised only to twenty-five seats.
+
+Comparing the population of these backward peoples with the seats now allotted cannot produce happiness. Giving twenty-five seats in every hundred to such a large population containing so many divisions is like dissolving asafoetida in a stream.
+
+The new scheme has opened a broad garden of opportunity to Brahmins. That garden is the block of sixty seats described by the Government as the remainder.
+
+Under the old order, apart from fourteen seats for backward classes, forty-three seats were separately allotted to non-Brahmins. Those seats have now been confiscated. This is the feature of the new order that troubles our hearts.
+
+The Government has now left those forty-three seats open for Brahmins to hunt with their alleged "merit and ability." Unlike under the old order, non-Brahmins will henceforth have no avenue for a concession of their own. After forty seats are removed for the Depressed and backward classes, non-Brahmin students must compete with Brahmins for places among the remaining sixty.
+
+In those sixty seats, Brahmins, backward classes, non-Brahmins, Depressed Classes, Muslims, and Christians may all compete on the basis of merit and ability. It is no mystery who will prevail in this hunt.
+
+The new scheme has bowed its head before the group that preached merit and ability. A student's marks are not a true measure with which to weigh merit and ability, yet the Madras Government has conceded the point.
+
+As though offering a defence, the Government says committees will select students for the sixty seats after interviewing them. Even if those committees function under university vice-chancellors, what guarantee is there that vice-chancellors will always belong to the communities that have suffered? If today's incumbents are replaced and "they" occupy those posts, will the broad outlook of which we speak be found there? The present Railway Department itself supplies the answer.
+
+This arrangement therefore offers no path to lasting benefit for the great non-Brahmin population.
+
+Some may say: "Are only Brahmin boys clever? Our boys are clever too. Let both compete. What is gained by forever saying that Brahmins alone are born to learning? Why this inferiority complex?"
+
+Such an explanation displays only our bravado, not the truth. Brahmins, numbering roughly three in every hundred, have until now received fourteen seats and enjoyed the resulting opportunities. Their manner of life and the facilities available for their children's education are known to everyone. Even in a poor Brahmin household, the woman of the house is unlikely to be unable to spell out letters. Non-Brahmin households are not similarly placed.
+
+This is a distortion embedded in society. How did it arise? That question would stir up many matters; no explanation is required here.
+
+One truth alone remains. Creepers spreading over the tree of society have climbed to its highest branch. In such a condition, what can the root and branches do to leap upward and reach the height attained by the creeper?
+
+Bravado cannot remove this inherited stain in society. Invoking merit and ability, the Government sets the ploughman's son against the child of one who chants the Vedas. It is not easy for one born into a care-laden community to defeat a group that repeats, "Education itself is our treasure."
+
+Brahmin society stands on the upper storey; the non-Brahmin people lie below. How can they win in competition?
+
+It is on seeing this that we feel the new scheme has not given the satisfaction we expected. Those who whirled like a tempest demanding the right to social justice appear, in the end, to have lost their nerve.
+
+The constitutional amendment gave them a fine opportunity to fulfil their demand, but they have muddied the pond. They have cast a drop of poison into the confidence of those like us who believed they would boldly secure benefits for their people.
+
+Perhaps the reason was a desire to present themselves to their opponents as well-behaved children. More than that, however, have they not earned the indelible disgrace of betraying their own people?
+
+We respected them because we believed that this degraded condition would not continue even in this matter and that they would act boldly. But, for some reason, they failed. They failed to make use of a favourable situation.
+
+In their desire to show favour even to those who felled social justice, they have left holes in the new scheme. They have cast a good opportunity into a serpent's cave.
+
+The blame and humiliation resulting from this will never disappear.
+
+(*Dravida Nadu*, 24 June 1951)
+
+## Translator's Notes
+
+The historical expression `Communal G.O.` is retained because it denotes the communal-representation order discussed in the article, not "communal" in its present-day sense of religious conflict. Community names and administrative classifications follow the source's period terminology. The source's population table has no separate numerical entry beside the isolated heading `பிற்பட்ட`; no number has been invented for it. The scans were consulted for the title, publication date, key percentages, and visibly corrupted opening and closing lines.

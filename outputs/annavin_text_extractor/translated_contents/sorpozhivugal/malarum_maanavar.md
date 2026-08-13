@@ -1,0 +1,262 @@
+# மலரும் மாணவர் / Students in Bloom
+
+**Tamil title:** மலரும் மாணவர்  
+**English title:** Students in Bloom  
+**Source file:** `sorpozhivugal/malarum_maanavar.md`
+
+## Source Tamil (verbatim)
+
+- Source image folder: `/Users/pugazhendhirajendran/Documents/Codex/2026-07-09/https-www-annavinpadaippugal-info/outputs/annavin_text_extractor/ocr_images/sorpozhivugal/malarum_maanavar`
+- OCR language: `tam`
+- Tesseract page segmentation mode: `3`
+- OCR cleanup: `enabled`
+
+## Image 1: 001-f463f9472c.png
+
+- Image: `sorpozhivugal/malarum_maanavar/001-f463f9472c.png`
+
+7
+
+மலரும் மாணவார்
+
+13 அண்டுகளுக்கு முன்பு மாணவர்கள், நம்மிடம்
+அடியெடுத்து வைத்தபோது!!! குடந்தையில் கூட்டினர்
+மாநாடு. அப்போது, 5-3-44 திராவிடநாடு ஏட்டில்
+தீட்டினோம். சென்னையில் கூடிய மாணவ உலகுக்கு
+மீண்டும் அதனைத் தருகிறோம்.
+
+[மாணவ உலகின் மனப்பாங்கு, காலக் கண்ணாடி, இன
+எழுச்சியின் எழில்மிகு சித்திரம், உரிமைப்போர் முரசொலி,
+விடுதலை விருத்தம் என்பதுபற்றி, எவரே அறியாதார்! வாழ்க்கை
+எனும் பொய்கையிலே, ஆரிய நச்சு கலக்கப்படாத பருவம்.
+பகுத்தறிவு எனும் பகலவன் ஒளிபட்டு, விஷக்கிருமிகளை
+ஓழித்திடும் பருவம், குடும்பம் எனும் கோல் கொண்டு துழாவி,
+சேற்றை மேலுக்குத் தள்ளி, நீரைப் பாழாக்காப். பருவம்,
+சுயநலமும் சுகபோகப்பித்தும் எருமையெனப் புகுந்து இருதய
+கமலத்தைத் துவைத்துப் பாழ் செய்யாப் பருவம்.
+சந்தனக்காட்டைக் கடந்து, மணமும் குளிர்ச்சியும் மருவி மக்களை
+மகிழ்விக்கும் தென்றல் போல, சுருதியும் தாளமும் அமைந்து,
+சொற்சுவையும் பொருட் சுவையும் இழைந்து கேட்போருக்குக்
+களிப்பூட்டுவதோடு கருத்தூட்டும் இசையபோல, உள்ளது,
+மாணவப் பருவம். ஏடுகளிலே நாடு பல கண்டு, வீடுபெறக்
+காடுசெலும் வீணர் போலன்றி, பிறந்த வீடாம் தமிழகத்தின்
+தனிப்பண்பு தெரிந்து, மகிழ்ந்து, உலகுக்கு அதனை உரைத்து
+உவகை மிகுந்து “தாயின்மேல் ஆணை, தந்ைதைமேல் ஆணை,
+தமிழகமேல் ஆணை, தூய என் தமிழ் மேல் அணையிட்டே
+நான் தோழரே உரைக்கின்றேன்” என்று உள்ளத்திலே ஊறிடும்
+உணர்ச்சியினை அறிவிக்கும்: ஆற்றல் மிக்கது மாணவப்பருவம்.
+
+## Image 2: 002-2f50d0dc76.png
+
+- Image: `sorpozhivugal/malarum_maanavar/002-2f50d0dc76.png`
+
+[மாயாவாதமும் மனமருட்சியும், நெருங்க நடுங்கும் நிலை
+அது! புராணமும் புல்லர் மொழியும் புகப் பயப்படும் அகம் அது!
+பதவியும் படாடோபமும், பத்து காதத்தில் நிற்கும். அந்தப்
+பண்பிலே திளைத்து அன்பிலே மிகுந்து, ஆர்வத்திலே குளித்து,
+ஆற்றலிலே சிறந்து, காணக் காட்சியாய், கேட்கக் சதமாய்,
+விளங்கும் வாலிப வீரர்கள் முன்பு! வெட்டிப் பேச்சைத் தட்டி
+நடக்கும் தீரர்கள், கைகொட்டி நகைத்து மட்டித் தனத்தை மட்டந்
+தட்டும் மாவீரர்கள், சுலோகங்களால் சுகவாழ்வு நடத்தும்
+சுயநலமிகளைச் “சுருட்டிக்கொள்் உன் சூதை” என்றுரைக்கும்
+சூரர்கள் மாணவர்கள். அடிமைத்தனம், இருத்தலைக் கண்டால்
+அவர்களின் விழி கனல் கக்கும், மொழி வீரத்தைப் பொழியும்,
+உள்ளம் ஓரஈ௩யிரம் எண்ணங்களை வெளியே தள்ளும்,
+உணர்ச்சியின் உருவமாகி விடுவர், உரிமை உரிமை என்று
+உரைப்பர், அந்த நடமாடும் எஃகுக் கம்பிகள், நாட்டு விடுதலைப்
+போருக்கேற்ற நல்ல தம்பிகள்! பாடுபட்டுழைத்துப் பலன் காணா
+மக்களைக் கண்டால், கண்களிலே நீர் சோரும், கரங்கள் உதவி
+செய்ய முன்வரும், சிரங்கள் சோகத்தால் அசையும், சிந்தனை,
+சமதர்மத்தில் சென்று பதியும் மாணவர்கட்கு. இத்தகைய
+மாண்புடைய மணிகளே, அறியாமை எனும் அந்தகாரத்தால்
+சூழப்பட்டுள்ள தமிழகத்திலே தூங்கா விளக்குகள்! மேலுலகத்
+தரகர்களென மேனிமெருகு கெடாது வாழ வழிசெய்து கொண்டு,
+இளித்தவாயரை ஏய்த்துப் பிழைக்கும் இனத்தினை. இனி
+ஆதிக்கத்திலிருக்கவிடோம், என இடி. முழக்கம்போல் இயம்பிடும்,
+இடுக்கணுக்கஞ்சா இளஞ் சிங்கங்கள் மாணவர்கள்! இனத்துக்கு
+இவர்களே ஈட்டிமுனைகள்! சனாதனத்தை அழிக்கும்,
+சுரங்கவெடிகள்! சாஸ்திரம் எனும் சப்மெரைனைத் தகர்த்தெரியும்
+டார்ப்பிடோக்கள்! வைதீகபுரி மீது பகுத்தறிவுக் குண்டுகளை
+வீசும் வீர விமானிகள்! சமதர்மபுரிக்கு மக்களை வெற்றிகரமாக
+அழைத்துச் செல்லும் முன்னணிப்படை! யுகயுகமாகக் கட்டி,
+அவ்வப்பொழுது பழுது பார்க்கப்பட்டுப் பலப்படுத்தப்பட்ட
+பார்ப்பனீயக் கோட்டைகளைப் படுசூரணமாக்கும்
+டாங்கிப்படை. அம்! மானத்தை மீட்கும் போரிலே, மாணவரன்றி
+வேறு யார், செயலாற்றும். திறம் படைத்தவர்கள்!
+அவர்களுக்கன்றிப் பிறருக்கு ஏது அந்த உரிமை! அவர்களாலன்றி
+வேறு யாரால் சாதிக்க முடியும் அந்த மகத்தான வேலையை/!
+அவர்களையன்றி, வேறு யாரை நம்பி, விடுதலை இயக்கம்
+துவக்கப்பட்டி ருக்கிறது, வீட்டிலுள்ள பேழையிலே விலையுயர்ந்த
+நவரத்தினத்தைக் குவிக்க வேண்டுமென்று எண்ணுபவர், இதற்கு
+
+## Image 3: 003-fcad778e22.png
+
+- Image: `sorpozhivugal/malarum_maanavar/003-fcad778e22.png`
+
+இலாயக்கா? இல்லையே! வறுமை வளர வளர, இத்தகையோரின்
+பேழை நிறையும், அனால் வறுமை வளர வளர, பேழைகளை
+உடைத்தெறியும் கோபப்பித்தர் கூட்டமும் வளரும், எனவே,
+பேழை உடையோர் . கோழையராகி, எந்த நேரத்தில்
+என்னவிதமான. ஆபத்து வருமோ என்று நினைத்து, உடல்
+வியர்த்து, நடமாடும் பிணமாகி நலிவர். அவரால் என்ன
+காரியத்தைச் சாதிக்க முடியும். பதவி! பதவி! மேலும் மேலும்
+பதவி! என்று காவடி. தூக்கிடுவோரால் என்ன செய்ய மூடியும்?
+கிடைத்ததைக் காப்பாற்றிக் கொள்ளக் கெஞ்சிக் கூத்தாடவும்
+மேலாள் பதவிபெற மண்டியிடவும் துரைமார் முன் தூபமிட்டுத்
+தாண்டவமாடவும் அதட்டிப் பேசுவோருக்குச் சிந்துபாடவும்,
+அடுத்துக்கெடுப்போருக்கு அசாபாசமறிந்து அகுதி” தரவும்
+நேரமிருக்குமே தவிர நாடு, இனம் எனும் சொல்லை நினைக்க
+நேரம் எங்கிருந்து கிடைக்கும்! பணமும் பதவியும் குறிக்கோளாகக்
+கொண்டு விட்டால் பணிபுரியும் பண்பு பிறக்காது! மாணவரே,
+புறக்காட்சியிலே காணும் புண் போக்கத் தமது அகத்திலே
+அருவிபோலோடும், ஆர்வமெனும் மருந்தெடுத்திட முடியும்.
+எனவேதான் அம்மாணவர்களின் மன எழுச்சியைக் காண நமக்கு
+மகிழ்ச்சி - மட்டற்ற மகிழ்ச்சி பிறக்கிறது. இருள் நீங்கும் மருள்
+மடியும்! தீதுதொலையும், அடிமைத்தனம் அகலும், புதுவாழ்வு
+பிறக்கும். பொன்மலர் மணம்பெறும் என்ற நம்பிக்கை பிறக்கிறது.
+
+கள்ளன், வெள்ளை உள்ளங் கொண்டோரை, மெள்ள
+வேறு பக்கம் திருப்பிவிட்டுக் கடைத்ததைச் சுருட்டிக் கொண்டு
+ஓடுதல்போல, இங்கு, தர்மோபதேசம் பேசித் தரித்திரத்தை
+வளர்த்து, மந்திர உச்சாடனம் செய்து மதியீனத்தைத் தழைக்கச்
+செய்து, திருவிளையாடலைப் புகன்று தீயர் திரை மறைவிலே
+நின்று பொருள் கவராடுதலை முறையாக்கிய கூட்டத்தினர்
+சமுதாயக் கொடுமை ஒரு புறமும் சாதிப்பூசல் பிறிதோர் புறமும்,
+வைதீகம் ஓர் புறமும் வீணர் வாய் வேதாந்தம் வேறோர் புறமும்
+இருந்துகொண்டு, வீரரைக் கோழைகளாக்கி, வாலிபரை
+வயோதிகராக்கி, கலையை வலையாக்கி மக்கள் வாழ்வை வழுக்கு
+நிலமாக்கி கோபுரத்தைக் குட்டிச் சுவராக்கி, தொங்கு வயிறை
+ஆதரித்துத் துவளும் உடலை நிராகரித்து, நிந்திப்போருக்கு
+வந்தனை புரிந்து கொடுமையைத் தூவி, மடமையை நீர் பாய்ச்சி,
+அறிவிலித்தனம் விளைந்ததும் அறுத்தெடுத்து அதனை
+ஆங்கிலேயனிடம் காட்ட, அவன், “அஹா! நன்று, நன்று!
+இந்நிலை இங்குள்ள மட்டும், எனக்கொரு குறையுமில்லை” என்று
+கூறிடக்கேட்டுக் கூத்தாடுவார். இதனை மறைத்து, மாணவர்
+
+## Image 4: 004-478629ad73.png
+
+- Image: `sorpozhivugal/malarum_maanavar/004-478629ad73.png`
+
+உலகை, வெள்ளையர் மீது ஏவிவிட்.டனர் ஒரு சாரார். வெப்ப
+மிகுதியால் வெடித்துள்ள நிலத்திலே புதுவெள்ளம் வேகமாகப்
+புகுவதுபோல, நயவஞ்சகரின் சொல், மாணவர் மனதிலே
+புகுந்தது, அதன் பயனை, அக்கூட்டம் பெற்றுக் கொழுத்தது,
+மாணவர் உலகம் உழைத்து அலுத்தது!
+
+இன்று! “நன்று, நன்று நமது நாடகம் இனி நடவாது” என்று
+அந்த நயவஞ்சகக் கூட்டம் கூறும். திராவிட மாணவர்களன்றோ
+கூடி னர்!
+
+இனத்தின் இன்றைய இழி நிலைக்கு, அவர்கள் காரணம்
+கேட்கின்றனர். இழிவையும் பழியையும் துடைத்துப் புதுச்சித்திரம்
+வரைய அவர்கள் தீட்டுகோலுடன் நிற்கின்றனர். உரோம் வரை
+சென்று வாணிபம் நடாத்திய இனம், இன்று ஏன், பணியாக்களின்
+பணியாளாகிவிட்டது என்று கேட்கின்றனர்! பழமுதிர்ச்
+சோலையாம் தமிழகம் ஏன் இன்று பயமிகு படுகுழியாகிவிட்ட.து
+என்று கேட்கின்றனர். நாடாண்ட மக்கள் இன்று நாடோடி.
+களான காரணம் என்னவென்று கேட்கின்றனர். வளமிகுந்த
+"நாட்டிலே வறுமை மிகுந்ததேன் என்று கேட்கின்றனர். வீரம்
+செறிந்த நாட்டிலே இன்று வீணர் மிகுந்தது எப்படி. என்று
+கேட்கின்றனர். இம௰யத்திலே வெற்றிக்கொடி. நாட்டிய இனத்தார்,
+இன்று ஏங்கிக் கிடப்பானேன் என்று கேட்கின்றனர். எங்கே
+திராவிடரின் வரலாறும்? எங்கே திராவிட வீரம்? என்னவாயிற்று
+திராவிட இன ஒழுக்கம்? ஏன் அரியக் கற்பனைகள், மதமாகக்
+கலையாக நடமாடுகின்றன? ஏன், ஜாதி என்ற சொல்லறியா
+பூமியில், ஆயிரமுண்டிங்கு ஜாதி என்று கூற வேண்டி. வந்தது?
+யார். இந்தக் கேவல நிலைக்குக், கொடுமைக்கு, மடமைக்குக்
+காரணம் என்று கேட்கின்றனர்! மாணவர் மனதிலே, இக்கேள்வி
+எழுந்ததென்றால், அது சாமான்யமானது என்று அசடரும்
+கசடரும் தவிர, மற்றையோர் கருதார். இக்கேள்விகளே,
+கொடுமைகளை ஒழிக்க உலகில் பல்வேறு இடங்களிலே
+தோன்றிய புரட்சிகளுக்கு, முன்னுரைகளாக இருந்தன என்பதை
+உலக வரலாற்றுரை தெரிந்தோர் உணர முடியும். “எங்கே என்
+வயல்?” என்று கேட்கிறான் வீரன்; ஒரு குப்பை மேட்டினைக்
+காட்டுகின்றனர். “எங்கே, என் சோலை' என்று கேட்கிறான்.
+முட்புதர்கள் செறிந்த இடத்தைக் காட்டுகின்றனர். “என்
+மாளிகை?” என்று கேட்கிறான். சரிந்து போன சுவரும்,
+நொறுங்கிப்போன கூரையும் காட்டப்படுகிறது. “என் பேழை?”
+என்று கேட்கிறான், கைவிரிக்கின்றனர், இல்லை என்பதற்கு
+
+## Image 5: 005-1047af9077.png
+
+- Image: `sorpozhivugal/malarum_maanavar/005-1047af9077.png`
+
+அறிகுறியாக. “அஹா! இப்படியா நேரிட்டுவிட்ட.து? இவ்வளவு
+அவதியிலே சிக்கி என் அன்னை என்ன கஷ்டமனுபவிக்கிறாரோ”
+என்று கதறுகிறான் காளை. “எங்கே என் அன்னை?” என்று
+கேட்கிறான், தலைவிரிகோலமாகத் தள்ளாடி. நடந்து, கையில்
+பிச்சைப் பாத்திர மேந்திய கிழவியைக் காட்டுகிறார்கள்! என்ன
+செய்வான் வீரன்!!!
+
+திராவிட மாணவர்கள், தமது நாட்டுப் பண்டைய
+நிலைமையை அறிந்தார்கள், இன்றைய நிலையைத் தெரிந்தார்கள்.
+அவர்களின் மனம், நாம் மேலே கூறிய வீரனுடைய மனம்
+போலன்றி வேறெப்படி இருந்திருக்க முடியும்? “எவனால் என்
+மனைக்கும் தாய்க்கும் இந்நிலை ஏற்பட்டது” என்று வீரன்
+கேட்காதிருக்க முடியுமா? திராவிட மாணவர்களும் இது
+போலவே எமது தரணி தாழ்ச்சியுற்றதன் காரணம் என்ன?
+எவரால் தாழ்ச்சியுற்றது என்று கேட்காதிருக்க முடியமா? என்ன
+பதில் கிடைத்திருக்க முடியும்? ஆரியம் அழித்தது, உன் அழகிய
+நாட்டை, அண்மையுள்ள நாட்டை, அறிவு மலர்ந்த நாட்டை,
+கவிதை கூத்தாடிய நாட்டை, பொன்னும் மணியும் கொழுத்திருந்த
+நாட்டை என்பதன்றி வேறென்ன காரணம் காட்ட முடியும்!
+
+திராவிட மாணவர்களே! நீண்ட நாட்கள் கழித்து, நாட்டுப்
+பற்றும் இனப்பற்றும் பூத்திருக்கிறது. இது சொற்பொழிவுச்
+சோலையாக மட்டும். நின்றுவிடக்கூடாது, கற்பனைப்
+பூங்காவிலே உலவ முடியாது! இன எழுச்சியைப் பரப்புங்கள்.
+ஆரியத்தை அழிக்கும் ஆர்வத்தை வளருங்கள். சாதி பேதத்தைச்
+சாடுங்கள். வைதீகத்தை வீழ்த்துங்கள். கடவுள், மதம், புராணம்,
+கலை எனும் பல்வேறு பகட்டான சதிகண்டு சளைக்காதீர்கள்,
+ஓய்வு கொண்டு உறங்காதீர், உங்கள் கரமே, புது உலகச் அற்பம்
+சமைக்கவல்லது. இன்று நீங்கள் காணும் கோரக்காட்சியினைக்
+கண்டு மனம் நொந்து, மருந்து வகை பல தேடினர், ஒன்றும்
+பலிக்கவில்லை. ஒரே ஒரு மருந்து கடைசி மருந்து, நாட்டுப்
+பிரிவினை என்பது திராவிட நாடு திராவிடருக்கே என்பதன்றி,
+வேறோர் மருந்தில்லை. இதனை உணருங்கள், உறுதி
+கொள்ளுங்கள், உற்சாகத்தோடு உழைக்க வாருங்கள், வெற்றி
+நமதே!
+
+## English Translation
+
+Thirteen years ago, when students first stepped toward us, they assembled a conference at Kumbakonam. We wrote the following in the 5 March 1944 issue of Dravida Nadu. We present it again to the student world assembled in Madras.
+
+Who does not know that the disposition of the student world is a mirror of the age, a beautiful portrait of ethnic awakening, the drumbeat of the struggle for rights, and a hymn of liberation? It is the season before Aryan poison has been mixed into the pool called life. It is the season when the light of the sun called reason falls and destroys poisonous germs; when the pool has not been stirred with the pole called family, bringing mud to the surface and ruining the water; and when selfishness and the madness for pleasure have not entered like buffaloes and trampled the lotus of the heart.
+
+Student life resembles the breeze that crosses a sandalwood forest, absorbs its fragrance and coolness, and delights the people. It resembles music in which pitch and rhythm are in harmony, sweetness of word and meaning are interwoven, and listeners receive thought as well as delight. Students see many countries in books. Unlike worthless people who abandon home for the forest in search of salvation, they learn and rejoice in the distinctive character of Tamil Nadu, the home of their birth, and proclaim it to the world. Student life has the power to reveal the feeling that wells within and declares: “I swear upon my mother, my father, Tamil Nadu, and my pure Tamil, comrades, as I speak.”
+
+It is a state before which illusion and mental confusion tremble to approach. It is a heart into which puranic tales and the words of the base fear to enter. Office and ostentation remain ten leagues away. Before us stand young heroes immersed in character, abundant in love, bathed in enthusiasm, and distinguished in ability, splendid to behold and sweet to hear. Students are courageous people who brush aside empty talk, laugh and clap while cutting stupidity down to size, and tell selfish people who live comfortably by slogans, “Roll up your trickery and take it away.” When they see slavery in existence, their eyes emit fire, their speech pours forth courage, their hearts cast out a thousand thoughts, and they become embodiments of feeling, crying, “Rights! Rights!” Those moving rods of steel are fine younger brothers suited to the country’s liberation struggle.
+
+When students see people who labour and toil without receiving the fruit, tears flow from their eyes, their hands move to help, their heads shake with sorrow, and their thought settles upon social equality. Such noble jewels are sleepless lamps in a Tamil Nadu surrounded by the darkness called ignorance. Students are young lions unafraid of hardship, who thunder: “We will no longer permit domination by the class that lives without losing its bodily polish by posing as brokers of the upper world and survives by cheating the gullible.” They are the spearheads of their people; mines that blast Sanatana orthodoxy; torpedoes that shatter the submarine called scripture; heroic pilots who drop the bombs of reason upon the city of Vedic orthodoxy; the vanguard that leads the people victoriously toward the realm of equality; and the armoured force that pulverises Brahminical fortresses built over ages and repeatedly repaired and strengthened.
+
+Yes! Who other than students possesses the ability to act in the struggle to recover honour? Who else has that right? Who but they can accomplish that great task? On whom other than them was the liberation movement founded in hope?
+
+Are people who wish to heap costly jewels in the strongbox at home suited to this work? No. As poverty grows, their strongboxes fill; but as poverty grows, so too grows the enraged crowd that will break those boxes. The owners of strongboxes therefore become cowards, sweating at the thought of what danger may come at any moment, declining into walking corpses. What can they accomplish?
+
+What can be done by those who carry the kavadi while crying, “Office! Office! Ever higher office”? They have time to plead and perform to preserve what they have obtained; to kneel for promotion; to burn incense and dance before their masters; to sing flattering verses for those who bark orders; and to discern the wishes of schemers and make offerings to them. Where can they find time even to remember the words country and people? Once money and office become the objective, the character required for service cannot arise.
+
+Students can draw from within themselves the medicine of enthusiasm that flows like a waterfall and use it to cure the wounds visible outside. That is why the awakening in their minds gives us joy, boundless joy. It gives us confidence that darkness will recede, delusion will die, evil will disappear, slavery will leave, a new life will be born, and the golden flower will gain fragrance.
+
+Like a thief who gently turns people of innocent heart toward another direction, gathers what he finds, and runs away, a class here preached righteousness while cultivating poverty, chanted spells while making irrationality flourish, narrated divine games, and made the concealed theft of wealth by evil people into an established system. Social cruelty stood on one side, caste conflict on another, orthodoxy on one side, and the empty Vedanta of worthless mouths on another. They turned heroes into cowards and youth into the aged, made art into a net and people’s lives into slippery ground, reduced the temple tower to a stunted wall, supported the swollen belly while rejecting the emaciated body, bowed before those who insulted them, scattered cruelty, and watered stupidity. When ignorance ripened, they harvested it and showed it to the Englishman. Hearing him say, “Ah, excellent! So long as this condition remains here, I have nothing to fear,” they danced in delight.
+
+Concealing all this, one group directed the student world against the white rulers. Like a fresh flood rushing into earth cracked by intense heat, the deceivers’ words entered students’ minds. That group received the benefit and grew fat; the student world laboured and became exhausted.
+
+Today that deceitful group will say, “Alas, alas, our drama will no longer succeed.” For have not Dravidian students assembled?
+
+They ask who caused the present degraded condition of their people. They stand with brushes ready to wipe away humiliation and disgrace and paint a new picture. They ask why a people who once travelled as far as Rome to conduct trade have now become servants of the baniyas. They ask why Tamil Nadu, once a grove laden with fruit, has become a terrifying pit. They ask why a people who ruled countries have become wanderers; why poverty abounds in a resource-rich country; how the worthless have multiplied in a land filled with courage; and why the people who planted victory flags in the Himalayas now lie in longing.
+
+They ask: Where is Dravidian history? Where is Dravidian valour? What became of the discipline of the Dravidian people? Why do Aryan fantasies move among us as religion and art? Why, in a land that once knew not the word caste, did it become necessary to say that a thousand castes exist here? Who caused this disgrace, cruelty, and ignorance?
+
+Except for fools and the corrupt, no one will regard the appearance of these questions in students’ minds as an ordinary matter. Those who understand world history know that precisely such questions served as prefaces to revolutions that arose in many places to abolish cruelty.
+
+“Where is my field?” the hero asks, and they show him a rubbish heap. “Where is my grove?” he asks, and they point to a place dense with thorn bushes. “My mansion?” he asks, and they show him a collapsed wall and shattered roof. “My strongbox?” he asks, and they spread their empty hands to signify that nothing remains. “Ah! Has it come to this? What suffering must my mother endure amid such misery?” the young bull cries. “Where is my mother?” he asks, and they show him an old woman staggering with dishevelled hair and a begging bowl in her hand. What will the hero do?
+
+Dravidian students have learnt their country’s ancient condition and understood its present state. How could their minds differ from that hero’s? Could the hero refrain from asking, “Who brought this condition upon my home and mother?” Likewise, could Dravidian students refrain from asking what caused their land’s decline and who brought it low? What answer could they receive other than this: Aryanism destroyed your beautiful country, your beloved country, the country in which knowledge blossomed, poetry danced, and gold and gems abounded.
+
+Dravidian students! After many years, love of country and people has blossomed. It must not remain merely a grove of speeches or wander only through a garden of imagination. Spread ethnic awakening. Cultivate the zeal to destroy Aryan domination. Denounce caste distinctions. Bring down Vedic orthodoxy. Do not lose heart before the many glittering plots called God, religion, purana, and art. Do not rest and sleep. Your hands alone can fashion the sculpture of a new world.
+
+Many people, hearts aching at the terrible scenes you see today, searched for all kinds of medicine, but none succeeded. There is only one medicine, the final medicine: national separation. There is no cure other than “Dravida Nadu for the Dravidians.” Understand this, become firm, and come labour with enthusiasm. Victory is ours!
+
+## Translator's Notes
+
+The Tamil OCR source is preserved verbatim in the bilingual output. Clear contextual readings used only in English include “கேட்கக் சதமாய்” as sweet to hear, “ஓரஈ௩யிரம்” as a thousand, “அடுத்துக்கெடுப்போருக்கு அசாபாசமறிந்து அகுதி தரவும்” as discerning schemers’ wishes and making offerings, “பணியாக்கள்” as baniyas, and “புது உலகச் அற்பம்” as the sculpture of a new world. The source’s martial metaphors, social classifications, and political claims are translated in their historical polemical voice and have not been independently verified.

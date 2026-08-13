@@ -1,0 +1,1 @@
+../../md_pages/sorpozhivugal/aathikka_ozhipae_dmk_thittam.md

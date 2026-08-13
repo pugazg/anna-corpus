@@ -1,0 +1,326 @@
+# பிரமநாயகம் / Brahmanayagam
+
+**Tamil title:** பிரமநாயகம்  
+**English title:** Brahmanayagam  
+**Source file:** `sirukathaigal/brammanayakam.md`
+
+## Source Tamil (verbatim)
+
+- Source image folder: `/Users/pugazhendhirajendran/Documents/Codex/2026-07-09/https-www-annavinpadaippugal-info/outputs/annavin_text_extractor/ocr_images/sirukathaigal/brammanayakam`
+- OCR language: `tam`
+- Tesseract page segmentation mode: `3`
+- OCR cleanup: `enabled`
+
+## Image 1: 001-85c2410630.png
+
+- Image: `sirukathaigal/brammanayakam/001-85c2410630.png`
+
+பிரமநாயகம்
+
+பண வீக்கம் என்று பட்டப் பெயர்பெற்ற பிரமநாயகம் பிள்ளை.
+காபி டம்ளரைக் கையிலேந்தியபடியே வந்து சேர்ந்தாள்
+பர்வதம்மாள்-அவரின் தர்ம பத்தினி!
+
+“ஏனுங்க! இப்படி முகம் வாடிக் கிடக்கிறீங்க!”” என்ன
+யோசிக்கிறீங்க! என்று வழக்கமான கேள்வியின் மூலம்,
+அன்றைய பேச்சைத் தொடங்கி வைத்தாள்!
+
+““ஏன்னடி, பர்வதம் .நான் என்ன செய்வதென்று
+புரியாமல்தான் முழிக்கிறேன். யோசித்து யோசித்துப் பார்க்
+கிறேன். ஒரு வழியும் தோண மாட்டேன்குது'' என்றார்
+பிரமநாயகம்.
+
+“என்ன அப்படி வராத சங்கடம் வந்து வாட்டுது!'” அவள்
+கேட்டாள் இப்படி, அடுத்தபடியாக!
+
+“உன்னிடம் சொன்னேனே. . , நான் ஒரு முட்டாள் - நீ
+படியாத பட்டிக்காட்டு மாடு! மனுசன் எக்கச்சக்கத்திலே மாட்டிகிட்
+டுத் தவிக்கிறான். . . என்ன சங்கடம் வத்துட்டுதுன்னு
+
+கொஞ்சுறாள் குழையறாள்.”
+
+"ஆமாண்டி, ஆமாம்! வாயை மூடு. . . எவனாவது
+கேட்டுக்கிட்டே வரப் போகிறான்!” என்று அதட்டி மனைவியின்
+ஒட்டை வாய்க்கு மூடிபோட்டார்.
+
+“அம்மா. . . அம்மா!" என்று கீழிருந்து குரல் வந்தது.
+
+“சரி, குழந்தை கோமளம் பள்ளிக்கூடம் விட்டு வந்து
+விட்டாள், நான் போய் காபிக் கொடுக்கிறேன்” என்று கூறிக்
+கொண்டே மாடிப் படிகளில் வேகமாக இறங்கிச் சென்றாள்
+பர்வதம்மாள்.
+
+## Image 2: 002-7ed0cc661c.png
+
+- Image: `sirukathaigal/brammanayakam/002-7ed0cc661c.png`
+
+ய பிரமநாயகம், ஊரிலேயே முதல் பணக்காரர். பெரிய
+'தூலாலைக்குச் சொந்தக்காரர். பர்வத மில்ஸ் என்றால் அந்தப்
+வகுதியில் பேர் வாங்கிய மில்! அவருக்கு அந்த ஆண்டு கிடைத்த
+இலாபம் அதிகம் - ஆகவே வேலை செய்த கூலிகள், கூலியை
+தபாரததியும் போனஸ் வேறு தர வேண்டும் என்றும் கேட்டு விட்
+ன் ர்கள்! கூலியும் உயர்த்தாமல், ஆலையும் ஒடச் செய்ய
+வே ண்டும் என்பது அவரது திட்டம். மில் தொழிலாளிகளின்
+அத்த கர் தப்புவிக்க வழி என்னவென்று பட்டர்
+
+அ - அப்பா மாடியிவிருக்கிறார் என்றறிந்த கோமளம்,
+பியைப் பாதி குடித்து விட்டு ஓடிவந்தாள். தந்தையைக் கட்டிப்
+ரிடித்துக் கொண்டாள்.
+”" அப்பா, அடுத்த வாரம் காங்கிரஸ் தலைவர் எங்க பள்ளிக்
+உடத்திற்கு வறாராம்! வந்தால் நம்ம வீட்டிலேதானே தங்குவார்!"
+் “நீங்கதானே நகரக் கமிட்டித் தலைவர்-அப்படியானால்
+ஈங்கேதானே தங்குவார்.”
+
+அமாம்."
+
+“முதல்லேயெல்லாம், நீங்க காங்கிரசைத் திட்டுவீங்
+ப்பா!”
+“. “இல்லையே, யாரம்மா அப்படி சொன்னா. . ."”
+
+:  எங்கூடப் படிக்கிறானே சோமு அவன் சொல்றான்
+்பா!?? ்
+“அந்தக் காலிப்பய மகன் அப்படித்தான் சொல்வான்.”
+“ஆமாப்பா, இதுமட்டுமில்லே இன்னும் என்னென்னவோ
+ல்றான், அந்தக் கருப்புக்கட்சிக்கார மகன்! நீங்க போன
+“ந்தான் இதிலே சேர்ந்தீங்களாம். . . எல்லாரையும் ஏமாத்த
+ஒரு வழியாம். மில் தொழிலாளிகளுக்குக் கூலி கூடச் சரியாக
+ட் ர்டுப்பதில்லையாம். நீங்க அட்டையாம் - ஏழைகளின்
+3). த்தத்தை உறிஞ்சிடு வீங்களாம். பணத்தை மூட்டை மூட்
+ஊட்மாக்க கட்டி வைச்சிருக்கீங்களாம்!”” கோமளம் சிறு பெண்
+5. இருந்தாலும் கொஞ்சம் துருதுருத்தவள். வெடுக் வெடுக்கென்று
+
+## Image 3: 003-6c87ed5c4e.png
+
+- Image: `sirukathaigal/brammanayakam/003-6c87ed5c4e.png`
+
+பேசுவாள் தன் பள்ளித் தோழன் சோமு சொன்னதையெல்லாம்
+ஒரு மூச்சு சொல்லி முடித்தாள் தன் தந்தையிடம்! அவருக்கு
+பெரிய தலைவேதனையாகப் போய்விட்டது!
+
+“பேய் விளையாடம்மா'” எனக் கூறி வெளியில் அனுப்ப
+முயற்சி செய்தார். அவள் அடம் பிடித்தாள். அங்கேயே
+விளையாடுவதாக ஒட்டம் செய்தாள்! அதட்டிக் கொண்டு வந்த
+பர்வதம்மாளின் குரலைக் கேட்டு பயந்து நடுங்கி ஒட வழிபார்தது.
+பர்வதத்தின் குரலைக் கேட்டால் பிரமநாயகமே மிரண்டு
+விடுவார் என்றால், “துளிர்' என்ன செய்யும் 2
+
+வெளியில் சென்று விளையாடிக் கொண்டிருந்த கொஞ்ச
+நேரத்திற்கெல்லாம் மீண்டும் மாடிக்கு வந்தாள்.
+
+சனியன், எங்கே வந்தே திரும்பபோய் விளையாடென்்
+றால் உள்ளே வந்து தொல்லை பண்றியே!'' குமுறி விழுந்தார்.
+
+“அப்பா, நானா வரல்லே, காங்கிரசு கமிட்டிக் காரியதரிசி
+கன்னியப்பன் அவர் உங்களைப் பார்க்கணுமாம்!””
+
+“போய் வரச் சொல், மாடிக்கு!”
+
+மங்களம் ஒடினாள். கன்னியப்பன் மாடிப்படி ஏறினான்.
+
+“வந்தே மாதரம்!”
+
+“நல்லா வந்தீங்க நல்லா ஏமாத்துங்க!”'
+
+“ஏன் அவ்வளவு சலிப்பு என்றைக்குமில்லாத கோபம்!
+என்மேல் சொல்லுங்க!”
+
+“காங்கிரசிலே சேர்ந்துட்டா மலையை புரட்டுவோம் -
+வானத்தை அளக்கலாம் மணலைத் திரிக்கலாம் - உலகத்தையே
+அடக்கிடலாம்னு சொன்னிங்க!”
+
+“மன்னிக்க வேண்டும்! காங்கிரசுக்கு எதிரா நின்னு ஒரு
+முனிசிபால் கவுன்சிலர் பதவிக்கு வரத் ததிங்கிணத்தோம்
+போட்டீங்க!”
+
+“கொஞ்சம் வாயை அடக்கித்தான் பேசும்."
+
+“தாங்கிரசிலே சேர்ந்தீங்க, கட்சி போர்டு மெம்பர். . .
+பார்விமெண்ட மெம்பரும் ஆயிட்டிங்க!"
+
+சும்மா, கிடைத்துடலை, தம்பி, என் வீட்டுப் பணம்
+எழுபதாயிரம்!”
+
+“இருக்கட்டுமே! இதிலே சேராமல் இந்தப் பணத்தைச்
+செலவு செஞ்சாலும் இந்தப் பதவியை அடைய முடியாதே!”
+
+## Image 4: 004-1e258ca0f4.png
+
+- Image: `sirukathaigal/brammanayakam/004-1e258ca0f4.png`
+
+ப... “கொசு செய்கிற வேலை, உங்க காங்கிரசாலே கூட
+முடியாது ஒய்! உம்மைக் கண்டால் உங்க காங்கிரசும் வாயைப்
+
+் “சேர்ந்து ஒரு வருசததிலே உங்களைப் பார்லிமெண்ட்
+மம்பர் ஆக்கியிருக்கு - மறக்க வேண்டாம்!"
+
+.”. சரி, அது தொலையட்டும் - இப்போ எங்கே வந்தீங்க?”
+
+டதத ் ய் உட ் ்
+
+என்று பிரமநாயகம், பேச்சை வேறு பக்கம் திருப்பினார்.
+
+் “வந்ததை மறந்துவிட்டு வீண் வார்த்தையாடி விட்டேன். நம்
+
+7ங்கிரசுத் தலைவர் நம்ம ஊருக்கு வருவதாக எழுதி யிருக்கிறார்.
+
+லக்ஷன் நெருங்கிடுச்சில்லே! இனிமேல் சுற்றுப் பிரயாணமும்
+
+கூட்டமும். மாநாடும் போட்டுத்தானே ஆகணும்!”
+
+பது ் ய்
+
+:... “இங்கே, ஒரு பொதுக்கூட்டம் ஏற்பாடு செய்யலாம்னு
+
+இருக்கேன் உங்க தலைமையில். '*
+
+“அமாம், அவர்தான்-உங்க தலைவர் ஊருக்கு ஊர்.
+ரக்காரன்களை என் உயிர் உள்ளளவும் காங்கிரசிலே
+'விடமாட்டேன்னு பேசுகிறாராம், நான் தலைமை வகித்தால்
+மக்கள் சிரிக்காரோ!!!
+
+் இன்னும் உங்களுக்கு அனுபவம் போதல்லேன்னுதான்
+ல்லுவேன் - ஊர் மக்களுக்கு அப்படித்தான்னே பேசணும்.
+க பேசினாலும் வேறு எப்படிப் பேசுவீங்க? அடுத்த
+தலுக்கு இப்பொழுதிருந்தே ஆயத்தம் செய்து வந்தால்தான்
+தா நடக்கும். பழைய நிலைமைப் போயிடுத்து. ஒட்டுரிமையும்
+9௯: அளவு பண்ணியாச்சு! பணங் கொடுத்தும் கட்டாது!
+ங்கோ முழிச்சிக்கிட்டாங்க. காங்கிரசோ விநாடிக்கு விநாடி
+டியும் அடியும் நோங்கி சரிந்து விழும் பாழ்மண்டபம்
+பாலிருக்கு! அடுத்தபடி தேர்தலுக்கு நிக்கப் போறவங்க நீங்க -
+ழைக் கன்னியப்பன் எண்ணைக்கும் கொடி தூக்குவான்!
+று வலிக்கக் கூவுவான்! அதனால்தான் சொல்றேன்!"
+
+.... சரி, கிடக்குது குப்பை-தள்ளு! அவர் வந்தால், இந்த
+்லிலே தொழிலாளிகள் கூடிக்கிட்டு தொல்லை கொடுக்கிறானு
+லே, அதைக் கொஞ்சம் காரசாரமாகப் பேசணுமின்னு
+சால்லி வை! நானே சொல்றது அவ்வளவு நல்லாயில்லே!
+ரஞ்சம் நீதானே சொல்லி வை! பயல்களைக் கொஞ்சம்
+
+## Image 5: 005-3c8df71990.png
+
+- Image: `sirukathaigal/brammanayakam/005-3c8df71990.png`
+
+பயப்படுத்தி வைத்தால்தான் நல்லது! இருக்கவே இருக்குது
+எல்லாம் கம்யூனிஸ்டுகளின் குறும்புன்னு சொல்லேன்.”
+
+“இந்தச் சீட்டைக் கொடுத்துக் கேசியரிடம் ரூ. 200 வாங்கித்
+கொள்ளுங்க ஆகவேண்டியதைச் செய்யுங்க! அண்ணைக்கு நம்ம
+கார் வேலை செய்யும். சாப்பாட்டிற்கு, தங்குவதற்கு நம்ம வீட்டி
+லேயே ஏற்பாடு பண்ணிப்பிடுவம்'' என்று பிரமதாயகம்
+அடுக்கிக்கொண்டே போனார். கன்னியப்பன் முப்பத்திரண்டு
+பற்களும் தெரியக் காட்டினான்!
+
+கன்னியப்பன் சென்றவுடன் பர்வதம்மாள் மீண்டும்
+வந்தாள்!
+
+“பார்த்தியாடி. . . பணம் பேசுற பேச்சை! போகப்
+போகிறது நம்ம கார், கூட்டத்திற்குச் செலவுக்கு நம்ம பணம்,
+விருத்து சாப்பாடும், திண்டு மெத்தையோடே படுக்கை நம்ம
+வீட்டிலே, தலைமை வகிக்கிறது நான், பேசப் போகிற தலைவர்
+சொல்லி வருவது பணக்காரர்களை நுழைய விடமாட்டேன்
+என்ற சவடால்! உண்மையில் என் மில்விலே வேலை
+செய்கிறவன்களைக் கண்டித்துப் பேசப் போகிறார்! ஊருக்கு
+உபதேசம் உனக்கலலடி கண்ணே. . .ன்னு சொல்வாங்கல்லே,
+அப்படித்தான் இந்தக் கதையும்!”
+
+பிரமநாயகம் சிரித்தார். சிரிக்காமல் என்ன செய்வார்?
+பர்வதம் ஒன்றும் புரியாமல் விழித்தாள் - நாழுந்தான் விழிக்
+கிறோம். புரியாமலல்ல, புரிவதால், தெளிவாகத் தெரிவதால்,
+ஆச்சர்யம் அகல விரிக்கிறது நம் விழிகளை!
+
+11-6-1950
+4 4 4 3
+
+## English Translation
+
+Brahmanayagam Pillai had earned the nickname "Inflation." His lawful wife, Parvathammal, came in carrying a tumbler of coffee.
+
+"Why do you look so withered? What are you thinking about?" she asked, opening that day's conversation with her customary question.
+
+"Parvatham, I am blinking helplessly because I cannot understand what to do. I think and think, but no way out occurs to me," said Brahmanayagam.
+
+"What unprecedented trouble has come to torment you?" she asked next.
+
+"I told you, didn't I? I am a fool, and you are an uneducated country cow! A man is caught in a terrible predicament and suffering, yet she coos and cajoles, asking what trouble has come!"
+
+"Yes, woman, yes! Shut your mouth. Somebody may come along and hear you," he snapped, putting a lid on his loose-tongued wife.
+
+"Mother! Mother!" came a voice from downstairs.
+
+"All right, little Komalam has returned from school. I will go and give her coffee," Parvathammal said, hurrying down the stairs.
+
+Brahmanayagam was the richest man in town. He owned a large textile mill. Parvatham Mills was renowned throughout that region. His profit that year had been enormous, and so the labourers demanded both a wage increase and a bonus. His plan was to keep the mill running without raising wages. He was racking his brain for a way to escape the workers' demands.
+
+Learning that her father was upstairs, Komalam drank only half her coffee and ran up. She embraced him.
+
+"Father, they say the Congress leader is coming to our school next week! When he comes, he will stay at our house, won't he? You are the chairman of the town committee, so he will stay here, won't he?"
+
+"Yes."
+
+"In the old days, you used to abuse the Congress, Father!"
+
+"No, I didn't. Who told you that?"
+
+"Somu, who studies with me, said so, Father!"
+
+"That worthless fellow's son would say such things."
+
+"Yes, Father. That isn't all. The son of that black-shirt party man says all sorts of things. He says you joined it only last year and that it is a way of deceiving everybody. He says you do not even pay the mill workers proper wages. He says you are a leech who sucks the blood of the poor and that you have tied up money in sack after sack!"
+
+Though only a little girl, Komalam was lively and spoke with sharp directness. In one breath she repeated everything her schoolmate Somu had said. It became a terrible headache for her father.
+
+"Go on, child, go and play," he said, trying to send her outside. She insisted that she would play right there. Then she heard Parvathammal approaching with a scolding voice, trembled in fear, and looked for a way to flee. If even Brahmanayagam quailed at the sound of Parvatham's voice, what could a tender shoot do?
+
+Not long after she went outside to play, she returned upstairs.
+
+"You little nuisance! Why have you come back? Go and play. Why come inside and bother me?" he growled.
+
+"Father, I didn't come by myself. Kanniyappan, the Congress Committee secretary, wants to see you."
+
+"Tell him to come upstairs."
+
+The girl ran off. Kanniyappan climbed the stairs.
+
+"Vande Mataram!"
+
+"Welcome! Go on deceiving people!"
+
+"Why such weariness and unprecedented anger? Tell me if it is directed at me."
+
+"You said that once I joined the Congress we could overturn mountains, measure the sky, twist sand into rope, and subdue the whole world!"
+
+"Forgive me! When you stood against the Congress for a municipal councillor's post, you danced about desperately."
+
+"Keep your mouth under control."
+
+"You joined the Congress, became a party board member, and then became a Member of Parliament!"
+
+"It did not come free, brother. Seventy thousand rupees of my household money went into it!"
+
+"Even so! Had you not joined, you could not have attained this office even by spending that money."
+
+"What a mosquito can do, even your Congress cannot do! When it sees you, even your Congress shuts its mouth."
+
+"Within a year of your joining, it made you a Member of Parliament. Do not forget that!"
+
+"All right, let that go. Why have you come now?" Brahmanayagam asked, turning the conversation elsewhere.
+
+"I forgot why I came and wasted time arguing. Our Congress leader has written that he is coming to town. The election is drawing near, isn't it? From now on, we must arrange tours, meetings, and conferences."
+
+"I am thinking of arranging a public meeting here under your chairmanship."
+
+"Yes, but your leader is said to go from town to town declaring, 'As long as I live, I will not let the rich enter the Congress.' If I chair the meeting, won't the people laugh?"
+
+"I would say you still lack experience. That is how one must speak to the public. How else could he speak there? Only if preparations begin now will the next election work out properly. The old conditions are gone. Voting rights have been greatly expanded. Money alone will not suffice! People have awakened. The Congress resembles a ruined pavilion cracking and collapsing further every moment. You are the one who will contest the next election, while poor Kanniyappan will always carry the flag and shout until his throat hurts. That is why I am telling you!"
+
+"All right, push that rubbish aside. When he comes, tell him to speak rather strongly about the mill workers here joining together and creating trouble. It would not look so good if I said it myself. You tell him. It will be useful to frighten those fellows a little. And say, as always, that it is all Communist mischief."
+
+"Take this slip, collect two hundred rupees from the cashier, and do whatever is required. Our car will be available that day. We will arrange his food and lodging here in our house," Brahmanayagam continued, piling one instruction upon another. Kanniyappan displayed all thirty-two teeth.
+
+After Kanniyappan left, Parvathammal returned.
+
+"Did you see, woman, how money speaks? Our car will go; our money will pay for the meeting; the feast, lodging, mattress, and bedding will be in our house; I will preside. Yet the leader who speaks will arrive boasting, 'I will not permit the rich to enter!' In reality, he is going to condemn the workers in my mill! There is a saying: 'Advice for the town, but not for you, my dear.' That is exactly this story!"
+
+Brahmanayagam laughed. What else could he do? Parvatham stared without understanding. We too stare, but not because we fail to understand. Because we do understand, because the truth is plainly visible, astonishment opens our eyes wide.
+
+11 June 1950

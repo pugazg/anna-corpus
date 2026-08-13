@@ -1,0 +1,54 @@
+# ஜூலை 18! / July 18!
+
+**Tamil title:** ஜூலை 18!  
+**English title:** July 18!  
+**Source file:** `katturaigal/july13.md`
+
+## Source Tamil (verbatim)
+
+- Source image folder: `/Users/pugazhendhirajendran/Documents/Codex/2026-07-09/https-www-annavinpadaippugal-info/outputs/annavin_text_extractor/ocr_images/katturaigal/july13`
+- OCR language: `tam`
+- Tesseract page segmentation mode: `3`
+- OCR cleanup: `enabled`
+
+## Image 1: 001-d0a3ab6c85.png
+
+- Image: `katturaigal/july13/001-d0a3ab6c85.png`
+
+98. ஜூலை 18!
+
+டால்மியாபுரப் போர் மும்முரமாக நடைபெற ஏற்பாடு செய்து
+கொண்டிருக்கும் போதே, மற்றொரு போருக்கும் நாம் அழைக்கப்
+படுகிறோம் - ஆச்சாரியாரின் புதிய கல்வித் திட்டத்தை எதிர்த்து,
+ஆச்சாரியார் வீட்டின் முன்பு மறியல் செய்யத் தொண்டர்களுடன்
+செல்லுமாறு, தோழர் சம்பத் அவர்களைக் கேட்டுக்கொண்டிருக்கிறேன்.
+
+இதனை ஜூலை 13இல் தொடங்க ஏற்பாடு செய்பப்பட்டிக்சிகதது
+சுமார் ஐம்பது தொண்டர்கள், ஜ.513லேயே தேவை:பபடுவர்.
+
+ஆச்சாரியார் உத்தரவு பிறப்பித்துத் தோழர் சம்பத்தையும் அவருடன்
+செல்லும் தோழர்களையும் தாக்கி, இரத்தத்தைச் சிந்தவைத்து அதையே
+தமது நெற்றிக்குத் திலகமாகத் தரித்துக்கொண்டு சட்டசபை சென்று
+கொலுவிருக்கட்டும்.
+
+இரத்தக்கறை படிந்த மனத்தோடு, அவர், நாட்டை ஆளட்டும்.
+அவர் கொண்டுவந்து திணித்திருக்கும் கல்வித் திட்டம்
+இந்தியைவிடக் கொடுமையானது - எனவே, அதைப் போக்க இந்தி
+எதிர்ப்புக் காலத்திலே நாம் தந்த பலிகளைவிட அதிகமாகத் தந்தாக
+வேண்டும்.
+- தில்லை மாநாட்டில்
+(திராவிட தாடு - 12.7.53)
+
+## English Translation
+
+Even as arrangements are being made to conduct the Dalmiapuram struggle vigorously, we are summoned to another struggle. I have asked Comrade Sampath to go with volunteers and picket in front of Acharya's house in opposition to his new educational scheme.
+
+Arrangements have been made to begin this on 13 July. About fifty volunteers will be required on that very day.
+
+Let Acharya issue his command, attack Comrade Sampath and those accompanying him, spill their blood, wear it as a mark upon his forehead, and go sit enthroned in the Legislative Assembly.
+
+Let him govern the country with a bloodstained mind. The educational scheme he has introduced and imposed is crueler than Hindi. Therefore, to remove it, we must offer greater sacrifices than those we made during the anti-Hindi struggle.
+
+- At the Thillai Conference
+
+(*Dravida Nadu*, 12 July 1953)

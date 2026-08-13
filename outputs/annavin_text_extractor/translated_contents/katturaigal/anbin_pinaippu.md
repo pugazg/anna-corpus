@@ -1,0 +1,662 @@
+# 48. அன்பின் பிணைப்பு — நாம் கண்ட இயக்கம் / 48. The Bond of Affection — The Movement We Have Seen
+
+**Tamil title:** 48. அன்பின் பிணைப்பு — நாம் கண்ட இயக்கம்  
+**English title:** 48. The Bond of Affection — The Movement We Have Seen  
+**Source file:** `katturaigal/anbin_pinaippu.md`
+
+## Source Tamil (verbatim)
+
+- Source image folder: `/Users/pugazhendhirajendran/Documents/Codex/2026-07-09/https-www-annavinpadaippugal-info/outputs/annavin_text_extractor/ocr_images/katturaigal/anbin_pinaippu`
+- OCR language: `tam`
+- Tesseract page segmentation mode: `3`
+- OCR cleanup: `enabled`
+
+## Image 1: 001-64766f96c3.png
+
+- Image: `katturaigal/anbin_pinaippu/001-64766f96c3.png`
+
+48. அன்பின் பிணைப்பு -
+நாம் கண்ட இயக்கம்
+
+“பிரம்மச்சாரி என்றால் என்ன என்று யாராவது
+சொல்ல முடியுமா” - இதுபோன்ற கேள்வி ஒன்றைத் தனது
+வகுப்பறையிலே அசிரியை ஒருவர் எழுப்பினார்.
+
+“மிஸ்” என்று விடை கிடைத்தது. பெற்றதோர் நல்
+வாய்ப்பினைத் தழுவிக்கொள்ளத் தவறியவர்கள்தான்
+
+அவர்கள்.”
+
+காமராசரைப் பற்றி விசாரிக்கும் அளவிற்குத்
+தூண்டியிருப்பது கண்டு ஒருகணம் திகைப்பில் ஆழ்ந்து
+
+## Image 2: 002-0af428599a.png
+
+- Image: `katturaigal/anbin_pinaippu/002-0af428599a.png`
+
+போனேன். அதுபோதுதான் எங்கோ, எப்போதோ நான்
+படித்த மேற்சொன்ன வேடிக்கை மிகுந்த வாசகங்கள்
+என்னுடைய நினைவு அலையில் வந்து மோதின.
+
+சென்னை மாநிலத்தின் இல்லை - தமிழகத்தின்,
+முதல்வர் ஒரு பிரம்மச்சாரி - ஆனால், சந்தர்ப்ப சூழ்நிலை
+களை ஆரத்தழுவிக்கொள்ள அவர் ஒருபோதும் தவறிய
+இல்லை. நான் குறிப்பிடுவது அரசியல் துறையைப்பற்றி!
+வேறு தவறாக எண்ண வேண்டாம். இந்தக் கலையில் கடந்த
+காலத் தலைவர் என்பதாலேயே, அதிகாரபீடத்திலே
+இத்துணை ஆண்டுகளாகவே அவர் அமர்ந்திருக்கிறார். சட்ட
+மன்றக் காங்கிரஸ் கட்சித்தலைவரோ சர்வவல்லமை
+பொருந்திய வழக்கறிஞர், அரசியல் ஞானம் மிக்க சி.ஆரின்
+தயாரிப்பிலே வந்தவர். இருப்பினும், அப்படிப்பட்டவர்,
+ஒருவருக்குத் தலைவணங்கத்தான் வேண்டியிருக்கிறது.
+அதுவும் கல்லூரியின் நுழைவாயிலைக்கூட எட்டிப்
+பார்க்காத ஒருவருக்கு. உள்நாட்டமைச்சரோ பிரச்சினை
+களில் தெளிவுள்ளவர் என்பதில் பெயர் பெற்றவர்.
+கொள்கையிலே உறுதி கொண்டவர். தமிழகத்து அரசியல்
+வானிலே நீண்ட பல ஆண்டுகளாக ஆதிக்கம் செலுத்தி வந்த
+முத்துரங்கனாரிடத்திலே பயிற்சிகி பெற்றவர். எனினும், கனம்
+பக்தவத்சலம் அவரது தலைவரின் கட்டளைக்குக்
+காத்துக்கிடக்க வேண்டியிருக்கிறது. இப்படி ப்பட்டதோர்
+நிலை எப்படி வந்துற்றது? இந்த அந்தஸ்தினைக் கனம்
+காமராசர் எப்படி அடைந்தார்? காங்கிரஸ் கட்சியை
+நிர்மாணிப்பதில் அவருடைய பங்கு என்ன? அவருடைய
+பிடிப்பு எப்படி. உறுதிப்பட்டுவிட்டது? எப்படி மற்றவர்
+களுக்கு இதுகண்டு அரிப்பு ஏற்படாமல் இருக்கிறது? என்பன
+போன்ற கேள்விகளை அடுக்கடுக்காக எழுப்பினால்,
+
+## Image 3: 003-9cac5f139d.png
+
+- Image: `katturaigal/anbin_pinaippu/003-9cac5f139d.png`
+
+“கல்லூரியிலே படித்தவர்களையும், பல்கலைக்கழகத்திலே
+பட்டம் பெற்றவர்களையும் ஆட்டிப்படைக்கும் மிகச்
+சாதாரணமான இந்த அற்புத மனிதரைப்பற்றி அந்தக்
+கேள்விகள் கதைகள் பல பக்கம் பக்கமாகச் சொல்லும்” -
+இப்படிச் சொல்வது, அதிகாரபீடத்திலே அமர்ந்துள்ள
+ஒருவரை அளவுக்குமீறிப் புகழ்ந்து, ரொட்டித்துண்டுக்குக்
+காத்துக்கிடப்பதற்காகவேதான். இதற்குரிய காரணம்
+காமராசரிடத்திலோ, காமராசரைச் சுற்றியோ காண
+முடியாது. ஆனால், தமிழ்நாடு காங்கிரஸ் கட்சியின்
+இன்றைய நிலை இது. பார்வைக்கு ஆபாசமானதாகத்
+தோன்றலாம். ஆனால், உண்மைநிலை இதுதான். கல்வியின்
+சுவை அறியாதவர். எனவே கடந்தகால நிகழ்ச்சிகள்,
+தத்துவங்கள் இன்னும் இதுபோன்ற எதைப்பற்றியும் அவர்
+கவலை கொள்வதில்லை. உள்நாட்டுப் பொது அறிவைத்
+தவிர, நாடுவதற்கு அவருக்கு வேறொன்று இல்லை. அவசிய
+மான கல்வித் தேவைகள் இல்லாத காரணத்தால் தனக்கு
+அப்பாற்பட்ட ஒரு உலகத்தில் நடைபெறும் நிகழ்ச்சிகள்
+். குறித்து அவர் கவலை கொள்வது கிடையாது. காங்கோ
+நாட்டுத் தலைவர்கள் லுழும்பாவும் - கசாவுபும் அவருக்கு
+ஒன்றாகவே தோன்றும். அந்தச் செய்திகளுக்கு அவர்
+முதலிடம் அளிப்பதும் இல்லை. தெரிந்து கொள்ளவேண்டும்
+என்ற ஆர்வமும் கிடையாது. உண்மையைக் கூறுவதானால்,
+அவர் தனது குறைபாடுகளையும் தோல்விகளையும் மட்டும்
+நன்கு உணர்ந்திருக்கிறார். இவைகள் பெரியதோர் பிரச்சினை
+யாகவே இருக்கிறது. அவைகள் குறித்து நமக்கேதும்
+நிர்ப்பந்தம் கிடையாது. “பெரிய மனிதர்கள்'' என்று
+சொல்லப்படுபவர்கள் கவனித்துக் கொள்ள வேண்டிய
+பிரச்சினைகளாகும். எனவே, நாம் அதுபற்றிக் கவலை
+கொள்ளத் தேவையில்லை என்ற முறையிலேயே அவர்
+
+## Image 4: 004-6247493249.png
+
+- Image: `katturaigal/anbin_pinaippu/004-6247493249.png`
+
+சென்று கொண்டிருக்கிறார். அவரைப் பொறுத்தவரையில்
+காங்கிரஸ் கட்சியில் புதிதாக நுழைந்தவர்கள் - அவர்
+களுடைய சேமிப்பு நிதி, இதுபற்றிய வரலாறு தெரிந்து
+கொண்டாலே போதும். அவருடைய ஆரசியல், சேமிப்பு
+நிதியின் கணக்குப் புத்தகத்தின்மீது கட்டப்பட வேண்டிய
+தொன்றே ஒழிய, வரலாறு, நிலநூல் - இன்னும் இது
+போன்ற பெரியதோர் புத்தகத் தொகுப்புகளின் மீது
+கட்டப்படவேண்டியதல்ல.
+
+காமராசர் தனக்கென எவ்விதக் கொள்கையையும்
+வகுத்துக்கொண்டவர் அல்ல. எனவேதான், அரசியலிலேயும்
+உண்மையான பிரம்மச்சாரியாகவே அவர் இருக்கிறார்.
+இதனால் அவர் இரண்டுவித நன்மையைப் பெறுகிறார்.
+தனது, என்று எதையும் அவர் உரிமை கொண்டாடுவதற்
+கில்லை. மேலும் தனது வழியில் வரும் எதையும் அவர்
+எடுத்துக் "கொள்ளவும் உரிமை படைத்தவராகவே
+இருக்கிறார். இன்றைய நிலையைவிட, அவர் அதிகப்படியாக
+_ இருந்திருப்பாரேயானால், இரு மடங்கு ஒரு சில கொள்கை
+கோட்பாடுகளுடன் அவர் இருந்திருப்பார். தனக்கென ஒரு
+கொள்கையும் இல்லாத காரணத்தினால், கிடைக்கின்ற
+அழகுப் பொருள்கள் அத்தனையும் ஏற்றுக் கொள்ள
+வேண்டியவராயிருக்கிறார். அதற்காக அவர் வருந்துவதோ,
+கவலைப்படுவதோகூட இல்லை.
+
+தற்போது காமராசர் செல்லும் இடங்களில் எல்லாம்
+நில உச்சவரம்பு குறித்தும், கூட்டுறவு குறித்தும் இன்னும்
+இதுபோன்ற பல்வேறு பிரச்சினைகளை குறித்தும் அழுத்தம்
+திருத்தமாகப் பேசி வருகிறார். அதற்குக் காரணம், “அதுதான்
+கட்சியினுடைய கொள்கையாக இருக்கவேண்டும்” என்று
+
+## Image 5: 005-1ecd148723.png
+
+- Image: `katturaigal/anbin_pinaippu/005-1ecd148723.png`
+
+அவரது தலைவர் கற்றுத்தந்த பாடம்தான் அது. எனவேதான்,
+போகுமிடமெல்லாம் அந்தக் கொள்கைகளை உடன்
+எடுத்துச் செல்கிறார். "உழுபவனுக்கே நிலம்'' என்ற
+கொள்கையை ஆண்டுகள் பலவற்றிற்கு முன்பு அவர் கேலி
+பேசியவர்.
+
+பொருளாதார தநிபுணர்களாலும், அரசியல்
+வல்லுநர்களாலும அவர் தயாரிக்கப்பட்டிருந்தால் நில
+உச்சவரம்பு, கூட்டுறவு இவைகள் குறித்து ஆதரவாகவோ
+எதிராகவோ தனது வழக்கினை மெத்தச் சிரமப்பட்டு
+நிலைநாட்டியிருப்பார். பல்வேறுபட்ட பேராசிரியர்கள்
+பல்வேறுவிதமான கருத்துக்களை முன்வைத்திருப்பார்கள்.
+நிச்சயமாக ஒரு சங்கடமான சூழ்நிலை உருவாகியிருக்கும்.
+
+ஆனால், காமராசருக்கு அப்படிப்பட்ட தொல்லைகள்
+ஏதும் இல்லை. உட்கார்ந்து கற்றுத் தெளிவதற்கும்
+பரிதாபத்திற்குரிய அவருக்கு, அதற்கேற்ற நேரம் கிடையாது.
+அதற்குக் காரணம், அவர் எப்போதும் பம்பரம்போல்
+சுழன்று கொண்டேயிருக்கிறார் - இல்லை எப்போதும் ஓடிக்
+கொண்டேயிருக்கிறார். இவையத்தனையும்
+உணர்ந்தவராகவே அவர் இருக்கிறார். பிரச்சினைகளை
+மக்கள் மத்தியிலே வைக்க வேண்டும், அதற்கான
+ஆதாரங்களைத் தேடிப்பிடித்துக் கொண்டுவந்து சொல்ல
+வேண்டும் என்ற உண்மையைக்கூட. அந்த நல்லவர் அறிந்து
+கொள்ள இயலாத நிலையிலேயே இருக்கிறார். அதற்கான
+வழிமுறைகள் அறிந்தவரும் அல்ல. இத்துறையில் இயலாமை
+ஒன்றுதான் அவர் பெற்ற கிடைத்ததற்கரிய மகிழ்ச்சிக்குரிய
+வரப்பிரசாதம்.
+
+இதை நான் கூறும்போது நிலஉச்சவரம்பு,
+
+## Image 6: 006-a2a6de189e.png
+
+- Image: `katturaigal/anbin_pinaippu/006-a2a6de189e.png`
+
+உழைப்பவனுக்கு நிலம் ஆகியவை குறித்துக் காங்கிரஸ்
+கட்சியின் அதிகாரபூர்வமான கொள்கை ஆதரவளிக்காத
+நிலையில், உழுபவனுக்கு நிலம் என்று சொன்னால்
+
+குடியிருப்பவனுக்கு வீடு சொந்தம்; பயணம் செய்யும்
+பிரயாணிகளுக்கு இரயில் சொந்தம்” சாலைகள், நடப்பவர்
+களுக்குச் சொந்தம்; என்று கனம் காமராசர் போகுமிட
+மெல்லாம் பறைசாற்றி வந்தார். பொதுமக்கள், குறிப்பாக
+விவரமறிந்தவர்கள் இந்த பிரச்சினையை அணுகும்
+அறியாமை நிலைகண்டு எண்ணிக்கூடப் பார்க்கமுடியாத
+நிலையிலேயே இருந்தார்கள். ஆனால், பெருந்தலைவர்
+ஒருவரே இதுகுறித்து வெட்கப்படாதபோது, மற்றவர்களும்
+மெளனிகளாகவே இருக்கவேண்டியிருந்தது. எனவே,
+புள்ளிவிவரம் ஆதாரப்படங்கள், எண்ணிக்கை ஆகிய,
+எதுவும் காட்டவேண்டி௰ தேவை காமராசருக்கு ஏற்பட
+வில்லை. அதற்கான நிபுணர்கள் பலரை விலைகொடுத்து
+வாங்கித் தனது அணியிலே அவர் வைத்துக் கொண்டி.
+ருக்கிறார். அப்படிப்பட்ட பிரச்சினைகள் குறித்துப் பேசு
+வதானால் அவர்களை அனுப்பி வைக்கிறார். ஒருவனுடைய
+உள்ளத்தையும் - மூளையையும் வருத்தக்கூடியதாக இல்லாத
+ஒரு வேலையைக் கொண்டு அவர் மிகவும் மன நிறைவு
+கொள்கிறார். அவருடைய மனம் நிதானமானதாகவும், பாரம்
+நிறைந்ததாகவுமே காணப்படுகின்றது. அவ்வப்போது
+எளிதில் கண்டுகொள்ளக்கூடிய அவரது வெறிச்சோடிப்
+போன பார்வை, தெளிவில்லாத மனதுடன் இருக்கிறார்
+என்பதையே தெள்ளத் தெளியக் காட்டுகிறது. அது
+அவருக்குப் பலவீனத்தைத் தருவதோடு அன்றி, அதே
+நேரத்தில் பலத்தையும் அவருக்கு அளிக்கிறது. சொந்தக்
+கருத்துக்களை அவர் எப்போதும் ஏற்றுக் கொள்வதில்லை.
+அவரது தகுதிகள்பற்றி ஏனையோர் அளவெடுக்கும் போது
+
+## Image 7: 007-32a2d112c8.png
+
+- Image: `katturaigal/anbin_pinaippu/007-32a2d112c8.png`
+
+தனக்குள்ளாகவே அரைகுறையாகச் சிரித்துக் கொள்வார்.
+அமைதியே அவருடைய தகுதி. அதுவே, அவருடைய
+வெற்றியின் இரகசியம் என்று பலர் சொல்லுவதைக் கேட்டு
+கனம் காமராசர் அதன்மூலம் ஏற்படக்கூடிய சூழ்நிலையைத்
+தக்க முறையில் பயன்படுத்திக் கொள்கிறார்.
+
+காமராசரைப்பற்றிச் சொல்வதானால் - அவர்
+சந்தர்ப்பச் சூழ்நிலைகளை ஒருபோதும் உருவாக்கியதில்லை.
+ஆனால், உருவாகும் சூழ்நிலைகளை மட்டும் பயன்படுத்திக்
+கொள்ளத் தவறாதவர்.
+
+விளக்கமாகவே சொல்லவேண்டுமானால், ஆற்றங்
+கரையினிலே, “ஓடுமீன் ஓடி. உறுமீன் வருமளவும் வாடி
+இருக்குமாம் கொக்கு!” என்று சொல்லப்படுவது போலவே
+காமராசரும் வழிமேல் விழி வைத்துக் கொண்டு சந்தர்ப்பச்
+சூழ்நிலைகளை எதிர்பார்த்த வண்ணமாகவே இருக்கிறார்.
+தன்னுடைய குறைபாடுகளை நன்கு உணர்ந்த அவர் அமைதி
+யாக இருத்தலே சிறந்ததோர் கொள்கை என்ற எண்ணத்திலே
+.. இருந்து வருகிறார். அவருடைய அமைதியைக் கண்ட மக்கள்
+எதையும் யூகித்த வண்ணமே இருக்கின்றனர். இந்தநிலை
+அமைதியோடி ருப்பவருக்கு அவர்களது நிழலிலே ஒண்டிக்
+கொண்டு கீழே விழும் பழங்களைப் பறித்துக் கொண்டு
+போவதற்கு வசதியாக இருக்கிறது. அவரது கருத்துக்களை
+அவ்வளவு எளிதில் அவர் வெளியிடமாட்டார். அவ்வளவு
+ஆழமான நெஞ்சம் உடையவர் - அவரைப்பற்றி அவரது
+எதிரிகள் சொல்வது இதுதான். இந்த உண்மைநிறைந்த
+சூழ்நிலை. காமராசருக்கு மிக நல்ல முறையில் பயன்பட்டி.
+ருக்கிறது என்று சொன்னால் மிகையாகாது. எனவேதான்,
+மெளனம் அவருக்கு இன்றியமையாத தேவைகளில்
+
+## Image 8: 008-db14b2c4b0.png
+
+- Image: `katturaigal/anbin_pinaippu/008-db14b2c4b0.png`
+
+ஒன்றாகவே இருக்கிறது. சுயபுத்தி படைத்த, எதையும் தானே
+எண்ணிச் செய்கின்ற கருத்தாழம் நிறைந்த, ஒரு கொள்கை
+வழி நின்று செய்யும் செயல் என்றெல்லாம் பலர் பலவிதமாக
+அவரது அமைதிக்குத் தத்துவங்கள் பல வடிவத்தெடுத்துப்
+பறைசாற்றி வந்தனர். இந்தத் தவறான எண்ணத்திற்கு ஊ.று
+நேரா வண்ணம் அதனுடைய போக்கிலேயே, அந்த எண்ணம்
+மேலும் வளரும் வகையிலேயே பெருமூச்சு ஒன்றை விட்டு
+விட்டு அந்த அமைதியையும் மெளனத்தையும் மகத்தான
+தோர் ஆயுதமாகக் காமராசர் கடைபிடித்து வந்தார்.
+
+அப்படிப்பட்ட காமராசர்தான் இன்றையத் தினம்,
+மிகமிகச் சாதாரணமான விஷயங்களைக்கூட நீண்டநேரம்
+பேசுவதற்கு முற்பட்டுவிட்டார். அதற்குக் காரணம்,
+அமைதியாக இருப்பவர் - இருந்தவர் எப்போதாவது பேச
+ஆரம்பித்து விட்டால் அவரைச் சுற்றி மக்கள்
+ஆயிரக்கணக்கில் கூட ஆரம்பித்து விடுகின்றனர். எப்போதும்
+வழக்கமாக அமைதியைக் கடைப்பிடிக்கும் காமராசர்
+.. திருவாய் மலர்ந்தருளிப் பேசுகிறார் என்றால், ஏதோ முக்கிய
+செய்தி இருக்கும்; எனவேதான் காமராசர் பேச
+வந்திருக்கிறார் என்று அவரது ஆதரவாளர்கள்
+வாதாடுகின்றனர். கனம் காமராசரோ தான் மனநிறைவு
+கொள்ளத்தக்க வகையில் இந்தச் சூழ்நிலையையும் நல்ல
+முறையில் பயன்படுத்திக் கொள்கிறார்.
+
+சூழ்நிலைகளை உருவாக்குவது என்ற கலையில்
+காமராசர் வல்லவர் அல்ல என்ற பேருண்மை - அவரைப்
+புகழ்ந்துரைக்கும் வகையில், எவ்வித மசோதாவோ,
+சட்டமோ இதுவரையில் அவர் கொண்டுவந்தது இல்லை
+என்பதிலிருந்தே அவரது வல்லமை நன்கு புலனாகிறது.
+
+## Image 9: 009-f4e0fcb9bc.png
+
+- Image: `katturaigal/anbin_pinaippu/009-f4e0fcb9bc.png`
+
+நீதிக்கட்சி, தன்மான இயக்கம் - ஆகிய இரு அமைப்பு
+களின் தலைவர்கள் அறிவு ஆற்றல் நிரம்பிய, ஏனையோரின்
+வாதங்களைச் சுக்கு நூறாக்கக்கூடிய அவர்களது சொற்
+பொழிவுகள் “பார்ப்பன எதிர்ப்புணர்ச்சியை" உருவாக்கியது
+என்பதை எவரும் மறுக்கமுடியாது. பத்திரிகைத் துறையிலே
+பார்ப்பனர்கள் ஆதிக்கம் செலுத்தி வந்ததால் - பார்ப்பனர்
+- பார்ப்பனர் அல்லாதார் என்ற வேற்றுமை அளவுக்கு மீறிய
+வகையிலும், உண்மைக்கு மாறுபட்ட நிலையிலும்
+மிகைப்படுத்தப்பட்டது.
+
+காங்கிரஸ் தலைவர்கள் தங்களுக்குத்தான் அறிவாற்றல்
+இருக்கிறது என்று உரிமை பாராட்டுவதை யாரும் மறுக்க
+முடியாது. அப்படிப்பட்டவர்கள் வகுப்புவாதத்தை
+எதிர்த்துத் தேசியத்தைக் காப்பாற்றுதில் முனைந்து
+ஈடுபட்டனர். காமராசர் மட்டும் இந்தப் போராட்டம் ஒரு
+குறிப்பிட்ட வரையறைக்குள்ளாகவே தொடர்ந்து நீடிக்கவே
+விரும்பினார். பார்ப்பனர்களுடைய பிடிப்புச் சீர்குலைந்து
+தகர்த்தெறியப்பட்டால், தன்னுடைய உதவியைக்
+கோருவார்கள் என்று காமராசர் கருதிக் கொண்டிருந்தார்.
+இருவேறு சக்திகள் - கோஷ்டிகள் போராடிக் கொண்டிருந்
+தால் இரண்டில் ஒரு கோஷ்டியினர் - ஒரு நடுநிலையாளரின்
+உதவியை நாடுவது இயற்கை என்பதை அறிய அதிகமான
+தெளிவு தேவையில்லை. ஆனால், காமராசர் ஒரு
+நடுநிலையாளர் என்று கருதுவதற்கில்லையென்றாலும்,
+அப்படி ப்பட்டதோர் அவசியம் ஏற்பட்டுவிட்டது. இரண்டு
+இனங்களுக்கும இடையே ஏற்பட்ட மோதல்களுக்குரிய
+பிரச்சினையைப் புரிந்துகொள்ள வேண்டுமானால்,
+தமிழகத்தில் இரண்டாயிரம் ஆண்டுகளாக நீடித்து வந்த
+இலக்கிய, சரித்திர வரலாற்று உண்மைகளை ஒருவர் நன்கு
+
+## Image 10: 010-1f891c51cc.png
+
+- Image: `katturaigal/anbin_pinaippu/010-1f891c51cc.png`
+
+கற்றுத் தெளிந்திருக்க வேண்டும். இத்துறையில் காமராசரை
+எதிர்பார்ப்பது - முடியாத ஒன்றை எதிர்பார்ப்பது போலவே
+முடியும். எனவேதான், அவரது பலவீனமே அவருக்கு
+வலிவையும் தேடித் தந்தது. கோஷ்டிகளில் சேரவேண்டும்
+என்ற எண்ணம் அவருக்கு எழுந்தது இல்லை. எனவேதான்,
+அவர் விரும்பியவாறே நடுநிலையாளர் என்ற நீதிக்குப்
+புறம்பான நிலையானதோர் இடத்தை அவரால் பெற
+முடிந்தது. விதைக்காது அறுவடை செய்யும் வாய்ப்பு
+நடுநிலையாளர்களுக்கு எப்போதும் உண்டு. குறிப்பிடத்தக்க
+இந்தச் சாதகமான சூழ்நிலை காமராசருக்கு ஏற்பட்டது.
+இரண்டு கோஷ்டியினரும் அவரது உதவியை நாடினார்கள்.
+இதற்கு அவரது வழக்கமான கோழைத்தனம் பெரிதும்
+உதவிற்று. காற்றுள்ளபோதே தூற்றிக் கொள்ளவேண்டும்
+என்று உதயசூரியனை எதிர்பார்த்துக் கொண்டிருந்த
+காமராசரை - இரண்டு கோஷ்டியினரும், அவர்தான் விட்டு
+வைக்கப்பட்டிருக்கும் எஞ்சிய சக்தி என்று கருதினார்.
+
+காமராசர் வழக்கமாகவே மெளனம் சாதிப்பவர்.
+ஆனால், நிலையான குறிக்கோள் ஏதும் இல்லாத சில பல
+பிரச்சனைகளில் மட்டும் எதிர்பாராத சிற்சில சமயங்களில்
+கருத்தறிவிக்க முற்பட்டு விடுவார். ஒரு அலோசகராகவும்,
+நீதிபதியாகவும் அவர் . தன்னைத்தானே கருதிக் கொண்டி
+ருந்தார். உண்மையைச் சொல்ல வேண்டுமானால் அந்த
+நிலையில் அவர் மகிழ்ச்சியாகவே காலங்கடத்தி வந்தார்.
+
+ஆனால், ஆச்சாரியாருடன் நேருக்கு நேர் போராட
+வேண்டி. நேரிட்ட சமயத்தில், போராட்ட உணர்ச்சியுடன்,
+மாபெரும் சக்தியொன்று இருப்பதைக் கண்டறிந்தார்.
+உடனே, அந்தச் சக்தியைத் தனக்குச் சாதகமாக எந்த
+
+## Image 11: 011-aa99824202.png
+
+- Image: `katturaigal/anbin_pinaippu/011-aa99824202.png`
+
+நேரத்திலும் பயன்படுத்திக் கொள்ளக்கூடிய நிலையில் அவர்
+இருந்தார். அந்தச் சக்தியினர் கனம் காமராசரை உரிமைகள்
+மறுக்கப்பட்ட பார்ப்பனரல்லாதார் சமூகத்தின் சின்ன
+
+மாகவே கருதினர்.
+
+இதற்கிடையில், ஆச்சாரியாரின் புகழ்மிக்க அவரது
+அறிவுத் தெளிவு, இயற்கையாகவே பல விரோதிகளை
+உண்டாக்கிவிட்டது. அவர்களில் பாதிக்கப்பட்டவர்கள்,
+இழிவுக்குள்ளானவர்கள், கைவிடப்பட்டவர்கள், சிதறிப்.
+போனவர்கள், இலாப நட்டக் கணக்குப் பார்ப்பவர்கள்,
+இன்னும் இவைபோன்ற பலரும் கனம் காமராசர் பக்கம்
+வந்து சேர்ந்தனர். அச்சாரியாரை விரட்டுவதற்குக்
+காமராசரை ஆயுதமாகப் பயன்படுத்தலாம் என்று அவர்கள்
+அனைவரும் கருதினர். காமராசரும் அவர்களுடைய
+விருப்பத்திற்குத் தடையாக இல்லை என்றாலும், அவ்வப்
+போது மறுப்பு அறிக்கைகள் விடுவதில் மட்டும் அவர்
+சிறிதும் தவறவில்லை.
+
+இறுதியில் ஆச்சாரியார் பதவியில் இருந்து விரட்டப்
+பட்டதும், பார்ப்பனரல்லாதாரின் இலட்சியச் சின்னமாகக்
+கனம் காமராசர் விளங்கினார். எப்படியோ ஏற்பட்ட இந்த
+அரியதோர் சந்தர்ப்பத்தை ஆரத் தழுவிக் கொள்ள காமராசர்
+தவறவில்லை. உண்மையைக் கூறுவதானால், இந்த உணர்ச்சி
+
+கொழுந்துவிட்டெரியவே செய்தார்.
+
+இதற்கிடையில், தமிழ்நாட்டுக் காங்கிரஸ் கட்சியின்
+தலைமைப் பீடத்திற்கு உரிமை கொண்டாடக்கூடிய
+அனைவரும் ஒருவர்பின் ஒருவராகத் தாங்களாகவே
+பின்வாங்கிக் கொண்டனர். மற்றும் சிலர் சம அந்தஸ்தினைப்
+பெற்றனர். பிரிட்டன் நாட்டிலே தளபதி ஒருவன் தன்னுடைய
+
+## Image 12: 012-bcaec25a25.png
+
+- Image: `katturaigal/anbin_pinaippu/012-bcaec25a25.png`
+
+திறமையினாலும், உழைப்பின் மூலமும் அப்படி.ப்பட்டதோர்
+நிலையினை அடைந்ததாக நாம் அறிகிறோம். அதேபோன்று
+காமராசரின் தலைமைப் பீடத்திற்குப் போட்டியிடக்கூடிய
+அனைவரும் ஒவ்வொருவராக நிராயுதபாணிகளாக
+ஆக்கப்பட்டுவிட்டனர்.
+
+ஓமந்தார் இராமசாமி ரெட்டியாரைப்பற்றி
+அறிந்திருப்பீர்கள். மக்கள் அனைவரின் அபிமானத்தையும்,
+அன்பையும் பெற்றவர் அவர். அவரது தன்னலமற்ற
+உழைப்பும், நிர்வாகத் திறமையும் மக்கள் அனைவராலும்
+புகழ்ந்துரைக்கப்பட்டது. ஆனால், காமராசர் தங்கள்
+இருவருக்கிடையே ஏற்பட்டுவிட்ட இந்த இடைவெளியை
+அறிந்து, தன்னுடைய உறவைத் துண்டித்துக் கொண்டு,
+அவரது அதிருப்தியாளர்களின் உதவியைக் கொண்டு
+காமராசர், ஓமந்தூாராரை ஆட்சிப் பொறுப்பிலிருந்து
+விரட்டியடித்தார் என்பது நாடறிந்த உண்மை. நானிலம்
+இதனை நன்கறியும். இதற்குச் சான்றுகள் பல உண்டு.
+சூழ்நிலைகளும் ஏராளம். இத்துறையிலும் அவர் கையாண்ட
+முறை வேறுபட்டதல்ல. சந்தர்ப்பச் சூழ்நிலைகள்
+அனைத்தும் காமராசருக்குச் சாதகமாகவே உருவானவை.
+ஆனால், அதே காமராசர் பார்ப்பனரல்லாதாரின்
+பாதுகாப்புச் சின்னமாகத் திகழ்கிறார். காமராசர் சந்தர்ப்ப
+சூழ்நிலைகளை உருவாக்காதவர் என்பதையும், உருவாக்கப்
+பட்ட சூழ்நிலைகளை அவர் எப்படிச் சாதகமாக்கிக்
+கொண்டார் என்பதையும் இப்போது நன்றாக உணர்ந்து
+கொண்டிருப்பீர்கள் என்றே கருதுகிறேன்.
+
+இந்த வகையில்தான் காமராசர் பார்ப்பனரல்லாதாரின்
+
+பாதுகாவலர் என்று, பெரியார் இன்றைய தினம் முனைந்து
+
+## Image 13: 013-c68a670a86.png
+
+- Image: `katturaigal/anbin_pinaippu/013-c68a670a86.png`
+
+நின்று அவருக்கு வலிந்து சென்று ஆதரவளிக்கிறார்.
+ஏற்பட்ட சூழ்நிலைகளின் திருப்புமுனைகளைக் கண்டு
+காமராசர் உள்ளூர மனநிறைவு கொண்டாலும், வருத்தத்
+தோடுதான் காணப்படுகிறார். காமராசரின் ஆதரவாளர்
+என்று பெரியார் தன்னைத்தானே வெளிப் படையாகவே
+விளம்பரப்படுத்திக் கொண்டாலும், உண்மையில் அவர்
+எதற்கோ, யாருக்கோ விரோதமாகக் காரியங்களைச்
+செய்துவருகிறார் என்பதைக் காமராசர் அறியாதவரல்ல.
+
+இந்தக் காற்றுவேகத்தைக் காமராசர் அளவுக்கு மீறி
+நம்பிக்கொண்டிருக்கிறார். சந்தர்ப்பங்கள் சாதகமான
+சூழ்நிலை உருவாக்கும் - ஆனால் எப்போதும் அப்படி.
+இருக்காது என்பதை நாம்தான் பொதுமக்களுக்கு உணர்த்தி
+யாக வேண்டும்.
+
+காமராசர் நல்லவர் ஆகவே, அவர் நம்மவர் - இதுதான்
+சில சுயநலக்காரர்களின் இன்றையப் பிரச்சாரம். அவர்
+நல்லவர் - அவர் மிகவும் நல்லவர், நானும் சொல்ல முடியும்!
+அண்மைக்கால அவரது நடவடிக்கைகள் முற்றிலும்
+இயற்கைக்கு மாறுபட்ட நிலையில் திரைப்பட நிகழ்ச்சி
+களாகவே காணப்படுகிறது. நாளுக்குநாள் மற்றவர்களின்
+கவுரவத்தைக் குலைக்கும் அளவுக்கு அவர் வெளியிடும்
+கருத்துக்கள் மேலும் மேலும் அருவருக்கத் தக்கதாகவே
+இருக்கின்றன. அவர் ஒன்றை மட்டும் பெரிதும் நம்பிக்
+கொண்டிருக்கிறார். அதாவது, பார்ப்பன எதிர்ப்புணர்ச்சியை
+பெரியார் கிளப்பிக்கொண்டே இருப்பார் - எரிகிற அந்தப்.
+பெரு நெருப்பில் காங்கிரஸ் எதிர்ப்புச் சக்திகள் அனைத்தும்
+தி.மு.க. உட்பட எரிந்து கருகிவிடும் என்ற எண்ணத்திலே
+அவர் இருக்கிறார்.
+
+## Image 14: 014-afb78e2f2e.png
+
+- Image: `katturaigal/anbin_pinaippu/014-afb78e2f2e.png`
+
+திராவிட முன்னேற்றக் கழகத்திற்கு மகத்தானதோர்
+பொறுப்பு ஒன்று இருக்கிறதென்பதைக் காமராசர் அறவே
+மறந்துவிட்டார். அந்த மகத்தான பொருப்பு, ஆட்சி
+இயந்திரத்தால் கவரக்கூடியதல்ல, அன்பின்அடி. ப்படையிலே
+பிறந்த ஒன்றாகும். பெரியாரின் தி.மு.க. எதிர்ப்பினைக் கண்டு
+கனம் காமராசர் திருப்தி அடையலாம். திராவிட முன்னேற்றக்
+கழகத்திற்குள்ளாக அசம்பாவித நிகழ்ச்சிகள், பிளவுகள் ஏதும்
+ஏற்படலாம் என்றுகூட அவர் நம்பிக் கொண்டிருக்கலாம்.
+ஆனால் திராவிட நாட்டு ஆதிக்கம் குறித்து மக்கள்
+நினைக்கவும், அது குறித்துப் பேசவுமான நிலைமையை
+திராவிட முன்னேற்றக் கழகம் உருவாக்கிவிட்டது என்பதைக்
+காமராசர் உணரத் தவறிவிட்டார். தமிழகத்தின்
+மூலைமுடுக்குகளிலெல்லாம் இந்தக் கருத்து இன்றைய தினம்
+வேரூன்றி விட்டது. கேளாக்காதினராக இருந்தவர்கள்
+எல்லாம் இன்றைய தினம் இந்தக் கருத்துக்கு ஆதரவு
+தருவதற்கு முனைந்துவிட்டார்கள். இந்தப் பிரச்சினை
+இன்றைய தினம் மேடை முதற்கொண்டு பத்திரிகை உலகம்
+வரை கேட்கத் தொடங்கிவிட்டது. பலர் இன்றைய தினம்
+இப்பிரச்சினை குறித்துப் பலன்தரத்தக்க வகையிலேயே பேச
+ஆரம்பித்துவிட்டனர் - மற்றவர்கள் இந்தக் கருத்தினை
+ஆதரிக்க முனைந்து விட்டனர் - இன்றைய தினம் இது
+குறித்துப் பேச்சுவார்த்தைகள் எங்கும் கேட்கப்படுகிறது.
+எல்லாத் திக்குகளிலும் முழக்கமிடப்படுகிறது என்பது
+மட்டும் உண்மை. நாம் பெற்ற இந்த மகத்தான செல்வத்தை
+யாரும், எவரும் எளிதில் அழித்துவிட முடியாது. இந்தக்
+கருத்துக்களை எதிர்க்கத் துவங்கும் காங்கிரஸ் கட்சியின்
+நடவடிக்கை ஓவ்வொன்றும் நம்முடைய தேசிய
+உணர்ச்சிக்குப் புதியதோர் வலிவை கூட்டுகிறது. நமக்கு
+
+## Image 15: 015-ad703d20d4.png
+
+- Image: `katturaigal/anbin_pinaippu/015-ad703d20d4.png`
+
+ஏற்படுகின்ற தோல்விக்கும், எதிர்ப்புக்கும் ஏளனத்திற்கும் -
+தாக்குதல்களுக்கும் அவர்களது நடவடிக்கை ஒவ்வொன்றும்
+உரமூட்டுவதாய் அமைகின்ற நிலையிலேயே இருக்கிறது.
+நம்முடைய செல்வாக்கினைக் குலைப்பதற்கு கடுமுயற்சி
+எடுக்க வேண்டிய அளவிற்கு நாட்டிலே இன்றைய தினம்
+மகத்தானதோர் விழிப்புணர்ச்சி ஏற்பட்டுவிட்டது.
+அதிருப்திகள் நிறைந்த வட்டாரத்தினர் இன்றைய தினம்
+அமைச்சர்கள்மீது புன்சிரிப்பினைப் பொரிந்து
+தள்ளுகிறார்கள்.
+
+இதற்கிடையில் அன்றாடம் உலகத்தின் பல்வேறு
+பகுதிகளில் நடைபெறும் வேடிக்கை நிறைந்த நிகழ்ச்சிகள்
+பல, மக்கள் எண்ணத்தைக் கொழுந்துவிட்டெரியச்
+செய்கின்றன. காட்டுமிராண்டிகள் என்ற நிலையிலே
+கருதப்பட்ட மக்கள் இன்றைய தினம் தன்னாட்சி பெற்று
+- உரிமை பெற்ற மக்களாக வாழ்ந்து வருகிறார்கள். அவைகள்
+இன்றைய தினம் நாம் மேற்கொண்டுள்ள இலட்சியத்தில்
+எவ்வளவு இடையூறுகள், இன்னல்கள் ஏற்பட்டாலும்
+உறுதியுடன் நின்றுபாடுபடவும், அதிலே. வெற்றிபெறவும்
+நமக்கு" ஊக்கத்தையும், உற்சாகத்தையும் அளிப்பதாகவே
+இருக்கிறது. நம்முடைய வெற்றிகளை அடைய மற்றவர்கள்
+உண்டாக்கும் சந்தர்ப்ப சூழ்நிலைகளை நாம் ஒருபோதும்
+நாடிக்கொண்டிருக்கவும் இல்லை நம்பிக் கொண்டிருக்கவும்
+'இல்லை, நம்முடைய பணியிலே நம்முடைய நம்பிக்கை
+யிருக்கிறது. நம்முடைய நேர்மையான வழியில்தான்
+நம்முடைய நம்பிக்கை இருக்கிறது.
+
+எனவே, காமராசர் நமக்கு ஓர் பிரச்சினை என்ற
+வடிவத்தைக் கொடுக்கத் தேவையில்லை. அது ஒரு நிகழ்ச்சி.
+
+## Image 16: 016-05f6de83b8.png
+
+- Image: `katturaigal/anbin_pinaippu/016-05f6de83b8.png`
+
+அவ்வளவுதான், நம்மை எதிர்நோக்கியுள்ள ஒரு பிரச்சினை
+யாக ஒருபோதும் ஆகாது.
+
+மக்கள் இயக்கம் இன்று எவ்வளவு சக்திகளை
+வேண்டுமானாலும் அவிழ்த்துவிட முடியும். அந்தச் சக்தி
+சரியான முறையில் தயாரிக்கப்பட்டால் எதிர்க்க முடியாத
+ஒரு மகத்தான சக்தியாக மலரவும் முடியும். தி.மு. கழகம் ஒரு
+மக்கள் இயக்கம். காமராசர் போன்றவர்களால்கூட அநீத
+வெள்ளத்தைத் தடுத்து நிறுத்த முடியாது.
+
+(26-2-61 - திராவிட நாடு)
+
+## English Translation
+
+“Can anyone tell me what a bachelor is?” a teacher once asked her class.
+
+The answer came: “Miss, bachelors are people who failed to embrace a fine opportunity when they received one.”
+
+For a moment I was astonished to find myself prompted to inquire into Kamaraj. It was then that these amusing lines, read somewhere at some time, struck the waves of my memory.
+
+The Chief Minister of Madras State—no, of Tamil Nadu—is a bachelor. But he has never failed to embrace favourable political circumstances. I refer to politics; do not misunderstand me. It is precisely because he is a past master of this art that he has occupied the seat of power for so many years.
+
+The leader of the Congress Legislature Party is an all-powerful lawyer, a product of C. R.'s school and a man of political wisdom. Yet even such a person must bow his head to another—and to a man who never even looked upon a college entrance.
+
+The Home Minister is renowned for clarity upon questions and firmness of principle. He trained under Muthuranga Mudaliar, who dominated Tamil Nadu's political sky for many long years. Yet the Honourable Bhaktavatsalam must wait for his leader's command.
+
+How did such a condition arise? How did the Honourable Kamaraj attain this status? What part did he play in building the Congress party? How did his grip become so firm? How do others avoid feeling irritation at the sight?
+
+If questions of this kind are raised one after another, they would tell page after page of stories about this ordinary yet astonishing man who makes college-educated and university-qualified people dance to his tune.
+
+One might say this merely to flatter a man sitting in power and wait for a scrap of bread. But the explanation cannot be found in Kamaraj himself or among the people around him. This is simply the present condition of the Tamil Nadu Congress party. It may appear ugly, but it is the truth.
+
+Kamaraj has never tasted education. Past events, philosophies and matters of that kind therefore cause him no concern. Apart from native practical knowledge, he has nothing else to seek. Lacking the necessary educational foundations, he does not concern himself with events occurring in a world beyond his reach. To him Lumumba and Kasavubu, the leaders of the Congo, appear alike. He gives such news no priority and possesses no eagerness to learn it.
+
+To tell the truth, he understands only his own deficiencies and failures very well. These are substantial problems, but we are under no compulsion concerning them. They are problems for those called “great men” to attend to. Kamaraj proceeds as though there is no need for us to worry about them.
+
+For him, it is enough to know who has newly entered the Congress party, the party's accumulated fund and the history of that fund. His politics must be built upon the account book of the reserve fund, not upon great collections of books about history, geography and similar subjects.
+
+Kamaraj has formulated no doctrine of his own. That is why he remains a true bachelor even in politics.
+
+This gives him two advantages. He need claim nothing as his own, and he remains entitled to take whatever comes along his path. Had he possessed more than his present condition, he would have been burdened with one or two doctrines and principles. Because he possesses no policy of his own, he can accept every attractive object that becomes available. He neither regrets nor worries about doing so.
+
+Wherever Kamaraj travels today, he speaks emphatically about land ceilings, cooperation and many other questions. The reason is the lesson his leader taught him: “That must be the party's policy.” He therefore carries those policies wherever he goes. Yet many years ago he mocked the principle “Land to the tiller.”
+
+Had economists and political experts fashioned him, he would have struggled greatly to establish a case for or against land ceilings and cooperation. Different professors would have advanced different views, and an embarrassing situation would certainly have arisen.
+
+Kamaraj has no such troubles. The poor man has no time to sit down, study and gain clarity, because he is always spinning like a top—or rather, always running. He understands all this. Yet he remains in a condition where he cannot grasp even the truth that questions must be placed before the people and supporting evidence found and presented. Nor does he know the methods for doing so.
+
+His incapacity in this field is the rare and joyous blessing he has received.
+
+When I say this, remember the period when the Congress party's official policy did not support a land ceiling or land for the worker. Kamaraj travelled everywhere proclaiming: “If one says land belongs to the tiller, then a house belongs to its resident, the railway belongs to its passengers, and roads belong to those who walk upon them.”
+
+The public—especially informed people—could scarcely comprehend the ignorance with which he approached the issue. But when the great leader himself felt no shame, everyone else had to remain silent.
+
+Kamaraj consequently felt no need to show statistics, documentary evidence or numbers. He has bought many experts and retained them in his team. If such questions must be discussed, he sends them.
+
+He takes great satisfaction in work that troubles neither heart nor brain. His mind appears steady and weighty. Yet the vacant gaze easily observed from time to time makes abundantly clear that his mind lacks clarity. This gives him weakness and, at the same time, strength.
+
+He never accepts ideas as his own. When others measure his qualifications, he smiles half a smile within himself. Silence is his qualification. Hearing many people say it is the secret of his success, the Honourable Kamaraj uses the resulting circumstances appropriately.
+
+Kamaraj has never created favourable circumstances, but he has never failed to use circumstances once they arise.
+
+To explain plainly, he is like the heron upon a riverbank in the saying: “It lets the little fish swim past and waits in hunger until the great fish comes.” Kamaraj keeps his eyes upon the road and waits for opportunity.
+
+Aware of his deficiencies, he considers silence the finest policy. Seeing him silent, people continue to make conjectures. This enables the silent man to shelter in their shadow and carry away the fruit that falls below.
+
+He does not reveal his opinions easily. “What a profound heart he possesses,” say his opponents. It is no exaggeration to say that this circumstance, filled with supposed truth, has served Kamaraj extremely well. Silence is therefore one of his indispensable needs.
+
+People have offered many philosophical explanations for his silence: that he possesses independent intelligence, thinks and acts for himself, has depth of thought and follows a principled path. Without disrupting this mistaken belief, and indeed allowing it to grow in its own course, Kamaraj would release a sigh and retain silence as a mighty weapon.
+
+That very Kamaraj now attempts to speak at length even about the simplest matters. The reason is that when a usually silent person begins to speak, thousands gather around him.
+
+His supporters argue: “Kamaraj, who habitually observes silence, has graciously opened his sacred mouth. There must be important news; that is why he has come to speak.” The Honourable Kamaraj uses this circumstance too in a way that gives him satisfaction.
+
+The great truth that Kamaraj is no master of creating circumstances is itself demonstrated by his achievement: he has so far introduced no bill or law by which he may be praised.
+
+No one can deny that speeches by the intellectually powerful leaders of the Justice Party and Self-Respect Movement—speeches capable of reducing others' arguments to fragments—created “anti-Brahmin feeling.” Because Brahmins dominated the press, however, the distinction between Brahmin and non-Brahmin was exaggerated beyond measure and contrary to truth.
+
+Nor can anyone deny that Congress leaders claimed intellectual ability exclusively for themselves. Such men entered the struggle against communalism and to protect nationalism.
+
+Kamaraj alone wanted the conflict to continue within a certain limit. He believed that if the Brahmin grip were weakened and shattered, they would seek his assistance.
+
+When two forces or groups are fighting, it is natural for one to seek help from a neutral party; no extraordinary clarity is required to understand that. Though Kamaraj could not truly be regarded as neutral, circumstances created such a need.
+
+To understand the conflict between the two communities, a person would need thorough knowledge of the literary and historical realities that had continued for two thousand years in Tamil Nadu. Expecting this from Kamaraj would be expecting the impossible.
+
+His weakness therefore found strength for him. He never felt an urge to join either group, and thus obtained, just as he wished, the fixed though unjustified position of a neutral mediator.
+
+Mediators always have an opportunity to harvest without sowing. This notably favourable circumstance came to Kamaraj. Both groups sought his help. His habitual timidity greatly assisted him.
+
+Kamaraj waited for the rising sun, prepared to winnow while the wind blew. Both groups came to regard him as the one remaining force left aside.
+
+Kamaraj normally remains silent. But upon a few questions without any settled objective, he will unexpectedly venture an opinion. He regarded himself as adviser and judge; to tell the truth, he passed his time happily in that position.
+
+When the moment came to confront Achariyar directly, however, he discovered a great force filled with a spirit of struggle. He was immediately in a position to use that force to his advantage whenever he wished. Its members regarded the Honourable Kamaraj as the symbol of the non-Brahmin community denied its rights.
+
+Meanwhile, Achariyar's celebrated intellectual brilliance naturally created many enemies. Those wounded, humiliated, abandoned or scattered by him, those calculating profit and loss, and many others joined Kamaraj's side. They all believed Kamaraj could be used as a weapon to drive Achariyar out.
+
+Kamaraj did not obstruct their wishes, though he never failed to issue occasional statements of denial.
+
+When Achariyar was finally driven from office, the Honourable Kamaraj shone as the ideal symbol of non-Brahmins. Kamaraj did not fail to embrace this rare opportunity that had somehow arisen. Indeed, he caused the feeling to blaze up.
+
+Meanwhile, everyone who could claim the leadership of the Tamil Nadu Congress party withdrew one after another of their own accord, while some were reduced to equal status. We hear of a British commander attaining such a position through his ability and labour. In Kamaraj's case, likewise, everyone capable of competing for the leadership was disarmed one by one.
+
+You will know Omandur Ramasamy Reddiar. He enjoyed the affection and regard of all the people, and his selfless labour and administrative skill were widely praised.
+
+But it is a truth known throughout the country that Kamaraj recognised the distance that had arisen between them, severed his own connection, and used the help of Omandur's dissatisfied opponents to drive him from responsibility for government. The whole world knows this. There is abundant evidence and no shortage of circumstances.
+
+His method in this sphere was no different. Every favourable circumstance formed itself for Kamaraj. Yet that same Kamaraj now appears as the protective symbol of non-Brahmins.
+
+I trust you now understand clearly that Kamaraj did not create circumstances, and how he turned circumstances created by others to his advantage.
+
+It is in this fashion that Periyar today comes forward, goes out of his way and gives Kamaraj support as the protector of non-Brahmins.
+
+Though inwardly satisfied by the turns that circumstances have taken, Kamaraj also appears troubled. Periyar openly advertises himself as a supporter of Kamaraj, but Kamaraj is not unaware that Periyar's actions are really directed against something or someone else.
+
+Kamaraj places excessive trust in this favourable wind. We must make the public understand that opportunities may create favourable circumstances, but will not always do so.
+
+“Kamaraj is a good man; therefore he is one of us.” This is the propaganda of certain self-seekers today. He is good—very good; I too can say that.
+
+His recent actions appear entirely unnatural, like events in a film. Day after day, the opinions he issues become more repellent as they undermine the dignity of others.
+
+He trusts greatly in one thing: that Periyar will continue kindling anti-Brahmin feeling, and that in that great fire every anti-Congress force, including the DMK, will burn to ashes.
+
+Kamaraj has entirely forgotten that the Dravida Munnetra Kazhagam possesses a great responsibility. That responsibility cannot be captured by the machinery of government; it was born upon a foundation of affection.
+
+The Honourable Kamaraj may take satisfaction in Periyar's opposition to the DMK. He may even believe that untoward incidents and divisions can arise within it. But he has failed to understand that the DMK has created a condition in which people think and speak about rule in Dravida Nadu.
+
+That idea has now taken root in every corner of Tamil Nadu. Even people once deaf to it have begun supporting it. It is heard today from public platforms to the world of the press. Many now discuss the question fruitfully; others have begun to support it. Discussion is heard everywhere and the cry resounds in every direction.
+
+No one can easily destroy this immense wealth we have gained. Every action by the Congress party against these ideas adds new strength to our national consciousness. Each of its actions nourishes the defeats, opposition, ridicule and attacks we encounter.
+
+A great awakening has arisen in the country—great enough that severe efforts are now required to shake our influence. People in circles filled with dissatisfaction shower ministers with mocking smiles.
+
+Meanwhile, many remarkable events occurring each day in different parts of the world cause public thought to blaze. Peoples once regarded as savages now possess self-rule and live with rights. These events give us encouragement and enthusiasm to stand firm, labour and win in our ideal despite every obstacle and hardship.
+
+We have never sought or trusted favourable circumstances created by others to obtain our victories. Our confidence lies in our own work and in our honest path.
+
+There is therefore no need to give Kamaraj the form of a problem confronting us. He is an event, nothing more; he can never become a problem that stands before us.
+
+A people's movement can unleash any number of forces today. Properly prepared, that power can blossom into a mighty force that cannot be resisted.
+
+The DMK is a people's movement. Even people such as Kamaraj cannot stop the flood of justice.
+
+*Dravida Nadu*, 26 February 1961

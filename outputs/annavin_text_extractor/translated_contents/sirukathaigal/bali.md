@@ -1,0 +1,644 @@
+# பலி / The Sacrifice / பலி
+
+**Tamil title:** பலி  
+**English title:** The Sacrifice / பலி  
+**Source file:** `sirukathaigal/bali.md`
+
+## Source Tamil (verbatim)
+
+- Source image folder: `/Users/pugazhendhirajendran/Documents/Codex/2026-07-09/https-www-annavinpadaippugal-info/outputs/annavin_text_extractor/ocr_images/sirukathaigal/bali`
+- OCR language: `tam`
+- Tesseract page segmentation mode: `3`
+- OCR cleanup: `enabled`
+
+## Image 1: 001-52714c18bd.png
+
+- Image: `sirukathaigal/bali/001-52714c18bd.png`
+
+பலி
+
+*குங்கள் மனமாளிகையிலிருந்து, மன்னவா! என்னை
+விரட்டிட எப்படித் துணிந்தீர்கள்? என்ன குற்றம் காண்கிறீர்கள்
+என்னிடம்? எந்தக் கண்களிலிருந்து காதலொளி வீசிற்றோ
+அவைகளா இந்தக் கொடுமையைக் கக்குகின்றன. தங்களை தாஸ்
+மணாளனாக ஏற்ற நாளில், மன்னர் அவையிலே தங்கட்கு ஓர்
+இடம் கிடைக்க நாட்டில் இருந்து வந்த படைத் தலைவர்களிலே
+ஒருவராகத் தாங்கள் இருந்த போதல்லவா தங்களை நாயகனாகப்
+பெற்றேன், நாடாளும் நிலை தங்கட்கு வந்ததும், காடாள நான்
+துரததப்பட வேண்டுமா! தங்களுடைய உயர்வு கண்டு உள்ளம்
+பூரித்துக் கிடந்தவளல்லவா தான், என் நாதனின் வீரமும் தீரமும்,
+பெருங்காவியமாகிறது. என் கண்ணாளனின் காலடியிலே
+பிரான்சு நாடே கிடக்கிறது. என் கணவனின் ' சுட்டு விரல்
+காட்டும் திக்கு நோக்கிச் செல்லும் படைச் சூறாவளியிலே.
+சாம்ராஜ்யங்களெல்லாம் சரணாகதி ஆகின்றன! உலகமே
+போற்றிப் புகழ்கிறது, என் உள்ளத்திலே கோயில் கொண்டுள்ள
+வனை! அவனை யாராலும் அடக்க முடியாது. ஆற்றல் மிக்கவன்.
+அஞ்சா நெஞ்சன் என்று அவனியே புகழ்கிறது. எனினும், என்
+காதலுக்குக் கட்டுண்டு கிடப்பவர்தான் காவலன்! போர் வீரன்
+தானா கிடைத்தான் இவளுக்கு? எந்தக் களத்திலே சிக்கி, காலிழந்து
+முடமாகப் போகிறானோ, கண்ணிழந்து கபோதியாகப்
+போகிறானோ! இவனை மணம் செய்து கொண்டாளே,
+இவளுக்கென்ன எழிலுக்குக் குறைவா? என்று ஏளனமொழி
+பேசியோரை நான் காணும்போதெல்லாம், எப்படிப்பட்டவன்
+பார்த்தீர்களா, என் கணவன், ஏமாளிகளே! மணிமுடி அவன்
+காலடியில்! மன்னர்கள் அவனுக்கு அடைப்பக்காரர்கள்,
+மண்டிலங்கள் அவனுக்குப் பூப்பந்து! என்றெல்லாம் எண்ணிக்
+
+## Image 2: 002-b2ff4f55f9.png
+
+- Image: `sirukathaigal/bali/002-b2ff4f55f9.png`
+
+கொள்வேனே' ஏறு நடை கொண்டவனே! எட்டுத் திக்கிலும்
+'வெற்றிக் கொடி நாட்டியவனே! என் இதயத்துக்கு இன்பமே!
+வாழ்வின் ஒளியே! புதிய வையகத்தை எனக்களித்த காதலனே!
+என்னையா, விலக்கிவிடத் துணிந்தீர்!. என்னையா? உமது
+இன்பவல்லியையா? உண்மையாகத்தானா? கெட்ட கனவொன்று
+காண்கின்றேனா, இல்லையேல், கெடுமதி கொண்டு என்னை
+உண்மையிலேயே கொடுமை செய்யத்தான் துணிந்து விட்டீரா?
+துரையே! மாற்றார்களைக் கண்ட துண்டமாக்கிக் கழுகுக்கும்
+நரிக்கும் விருந்திட்டு, வெற்றி! வெற்றி! என்று களிநடம் புரிகிறீர்
+- வீரனின் பொழுதுபோக்கு என்னைச் சித்திரவதை செய்வதுமா,
+உமக்கு ஏற்ற வீர விளையாட்டு, கண்ட துண்டமாக்கிவிட்டால்
+கவலையிலலை, என்னை உயிருடன் உலவவிட்டல்லவா,
+ஓராயிராம் ஈட்டிகளால் இதயத்தில் குத்த முனைந்துவிட்டீர். என்
+கணவர் என்று களிப்புடன், உரிமையுடன், யாரை நான் கண்டு,
+கண்டு உளம் பூரித்துக் கிடந்தேனோ, அவரை, ஐயோ! வேறோர்
+மங்கை, என் மணாளன் என்று உரிமை கொண்டாடுவதா, அதை
+நான் எங்கோ ஓர் மூலையில் கிடநது கேட்டுச் சகிப்பதா! நான்
+ஆரத்தழுவிய அதத உடலை வேறோர் ஆரணங்கு அணைத்து
+மகிழ்வதா, நான், வெட்கமும் வேதனையும் பற்றி இழுத்திட
+பதைபதைததுப் புரள்வதா? மாளிகையிலும் மலர்த் தோட்டத்திலும்,
+மாலை மதியத்தில் நீரோர் புதியவளுடன் உலவுவது, ஒதுக்கப்பட்
+டு, விரட்டப்பட்டு, கணவன் உயி௫ுடனிருக்கும்போதே விதவைக்
+கோலம் பெற்று, நான் விம்மிக் கிடப்பதா! அதோ பார், பாவம்,
+ஜோசபைன், கணவனால் திராகரிக்கப்பட்டவள், கலங்கித்
+தவிக்கிறாள். கதியற்றவளானாள் என்று மாதர்கள் என்னைக்
+கண்டு கசிந்து உருகுவதா - சிறார்கள் கை கொட்டிச் சிரிப்பதா!
+அன்பரே! எத்தனை எத்தனை இளைஞாகள், என்னைத் தாங்கள்
+இன்பபுரிக்கு அழைத்துச் செல்வதற்கு முன்பு, என் இதழமுதுக்கு
+ஏங்கிக் கிடந்தனர் என்பதை அறியமாட்டீரா, அவர்கள் இன்று,
+அரண் மனையை விட்டு விரட்டப்படும் என்னைக் காண நதேரிட்
+டால், ஐயையோ! என்னென்ன கேலிமொழி பேசி என்னைக்
+கொல்வார்களோ! நெப்போலியன் என்ற பெயரைக் கேட்ட
+மாத்திரத்தில் நாடு பல நடுங்கும் என்று பிறர் கூடக் கேட்டதுண்டு,
+இதோ, நினைத்ததும் நடுக்கமெடுக்கிறதே! சிப்பிக்குள் இருக்கும்
+முத்தினை எடுப்பானேன், அதைச் சிலகாலம் சிந்தை மகிழ
+வைத்திருந்துவிட்டு, பிறகு சுக்குநூறாக்கிச் சேற்றிலே வீசு
+வானேன்? நான், சிப்பிக்குள் முத்தாகி இருந்தேனே! கிரித்துப்
+
+## Image 3: 003-f33e520acc.png
+
+- Image: `sirukathaigal/bali/003-f33e520acc.png`
+
+பேசினீர் - தடு டுத்துப் பார்த்தேன். காதலை வேண்டிணீர் -
+காலங்கடந்த செயல் என்று எனக்கு நானே கூறிக் கொண்டேன்.
+இதயத்தை வென்றீர் - நானளித்த விருந்தும் நாதா!
+சுவையற்றதல்லவே! பயனற்றது, என்கிறீர், ஒர் பாலகன்
+இல்லாததால், வெட்கமாகத்தான் இருக்கிறது, எனினும் நமது காதல்
+வாழ்வு முழுக்க நமக்கே சொந்தம். அதிலே குழந்தை
+குறுக்கிடுவதையும் கர்த்தன் அனுமதிக்க மறுக்கிறார் போலும்
+என்றல்லவா எண்ணிக் கொண்டேன். தங்கள் மனம் மட்டும்,
+வேறுவிதமாக எண்ணிடக் காரணம் யாதோ? மன்னவா! தமது
+காதல் வாழ்விலே கனி: கிடைக்கவில்லை என்பதாலே
+கசப்படைகிறீர், ஒன்று நான் நினைஷட்டுகிறேன், நான் பிள்ளைக்
+கனி அமுது பெற்றுத் தங்கட்குத் தர முடியாத பாவியாக
+இருக்கிறேனே தவிர, மலடி அல்லவே! இருவரல்லவா எனக்கு
+மகன் உளர்! பல கூறினாலும் பன்னிப்பன்னிச் சொன்னாலும்,
+பாறை உருகுமா என்று கேட்கிறார்கள் படித்தறிந்தோர். பாகு
+மொழியாளே! என்று என்னைக் கொஞ்சு மொழியில் அழைத்து,
+களத்திலே மட்டுமல்ல, காதல் வாழ்விலே மட்டுமென்ன, என்று
+கேட்பதுபோல என்னுடன் குலவிய குணாளரே! என்னைக்
+கொல்லாதீர் - அபலையாக்காதீர் - நான் தாங்கிக் கொள்ள
+மாட்டேன் வலிவு இல்லை; காதல் பொலிவினை இழரந்திடத்
+துணிவு பிறக்காது, உள்ளம் படைத்த எவருக்கும். சளராளும்
+
+உ.யர்நிலை தங்கட்குக் கிடைத்ததும் உள்ளத்தில் உறைபவள்! என்று
+
+யாரை அழைத்து வந்தீரோ, அவளையா, பதவிப் பேய்க்குப்
+பலியிட வேண்டும். வேண்டாம், வேந்தே! வேண்டாம்!
+வெத்தழிலில் என்னைத் தள்ளிவிட்டு நீர் மணமுள்ள சந்தனத்தை
+மார்பகத்தே பூசிக் கொள்ளாதீர் - என் கண்ணீரைப்
+பன்னீராக்கிக் கொள்ளாத ர் - என் காதலைக் கருக்கி ௮ ழிக்காத்! ர்.
+அத்தாணி மண்டபத்தில், புத்தம் புதிய பூவையை அழைத்துக்
+கொண்டு, நீர் “ர! ஈஜநடை' நட க்கும்போது, உம்மோடு வாழ்ந்து,
+உமக்காகவே வாழ்ந்து ௨ ளமார மதிப்பழிந்து, மரணப்
+படுகுழியைத் தேடித் தள்ளாடி நடத்து சென்று கொண்டிருக்கிறாள்
+என்று, உம்மாலே எண்ணாமலிருக்க முடியாது - நிச்சயமாக
+முடியாது. இறையே! அந்த எண்ணம் உம்மைச் சும்மாவிடாது.
+உமது கீரிடம் முள் முடியாகும், சிம்மாசனம் சர்ப்பாசனமாகும் _
+கொலு மண்டபம் கொடுமைக் கூடமாகும், இதயம் சுக்குநூறாகும்!
+ஆம் தூய காதலின் மீது ஆணை. என்னை மோசம் செய்து
+விட்டு, உம்மாலே, வாழ்விலே புதிய வாசம் பெற்று மகிழ்ந்திருக்க
+
+## Image 4: 004-4043d2f708.png
+
+- Image: `sirukathaigal/bali/004-4043d2f708.png`
+
+மூடியாது, நாம் இருவரும், ஒருவருக்காகவே ஒருவர் படைக்
+கற்றுக்கொள்ள எவள் வருவதாயினும் தங்களிடம் காதல்
+கொண்டதால் அல்ல என்பதை, நான் நினைவூட்ட வேண்டுமா!
+ஒரு பேரரசுக்குக் காவலர் நெப்போலியன், அவரை கடிமணம்
+புரிந்துகொண்டால், அந்தஸ்தும் அதிகாரமும், செல்வமும்
+“செல்வாக்கும் ஏராளமாகக் கிடைக்கும் என்ற எண்ணத்தினாலே
+மட்டுமே ஒர் ஏந்திழை உம்மை நாடுவாள். நான், தங்களைக்கண்டு
+மகிழ்ந்தேனே, அதுபோல அல்ல; இப்போது உமக்கு வருபவள்,
+அரண்மனையில் உள்ள ஆபரணாதிகளைக் கண்டு மகிழ்வாள்
+.. எடுபிடிகள் கைகட்டி நிற்பது கண்டு களி.ப்பாள் - அரச
+அவையிலே காத்துக் கிடக்கும் கொலுப் பொம்மைகளைக் கண்டு
+- ஆனந்தம் கொள்வாள். உம்மைக் கண்டல்ல. நிச்சயமாக உம்மைக்
+கண்டு, உள்ளத்தை நான் பெற்று மகிழ்ந்தேன். இப்போது
+வருபவள், உம்மிடம் குவிந்துள்ள உடைமைகளுக்காக வருகிறாள்!
+
+நிலை உயர உயர, நாதா, தங்கள் நெஞ்சிலே இருந்து வந்த
+காதல் உலர வேண்டுமா! இது எந்த வகையான நீதியோ!
+களத்திலே கடும் போரிடும் சாதாரணப் போர் வீரனாக
+இருக்கும்போது மட்டுமே நான் தங்கட்குத் துணைவியாக இருக்கத்
+தக்கவளோ! கொலு வீற்றிருக்கும் கோமானானதும் வேறோர்
+கோதைதான் தேவையோ! கார் காலத்துக்கு ஒர் உடையும் வசந்தத்
+தின்போது வேறோர் வகையான உடையும் அணிகிறோம்
+உள்ளத்திலே இடம் பெறும் உத்தமக் காதலுக்குமா, இது?
+என்னாலே எண்ணிப் பார்த்திடக் கூட முடியவில்லையே. யார்
+மூட்டினார்.
+
+ஆற்றலரசே! இப்போது உமக்கு வந்துள்ள உயர்வு கண்டு
+பலருக்குப் பரிவும் பாசமும் சுரக்கும்; அது உண்மை என்று
+எண்ணிடலாமா? விளைந்த காட்டுக் குருவிகளும், மரம் பழுத்ததும்
+வட்டமிடும் வெளவால்களும், வாடி இருக்கும் கொக்குகளும்,
+வலைகட்டும் சிலந்திகளும், மனித இனத்திலேயும் இருக்கத்தானே
+காண்கிறோம். இந்தக் கூட்டத்தில் யாரோ தங்கள் மனதை
+மாற்றியிருக்கிறார்கள்! வேண்டாம், வெற்றியால் ஏற்றம் பெற்ற
+வீரனே! என் உள்ளத்தை வேகவைக்காதீர். என்ன செய்ய முடியும்
+இந்தப் பேதையால் என்று எண்ணுவீர். களத்திலேயே உம்மை
+எதிர்ததிட யாருக்கும் ஆற்றல் இல்லை என்றால், கலகலெனப்
+பொலபொலெனக் கண்ணீர் சிந்துவதன்றி வேறேதும் செய்யத்
+தெரியுமா இவளால் என்று எண்ணுளீர். கண்ணாளா! இந்தக்
+
+## Image 5: 005-430f81e58e.png
+
+- Image: `sirukathaigal/bali/005-430f81e58e.png`
+
+கண்ணீர், நீர் இதுவரை கண்ட படைக்கலம் பேோரன்றதல்ல! இது
+கன்னெஞ்சக் கோட்டை கட்டிக் கொண்டு அதற்குள்ளே ஒளித்துக்
+கொள்ளும் வஞ்சகத்தையும் சுட்டுச் சாம்பலாக்க வல்ல ஆற்றல்
+பெற்றது. பிதற்றுகிறாள் என்று கேலி பேசாதீர். பிதீதம் பிடித்து
+பாரிஸ் பட்டினத்து நெடுஞ்சாலைகளிலே நான் பழைய நாட்களை
+எண்ணிக் கொண்டு, காதல் சிந்து பாடிக் கொண்டும், விளக்குக்
+கம்பங்களைக் கட்டி அணைத்துக் கொண்டும் ஆடை நெகிழ,
+கூத்தல் சரிய, அலங்கோல நடனமாடினாலும், ஆச்சரியப்
+படுவதற்கில்லை. மலை உச்சியிலிருந்து, கீழே உருட்டி விடப்படும்
+சிறு மதலையின் கதி என்னாகும் - எம் மனம் அத்நிலையன்றோ
+உள்ளத்திலே ஒராயிரம் எண்ணங்கள் கொதித்தெழுந்தன,
+எனினும் ஜோசபைனால, ஒரு வார்த்தையும் பேசமுடியவில்லை,
+ஹா! என்றாள் - மயக்க மேலிட்டது. கழே வீழ்ந்தாள் - மூச்சுப்
+பேச்சற்றுக் கிடந்தாள். நெப்போலியனும் திகைத்துப் போனான்.
+
+ஜோசபைனுக்குக் குழந்தை பிறக்கவில்லை- பிரான்சுப்
+பேரரசுக்கு, இளவரசன் இல்லை!
+
+நெப்போலியன், சக்கரவர்த்தி - நாட்டுக்கு வெற்றியும்
+கீர்த்தியும் தேடிக் கொடுத்தான் - புரட்சி பொசுக்கப்பட்டு
+விட்டது - புது முறையை வெட்டி வீழ்ததியாகி விட்டது -
+பேரரசனாகி விட்டான். போர் வீரனாகப் பயணத்தைத் துவக்கிய
+இந்த ரணகளச தூரன், பேரரசன், பெற்றுத் தரவேண்டிய மற்றோர்
+சாதனை உண்டே, பரம்பரைப் பழக்கப்படி - அந்த வெற்றியை
+நெப்போலியன் தேடித்தரவில்லை - குழந்தை இல்லை - வரரிசு
+இல்லை!
+
+வல்லமை முழுவதும் செலவிட்டு ஆபத்துக்களைத் துரும்பாக
+எண்ணிப் போரிட்டுப் பெற்ற பேரரசு, நெப்போலியன் வாரிசு
+இன்றி இருந்தால், என்ன கதியாகும் நெப்போலியனுடைய
+நெஞ்சிலே இந்த நச்சு நினைப்பு நுழைந்தது - வேகமாக வளர்ந்தது
+விபரீதமான முடிவுக்கு வந்துவிட்டான், ஜோசபைனை விலக்கி
+விடுவது, ராஜகுமாரி ஒருத்தியை மனைவியாகக் கொள்வது; அவள்
+தாயரவாள்; பிரான்சுக்கு ஒர் இளவரசனை ஈன்றெடுத்தளிப்பாள்;
+பரம்பரை நிலைக்கும், என்று எண்ணினான். துணிந்து இதை
+நிறைவேற்றித் தீருவது என்று செயலில் இறங்கிவிட்டான்.
+நெப்போலியன் ஒரு முடிவு எடுத்துவிட்டால் தடுத்து நிறுத்த
+
+## Image 6: 006-735cc6bfda.png
+
+- Image: `sirukathaigal/bali/006-735cc6bfda.png`
+
+வர் யார்? எப்போதுமே புகழொளியைத் தேடித் திரிந்து
+வன் நெப்போலியன்! பேராசைப் பெரும் பேய்,
+மோகம், அவன் உள்ளத்தில் தழலாகிக் கிடந்தது. காதல்
+“டுமென்ன, அவன் திட்._தீதின் வெற்றிக்குத் தடையாக
+நந்தால், கசக்கி வீசப்படத்தானே வேண்டும் - அதுதானே
+நப்போலியன் முறை. அதை எங்கனமறிவாள், அவன் துணைவி
+தி, அவன் அரசனாக்கப்பட்டதும் அரசியாக விளங்கிய அழகி,
+ரசபைன் தன் கணவர், எதை வேண்டுமானாலும் செய்வார்.
+தம த்தை வேறு எந்தக் காரியத்துக்கும் இரும்பாக்கிக் கொள்வரர்,
+னால் தன்னைப் பொழியும் கண்ணாளனாகத்தான் இருப்பான்
+சீறு எண்ணிக் கொண்்....ரள். பேதையே, பேதையே! ன தோட,
+அல்லவா இப்போது அவனுக்குப் பெரிதாகத் தெரிகிறது. ௨
+"தந்த கவிதையை அவன் இப்போது கேட்டு இன் (ற முடியமா
+ரவர்த்தி நெப்போலியன்! நெப்போலியன் உன்னிடம் காதல்
+ம்: கேட்டான் - காரிகையே! இப்போது சக்கரவர்த்தி ஒரு
+தமாரியைக் கேட்கிறான், இளவரன் வேண்டுமாம்! பட்டத்
+ன், வாரிசு இன்றியாபோவது. அரசன் மகன் அரசனாக
+ண்டும்! அதத :ஐதீகத்தை'ப் பாழாக்குவானர? கண்
+சரத்தினானே, கரம் பற்றினானே, என்று எண்ணிக்
+
+'சபைனுக்குக் கூறக் கூடியவர்கள், யார்? அவளைச் சூழ இருந்த
+ஏிகள் யாவரும், திகைத்துப் போயினர். நெப்போலியன் இந்தப்
+
+கர முடிவு எடுப்பான் என்று எவரும் எண்ணவில்லை.
+
+நெப்போலியன், ஜோசபைனி...ம், கூறினான்.
+
+. “சாம்ராஜ்யத்தின் நலனுக்காக, சரசாங்கி! நான் உன்னை
+லக்கிவிட்டு, வேறோர் அரசகுடும்பதீது அணங்கைத் திருமணம்
+ப்துகொள்ள முடிவு செய்து விட்டேன். பிரான்சுக்கு ஓர்
+வரசன் தேவை. அவனை அளிக்கும் கடமை எனக்கு
+ருக்கிறது” என்றான்.
+
+_ ஜோசபைன், தன் இல்லற ஜோதி'யாகக் கிடைக்க வேண்டு
+று, மனுவிட்டு நின்றவன்தான் இதே நெப்போலியன்.
+£, இவனை அங்காடியில் சந்தித்து மயக்கினவளல்ல, மலர்ச்
+லையில் கண்ணில் பட்டுக் கருத்தில் சென்று நுழைந்தவளல்ல.
+2சபைன். இருக்குமிடம் அறிந்து சென்று, முகமன் கூறி,
+தீதுவிடக் கூடாது என்று மண்டியிட்டு, அவளை
+முடித்துக் கொண்டவன், இந்த நெப்போலியன்.
+
+## Image 7: 007-c17d052977.png
+
+- Image: `sirukathaigal/bali/007-c17d052977.png`
+
+அவன் ஜோசபைனைப் பெறுவதற்கேற்ற சூழ்நிலை
+அமைந்த கட்டமே, பாவலர்கள் கருத்துக்குச் சுவை தரும் காவியம்
+போன்றது.
+
+இதோ, துவண்டு வீழ்ந்து கி...க்கிறாள், காதகன் காலடி யில்,
+வேறோர் அரண்மனையில், தாதியர் புடை சூழ ஒர் அரசிளங்
+கு.௦ரி, அலங்காரவதியாகிக் கொண்டிருக்கிறாள், கொடியவனுக்கு
+மனையாட்டியாவதற்காக பிரான்சு சக்கரவர்த்தினியாவதற்காக!
+
+கீழே, மூச்சுப் பேச்சற்றுக் கிடக்கும் காரிகை, இந்தக் களம்
+சுற்றிக் கடும் போரிடும் கன்னெஞ்சக்காரனுக்குத தன் இதயத்தைக்
+காணிக்கையாக்கித் த ந்தாள்! வரப் போகிறாள் வேறோர் வனிதை,
+அரண்மனையில் வளரும் அலங்காரப் பொம்மை, காதலை
+அளிக்க அல்ல, 'வாரிசு' பெற்றுத்தர!
+
+பிரான்சு நாட்டுப் பெரிய அதிகாரிகள், ராஜதந்திரம்
+அறிந்தவர்கள், பெண் கேட்கச் சென்று, அந்த அன்னத்தைக்
+கொண்டு வரப் போகிறார்கள். இதோ, சிறகொடிந்த மாடப்புறா
+கீழே சாய்ந்து கிடக்கிறது. நெப்போலியன் இந்தப் பேசும்
+புறாவைக் கொள்ளப் பேசாதனவெல்லாம் பேசினான், முன்பு.
+
+ஜோசபைனுக்கும் நெப்போலியனுக்கும் அறிமுகம் கூட
+
+புரட்சி மலர், நல்லாட்சி எனும் மணம் வீசும் என்று
+கருதப்பட்ட - பிறகு, அது நச்சு மலராகிவிட்டது என்று கூறப்
+பட்டு மக்களை கட்டுத் திட்டத்துக்கு அடக்கி நடந்திடச் செய்யும்,
+படைத்தலைவர் ஆட்சி புகுந்துவிட்ட நேரம். பாரிஸ் பட்டினத்துப்
+பதட்டக்காரர்களை அடக்குவதற்காக நெப்போலியன்
+நியமிக்கப்பட்டிருந்த சமயம்.
+
+அப்போது ஒருநாள், அவன் அலுவலகத்தில் ல், ஒரு வாலிபன்,
+பள்ளி மாணவ பருவத்தினன், வந்தான். . . வந்தனமளித்தான்,
+பணிவுடன் ஒரு மனுச் செய்து கொண்டான்.
+
+“என் தந்ைத, பெருமைக்குரிய அதிகாரியே! புரட்சிக்
+காரரால் கொல்லப்பட்டவர். அரசியல் அமளிகளில் அக்கறை காட்
+டாத ஓர் கண்ணியமான குடும்பம், எம்முடையது. ஒழுங்கை நிலை
+நாட்டும் பேராற்றலால், நாட்டிலே அமைதியை ஏற்படுத்திய
+தங்களிடம், நான் வேண்டுவதெல்லாம், என் தந்தையாரின்
+உடைவாள் திருப்பித் தரப்படவேண்டும் எம்மிடம், என்பதுதான்.
+அவருடைய வீரவாள், எங்கள் குடும்பக் கீர்ததிக்கோர் சின்னம்!
+
+## Image 8: 008-512ea4baed.png
+
+- Image: `sirukathaigal/bali/008-512ea4baed.png`
+
+அந்தக் கருவூலத்தை மீட்டுக் கொண்டு வரும் பணியில் மகன் நான்
+சடுபட்டேன் - அமகுள் கூர்ந்து, வாளை, திருப்பித் தர
+உத்தரவளிக்கக் கோருகிறேன்'' என்றான் வாலிபன்
+சிறுவனென்றே கூறத்தகும் பருவத்தினன்.
+
+நெப்போலியன், வாளைத் தந்தான்-முழங்கரற் படியிட்டு,
+இதைப் பெற்றுக் கொண்ட அந்தச், சிறுவன், அதனை மார்புறத
+தழுவினான், கண்களிலே அதனை ஒஓத்திக் கொண்டான், நெஞ்சு
+நெருக்குருக அதனை நோக்கினான், களிப்புக் கண்ணீர் வழிந்தது.
+நெப்போவியனுக்குத் தனயன் இவ்வளவு போற்றிப்
+பூஜிக்கிறானே! குடும்பக் கீர்ததியிலேதான் இவனுக்கு எவ்வளவு
+பற்று எத்துணை பெருமை! மிக உயர்தரமான குடும்பமாக இருக்க
+வேண்டும், இத்துணை மாண்புபெறும் வகையில் இவளை
+வளர்தீதுள்ள மாதா, வணங்கப்படத் தக்கவள், என்று
+
+எண்ணினான்.
+ம் அவளைக் கண்டான் - காதலிக்கத் தக்கவள் என்று
+ஜோசபைன், கணவனிழந்தவள் - கண்ணின் மணிகள்
+
+போல் இரு புல்லர்களுடன் எளிய ஆனால் பிறர் கரம் எதிர்பாராத
+நிலையில் வாழ்ந்து வந்தாள்.
+அவளுடைய கவர்ச்சியை, விதவைக் கோலம்
+குலைத்துவிடவில்லை; கட்டழகு கெடாத நிலையில். ஆயினும்
+கண்வலை வீசாக் காரிகையாக அவள் வாழ்ந்து வந்தாள். அந்தக்
+கவின் மலரைக் கண்டான் நெப்போலியன், உள்ளத்தை
+அர்ப்பணித்தான்.
+
+அவன் அங்குச் சென்றது, ஒரு மூதாட்டியைக் காண -
+முதுமைக் கோலத்தில், ஜெபமாலையை உருட்டிக் கொண்டு
+கிடக்கும் அம்மையைக் காணச் சென்றான். அழகு மயிலைக்
+கண்டான்! மாண்புள்ளவன் உன் மகன்! மண்டிலம் இவன்
+போன்றாரை அளித்திடும் மாதர்களுக்குக் கடமைப்பட்டிருக்கிறது
+என்று முகமன்கூறச் சென்றான், அவன் கண்டதோ விரித்தாடா
+விடினும் கலாபத்தை இழக்காத நிலையில் உள்ள மயிலாளை!
+முகமன்கூறச் சென்றவன், காதல் பேசிடும் நிலை பிறந்தது.
+
+அவள் அவனை உடனே ஏற்றுக் கொள்ளவில்லை.
+ஈராண்டு மூத்தவள் அவனினும், இரு புதல்வர்களுக்குத தாம்;
+எனவே, போர்வீரனுடைய காதலை ஏற்றுக் கொள்வதா,
+
+## Image 9: 009-084a26a6ad.png
+
+- Image: `sirukathaigal/bali/009-084a26a6ad.png`
+
+எத்தனையோ அலைகள் இதுபோல எழும் என்று கருதி அலட்சி
+யமாக இருந்து விடுவதா என்று அமைதியாக இருந்தே எண்ணிட
+முடிந்தது. முடிவில், தன்னை நெப்போலியனுக்கு அர்ப்பணித்தாள்.
+
+களத்திலே கடும் போரிட்டுக் களைத்துப்போய், இரவு
+படுக்கப் போகும்போதுகூட, நெப்போலியன், ஜோசபைன் பற்றிய
+நினைவு கொண்டு, காதற் கடிதங்கள் தீட்டுவான். அவ்வளவு
+பிரேமை அவனுக்கு. இதோ, வெட்டிச் சாய்த்து விட்டான்.
+பட்டதீதரசியாக வேறோர் முகவெட்டுக் காரியைப் பெறத் திட்ட
+மிட்டுவிட்டான்.
+
+நெப்போலியன், தன் :பிரதாபத்தை'ப் பெரிதாக்கிக்
+கொள்வதற்காகக் கொடுமை பல புரிந்தான் என்று வரலாற்றுச்
+சுவடியினா், காரணம் பல காட்டிக் கூறுகின்றனர். அவன் செய்த
+எல்லாக் கொடுமைகளிலும் ஜோசபைனுக்கு அவன் இழைத்த
+துரோகம் போன்றது.
+
+ஜோசபைன், அரண்மணையை விட்டு வெளியேற
+வேண்டிய நாள் குறிக்கப்பட்டுவிட்டது - அதற்கான உத்தரவு
+
+கண்ணீ௫ுக்குக் கட்டுப்படுபவனல்ல, பேராசைப் பேய்க்கு
+இடமளிததுவிட்ட நெப்போலியன் - பேரரசன்!
+
+நீண்டதோர் அங்கியால் தன்னை முற்றிலும் மறைத்துக்
+கொண்டாள் அந்த மாதரசி.
+
+அரண்மனைப் பணிப்பெண்கள், அழுத கண்ணினராய்,
+மாடிப்படியில் நின்றனர்; ஏதும் பேசவில்லை, பேசும் நிலையில்
+இல்லை, செல்கிறேன் என்று கரமசைத்தாள். அரண் மனையை
+விட்டு வெளியே வத்தாள்.
+
+ஆறு குதிரைகள் பூட்டப்பட்ட வண்டி அவளுடைய
+பயணத்துக்குக் காத்துக் கிடந்தது, ஏறினாள், சென்றாள் -
+இதயத்தைத் தந்தவள், இதயமற்றவனுடைய கொடுமையைச்
+சுமநதுகொண்டு சென்றாள். அந்த நாளை, யார்தான் நினைக்கும்
+போது, நெஞ்சு நெக்குருகாமல் இருக்கமுடியும்.
+
+ஜோசபைன், மனம் குமுறினாள் - சது மதியினைச் சாடவும்,
+அவளுக்கு உரிமை உண்டு - எனினும் அவள், இதயத்தை,
+அர்ப்பணித்து விட்டவள், எனவே தாங்கிக் கொண்டாள்.
+கொடுமையைத் தாங்கிக் கொள்வோம். காலம் பாடம் புகட்
+டட்டும் என்று எண்ணிக் கொண்டாள் போலும்.
+
+## Image 10: 010-8d2f3b6b36.png
+
+- Image: `sirukathaigal/bali/010-8d2f3b6b36.png`
+
+புதிய சக்கரவர்த்தினி கொலு மண்டபம் நுழைந்தாள் -
+ஆஸ்திரிய நாட்டு அரசகுமாரி மேரி லூசியா, கொலு
+
+நெப்போலியன் பெற்ற புகழொளியை அவள் தன்
+மாளிகைக்கு மணிவிளக்காக்கி மகிழ்ந்தாள் - கண்களிலே காதல்
+
+அவர் கடமை, பட்டத்தரசியாக இருப்பதுதானே! அதை
+அவள் வாய்ப்பு இருந்தரையிலே செய்தாள்.
+
+நெப்போலியனுக்கு இறங்கு முகம் கண்டதும் மேரி,
+அவனை விட்டு அகன்றுவிடத் துணிவு பெற்றாள். தெஞ்சில்
+இடமளித்திருந்தால்தானே, அகற்றிவிட இயலாது. மேரிக்கு அந்தச்
+சங்கடம், சஞ்சலம் எழவில்லை.
+
+நெப்போலியனுடைய வீழ்ச்சி, எழுச்சியைவிட வேகமாக
+உருவெடுத்தது. தொட்டதெல்லாம் கெட்டிடக் கண்டான்;
+திக்கெலாம் பகை மூண்டிடக் கண்டான்; வெற்றியன்றி வேறு
+அறியாத படை, நிலைகுலையக் கண்டான்; ரஷிய நாட்டுக்
+கடுங்குளிர் கொட்டிடக் கண்டான்; கொற்றம் அற்று வீழ்ந்து விடும்
+என்று ஆரூடம் கூறினர்; மற்றுமோர் தீரமான தாக்குதல், மகத்தான
+ஒரு வெற்றி, மீண்டும் புகழொளி ஒங்கும் என்று எண்ணி எண்ணி
+காட்டு மலர்போல வாழ்க்கையை நடத்திவந்த ஜோசபைன் தன்
+காதற் கணவர்க்கு வந்துற்ற கதியறிந்து கசிந்து கண்ணீர்
+மல்கினாள். அவனும் அரசபோகம், அது ஊட்டிய அகந்தை, அதன்
+காரணமாகப் புதுப்பண்ணைத தேடிய அக்ரமம், அந்த
+அக்கரமத் திட்டத்துக்காக ஆசைக்கினியவளைத் துரத்திய
+கொடுமை இவைகளை எண்ணினான், கலங்கி யறியாதவன்,
+கலங்கினான்;
+
+ஜோசபைனுக்குத் தன் நிலை குறித்துக் கடிதமும்
+அனுப்பினான்.
+
+அன்று, அரண்மனை மாடியிலிருந்து இறங்கியபோது
+அடைந்ததைவிட அதிகமாக வருந்தமுற்றாள், ஜோசபைன்.
+
+ஜயோ! அவருக்கா இந்தக் கதி? அவனி புகழ்ப் பவனி
+வந்தவருக்கா இந்த நிலை? என்றெல்லாம் எண்ணிதஇ துக்கித்தாள்.
+பறந்தோடி வருவேன், தங்கள் பக்கமிருந்து பணிவிடை புரிவேன்,
+தங்கள் துக்கத்தைப் பங்கிட்டுக் கொள்வேன், துரையே! என்னால்
+
+## Image 11: 011-5e4ae8709a.png
+
+- Image: `sirukathaigal/bali/011-5e4ae8709a.png`
+
+முடியும், என் இதயம் அதற்கு இடமளிக்கும். ஆனால், உலகம் என்ன
+கூறும்? உரிமை கொண்டவள் வேறொருவள் இருக்கிறாளே,
+உதறித தள்ளப்பட்ட நான், தங்களிருப்பிடம் வருவது முறை
+யாகாதே. இதை எண்ணியே கலக்கம் அடைகிறேன் என்ற
+கருத்துப்பட, கடிதம் அனுப்பவும் அந்தக் காரிகைக்கு நற்பண்பு
+இருநதது - இவ்வளவு கொடுமைகளை இழைத்தவனிடம், கொண்ட
+காதலை அவள் மறந்தாளில்லை.
+
+நெப்போலியன், பொறியில் சிக்கிய புலியானான். பொறி
+பலமானது மட்டுமல்ல, புலியின் பல்லும் நகழும் கூடச் சுடர்
+மழுங்கிவிட்ட நிலை.
+
+எல்பா என்னும் இடத்தில் நெப்போலியன் இருக்கிறான் -
+வலிவிழந்து, பொலிவற்று, இருள் சூழ்ந்த நிலையில்.
+
+ஜோசபைன், நோய்வாய்ப்பட்டுக் கிடக்கிறாள்.
+
+நாளெல்லாம் அவன் நினைப்பு போலும் - இரவெல்லாம்
+பழைய நாட்கள் பற்றிய கனவுபோலும். மெலிந்து கிடந்தாள்.
+பூங்கொம்பு பட்டுப்போகும் என்பது தெரிந்துவிட்டது.
+
+அங்கு எல்பாவில் நெப்போலியன். மீண்டும் இவன் எழுவது
+ஏது! அணைந்தது இவன் ஆதிக்கம்! என்று பலரும் கூறிடத்தக்க
+நிலையில் கிடக்கிறான்.
+
+நெப்போலியன், எல்பா சென்று நான்கு கிழமைகள்
+நகர்ந்தன - நோய், ஜோசபைனை அரித்து விட்டது - மனோ
+கரமான ஒர் மாலை, ஜோசபைன் உயிர் பிரிந்தது.
+
+உயிர் பிரியும்போது, அவளுடைய உள்ளத்திலே
+நெப்போலியன் நினைவு, கரத்திலே நெப்போலியன் உருவம்
+பொறிக்கப்பட்ட பதக்கம், உதட்டிலே, “நெப்பே ரலியன்:... . எல்பா...
+நெப்போலியன்!”
+
+29-1-1956
+
+## English Translation
+
+“How did you dare drive me from the palace of your heart, my king? What fault do you find in me? Are these the same eyes from which the light of love once shone, now pouring out this cruelty?
+
+“On the day I accepted you as my husband, were you not merely one among the army commanders who had come from the provinces seeking a place in the royal court? I took you as my beloved then. Now that you have risen to rule a nation, must I be driven away to rule the wilderness?
+
+“Was I not the woman whose heart overflowed at the sight of your ascent? My lord’s valour and resolution have become a great epic. The whole of France lies at my beloved’s feet. Empires surrender before the military storm that travels wherever my husband’s pointing finger directs. The entire world praises the man who dwells in the temple of my heart.
+
+“The world hails him as a man whom no one can subdue, a man of power and fearless heart. Yet its guardian remained bound by my love!
+
+“Whenever I saw those who had mocked me, saying, ‘Could she find only a soldier for a husband? In what battlefield will he lose a leg and become a cripple, or lose an eye and become blind? Did she lack beauty that she married him?’ I would think: ‘Fools, do you see what manner of man my husband is now? Crowns lie at his feet; kings serve as his attendants; kingdoms are flower-balls in his hand!’
+
+“Man of the proud stride! You who planted the flag of victory in all eight directions! Delight of my heart! Light of my life! Lover who gave me a new world! Is it I whom you dare cast away? Me? Your vine of delight? Is this real? Am I seeing an evil dream, or have you truly conceived a wicked thought and resolved to torture me?
+
+“My lord, you cut your enemies to pieces, feed them to eagles and foxes, and dance in triumph crying ‘Victory!’ Is torturing me now another warrior’s diversion, a heroic sport suited to you?
+
+“If you cut me to pieces, there would be no further anguish. Instead, you leave me alive and prepare to drive a thousand spears into my heart. The man whom I beheld again and again with joyful pride as ‘my husband’ will be claimed by another woman as hers. Must I lie in some remote corner, hear it and endure?
+
+“Will another beauty embrace and rejoice in the very body I clasped? Must I writhe while shame and pain pull me apart? Will you stroll through palace and flower garden with a new woman in the evening moonlight while I, cast aside and driven out, sob in the garb of widowhood though my husband lives?
+
+“Will women see me and melt with pity, saying, ‘There goes poor Josephine, rejected by her husband, grieving and helpless’? Will children clap their hands and laugh?
+
+“Beloved, do you not know how many young men yearned for the nectar of my lips before you led me to the city of pleasure? If they now see me driven from the palace, alas, what words of ridicule will they use to kill me?
+
+“I have heard others say that entire nations tremble at the mere name Napoleon. Here I tremble even at the thought of it. Why take the pearl from its shell, let it delight the mind for a while, then smash it to powder and throw it into the mud? I was a pearl within my shell!
+
+“You smiled and spoke; I tried to restrain you. You asked for love; I told myself it was too late in my life. You conquered my heart. My lord, the feast I gave you was not without savour. You say it was fruitless because there is no child.
+
+“I feel ashamed, but I thought perhaps the Lord had refused to let a child intrude upon a life of love that belonged entirely to the two of us. Why did your heart alone begin to think differently?
+
+“My king, you grow bitter because our love has borne no fruit. Let me remind you of one thing. I am a sinner who cannot give you the nectar-fruit of a child, but I am not barren. I have two sons.
+
+“The learned ask whether a rock will melt however often and sweetly one speaks. Noble man who called me ‘honey-tongued one’ in words of affection and sported with me as though asking, ‘Am I victorious only on the battlefield and not in love?’ Do not kill me. Do not render me helpless. I cannot bear it; I have no strength.
+
+“No one with a heart can acquire the courage to lose the radiance of love. When you attained the high station of ruling the land, whom did you bring with you, calling her ‘the woman who dwells in my heart’? Must that very woman now be sacrificed to the demon of office?
+
+“No, king, no! Do not cast me into a burning desert and then anoint your chest with fragrant sandalwood. Do not turn my tears into your rosewater. Do not scorch and destroy my love.
+
+“When you walk with a royal gait through the audience hall beside a brand-new blossom, you cannot fail to think of the woman who lived with you, lived only for you, and now, stripped of honour, staggers towards a pit of death. You certainly cannot.
+
+“My lord, that thought will not leave you in peace. Your crown will become a crown of thorns; your throne a seat of serpents; your ceremonial hall a chamber of cruelty; your heart will shatter into fragments.
+
+“Yes, I swear upon pure love. After betraying me, you cannot discover a new fragrance in life and remain happy. We were created for one another.
+
+“Need I remind you that any woman who now comes to you will not come from love? She will seek Napoleon, guardian of an empire, because marriage to him brings rank, authority, wealth and influence. She will not rejoice in the sight of you as I did. She will delight in the palace jewels, the attendants standing with folded hands and the doll-like courtiers waiting in the royal assembly. She will not delight in you. I certainly saw you, received your heart and rejoiced. The woman who comes now will come for the possessions heaped around you.
+
+“As your station rises, my lord, must the love within your heart dry up? What kind of justice is this? Was I fit to be your companion only while you were an ordinary soldier fighting fiercely in battle? The moment you became an enthroned sovereign, did you require another woman? We wear one garment in the rainy season and another in spring. Does noble love lodged in the heart change in the same way? I cannot even imagine it. Who planted this thought?
+
+“Mighty king, many will now pour affection and attachment upon you because of your elevation. Can you believe it genuine? We see among humankind the birds that descend upon a ripened field, bats that circle when a tree bears fruit, herons that wait in stillness and spiders that weave their nets. Someone among that company has changed your heart.
+
+“No, warrior raised by victory, do not roast my heart. You may think: ‘What can this foolish woman do? If no one possesses the power to oppose me on the battlefield, what can she do except pour out tears?’
+
+“Beloved, these tears are unlike any weapon you have yet seen. They possess the power to burn into ash even the deceit that builds a fortress of stone around its heart and hides inside.
+
+“Do not mock me as delirious. Do not be surprised if madness seizes me and I roam the broad streets of Paris remembering old days, singing songs of love, embracing lampposts, my clothes slipping and hair dishevelled as I dance in ruin. What happens to a small child rolled down from a mountain summit? Is my mind not in that condition?”
+
+A thousand thoughts boiled within Josephine, but she could not utter a single word. She cried “Ah!” as faintness overcame her. She fell and lay without breath or speech. Napoleon too was stunned.
+
+Josephine had borne no child to him. The French Empire had no prince.
+
+Napoleon was emperor. He had brought France victory and fame. The Revolution had been crushed; the new order had been cut down; he had become an emperor. This warrior who began his journey as a soldier still had another traditional achievement to secure as sovereign. Napoleon had failed to provide that victory. There was no child, no heir.
+
+What would become of the empire won by spending all his strength, treating dangers as dust and fighting battle after battle, if Napoleon had no heir? This poisonous thought entered his heart and grew swiftly. He reached a disastrous decision: he would cast Josephine aside and marry a princess. She would become a mother and bear France a prince. The dynasty would endure.
+
+He resolved to carry it out. Once Napoleon decided, who could stop him?
+
+Napoleon had always wandered in search of the light of glory. The great demon of ambition, the craving for fame, burned like flame in his heart. What was love itself if it obstructed the success of his design? It must be crushed and thrown away. Was that not Napoleon’s method?
+
+How could the woman beside him know it? The beauty who became empress when he became emperor believed her husband capable of anything. He might make his heart iron for every other deed, but towards her he would remain the beloved who showered affection.
+
+Foolish woman! What he now considered great was the legacy of a dynasty. Could Emperor Napoleon still listen with pleasure to the poetry she gave him? Napoleon had once asked her for love. Now the emperor asked for a princess because he wanted a prince. The throne must not lack an heir. A king’s son must become king. Would he ruin that “sacred tradition” merely because he had gazed into her eyes and held her hand?
+
+Who among those around Josephine could tell her this? Everyone was stunned. No one had imagined that Napoleon would reach so cruel a decision.
+
+Napoleon told Josephine:
+
+“Enchantress, for the welfare of the empire I have decided to put you aside and marry a woman from another royal family. France needs a prince. I have a duty to provide him.”
+
+This was the same Napoleon who had once stood petitioning Josephine to become the “lamp of his home.” She had not enchanted him in a marketplace or happened into his thoughts when he saw her in a flower garden. Napoleon had sought her residence, gone to her, praised her, knelt and pleaded that she not refuse him, and married her.
+
+The very circumstances through which he obtained Josephine were like an epic that would delight a poet’s mind.
+
+Now she lay collapsed at the feet of the betrayer. In another palace, surrounded by maids, a young princess adorned herself to become the cruel man’s wife and Empress of France.
+
+The beauty lying below without breath or speech had offered her heart to this hard-hearted man who travelled from field to field waging fierce war. Another woman was about to arrive, a decorated doll raised in a palace, not to offer love but to provide an “heir.”
+
+The great officers of France, men learned in diplomacy, would go to ask for her hand and bring that swan to him. Here lay the dovecote’s bird with broken wings. In earlier days Napoleon had said every imaginable thing to win this speaking dove.
+
+Josephine and Napoleon had first become acquainted when the flower of revolution, once expected to spread the fragrance of good government, was said to have turned poisonous, and military rule had entered to force the people under rigid discipline. Napoleon had been appointed to suppress the agitators of Paris.
+
+One day, a young man, almost a schoolboy, came to his office. He bowed and made a humble petition:
+
+“Honoured officer, my father was killed by the revolutionaries. Ours is a respectable family that took no interest in political turmoil. You have established peace in the country through your great power to restore order. I ask only that my father’s dress sword be returned to us. His valiant sword is a symbol of our family honour. As his son, I have undertaken the task of recovering that treasure. I beg you to examine the matter and order the sword returned.”
+
+Napoleon gave him the sword. The boy knelt to receive it, clasped it to his chest, pressed it to his eyes and gazed at it with a melting heart as tears of joy flowed.
+
+Napoleon thought: “How reverently this son worships his father’s sword! What attachment and pride he has in his family’s honour. It must be a family of the highest quality. The mother who raised him to such nobility deserves reverence.”
+
+He saw her and found her worthy of love.
+
+Josephine was a widow, living simply with her two children, the jewels of her eyes, yet without depending upon another’s hand. Widowhood had not destroyed her charm; her shapely beauty remained. Even so, she lived without casting nets with her eyes.
+
+Napoleon saw that flower of beauty and surrendered his heart.
+
+He had gone there expecting to meet an elderly woman, an old mother turning the beads of a rosary. Instead he found a beautiful peacock. He had gone to offer praise: “Your son is noble. The nation is indebted to mothers who give it men like him.” He found a peahen who, though she did not spread her train and dance, had lost none of her splendour. The man who came to praise her began speaking of love.
+
+She did not accept him at once. She was two years older and the mother of two sons. Should she accept the soldier’s love, or disregard it as merely one among the many waves that rise and vanish? She considered calmly. In the end she gave herself to Napoleon.
+
+Even after fighting fiercely all day and retiring exhausted at night, Napoleon would remember Josephine and write love letters. Such was his passion.
+
+Now he had cut her down and planned to obtain another sharply beautiful woman as empress.
+
+Historians supply many reasons while saying Napoleon committed numerous cruelties to enlarge his “glory.” Of all those cruelties, none resembled his betrayal of Josephine.
+
+The day on which Josephine must leave the palace was fixed, and the order issued. Emperor Napoleon, who had made room for the demon of ambition, was not a man restrained by tears.
+
+That queenly woman covered herself completely in a long cloak. The palace maids stood upon the staircase with tearful eyes. They said nothing; they were in no state to speak. Josephine waved farewell, left the palace and entered the six-horse carriage waiting for her journey.
+
+The woman who had given her heart departed bearing the cruelty of the heartless man. Who could remember that day without a melting heart?
+
+Josephine’s mind seethed. She had every right to condemn the crooked mind that had wronged her. But she had already surrendered her heart, and so she endured. Perhaps she thought, “Let me bear the cruelty. Let time teach its lesson.”
+
+The new empress entered the ceremonial hall: Marie Louise, princess of Austria. She made the light of Napoleon’s fame a jewelled lamp for her palace and rejoiced. There was no love in her eyes.
+
+Her duty was merely to remain empress, was it not? She performed it while the opportunity lasted.
+
+When Napoleon’s decline began, Marie found the courage to leave him. Only if she had given him a place in her heart would removal have been impossible. Marie suffered no such difficulty or agitation.
+
+Napoleon’s fall took shape faster than his rise. He watched everything he touched turn bad. He saw hostility blaze in every direction. His army, which had known nothing but victory, lost its footing. The cruel cold of Russia descended. Prophets said his sovereignty would disappear and he would fall. He kept imagining another determined attack, one magnificent victory, and the renewed ascent of his fame.
+
+Josephine, who lived like a wild flower, learned the fate that had overtaken the husband she still loved and wept until tears filled her eyes.
+
+He too remembered the luxury of empire, the arrogance it had fed, the wrongdoing through which he sought a new bride, and the cruelty with which he drove away the woman dear to his desire for the sake of that unjust design. The man who had never known distress became distressed. He sent Josephine a letter describing his condition.
+
+Josephine suffered more than she had on the day she descended the palace stairs.
+
+“Alas, has this fate come to him? Has this condition befallen the man who rode in a procession of worldwide fame?” she thought in grief.
+
+She possessed the goodness to send him a letter saying, in substance:
+
+“I could fly to you, remain at your side, serve you and share your sorrow, my lord. My heart would permit it. But what would the world say? Another woman possesses that right. It would not be proper for me, the woman cast away, to come to your dwelling. Only this thought leaves me troubled.”
+
+She had not forgotten her love for the man who inflicted so much cruelty upon her.
+
+Napoleon became a tiger caught in a trap. The trap was not merely strong; the tiger’s teeth and claws had lost their brilliance.
+
+Napoleon remained at Elba, stripped of strength and splendour, surrounded by darkness.
+
+Josephine lay ill.
+
+By day she seemed to think only of him; by night she appeared to dream of the old days. She wasted away. It became clear that the flowering branch would wither.
+
+There at Elba, Napoleon lay in a condition that made many say, “How can he ever rise again? His dominion is extinguished.”
+
+Four weeks passed after Napoleon went to Elba. Disease consumed Josephine. On a beautiful evening, her life departed.
+
+At the moment of death, Napoleon was in her mind. In her hand was a medallion bearing his likeness. Upon her lips were the words:
+
+“Napoleon... Elba... Napoleon!”
+
+29 January 1956

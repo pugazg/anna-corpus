@@ -1,0 +1,138 @@
+# தேனீ பொதுக்கூட்ட உரை / Theni Public Meeting Speech
+
+**Tamil title:** தேனீ பொதுக்கூட்ட உரை  
+**English title:** Theni Public Meeting Speech  
+**Source file:** `sorpozhivugal/thaeni_pothu.md`
+
+## Source Tamil (verbatim)
+
+- Source image folder: `/Users/pugazhendhirajendran/Documents/Codex/2026-07-09/https-www-annavinpadaippugal-info/outputs/annavin_text_extractor/ocr_images/sorpozhivugal/thaeni_pothu`
+- OCR language: `tam`
+- Tesseract page segmentation mode: `3`
+- OCR cleanup: `enabled`
+
+## Image 1: 001-cdc5872a54.png
+
+- Image: `sorpozhivugal/thaeni_pothu/001-cdc5872a54.png`
+
+94
+
+தேனீ பொதுக்கூட்ட உரை
+
+23-9-1963 அன்று கலைஞருக்கு வீரவாளும் கேடயமும்
+பரிசளித்து நிகழ்த்திய உரை
+“கழக வரலாற்றிலேயே கருணாநிதியின் தொண்டு நல்ல
+இடத்தைப் பெற்றுள்ளது. அவர் ஆற்றிவரும் பணியின்
+காரணத்தினால்தான் இந்தியாவிலேயே தி, மூ. கழகம் ஒரு
+கேள்விக்குறியாக இருக்கிறது.
+இந்தியத் துணைக்கண்டத்திலேயே இப்படிப்பட்ட
+ஜனநாயகக் கட்சி வேறு இல்லை என்ற நிலை இருக்கிறதென்றால்,
+அதற்குக் கருணாநிதியின் தொண்டும் காரணமாகும்.
+
+என்னைப் பொறுத்தவரையில், அவரது தொண்டிலேயே
+மறக்கமுடியாத நிகழ்ச்சி எது என்றால், திருவண்ணாமலை
+வெற்றிக்கு உழைத்தது மட்டுமல்ல - மாநகராட்சி நம்வசம் ஆக
+அவர் ஆற்றிய தொண்டும் அல்ல - அவர் சிறு வாலிபராகக்
+கொள்கைப் பிரச்சாரம் நடத்தியபோ து அவரது பிரச்சாரத்தால்,
+முறுக்கேறிய காங்கிரசார் அவரை 'அடி, அடி'யென அடித்து அள்
+தொலைந்துவிட்டான் எனக் கருதும் அளவிற்கு உதைத்து,
+காங்கிரசுக் கொட்டத்தை அம்பலப்படுத்தும் போக்கிரிச்
+சிறுவனை ஒழித்துவிட்டோம் என்று இரத்தம் பீரிடும்
+அளவுக்குப் புதுவையில் காட்டுமிராண்டித்தனமாக -
+வெறித்தனமாகத் தாக்கிய சம்பவம்தான்.
+
+தம்பி கருணாநிதியை அண்ணன் பாராட்டுகிறேன்
+என்றால், எடுத்த காரியத்தை எல்லாம் சிறப்புடன் செய்து
+முடிக்கும் திறமை பெற்றவர் கருணாநிதி என்பதுதான் காரணம்.
+
+கருணாநிதியின் சிறப்பியல்புகளை எல்லாம் கழகத்
+தோழர்கள் அனைவரும் பெறவேண்டும்.
+
+தகுதியுள்ள கருணாநிதிக்கு அளிக்கப்படும் இந்த
+வீரவாளும், கேடயமும் அவருடைய _சிறப்பியல்புக்கு
+எடுத்துக்காட்டாக அமைந்துள்ளன.
+
+## Image 2: 002-187b82ce2c.png
+
+- Image: `sorpozhivugal/thaeni_pothu/002-187b82ce2c.png`
+
+ஓரே குடும்பத்திலுள்ள நாம், ஒவ்வொருவரும் ஒவ்வொரு
+துறையிலும் சிறப்பானவர்கள்.
+
+நல்ல தமிழ் பேசவேண்டுமா - நாவலர் இருக்கிறார்;
+உருக்கமாகப் பேசவேண்டுமா - கருணாநிதி இருக்கிறார்
+சண்டமாருதம் போலப் பேசவேண்டுமா சண்முகம் இருக்கிறார்;
+மாணவர்களுடைய தொடர்பு வேண்டுமா - மதியழகன்
+இருக்கிறார்.
+
+இதையேதான், கருணாநிதி அவர்கள் வீரவாளைப்
+பெற்றபோது; “நான் ஒருவன் மட்டும் இந்த வாளைப்பெறத் தகுதி
+பெற்றவன் அல்ல - பலர் இருக்கிறார்கள்” என்றார்,
+
+வண்ணங்கள் பல இருந்தாலும், அந்த வண்ணங்கள் மூலம்
+நல்ல ஓவியத்தை உருவாக்க ஓவியப் புலவன் தேவை; அதுபோல
+ஒரு கட்சியில் பலதரப்பட்டவர்கள் இருந்தாலும், அவர்களைச்
+சிறப்பாகச் செயல்படவைக்கும் திறமையுள்ளவர்கள் வேண்டும்.
+கருணாநிதி, அந்தச் சிறப்புக்களை நன்கு பெற்றவர்களில் ஒருவர்.
+
+உடலிலே உள்ள உறுப்புக்கள், எதையும் நின்று பற்று
+கின்றவை. உதாரணமாக, காது வருகின்ற ஒலியை நின்று கேட்ட
+பிறகுதான் உணரும்; வாயும் அப்படித்தான்; அனால், கண்மட்டும்
+தொலைவில் உள்ள காட்சியை, தானே உணரும்.
+
+கண்ணைப்போன்று, கருணாநிதி எதையும் அவ்வளவு
+சிறப்பாகச் செய்வார். கலைத்துறையிலே கருணாநிதி பெற்ற புகழ்
+கொஞ்சமல்ல; பராசக்தி மூலம் அவர் அடைந்த புகழோடு
+மேலும் பல திரைப்படங்களாலும் புகழை அடைந்தார்.
+
+கருணாநிதி அவர்கள் அந்தப் புகழை நம்பி அந்தத்
+துறையிலேயே சென்றிருந்தால் பணத்தோடும் வாழலாம் - பகட்
+டோடும் வாழலாம்; ஆனால், அவர் கொண்ட இலட்சியத்தை
+மறந்துவிடவில்லை. இலட்சிய நடிகர் எஸ். எஸ். இராசேந்திரன்
+அன்று கட்சியில் என்ன பற்றுக்கொண்டி ருந்தாரோ, அந்தப்
+பற்றுடன்தான் இருக்கிறார்! சர்க்கசுக்காரன் உயரத்திலே
+விளையாடினாலும் பூமியிலேதான் இறங்கவேண்டும். விளை
+யாடும்பொழுதுகூட சர்க்கசுக்காரன் பூமியைப் பார்த்தபடிதான்
+இருப்பான். பூமியைப் பார்க்காமல் மேலேயே பார்த்துச்
+செல்பவன் பபூன்தான்! அவன்தான் தடுமாறி விழுவான்! அந்த
+ரகத்தைப் போன்று அல்லாது, கழகத்தை மறவாது. எந்தப்
+புகழுக்கும் மயங்காது பணியாற்றுபவர் கருணாநிதி
+அவர்களாவார்.
+
+## English Translation
+
+Speech delivered on 23-9-1963 while presenting Kalaignar with a ceremonial sword and shield:
+
+“In the history of the Kazhagam, Karunanidhi’s service has earned an honoured place. It is because of the work he has performed that the D.M.K. stands as a question mark before all India.
+
+“If a condition exists in which there is no other democratic party of this kind anywhere in the Indian subcontinent, Karunanidhi’s service is one reason for it.
+
+“As far as I am concerned, the unforgettable event in his service is not merely his labour for the victory at Tiruvannamalai, nor the work he performed to bring the Corporation under our control. It is the incident in Pondicherry when, as a young man conducting ideological propaganda, enraged Congressmen beat him again and again, kicked him until they thought the man had disappeared, and attacked him barbarously and frenziedly until blood gushed forth, imagining that they had eliminated the troublesome youth who exposed Congress arrogance.
+
+“If an elder brother praises younger brother Karunanidhi, the reason is that Karunanidhi possesses the ability to complete every undertaking with distinction.
+
+“All comrades of the Kazhagam must acquire Karunanidhi’s excellent qualities.
+
+“This ceremonial sword and shield presented to the deserving Karunanidhi stand as emblems of his distinction.
+
+“Within our one family, each of us excels in a different field.
+
+“If fine Tamil must be spoken, there is Navalar. If one must speak movingly, there is Karunanidhi. If one must speak like a raging storm, there is Shanmugam. If contact with students is needed, there is Mathiazhagan.
+
+“Karunanidhi himself said the same thing when he received the ceremonial sword: ‘I alone am not worthy of receiving this sword; there are many others.’
+
+“Though there may be many colours, a master painter is needed to create a fine painting from them. Likewise, though a party may contain people of many kinds, it needs those capable of making them function effectively. Karunanidhi is one of those who possess that distinction abundantly.
+
+“The organs of the body perceive most things only after they have reached them. For example, the ear perceives a sound only after it arrives and is heard; so too the mouth. But the eye alone perceives for itself a scene at a distance.
+
+“Like the eye, Karunanidhi accomplishes anything with such distinction. The fame Karunanidhi has gained in the arts is no small thing. In addition to the fame he attained through *Parasakthi*, he gained renown through many more films.
+
+“Had Karunanidhi trusted in that fame and remained in that field alone, he could have lived with money and ostentation. But he did not forget the ideal he embraced. Idealistic actor S. S. Rajendran remains with the same attachment to the party that he possessed then.
+
+“Though a circus performer plays high above the ground, he must descend to the earth. Even while performing, the circus artist keeps looking at the ground. Only the clown goes on looking upward without watching the earth; he is the one who stumbles and falls! Karunanidhi is not of that kind. He works without forgetting the Kazhagam and without being intoxicated by any fame.”
+
+## Translator's Notes
+
+The source is a complete edited public-meeting speech ending with the circus metaphor.
+Political and biographical claims are translated in the speaker’s voice and are not independently verified here.
+“பபூன்” is the period transliteration of “buffoon”; “clown” conveys its circus role in this context.

@@ -1,0 +1,1 @@
+../../md_pages/katturaigal/ediyan_dollat.md

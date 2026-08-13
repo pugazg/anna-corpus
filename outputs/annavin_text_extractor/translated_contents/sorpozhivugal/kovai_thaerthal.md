@@ -1,0 +1,363 @@
+# கோவை தேர்தல் சிறப்பு மாநாடு / Coimbatore Special Election Conference
+
+**Tamil title:** கோவை தேர்தல் சிறப்பு மாநாடு  
+**English title:** Coimbatore Special Election Conference  
+**Source file:** `sorpozhivugal/kovai_thaerthal.md`
+
+## Source Tamil (verbatim)
+
+- Source image folder: `/Users/pugazhendhirajendran/Documents/Codex/2026-07-09/https-www-annavinpadaippugal-info/outputs/annavin_text_extractor/ocr_images/sorpozhivugal/kovai_thaerthal`
+- OCR language: `tam`
+- Tesseract page segmentation mode: `3`
+- OCR cleanup: `enabled`
+
+## Image 1: 001-b7b1981fde.png
+
+- Image: `sorpozhivugal/kovai_thaerthal/001-b7b1981fde.png`
+
+௦௦
+
+கோவை தேர்தல் சிறப்பு மாநாடு
+
+16-12-1967 அன்று கோவையில் தேர்தல் சிறப்பு மாநாட்டில்
+அறிஞர் அண்ணா அவர்களின் தலைமை உரை சுருக்கம்
+வருமாறு:-
+
+நான், இன்றைய நிகழ்ச்சியைப் பார்க்கும்போது,
+பேராசிரியர் சுந்தரம்பிள்ளை அவர்கள் கூறியிருப்பதுதான் என்
+நினைவுக்கு வந்தது. "இப்படை தோற்கின் எப்படை ஜெயிக்கும்'
+என்ற அவரது சொல்லில் எனக்குத் தளராத நம்பிக்கை ஏற்படுகிறது.
+
+நீங்கள் எனக்குக் கொடுக்கும் ஒத்துழைப்பால், நீங்கள்
+காட்டும் ஆதரவால், உற்சாகத்தால் நான் காரியமாற்றி வருகிறேன்.
+
+உங்களுடைய திறமையால் - ஆற்றலால் எதையும் சாதிக்க
+முடியும் என்று திடமுூடன் நம்புகிறேன். பிப்ரவரித் தங்களில்
+நடைபெறும் தேர்தலில் நாம் நல்ல வெற்றியைக் காண்போம்
+என்பதில் சந்தேகமில்லை.
+
+இந்தத் தேர்தலில் ஆச்சாரியாருடனும், கம்யூனிஸ்டுக
+ளுடனும் உறவு கொண்டுவிட்டேன் என்று அவர்கள் பேசியும்
+எழுதியும் வருகிறார்கள்.
+
+ஒரு அரசியல் தலைவர், மற்றொரு அரசியல் தலைவரைப்
+பார்க்கக்கூடாதா? அப்படிப் பார்ப்பதால் அரசியல் கருத்துக்களை
+மாற்றிக்கொள்ளவா செய்வார்கள்? அப்படி, நினைப்பது அரசியல்
+தெரியாத அறிவிலித்தனம் என்றுதான் கூறவேண்டும்.
+
+நான் ஒன்று கூற அசைப்படுகிறேன்; சுதந்திரா கட்சியடனோ,
+கம்யூனிஸ்ட் கட்சியடனோ பேசச் சந்தர்ப்பம் கிடைத்தால்
+பேசவும் செய்வேன்.
+
+## Image 2: 002-762ac50313.png
+
+- Image: `sorpozhivugal/kovai_thaerthal/002-762ac50313.png`
+
+காங்கிரசை ஒழிக்க எல்லாக் கட்சிகளுடனும் பேசுவோம்.
+அப்படிப் பேசுவதால் தம்முடைய இலட்சியத்தை மாற்றிக்கொள்ள
+மாட்டோம்.
+
+சர்வாதிகாரத் தன்மையில் நடந்துவரும் காங்கிரசை
+ஒழித்துக்கட்ட 1962அம் அண்டுத் தேர்தலில், நாம் மிகவும்
+ஓற்றுமையாகப் பாடுபடவேண்டும். இன்று காங்கிரஸ் கட்சி,
+களைத்து இளைத்துப்போய் இருக்கிறது. அதை வீழ்த்துவதற்காக
+மற்ற கட்சிகளுடன் உடன்பாடு செய்துகொள்வது தவறாகாது.
+
+“இந்த நேரத்தில் கடைசியாக உங்களுக்கெல்லாம் ஓன்று கூற
+ஆசைப்படுகிறேன். எது ஏற்பட்டாலும் சரி, ஏற்படாவிட்டாலும்
+சரி - உங்களுடைய கடமையிலிருந்து நீங்கள் நழுவிவிடக்கூடாது.
+1962 தேர்தலில் நமக்குத்தான் அதிகப் பொறுப்பு இருக்கிறது.
+அதை நீங்கள் மறந்துவிடக்கூடாது. அந்தந்த மாவட்டங்களில்
+உள்ளவர்கள் தங்கள் தொகுதிகளில் நிற்கும் நமது வேட்பாளர்கள்
+வெற்றிவாகை சூடப் பாடுபடவேண்டும். எதிரிகளின் பண
+பலத்தையோ சூழ்ச்சிகளையோ கண்டு பயப்படத் தேவை இல்லை.
+நமது இலட்சியம் மிகத் தூய்மையானது. அது கடைசியில்
+வெற்றிபெற்றே தீரும் என்று உங்களுக்குச் சொல்லிக்கொள்வதுடன்
+வேற்றுமைகளை மறந்து ஒற்றுமையாகப் பாடுபடும்படிக்
+கேட்டுக்கொள்ளுகிறேன்” என்று கூறி முடித்தார்.
+அண்ணா விடுத்த வேண்டுகோள்
+
+'நான் இன்று உங்கள்முன் வாசித்த தேர்தல் அறிக்கைக்கு
+முழு ஒப்புதலையும் தந்தீர்கள். அடுத்து, 78 இடங்களுக்குப்
+போட்டியிடும் வேட்பாளர்களின் பெயர்களைக் கூறியதும் -
+மகிழ்ச்சிப் பெருக்கால் ஆரவாரம் செய்து வரவேற்றீர்கள்.
+உங்களுக்கு ஏற்பட்டுள்ள மகிழ்ச்சி, வரவேற்கக்கூடியதுதான்.
+என்றாலும், உங்கள் முன் உள்ள பொறுப்பை மகிழ்ச்சியில்
+மறந்துவிடக்கூடாது. நமது வேட்பாளர் வெற்றிபெற நீங்கள்
+பாடுபடவேண்டும். நம்மிடம் பணமில்லை - வாகன வசதிகள்
+இல்லை - பத்திரிகை பலம் இல்லை. அனால், மக்களின்
+தூய்மையான நல்லெண்ணமும் ஒத்துழைப்பும் நம் பக்கம்
+இருக்கின்றது; நமக்கு வெற்றியைத் தேடிக் கொடுப்பவைகளும்
+அவைகளேயாகும்.
+
+நான் இன்று 78 இடங்களுக்கு மட்டும் வேட்பாளர்களின்
+பெயர்களை வெளியிட்டேன். அடுத்து, விரைவில் மற்ற
+
+## Image 3: 003-705f623c55.png
+
+- Image: `sorpozhivugal/kovai_thaerthal/003-705f623c55.png`
+
+இடங்களில் யார் யாரை நிறுத்துவதென்பதை வெளியிடுவேன்
+என்பதையும் உங்களுக்குத் தெரிவித்துக் கொள்ளுகிறேன்.
+
+புடம் போட்டு எடுக்கப்பட்ட தோழர்கள், நம்முடைய
+கழகத்தின் சார்பில் தேர்தலுக்கு நிற்கிறார்கள். ஓட்டிவைக்கப்
+பட்டவர்கள் காங்கிரஸ் கட்சியின் சார்பிலே நிற்கிறார்கள்.
+
+மக்களுக்கு அறிமுகமானவர்கள் நம்முடைய கழகத்தின்
+சார்பிலே நிற்கிறார்கள் - மக்களுக்கு அறிமுகமாக வேண்டியவர்கள்
+காங்கிரசின் சார்பிலே நிற்கிறார்கள்.
+
+ஊருக்கு உழைக்கின்றவர்கள் முன்னேற்றக் கழகத்தின்
+சார்பிலே நிற்கிறார்கள் - ஊர் வாழ்ந்தால் நாம் வாழ முடியாது
+என்று எண்ணக்கூடிய உத்தமர்கள், காங்கிரஸ் கட்சியின்
+சார்பிலே நிற்கிறார்கள்!
+
+பொதுத் தொண்டைத் தங்களுடைய வாழ்க்கைத்
+தொண்டாக ஏற்றுக் கொண்டவர் நமது கழகத்தின் சார்பிலே
+நிற்கின்றார்கள் - பொதுத் தொண்டிலே. பழக்கமில்லாதவர்
+காங்கிரஸ் கட்சியின் சார்பிலே நிற்கிறார்கள்.
+
+இதனை நான் உங்களுக்குச் சொல்லுவது, உங்களுக்குத்
+தெரியாது என்பதாலல்ல - நீங்கள் இதனைத் தெளிவாக நாட்டு
+மக்களுக்குச் சொல்லவேண்டும் என்பதால்தான் இதை நான்
+உங்களிடம் இவ்வளவு விளக்கமாக எடுத்துச் சொன்னேன்.
+
+அடுத்து இந்த ஐந்து மாத காலத்தில் நாட்டிலே
+ஏற்பட்டிருக்கிற முக்கியமான அரசியல் சூழ்நிலைகளை நீங்கள்
+உங்கள் கவனத்திற்குக் கொண்டுவர வேண்டுமென விரும்பி
+வேண்டிக் கேட்டுக் கொள்கிறேன்.
+
+இந்த நாட்டு மக்களை, ஓன்றும் அறியாதவர்கள் என்று
+நினைத்துக்கொண்டு தி. மூ. கழகத்தினர் என்ன செய்தார்கள்? -
+என்ன செய்வார்கள்? என்று கேட்கிறார்கள். ஆளும்
+கட்சியினரான காங்கிரசார்! எதிர்க்கட்சியான தி. மு. கழகம் என்ன
+செய்யவேண்டும் என்று அவர்கள் எதிர்பார்க்கிறார்கள்?
+
+கண் பார்க்கிறது - காது கேட்கிறது! - கால் நடக்கிறது!
+வாய் பேசுகிறது, பார்ப்பதும் கேட்பதும், அதற்குரிய கடமையாகும்.
+எனவே காலைப்பார்த்து வாய், நான் பேசுகிறேன் - அதனால்தான்
+நீ நடக்கிறாய்; நான் இல்லாவிட்டால் நீ இல்லை என்று பெருமை
+பேசினால் அதில் பொருள் இல்லை.
+
+## Image 4: 004-29b74bfcc6.png
+
+- Image: `sorpozhivugal/kovai_thaerthal/004-29b74bfcc6.png`
+
+அந்தந்த அவயவங்களுக்கு உரிய வேலை அது; அது சரிவரச்
+செயல்படுகிறதா? என்றுதான் பார்க்க வேண்டும். நடக்கிற
+காலைப்பார்த்து, எழுதத் தெரியுமா? என்றும், எழுதுகிற கையைப்
+பார்த்து, நடக்கத் தெரியுமா? என்றும் கேட்பதும் முறையாகாது.
+
+அதைப்போல்தான் எதிர்க்கட்சியைப் பார்த்து, என்ன
+செய்தாய்? என்று கேட்பதும் சரியாகாது.
+
+ஆளுகிற கட்சிதான் வரிவாங்குகிற கட்சியாக இருக்கிறது.
+அதிகாரிகளை நியமிப்பது என்பனபோன்ற உரிமைகள்
+அதற்குத்தான் இருக்கின்றன. ஆக, ஆளுகிற கட்சிதான், நாங்கள்
+இன்னின்ன செய்தோம் - அகவே எங்களுக்கு வாக்கு அளியுங்கள்
+என்று சொல்லி வாக்காளர்களைக் கேட்க வேண்டும்.
+
+நாங்கள் ஆளும் கட்சியானால் என்னென்ன செய்வோம் -
+என்று எங்கள் தேர்தல் அறிக்கையில் சொல்லி இருக்கிறோம்;
+அவை சரி என்று பட்டால் எங்களை ஆளும் கட்சியினராக
+அனுப்புங்கள்.
+
+இல்லை, இல்லை; நீங்கள் எதிர்க்கட்சியாக இருந்து, நல்ல
+பொல்லாததைப் பார்த்துச் சொல்லுங்கள்; அதுபோதும் என்றால்
+அதையும் ஏற்றுக் கொள்ளுகிறோம்.
+
+எனவே, இவர்கள் இன்னும் சில ஆண்டுக்காலத்திற்குத்தான்
+மக்களை இப்படி ஏமாற்றிக்கொண்டிருக்க முடியும். மக்களுக்கு
+இப்போதே பல விவரங்கள் தெரிந்துவிட்டன. இன்னும் சில
+அண்டுகளுக்குள் எல்லா விவரங்களும் தெரிந்துவிடும் - அப்புறம்
+ஏமாற்ற முடியாது.
+
+எதிர்க்கட்சியாக இருந்து என்னென்ன செய்ய வேண்டுமோ,
+அதற்கான இலட் சணங்களை நாங்கள் பெற்றுச் சட்டமன்றத்திலே
+பணியாற்றியிருக்கிறோம். கண்டிக்க வேண்டியதைக் கண்டித்து -
+பாராட்ட வேண்டியதைப் பாராட்டியும் வந்திருக்கிறோம்.
+சட்டமன்றத்தின் நடவடிக்கைகளே இதற்குத் தக்க சான்றாகும்.
+
+இராமன் காலத்தில் இரயில் இல்லை. தசரதன் காலத்தில்
+தபால் வசதி கிடையாது - அரிச்சந்திரன் காலத்தில் ஆகாய
+விமானம் இருந்ததில்லை; இதை எல்லாம் காட்டி, எங்களையா
+- ரயில் போட்ட எங்களையா - தபால் வசதி ஏற்படுத்திக்கொடுத்த
+எங்களையா - ஆகாய விமானத்தை ஓஒட்டிக்காட்டிய எங்களையா
+போகச் சொல்லுகிறீர்கள்? என்று கேட்டான் வெள்ளைக்காரன்.
+அவன் காட்டிய விமானத்திலேயே மூட்டைகட்டி. அவனை
+
+## Image 5: 005-cf7ac2ad95.png
+
+- Image: `sorpozhivugal/kovai_thaerthal/005-cf7ac2ad95.png`
+
+அனுப்பி வைக்கவில்லையா? அவன் போட்ட ரெயிலிலேயே
+அவனை ஏற்றி அனுப்பி வைக்கவில்லையா?
+
+வெள்ளையன் என்ற (பேய்' பிடித்திருந்ததாகவே வைத்துக்
+கொள்வோம் - பேய் என்று ஓன்று கிடையாது - நோய்தான்
+பேய் அக்கப்பட்டுவிட்டது. வெள்ளையன் என்ற பேயைக்
+காங்கிரஸ் என்ற பூசாரி ஒட்டி விட்டதாகவே வைத்துக்
+கொள்வோம்.
+
+- பேயை ஒட்டிவிட்டதற்காகப் பூசாரி, பெண்ணைக்
+கேட்டால் கொடுப்போமா? பிடித்த பேயை விரட்டி விட்டேன்;
+இனி நான் பிடித்துக்கொள்ளுகிறேன் என்று சொன்னால்,
+பூசாரியின் பேச்சை ஏற்பார் உண்டா?
+
+அதனால்தான் பேய் ஓட்டிய உடனே பூசாரி வீட்டுக்குப்
+போவதுபோல் காங்கிரஸ் கட்சி சுதந்திரம் கிடைத்ததும்
+கலைக்கப்பட வேண்டுமென்றார் காந்தியார். செய்தார்களா?
+இல்லையே! பதவி அசையல்லவா பிடித்துக்கொண்டிருக்கிறது!
+
+இன்றையக் காங்கிரசின் மூலம் பட்டம் பதவி பெற்றவர்கள்
+எல்லாம், அன்றையதினம் அடி.பட்டவர்களா? - இல்லையே!
+
+நான் பச்சையப்பன் கல்லூரியிலே படித்துக் கொண்
+டிருந்தபோது சைனாபஜாரிலே நடந்த வெளிநாட்டுத்
+துணிக்கடை மறியலைப் பார்த்திருக்கிறேன். அன்றைய தினம்
+மறியல் செய்த தொண்டர்களை, கையைப் பிடித்துக்கூட அல்ல
+- காலைப் பிடித்துப் பரபரவென்று இரத்தம் சொட்டச் சொட்ட
+- இழுத்துச் சென்றதைப் பார்த்திருக்கிறேன். அப்படி யெல்லாம்
+அடி உதைபட்டுக் கஷ்டப்பட்ட தொண்டர்களா இன்று
+காங்கிரசில் இருக்கிறார்கள்?
+
+அவர்களிலே சிலர் செத்துவிட்டார்கள்? இன்றையக்
+கொடுமைகளைப் பார்த்துச் சிலர், வேறிடங்களுக்குப் போய்
+விட்டார்கள். வேறு சிலர், வெளியே சொன்னால் வெட்கக்கேடு,
+நினைத்தாலும் துக்கக்கேடு என்று மனத்திற்குள்ளேயே எண்ணிப்
+பொருமிக்கொண்டிருக்கிறார்கள்? இடையில் வந்தவர்கள்தான்
+இப்போது குளிர் காய்ந்து கொண்டிருக்கிறார்கள்.
+
+1957 தேர்தலுக்கும் - 1962 தேர்தலுக்கும் இடையில்
+காங்கிரஸ் கட்சியின் செல்வாக்கு எந்த அளவுக்குச் சரிந்திருக்கிறது
+என்பதை, காங்கிரஸ் பட்டியலை ஆராரப்ந்து பார்த்தால்
+ஏறக்குறைய 100க்கு 40 பங்கு அளவில் பஸ் முதலாளிகளாகத்தான்
+
+௫
+
+## Image 6: 006-ed3eec510a.png
+
+- Image: `sorpozhivugal/kovai_thaerthal/006-ed3eec510a.png`
+
+இருப்பார்கள்! இந்தக் கோவை நகரத்திற்கும் ஒரு பஸ்
+முதலாளிதான் நிறுத்தப்பட்டிருக்கிறார்! காஞ்சிபுரத்தில்
+நிற்பவரும் ஒரு பஸ் முதலாளிதான்! நம்முடைய நண்பர்
+ஏ. கோவிந்தசாமியை வளவனூரில் எதிர்த்து நிற்பவரும் ஒரு பஸ்
+முதலாளிதான்! இப்படிப்பட்டவர்கள் காங்கிரஸ் கூட்டத்தில்
+மேடையில் அமர்ந்திருக்கும்போது பேச்சாளர்கள்தான் இவர்களை
+அறிமுகப்படுத்துகிறார்கள். இல்லையானால் இவர்களை மக்கள்
+அறிந்திருப்பதற்கில்லை.
+
+உழைப்பவர்களை நாம் நம்புகிறோம் - ஊளர்க்குடி
+கெடுப்பவர்களை அவர்கள் நம்புகிறார்கள்! பாட்டாளிகளை நாம்
+நம்புகிறோம் - பணக்காரர்களை அவர்கள் நம்புகிறார்கள்!
+தொழிலாளர்களை நாம் நம்புகிறோம் - முதலாளிகளை அவர்கள்
+நம்புகிறார்கள்! ஏழை எளியவர்களை நாம் நம்புகிறோம் - ஆலை
+அரசர்கள், மோட்டார் மன்னர்களை அவர்கள் நம்புகிறார்கள்!
+குயிலின் இனிமை, மயிலின் நடனம் ஆகியவைகளை நாம்
+நம்புகிறோம் - கோட்டானின் கூக்குரல், ஆந்தையின் அலறல்
+ஆகியவைகளை அவர்கள் நம்புகிறார்கள்.
+
+1962 ஆம் அண்டு நடக்கவிருக்கும் தேர்தலில் போட்டி
+தி. மு. கழகத்திற்கும் காங்கிரசுக்கும் அல்ல; பண நாயகத்திற்கும்
+ஜனநாயகத்திற்கும்தான்; இந்தப் போட்டியில் நாங்கள் அம்புகள்
+- உறுப்பினர்கள் அதன் அங்கங்கள்! நீங்கள் விரும்பி இந்தக்
+கட்சியை ஆளுங் கட்சியாக மாற்றவேண்டுமென்று கருதினால்,
+நாங்கள் உங்களுக்குக் கருவியாக விளங்குவோம். நீங்கள் விரும்பி
+ஆட்சியை எங்களிடம் ஒப்படைத்தால், நன்றியுணர்ச்சியோடு
+ஏற்றுச் செயல்புரிவோம். எதிர்க்கட்சியாகப் பணியாற்ற வேண்டும்
+என்று கட்டளையிட்டாலும். அதனையும் நன்றியுணர்வோடு
+ஏற்றுக்கொள்வோம்.
+
+நம்மை வீழ்த்தலாம் என்ற பேராசை காங்கிரசுக்கு
+இருக்கிறது. நீங்கள் பயிற்சி பெற்றால் - வீரர்கள் ஆவீர்கள்;
+சூரர்களாவீர்கள் என்பதை நான் அறிவேன். நாங்கள் எழுதுவதை
+எல்லாம் எழுதியாகிவிட்டது; பேசுவதை எல்லாம் பேசியாகி
+விட்டது. எனவே, நீங்கள் படித்ததைக் கேட்டதை மற்றவர்களுக்குச்
+சொல்லி வெற்றியைத் தேடித் தாருங்கள் என்று அண்ணா
+அவர்கள் உரையாற்றினார்கள்.
+
+## English Translation
+
+Summary of Arignar Anna’s presidential address at the Special Election Conference in Coimbatore on 16 December 1961:
+
+“As I look upon today’s event, I remember the words of Professor Sundaram Pillai: ‘If this force is defeated, what force can win?’ His saying gives me unshakable confidence.
+
+“I have been able to act because of the cooperation you give me and the support and enthusiasm you display.
+
+“I firmly believe that your skill and strength can accomplish anything. I have no doubt that we will achieve a fine victory in the election to be held in February.
+
+“They speak and write that, in this election, I have entered into relations with Rajaji and the Communists.
+
+“May one political leader not even meet another? Does meeting mean that they exchange their political convictions? Such thinking must be called the ignorance of people who do not understand politics.
+
+“I wish to say one thing: if an opportunity arises to speak with the Swatantra Party or the Communist Party, I will do so.
+
+“We will speak with every party in order to remove Congress. Speaking with them does not mean that we will change our ideal.
+
+“In the 1962 election, we must work in great unity to remove Congress, which has been proceeding in an authoritarian manner. Today the Congress Party is tired and weakened. There is nothing wrong in reaching agreements with other parties in order to defeat it.
+
+“Finally, at this moment, I wish to tell all of you one thing. Whatever happens or does not happen, you must not slip away from your duty. We bear the greater responsibility in the 1962 election; you must not forget it. People in each district must work so that our candidates in their constituencies wear the garland of victory. There is no need to fear our opponents’ money power or intrigues. Our ideal is very pure, and in the end it must triumph. I ask you to forget differences and work in unity.”
+
+Anna’s Appeal
+
+“You gave your complete approval to the election manifesto I read before you today. Then, when I announced the names of candidates contesting seventy-eight seats, you welcomed them with an outburst of joyful applause. Your happiness is welcome, but you must not forget the responsibility before you amid that joy. You must work for our candidates’ victory. We have no money, vehicles, or press power. But the people’s pure goodwill and cooperation are on our side, and those are what will bring us victory.
+
+“Today I announced candidates for only seventy-eight seats. I also inform you that I will soon announce who will stand in the remaining constituencies.
+
+“Comrades tested in the furnace stand for election on behalf of our Kazhagam. Those who have merely been pasted into place stand for Congress.
+
+“People already known to the public stand for our Kazhagam; people who still need to be introduced to the public stand for Congress.
+
+“Those who labour for the town stand for the DMK. Those noble souls who seem to think, ‘If the town prospers, we cannot prosper,’ stand for Congress!
+
+“Those who have made public service their life’s work stand for our Kazhagam. Those without experience of public service stand for Congress.
+
+“I do not tell you this because you do not know it. I explain it at such length because you must state it clearly to the people of the country.
+
+“Next, I earnestly ask you to draw attention to the important political circumstances that have arisen in the country during these five months.
+
+“Congress members, the ruling party, imagine that the people know nothing and ask, ‘What did the DMK do? What will it do?’ What do they expect an opposition party to do?
+
+“The eye sees, the ear hears, the leg walks, and the mouth speaks. Seeing and hearing are the duties of the organs concerned. It would be meaningless if the mouth looked at the leg and boasted, ‘I speak, and that is why you walk; without me, you do not exist.’
+
+“Each organ has its appropriate work; we need only see whether it performs that work properly. It is unreasonable to ask the walking leg whether it knows how to write, or the writing hand whether it knows how to walk.
+
+“Likewise, it is wrong to look at an opposition party and ask, ‘What have you done?’
+
+“The ruling party is the party that collects taxes. It alone possesses powers such as appointing officials. Therefore, the ruling party must approach voters and say, ‘We did these things; therefore, vote for us.’
+
+“In our manifesto, we have stated what we will do if we become the ruling party. If those proposals appear right, send us to govern.
+
+“If you say, ‘No, remain in opposition, observe what is good and bad, and speak about it; that is enough,’ we will accept that too.
+
+“They can deceive the people in this manner for only a few more years. The people already know many facts. Within a few years they will know everything, and then they cannot be deceived.
+
+“We possess the qualities required of an opposition and have worked accordingly in the Legislature. We have condemned what deserved condemnation and praised what deserved praise. The proceedings of the Legislature themselves provide suitable evidence.
+
+“There were no railways in Rama’s time, no postal service in Dasaratha’s time, and no aeroplanes in Harischandra’s time. The British pointed to all this and asked: ‘Do you tell us to leave, we who built the railways, established postal facilities, and showed you the aeroplane?’ Did we not bundle them onto the very aircraft they showed us and send them away? Did we not put them aboard the very trains they built and send them away?
+
+“Let us suppose that the ‘spirit’ called the white man had possessed us. Spirits do not exist; illness has merely been labelled a spirit. Let us nevertheless suppose that the priest called Congress drove out the white spirit.
+
+“Would we give the priest the woman merely because he drove out a spirit? If he said, ‘I drove away the spirit that possessed her; now I will possess her,’ would anyone accept the priest’s words?
+
+“That is why Gandhi said that, just as a priest goes home after exorcising a spirit, the Congress Party should dissolve after independence was won. Did they do so? No. The desire for office seized them instead.
+
+“Were all those who gained titles and positions through today’s Congress the people who endured blows in those days? No.
+
+“When I studied at Pachaiyappa’s College, I witnessed the picketing of foreign-cloth shops in China Bazaar. I saw the volunteers who picketed dragged away, not even by their hands but by their legs, roughly across the ground while blood dripped from them. Are those volunteers who suffered such beatings and hardship in Congress today?
+
+“Some of them have died. Seeing today’s cruelties, some have gone elsewhere. Others think and seethe inwardly, believing it shameful to speak outside and sorrowful even to remember. Those who entered midway are the ones warming themselves at the fire today.
+
+“If one examines the Congress candidate list to see how far the party’s influence has declined between the 1957 and 1962 elections, nearly forty out of every hundred appear to be bus proprietors. A bus proprietor has been fielded in Coimbatore city. The candidate in Kanchipuram is also a bus proprietor. The person standing against our friend A. Govindasamy in Valavanur is another bus proprietor. When such people sit on the platform at Congress meetings, the speakers must introduce them. Otherwise, the people would not know them.
+
+“We trust working people; they trust those who ruin the village community. We trust labourers; they trust the wealthy. We trust workers; they trust capitalists. We trust the poor and ordinary; they trust factory emperors and motor kings. We trust the sweetness of the cuckoo and the dance of the peacock; they trust the hoot of the horned owl and the shriek of the owl.
+
+“The contest in the 1962 election is not between the DMK and Congress; it is between plutocracy and democracy. In this contest, we are the arrows and the members are its limbs. If you choose to make this party the ruling party, we will serve as your instruments. If you entrust the government to us, we will accept and act with gratitude. If you command us to serve as the opposition, we will accept that too with gratitude.
+
+“Congress harbours the ambition of defeating us. I know that, when trained, you will become warriors and heroes. We have written everything we needed to write and spoken everything we needed to speak. Therefore, tell others what you have read and heard, and bring us victory.”
+
+## Translator's Notes
+
+The Tamil OCR source is preserved verbatim in the bilingual output. Image 1 verifies the date as 16-12-1961, not 1967; the repeated references to the forthcoming 1962 election support the same reading. Clear contextual readings used only in English include “பிப்ரவரித் தங்களில்” as the February election, “புடம் போட்டு எடுக்கப்பட்ட” as tested in the furnace, “ஓட்டிவைக்கப்பட்டவர்கள்” as people pasted or placed into candidacy, and “ஊளர்க்குடி கெடுப்பவர்கள்” as those who ruin the village community. Political, electoral, institutional, biographical, and historical assertions are translated in the source voice and have not been independently verified.

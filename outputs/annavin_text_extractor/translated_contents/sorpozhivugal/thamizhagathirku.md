@@ -1,0 +1,298 @@
+# தமிழகத்திற்கு ஒளிமயமான எதிர்காலம்! / A Bright Future for Tamil Nadu
+
+**Tamil title:** தமிழகத்திற்கு ஒளிமயமான எதிர்காலம்!  
+**English title:** A Bright Future for Tamil Nadu  
+**Source file:** `sorpozhivugal/thamizhagathirku.md`
+
+## Source Tamil (verbatim)
+
+- Source image folder: `/Users/pugazhendhirajendran/Documents/Codex/2026-07-09/https-www-annavinpadaippugal-info/outputs/annavin_text_extractor/ocr_images/sorpozhivugal/thamizhagathirku`
+- OCR language: `tam`
+- Tesseract page segmentation mode: `3`
+- OCR cleanup: `enabled`
+
+## Image 1: 001-4ec1d9f545.png
+
+- Image: `sorpozhivugal/thamizhagathirku/001-4ec1d9f545.png`
+
+134
+“தமிழகத்திற்கு ஒளிமயமான
+
+எதுர்காலம்/”
+
+1967 - ஆம் ஆண்டு “சட்டத் தமிழ்ச் சொற்பொருட்
+களஞ்சிய” நூல் வெளியீட்டு விழாவில் ஆற்றிய
+சொற்பொழிவு :
+
+தமிழ் எல்லாத் துறைகளிலும் ஆட்.சி செய்ய அடிப்படைத்
+தத்துவத்துக்கு ஆக்கமும் - ஊக்கமும் கொடுக்கத்தான் இந்தச்
+சட்டச் சொற்பொருட் களஞ்சிய நூலினை வெளியிடுகிறோம்.
+
+இவ்விழா நாம் எடுத்துக்கொண்ட முயற்சிகளிலெல்லாம்
+மிக முக்கிய முயற்சியாகும்.
+
+இவ்விழாவிற்குத் தலைமை தாங்கும் நமது உயர்நீதிமன்ற
+நீதிபதி அனந்தநாராயணன் அவர்கள் நல்ல தமிழ்ப்பற்று
+உடையவர்கள். இந்த நூலின் தமிழ்ச்சொல் ஆக்கத்திற்குத்
+தமிழோடு இரண்டறக் கலந்து பெரும் பணியாற்றி
+பெருந்துணையாக இருந்திருக்கிறார்கள்.
+
+நாடும் - நாமும் அவருக்கு மிகவும் கடமைப்
+பட்டிருக்கிறோம்.
+சட்டத்துறையில் - சட்ட நுணுக்கத்தில் மிகவும்
+
+உயர்ந்திருப்பது போல் தமிழ்ப் பற்றிலும் நமது தலைமை நீதிபதி
+அவர்கள் மிகவும் உயர்ந்தவர்கள்.
+
+தமிழில் முதன் முதலில் வெளியிடப்பட்ட கதைப்
+புத்தகத்தை எழுதியவர் இவருடைய தந்தையார் ஆவார்.
+
+விரல்விட்டு எண்ணக்கூடிய நல்ல தமிழ்க் குடும்பத்தைச்
+சேர்ந்தவர்களில் இவரும் ஒருவர்.
+
+இவர்களெல்லாம் சேர்ந்து நல்ல முறையில் சட்டத் தமிழ்ச்
+சொல் ஆக்கியது குறித்து தமிழகத்திற்கு ஒளிமயமான எதிர்காலம்
+
+## Image 2: 002-ef49a29725.png
+
+- Image: `sorpozhivugal/thamizhagathirku/002-ef49a29725.png`
+
+இருக்கிறது என்பது உள்ளங்கை நெல்லிக்கனி போலத் தெள்ளத்
+தெளிவாகத் தெரிகிறது.
+
+சட்டச்சொல் முழுவதற்கும் விரைவில் தமிழ்ச்சொல்
+கஇடைத்துவிடும்/
+
+வழக்கு மன்றத்தில் வாதாடுபவர்கள் - வழக்கைக் கேட்டுத்
+தீர்ப்புக் கூறும் நீதிபதிகள் நல்ல தமிழைப் பயன்படுத்த நல்ல
+சூழ்நிலை உருவாகிறது. அதற்காக என் பாராட்டுக்களைத்
+தெரிவித்துக் கொள்கிறேன்.
+
+கல்வி அமைச்சர் சொன்னபடி. அனைத்திந்தியாவுக்கும்
+உள்ள ஒரு சொல் வேண்டியதுதான்.
+
+அதைவிடுத்து அதுவும் இருக்கும் இதுவும் இருக்குமென்றால்
+இரண்டு உணர்ச்சிகளும் - இணைந்து இழைந்து போகாமல் சில
+ஆபத்துக்கள் ஏற்படக்கூடும்.
+
+எது எதற்கு அனைத்திந்தியா தேவை என்பதை முதலில்
+நினைவில் வைத்துக் கொள்ள வேண்டும்.
+
+சட்டச் சொற்களும் பொறியியல் சொற்களும் ஆங்கிலத்தி
+லிருந்தும் பிறமொழியிலிருந்தும் மாற்றிவரும் நேரத்தில்
+டில்லியில் பணியாற்றுகின்ற இதைப்போன்ற குழு பெடரேசன்
+என்ற சொல்லுக்கு அனைத்திந்தியாச் சொல்லைக் கண்டுபிடிக்க
+மூன்று நாட்கள் யோசித்தது.
+
+ஏனென்றால் அனைத்திந்திய மொழியில் உருவாக்க
+வேண்டுமானால் மராட்டியிலிருந்தும், வங்கத்திலிருந்தும் -
+குசராத்திலிருந்தும் இப்படிப் பல மொழிகளிலிருந்தும் எடுத்துக்
+கொள்ள வேண்டும்.
+
+அந்த நல்ல நோக்கத்தின் விளைவாக பெடரேசன் என்ற
+ஆங்கிலச் சொல்லுக்குத் தமிழகத்திலிருந்து சென்ற ஒருவர் சங்கம்
+என்ற வார்த்தையைப் பயன்படுத்தலாம் என்றார். உடனே
+வங்காளி பேசுவோர் அது கூடாதென்று மறுத்தனர்.
+
+உடனே இவர் கழகம் என்று சொல்லலாம் என்றார். இதைக்
+கேட்டவர்கள் அனைவரும் கழகமா என்று வியப்புற்றனர்.
+
+உடனே அவர் இருபது ஆண்டு வளர்ச்சியில் வந்த
+சொல்லல்ல இந்தச் சொல் - கடைச்சங்க காலத்திலும் -
+
+## Image 3: 003-5493e3e7e3.png
+
+- Image: `sorpozhivugal/thamizhagathirku/003-5493e3e7e3.png`
+
+புராணங்களிலும், இதிகாசங்களிலும் இருக்கிறது என்று விளக்கம்
+
+கூறினார்.
+
+இவர் இப்படி. விளக்கம் கூறியதும் கழகம் என்ற சொல்
+வேண்டாம் சங்கம் என்ற சொல்லே இருக்கட்டும் என்று
+கூறினார்.
+
+எதற்கு இதைச் சொல்கிறேன் என்றால் மொழிபெயர்ப்பில்
+கூட தமிழகத்தைக் கவனிக்கின்றனர் இந்திய நாட்டு மக்கள்.
+
+ஆங்கிலப் பேரறிஞன் 'ஓட்ஸ்' என்ற தானியத்திற்குப்
+பொருள் கூறும்பொழுது ஸ்காட்லாந்தில் மிருகங்களுக்கும்
+இங்கிலாந்தில் மனிதர்களுக்கும் உணவாக இருக்கும் பொருள்
+என்றார்.
+
+ஆனால் ஆராய்ச்சிக்கு விரிந்து - பரந்து இடங் கொடுக்கும்
+தமிழில் அனைத்திந்தியச் சொற்களைக் கண்டு பிடிக்கலாம் என்று
+கூறுகின்றனர்.
+
+இந்த உலகத்தில் தமிழன் ஒருவன்தான் தான் இருக்கவும் -
+பிறர் இருப்பதற்கும் வீடு கட்டுவான்.
+
+திரு. வி. க. சொன்னதுபோல் வெளியூரிலிருந்து வருபவர்
+களுக்காகவும் - தங்க இடம் இல்லாதவர்களுக்காகவுமே வீட்டில்
+திண்ணைகளைக் கட்டினான்.
+
+அதுபோலத் தமிழும், தனக்கும் - பிற மொழிக்கும் இடங்
+கொடுக்கிறது.
+
+அனைத்திந்திய உறவு என்பது எந்தெந்த மட்டத்தில்
+இருக்கும் என்பதில் தெளிவு ஏற்பட்டால்தான் உண்மை புரியும்.
+
+அகில இத்தியா என்று சொல்லும்போ து நமக்கே ஒரு ஐயம்
+ஏற்படுகிறது. இதுவும் இந்தியாதான் என்று!
+
+இத்தியாவைச் சொல்வது போல ஜெர்மனி போன்ற
+நாடுகளை அகில ஜெர்மனி அகில ரசியா என்று சொல்வதில்லை.
+
+எது எதற்கு அனைத்திந்திய உணர்ச்சி வேண்டும் என்பதை
+ஆராய வேண்டும்.
+
+அலகாபாத்தில் வாழ்கின்ற உத்தரப் பிநதேசத்துக்காரன்,
+பூனாவில் வாழ்கின்ற மராட்டியர் - திருவனந்தபுரத்தில் வாழ்கின்ற
+
+்
+
+## Image 4: 004-e9dd365f43.png
+
+- Image: `sorpozhivugal/thamizhagathirku/004-e9dd365f43.png`
+
+கேரள நாட்டார் சட்டமன்றத்தில் நின்றுகொண்டு தங்களுக்குள்
+சொல் புரிகிறதா என்று கேட்கப் போவது இல்லை.
+
+அப்படி. ஆகிவிட்டால் என்ன செய்வது என்றுதான் இந்த
+முயற்சியில் ஈடுபட்டுள்ளோம்.
+
+நான் தனியாக முன்பு டில்லிக்குச் சென்ற பொழுது காசிப்
+பேட்டையைத் தாண்டியவுடன் அவர்கள் பேசிய மொழி
+எனக்குப் புரியவில்லை.
+
+அவர்கள் என்ன கேட்கிறார்கள்? தண்ணீருக்கு என்ன
+சொல்கிறார்கள் என்பதைக் கண்கூடாக அறிந்து சொல்லிப்
+பழகிப் பார்த்தே டி.ல்லியில் வேண்டியதைக் கேட்டுப் பெற்றேன்.
+
+திரும்பி வரும்பொழுது காசிப்பேட்டையுடன் அந்த
+மொழியைப் போட்டுவிட்டுத் தெலுங்கையும் தமிழையும் எடுத்து
+வந்தேன்.
+
+நாமாக அனைத்திந்தியச் சொற்கள் - அனைத்திந்தியச்
+சொற்கள் என்று வாதாடுகிறோம். நாளாவட்டத்தில் இந்தச்
+சொல்லாராய்ச்சியில் தெளிவு ஏற்பட்டுவிடும்.
+
+நீதிமன்றத்திலே அறங்கூறு மன்றம் என்ற பிரிவு ஒன்று
+உளது. அதற்கு உள்துறை அமைச்சர் அவர்கள் மத்திய
+அரசிலிருந்தால் 'லோக்பால்' என்றும், மாநில அரசிலிருந்தால்
+'லோக் அயூகத் என்றும் சொல்ல வேண்டுமென்றார்.
+
+உடனே கேரள முதலமைச்சர், இந்தச் சொல் எங்களைப்
+போன்றவர்களுக்குத் தெரியாது - எல்லா மாநில மக்களுக்கும்
+தெரியும்படிச் சொல்லுங்கள் என்றார்.
+
+நாட்டு மக்களுக்குப் புலப்படாத இத்தகைய வார்த்தைகளை
+இப்படிப் புகுத்தினால்தான் இந்திய ஒருமைப்பாட்டுணர்ச்சி
+ஏற்படும் என்று புகுத்துகிறார்கள்; இது வெறுக்கத்தக்க அளவுக்கு
+இன்று இருக்கிறது.
+
+பல்வேறு துறைகளில் தமிழ் ஆட்சிமொழி ஆக
+வேண்டுமென்பதற்காகவும் - குறிப்பாகவும் சிறப்பாகவும் சட்ட
+மன்றத்தில் தமிழுக்கு முதலிடம் கொடுக்கிறோம். சட்டத் தமிழ்ச்
+சொற்களைக் கண்டு பிடிக்கிறோம்.
+
+இந்த அரிய முயற்சியில் ஈடுபட்ட அனைவரையும் இந்த
+விழா மூலம் பாராட்டி வாழ்த்தக் கடமைப்பட்டுள்ளேன்.
+
+## English Translation
+
+Speech delivered in 1967 at the release ceremony of the *Glossary of Tamil Legal Terms*:
+
+We are publishing this glossary of legal terminology in order to give strength and encouragement to the fundamental principle that Tamil must govern in every sphere.
+
+Among all the efforts we have undertaken, this ceremony marks a particularly important one.
+
+Justice Ananthanarayanan of our High Court, who presides over this function, has a deep devotion to Tamil. Immersing himself inseparably in Tamil, he has rendered great service and provided immense assistance in the creation of the Tamil terms in this book.
+
+Both the country and we ourselves owe him a profound debt.
+
+Just as our presiding judge occupies an eminent position in law and in the subtleties of jurisprudence, he is also eminent in his devotion to Tamil.
+
+His father wrote the first storybook to be published in Tamil.
+
+He is one of the members of the few distinguished Tamil families that can be counted on one's fingers.
+
+Because all these people have joined together and created Tamil legal terminology so ably, it is as plain as a gooseberry in one's palm that Tamil Nadu has a bright future.
+
+Tamil equivalents will soon be found for the whole body of legal terminology.
+
+A favourable environment is being created in which advocates who argue cases and judges who hear them and deliver decisions can use good Tamil. I offer my appreciation for that achievement.
+
+As the Education Minister said, a common term for all India is indeed necessary.
+
+If, instead, both that term and this one coexist, the two sentiments may fail to blend and merge, and certain dangers may arise.
+
+We must first remember which matters truly require something common to all India.
+
+While legal and engineering terms were being rendered from English and other languages, a similar committee working in Delhi deliberated for three days to find an all-India term for the word “federation.”
+
+For a term to be formed in an all-India language, it would have to draw upon Marathi, Bengali, Gujarati, and many other languages.
+
+With that good intention, a delegate from Tamil Nadu suggested that the word “sangam” could be used for the English word “federation.” Bengali speakers immediately rejected it.
+
+He then suggested the word “kazhagam.” Everyone who heard it exclaimed in surprise, “Kazhagam?”
+
+He explained at once that this was not a word that had emerged during the past twenty years; it was found even in the age of the last Sangam, in the Puranas, and in the epics.
+
+After he gave this explanation, they said, “We do not want the word *kazhagam*; let the word *sangam* remain.”
+
+Why do I tell you this? Because even in translation, the people of India take notice of Tamil Nadu.
+
+When defining the grain called “oats,” an English scholar said that it was something fed to animals in Scotland and eaten by people in England.
+
+Yet they say that Tamil, which offers broad and expansive scope for research, can supply all-India terminology.
+
+In this world, the Tamil alone builds a house both for himself and for others to inhabit.
+
+As Thiru. Vi. Ka. said, the Tamil built raised verandas on the house precisely for visitors from other places and for those who had nowhere to stay.
+
+In the same way, Tamil makes room both for itself and for other languages.
+
+The truth can be understood only when we are clear about the levels at which an all-India relationship should operate.
+
+When someone says “all India,” a doubt arises even in us: is this, too, India?
+
+When speaking of countries such as Germany, no one says “all Germany” or “all Russia” in the manner in which “all India” is used.
+
+We must examine which matters require an all-India sentiment.
+
+A person from Uttar Pradesh living in Allahabad, a Marathi living in Pune, and a person of Kerala living in Thiruvananthapuram are not going to stand in their respective legislatures and ask whether they can understand one another's words.
+
+We are engaged in this effort precisely because we must decide what is to be done if matters come to such a pass.
+
+When I once travelled alone to Delhi, I could not understand the language spoken after I crossed Kazipet.
+
+By observing what people were asking, learning what they called water, and practising the words, I managed to ask for and obtain what I needed in Delhi.
+
+On my return journey, I left that language behind at Kazipet and brought Telugu and Tamil back with me.
+
+We ourselves keep arguing for “all-India terms, all-India terms.” As time passes, clarity will emerge from this study of terminology.
+
+There is an institution in the judicial sphere called an ombudsman. The Home Minister said that it should be called “Lokpal” at the central-government level and “Lok Ayukta” at the state-government level.
+
+The Chief Minister of Kerala immediately replied, “People like us do not know these words. Call it something that the people of every state can understand.”
+
+They introduce such words, which the people of the country cannot comprehend, claiming that this is how a sense of Indian unity will be created. Today this has reached a repellent extent.
+
+To make Tamil the language of administration in various fields, we give Tamil first place especially in the legislature and seek out Tamil legal terms.
+
+Through this ceremony, I am duty-bound to praise and congratulate everyone who has participated in this rare undertaking.
+
+## Translator's Notes
+
+The clean title is “தமிழகத்திற்கு ஒளிமயமான எதிர்காலம்!” The OCR misreads “எதிர்காலம்” in the heading and introduces slash punctuation; the Tamil source block remains unchanged.
+
+“சட்டத் தமிழ்ச் சொற்பொருட் களஞ்சியம்” is rendered descriptively as *Glossary of Tamil Legal Terms*. The exact published English title of the 1967 volume has not been independently verified.
+
+“உள்ளங்கை நெல்லிக்கனி” is a Tamil image for something unmistakably clear; it is translated literally with its meaning evident from context.
+
+The printed source attributes to an unnamed English scholar the statement that oats feed animals in Scotland and people in England. This reverses the familiar wording associated with Samuel Johnson. The English translation follows the Tamil source as printed and does not silently repair the quotation.
+
+“அறங்கூறு மன்றம்” is interpreted contextually as an ombudsman institution because the following lines name Lokpal and Lok Ayukta.
+
+Historical, linguistic, and political assertions are translated in the speaker's voice and have not been independently verified.

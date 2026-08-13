@@ -1,0 +1,1 @@
+../../md_pages/sorpozhivugal/jananayakama_pananayakama.md

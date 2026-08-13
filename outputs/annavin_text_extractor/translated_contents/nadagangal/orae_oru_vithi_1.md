@@ -1,0 +1,408 @@
+# ஒரே ஒரு வித்தியாசம் / Only One Difference
+
+**Tamil title:** ஒரே ஒரு வித்தியாசம்  
+**English title:** Only One Difference  
+**Source file:** `nadagangal/orae_oru_vithi_1.md`
+
+## Source Tamil (verbatim)
+
+- Source image folder: `/Users/pugazhendhirajendran/Documents/Codex/2026-07-09/https-www-annavinpadaippugal-info/outputs/annavin_text_extractor/ocr_images/nadagangal/orae_oru_vithi_1`
+- OCR language: `tam`
+- Tesseract page segmentation mode: `3`
+- OCR cleanup: `enabled`
+
+## Image 1: 001-9c8a525434.png
+
+- Image: `nadagangal/orae_oru_vithi_1/001-9c8a525434.png`
+
+ஒரே ஒரு வித்தியாசம்
+
+(மராட்டிய மாவீரன் சிவாஜியை மிரட்டிப் பணிய வைக்க,
+காகபட்டர் எனும் ஆரிய குருவினால் முடிந்தது!
+
+நாடு அன்றிருந்த நிலையில், ஆரிய ஆதிக்கத்தை எதிர்க்க
+முடியும் என்கிற நம்பிக்கை, நாடாளுவோருக்கே இருந்ததில்லை!
+
+பலருக்கு, இத்தகைய ஆதிக்கம் இழிவையும் இடரையும்
+தருவது என்ற எண்ணமே ஏற்பட்டதில்லை!
+
+அப்படிப்பட்ட நாட்களில், ஆரிய ஆதிக்கத்துக்கு உரமளித்த
+மனுவின் திட்டத்தைப் பற்றி, காகபட்டர் ஆசிரமத்தில், குருவும்
+சிஷ்யனும் பேசிக் கொண்டிருப்பதாக உள்ள ஒரு கற்பனைக்
+காட்சி.
+
+“சந்திரமோகன்” நாடகத்தில், நேரத்தின் அளவு கருதி, இந்தப்
+பகுதி இணைக்கப்படவில்லை.)
+
+இடம்: காகபட்டர் ஆஸ்ரமம்.
+
+இருப்போர்: காகபட்டர், ரங்கு.
+
+நிலைமை: (காகபட்டர் பழம் சாப்பிட்டுக் கொண்டே
+சுவடிகளைப் படித்து ரசித்துக்கொண்டிருக்கிறார். ரங்கு, குரு
+சாப்பிடும் பழத்தின் சுவையை எண்ணியபடி ஏக்கத்துடன்
+இருக்கிறான். காகபட்டர், சுவடியிலே எதையோ படித்துப்
+பெரிதும் ரசித்தபடி...)
+
+காகபட்டர்: ரங்கு! எவ்வளவு அருமை, எவ்வளவு
+இனிமையாக இருக்கு தெரியுமோ!
+
+(குரு பழத்தின் சுவையைத்தான் கூறுகிறார் என்று எண்ணிக்
+கொண்டு)
+
+ரங்கு: எனக்கெப்படி ஸ்வாமி தெரியும். (பெருமூச்சு
+எறிகிறான்.)
+
+(குரு, ரங்குவின் கண்கள் பழத்தின் மீது செல்வது கண்டு,
+நிலைமையைப் புரிந்து கொண்டு, புன்னகை புரிந்து...)
+
+## Image 2: 002-00d70aa167.png
+
+- Image: `nadagangal/orae_oru_vithi_1/002-00d70aa167.png`
+
+காக: மண்டு! என்ன சொல்கிறேன் என்பதைப் புரிந்து
+கொள்ளாமலேயே பேசுகிறாயே.
+
+ரங்கு: பழத்தின் இனிமையைத்தான் சொல்கிறீர், புரிகிறது
+நன்னா. ஆனா, பழத்தை நீர் சாப்பிட்டா, இனிமை எனக்கா
+தெரியும், ஸ்வாமி!
+
+காக: பைத்தியக்காரா! பழத்தின் இனிமையை அல்லடா நான்
+சொல்வது. வேணுமானா, இரண்டு பழம் சாப்பிட்டுத்
+தொலையேன். வேண்டாம்னு சொல்வேனா? சொன்னாத்தான்
+நீ கேட்கப் போறாயா... நான் பழத்தின் இனிமையைக் குறித்துச்
+சொல்லவில்லை. இந்தப் பழைய சுவடி இருக்கே... நம்ம குல
+ரட்சகர், சட்ட திட்ட கர்த்தா மனு, அவர் வகுத்து வைத்திருக்கும்
+அற்புதமான ஏற்பாடுகளைப் படிக்கப் படிக்க, சிந்திக்கச் சிந்திக்க,
+அவைகளோட தத்துவார்த்தங்களை அலசிப் பார்க்கப்பார்க்க, அட,
+அடா! எவ்வளவு இனிமையா இருக்கு தெரியுமோ...
+
+ரங்: அதைச் சொல்றேளா...
+
+காக: கேவலம், பழத்தோட இனிமையைப் பத்தி நான்
+பேசறதாக எண்ணிண்டிருக்கே...
+
+ரங்: நான் என்ன கண்டேன் ஸ்வாமி! பழம் சாப்டிண்
+டிருந்தீர்...
+
+காக: அதுலே என்னடா மதுரம் இருக்கு? மண்டு! மனு
+செய்திருக்கிற ஏற்பாடு, நமது குலத்துக்கு என்றென்றும் மதுரமான
+வாழ்வளிக்கும் கற்பக விருட்சம். ஆரிய குலம் மற்ற குலங்களுக்கு
+மேலானது என்ற அடிப்படையை ஏற்படுத்தினார், தக்க ஆதாரத்தோடு.
+அது மட்டுமா? அந்தக் குலமுறை கெடமுடியாதபடியான சகல
+முன்னேற்பாடுகளும் செய்திருக்கிறார்.
+
+ரங்: சரி, ஸ்வாமி! மத்த குலத்தாள் எல்லாம் நம்ம குலத்தை
+மேலானது என்று ஒத்துக் கொள்கிற வரையிலே லாபம்தான்,
+யோகம்தான்... ஆனால் கால பேதத்தாலே, மத்த குலத்தாரெல்லாம்
+எதிர்த்துப் பேசவும், மட்டு மரியாதை விட்டுவிடவும்
+ஆரம்பிச்சாளானா, மனுவின் ஏற்பாடு என்ன கதியாகும்?
+
+காக: மனு இதை யோசிக்காமலிருப்பாரோ! ஆரியரை
+எவனாவது ஏசினானா, அவனுக்கு ரௌரவாதி நரகம்னு
+ஸ்பஷ்டமா சொல்லியிருக்கார்...
+
+ரங்: நரகம்னு ஒண்ணு கிடையவே கிடையாது; அப்படியே
+இருக்கிறதாக வைச்சிண்டாலும், அதைப்பத்தி இப்ப பயப்படத்
+தேவையில்லைன்னு பேசினாளானா...!
+
+## Image 3: 003-df902ca8fe.png
+
+- Image: `nadagangal/orae_oru_vithi_1/003-df902ca8fe.png`
+
+காக: பேசவே மாட்டா...
+
+ரங்: பேசினா நிலைமை என்ன ஆகும்? நரக லோகத்தைப்
+பத்தின பயம் பாமராளோட மனதிலே இருந்து போய் விட்டா,
+நிலைமை என்ன ஆகும்? அதையும் யோசிக்கத்தானே ஸ்வாமி
+வேண்டும்.
+
+காக: பரவாயில்லையே, ரங்கு! உனக்கும் புத்தி இப்ப வரவர,
+தெளிவாயிண்டிருக்கு... மண்டு! நரகம் என்கிற பயம் மட்டுமல்ல,
+மனு கூறியிருப்பது. என்ன காரணத்தாலோ, குலாசாரம், சதாசாரம்,
+மதாசாரம், வேதாசாரம் ஆகியவைகளிலே நம்பிக்கை குறைவதாலோ,
+அல்லது இப்ப சில பண்டாரத்தாள் பேசறாளே அனைவரும் சமம்னு,
+அதுபோன்று புத்தி பரவறதினாலோ, எதனாலோ, நம்மவாளை அவா...
+எவா? சூத்திரா, எதிர்த்துப் பேசினாளானா, அவாளுக்கு என்ன
+தண்டனை தெரியுமோ? நரகலோகத்திலே அல்ல, இங்கே,
+பூலோகத்திலே. (ஒரு ஏடு கொடுத்து) பாரடா மண்டு! என்ன
+தண்டனைன்னு படித்துப் பார்.
+
+(ரங்கு ஏட்டை மனதிற்குள் படித்துப் பூரிக்கிறான்.
+அவனைக் கண்டு, குருவும் பூரித்து...)
+
+காக: ரங்கு!
+
+ரங்: (ஆனந்த பரவசமானவனாகி) ஸ்வாமி!...
+
+காக: என்னடா சொல்றார் மனு! எப்படி அவருடைய
+ஏற்பாடு...
+
+ரங்: (உரத்த குரலில்) ஆரியர்களின் பெயர், ஜாதி,
+இவைகளைச் சொல்லித் திட்டுகிற சூத்திரன் வாயில் பத்து அங்குல
+நீளமுள்ள இரும்புக் கம்பியைக் காய்ச்சி, எரிய எரிய வைக்க
+வேண்டும். (மகிழ்கிறான்.)
+
+காக: பார்த்தாயா! பத்து அங்குல நீளம்...
+
+ரங்: பழுக்கக் காய்ச்சிய இரும்புக் கம்பி...!!
+
+காக: எரிய எரிய வைக்க வேண்டும்.
+
+ரங்: எந்தப் பயலுக்குத் துணிவு பிறக்கும் நம்மவாளைத்...
+
+காக: எவன் புத்தியிலே உதித்திருக்க முடியும் இப்படிப்பட்ட
+அபூர்வமான யோசனை? அப்படிப்பட்ட அற்புத புருஷர்டா நம்ம
+மனு. ரங்கு, அத்தியாயம் 8, சுலோகம் 281 எடுத்தப்பார்.
+
+## Image 4: 004-12aecf0bea.png
+
+- Image: `nadagangal/orae_oru_vithi_1/004-12aecf0bea.png`
+
+(ரங்கு, ஏட்டின் ஒரு இதழைத் தேடிப் பார்த்து மேலும்
+பூரிப்படைகிறான். குரு வெற்றிக்களிப்புடன் அவனைப் பார்த்தபடி...)
+
+காக: இது எப்படி...
+
+ரங்: (பூரிப்புடன்) பிரமாதம், ஸ்வாமி! பிரமாதம்...
+(படிக்கிறான்) ஆரியனுடன் ஒரே ஆசனத்தில் சூத்திரன் உட்கார்ந்தால்
+அவனுடைய இடுப்பில் சூடு போட்டாவது, ஆசன பக்கத்தைச் சிறிது
+அறுத்தாவது ஊரை விட்டுத் துரத்த வேண்டும்...
+
+காக: தமக்குச் சமமாகத் தன்னை எண்ணிண்டு, சூத்திரன்
+ஒருவன் மட்டு மரியாதையை மறந்து, நாம் உட்காருகிற இடத்தில்
+உட்கார்ந்தானானா... ரங்கு... என்ன சொல்லியிருக்கார் மனு?
+
+ரங்: ஊரை விட்டே ஓட்டி விடணும்னு சொல்லி இருக்கார்.
+
+காக: மண்டு! ஊரைவிட்டு ஓட்டுவதற்கு முன்னே இடுப்பிலே
+சூடு போடணும்டா...
+
+ரங்: ஆமாம், ஸ்வாமி!
+
+காக: சரி, ரங்கு, அதே எட்டாம் அத்தியாயத்திலே 379-ம்
+சுலோகமிருக்கு, அதைப்பார்...
+
+ரங்: (ஏட்டைப் புரட்டிப் படித்துவிட்டு, ஆனந்தத் தாண்டவம்
+ஆடுபவன் போலாகி, குருவைப் பார்த்து) ஸ்வாமி, நம்ம உயிருக்கு
+ஆபத்து வரும் என்கிற பயமே இல்லை. (படிக்கிறான்.) ஆரியன்
+எத்தகைய கொடிய குற்றங்களைச் செய்தாலும் அவனைத் தூக்குப்
+போடக் கூடாது. தூக்குத் தண்டனை விதிக்கப்பட்டால், அவன்
+தலையை மொட்டையடித்தால் போதும்; அதுவே அவனுக்குத்
+தூக்குத் தண்டனைக்கு ஒப்பாகும்.
+
+காக: ரங்கு, எப்படி மனு?
+
+ரங்: மத்தவாளுக்கு... சூத்திராளுக்கு... தூக்குத்
+தண்டனைன்னா உயிர் போகும்...
+
+காக: நமக்கோ...
+
+ரங்: (தலையைத் தடவுகிறான்.)
+
+காக: அவ்வளவுதான் நமக்கு நஷ்டம். பாத்தாயோ, மனுவின்
+மூளை எப்படி இருக்கு! நம்ம குலத்துக்கு உள்ள மேன்மையையும்,
+மகிமையையும் மனு எவ்வளவு ஸ்பஷ்டமாக விளக்கி இருக்கார்
+தெரியுமோ? ஒன்பதாம் அத்தியாயத்தில் 315-ம் சுலோகத்தை
+வாசிடா...
+
+## Image 5: 005-1957b25686.png
+
+- Image: `nadagangal/orae_oru_vithi_1/005-1957b25686.png`
+
+ரங்: (இந்தப் பக்கம் எடுத்துப் படிக்கிறான்.) ஆரியர்கள்
+கோபித்தால் சுவர்க்க லோகத்தையும் வேறாகச் சிருஷ்டித்து விடு
+வார்கள். திக்குப் பாலகர்களையும், தேவர்களையும் மனிதர்களாக்கி
+விடுவார்கள். ஆதலால் ஆரியரைப் பகைக்கின்ற எவனும்
+க்ஷேமத்தை அடைய மாட்டான்.
+
+காக: தேவர்களும் திக்குப் பாலர்களுமே நம்மிடம் பயப்பட்டு
+ஆகணும்னு மனு சொல்லியிருக்கும்போது, இந்த சூத்திரா
+பயபக்தி விசுவாசத்தோடு நடந்துகொண்டுதானேடா ஆகணும்.
+
+(குரு பேசுவதைக் கவனியாமல் ரங்கு மேலும் ஏடுகளைப்
+புரட்டிப் படித்தபடி இருந்துவிட்டு, சந்தோஷம் அதிகமானவனாய்
+கூவியபடி...)
+
+ரங்கு: ஸ்வாமி! ஸ்வாமி! இதைப்பாருமே. (படிக்கிறான்.)
+ஆரியன் சூத்திரனைக் கொன்று விட்டால், ஆறுமாத காலம் விரதம்
+இருக்க வேண்டும். அல்லது ஒரு எருதையும் பத்து வெள்ளைப்
+பசுக்களையும் வேதம் தெரிந்த பிராமணனுக்குக் கொடுக்க
+வேண்டும்... எவ்வளவு அருமையான ஏற்பாடு...
+
+காக: எந்த அத்தியாயம்?
+
+ரங்: பதினோராம் அத்தியாயம், 130-ம் சுலோகம்.
+
+காக: ஓஹோ... ஆமாம்... அடுத்த இரண்டும் கூட சிலாக்ய
+மானவை...
+
+ரங்: ஆமாம்... (படிக்கிறான்.) பூனை, அணில், கோட்டான்,
+காடை, தவளை, நாய், உடும்பு, காக்கை இவைகளிலே எதையேனும்
+கொன்றால் என்னவிதமான பிராயச்சித்தம் செய்ய வேண்டுமோ,
+அதை சூத்திரனைக் கொன்று செய்தால் போதும்.
+
+காக: இன்னும் என்னடா வேண்டும், ஆரிய மேன்மைக்கு?
+
+ரங்: காடை, தவளை, பூனை...
+
+காக: கோட்டான், குளவி, அணில், இப்படி உள்ள
+ஜந்துக்களைக் கொன்றால் என்ன பாபம் வருமோ, அவ்வளவுதான்
+சூத்திரனைக் கொன்றால் வரும் என்பது மனுவின் வாக்கு...
+
+ரங்: காடை, கோட்டான், பூனை, அணில் இவைகளும்
+சூத்திரனும் சமம்னு சொல்றாரே...
+
+காக: ஆமாம்...
+
+## Image 6: 006-60ed9f02fa.png
+
+- Image: `nadagangal/orae_oru_vithi_1/006-60ed9f02fa.png`
+
+ரங்: (அசட்டுத்தனமாக) என்ன ஸ்வாமி இது? என்னதான்
+தாழ்ந்த குலமானாலும், சூத்திராளும் மனுஷாதானே? அவாளை
+கேவலம் பூனை, தவளை போன்ற ஜந்துக்களுக்குச் சமம்னு
+சொல்றதுன்னா... வித்தியாசமா இல்லை, சூத்திராளுக்கும் இந்த
+ஜந்துக்களுக்கும்?
+காக: மண்டு! ஒரே ஒரு வித்தியாசம் தான் உண்டு.
+சூத்திராளிடம் நாம் தானம் வாங்க முடியும். பூனையும், அணிலும்,
+தவளையும் தானம் தர முடியாது. இந்த ஒரு வித்தியாசம் தவிர,
+மற்றபடி மனு வாக்கியப்படி, சூத்திரா, இத்தகைய ஐந்துக்கள்
+போன்றவாதான்.
+14-1-1955.
+
+## English Translation
+
+The Aryan guru Kakabhatta succeeded in intimidating the great Maratha warrior Shivaji and making him submit.
+
+Given the state of the country then, even its rulers did not believe that Aryan domination could be resisted.
+
+Many did not even conceive that such domination brought humiliation and suffering.
+
+This is an imagined scene in Kakabhatta's ashram, from those times, in which guru and disciple discuss Manu's scheme that nourished Aryan domination.
+
+Because of the limits of performance time, this passage was not included in the play *Chandramohan*.
+
+**Place:** Kakabhatta's ashram.
+
+**Present:** Kakabhatta and Rangu.
+
+**Situation:** Kakabhatta is eating fruit while reading and enjoying old manuscripts. Rangu watches longingly, thinking about the taste of the fruit his guru is eating. Kakabhatta reads something in the manuscript and relishes it greatly.
+
+**Kakabhatta:** Rangu! Do you know how wonderful and sweet it is?
+
+[Thinking the guru is speaking of the fruit's taste]
+
+**Rangu:** How would I know, Swami? [He sighs deeply.]
+
+[The guru sees Rangu's eyes move toward the fruit, understands, and smiles.]
+
+**Kakabhatta:** Fool! You speak without understanding what I mean.
+
+**Rangu:** I understand that you mean the fruit's sweetness. But if *you* eat the fruit, how would *I* know its sweetness, Swami?
+
+**Kakabhatta:** Madman! I am not speaking of the fruit's sweetness. If you want, eat a couple of fruits and be done with it. Would I forbid you? Would you obey even if I did? I was not speaking about the fruit. Look at this old manuscript. Manu, protector of our community and maker of laws and schemes, devised marvellous arrangements. The more I read them, think over them and examine their philosophy, ah, how sweet they are!
+
+**Rangu:** Is that what you meant?
+
+**Kakabhatta:** You imagined I was speaking of something as trivial as a fruit's sweetness.
+
+**Rangu:** What else could I think, Swami? You were eating fruit.
+
+**Kakabhatta:** What sweetness is there in that, fool? Manu's arrangement is a wish-fulfilling tree that gives our community a sweet life forever. With fitting authority, he established that the Aryan community is superior to all others. And that is not all. He made every advance provision to ensure that this caste order could never be destroyed.
+
+**Rangu:** Very well, Swami. So long as all the other castes accept ours as superior, it is profitable and fortunate. But if, as times change, all those castes begin opposing us and abandon their deference, what will become of Manu's arrangement?
+
+**Kakabhatta:** Would Manu have failed to think of that? He states plainly that anyone who reviles an Aryan will suffer Raurava and the other hells.
+
+**Rangu:** What if they say that hell does not exist at all, or that even if it does, there is no need to fear it now?
+
+**Kakabhatta:** They will never say it.
+
+**Rangu:** What if they do? What happens if fear of the netherworld leaves ordinary people's minds? Surely that too must be considered, Swami.
+
+**Kakabhatta:** Not bad, Rangu! Your mind is becoming clearer. Fool, Manu did not prescribe only the fear of hell. Suppose, for whatever reason, faith in caste custom, proper conduct, religious custom and Vedic custom diminishes. Or suppose this idea some mendicants now preach, that everyone is equal, begins to spread. If they... who are they? The Shudras... speak against our people, do you know their punishment? Not in the netherworld, but here in this earthly world. [He hands over a manuscript.] Look, fool. Read what the punishment is.
+
+[Rangu reads it silently and is delighted. Seeing him, the guru too rejoices.]
+
+**Kakabhatta:** Rangu!
+
+**Rangu:** [In ecstatic delight] Swami!
+
+**Kakabhatta:** What does Manu say? How is his arrangement?
+
+**Rangu:** [Loudly] A ten-inch iron rod must be heated red-hot and thrust burning into the mouth of a Shudra who insults Aryans by naming their name and caste. [He rejoices.]
+
+**Kakabhatta:** Did you see? Ten inches long!
+
+**Rangu:** An iron rod heated red-hot!
+
+**Kakabhatta:** It must be thrust in while blazing.
+
+**Rangu:** What fellow would dare to insult our people?
+
+**Kakabhatta:** In whose mind could such an extraordinary idea have arisen? Our Manu was such a marvellous man! Rangu, take chapter 8, verse 281.
+
+[Rangu finds a leaf of the manuscript and grows still more delighted. The guru watches him triumphantly.]
+
+**Kakabhatta:** How is this?
+
+**Rangu:** [Delighted] Magnificent, Swami, magnificent! [He reads.] If a Shudra sits on the same seat as an Aryan, he must be driven from town after his hip is branded or part of his buttock is cut away.
+
+**Kakabhatta:** If a Shudra considers himself our equal, forgets due respect, and sits where we sit, what does Manu prescribe, Rangu?
+
+**Rangu:** He says the man must be driven out of town.
+
+**Kakabhatta:** Fool! Before driving him out, his hip must be branded.
+
+**Rangu:** Yes, Swami!
+
+**Kakabhatta:** Now look at verse 379 in the same eighth chapter.
+
+**Rangu:** [He turns the leaves and reads, then looks at the guru as if dancing in joy.] Swami, we need never fear for our lives. [He reads.] No matter how cruel a crime an Aryan commits, he must not be hanged. If sentenced to death, shaving his head is sufficient; for him, that is equivalent to execution.
+
+**Kakabhatta:** Rangu, how is Manu?
+
+**Rangu:** For the others, for Shudras, a death sentence means losing life.
+
+**Kakabhatta:** But for us?
+
+**Rangu:** [He strokes his head.]
+
+**Kakabhatta:** That is the whole of our loss. Do you see how Manu's mind works? Do you know how plainly Manu explained our community's superiority and glory? Read verse 315 in chapter 9.
+
+**Rangu:** [He takes the page and reads.] If Aryans become angry, they can create another heavenly world. They can turn the guardians of the directions and the gods into human beings. Therefore no one who makes an enemy of an Aryan will attain wellbeing.
+
+**Kakabhatta:** When Manu says that even gods and guardians of the directions must fear us, surely these Shudras must conduct themselves with fear, devotion and loyalty.
+
+[Ignoring the guru, Rangu continues turning and reading the manuscripts, then cries out with increased joy.]
+
+**Rangu:** Swami! Swami! Look at this. [He reads.] If an Aryan kills a Shudra, he must observe a six-month penance, or give one bull and ten white cows to a Brahmin who knows the Vedas. What a wonderful arrangement!
+
+**Kakabhatta:** Which chapter?
+
+**Rangu:** Chapter 11, verse 130.
+
+**Kakabhatta:** Oh yes. The next two are also worthy of praise.
+
+**Rangu:** Yes. [He reads.] If one kills a cat, squirrel, owl, quail, frog, dog, monitor lizard or crow, whatever expiation must be made for it is sufficient when one kills a Shudra.
+
+**Kakabhatta:** What more is needed to prove Aryan superiority?
+
+**Rangu:** Quail, frog, cat...
+
+**Kakabhatta:** Owl, wasp, squirrel: Manu declares that killing a Shudra brings only as much sin as killing creatures like these.
+
+**Rangu:** He says quails, owls, cats and squirrels are equal to a Shudra.
+
+**Kakabhatta:** Yes.
+
+**Rangu:** [Carelessly] What is this, Swami? However low their caste may be, are not Shudras human beings too? To say that they are equal to contemptible creatures such as cats and frogs... Is there no difference between Shudras and these creatures?
+
+**Kakabhatta:** Fool! There is only one difference. We can receive gifts from Shudras. Cats, squirrels and frogs cannot give us gifts. Apart from this one difference, according to Manu's pronouncement, Shudras are indeed like such creatures.
+
+14 January 1955.
+
+## Translator's Notes
+
+Images 1-5 were recovered from transparent-background scans after the original OCR pass treated them as blank. The source identifies this as a scene omitted from Anna's play *Chandramohan* for reasons of performance length. The caste hierarchy and violent punishments are voiced satirically by Kakabhatta and Rangu; the translation preserves them as the object of the critique, not as endorsement. The printed scan gives chapter and verse references including 8.281, 8.379, 9.315 and 11.130; these are retained as source claims and have not been silently reconciled against modern editions or numbering of the *Manusmriti*. `கோட்டான்` is rendered “owl,” while the following `குளவி` is rendered “wasp”; these period animal terms and the corresponding verse list vary across recensions and translations.

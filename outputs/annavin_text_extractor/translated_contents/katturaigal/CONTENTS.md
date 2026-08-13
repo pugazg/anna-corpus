@@ -1,0 +1,1392 @@
+# கட்டுரைகள் / Articles
+
+Total source works: 1388
+
+- [15 கோடி பாழ்!](15_koadi_paazh.md) - pending
+- [katturaigal/1858-1948](1858-1948.md) - translated
+- [1915-1951](1915-1951.md) - pending
+- [1942 - 1948](1942-1948.md) - pending
+- [1942-ல் மாஸ்கோ!](1942_masco.md) - pending
+- [1942 உலக வீரன்](1942_ulagaveeran.md) - pending
+- [1957க்கு 1946ல் ஏற்பாடா?](1957kku_1946_aerpada.md) - pending
+- [22-ல் 22!](22_il_22.md) - pending
+- [24 மணி நேரத்தில் சுயராச்யம்!](24_maninerathil_suyarajyam.md) - pending
+- [katturaigal/4-5-7-10](4-5-7-10.md) - translated
+- [“A DRAVIDIAN FROM SPAIN”](a_dravidian.md) - pending
+- [A noble cause](a_noble_cause.md) - pending
+- [ஏ! பொதுஜன உணர்ச்சியே!](a_pothujana_unarchiyae.md) - pending
+- [A TAINTED TENNER](a_tainted_tenner.md) - pending
+- [ஆச்சாரியார் வருகிறார்!](aachariar_varugirar.md) - pending
+- [katturaigal/aachariyar_adaintha](aachariyar_adaintha.md) - translated
+- [‘ஆச்சாரியார்‘ குறித்த வழக்கு!](aachariyar_kuritha.md) - pending
+- [katturaigal/aachariyarin_aarudam](aachariyarin_aarudam.md) - translated
+- [ஆச்சாரியரின் குட்டு வெளிப்பட்டது](aachariyarin_kuttu.md) - pending
+- [katturaigal/aaduraattey](aaduraattey.md) - translated
+- [katturaigal/aakiramippai](aakiramippai.md) - translated
+- [ஆள் மயக்கியும் அன்னதானமும்](aal_mayakkiyum.md) - pending
+- [katturaigal/aal_thaedu](aal_thaedu.md) - translated
+- [ஆள் தேவை!](aal_thaevai.md) - pending
+- [ஆலையூரார் உபதேசம்!](aalayurar_ubathesam.md) - pending
+- [ஆளுக்கொரு துப்பாக்கி!](aalukkoru_thuppakki.md) - pending
+- [ஆம்!கேட்டுக்கொள்ளத்தான் வேண்டும்!](aam_kaettukkollathan_vaendum.md) - pending
+- [katturaigal/aamai_vaegam](aamai_vaegam.md) - translated
+- [ஆமாம் நடக்கிறது!](aamam_nadakkirathu.md) - pending
+- [katturaigal/aanalum](aanalum.md) - translated
+- [ஆண்டவனை அழைக்கிறார்!](aandavanai_alikkirar.md) - pending
+- [katturaigal/aandu14](aandu14.md) - translated
+- [ஆண்டு பதிமூன்று!](aandu_pathimoondru.md) - pending
+- [ஆங்கிலம் இருந்த இடத்தில் இந்தியாம்!](aangilam_iruntha_idathil.md) - pending
+- [katturaigal/aangilampol](aangilampol.md) - translated
+- [ஆங்கிலர் மீது பாயுமுன் ஆரியரே இதை அறிமின்! பெரியார் படை திரட்டுவார்](aangilar_meethu_paayumun.md) - pending
+- [ஆர்.கே.எஸ். மறைவு!](aar_kae_ess_maraivu.md) - pending
+- [ஆரம்பமாயிற்று!](aarambamayitru.md) - pending
+- [ஆரியக் கடவுள்கட்கு ஓர் அறைகூவல்!](aariya_kadavutkalukku.md) - pending
+- [katturaigal/aariyamaayai.htm](aariyamaayai.htm.md) - pending
+- [katturaigal/aariyamaayai](aariyamaayai.md) - translated
+- [ஆரிய மாயை தீர்ப்பு!](aariyamaayai_theerpu.md) - pending
+- [katturaigal/aariyar_samayam](aariyar_samayam.md) - translated
+- [ஆரியர் செய்த அக்கிரமம்](aariyar_seitha_akramam.md) - pending
+- [ஆரியரின் அந்தரங்க அகராதி!](aariyarin_antharanga.md) - pending
+- [ஆரியத்தின் அட்டூழியம்! சரித ஆதாரங்கள்](aariyathil_attuzhiyam.md) - pending
+- [ஆர்ப்பரிப்பு - கடைசிக்கட்டம்!](aarparippu_kadaisikattam.md) - pending
+- [கருஞ்சட்டையும் தடை உத்தரவும்](aarumuganaeri_akkiramam.md) - pending
+- [katturaigal/aaruthal_kooru](aaruthal_kooru.md) - translated
+- [katturaigal/aaruthal_perattum](aaruthal_perattum.md) - translated
+- [katturaigal/aasai_vetkam](aasai_vetkam.md) - translated
+- [ஆசைத்தம்பி, வழக்கு அப்பீல்](aasaithambi_vazhakku.md) - pending
+- [ஆசிரியர் கடிதம்](aasiriyar_kaditham.md) - pending
+- [ஆஸ்திகமும், நாஸ்திகமும்](aasthigamum_nathigamum.md) - pending
+- [katturaigal/aatchi_mozhi](aatchi_mozhi.md) - translated
+- [katturaigal/aathiramum](aathiramum.md) - translated
+- [ஆதித்தன் கனவு](aathithan_kanavu.md) - pending
+- [ஆயிரம் கோடி!](aayiram_koadi.md) - pending
+- [ஆழம் அறியாமல்..!](aazham_ariyamal.md) - pending
+- [அபலை அழுகிறாள்](abalai_azhugiral.md) - pending
+- [katturaigal/abaya_arivippu](abaya_arivippu.md) - translated
+- [katturaigal/abethavetham](abethavetham.md) - translated
+- [அச்சு முறிந்த வண்டி!](achi_murintha_vandi.md) - pending
+- [அடக்குமுறை ஆரம்பம்](adakkumurai_aarambam.md) - pending
+- [katturaigal/adakkumurai_att](adakkumurai_att.md) - translated
+- [அடக்குமுறை தர்பார்-மற்றொரு காட்சி!](adakkumurai_dharbar.md) - pending
+- [‘அடக்குமுறைக் காணிக்கை!’](adakkumurai_kanikkai.md) - pending
+- [அடக்குமுறையை வரவேற்கிறோம்!](adakkumurayai.md) - pending
+- [ADMISSION AND CONFESSION](admission_and_confession.md) - pending
+- [katturaigal/aduthakkattam](aduthakkattam.md) - translated
+- [அடுத்த கிழமை](aduttha_kizhamai.md) - pending
+- [அடுத்த வீட்டு அகிலாண்டம்](aduttha_veetu_agilandam.md) - pending
+- [அடையாறு சாகசம்](adyar_sagasam.md) - pending
+- [ஏடுகளே புரட்சி ஆயுதங்கள்!](aedugalae_puratchi.md) - pending
+- [katturaigal/aen_azhamattar](aen_azhamattar.md) - translated
+- [ஏன் எதிர்க்கிறோம்?](aen_ethirkkiroam.md) - pending
+- [ஏன் எதிர்ப்பு?](aen_ethirppu.md) - pending
+- [katturaigal/aen_intha_acham](aen_intha_acham.md) - translated
+- [ஏன் இந்தக் கொடுமை?](aen_intha_kodumai.md) - pending
+- [ஏன் பிறந்தோம் இங்கு](aen_piranthom.md) - pending
+- [எதேச்சாதிகார ஆணவத் தர்பார்](aethechathikara_aanava.md) - pending
+- [ஏழை எரிமலை!](aezhai_erimalai.md) - pending
+- [ஏழை பங்காளர்](aezhai_pangalar.md) - pending
+- [ஏழாவதாண்டு](aezhavathandu.md) - pending
+- [AGITATION AND ANARCHY](agitation_and_anarchy.md) - pending
+- [katturaigal/ahathu_koodathu](ahathu_koodathu.md) - translated
+- [“அகிம்சா” ஆட்சியின் அழகினைப் பாரீர்!](ahimsa_aatchi.md) - pending
+- [‘அகிம்சா‘ வெறி!](ahimsa_veri.md) - pending
+- [katturaigal/ahimsavilasam](ahimsavilasam.md) - translated
+- [ஐ.நா. கமிட்டியில் ‘திராவிட‘ முழக்கம்!](ai_na_kamittiyil.md) - pending
+- [ஐந்தாம் ஆண்டு!](aintham_aandu.md) - pending
+- [ஐந்து அரசுகள்](ainthu_arasugal.md) - pending
+- [அஜீர்ண அகவல்](ajeerna_agaval.md) - pending
+- [ஆஜ்மீர் வாயிலில்](ajmeer_vaayilil.md) - pending
+- [அக்ரமத்தின் அழிவுக்கு!](akramathin_azhivukku.md) - pending
+- [அலகாபாத் அம்மானை](alagabath_ammanai.md) - pending
+- [katturaigal/alagarsamy_kudumba](alagarsamy_kudumba.md) - translated
+- [அலை ஓசைமட்டும் போதாது!](alai_oasaimattum_pothathu.md) - pending
+- [katturaigal/alladugirar](alladugirar.md) - translated
+- [“அமரதாரா“ – போயிற்று!!](amarathara.md) - pending
+- [அப்பேத்கார் அறிவுரைகள்](ambetkar_arivurai.md) - pending
+- [அமீர்சந்து காலம்முதல்!](ameerchandhu_kaalamuthal.md) - pending
+- [அமெரிக்காவில் ஒரு பாரதிதாசன்!](americavil_barathidasan.md) - pending
+- [அமெரியின் அக்பர் பூஜை!](ameriyin_akbar_poojai.md) - pending
+- [அமிரேமில்லத்தின் அறவுரை](amiraemillathin_arivurai.md) - pending
+- [அன்பழைப்பு](anbalaippu.md) - pending
+- [katturaigal/anbin_pinaippu](anbin_pinaippu.md) - translated
+- [‘அன்பு‘ காட்டுவீர்!](anbu_kaattuveer.md) - pending
+- [அந்தக் குண்டு!](andha_gundu.md) - pending
+- [katturaigal/andho_alagarsamy](andho_alagarsamy.md) - translated
+- [katturaigal/andrae_kilambiya](andrae_kilambiya.md) - translated
+- [அன்று நடந்த தமிழிசை விழா](andru_nadantha_tamilisai_vizha.md) - pending
+- [அங்கே அப்படி! இங்கே இப்படி!](angae_appadi_ingae_ippadi.md) - pending
+- [அங்கேயும் புகுந்தது](angaeyum_pugunthathu.md) - pending
+- [அங்கு போகுமுன்...!](angupogumun.md) - pending
+- [அஞ்ச மாட்டோம்!](anjamaattoam.md) - pending
+- [katturaigal/anna_munnurai](anna_munnurai.md) - translated
+- [‘ALLOCATE AT LEAST 1,000 CRORES’](anna_on_third_plan.md) - pending
+- [அண்ணா, சிறைத்தண்டனை ஏற்றார்!](anna_siraithandanai.md) - pending
+- [அண்ணாமலை நகர் மாணவர்கள் மீது வழக்கு!](annamalai_nagar.md) - pending
+- [katturaigal/annan_tharum](annan_tharum.md) - translated
+- [அண்ணாவின் அயரா உழைப்பு -](annavin_ayara_uzhaippu.md) - pending
+- [பகுதி 1](annavin_katturaigal.md) - pending
+- [katturaigal/annavin_vazhthu](annavin_vazhthu.md) - translated
+- [katturaigal/antha_annakavadi](antha_annakavadi.md) - translated
+- [அந்தக் கணபதிக்கு..!](antha_ganabathikku.md) - pending
+- [katturaigal/antha_ganniyam](antha_ganniyam.md) - translated
+- [அந்த மனோலயம்](antha_manolayam.md) - pending
+- [அந்த மந்திரம் அறியேன்!](antha_manthiram.md) - pending
+- [katturaigal/antha_naadagam](antha_naadagam.md) - translated
+- [அந்த நாளில்!](antha_naalil.md) - pending
+- [அந்தப் புரவிகள்!](antha_puravigal.md) - pending
+- [அந்தச் சமயத்திலே!](antha_samayathilae.md) - pending
+- [அந்தத் தராசு](antha_tharasu.md) - pending
+- [katturaigal/antha_thunivu](antha_thunivu.md) - translated
+- [அந்த வெண்கலச்சிலை!](antha_venkalachilai.md) - pending
+- [அந்த `யாரோ சிலர்!'](antha_yaro_silar.md) - pending
+- [அந்தக் கரம்](anthakaram.md) - pending
+- [katturaigal/anthamaan](anthamaan.md) - translated
+- [katturaigal/anthanalukkaga](anthanalukkaga.md) - translated
+- [அந்தராத்மாவே அவருக்குக் கூறு!](antharathmavae_avarukku.md) - pending
+- [katturaigal/anthikalambagam](anthikalambagam.md) - pending
+- [katturaigal/anthiya_kaalam](anthiya_kaalam.md) - translated
+- [அந்தோ நெஞ்சு வேகிறது!](antho_nenchu_vegirathu.md) - pending
+- [katturaigal/anugundu](anugundu.md) - translated
+- [katturaigal/anuman_kathai](anuman_kathai.md) - translated
+- [katturaigal/anuthabam](anuthabam.md) - translated
+- [அப்பாவிகளே!](appavigalae.md) - pending
+- [அரக்கு மாளிகை!](arakku_maaligai.md) - pending
+- [katturaigal/arapor_kurippu](arapor_kurippu.md) - translated
+- [katturaigal/arappoar](arappoar.md) - translated
+- [அறப்போர் - பலன், பல!](arappoar_palappala.md) - pending
+- [katturaigal/arappoar_velha](arappoar_velha.md) - translated
+- [அறப்போருக்கு அழைக்கிறார்!](arappoarukku_azhaikirar.md) - pending
+- [katturaigal/arappor_thodangi](arappor_thodangi.md) - translated
+- [அரசியல் ஆகராதி! சிவராமன் புதிய வெளியீடு!](arasiyal_agarathi.md) - pending
+- [அர்ச்சனை!](archanai.md) - pending
+- [அறிமுகப்படுத்துகிறேன்](arimugappaduthugiraen.md) - pending
+- [katturaigal/arisiyiyal](arisiyiyal.md) - translated
+- [அறிவொளி வழங்கிய அறிஞர்](arivoli_vazhangiya.md) - pending
+- [அறிவுக் கோயில்!](arivukkoil.md) - pending
+- [katturaigal/arivukovvathathu](arivukovvathathu.md) - translated
+- [அறிவும் அழிவும்](arivum_azhivum.md) - pending
+- [அறிவுரைக் கொத்து](arivuraikkothu.md) - pending
+- [katturaigal/ariyamayil](ariyamayil.md) - translated
+- [அற்பத்தனம்](arppathanam.md) - pending
+- [katturaigal/arputham_paareer](arputham_paareer.md) - translated
+- [katturaigal/arumai_arumai](arumai_arumai.md) - translated
+- [ஆறுமுகமு ம் அழுகுரலும்](arumugamum_azhukuralum.md) - pending
+- [அருணோதயம்](arunodhayam.md) - pending
+- [katturaigal/arutperunjothi](arutperunjothi.md) - translated
+- [katturaigal/asath_avaesam](asath_avaesam.md) - translated
+- [katturaigal/ashraf](ashraf.md) - translated
+- [katturaigal/athae_idathil](athae_idathil.md) - translated
+- [அதையும் பார் - இதையும் பார்](athayumpar_ithayumpar.md) - pending
+- [katturaigal/athen_nattil](athen_nattil.md) - pending
+- [katturaigal/athisaya_nayanar](athisaya_nayanar.md) - translated
+- [katturaigal/athisayamalla](athisayamalla.md) - translated
+- [அதோ, நமது லட்சிய பூமி!](atho_namathu_latchiya_boomi.md) - pending
+- [அதுதான் நல்லது!](athuthan_nallathu.md) - pending
+- [அதுதான் சரி!](athuthan_sari.md) - pending
+- [அதுவல்ல, நமது பாதை](athuvalla_namathu.md) - pending
+- [katturaigal/atli_nirnaya](atli_nirnaya.md) - translated
+- [katturaigal/atraithingal](atraithingal.md) - translated
+- [katturaigal/august](august.md) - translated
+- [ஆகஸ்ட் பத்து!](august_patthu.md) - pending
+- [katturaigal/augustil_kidai](augustil_kidai.md) - translated
+- [katturaigal/avamanachinna](avamanachinna.md) - translated
+- [அவமதிக்கிறார்!](avamathikkirar.md) - pending
+- [katturaigal/avan_manithan](avan_manithan.md) - translated
+- [katturaigal/avanum_manithan](avanum_manithan.md) - translated
+- [அவர் அடையும் பெருமை](avar_adayum_perumai.md) - pending
+- [அவர் அவ்வளவு முட்டாளல்ல!](avar_avvalavu_muttalalla.md) - pending
+- [அவர் காட்டிய வழி!](avar_kaatiya_vazhi.md) - pending
+- [அவர் காட்டிய வழியில்!](avar_kaatiya_vazhiyil.md) - pending
+- [katturaigal/avar_kana_virumbiya](avar_kana_virumbiya.md) - translated
+- [அவர் நல்லவர்!](avar_nallavar.md) - pending
+- [katturaigal/avarathu_sanj](avarathu_sanj.md) - translated
+- [katturaigal/avargal_sindhip](avargal_sindhip.md) - translated
+- [அவர்கள் உள்ளம்](avargal_ullam.md) - pending
+- [அவர்களின் அடுத்த அம்பு!](avargalain_aduthia.md) - pending
+- [அவர்களே கூறுகிறார்கள்!](avargale_koorugirargal.md) - pending
+- [அவர்களும் வாழ......!](avargalum_vaazha.md) - pending
+- [katturaigal/avarudaya_araichi](avarudaya_araichi.md) - translated
+- [அவருடைய இலட்சியம்!](avarudaya_latchiyam.md) - pending
+- [அவருக்கு அன்பளிப்பு](avarukku_anbalippu.md) - pending
+- [அவருக்கு இவர் எழுதினால்!](avarukku_ivar_eluthinal_CPR_sankara.md) - pending
+- [அவருக்கு இவர் எழுதினால்!](avarukku_ivar_eluthinal_philip_aathae.md) - pending
+- [அவருக்கு இவர் எழுதினால்!](avarukku_ivar_eluthinal_thiruvika_PTR.md) - pending
+- [அவருக்கு கோபமாம்!](avarukku_kobamam.md) - pending
+- [katturaigal/avarum_thamizhar](avarum_thamizhar.md) - translated
+- [அவசரமாகத் தேவை](avasaramaga_thaevai.md) - pending
+- [அவசியந்தான்!](avasiyanthan.md) - pending
+- [katturaigal/avungsan](avungsan.md) - translated
+- [katturaigal/ayvar_vazhakku](ayvar_vazhakku.md) - translated
+- [ஐயன் சிங்காரங்களைப் பாரும்!](ayyan_singarangalai_paarum.md) - pending
+- [katturaigal/ayyo_athuvum](ayyo_athuvum.md) - translated
+- [katturaigal/ayyo_yazh](ayyo_yazh.md) - translated
+- [katturaigal/azhagana_silai](azhagana_silai.md) - translated
+- [பாகப் பிரிவினை!](baagapirivinai.md) - pending
+- [பகிரங்க விசாரணை வேண்டும்!](bagiranga_visa_kundra.md) - pending
+- [பகிரங்க விசாரணை வேண்டும்!](bagiranga_visaranai.md) - pending
+- [katturaigal/bajagovindam](bajagovindam.md) - translated
+- [katturaigal/balae_aal](balae_aal.md) - translated
+- [katturaigal/balapadam](balapadam.md) - pending
+- [katturaigal/bali](bali.md) - translated
+- [பலி பீடம்!](bali_peedam.md) - pending
+- [பலி பீடத்திலே!](bali_peedathilae.md) - pending
+- [பாரதி பாதை!](barathi_paathai.md) - pending
+- [katturaigal/barnatsha_vaemumam](barnatsha_vaemumam.md) - translated
+- [BARON KAMARAJ!](baron_kamaraj.md) - pending
+- [பாதுகா பட்டாபிஷேகம் பலிக்கவில்லை!](bathuka_pattabishaekam.md) - pending
+- [பயங்கரப் பாதை](bayankarappathai.md) - pending
+- [BEHIND THE BARS](behind_the_bar.md) - pending
+- [katturaigal/bernatsha](bernatsha.md) - translated
+- [katturaigal/bharathan_ezhuthiya](bharathan_ezhuthiya.md) - translated
+- [katturaigal/bharathan_ezhuthiya2](bharathan_ezhuthiya2.md) - translated
+- [katturaigal/bharathazhvar](bharathazhvar.md) - translated
+- [BIGGEST BLUFF?](biggest_bluff.md) - pending
+- [பிஸ்மார்க் வருகிறார்!](bismark_varugirar.md) - pending
+- ["Blessed the spot](blessed_the_spot.md) - pending
+- [....BLISS!](bliss.md) - pending
+- [பொம்மை மனிதர்கள்](bommai_manithargal.md) - pending
+- [katturaigal/boodevar](boodevar.md) - translated
+- [BOOKING THE BERTH](Booking_the_berth.md) - pending
+- [பூகோள போதனை](bookola_bothanai.md) - pending
+- [போதை தெளியட்டும்!](bothai_theliyattum.md) - pending
+- [BRIDLE THE BUREAUCRACY](bridle_the_bureaucracy.md) - pending
+- [பிரிட்டிஷ் பதுமை!](british_puthumai.md) - pending
+- [BRUCE—MODERN !](bruce_modern.md) - pending
+- [காலக்கண்ணாடி - பிரும்மதேஜஸ்!](brummathejas.md) - pending
+- [புத்தர் புன்னகை](budhar_punnagai.md) - pending
+- [BULL - BOXERS BELLOW](bull_boxers_bellow.md) - pending
+- [katturaigal/burma_tharum](burma_tharum.md) - translated
+- [katturaigal/burmavai_paarungal](burmavai_paarungal.md) - translated
+- [BUTCHER STALLS!](butcher_stalls.md) - pending
+- [katturaigal/cdnaayagam](cdnaayagam.md) - translated
+- [katturaigal/chandiran_marai](chandiran_marai.md) - translated
+- [katturaigal/cheche](cheche.md) - translated
+- [செக்கோஸ்லோவேகியா](checoslovokia.md) - pending
+- [katturaigal/chennayil_bamba](chennayil_bamba.md) - translated
+- [சென்னையில் கருப்புக்கொடி நாள்](chennayil_karuppu.md) - pending
+- [katturaigal/chennayil_thozhar](chennayil_thozhar.md) - translated
+- [சௌ - சௌ!](chow_chow.md) - pending
+- ["COLLECT YOUR FEES ... "!](collect_your_fees.md) - pending
+- [காங்கிரஸ் கோலாகலம்](congress_kolagalam.md) - pending
+- [katturaigal/corp_alangolam](corp_alangolam.md) - translated
+- [katturaigal/culcutta_kaichal](culcutta_kaichal.md) - translated
+- [katturaigal/culcutta_rasagulla](culcutta_rasagulla.md) - translated
+- [katturaigal/cyprus](cyprus.md) - translated
+- [Daddy in Doldrums](Daddy_in_Doldrums.md) - pending
+- [katturaigal/dalmiyapuram](dalmiyapuram.md) - translated
+- [DEFEATED, NOT DISGRACED](defeated_not_disgraced.md) - pending
+- [katturaigal/delhi_kuttu](delhi_kuttu.md) - translated
+- [டெல்லியில் சர்ச்சில் - ஸ்டாலின் சந்திப்பு](delhiyil_churchil_stalin.md) - pending
+- [katturaigal/devaleelaigal](devaleelaigal.md) - translated
+- [தேவமொழி மக்களுக்கு ஏன்?](devamozhi_makkalukku_aen.md) - pending
+- [தலால் தர்பார்!](dhalal_dharbar.md) - pending
+- [தர்பார் இராகம்!](dharbar_raagam.md) - pending
+- [தர்மசங்கடம்!](dharmasangadam.md) - pending
+- [katturaigal/dhayavu_dhatchanyam](dhayavu_dhatchanyam.md) - translated
+- [DIARY OF A DEMOCRATE(1)](Diary_of_a_Democrat.md) - pending
+- [டில்லி சந்திப்பு!](dilli_santhippu.md) - pending
+- [katturaigal/ditto](ditto.md) - translated
+- [ஒற்றன் ஓலை](divanjee_thirupugazh.md) - pending
+- [டாக்டர் எங்கே?](doctor_engae.md) - pending
+- [டாக்டருக்கு, ஒரு டோஸ்](doctorukku_oru_dose.md) - pending
+- [DOPE!](dope.md) - pending
+- [DRACO'S DEMOCRACY](dracos_democracy.md) - pending
+- [‘டிராம்வே‘ வேலை நிறுத்தம்!](dramway_vaelai.md) - pending
+- [katturaigal/dravida_munnetra](dravida_munnetra.md) - translated
+- [katturaigal/dravidamaniyin](dravidamaniyin.md) - translated
+- [திராவிட நாடு அலுவலகத்தில் கொள்ளை!](dravidanadu_aluvala.md) - pending
+- [திராவிடநாடு திராவிடருக்கே!](dravidanadu_dravidarukkae.md) - pending
+- [திராவிடர் திருநாள்!](dravidar_thirunaal.md) - pending
+- [katturaigal/dravidarum](dravidarum.md) - translated
+- [எச்சரிக்கை](echarikkai.md) - pending
+- [எச்சரிக்கைப் பிரியர்!](echarikkai_piriyar.md) - pending
+- [katturaigal/edakku_panni](edakku_panni.md) - translated
+- [உரிமைக்குப் போராடிய வீரன் எடியன் டோலட்!](ediyan_dollat.md) - pending
+- [ஏகாதிபத்தியம் ஒழிக!](egathipathyam_ozhiga.md) - pending
+- [எல்லை காந்தி!](ellai_gandhi.md) - pending
+- [katturaigal/ellam_eesan](ellam_eesan.md) - translated
+- [katturaigal/en_nandri](en_nandri.md) - translated
+- [katturaigal/en_vaazhthu](en_vaazhthu.md) - translated
+- [எனது ஆசிரியரை இழந்தேன்!](enathu_aasiriyarai.md) - pending
+- [எனது நன்றி](enathu_nandri.md) - pending
+- [katturaigal/enathu_vaendugol](enathu_vaendugol.md) - translated
+- [எங்கே அந்த அணிவகுப்பு?](engae_antha_anivaguppu.md) - pending
+- [எங்கே அந்த உற்சாகம்?](engae_antha_urchagam.md) - pending
+- [katturaigal/engae_engae](engae_engae.md) - translated
+- [எங்கள் மடாதிபதி](engal_madathipathi.md) - pending
+- [katturaigal/engum_erodu](engum_erodu.md) - translated
+- [என் நன்றி!](enn_nandri.md) - pending
+- [எண்ணிப்பார்...கோபியாமல்](ennippar_gopiyamal.md) - pending
+- [எந்த ‘ஜீ’யும் நமக்கு வேண்டாம்](entha_jeeyum_namakku_vaendam.md) - pending
+- [Epistles To the eminent [1]](epistles_to_the_eminent.md) - pending
+- [எப்படி நம்புவதோ? (1947)](eppadi_nambuvatho_1947.md) - pending
+- [எப்படிச் சகிப்பது?](eppadi_sahippathu.md) - pending
+- [எரியிட்டார் என்செய்தீர்?](eriyittar_enseitheer.md) - pending
+- [katturaigal/erode_kaana](erode_kaana.md) - translated
+- [ஈரோடு மாநாடு](erode_maanadu_katchi.md) - pending
+- [எதேச்சாதிகாரம்](ethaechathikaram.md) - pending
+- [எதனை மேற்கொள்வது?](ethanai_maekolvathu.md) - pending
+- [katturaigal/ethanum_pithanum](ethanum_pithanum.md) - translated
+- [எதையும் தாங்கும் இதயம் வேண்டும்.](ethayum_thangum_ithayam.md) - pending
+- [எதிர்பார்த்ததே](ethipaarthathae.md) - pending
+- [எதிரொலி](ethiroli.md) - pending
+- [katturaigal/ethu](ethu.md) - translated
+- [எது உமது இடம்?](ethu_namathu_idam.md) - pending
+- [எது உண்மை?](ethu_unmai.md) - pending
+- [எட்டாம் ஆண்டு!](ettam_aandu.md) - pending
+- [எவனோ தீண்டிவிட்டான்!](evano_theendivittan.md) - pending
+- [EXPUNGE](expunge.md) - pending
+- [எழுச்சி முரசு](ezhichi_murasu.md) - pending
+- [katturaigal/ezhil_dravidam](ezhil_dravidam.md) - translated
+- [katturaigal/ezhugirathu](ezhugirathu.md) - translated
+- [katturaigal/ezhuthalar_manadu](ezhuthalar_manadu.md) - translated
+- [எழுத்துரிமை காக்க விரைவில் அற்பபோர்!](ezhuthurimai.md) - pending
+- [எழுத்துரிமைப் போர் வீரர்கள்](ezhuthurimai_poarveerar.md) - pending
+- [எழுத்துரிமையைப் பறிக்காதே!](ezhuthurimayai_pari.md) - pending
+- [katturaigal/farook](farook.md) - translated
+- [FIVE DAYS' FURORE](five_days_furore.md) - pending
+- [‘பிளிட்ஸ்’ காட்டிய கண்ணியம்!](flits_kaatiya.md) - pending
+- [FORBIDDEN PATH](forbidden_path.md) - pending
+- [FRENCHERIA!](frencheria.md) - pending
+- [FROM RAGHU TO AKBAR](From_Raghu_to_Akbar.md) - pending
+- [katturaigal/ganabaadi](ganabaadi.md) - translated
+- [katturaigal/ganavaan](ganavaan.md) - translated
+- [காந்தி மார்க்கட் நிலவரம்!](gandhi_market_nilavaram.md) - pending
+- [katturaigal/gandhi_ramasamy](gandhi_ramasamy.md) - translated
+- [காந்திஸ்தான் மர்கயா!](gandhistan_margaya.md) - pending
+- [katturaigal/gangai_karayil](gangai_karayil.md) - translated
+- [கங்காபுத்ரர், காலடியில்!](gangaputhirar_kaladiyil.md) - pending
+- [கங்கையின் மழலை!](gangayin_mazhalai.md) - pending
+- [‘காந்தியார் சாந்தியடைய!’](ganthiyar_santhiyadaya.md) - pending
+- [கர்ஜனை புரியும் கனம்கள்!](garjanaipuriyum_ganamgal.md) - pending
+- [கவனியுங்கள்! கவனியுங்கள்!](gavaniyungal.md) - pending
+- [கோவா கிளர்ச்சி](goa_kilarchi.md) - pending
+- [Golden Garuda and Platinum Pig](golden_garuda.md) - pending
+- [GOPAL, THE GLOBE-TROTTER](gopal_the_globe_trotter.md) - pending
+- [கோபுரம் ஏறிக் கோழி மேய்ப்பானேன்?](gopuram_aeri_kozhi.md) - pending
+- [கோபுரத்தில்-குப்பை மேடுகள்!](gopurathil_kuppai.md) - pending
+- [கவர்னர் நியமனம்!](governer_niyamanam.md) - pending
+- [katturaigal/governor_ezhutha](governor_ezhutha.md) - translated
+- [கிரேக்கக் கடிதம்!](graekka_kaditham.md) - pending
+- [கிராம சேவை](grama_saevai.md) - pending
+- [GRAND OLD MAN'S CANDID APPRAISAL](grand_old_man.md) - pending
+- [GRANDMAS IN GROOM - HUNT!](grandmas_in_groom_hunt.md) - pending
+- [குபேர - குசலா!](gubera_kusala.md) - pending
+- [katturaigal/guruboojai](guruboojai.md) - translated
+- [குருவும் குதிரையும்](guruvum_kuthirayum.md) - pending
+- [HECKLED](hackled.md) - pending
+- [இந்தி ஆதிக்கம் தந்த வருத்தம்!](hindhi_aadhikkam.md) - pending
+- [இந்தி எதிர்ப்பு மாநாட்டுக்குத் தடை](hindhi_ethirppu_thadai.md) - pending
+- [இந்தியின் கதி!](hindhiyin_gathi.md) - pending
+- [katturaigal/hindi_aalai](hindi_aalai.md) - translated
+- [இந்தி எந்த வடிவத்தில் வந்தாலும் எதிர்ப்போம்!](hindi_entha_vadivathil.md) - pending
+- [katturaigal/hindi_ethirpor](hindi_ethirpor.md) - translated
+- [katturaigal/hindi_kattaya](hindi_kattaya.md) - translated
+- [இந்திமொழி வரலாறு!](hindi_mozhi_varalaru.md) - pending
+- [katturaigal/hindi_nilamai](hindi_nilamai.md) - translated
+- [katturaigal/hindi_pothu](hindi_pothu.md) - translated
+- [katturaigal/hindi_thinippu](hindi_thinippu.md) - translated
+- [இந்தியே வேண்டாம்!](hindiyae_vaendam.md) - pending
+- [இந்தியும் தமிழ் மகனும்](hindiyum_tamilmaganum.md) - pending
+- [``ஹிந்துஸ்தான் ஹமாரா!’’](hindustan_hamara.md) - pending
+- [katturaigal/home_land](home_land.md) - translated
+- [katturaigal/idanthedigal](idanthedigal.md) - translated
+- [katturaigal/idathu_paatham](idathu_paatham.md) - translated
+- [katturaigal/idukki](idukki.md) - translated
+- [katturaigal/ilamayil_muthumai](ilamayil_muthumai.md) - pending
+- [IMAGINE, PLEASE !](imagine_please.md) - pending
+- ['IN SPITE OF' IN POLITICS](in_spite_of_in_politics.md) - pending
+- [……….IN YOUR HANDS](in_your_hands.md) - pending
+- [“இன்பத் திராவிடமே என் இலட்சியம்!”](inba_dravidamae.md) - pending
+- [இன்பம் பொங்குக!](inbam_ponguha.md) - pending
+- [இந்திய எதேச்சாதிகாரம்!](indhiya_ethaechathikaram.md) - pending
+- [இந்திய சர்க்கார் இரண்டு ஓடங்களில் கால் வைக்கிறது!](indhiya_sarkar_irandu.md) - pending
+- [இந்து இட்லரிசம்!](indhu_hitlarism.md) - pending
+- [katturaigal/indhumathamum](indhumathamum.md) - pending
+- [தணலில் தங்கமாயிற்று லீக்](indraya_leag_nilaimai.md) - pending
+- [katturaigal/indraya_nirvagam](indraya_nirvagam.md) - translated
+- [இங்கே பாரீர்!](ingae_paareer.md) - pending
+- [இனி என்ன செய்வர்?](ini_enna_seyvar.md) - pending
+- [இஞ்சிபத்தனே மேல்!](injipatthanae_mael.md) - pending
+- [இந்த மந்திரிமார்கள் ஆட்சியில்!](intha_manthirimargal.md) - pending
+- [இப்படை தோற்கின் எப்படை ஜெயிக்கும்?](ippadai_thoarkin.md) - pending
+- [இரண்டு மூளைகள்!](irandu_moolaigal.md) - pending
+- [katturaigal/irandu_theerpu](irandu_theerpu.md) - translated
+- [இரணியன் அல்லது இணையற்ற வீரன்](iraniyan_allathu.md) - pending
+- [திருவத்திபுரத்தில் இரண்யன் கைது](iranyan_kaithu.md) - pending
+- [இரட்டைக் குழல் துப்பாக்கி!](irattai_kuzhal_thuppaki.md) - pending
+- [இரட்டை நாவினர்!](irattai_naavinar.md) - pending
+- [katturaigal/iru_vetrigal](iru_vetrigal.md) - translated
+- [katturaigal/irubathumoovar](irubathumoovar.md) - translated
+- [இருகொடி ஏந்திகள்!](irukodi_aenthigal.md) - pending
+- [katturaigal/irulagala](irulagala.md) - translated
+- [katturaigal/irulagala_2](irulagala_2.md) - translated
+- [இருளில் ஒளி!](irulil_oli.md) - pending
+- [இரும்பு மனிதர் தரும் கரும்புச்சாறு!](irumbu_manithar_tharum.md) - pending
+- [katturaigal/irunda_indiavil](irunda_indiavil.md) - translated
+- [முகப்பு | எழுத்து | பேச்சு | புகைப்படம் | ஓவியம் | தொடர்பு](irusagotharargal.md) - pending
+- [katturaigal/iruthaya_geetham](iruthaya_geetham.md) - translated
+- [இருட்டறையில் கண் சிமிட்டி!](iruttarayil_kansimitti.md) - pending
+- [katturaigal/iruttil_prag](iruttil_prag.md) - translated
+- [‘இருவரை‘ இழந்தோம்](iruvarai_izhanthom.md) - pending
+- [இருவீரர் - ஒருதாசர்!](iruveerar_oruthasar.md) - pending
+- [Is This The Answer? [IV]](is_this_answer.md) - pending
+- [katturaigal/islama_isrela](islama_isrela.md) - translated
+- [இஃதன்றோ தோழமை!](ithandro_tholamai.md) - pending
+- [இதற்காகவா போராட்டம்!](itharkagava_porattam.md) - pending
+- [katturaigal/itharkupaer](itharkupaer.md) - translated
+- [இதிலென்ன தவறு?](ithilenna_thavaru.md) - pending
+- [இதோ, நல்வழி!](itho_nalvazhi.md) - pending
+- [இதோ ஒரு மேதாவி!](itho_oru_methavi.md) - pending
+- [இதோ ஒரு தேசியத் திட்டம்](itho_oru_thaesiya_thittam.md) - pending
+- [katturaigal/ithuthan_satta](ithuthan_satta.md) - translated
+- [இதுவா சுதந்திரம்?](ithuva_sudandhiram.md) - pending
+- [katturaigal/ithuvatamilar](ithuvatamilar.md) - translated
+- [இவர் கவர்னராம்!](ivar_governaram.md) - pending
+- [katturaigal/ivargalukku_avargal](ivargalukku_avargal.md) - translated
+- [katturaigal/iyakka_veerarai](iyakka_veerarai.md) - translated
+- [katturaigal/iyakkam_namathu](iyakkam_namathu.md) - translated
+- [katturaigal/iyarkai_oru](iyarkai_oru.md) - translated
+- [katturaigal/izhakkamaattom](izhakkamaattom.md) - translated
+- [இழந்த இன்பம்!](izhantha_inbam.md) - pending
+- [ஜார் பாதை](jaar_paathai.md) - pending
+- [ஜாரைத் தோற்கடித்தார் நேரு](jaarai_thorkaditha.md) - pending
+- [JAI IDDILI](jai_iddili.md) - pending
+- [ஜெமீன் ஒழிப்பு!](jameen_ozhippu.md) - pending
+- [வேவலாயுதம் பலிக்கவில்லை](janab_jinna_murasu.md) - pending
+- [ஜனவரி 4!](january_4.md) - pending
+- [பேரறிஞர் அண்ணாவின் மீது “ஜப்தி வாரண்ட்!”](japthi_vaarant.md) - pending
+- [katturaigal/jathi_muraikku](jathi_muraikku.md) - translated
+- [katturaigal/jeevamrutham](jeevamrutham.md) - translated
+- [katturaigal/jiniva](jiniva.md) - translated
+- [katturaigal/jomo](jomo.md) - translated
+- [‘ஜோதி ஜொலித்ததாமே!‘](jothi_jolithathamae.md) - pending
+- [katturaigal/jothyae](jothyae.md) - translated
+- [katturaigal/july](july.md) - translated
+- [katturaigal/july13](july13.md) - translated
+- [katturaigal/july15_sanga](july15_sanga.md) - translated
+- [JUST SMILED!](just_smiled.md) - pending
+- [katturaigal/justice_katchi](justice_katchi.md) - translated
+- [கா. சுப்பிரமணிய பிள்ளை](ka_su_pillai.md) - pending
+- [காடிக் கழகம்!](kaadi_kazhagam.md) - pending
+- [காலக்கண்ணாடி](kaalakkannadi.md) - pending
+- [காலக்கண்ணாடி - தடித்தாண்டவராயன்](kaalakkannadi_thadithandavarayan.md) - pending
+- [காலம் கெட்டுப் போச்சு!](kaalam_kettupochu.md) - pending
+- [காலம் மாறிவிட்டது! கதறிப் பயனில்லை!](kaalam_maarivittathu.md) - pending
+- [katturaigal/kaalamae](kaalamae.md) - translated
+- [காலவேகம்!](kaalavegam.md) - pending
+- [katturaigal/kaanamalpona](kaanamalpona.md) - translated
+- [காணாத காட்சி](kaanatha_kaatchi.md) - pending
+- [காரியமாற்றக் கிளம்புவீர்!](kaariyamaatra.md) - pending
+- [காஸ்பேரி!](kaaspaeri.md) - pending
+- [காட்டாட்சி!](kaatatchi.md) - pending
+- [காட்சியும் கருத்தும்](kaatchiyum_karuthum.md) - pending
+- [காயமே, இது, பொய்யடா!](kaayamae_ithu_poyyada.md) - pending
+- [katturaigal/kadai](kadai.md) - translated
+- [கடைசிக் கட்டம்](kadaisikkattam.md) - pending
+- [கடல் கடக்கும் கண்கள்](kadal_kadakkum_kangal.md) - pending
+- [கடமை அறியாக் கரந்துகள்!](kadamai_ariyakaranthugal.md) - pending
+- [katturaigal/kadamai_unarchi](kadamai_unarchi.md) - translated
+- [கடமையைச் செய்யக் கலங்காதீர்](kadamayai_seiya.md) - pending
+- [கடவுள், சிவன் - ஒருவிளக்கம்](kadavul_sivan.md) - pending
+- [katturaigal/kadavul_vilakkam](kadavul_vilakkam.md) - translated
+- [katturaigal/kaelviyum_bathilum091147](kaelviyum_bathilum091147.md) - translated
+- [katturaigal/kaelviyum_bathilum201147](kaelviyum_bathilum201147.md) - translated
+- [கேள்வியும் பதிலும்](kaelviyum_bathilum_16_11_47.md) - pending
+- [கேள்வியும் பதிலும் 1](kaelviyum_bathilum_21_12_47.md) - pending
+- [கேள்வியும் பதிலும் 2](kaelviyum_bathilum_28_12_47.md) - pending
+- [katturaigal/kaetathu_vaazhvu](kaetathu_vaazhvu.md) - translated
+- [katturaigal/kaeteergala](kaeteergala.md) - translated
+- [katturaigal/kaithari](kaithari.md) - translated
+- [katturaigal/kaiyil_oomai](kaiyil_oomai.md) - translated
+- [katturaigal/kalai_oli](kalai_oli.md) - translated
+- [கலைப்புரட்சி](kalai_puratchi.md) - pending
+- [கலைஞர் உரிமையில் கை வைத்தல் ஆகாது!](kalaignar_urimayil.md) - pending
+- [katturaigal/kalaivazhi](kalaivazhi.md) - translated
+- [கலைவிழி!](kalaivizhi.md) - pending
+- [katturaigal/kalaiyum_padukolaiyum](kalaiyum_padukolaiyum.md) - translated
+- [கலங்கும் இலங்கை!](kalangum_ilangai.md) - pending
+- [katturaigal/kalanjiam_kaana](kalanjiam_kaana.md) - translated
+- [கலாரசிகர்கள்](kalarasigargal.md) - pending
+- [களத்தில் கவலை!](kalathil_kavalai.md) - pending
+- [katturaigal/kalimannum](kalimannum.md) - translated
+- [katturaigal/kalippum](kalippum.md) - translated
+- [கல்கத்தாவில் சமூக சீர்திருத்த இயக்கம்!](kalkathavil_oru_samuga.md) - pending
+- [katturaigal/kallakkudi_ara](kallakkudi_ara.md) - translated
+- [கல்லறை கண்டு கலங்காதீர்](kallarai_kandu_kalangatheer.md) - pending
+- [katturaigal/kalvi_kazhagam](kalvi_kazhagam.md) - pending
+- [katturaigal/kalyana](kalyana.md) - translated
+- [katturaigal/kamarajar_sambavam](kamarajar_sambavam.md) - translated
+- [காமராஜர் சிந்தும் கண்ணீர்!](kamarajar_sinthum_kanneer.md) - pending
+- [காமவேள் நடனசாலையில் கற்பூரக் கடை!](kamavael_nadanasalayil.md) - pending
+- [கம்ப நண்பர்களுக்கு!](kamba_nanbarukku.md) - pending
+- [katturaigal/kambar_maanadu](kambar_maanadu.md) - translated
+- [katturaigal/kambar_vizha](kambar_vizha.md) - translated
+- [கம்பராமாயணம் என்றால்...](kambaramayanam_endral.md) - pending
+- [katturaigal/kambarasam](kambarasam.md) - pending
+- [கணக்குப் பார்க்கிறோம்!](kanakku_paarkirom.md) - pending
+- [கனவில் கண்ட கன்னிகை!](kanavil_kanda_kannigai.md) - pending
+- [கனவில் கவிதா மண்டலம்!](kanavil_kavitha_mandalam.md) - pending
+- [காஞ்சிக் கடவுளுக்குக் கல்லடி](kanchi_kadavulukku.md) - pending
+- [காஞ்சிபுரத்தில்](kanchipurathil.md) - pending
+- [காஞ்சிபுரத்தில் சோதனை](kanchipurathil_sothanai.md) - pending
+- [katturaigal/kanchiyil_hindi](kanchiyil_hindi.md) - translated
+- [காண்டேகர்!](kandaerkar.md) - pending
+- [கண்டார் - மகிழ்ந்தார்!](kandar_magizhnthar.md) - pending
+- [katturaigal/kandathum_kaet](kandathum_kaet.md) - translated
+- [katturaigal/kandhazhi](kandhazhi.md) - translated
+- [கனிதேடி அலுத்தபிறகு!](kanithedi_aluthapiragu.md) - pending
+- [katturaigal/kannadi_veetil](kannadi_veetil.md) - translated
+- [கண்ணால் கண்டும்!](kannal_kandum.md) - pending
+- [கண்ணன் காட்டிய வழி!](kannan_kaatiya_vazhi.md) - pending
+- [கன்னையா!](kannaya.md) - pending
+- [கண்ணீர் துடைக்க!](kanneer_thudaikka.md) - pending
+- [katturaigal/kanneer_thuligal](kanneer_thuligal.md) - translated
+- [கருஞ்சட்டைக்குச் சர்க்கார் தடை உத்தரவு](karunchattai_sarkkar.md) - pending
+- [கருஞ்சட்டையும் தடை உத்தரவும்](karunchattayum_thadai.md) - pending
+- [‘கருங்கடலில்’ டில்லி மந்திரி!](karungadalil.md) - pending
+- [katturaigal/karunguzhiyar](karunguzhiyar.md) - translated
+- [கருப்புக் கொடி!](karuppu_kodi.md) - pending
+- [katturaigal/karuthalikkum](karuthalikkum.md) - translated
+- [katturaigal/karuthu_alaya](karuthu_alaya.md) - translated
+- [காஷ்மீரில் புதிய போர்?](kashmiril_puthiyapoar.md) - pending
+- [katturaigal/katchiyil_kadavul](katchiyil_kadavul.md) - translated
+- [katturaigal/kathamba_kesari](kathamba_kesari.md) - translated
+- [கதிரவன் கொட்டகையில்!](kathiravan_kottagayil.md) - pending
+- [katturaigal/kathiresarukku](kathiresarukku.md) - translated
+- [katturaigal/kattaiviral](kattaiviral.md) - translated
+- [கட்டக்காரர் பிரிவு](kattakkarar_pirivu.md) - pending
+- [கட்டாய இந்தி வேண்டாம்!](kattaya_hindi_vaendam.md) - pending
+- [கவிதைக் குயில் மறைவு](kavithai_kuyil.md) - pending
+- [katturaigal/kaviyarasi](kaviyarasi.md) - translated
+- [katturaigal/kazhaga_nilai](kazhaga_nilai.md) - translated
+- [katturaigal/kazhaga_pani](kazhaga_pani.md) - translated
+- [katturaigal/kazhagakural](kazhagakural.md) - translated
+- [katturaigal/kazhagamum](kazhagamum.md) - translated
+- [katturaigal/keelatchebam](keelatchebam.md) - translated
+- [கீவும், போச்சா!](keevum_pocha.md) - pending
+- [katturaigal/keezhae_vizhuntha](keezhae_vizhuntha.md) - translated
+- [கேய்ரோவில் கழுகு!](keirovil_kazhugu.md) - pending
+- [KHADI AND KHAKI](khati_and_khaki.md) - pending
+- [கிலிஸ்தான்!](kilisthan.md) - pending
+- [கிந்தனார்!](kinthanar.md) - pending
+- [கிட்கிந்தையில் கிரிப்ஸ்](kitkinthayil_grips.md) - pending
+- [கோடு உயர்ந்தது! குன்றம் தாழ்ந்தது!](koadu_uyarthathu.md) - pending
+- [கோலாப்பூரில் மூண்ட தீ](koalappuril_moondathee.md) - pending
+- [katturaigal/koattai_sarigirathu](koattai_sarigirathu.md) - translated
+- [katturaigal/koattaikullae](koattaikullae.md) - translated
+- [கொடை வள்ளல், செட்டி நாட்டரசர் அவர்கட்கு,](kodaivallal_chettinattarasar.md) - pending
+- [கொடுமை! கொடுமை!!](kodumai_kodumai.md) - pending
+- [கொடுவாள் தடுப்பீர்!](koduvaal_thaduppeer.md) - pending
+- [கோலேந்திவிட்டார்!](kolaenthivittar.md) - pending
+- [கோலார் கொடுமை!](kolar_kodumai.md) - pending
+- [katturaigal/koluppommai](koluppommai.md) - translated
+- [katturaigal/koluthuvathu](koluthuvathu.md) - translated
+- [கூண்டிலிருந்து வெளியேவாருங்கள்!](koondilirunthu_veliyae.md) - pending
+- [கூனூரில் கூடாதாம்!](koonooril.md) - pending
+- [கொசுவைக் கொல்லும் இசை!](kosuvai_kollum_isai.md) - pending
+- [katturaigal/kothanar](kothanar.md) - translated
+- [katturaigal/kovai_vaareer](kovai_vaareer.md) - translated
+- [கோவணாண்டிகளிடை குபேரர்!](kovanandikalidayae.md) - pending
+- [katturaigal/kovil_karai](kovil_karai.md) - translated
+- [katturaigal/kudiyatchi_komaan](kudiyatchi_komaan.md) - pending
+- [குடுகுடுப்பை!](kudukuduppai.md) - pending
+- [குளிர்ந்த காற்று!](kulirntha_kaatru.md) - pending
+- [katturaigal/kumbakonathil](kumbakonathil.md) - translated
+- [குன்றத்தூரில் ‘ஜாலியன் வாலாபாக்’!](kundrathooril_jalian.md) - pending
+- [குன்றத்தூர் ‘கோரத்’ தாண்டவம்!](kundrathur_korathandavam.md) - pending
+- [குன்றத்தூர்](kundratthur.md) - pending
+- [குன்றத்தூர்க் கொடுமைகள்](kundratthur_kodumaigal.md) - pending
+- [katturaigal/kuppai_maettu](kuppai_maettu.md) - translated
+- [குறைமதியல்ல!](kuraimathialla.md) - pending
+- [குரங்காட்டம்](kurangattam.md) - pending
+- [குறிப்புகள் 1](kurippugal_14_12_47.md) - pending
+- [குறிப்புகள் 2](kurippugal_19_10_47.md) - pending
+- [katturaigal/kutrala_neer](kutrala_neer.md) - translated
+- [katturaigal/kutram_sol](kutram_sol.md) - pending
+- [katturaigal/kutrathoorar](kutrathoorar.md) - translated
+- [குற்றவாளி - கூண்டில் இல்லை!](kuttravaali_koondlil_illai.md) - pending
+- [குட்டு வெளிப்படுகிறது](kuttu_velippadugirathu.md) - pending
+- [லேபில் வேண்டாம்!](lable_vaendam.md) - pending
+- [இலட்சார்ச்சனை!](latcharchanai.md) - pending
+- [katturaigal/latchiya_varalaru](latchiya_varalaru.md) - pending
+- [இலட்சிய வீரர்களுக்கு இரண்டு வாரம்!](latchiya_veerargalukku.md) - pending
+- [இலட்சிய வீரரின் ‘எரிமலை’ வெடித்தது!](latchiya_veerarin_erimalai.md) - pending
+- [katturaigal/lawrance](lawrance.md) - pending
+- [பாரதவீரர்! சமரசத்தூதர்! சாணக்கியர்!](leagai_muriadikka.md) - pending
+- [லீ.ரா.](lee_ra.md) - pending
+- [லெப்டினன்டு ஜெனரல்](leftinand_general.md) - pending
+- [LINCOLNS IN THE LEGISLATURE](Lincolns_in_the_Legislature.md) - pending
+- [katturaigal/londanile](londanile.md) - translated
+- [லண்டனில் லெனின்](londonil_lenin.md) - pending
+- [Lord 'Lux' Lashes All (1)](lord_lux.md) - pending
+- [katturaigal/maahana_manavar](maahana_manavar.md) - translated
+- [katturaigal/maaji_kadavul](maaji_kadavul.md) - pending
+- [மாநாடு முடிந்தது!](maanadu_mudinthathu.md) - pending
+- [மானமும் மனையும்!](maanamum_manaiyum.md) - pending
+- [மாணவர் மாநாட்டில் பேரறிஞர் அண்ணா](maanavar_maanattil.md) - pending
+- [மாணவர் தீர்ப்பு!](maanavar_theerpu.md) - pending
+- [katturaigal/macharya_minnal](macharya_minnal.md) - translated
+- [மடல்](madal_latchumanapuri.md) - pending
+- [MADAME WARNS !](madame_warns.md) - pending
+- [மத ஏகாதிபத்யத்தின் மீது தாக்குதல்](madha_ekathiathin_meethu.md) - pending
+- [katturaigal/madhakalvi](madhakalvi.md) - translated
+- [மகத்தான பாடம்](magathana_paadam.md) - pending
+- [மகிழ்ச்சி மலரட்டும்!](magizhchi_malarattum.md) - pending
+- [மகிழ்ச்சி! மறுகணம்?](magizhchi_marukanam.md) - pending
+- [katturaigal/magizhchi_nandri](magizhchi_nandri.md) - translated
+- [முகப்பு | எழுத்து | பேச்சு | புகைப்படம் | ஓவியம் | தொடர்பு](magizhgirom030252.md) - pending
+- [katturaigal/magizhgirom200355](magizhgirom200355.md) - translated
+- [katturaigal/magizhvin_maraivu](magizhvin_maraivu.md) - translated
+- [மஜீத் குடும்பப் பாதுகாப்பு நிதி!](majeed_kudumba.md) - pending
+- [katturaigal/maji_kadavulgal1](maji_kadavulgal1.md) - translated
+- [katturaigal/maji_kadavulgal10](maji_kadavulgal10.md) - translated
+- [katturaigal/maji_kadavulgal11](maji_kadavulgal11.md) - translated
+- [katturaigal/maji_kadavulgal12](maji_kadavulgal12.md) - translated
+- [மாஜி கடவுள்கள்](maji_kadavulgal13.md) - pending
+- [katturaigal/maji_kadavulgal14](maji_kadavulgal14.md) - translated
+- [katturaigal/maji_kadavulgal2](maji_kadavulgal2.md) - translated
+- [katturaigal/maji_kadavulgal3](maji_kadavulgal3.md) - translated
+- [katturaigal/maji_kadavulgal4](maji_kadavulgal4.md) - translated
+- [katturaigal/maji_kadavulgal5](maji_kadavulgal5.md) - translated
+- [katturaigal/maji_kadavulgal6](maji_kadavulgal6.md) - translated
+- [katturaigal/maji_kadavulgal7](maji_kadavulgal7.md) - translated
+- [katturaigal/maji_kadavulgal8](maji_kadavulgal8.md) - translated
+- [katturaigal/maji_kadavulgal9](maji_kadavulgal9.md) - translated
+- [MAKING OUR MASTERS MERRY](making_our_masters_merry.md) - pending
+- [மக்கள் தீர்ப்பு - மகத்தான பாடம்!](makkal_theerpu_magathanapaadam.md) - pending
+- [katturaigal/makkatpanbu](makkatpanbu.md) - translated
+- [katturaigal/malai_naattil](malai_naattil.md) - translated
+- [மலை விழுந்கி மகாதேவன்](malai_vizhungi_mahadevan.md) - pending
+- [மானங்கெட்டது!](manankettathu.md) - pending
+- [katturaigal/manavar_thanthai](manavar_thanthai.md) - translated
+- [katturaigal/mandapa_maanadu](mandapa_maanadu.md) - translated
+- [மந்த நிலை](mandha_nilai.md) - pending
+- [katturaigal/mangammal](mangammal.md) - translated
+- [மணி மறைந்தார்](mani_marainthar.md) - pending
+- [katturaigal/mannikkamudiyatha](mannikkamudiyatha.md) - translated
+- [மனோ ராஜ்யம்](manorajyam.md) - pending
+- [மனு சிரிக்கிறான்!](manu_sirikiran.md) - pending
+- [katturaigal/manuvin_aatchiya](manuvin_aatchiya.md) - translated
+- [katturaigal/mapusiponvizha](mapusiponvizha.md) - translated
+- [மறைந்த மஜீத்](maraintha_majeedh.md) - pending
+- [katturaigal/maraintha_marath](maraintha_marath.md) - translated
+- [katturaigal/marainthar](marainthar.md) - translated
+- [மறைந்தார் மன்னர்!](marainthar_mannar.md) - pending
+- [katturaigal/marainthayo](marainthayo.md) - translated
+- [katturaigal/maraivu](maraivu.md) - translated
+- [katturaigal/marakka_mudiyatha](marakka_mudiyatha.md) - translated
+- [katturaigal/marana_sasanam](marana_sasanam.md) - translated
+- [katturaigal/marappom_manni](marappom_manni.md) - translated
+- [மறுமலர்ச்சி வைபவம்](marumalarchi_vaibavam.md) - pending
+- [மாஸ்கோ மணம்](masco_manam.md) - pending
+- [மாஸ்கோ மறந்தாலும்!](masco_maranthalum.md) - pending
+- [மாஸ்கோ ரேடியோ](masco_radio.md) - pending
+- [MASTERS, FRETTING AND FUMING](masters_fretting_and_fuming.md) - pending
+- [katturaigal/mathuvilakku_naadag](mathuvilakku_naadag.md) - translated
+- [katturaigal/mathuvilakku_satta](mathuvilakku_satta.md) - translated
+- [‘மத்யப் பிரதேசம்‘ கூறுகிறது!](mathyaprathesam.md) - pending
+- [மற்றோர் பரணி!](matror_barani.md) - pending
+- [மட்டரகம்](mattaragam.md) - pending
+- [மற்றோர் மறைவு](mattroar_maraivu.md) - pending
+- [katturaigal/mayana_kaandam](mayana_kaandam.md) - translated
+- [மே தின முழக்கம்](maythina_muzhakkam.md) - pending
+- [katturaigal/mazhai](mazhai.md) - translated
+- [katturaigal/mazhu_aenthiya](mazhu_aenthiya.md) - translated
+- [katturaigal/meenambur](meenambur.md) - translated
+- [katturaigal/meendum_kama](meendum_kama.md) - translated
+- [மீண்டும் தோல்வி!](meendum_thoalvi.md) - pending
+- [“MIMANG”](mimang.md) - pending
+- [MIRACULOUS RISE - MISERABLE FALL](miraculous_rise_miserable_fall.md) - pending
+- [MISCHIEVOUS PROPAGANDA](mischievous_propaganda.md) - pending
+- [katturaigal/mohana_muhari](mohana_muhari.md) - translated
+- [katturaigal/moksesae](moksesae.md) - translated
+- [மொந்தையும் ‘கிளாசு‘ம்!](mondhayum_glassum.md) - pending
+- [katturaigal/moodanambikai](moodanambikai.md) - translated
+- [katturaigal/moodatheer](moodatheer.md) - translated
+- [katturaigal/moodupani](moodupani.md) - translated
+- [katturaigal/moodupani_vilaga](moodupani_vilaga.md) - translated
+- [மூலிகை, மலை மீது](mooligai_malaimeedhu.md) - pending
+- [katturaigal/mooliyanar](mooliyanar.md) - translated
+- [katturaigal/moondrarai_kodi](moondrarai_kodi.md) - translated
+- [மூன்றாவது ஆண்டு!](moondravathu_aandu.md) - pending
+- [மூன்றாவது முறை ‘சவுக்கடி’ வழக்கு!](moondravathu_murai.md) - pending
+- [மூன்று ஆண்டுகள் முடிந்தன!](moondru_aandugal_mudinthana.md) - pending
+- [மூன்றுமாதம் கடுங்காவல் தண்டனை!](moondru_maatham.md) - pending
+- [katturaigal/moothavar](moothavar.md) - translated
+- [மூவரின் முத்திரை!](moovarin_muthirai.md) - pending
+- [katturaigal/moscovin_puthu](moscovin_puthu.md) - translated
+- [மோட்டார் வேகத்தில் மதப்பிரசாரம்](motor_vaegathil_madhapracharam.md) - pending
+- [மவுண்ட் ரோட் பெருமானுக்கு அர்ச்சனைகள்!](mount_road_perumanukku.md) - pending
+- [katturaigal/mozhipor_veerang](mozhipor_veerang.md) - translated
+- [katturaigal/mozhiporattam](mozhiporattam.md) - translated
+- [மொழியும் வாழ்க்கை வழியும்!](mozhiyum_vaazhkai_vazhiyum.md) - pending
+- [katturaigal/mu_karunanithi](mu_karunanithi.md) - translated
+- [முடக்குவாதம் தீர!](mudakkuvatham_theera.md) - pending
+- [MUFFLED DRUMS](Muffled_drums.md) - pending
+- [katturaigal/mugathilae_kari](mugathilae_kari.md) - translated
+- [முகாம் அமைக்கிறார்கள்!](muhaam_amaikirargal.md) - pending
+- [MUNICIPAL ELECTIONS AND](municipal_elections_and.md) - pending
+- [முன்னாள் அமைச்சர் எம்.சி. இராசா அவர்கட்கு, பல்லாவரம்.](munnal_amaicher_MCRaja.md) - pending
+- [katturaigal/munnani_padai](munnani_padai.md) - translated
+- [katturaigal/munshi_marg](munshi_marg.md) - translated
+- [முப்புரியின் சக்திப்பொறி!](muppiriyin_sakthippori.md) - pending
+- [முரண்பாடுகள் அல்ல](muranpadugal_alla.md) - pending
+- [katturaigal/murasum](murasum.md) - translated
+- [katturaigal/musadhik](musadhik.md) - translated
+- [MUSINGS OF MUNSHI](musing_of_munshi.md) - pending
+- [MUSTER STRONG - DEMAND JUSTICE](muster_strong_demand_justice.md) - pending
+- [katturaigal/muthal_kanik](muthal_kanik.md) - translated
+- [katturaigal/muthal_thaakku](muthal_thaakku.md) - translated
+- [‘முதல் தேதி‘ நோக்கிகள் அல்லல்!](muthal_thaethi.md) - pending
+- [முதலாளித்துவ முகாம்! முன்னோடும் பிள்ளைகள்!](muthalalithuva_mugaam.md) - pending
+- [katturaigal/muthalamaicharin_murari](muthalamaicharin_murari.md) - translated
+- [முத்தமிழ் கற்றோரே!](muthamizh_katrorae.md) - pending
+- [katturaigal/muthamizhukku](muthamizhukku.md) - translated
+- [முத்துரங்கத்தின் இந்திப் பித்தம்](muthurangathin_hindi_pittham.md) - pending
+- [முழக்கம்](muzhakkam.md) - pending
+- [katturaigal/mysore_sarkarukku](mysore_sarkarukku.md) - translated
+- [katturaigal/naagai_mani](naagai_mani.md) - translated
+- [நான்கு இலட்சம் காணிக்கை!](naalu_latcham_kaanickai.md) - pending
+- [நாலு நாட்களுக்குள்!](naalu_naatkalukkul.md) - pending
+- [நாம்](naam.md) - pending
+- [“நாம்“ பலர், அவர்கள் சிலர்”](naam_palar.md) - pending
+- [நாம் யாருக்கு எதிரி](naam_yarukku_ethiri.md) - pending
+- [“நான் மகிழ்ச்சி ஆடைகிறேன்!”](naan_magizhchi_adaigiraen.md) - pending
+- [“நான் சென்று வருகிறேன்”](naan_sendru_varugiraen.md) - pending
+- [நாட்டின் நாயகர்கள்](naatin_nayagargal.md) - pending
+- [katturaigal/naattu_nilayum](naattu_nilayum.md) - translated
+- [நச்சுப் பொய்கை](nachuppoygai.md) - pending
+- [katturaigal/nadaga_pera](nadaga_pera.md) - translated
+- [katturaigal/nadamaadum](nadamaadum.md) - translated
+- [நடமாடும் அபாய அறிவிப்பு](nadamadum_abaya_arivippu.md) - pending
+- [katturaigal/nadathiselgirar](nadathiselgirar.md) - translated
+- [katturaigal/nadengum](nadengum.md) - translated
+- [katturaigal/nadigar_sanga](nadigar_sanga.md) - translated
+- [நேசக்கரம் இணைப்பீர்! நீசத்தனம் ஒழிப்பீர்!](naesakkaram.md) - pending
+- [katturaigal/nagai_veedu](nagai_veedu.md) - translated
+- [katturaigal/nagaratchi_thaerthal](nagaratchi_thaerthal.md) - translated
+- [நைல் நதி தீரம்!](nailnathitheeram.md) - pending
+- [‘நல்ல முடிவு’ கூடாதாம்](nalla_mudivu_kooda.md) - pending
+- [katturaigal/nalla_yosanai](nalla_yosanai.md) - translated
+- [katturaigal/nallatchi_kanbom](nallatchi_kanbom.md) - translated
+- [katturaigal/nallathalla](nallathalla.md) - translated
+- [katturaigal/nam_annavin](nam_annavin.md) - translated
+- [நமது முன்னணி வேலை](namadhu_munnani_velai.md) - pending
+- [நமது செல்வம்](namadhu_selvam.md) - pending
+- [katturaigal/namaparvathi](namaparvathi.md) - translated
+- [katturaigal/namathu_asai](namathu_asai.md) - translated
+- [katturaigal/namathu_geethai](namathu_geethai.md) - translated
+- [katturaigal/namathu_paathai](namathu_paathai.md) - translated
+- [katturaigal/namathu_poar_paathai](namathu_poar_paathai.md) - translated
+- [katturaigal/nambikai_natch](nambikai_natch.md) - translated
+- [katturaigal/namellam](namellam.md) - translated
+- [``நம்ம சர்க்கார்?''](namma_sarkar.md) - pending
+- [``நம்ம சர்க்கார்'' ஒன்றல்ல இரண்டு!](namma_sarkar_ondrallla.md) - pending
+- [katturaigal/nammai_nambatha](nammai_nambatha.md) - translated
+- [நம்மோடு கலந்து விட்டார்!](nammodu_kalanthuvittar.md) - pending
+- [katturaigal/nanbargal_kaetpatharkku01](nanbargal_kaetpatharkku01.md) - translated
+- [katturaigal/nanbargal_kaetpatharkku02](nanbargal_kaetpatharkku02.md) - translated
+- [katturaigal/nanbargal_kaetpatharkku03](nanbargal_kaetpatharkku03.md) - translated
+- [katturaigal/nanbargal_kaetpatharkku04](nanbargal_kaetpatharkku04.md) - translated
+- [katturaigal/nanbargal_kaetpatharkku05](nanbargal_kaetpatharkku05.md) - translated
+- [katturaigal/nandri_170357](nandri_170357.md) - translated
+- [katturaigal/nandriyum_varav](nandriyum_varav.md) - translated
+- [katturaigal/nangal_kattada](nangal_kattada.md) - pending
+- [katturaigal/nangu_naatkal](nangu_naatkal.md) - translated
+- [நன்னிலம் நண்பருக்கு!](nannilam_nanbarukku.md) - pending
+- [நரி பரியாகும் படலம்!](nari_pariyagum.md) - pending
+- [katturaigal/navenna](navenna.md) - translated
+- [“நீ பிறந்தது வெள்ளிக்கிழமை...!”](nee_piranthathu_vellikilamai.md) - pending
+- [நீக்ரோஸ்தான்!](neegrosthan.md) - pending
+- [நீலக்கல் மோதிரம்](neelakkal_mothiram.md) - pending
+- [நீலன் நிருபம்](neelan_nirubam.md) - pending
+- [நீலன் நிருபம்](neelan_nirubam_2.md) - pending
+- [நீங்களே கூறுங்கள்](neengalae_koorungal.md) - pending
+- [நீர் நஞ்சாயிற்று!](neer_nanchayitru.md) - pending
+- [நீதி சிரித்திடும் காட்சி](neethi_sirithidum.md) - pending
+- [katturaigal/neethimandra_anna](neethimandra_anna.md) - translated
+- [katturaigal/neethiyum](neethiyum.md) - translated
+- [katturaigal/nehruvin_maeru](nehruvin_maeru.md) - translated
+- [நெருக்கடி!](nerukkadi.md) - pending
+- [katturaigal/nerungivit](nerungivit.md) - translated
+- [நிகோலாஸ் தீர்ப்பு!](nicholas_theerpu.md) - pending
+- [katturaigal/ninaivil_nilaithar](ninaivil_nilaithar.md) - translated
+- [katturaigal/ninaivu_nilai](ninaivu_nilai.md) - translated
+- [katturaigal/nirubarin_nilai](nirubarin_nilai.md) - pending
+- ["NO MONEY ON TREES"](no_money_on_trees.md) - pending
+- [நானிலம் போற்றிடும் நவம்பர் 7 எனும் நன்னாள் இன்று!](november_7.md) - pending
+- [katturaigal/noyaligal](noyaligal.md) - translated
+- [katturaigal/nsk](nsk.md) - translated
+- [NYAYASTHAN !](nyayasthan.md) - pending
+- [ஓடுது பார்!](oaduthu_paar.md) - pending
+- [ஓமந்தூரார்!](oamanthurar.md) - pending
+- [katturaigal/october_15](october_15.md) - translated
+- [katturaigal/oli_thanthar](oli_thanthar.md) - translated
+- [ஒன்றும் செய்யவில்லை!](ondrum_seiyavillai.md) - pending
+- [ONE IS TO THREE!](one_is_to_three.md) - pending
+- [ஊரார் உரையாடல்](oorar_urayadal_7.md) - pending
+- [ஊரார் உரையாடல்](oorar_urayadal_kabaleeswarar.md) - pending
+- [ஊரார் உரையாடல்](oorar_urayadal_kagasas.md) - pending
+- [ஊரார் உரையாடல்!](oorar_urayadal_kovil_kulam.md) - pending
+- [ஊரார் உரையாடல்](oorar_urayadal_krishnamanthiram.md) - pending
+- [ஊரார் உரையாடல்](oorar_urayadal_thoattapathai.md) - pending
+- [katturaigal/oorsirikkum](oorsirikkum.md) - translated
+- [ஒப்பற்ற கவி!](oppatra_kavi.md) - pending
+- [katturaigal/orae_nilavu](orae_nilavu.md) - translated
+- [katturaigal/oraeoru](oraeoru.md) - translated
+- [ஒரே ஒரு விமானம்!](oraeoru_vimanam.md) - pending
+- [katturaigal/oru_ponnedu](oru_ponnedu.md) - translated
+- [OUR LEGALY - RICH AND MATCHLESS!](our_legaly_rich_and_matchless.md) - pending
+- [katturaigal/oviya_mannarukku](oviya_mannarukku.md) - translated
+- [katturaigal/paalaivana_malar](paalaivana_malar.md) - translated
+- [பானிபட்! பிளாசி! எது தேவை?](paanipat_plasi.md) - pending
+- [katturaigal/paanjalasabai](paanjalasabai.md) - translated
+- [பாராட்டுகிறோம்!](paarattugiroam.md) - pending
+- [பாசமும் பாசீசமும்](paasamum_naasisamum.md) - pending
+- [katturaigal/paathivazhi](paathivazhi.md) - translated
+- [பாவலர் விடுதலை](paavalar_viduthalai.md) - pending
+- [பச்சை இரத்தம் பரிமாறிடுவோம்](pachai_rattham_parimariduvom.md) - pending
+- [படக்காட்சிகளில் பரமன்!](padakkatchigalil_paraman.md) - pending
+- [katturaigal/padikkathae](padikkathae.md) - translated
+- [பேச்சு மேடை](paechu_maedai.md) - pending
+- [பேச்சுரிமைப் போர்முரசு ஒலித்தது](paechurimai_poar.md) - pending
+- [பேச்சுரிமைப் போர்வீரர்கள் மீது வழக்கு](paechurimai_poar_veerar.md) - pending
+- [பேரறிஞரின் பெருந்தன்மை!](paerarignarin_perunthanmai.md) - pending
+- [பகுத்தறிவுப் பொன்மொழிகள்](pagutharivu_ponmozhigal.md) - pending
+- [katturaigal/pakarkollai](pakarkollai.md) - translated
+- [பாகிஸ்தான்! 24- ஆண்டுகளுக்கு முன்பு!!](pakistan_24_years_munbu.md) - pending
+- [பாகிஸ்தான் நாள்!](pakistan_naal.md) - pending
+- [பாகிஸ்தானி்ல் பாசிசம்!](pakistanil_paazism.md) - pending
+- [katturaigal/pal_thirinthathu](pal_thirinthathu.md) - translated
+- [பல்கலைக்கழகத்தில் பஜனை](palkalaikazhakathil_bajanai.md) - pending
+- [katturaigal/pallakku_boomi](pallakku_boomi.md) - translated
+- [katturaigal/palliyarayil_param](palliyarayil_param.md) - translated
+- [katturaigal/pamba_ramayan](pamba_ramayan.md) - pending
+- [katturaigal/panabanam](panabanam.md) - translated
+- [katturaigal/panathottam](panathottam.md) - translated
+- [பாஞ்சாலியும் பாரதத்தாயும்](panchaliyum_barathathayum.md) - pending
+- [பண்டித நேருவின் கண்முன்!](panditha_nehruvin_kanmun.md) - pending
+- [katturaigal/pandithar_maraivu](pandithar_maraivu.md) - translated
+- [katturaigal/panditharin_perurai](panditharin_perurai.md) - pending
+- [katturaigal/panditharukku_vaendu](panditharukku_vaendu.md) - translated
+- [பாண்டியன் - படுகொலை](pandiyan_padukolai.md) - pending
+- [“பஞ்சாபி – சுபா“](panjabi_subha.md) - pending
+- [பஞ்சமாம் பஞ்சம்!](panjamam_panjam.md) - pending
+- [katturaigal/parakkum_kuthirai](parakkum_kuthirai.md) - translated
+- [katturaigal/paranthathu](paranthathu.md) - translated
+- [katturaigal/parasakthi](parasakthi.md) - translated
+- [katturaigal/parattu5256](parattu5256.md) - translated
+- [katturaigal/parattu_211056](parattu_211056.md) - translated
+- [பாராட்டுகிறோம்! - வரவேற்கவில்லை](parattugiroam_varavaerkavillai.md) - pending
+- [பரிதாபம்!](parithabam.md) - pending
+- [பரிதாபம்!](parithabathodu.md) - pending
+- [katturaigal/parivarathin](parivarathin.md) - translated
+- [katturaigal/parpanargalum](parpanargalum.md) - translated
+- [PARTNERS IN A PASTIME](partners_in_a_pastime.md) - pending
+- [katturaigal/pathandugal](pathandugal.md) - translated
+- [பதி - பக்தி](pathi_bakthi.md) - pending
+- [பதிகம் பாடுவீர்!](pathigam_paaduveer.md) - pending
+- [katturaigal/pathinainthu](pathinainthu.md) - translated
+- [பதினைந்து ஆண்டுகளுக்குப் பின்](pathinaithu_aandukku.md) - pending
+- [பாதிரியாகலாம், எவரும்! வேதியராக முடியாதே!](pathiriyagalam.md) - pending
+- [பட்டாபி வெற்றி!](pattabi_vetri.md) - pending
+- [பட்டம் - ஒரு பாடம்!](pattam_oru_paadam.md) - pending
+- [பட்டியின் பகற்கனவு!](pattiyin_paharkanavu.md) - pending
+- [பழம், வீழ்ந்தது!](pazham_vizhunthathu.md) - pending
+- [பழமும் பலனும்!](pazhamum_palanum.md) - pending
+- [katturaigal/pazhaya_agar](pazhaya_agar.md) - translated
+- [katturaigal/pazhaya_company](pazhaya_company.md) - pending
+- [பழைய பாதை!](pazhaya_paathai.md) - pending
+- [katturaigal/penninam](penninam.md) - translated
+- [பேரறிஞர் அண்ணா அவர்கள் விடுத்த அறிக்கை](perarignar_anna_vidutha_arikkai.md) - pending
+- [பேரறிஞர் அண்ணாவின் அயரா உழைப்பு!](perarignar_annavin_ayaratha.md) - pending
+- [katturaigal/periya_idathu_thiru](periya_idathu_thiru.md) - translated
+- [katturaigal/periyapuranaputhayal](periyapuranaputhayal.md) - pending
+- [பெரியார் - ஆச்சாரியார் சந்திப்பு!](periyar_achariyar_santhippu.md) - pending
+- [katturaigal/periyar_namakku](periyar_namakku.md) - pending
+- [katturaigal/periyarum_pirarum](periyarum_pirarum.md) - translated
+- [katturaigal/pernathath](pernathath.md) - translated
+- [katturaigal/perumaikuriya_para](perumaikuriya_para.md) - translated
+- [katturaigal/perumpulavar](perumpulavar.md) - translated
+- [katturaigal/peyyena](peyyena.md) - translated
+- [A PICTURE OF NEHRU'S INDIA](picture_of_nehrus_india.md) - pending
+- [katturaigal/pillayin_pinam](pillayin_pinam.md) - translated
+- [பிணத்தின்மீது பணம்](pinathin_meethu.md) - pending
+- [katturaigal/pirarsothai](pirarsothai.md) - translated
+- [பிரசாதம்!](pirasatham.md) - pending
+- [katturaigal/piravi_muthalali](piravi_muthalali.md) - translated
+- [பிரிக்க வேண்டும்!](pirikkavaendum.md) - pending
+- [பிரிவுத் துயரம்!](pirivu_thuyaram.md) - pending
+- [பித்தலாட்டம்](pithalattam.md) - pending
+- [katturaigal/pitham_theliya](pitham_theliya.md) - translated
+- [போலிச் சமாதானம்!](poalichamathanam.md) - pending
+- [போலியின் கேலி](poaliyil_kaeli.md) - pending
+- [போர் நோக்கம்](poar_noakkam.md) - pending
+- [போர் ஒழிந்தது](poar_ozhinthathu.md) - pending
+- [பொய்க்கால் குதிரை!](poikkal_kuthirai.md) - pending
+- [போலீசும் பொது மக்களும்](polisum_pothumakkalum.md) - pending
+- [பொன் தந்து மண் பெறுவோர்!](pon_thanthu.md) - pending
+- [katturaigal/pon_vaathu](pon_vaathu.md) - translated
+- [போன மச்சான்..!](pona_machan.md) - pending
+- [PONDER, PLEASE!](ponder_please.md) - pending
+- [பொங்கற் புதுநாள்!](pongal_puthunaal.md) - pending
+- [katturaigal/pongal_virunthu](pongal_virunthu.md) - translated
+- [பொங்கலோ பொங்கல்!](pongalo_pongal.md) - pending
+- [பொங்குக இன்பம்!](ponguga_inbam.md) - pending
+- [பொங்குக புதுமை!](ponguga_puthumai.md) - pending
+- [katturaigal/ponnoli](ponnoli.md) - pending
+- [katturaigal/poongatru](poongatru.md) - translated
+- [பூங்காவில் புலவர்](poongavil_pulavar.md) - pending
+- [பொறுப்பு நமதே!](poruppu_namathae.md) - pending
+- [katturaigal/pothu_seyalalar](pothu_seyalalar.md) - translated
+- [பொது உடைமையும், பெர்லின் மடமையும்](pothu_udamayum_berlin.md) - pending
+- [பொது விசாரணை தேவை](pothu_visaranai.md) - pending
+- [பொது வாழ்வு](pothuvazhvu_orukannottam.md) - pending
+- [POVERTY GARBED](poverty_garbed.md) - pending
+- [katturaigal/power_soda](power_soda.md) - translated
+- [பிரச்சாரம் வீண்போகவில்லை](pracharam_veenpogavillai.md) - pending
+- [பிரகாஸ் பிக்சர்ஸ்](prakash_pictures.md) - pending
+- [katturaigal/prarthanai](prarthanai.md) - translated
+- [பிராயச்சித்தம்](prayachittham.md) - pending
+- [பிரென்னர் கணவாயில்!](prennar_kanavayil.md) - pending
+- [புலமைக்குப் பொருள் புளுகுவதுதானா?](pulamaikku_porul_puluguvathuthana.md) - pending
+- [புலவர் பெருமக்கட்கோர் வேண்டுகோள்!](pulavar_perumakkatkoar.md) - pending
+- [புலி புலம்புகிறது!](puli_pulambugirathu.md) - pending
+- [katturaigal/pulinigar](pulinigar.md) - translated
+- [புலித்தோல் போர்வை!](pulithol_porvai.md) - pending
+- [katturaigal/puliyana_kathai](puliyana_kathai.md) - translated
+- [புலியின் கிலி!](puliyin_kili.md) - pending
+- [புலியூர் புகுவதா!](puliyur_puguvatha.md) - pending
+- [பூனாவில் டோக்கியோ!](punavil_tokio.md) - pending
+- [katturaigal/punnagai](punnagai.md) - translated
+- [katturaigal/punnagaiyum_peru](punnagaiyum_peru.md) - translated
+- [முகப்பு | எழுத்து | பேச்சு | புகைப்படம் | ஓவியம் | தொடர்பு](punniya_boomi.md) - pending
+- [புன் சிரிப்பு!](punsirippu.md) - pending
+- [katturaigal/puntheera](puntheera.md) - translated
+- [புராண இதிகாச மனுதரும ஒழிப்பு](purana_ithikasa_manudarma_ozhippu.md) - pending
+- [katturaigal/puranakala_panjam](puranakala_panjam.md) - translated
+- [புராணம் போதைதரும் லேகியம்](puranam_bothaitharum_laehiyam.md) - pending
+- [katturaigal/puranama](puranama.md) - translated
+- [katturaigal/puratchi_kanda](puratchi_kanda.md) - pending
+- [புரட்சியும் மருட்சியும்](puratchiyum_marutchiyum.md) - pending
+- [புரியாத கோளாறு!](puriyatha_kolaru.md) - pending
+- [புரியவில்லை!](puriyavillai.md) - pending
+- [katturaigal/puthia_thiruppam](puthia_thiruppam.md) - translated
+- [புதிய ஏகாதிபத்யம்!](puthiya_aekathipathiyam.md) - pending
+- [katturaigal/puthiya_ani](puthiya_ani.md) - translated
+- [புதிய பாதை](puthiya_paathai.md) - pending
+- [புதிய பொன்மொழி!](puthiya_ponmozhi.md) - pending
+- [katturaigal/puthiyapera](puthiyapera.md) - translated
+- [புதுமுறைப் பிரசாரம்!](puthumurai_piracharam.md) - pending
+- [katturaigal/puthuppothanai](puthuppothanai.md) - translated
+- [katturaigal/puthuthittam](puthuthittam.md) - translated
+- [katturaigal/puthuvali](puthuvali.md) - translated
+- [katturaigal/puthvazhvu](puthvazhvu.md) - translated
+- [புயல் அடிக்கிறது](puyal_adikkirathu.md) - pending
+- [புயல் கொடுமையைப் போக்க தி.மு.கழகத் திட்டம்! நொந்தோம்!](puyal_kodumayai.md) - pending
+- [புயலுக்கு முன்!](puyalukku_mun.md) - pending
+- [ராம ராஜ்யம்](raama_rajyam.md) - pending
+- [ராதாவுக்குத் தடை](radhavukku_thadai.md) - pending
+- [katturaigal/raja_annama](raja_annama.md) - translated
+- [katturaigal/raja_sir](raja_sir.md) - pending
+- [RAMBLER'S RHYTHM(1)](ramblers_rhythm.md) - pending
+- [katturaigal/rashya_sirikirathu](rashya_sirikirathu.md) - translated
+- [ரஷிய தினம்](rashya_thinam.md) - pending
+- [ரத்தும் – பயமும்!](ratthum_bayamum.md) - pending
+- [katturaigal/ravana_kaviathirku](ravana_kaviathirku.md) - translated
+- [katturaigal/ravana_kaviyam](ravana_kaviyam.md) - translated
+- [katturaigal/ravishthan](ravishthan.md) - translated
+- [ரயிலேரி ராமேஸ்வரம் போவது...!](rayilaeri_rameswaram.md) - pending
+- [REJECTED! SO, WHAT...!!](rejected_so_what.md) - pending
+- [PRESIDENT JOHNSON AND GENERAL DEGAULLE](resident_johnson_and_general_degaulle.md) - pending
+- [katturaigal/ribbon_mandapathu](ribbon_mandapathu.md) - translated
+- [katturaigal/romapuri_ranigal](romapuri_ranigal.md) - pending
+- [ராயலசீமா!](royalaseema.md) - pending
+- [RUPEE IS SICK...](rupee_is_sick.md) - pending
+- [S. O. S.](s_o_s.md) - pending
+- [சாக்கடை அருகே!](saakkadai_arugae.md) - pending
+- [சாமான்யமல்ல!](saamanyamalla.md) - pending
+- [சாதிபேதம் சாகும்வரை, சிறையில் இருப்போம்!](saathibetham.md) - pending
+- [சச்சிவோத்தமர்!](sachivothamar.md) - pending
+- [SADHU - SANTHARAM](sadhu_santharam.md) - pending
+- [katturaigal/saeravaarum](saeravaarum.md) - translated
+- [சேர்க்கை வாசனை](saerkkai_vaasanai.md) - pending
+- [katturaigal/saiva_vainava](saiva_vainava.md) - translated
+- [katturaigal/sakkaraneri](sakkaraneri.md) - translated
+- [‘சேலம்’ பிறந்த இடம்!](salem_pirantha_idam.md) - pending
+- [சேலம் வாரீர்!](salem_vaareer.md) - pending
+- [சேலம் வழி காட்டும்!](salem_vazhikaattum.md) - pending
+- [சமதர்ம வெற்றி!](samadharma_vetri.md) - pending
+- [katturaigal/samanyama](samanyama.md) - pending
+- [“சமாதி“ புலம்பும்!](samathi_pulambum.md) - pending
+- [katturaigal/samaya_vila](samaya_vila.md) - translated
+- [katturaigal/samayasancheevi](samayasancheevi.md) - translated
+- [katturaigal/sampath_thara](sampath_thara.md) - translated
+- [சனாதனச் சர்ச்சில்கள்](sanathana_charchilgal.md) - pending
+- [சங்க காலத்தில்](sanga_kaalathil.md) - pending
+- [சங்கராச்சாரி பதவி தற்கொலை!](sankarachari_pathavi_tharkolai.md) - pending
+- [சந்தேகமில்லை! சந்தேகமில்லை!](santhaegamillai.md) - pending
+- [katturaigal/santhana_sapra](santhana_sapra.md) - pending
+- [சந்தான சப்ரமஞ்சம்!](santhana_sapramanjam.md) - pending
+- [katturaigal/santharpas](santharpas.md) - translated
+- [சாந்திஸ்தான்!](santhisthan.md) - pending
+- [சரசமும் சதியும்](sarasamum_sathiyum.md) - pending
+- [சர்ச்சிலிசம்](sarchilism.md) - pending
+- [katturaigal/sarintha_samrajyam_1](sarintha_samrajyam_1.md) - translated
+- [katturaigal/sarkar_vidumurai](sarkar_vidumurai.md) - translated
+- [சர்க்கார் கடமை](sarkkar_kadamai.md) - pending
+- [சாஸ்திரியார் கட்டிய ஜல்லடம்](sasthiriyar_kattiya_jalladam.md) - pending
+- [சதுர்வேதி மங்கலம்!](sathuvethi_mangalam.md) - pending
+- [சத்திய சோதனை!](sathya_sothanai.md) - pending
+- [katturaigal/satta_maruppum](satta_maruppum.md) - translated
+- [‘சட்டநாதர்‘கள் சஞ்சலம்!](sattanathar.md) - pending
+- [சட்ட சபையிலே சகஜானந்தர்](sattasabayilae_sagajanandar.md) - pending
+- [katturaigal/savundappan](savundappan.md) - translated
+- [சவுண்டிகளுக்குச் சவுக்கடி](savundigalukku_savukkadi.md) - pending
+- [சாயம் வெளுக்கிறது!](sayam_velukkirathu.md) - pending
+- [SCARING SURNAMES !](scaring_surnames.md) - pending
+- [சீடர் சிலம்பம் எடுக்கிறார்!](seedar_silambam_edukirar.md) - pending
+- [katturaigal/seena_sivappagirathu](seena_sivappagirathu.md) - translated
+- [katturaigal/seerum_seeman](seerum_seeman.md) - translated
+- [சீறும் சில்லரைகள்](seerum_sillaraigal.md) - pending
+- [சேக்கிழார் ஒரு சீர்திருத்தக்காரரா?](sekizhar_oru.md) - pending
+- [செல்லாது!](sellathu.md) - pending
+- [“சென்றேன்! வந்தேன்!!”](sendraen_vanthaen.md) - pending
+- [katturaigal/sengodi_nizhalilae](sengodi_nizhalilae.md) - translated
+- [சென்னைச் சிறையில் ‘எதிர்கால உலகம்’](sennai_sirayil.md) - pending
+- [சென்னையில் எழுத்துரிமைப் போர்!](sennayil_ezhuthurimai.md) - pending
+- [சென்னையில் ‘இராம ராஜ்யம்’!](sennayil_ramarajyam.md) - pending
+- [SENSATIONAL OFFER!](sensational_offer.md) - pending
+- [Sermons are Heard](sermons_are_heard.md) - pending
+- [செத்துக் காட்டினார்! சிந்தை நொந்தோம்!](setthukattinar.md) - pending
+- [செவிச்சுவை!](sevichuvai.md) - pending
+- [செயலாற்றுங்கள்](seyalatrungal.md) - pending
+- [சண்முக சம்வாதம்!](shanmuga_samvatham.md) - pending
+- [ஷூஸ்டரின் சோகம்!](sheetlarin_soagam.md) - pending
+- [SIGNIFICANCE OF "SIX MONTHS"](significance_of_six_monts.md) - pending
+- [சிலம்புதந்த ‘திருநாடு’ ‘திருவோடு’ ஏந்துவதா?](silambuthantha.md) - pending
+- [katturaigal/silanthiyum](silanthiyum.md) - translated
+- [katturaigal/singam_sirunari_1](singam_sirunari_1.md) - pending
+- [முகப்பு | எழுத்து | பேச்சு | புகைப்படம் | ஓவியம் | தொடர்பு](singam_sirunari_2.md) - pending
+- [சிங்காரச் சிறை](singara_chirai.md) - pending
+- [சிங்கத்தின் பங்கம்!](singathin_bangam.md) - pending
+- [சின்னான் சினிமா பார்க்கிறான்](sinnan_sinima_paarkiran.md) - pending
+- [katturaigal/sinthanai_chirpi](sinthanai_chirpi.md) - translated
+- [katturaigal/sinthanai_kalan](sinthanai_kalan.md) - translated
+- [சிந்தனைக்கு...](sinthanaikku.md) - pending
+- [katturaigal/sir_cv_ramanukku](sir_cv_ramanukku.md) - translated
+- [katturaigal/sir_paathro](sir_paathro.md) - translated
+- [katturaigal/sir_polish](sir_polish.md) - translated
+- [சிறைச்சாலை என்ன செய்யும்?](siraichalai_ennaseyyum.md) - pending
+- [சிறைச்சாலை என்ன செய்யும்?](siraichalai_ennaseyyum_1949.md) - pending
+- [katturaigal/sirantha_nanbar](sirantha_nanbar.md) - translated
+- [சிறையில் ராதா](sirayil_radha.md) - pending
+- [சிறையிலே தங்கம்!](sirayilae_thangam.md) - pending
+- [katturaigal/sirunarikku](sirunarikku.md) - translated
+- [katturaigal/sirunariyin](sirunariyin.md) - translated
+- [சித்தையன் கோட்டை!](sitthaiyankoattai.md) - pending
+- [சிவலோக வாசிகள்](sivalogavasigal.md) - pending
+- [சிவநேசர்கட்கு!](sivanesarkatku.md) - pending
+- [சிவபூஜையில் கரடி!](sivapoojayil_karadi.md) - pending
+- [ஸ்லட் நதிக்கரையில்!](slet_nathikkarayil.md) - pending
+- [சூட்சமம் இதுதான்!](sootchumam_ithuthan.md) - pending
+- [katturaigal/sorgathil_naragam](sorgathil_naragam.md) - pending
+- [katturaigal/sorgavasal](sorgavasal.md) - translated
+- [katturaigal/sothanayil_vetri](sothanayil_vetri.md) - translated
+- [SOUL OF NATION](soul_of_nation.md) - pending
+- [சோவியத் கொரில்லா](soviet_korilla.md) - pending
+- [சோவியத் சிங்கம் லெனின்](soviet_singam_lenin.md) - pending
+- [சோவியத் விகடம்](soviet_vikadam.md) - pending
+- [SPADE - WORK !](spade_work.md) - pending
+- [STILL, FADS?](still_fads.md) - pending
+- [சும்மாயிரார்!](summayirar.md) - pending
+- ['Sun' Day in CEYLON](sun_day_in_ceylon.md) - pending
+- [சுரண்டல் கூடாது, எந்த வடிவிலும்!](surandal_koodathu.md) - pending
+- [சுதேசி சுரண்டல் யந்திரம்!](suthesi_surandal_enthiram.md) - pending
+- [சுயராஜ்யமே சுயராஜ்யம்!](suyarajyam.md) - pending
+- [சுழல் விளக்கு](suzhal_vilakku.md) - pending
+- [katturaigal/suzhalum_sak](suzhalum_sak.md) - translated
+- [katturaigal/swamigalin](swamigalin.md) - translated
+- [டி.என். ராமன் மறைந்தார்!](t_n_raman.md) - pending
+- [T.T.K.](t_t_k.md) - pending
+- [katturaigal/tahro_tahro](tahro_tahro.md) - translated
+- [TALL TALKS](tall_talks_of_congress.md) - pending
+- [katturaigal/tamil_muzhakkam](tamil_muzhakkam.md) - translated
+- [katturaigal/tamilan_thodu_kuri](tamilan_thodu_kuri.md) - translated
+- [katturaigal/tamilan_thodutha](tamilan_thodutha.md) - translated
+- [TAMILIANS SHED TEARS OF BLOOD](Tamilians_shed_tears_of_blood.md) - pending
+- [katturaigal/televishion](televishion.md) - translated
+- [“TENTH AVATAR”](tenth_avatar.md) - pending
+- [தாளம் - சீசன் ஆரம்பம்!](thaalam_season_arambam.md) - pending
+- [தடை உத்தரவு](thadai_utharavu.md) - pending
+- [‘தடியாட்சி’](thadiyatchi.md) - pending
+- [தேம்பும் தாயகம்](thaembum_thayagam.md) - pending
+- [தேன் இருந்த சிப்பியில் தேள்!](thaen_iruntha_sippiyil.md) - pending
+- [தேன்சுரக்கப் பேசி..!](thaensurakka_paesi.md) - pending
+- [தேனுடன் வேம்பு!](thaenudan_vaembu.md) - pending
+- [தேயிலைத் தோட்டத்திலே!](thaeyilai_thottathilae.md) - pending
+- [தாய்மார்களின் உற்சாகம்](thaimaargalin_urchagam.md) - pending
+- [தாக்குதல் ஆரம்பம்](thakkuthal_aarambam.md) - pending
+- [katturaigal/thalaivarin](thalaivarin.md) - translated
+- [katturaigal/thalamuthu](thalamuthu.md) - translated
+- [தலயாத்திரை](thalayathirai.md) - pending
+- [தாமரைபூத்த குளம்](thamarai_pootha_kulam.md) - pending
+- [தமிழ்ப் பண்டிதர்கட்கு!](thamil_panditharukku.md) - pending
+- [தமிழர் திருநாள்](thamilar_thirunaal_1943.md) - pending
+- [தமிழர் தலை நிமிர்ந்திடுகின்றனர்!](thamilargal_thalainimirthidugindranar.md) - pending
+- [தமிழர் திருநாள்! 1949](thamizhar_thirunaal_1949.md) - pending
+- [தமிழரின் மறுமலர்ச்சி!](thamizharin_marularchi.md) - pending
+- [தமிழருக்குத் தேவையில்லை!](thamizharukku_thaevayillai.md) - pending
+- [katturaigal/thanae_seyya](thanae_seyya.md) - translated
+- [தண்டனை பெற்ற தண்டமிழ் வீரர்கள்](thandanai_petra.md) - pending
+- [katturaigal/thanga_vayalil](thanga_vayalil.md) - translated
+- ['தங்கம்' தணலில்!](thangam_thanalil.md) - pending
+- [katturaigal/thanjayil_puyal](thanjayil_puyal.md) - translated
+- [katturaigal/tharkala_samayam](tharkala_samayam.md) - translated
+- [தற்காலிக சாந்தியே!](tharkaliga_santhiyae.md) - pending
+- [தறுதலை ஆட்டம்!](tharuthalai_aattam.md) - pending
+- [THAT, ‘WHAT IF’ ATTITUDE](that_what_if_atittude.md) - pending
+- [katturaigal/thatha_katta](thatha_katta.md) - translated
+- [தத்துவம் பேசுகிறார்!](thathuvam_paesugirar.md) - pending
+- [தவறை உணர்ந்தால்](thavarai_unarnthal.md) - pending
+- [katturaigal/thayangathae](thayangathae.md) - translated
+- [The Accusing Finger](the_accusing_finger.md) - pending
+- [THE CHALLENGE](the_challenge.md) - pending
+- [THE CUCKOO CLUB](the_cuckoo_club.md) - pending
+- [THE DRAGON’S TEETH !](the_draggon_teeth.md) - pending
+- ["THE FLESH IS WEAK...."(1)](The_Flesh_Is_Weak.md) - pending
+- [THE GREATEST SHOW ON EARTH](the_greatest_show.md) - pending
+- [THE NEW FORCE](the_new_force.md) - pending
+- [THE STERN SCULPTOR](the_stern_sculptor.md) - pending
+- [The Sukarno Spell !](the_sukarno_spell.md) - pending
+- [THE TWENTY DAYS ITCH](the_twenty_days_itch.md) - pending
+- [தீ...வாளி!](thee_vaali.md) - pending
+- [தீக்கண்ணன்! திவ்யரூபன்!](theekkannan.md) - pending
+- [தீபரவுமுன்!](theer_paravumun.md) - pending
+- [katturaigal/theera_thuyaram](theera_thuyaram.md) - translated
+- [தீர்ப்பு!](theerppu.md) - pending
+- [தீட்சிதர் வீட்டில். . . . !](theetchithar_veetil.md) - pending
+- [katturaigal/theeviram_kolveer](theeviram_kolveer.md) - translated
+- [தீயிட்ட திருவிளையாடல்!](theeyitta_thiruvilayadal.md) - pending
+- [தீ அணைக்கும் படையினரே!](theeynaikkum_padayinarae.md) - pending
+- [katturaigal/theiveega_mooligai](theiveega_mooligai.md) - translated
+- [katturaigal/thenali_poi](thenali_poi.md) - translated
+- [katturaigal/thendran_veesattum](thendran_veesattum.md) - translated
+- [முகப்பு | எழுத்து | பேச்சு | புகைப்படம் | ஓவியம் | தொடர்பு](theniyil_kaaligal.md) - pending
+- [தென்னாட்டுக் காங்கிரசும் ‘நான்சென்ஸ்‘ ஆகிறது!](thennattu_congressum.md) - pending
+- [katturaigal/thennattu_poar](thennattu_poar.md) - translated
+- [THERE, THEY SCORE](there_they_score.md) - pending
+- [தெரிந்து கொள்ளுங்கள்](therinthukollungal.md) - pending
+- [katturaigal/theriyathavargal](theriyathavargal.md) - translated
+- [தி. வேலரா! நினைவிருக்கட்டும்](thi_velara_ninaivirukkattum.md) - pending
+- [தில்லைத் தீட்சிதர் திட்டம்!](thillai_theetichithar_thittam.md) - pending
+- [திண்டாட்டம்!](thindattam.md) - pending
+- [katturaigal/thiruchiyil_thooku](thiruchiyil_thooku.md) - translated
+- [திருக்கழுக்குன்றத்தில் கருப்புக்கொடி!](thirukkazhukundram_karuppu.md) - pending
+- [திருக்குறள் - ஓர் திருப்பணி](thirukkural_or_thiruppani.md) - pending
+- [‘திருமேனி‘கள் செயல்!](thirumaenigal.md) - pending
+- [திருமுகம்!-1955](thirumugam.md) - pending
+- [திருநாள்!](thirunaal.md) - pending
+- [திருநாள் காண வாரீர்!](thirunaal_kaana_var.md) - pending
+- [முகப்பு | எழுத்து | பேச்சு | புகைப்படம் | ஓவியம் | தொடர்பு](thirunadu.md) - pending
+- [katturaigal/thiruthani](thiruthani.md) - translated
+- [திருவாளரே! திருவாளரே!!](thiruvaalarae.md) - pending
+- [katturaigal/thiruvangur_thivan](thiruvangur_thivan.md) - translated
+- [katturaigal/thiruvottu](thiruvottu.md) - translated
+- [தித்திக்கும் செய்தி கேளீர் கட்டாய இந்தி ஒழிந்தது!](thithikkum_seithi.md) - pending
+- [katturaigal/thivelara_thinaral](thivelara_thinaral.md) - translated
+- [katturaigal/thiyaga_parambarai](thiyaga_parambarai.md) - translated
+- [தியாகக் கட்டம்](thiyagakattam.md) - pending
+- [தியாகத்தீயில்-திராவிட வீரர்கள்](thiyagatheeyil.md) - pending
+- [தோல்வி - ஆனால்!](thoalvi_aanal.md) - pending
+- [katturaigal/thookumaedai_yar](thookumaedai_yar.md) - translated
+- [katturaigal/thookumaedayil_matro](thookumaedayil_matro.md) - translated
+- [katturaigal/thookumedai](thookumedai.md) - translated
+- [தூக்குவீர் கத்தியை!](thookuveer_katthiyai.md) - pending
+- [katturaigal/thoondil_echarik](thoondil_echarik.md) - translated
+- [தூண்டுகிறார்!](thoondugirar.md) - pending
+- [தூங்கியா விட்டார்கள்!](thoongiyaevittargal.md) - pending
+- [katturaigal/thoothukudi](thoothukudi.md) - translated
+- [katturaigal/thoothukudi_maanadu](thoothukudi_maanadu.md) - pending
+- [தூது நீ சொல்லி வாராய்!](thoothunee_sollivarai.md) - pending
+- [katturaigal/thoppiyai](thoppiyai.md) - translated
+- [THOSE 'PULLS'](those_pulls.md) - pending
+- [தோழர் ஆசைத்தம்பி வழக்கு அப்பீல்](thozhar_aasaithambi.md) - pending
+- [katturaigal/thozhar_daniel](thozhar_daniel.md) - translated
+- [katturaigal/thozhar_k](thozhar_k.md) - translated
+- [katturaigal/thozhar_mu_ka](thozhar_mu_ka.md) - translated
+- [தோழர் சிவராஜ்!](thozhar_sivaraj.md) - pending
+- [தோழர் சோமசுந்தர பாரதியாரும்](thozhar_somasundara.md) - pending
+- [katturaigal/thozhar_tm](thozhar_tm.md) - translated
+- [katturaigal/thudaithukolga](thudaithukolga.md) - translated
+- [katturaigal/thugiluritha](thugiluritha.md) - translated
+- [துக்கவாரம்](thukkavaaram.md) - pending
+- [katturaigal/thuravi](thuravi.md) - translated
+- [துயர் துடைக்க வாரீர்!](thuyar_thudaikka.md) - pending
+- [துவஜாரோகணம்!](thvajarohanam.md) - pending
+- [katturaigal/tn_tamilarukkae](tn_tamilarukkae.md) - pending
+- [TRUTH COMES TRICKLING !](truth_comes_trickling.md) - pending
+- [Truth — Triumphant](truth_triumphant.md) - pending
+- [“TUCHTIGKEIT”](tuchtigkeit.md) - pending
+- [katturaigal/udan_piranthar_1](udan_piranthar_1.md) - pending
+- [katturaigal/udhagayil](udhagayil.md) - translated
+- [உடுமலை வழக்கு](udumalai_vazhakku.md) - pending
+- [katturaigal/ulaga_periyar](ulaga_periyar.md) - pending
+- [உலக்கை தாசர்!](ulakkai_thaasar.md) - pending
+- [katturaigal/ulla_uram](ulla_uram.md) - translated
+- [உண்ணாவிரத மகிமை](unnaviratha_mahimai.md) - pending
+- [katturaigal/unnodu_piranthal](unnodu_piranthal.md) - pending
+- [உப்புத்தொழிலாளர் போராட்டம்](uppu_thozhilalar.md) - pending
+- [katturaigal/urchagam_vaen](urchagam_vaen.md) - translated
+- [katturaigal/urimai_murasoli](urimai_murasoli.md) - translated
+- [katturaigal/urimaipor_vetri](urimaipor_vetri.md) - translated
+- [உருளைக் கிழங்கும் உபதேசியார்களும்!](urulaikizhangum_ubathaesiyarhalum.md) - pending
+- [katturaigal/uruthi_koor](uruthi_koor.md) - pending
+- [உருவான பலன்?](uruvana_palan.md) - pending
+- [katturaigal/uruvana_seyal](uruvana_seyal.md) - translated
+- ["உஷார்"](ushaar.md) - pending
+- [உதைக்கும் காலுக்கு..!](uthaikkum_kaalukku.md) - pending
+- [katturaigal/uthamar_sinthiya](uthamar_sinthiya.md) - pending
+- [katturaigal/uthamarai_izhanthom](uthamarai_izhanthom.md) - translated
+- [உழைப்பாளிக்கே உலகம் உரியது](uzhaippalikkae_ulagam.md) - pending
+- [katturaigal/vaadagai_vandi](vaadagai_vandi.md) - translated
+- [katturaigal/vaai_thiravatheer](vaai_thiravatheer.md) - translated
+- [வாலை சுருட்டிக் கொண்டு...](vaalai_surittikkondu.md) - pending
+- [வாலாஜா தி.மு.க. தோழர்களுக்கு!](vaalaja_thimuka.md) - pending
+- [வாலாஜா தோழர்களுக்கு!](vaalaja_thozhargalukku.md) - pending
+- [வாலாட்டம்!](vaalattam.md) - pending
+- [katturaigal/vaanulaga_veethi](vaanulaga_veethi.md) - pending
+- [katturaigal/vaarsu](vaarsu.md) - translated
+- [வார்தா முனிவர் யாகம் செய்தால்...!](vaartha_munivar.md) - pending
+- [katturaigal/vaayai_moodi](vaayai_moodi.md) - translated
+- [வாய்ப்பூட்டு](vaaypootu.md) - pending
+- [katturaigal/vaazhkai_vizha](vaazhkai_vizha.md) - translated
+- [வாழ்விலொரு திருநாள்!](vaazhviloru_thirunaal.md) - pending
+- [வடநாட்டு கவர்னர் வருகை!](vadanattu_governer.md) - pending
+- [katturaigal/vaeguthae](vaeguthae.md) - translated
+- [வேல் பாய்ந்த வேழம்!](vael_paayntha_vezham.md) - pending
+- [katturaigal/vaelai_kodungal](vaelai_kodungal.md) - pending
+- [வேண்டாம் விபரீதம்!](vaendam_vibareetham.md) - pending
+- [katturaigal/vaendave_vaendam](vaendave_vaendam.md) - translated
+- [வேண்டுகோள்!](vaendukoal.md) - pending
+- [katturaigal/vaendukoal1508](vaendukoal1508.md) - translated
+- [வேதகாலக் கடவுள்!](vaethakaala_kadavul.md) - pending
+- [katturaigal/vaethalam](vaethalam.md) - translated
+- [katturaigal/vaethanayai_pokki](vaethanayai_pokki.md) - translated
+- [வேதாந்தியின் விழிப்பு](vaethanthiyin_vizhippu.md) - pending
+- [வேவல் பிரபு](vaeval_prabhu.md) - pending
+- [வேவல் திட்டம் - பகற் கனவு](vaeval_thittam.md) - pending
+- [katturaigal/vaguppu_thuv](vaguppu_thuv.md) - translated
+- [katturaigal/vaguppurimai_por](vaguppurimai_por.md) - translated
+- [வைத்திய வேவல்!](vaithiya_vaeval.md) - pending
+- [katturaigal/valajavil](valajavil.md) - translated
+- [katturaigal/valam_irukirathu](valam_irukirathu.md) - translated
+- [katturaigal/valarppupen](valarppupen.md) - translated
+- [வளரும் வடக்கு](valarum_vadakku.md) - pending
+- [katturaigal/vallal_marainthar](vallal_marainthar.md) - translated
+- [வல்லூறுகளுக்கு அழைப்பு!](vallooruhalukku_azhaippu.md) - pending
+- [katturaigal/vanambadi_para](vanambadi_para.md) - translated
+- [வந்தார்! தந்தார்!](vantha_vanthar.md) - pending
+- [வந்தேனே! நானே!!](vanthaene_nanae.md) - pending
+- [katturaigal/vanthathu_vibathu](vanthathu_vibathu.md) - pending
+- [வரலாற்றில் இடம் பெறும் வைபவம்!](varalatril_idamperum.md) - pending
+- [வரப்போகுதய்யே...!](varappoguthayyae.md) - pending
+- [வரட்டுமே வள்ளலார்!](varattumae_vallalar.md) - pending
+- [katturaigal/varavaerkirom](varavaerkirom.md) - translated
+- [வாரீர்! வகுத்த வழி நடப்போம்!](vareer_vaguthavazhi.md) - pending
+- [வர்ணாஸ்ரமம் ஒழிக!](varnasramam_ozhiga.md) - pending
+- [வருக, தலைவரே வாழ்க!](varuga_thalaivare_vazhga.md) - pending
+- [katturaigal/varunthu_311048](varunthu_311048.md) - translated
+- [வருந்துகிறோம்!](varunthugirom.md) - pending
+- [katturaigal/varuthukirom_190948](varuthukirom_190948.md) - translated
+- [வசந்தகாலத் தாக்குதல்](vasanthakala_thakkuthal.md) - pending
+- [வழக்காட](vazhakkada.md) - pending
+- [வழக்குத் தொடரப்படும்!](vazhakku_thodarattum.md) - pending
+- [katturaigal/vazhakkumandrathil](vazhakkumandrathil.md) - translated
+- [katturaigal/vazhga_arivagam](vazhga_arivagam.md) - translated
+- [வாழ்க எத்திராஜ்!](vazhga_etthiraj.md) - pending
+- [katturaigal/vazhga_natarajan](vazhga_natarajan.md) - translated
+- [வாழ்க சோவியத்](vazhga_soviet.md) - pending
+- [katturaigal/vazhga_thindivanam](vazhga_thindivanam.md) - translated
+- [வாழ்க வசவாளர்கள்!](vazhga_vasavalar.md) - pending
+- [katturaigal/vazhi_vazhi](vazhi_vazhi.md) - translated
+- [katturaigal/vazhthinar](vazhthinar.md) - translated
+- [katturaigal/vazhthu_140160](vazhthu_140160.md) - translated
+- [katturaigal/vazhthugindrom180552](vazhthugindrom180552.md) - translated
+- [வாழ்த்துகிறோம்!](vazhthugirom.md) - pending
+- [வாழ்த்துகிறோம்! வரம் கிடைக்கிறது!](vazhthugirom_varam_kidaikkirathu.md) - pending
+- [katturaigal/vazhthuhindraen](vazhthuhindraen.md) - translated
+- [katturaigal/vazhvikkavae](vazhvikkavae.md) - translated
+- [katturaigal/vazhvin_latchiyam](vazhvin_latchiyam.md) - translated
+- [katturaigal/vazhvu_oru](vazhvu_oru.md) - translated
+- [வீர வாழ்வு](veera_vazhvu.md) - pending
+- [katturaigal/veeran_vidai](veeran_vidai.md) - translated
+- [katturaigal/veerar_chidambara](veerar_chidambara.md) - translated
+- [வீரர் வேண்டும்](veerar_vaendum.md) - pending
+- [katturaigal/veerar_veerarthan](veerar_veerarthan.md) - translated
+- [வீரவைணவர் வேங்கடசாமி அவர்கட்கு!](veeravainavar_venkadasami.md) - pending
+- [வீசுகிறார்கள் சுயராச்யம்!](veesugirar_suyarajyam.md) - pending
+- [வெல்க ஜனநாயகம்!](velga_jananayagam.md) - pending
+- [katturaigal/vellai_sigappukodi](vellai_sigappukodi.md) - translated
+- [katturaigal/vellam_vazhi](vellam_vazhi.md) - translated
+- [katturaigal/velli_mulaikka](velli_mulaikka.md) - translated
+- [வெள்ளி முளைக்கிறது!](velli_mulaikkirathu.md) - pending
+- [வெண்ணெய் வைத்துக்](vennai_vaithu_kokku.md) - pending
+- [katturaigal/ventha_punnil](ventha_punnil.md) - translated
+- [katturaigal/veri_vetri](veri_vetri.md) - translated
+- [வெறிப்பாதை விசித்திரம்!](verippathai_visithiram.md) - pending
+- [katturaigal/vetkam](vetkam.md) - translated
+- [katturaigal/vetkama](vetkama.md) - translated
+- [katturaigal/vetkapada_vaendum](vetkapada_vaendum.md) - translated
+- [வெட்கப்படாமல் வேறென்ன செய்வது?](vetkapadamal_vaerenna.md) - pending
+- [katturaigal/vetkapadugirom](vetkapadugirom.md) - pending
+- [வெட்கப்படுகின்றோம்](vetkappaduhindrom.md) - pending
+- [வெற்றிச்சிந்து](vetri_chithu.md) - pending
+- [வெற்றி விழா!](vetri_vizha.md) - pending
+- [katturaigal/vetrikalippu](vetrikalippu.md) - translated
+- [வெற்றியல்ல!](vetriyalla.md) - pending
+- [katturaigal/vetriyil_veezhchi2_aditha](vetriyil_veezhchi2_aditha.md) - translated
+- [katturaigal/vetriyil_veezhchi_pune](vetriyil_veezhchi_pune.md) - translated
+- [வெட்டுப் போர்!](vettuppoar.md) - pending
+- [விபரீதப்பாதை](vibareetha_paathai.md) - pending
+- [VIBRATION FROM VIJAYAWADA](vibration_from_vijayawada.md) - pending
+- [VICTORY OF THE VALIANT](victory_of_the_valiant.md) - pending
+- [katturaigal/viduthalai_veeran](viduthalai_veeran.md) - translated
+- [விடுதலை வீரன் ரூஸோ!](viduthalai_veeran_rooso.md) - pending
+- [katturaigal/viduthalaippor](viduthalaippor.md) - pending
+- [katturaigal/viduthalaiyanar](viduthalaiyanar.md) - translated
+- [katturaigal/vignana_olimun](vignana_olimun.md) - translated
+- [விஞ்ஞான விளைவு](vignana_vilaivu.md) - pending
+- [katturaigal/vignanakkan](vignanakkan.md) - translated
+- [katturaigal/vignanam_viduthalai](vignanam_viduthalai.md) - translated
+- [விலை ஏறிவிட்டது!](vilai_aerivittathu.md) - pending
+- [katturaigal/vilambarachavadi](vilambarachavadi.md) - translated
+- [விலங்கிட்டனர், நடத்திச் சென்றனர்](vilangittanar.md) - pending
+- [வில்லாளன் தந்தையார் மறைவு](villalan_thanthai.md) - pending
+- [வில்லவன் கோதை விருந்து!](villavan_kothai_virunthu.md) - pending
+- [விருந்திலே, மருந்து!](virunthilae_marunthu.md) - pending
+- [katturaigal/visaranai_nadathuga](visaranai_nadathuga.md) - translated
+- [விசித்திர சித்தர்!](visithira_sitthar.md) - pending
+- [விசித்திரம்!](visithiram.md) - pending
+- [“விதைக்காது விளையும் கழனி”](vithaikkathu_vilayum.md) - pending
+- [விதவையின் கண்ணீர்!](vithavayin_kanneer.md) - pending
+- [‘விதவையின் வேதனை’](vithavayin_vaethanai.md) - pending
+- ["VIVE LA RED-TAPE! "](Vive_La-Red_Tape.md) - pending
+- [விவேக சிந்தாமணி மட்டும் போதாது!](vivega_sinthamani_mattum_pothathu.md) - pending
+- [VIVEK - SABHA'S VERDICT](vivek_sabhas_verdict.md) - pending
+- [விழா!](vizha.md) - pending
+- [katturaigal/vizhanaalil](vizhanaalil.md) - translated
+- [வௌவாலின் விசாரம்](vovvalin_visaram.md) - pending
+- [WE WELCOME](we_welcome.md) - translated
+- [What Answer?](what_answer.md) - pending
+- [WHEN THE CRONY GETS UPPER HAND THEN CHACHA EMITS ABUSES](when_the_crony_gets.md) - pending
+- [WITH THE HOUND - OR WITH THE HARE?](With_the_Hound_or.md) - pending
+- [யானை மீதேறிப் பூனைபிடிக்கும் முறை!](yaanai_meethaeri_poonai.md) - pending
+- [யாத்திரை!](yaathirai.md) - pending
+- [katturaigal/yarukku_paathuk](yarukku_paathuk.md) - translated
+- [Yes-men! Note, Please !](yes_men_note_please.md) - pending
+- [katturaigal/yezhayaga](yezhayaga.md) - translated
+- [யோசியுங்கள்!](yosiyungal.md) - pending
+- [katturaigal/younoo](younoo.md) - translated
+- [யூதன் துலாக்கோல்!](yuthan_thulakkol.md) - pending

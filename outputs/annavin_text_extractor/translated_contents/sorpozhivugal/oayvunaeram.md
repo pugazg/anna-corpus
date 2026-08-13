@@ -1,0 +1,523 @@
+# ஓய்வு நேரம் / Leisure
+
+**Tamil title:** ஓய்வு நேரம்  
+**English title:** Leisure  
+**Source file:** `sorpozhivugal/oayvunaeram.md`
+
+## Source Tamil (verbatim)
+
+- Source image folder: `/Users/pugazhendhirajendran/Documents/Codex/2026-07-09/https-www-annavinpadaippugal-info/outputs/annavin_text_extractor/ocr_images/sorpozhivugal/oayvunaeram`
+- OCR language: `tam`
+- Tesseract page segmentation mode: `3`
+- OCR cleanup: `enabled`
+
+## Image 1: 001-83152fb432.png
+
+- Image: `sorpozhivugal/oayvunaeram/001-83152fb432.png`
+
+2௦
+
+ஓய்வு நேரம்
+
+1948 - ஆம் ஆண்டு ஓய்வு நேரம் எது என்பதை நன்கு
+விளக்கியுள்ள அறிஞர் அண்ணா :
+
+“எனக்கு ஓய்வு ஏது, இதெற்கெல்லாம் - அங்கே நரம்பு
+முறிய வேலை வாங்குகிறான் - அலுத்துப் படுத்தால் கட்டை
+போலாகி விடுகிறேன் - நான் போகவில்லை, கூத்துப் பார்க்க” -
+என்று கூறும் பாட்டாளி - “நமக்கு ஓய்வு கிடையாது
+ஆறுமாதத்துக் கணக்கு இன்னும் எழுதி முடித்தாக வேண்டும்
+ஒரு வாரத்திலே'' என்று கூறும் எழுத்து வேலைக்காரர்,
+நிரம்பியுள்ள சமுதாயத்திலே, 'ஓய்வு நேரம். ஆராயவேண்டிய
+பிரச்சினையாக எடுத்துக் கொள்ளப்பட்டிருக்கிறது. நமது
+நாட்டிலே சமூக, பொருளாதார அமைப்புகள் மாறிக்கொண்டு
+வருகின்றன - நல்ல விதமான வளர்ச்சி ஏற்பட்டால், 'ஓய்வு நேரம்'
+உண்மையிலேயே, கவனிக்கப்படவேண்டிய பிரச்சினையாகி
+விடும் - தக்க திட்டங்கள்கூட தீட்ட வேண்டிய நிலைமை
+ஏற்பட்டுவிடும். இப்போது முன்னணியிலே இருக்கும்
+பிரச்சினைகள் எப்படி. வாழ்க்கையை நடத்துவது என்பதாகவே,
+பெரும்பாலான மக்களுக்கு இன்று இருக்கிறது.
+
+எப்போது பார்த்தாலும் ஏதாவது வேலை செய்தபடி
+இருப்பவர்களையும் காணலாம் - வேலை ஏதும் செய்யாமல்
+பொழுதை ஓஒட்டுபவர்களையும் காணலாம். வேலை ஏதும்
+செய்யாமலிருப்பவர்கள் எல்லாம் 'ஒய்வாக' இருக்கிறார்கள் என் று
+கூறிவிட முடியாது. வேலை ஏதும் கிடைக்காததால் அப்படி
+உள்ளவர்களே ஏராளம்.
+
+ஓய்வு நேரம்' - வேலை கிடைத்து அதிலே ஈடுபட்டு
+உள்ளவர்களுக்கு வேலை நேரம் போக மிச்சமிருக்கும் பொழுது
+
+## Image 2: 002-a4cbc26936.png
+
+- Image: `sorpozhivugal/oayvunaeram/002-a4cbc26936.png`
+
+வேலை செய்யும் நிலையில் இல்லாதவர்களின் காலம்ிஃ- ஓய்வு
+அல்ல - அது ஓய்யாரம். வேலைக் கிடை.க்காததால் (வேலை
+செய்யாது இருப்பவர்களுக்குக் கிடைத்திருப்பது 'ஓய்வு' அல்ல,
+திகைப்பு. வேலை செய்யும் மனப்பான்மையற்றவர்கள் காலத்தைக்
+கொலை செய்வது 'ஓய்வு' அல்ல - அது சோம்பல். ஆக யாராவது
+ஒரு வேலையும் செய்யாது இருக்கும்போது அவர் ஓய்வாக
+இருக்கிறார் என்று கூறிவிடுவது கூடாது.
+
+ஓய்வு வேறு. வேலையற்று இருப்பது முற்றிலும் வேறு.
+
+காலை முதல் மாலை வரை பாடுபட்டு வேலை செய்து
+பிழைக்கும் பாட்டாளிக்கு, இரவு தெருக்கோடியில் நடைபெறும்
+'கூத்து' ஓய்வு நேரப் பொழுதுபோக்காக அமைகிறது -
+கூத்தாடுபவர்களுக்கோ, இரவு முழுவதும் கூத்து ஆடி. அலுத்து,
+காலையிலே படுத்துத் தூங்கி, பகலில் விழித்தபடி. புரண்டுவிட்டு,
+[மாலை நேரத்திலே வெளியே சென்று வருவது, ஓய்வு நேரம் -
+பொழுது போக்கு நேரம் - வேடிக்கையாகச் சொல்வார்கள் -
+ரயில் ஓடும்போது போர்ட்.டருக்கு ஓய்வு - ரயில் நின்று சில
+நிமிஷம் ஓய்வு கொள்கிறதே அப்போது போர்ட்டருக்கு வேலை
+- அதுபோல 'ஓய்வு நேரம்' ஒவ்வொருவருக்கு ஒவ்வொரு வேளை.
+
+வேலை செய்து செய்து அலுத்து இனி வேலை செய்யவே
+முடியாத நிலை ஏற்பட்டு விட்டால், வேலை செய்யாமல்
+இருப்பதை ஓய்ந்து விட்டான் என்று கூறுகிறோம். அந்த
+நிலையல்ல 'ஓய்வு நேரம்' வேலை செய்கிறான் - இடையே வேலை
+ஏதும் செய்யாம லிருக்கிறான் - அந்த வேளைதான் 'ஓய்வு', இந்த
+ஓய்வு நேரம் - ஓய்வின் தன்மை, இதைக் கொண்டுதான், அந்தச்
+சமூகத்தின் நிலைமையை மதிக்கிறார்கள், அறிவாளிகள். பொது
+மக்களில் பெரும்பாலானவர்களுக்குக் கிடைக்கும் 'ஓய்வு'
+இருக்கிறதே, அதையே நாகரீகத்தின் அளவு கோலாகக்
+கொள்கிறார்கள் நல்லறிவாளர்கள்.
+
+உழைத்துத்தான் வாழவேண்டும் - வாழ்வு, உரிமை,
+உழைப்பு, கடமை.
+
+ஆனால் உழைப்பு, உடலும் உள்ளமும் முறிந்து போகாத
+அளவிலேயும் வகையிலேயும் இருக்க வேண்டும். வாழ்விற்கு வகை
+தேடுவதற்காகப் பாடுபட வேண்டும். ஆனால் படுகிறபாடு, உடல்
+வளத்தையும் உள்ள உற்சாகத்தையும் பாழ்படுத்தி
+
+## Image 3: 003-ae991e3523.png
+
+- Image: `sorpozhivugal/oayvunaeram/003-ae991e3523.png`
+
+விடுமானால், தொடர்ந்து பாடுபடும் திறன் பட்டுப்போய்விடும்.
+உழைப்பு உருக்குலைந்து விடக்கூடாது - உடலையும் சரி,
+உள்ளத்தையும் சரி வாழ்விற்காக வசதி தேடுவதற்கு உழைத்து,
+அந்த உழைப்பிலேயே உருக்குலைந்து போகும் நிலை மனிதனுக்கு
+ஏற்படுமானால், அவன் முட்டையிட்டதும் செத்துவிடும் கோழி
+போல், அரும்பு விட்டதும் பட்டுப்போகும் செடியபோல்
+காணாமலும் பயன் தராமலும் போய்விடுகிறான்.
+
+உழைப்பு. நம்முடைய உடலையும் உள்ளத்தையும் சிதைத்து
+விடவில்லை. வாழ்க்கையின் அடிப்படை. தேவைகளுக்கும், குடும்ப
+வளர்ச்சிக்கும் வளத்தை தரத்தக்க வருவாயைப் பெறுவதற்காக
+உழைத்த நேரம் போக மிச்ச நேரம் ஓய்வு கிடைக்கிறது என்ற
+நிலைமை மக்களில் பெரும்பான்மையினருக்கு ஏற்பட்டால் ஓய்வு
+நேரம், சமூகத்தின் தரத்தையும், மனப்பண்பையும் உயர்த்தக் கூடிய
+சக்தி பெறும்.
+
+நமது சமூகத்திலே இன்றைய அமைப்பில் உழவர்கள்,
+யந்திரத் தொழிலாளர்கள்; பணிமனையில் வேலை பார்ப்பவர்கள்,
+ஏன்று பல தரம்' இருக்கக் காண்கிறோம். யந்திரத்
+தொழிலாளர்களின் தொகை மொத்த ஜனத்தொகையில் கால்
+பங்குக்கும் குறைவு. பாதிக்குமேல் உள்ளவர்கள் உழவர்கள் -
+பணிமனையில் உழவர் அளவு இல்லை - அதற்கு அடுத்த
+நிலையினர் மூன்று வகையினருக்கும் இன்று வாழ்க்கைத் தரம்,
+தொழில் முறையும் அமைந்திருக்கும் நிலை, உண்மையான ஓய்வு,
+உள்ளத்துக்குப் புதிய உற்சாகம் தரக்கூடிய நிலை கிடைப்பது
+கடி.னம். ஒரு சிலருக்குக் கிடைக்கும் ஓய்வையும், தக்க விதத்திலே
+பயன்படுத்திக் கொள்ள மன வளர்ச்சிக் குறைவு; பணபலம்
+அதைவிடக் குறைவு.
+
+இயற்கை நமக்குத் துரோகம் செய்து விடவும் மற்ற
+நாடுகளிலே உள்ளதைவிட, இயற்கை வளம் கண்டவர்கள்
+பொறாமைப்படும் அளவிற்கு இருக்கத்தான் செய்கிறது.
+என்றாலும் தொழில் வளம், தொழில் போதுமான அளவு
+பெருகாததால், தரித்திரம் தாண்ட.வமாடக் காண்கிறோம். புதிய
+முறைகளையும், கருவிகளையும் கொண்டு இயற்கை வளத்தைப்
+பயன்படுத்தி மற்ற நாடுகளைவிட நாம், மிகப் பின்னணியில்
+
+## Image 4: 004-cc41e76ec7.png
+
+- Image: `sorpozhivugal/oayvunaeram/004-cc41e76ec7.png`
+
+இருப்பதால், இங்குச் சுவையற்ற கவைக்குதவாத, வாழ்க்கை
+நடத்துவதற்கே மிகப் பெரும்பாலான மக்கள் உழைக்கிறார்கள்.
+மனித உழைப்பு மிக மிக அதிகமான அளவிலே செலவிடப்
+படுகிறது. மனிதன், பிணமாகாதிருக்க; நல் வாழ்வு பெற அல்ல,
+முழு வாழ்வு பெறக்கூட அல்ல - சரகாமலிருக்க. ஆகவே ஓய்வு,
+பாட்டாளியின் வேலையின் கடினம் குறைக்கப்பட்டட பிறகுதான்
+பெரும்பான்மை மக்களுக்குக் கிடைக்கும். பெரும்பான்மை
+யினருக்கு ஓய்வு கிடைத்து, அந்த ஓய்வை தக்கபடி. பயன்
+படுத்தினால்தான் பாடுபடுபவருக்கு மேலும் தொடர்ந்து
+பாடுபடவும், திறமையுடன் பாடுபடவும் முடியும் - பிறகு பொதுச்
+செல்வம் வளரும், சீர் உண்டாகும்; நாடு செழிக்கும். இவைகள்
+எல்லாவற்றையும்விட, மனித மாண்பு மலரும். உழைத்தோம்,
+வாழ்வின் பயனைப் பெறுகிறோம்'. என்ற களிப்பு முதலிலே
+ஏற்பட வேண்டும். பிறகுதான் ஓய்வைச் சுவைக்க முடியும்.
+
+வேலை மனிதத் தன்மையை மாய்க்காத அளவு - இருக்க
+வேண்டும் - வேலை நேரத்தை மட்டுமல்ல நான் குறிப்பிடுவது.
+வேலை முறை - தன்மை - வேலை செய்பவனுக்கு வேலை
+நேரத்தில் வேலைக்குத் தேவையான வசதிகளைத் தருவது.
+எல்லாவற்றையும் சேர்த்துத்தான் கூறுகிறேன். வேலை மனிதனை
+தேயச் செய்துவிட்டால், பிறகு கிடைக்கும் ஓய்வு வேளை ஓய்வு
+தராது - பாதி மனிதரால் ஓய்வுப் பலனைப் பெற முடியாது.
+
+ஓய்வு, சீமான்களாக உள்ள சிலருக்கு மட்டும் உரிமையாக
+இருந்த காலம் உண்டு. நிலைமை இப்போது மாறி வருகிறது -
+ஓரளவிற்கு நம்பிக்கை தருகிற வகையில் ஓய்வு சிலருக்கும், ஓயாத
+வேலைத் தொல்லை மிகப் பலருக்கும் - என்ற முறையில் சமூக
+அமைப்பு இருக்கும்போது ஓய்வின் விளைவாக, கலை, பண்பு
+இவைகளை அல்ல, கருத்தற்ற களியாட்டம், வேதனையுூட்டும்
+வெறியாட்டம் ஆணவ ஆர்ப்பாட்டம், இவைகளையே காண
+முடியும்.
+
+ரோம் சாம்ராஜ்யத்திலே ஒரு விசித்திரமான அரங்கம்.
+பள்ளத்தில் அரங்கம் - பார்வையாளர் உயரத்தில் அமர்ந்திருப்பர்.
+அரங்கத்திலே வீரப்போர் நடைபெறும். மல்யுத்தமல்ல -
+வாட்போர் அல்ல - பலசாலிக்கும் வலிமைசாலிக்கும் அல்ல -
+
+## Image 5: 005-fa48cf3ff6.png
+
+- Image: `sorpozhivugal/oayvunaeram/005-fa48cf3ff6.png`
+
+மனிதனுக்கும் சிங்கத்துக்கும் சண்டை - பதைப்பதைக்கும்
+மனிதன், பசியுடன் உள்ள சிங்கம் - பயங்கரமான போர்
+பள்ளத்தில். மேலே சீமான்கள், சீமாட்டிகள் ரசிக்க, கர்ஜனை
+செய்யும் காட்டரசன் வாலைச் சுழற்றித் தரையில் அடிக்கும் -
+பயத்தால் மனிதனின் பற்கள் ஒன்றோடொன்று உராயும் - மேலே
+சீமாட்டிகளின் சிரிப்பொலியும், கைதட்டுவதால் எழும்
+வளையொலியும் கிளம்பும். சீமான்கள் சொக்குவர். இரத்தம்
+பிறிட்டுவரும் - மனிதனுக்கு; சீமான்கள் மேலே இருந்து
+ஆரவாரம் செய்வர் - விடாதே, விலகாதே' என்று ஆயுதமற்ற
+மனிதனுக்கு உற்சாகமூட்டுவர். பசியாற் புதிய பலம்பெற்ற
+சிங்கத்தைத் தாக்கும்படி. - காட்டரசன் கிழித்தெறிவான்
+மனிதனை. கீழே - அரங்கத்தில் - மேலே மேட்டுக்குடி யினரான
+மனித மிருகங்கள் ஓய்வு நேரத்தை ரோம்நாட்டுச் சிமான்கள்
+பயன்படுத்திய வகைகளிலே இதுவொன்று. மனிதனை மிருகம்
+கொல்வது - கண்டுகளிக்கும் பொழுது போக்கு.
+
+ஓய்வு சிலருக்கு - வேலை பலருக்கு - என்ற முறை
+மாறினாலொழிய ஓய்வு சமூக உயர்வுக்குப் பயன்படும் பண்பு
+ஆச முடியாது. வாழ்க்கைத்தரம் மட்டமாக இருக்கும் சமூகத்திலே
+ஓய்வு, கிடைத்துப் பயனில்லை பொருளும் இல்லை. வேகாத
+பண்டத்தை வெள்ளித் தட்டிலே வைத்துத் தரும் வீண்
+வேலையாகும்.
+
+நம் நாடு பட்டிக்காடுகள் அதிகமாக உள்ள இடம்.
+பட்டிக்காடுகளோ உழவர்கள் வாழுமிடம். உழவர்களுக்கு
+ஆண்டிலே மூன்று மாதத்திற்காவது வேலை இருப்பதில்லை -
+ஓய்வுதான். இந்தச் சமயத்திலே அவர்கள் வீணாகப் பொழுதை
+ஓட்டுகிறார்கள். நேரம் வீணாகிப் போகிறது - என்று கூறி, உழவுத்
+தொழிலுக்கான நேரம் போக மிச்சமிருக்கும் ஓய்வு நேரத்தை
+உழவர்கள் பலன் தரும் பொழுதுபோக்குக்கும் செலவிட
+வேண்டும். உதாரணமாக அவர்கள் தேனீ வளர்க்கலாம், கோழி
+வளர்க்கலாம், கூடை முடையலாம், நூல் நூற்கலாம் - சிறு சிறு
+குடிசைத் தொழில் செய்யலாம். ஓய்வு வீண் போகாது, பலனும்
+கிடைக்கும் வருமானமும் உண்டு என்று கூறாத நிபுணர்
+கிடையாது. உழவர்களுக்காக இந்த யோசனை கூறப்பட்டாலும்
+சரி, பொதுவாக எல்லோருக்குமே சொல்வதானாலும் சரி, ஓய்வு
+நேரத்தைப் பணமாக்கும் வழிகளாக்கும்போ து, சிக்கல் நிச்சயம்
+ஏற்பட்டுத் தீரும். செலவிடும் நேரம், செலவிடும் உழைப்பு,
+
+## Image 6: 006-2d4d550270.png
+
+- Image: `sorpozhivugal/oayvunaeram/006-2d4d550270.png`
+
+இவைகளுக்கு ஏற்ற பணம் பலனாகக் கிடைக்கிறதா என்ற கேள்வி
+நாளாவட்டத்திலே கிளம்பித் தீரும்; கிளம்பும்போது
+வாழ்க்கையிலேயே குளிர்ச்சி அதிகமாக உள்ளவர் பொழுது
+போக்குத் தொழிலிலே கிடைக்கும் ஒரு அணாவைக் கொண்டு
+அடையும் களிப்பு அதிகமாகத்தான் இருக்கும் - கலெக்டர்
+பங்களாத் தோட்டத்து பலாப்பழம், காலை முதல் மாலை வரை
+கழனியில் பாடுபட்டும் கால் வயிற்றுக்கும் கட்டி வரவில்லையே
+என்று கதறும் கந்தன் ஓய்வு வேளையில் உழைத்துப் பெறும்
+பலாப்பழத்தைவிட அதிக இனிப்புதான் - அதிக களிப்புதான்
+கிடைக்கும்.
+
+ஓய்வு என்ற பெயரால் புதிய உழைப்பு - அந்த உழைப்பின்
+மூலம் கிடைக்கும் வருவாய் வாழ்க்கைச் செலவிற்கும் பயன்பட
+வேண்டும் என்ற நிர்ப்பந்தம் இருந்துவிட்டால் அது ஒய்வுமல்ல;
+பொமழுதுபோக்குமாகாது. எனவே கிராம மக்களுக்காகக் கூறப்படும்
+யோசனைகள் ஓய்வையும் உழவனுக்குப் புதிய எஜமானாக்கி
+விடுகிறது, நண்பனாக்கவில்லை.
+
+ஓய்வு - உயர்ந்த பண்புள்ள நண்பன் மூலம் தாம் என்ன
+பெற முடியுமோ அவ்விதமான மனமகிழ்ச்சியைத் தருவதாக
+அமைத்துக் கொள்ள வேண்டும். அது இன்றுள்ள சமூக,
+பொருளாதார அமைப்பு முறையில் சாத்தியமாகுமா என்பது
+மிகச் சந்தேகம்.
+
+ஓய்வு நேரத்தை, உல்லாசமாகக் கழிக்க வேண்டுமானால்
+அதற்காகச் செலவிட. வகைக் கிடைக்க வேண்டும். செலவும்
+பெரும்பாலான மக்களின் வாழ்க்தைத் தரத்துக்குப் பொருத்த
+மானதாக இருக்க வேண்டும். ஓய்வின் சுவையைப் பருகி வேலைக்
+களைப்பைப் போக்கிக் கொள்ள வேண்டும். களைப்பைப்
+போக்கிக் கொள்ள வெப்ப நாட்களில் குளிர்ந்த பானமும், குளிர்
+நாட்களில் சூடான பானமும், எல்லா நாட்களிலும் இனிய
+முகமும், அன்பு மொழியும் கொண்ட குடும்பமும் தேவை. இது
+கிடைத்தான பிறகு ஓய்வைக் கழிக்கும் முறையைக் கண்டறியும்
+போது அறிவும், அறிந்த பிறகு, அந்த முறைப்படி பொழுது
+போக்கு வசதியும் ஏற்பட வேண்டும்.
+
+ஓய்வு நாட்களிலே படகு வீட்டிலே தங்கி காஷ்மீர் காட்சி
+கண்டு களிக்க வாருங்கள் குடும்பத்துடன் - என்ற விளம்பரத்தை
+காணும் ஆபீஸ் அலுவலர்கள், கதையிலே நந்தனார் பாடுவதாகச்
+
+## Image 7: 007-078955c929.png
+
+- Image: `sorpozhivugal/oayvunaeram/007-078955c929.png`
+
+சொல்வார்களே, அதைப் போல நாளைப் போகமலிருப்பேனோ
+நான் என்று பாடி. அழமுடியுமே தவிர, வேறென்ன செய்வது?
+
+உதகமண்டலத்து வனப்பு, கொடைக்கானல் குளிர்ச்சி,
+குற்றாலக் கவர்ச்சி, இவைகளைக் கண்டு களிக்கும் பொழுது
+போக்கு - ஓய்வு, எவ்வளவு பேருக்குக் கிடைக்க முடியும்?
+வாழ்க்கைத்தரம் பொதுவாக உயர்ந்தாலொழிய இத்தகைய
+'உல்லாசம்' சிலர் சொல்லப் பலர் அதிசயிக்கும் பேச்சளவாகத்
+தான் இருந்து தீரும். வாழ்க்கைத்தரம் உயருவதுடன் உதக
+மண்டலம், குற்றாலம், கொடைக்கானல் புதிது புதிதாக அமைக்க
+வேண்டும் - அதாவது ஓய்வு இடங்கள், பொழுது போக்கு
+மிடங்கள் புதிது புதிதாக ஏற்படுத்த வேண்டும். அந்தந்த
+வட்டாரத்து மக்களின் பணக்கண்ணுக்குத் தெரியக்கூடிய
+தொலைவில், தமிழ்நாட்டிலே பல இடங்கள் இப்படி. ஏற்பாடு
+செய்ய முடியும் - பொது முயற்சியால் - துரைத்தனத்தாரின்
+இட்டத்தால்.
+
+ஓய்வு நேரம் - மேலே வானத்திலே நிலவு, நட்சத்திரம் -
+காண்கிறோம். களிப்புதான் - அனால் எவ்வளவு நேரம் காண
+முடியும். அந்த உளர் நகராட்சி மன்றத்தாரோ, பொதுநலக்
+கழகத்தாரோ, ஒரு அருமையான டெலஸ்கோப், தொலைவில்
+உள்ளதைத் தெளிவாகக் காட்டும், கருவியை - டெலஸ்கோப்பை
+தக்க முறையிலமைத்து, பொழுதுபோக்குபவர்கள் காண வரலாம்
+என்று ஒரு ஏற்பாடு இருந்தால், விண்ணைக் கண்டு களிப்பது,
+எவ்வளவு சுவையான பொழுதுபோக்காக மாறும். நம்மையும்
+அறியாமல், எவ்வளவு பயனுள்ள அறிவும் நமது உள்ளத்திலே
+குடியேறும். பொழுதுபோக்கு வீணாகவும் கூடாது; விவேக
+சிந்தாமணி பாடம் படிக்கும் பள்ளிக்கூடமாகி விடக்கூடாது -
+சிரமமோ, சிக்கலோ இன்றி “நமக்கு அறிவானந்தம் தருவதாய்
+அமைய வேண்டும். பொது மக்கள் மனதிலே கலைப்பண்பு
+ஊற்றெடுக்கும் வகையான பொழுது போக்குகள், திட்டமிட்டு,
+மிகமிகக் குறைந்த செலவிலே ஏற்படுத்தலாம் நகராட்சியினர்.
+கண்காட்சிகள் இவ்விதமான முயற்சிகளிலே ஒன்று. முயற்சி
+என்று மட்டுமே கூறமுடியும். வெற்றி அல்ல, ஏனெனில்
+பெரும்பாலான அக்காட்சிகள் கடை.வீதிகளாக காட்சி
+தருகின்றன. பயன் இல்லை. சில அக்காட்சியிலே மிருக
+உணர்ச்சியும், சூதாட்ட உணர்ச்சியும் ஏற்படும் முறைகளும்
+உள்ளன; தீமையை உண்டாக்குவன. ஆனால் கண்காட்சி,
+பொழுது போக்குக்கு அரியவனம் - அறிவானந்தம் பெறமுடியும்.
+
+## Image 8: 008-ddd8f08eea.png
+
+- Image: `sorpozhivugal/oayvunaeram/008-ddd8f08eea.png`
+
+உலகத்தைத் திடுக்கிடச் செய்த மாவீரன் நெப்போலியனைப்
+பற்றிப் பெருமையாகப் பேசும்போது சொல்வார்கள், தூங்கவும்
+நேரம் கிடையாது - களத்திலேயே, ஏதேனும் ஓர் இடத்திலே,
+குதிரை மீது அமர்ந்தபடியே இப்படி சில நிமிஷ நேரம்
+தூங்குவான் - அவ்வளவுதான் முடியும் - நெப்போலியனுக்கு
+அவ்வளவு வேலை? உழைப்பு - என்று பெருமையாகக் கூறுவார்கள்.
+
+உண்மைதான், தூங்கவும் நேரமின்றித்தான் போரில்
+ஈடுபட்டி ருந்தான் அந்த மாவீரன். ஆனால் ஓய்வு கிடைக்க
+வில்லையே, அழகான அருவியிலே குளித்துவிட்டு, மாமரச்
+சோலையிலே உலவி வேல்விழிமாது பாடிடும் வாய்மொழிச் சிந்து
+கேட்டுக் களித்திட, தமக்கு ஓய்வு இல்லையே, என்ன
+தொல்லையான வாழ்க்கை இது, ஓய்வு ஒன்றுமில்லையே,
+எப்போதும் உழைப்பு - என்ன சுகம் காண்கிறோம் - ஓய்வின்றி
+உழைக்கிறோம் என்று நெப்போலியன் நொந்து கொண்டானா?
+இல்லை.
+
+களத்திலே கடும் போரிட்டபடி இருந்து வந்ததால்,
+தூங்கவும் நேரம் கிடைக்காமல், ஓய்வு துளியுமின்றி இருந்து வந்த
+நெப்போலியனுடைய நிலையுடன், எல்பா தீவிலே கைதியாக்கப்
+பட்டு, ஒரு வேலையுமின்றி, இருபத்தி நான்கு மணிநேரமும்
+ஓய்வாக இருக்கும் வசதி பெற்ற நெப்போலியனுடைய நிலையை
+ஒப்பிட்டுப் பாருங்கள். களத்திலே ஓய்வு கிடையாது. ஆனால்
+அவன் கண்முண் வெற்றிக் கொடி.கள். அவன் செவியில் வீர
+சொர்க்கம் மண்டலங்கள் அவன் காலடியில், மணி முடிகளை
+செண்டுகளாக்கி விளையாடிக் கொண்டி ருந்த அவன், ஓய்வின்றி
+இருந்தபோது ஓய்வுநாள் முழுவதும் ஒரு துளியும் கிடையாது -
+எல்பா - தீவில் ஆனால் அந்தக் கைதி நெப்போலியனுக்கு, அந்த
+ஓய்வு இனிப்பையா தந்திருக்கும்? அந்த ஓய்வு, அவனுக்குப்
+பெருமையோ, பூரிப்போ தந்ததா - தருமா - பிணத்தின் மீது
+தூவப்படும் மல்லிகைதானே அந்த ஓய்வு?
+
+நம் நாட்டிலே, பெரும்பாலான மக்களுக்கு, இப்படிப்பட்ட.
+ஓய்வு கிடைக்கிறது எல்பா தீவுக்குத் துரத்தப்பட்ட
+நெப்போலியன்கள், இங்கு ஏராளம் - வாழ்க்கைக் களத்திலே
+தோற்றுவிடுபவர்களெல்லாம், எல்பா தீவுக்குத் துரத்தப்பட்ட
+நெப்போலியன்கள். அவர்கள் பெற்றிருப்பது ஓய்வு அல்ல-
+அவர்கள் இன்னமும் வாழ்வே பெறவில்லை.
+
+## Image 9: 009-1be6c87a19.png
+
+- Image: `sorpozhivugal/oayvunaeram/009-1be6c87a19.png`
+
+மாளிகையிலே 'சோம்பேறிகள்' இருந்தால் - தண்டனம்
+பிறக்காது. கொடுத்து வைத்தவர், அவருக்கு என்ன நிம்மதியான
+வாழ்க்கை - என்று கனிவுரை தரப்படும். அவர் மான் வளர்ப்பார்.
+பொழுது போக்குக்கு மீன் வளர்ப்பர். அழகுக்கு - ஓய்வு அவருக்கு
+ஓராயிரம் சேட்டைகள் செய்ய இடந்தரும். புகழ்வர் நாள்
+முழுவதும் பாடுபட்டுப் பிழைக்க வேண்டிய ஓயாத
+உழைப்பாளியின் நிலை வேறு. கடியாரத்தைப் பார்த்து வேலை
+செய்துவிட்டுக் காலண்டரைப் பார்த்து சம்பளம் வாங்கும் பேனா
+ஓட்டும் நண்பர்கள் கிடைக்கும் ஓய்வைத் திரட்டக்கூடிய
+வசதியைப் பயன்படுத்திக் கொண்டு அறிவானந்தமான செயலுக்கு
+பொழுதுபோக்குக்குப் பயன்படுத்துகிறார்களா?
+
+இயற்கை தன் அழகை வாரி வழங்குகிறது - கவனிப்பாரற்றுக்
+கிடக்கிறது - எழில் மிக்க இளம் விதவையைப் போல.
+
+நீர் வீழ்ச்சி - சித்திரச்சோலை - அறு உற்பத்தியாகும் இடம்
+மலை. உச்சி - சந்தனக்காடு - சிந்து பாடும் சிற்றாறு - பறவை
+இனங்களின் பாட்டு மொழி - புள்ளிமான்கள் துள்ளியோடும்
+காட்சி - யானைக் கன்றை அழைத்துச் செல்லும் கனவு, தேசிங்கு
+கோட்டை, சேர்வராயன் மலை - பார்த்ததுண்டா, என்று
+கேளுங்கள் கோபம் பிறக்கும். நான் என்ன சமானா, சம்பளம்
+எனக்கு 750 சார், நூற்று - ஐம்பது - தான், உல்லாச யாத்திரை
+செய்ய வேண்டும் என்றா எதிர் பார்க்கிறீர் என்று கண்டித்துப்
+பேசுவார்.
+
+ஆனால் மிகக் கஷ்டப்பட்டு நான்கு நாட்கள் லீவு
+பெற்றாலும் குழந்தைக்கு மொட்டையடிக்க திருப்பதிக்கோ,
+அம்மா சிரார்த்தத்துக்கு காவிரிக்கோ, புத்திர சந்தான நிமித்தம்
+ராமேஸ்வரமோ போயிருப்பார். அதற்குப் பணம் எப்படிக்
+கிடைத்தது என்று கேட்டாலோ கோபம் கொதித்து வரும்.
+இலக்கியம் எப்படி. வளரும். கலை மணம் எங்கிருந்து கமழும்.
+ஓவியக் கலை எவ்வண்ணம் ஓங்க முடியும்; நல்லிசை எங்கிருந்து
+பிறக்கும் - இயற்கை தரும் களிப்பை மனதிலே கலையுணர்ச்சியைப்
+பெறாவிட்டால் வசதியுள்ள மிகமிகச் சிறு கட்டமும், ஓய்வு
+நேரத்தைத் தக்கபடி. பயன்படுத்தித் தருகிறது.
+
+அலுத்துத் தூங்கும் அந்த அலைத் தொழிலாளி,
+காலையிலே எழுந்ததும் கதிரவனைக் கண்டு களித்திடும்
+கமலத்தைக் காணப்போவதுமில்லை. - இரவு நிலவின் அழகினைக்
+
+## Image 10: 010-d051a04634.png
+
+- Image: `sorpozhivugal/oayvunaeram/010-d051a04634.png`
+
+களித்துவிட்டுப் படுத்தவனுமல்ல. அதோ சற்றுத் தொலைவாகப்
+படுத்திருக்கும் மாது - அவள் தர்மபத்னி. அவளிடம் உதிர்ந்த
+கண்ணீரைத்தான் இரவு படுக்கும் போது பரிசாகப் பெற்றான்.
+அந்தப் பரிசும் சுலபத்திலே அவனுக்குக் கிடைத்து விடவில்லை
+- தாலை முதல் ஆலையில் பாடுபட்டு அலுத்துப் போன
+கரத்துக்கு வேலை கொடுக்கிறோமோ என்ற எண்ணமுமின்றி
+அம்மையை அறைந்தான் முதுகில், கன்னத்தில் - தன் தலையிலும்
+அடித்துக் கொண்டான். பிறகுதான் கண்ணீரைக்
+காணிக்கையாக்கினாள் பத்தினி. காலையிலே அலைச்சங்கு
+அலறுவதற்கு முன்பு அழுகுரல் இவன் காதை துளைக்கக் கூடும்.
+இந்தத் தோழனிடம் ஓய்வின் உயர்வைப்பற்றிப் பேசுவது, ஓய்வை
+எப்படிப் பயன்படுத்துவது என்று எடுத்துக் கூறுவது.
+மாளிகையிலே திமிர் பிடித்து உலவும் நாய் பணியாளைக்
+கடித்தது கண்டு, சீமான் இன்ன மருந்து சாப்பிட்டால் நல்லது,
+ஆபத்து இராது என்று பணியாளுக்கு யோசனை கூறுவது
+போன்றதாகும். உழைப்பாளியை உருக்குலையச் செய்யும் தொழில்
+முறையை மாற்றி சக்திக்கேற்ற உழைப்பு, தேவைக்கேற்ற வசதி
+என்ற திட்டத்தை வெற்றியுடன் நடத்தி காட்டினாலொழிய
+ஓய்வுபற்றி ஆராய்ச்சி செய்வது அறிவையும் அலட்சிய
+சுபாவத்தையும் அதாரமாகக் கொண்டு நடத்தும் நாகரீக உலகத்து
+நயவஞ்சக நாடகம் என்றே கூறவேண்டும்.
+
+## English Translation
+
+An essay in which Arignar Anna explained the meaning of leisure in 1948.
+
+“What leisure do I have for all this? Over there he works my sinews to breaking point. When I fall exhausted upon my bed, I become like a log. I did not go to watch the play,” says the labourer. “We have no leisure. Within a week, I still have to finish writing six months of accounts,” says the clerk. In a society filled with such people, leisure has become a subject demanding study.
+
+Our country’s social and economic structures are changing. If wholesome development occurs, leisure will truly become a question demanding attention, and plans will have to be prepared for it. For most people today, however, the foremost question is simply how to sustain life.
+
+We see people always engaged in some work, and others passing time without any work. We cannot say that everyone doing no work is “at leisure.” A great many remain idle because no work is available.
+
+Leisure is the time remaining after working hours for someone who has obtained work and is engaged in it. The time of one who is incapable of work is not leisure but ease without purpose. What comes to a person who cannot obtain work is not leisure but bewilderment. When people without the disposition to work kill time, that is not leisure but laziness. We should therefore not say that anyone doing nothing is necessarily at leisure.
+
+Leisure is one thing; being without work is entirely another.
+
+For a labourer who toils from morning until evening, a street play at night may provide leisure and entertainment. For the performers who act throughout the night, sleep from exhaustion in the morning, roll about awake during the day, and go out in the evening, that evening becomes leisure and recreation.
+
+People joke that a porter rests while the train is running, but when the train stops for a few minutes to rest, the porter begins work. Thus each person has a different time of leisure.
+
+When someone becomes so exhausted through continuous labour that work is no longer possible, we say he has retired or ceased working. That is not the condition called leisure. A person works and, between periods of work, has a time when no work is done. That interval is leisure.
+
+Intellectuals assess a society’s condition through the character of this leisure. Thoughtful people take the leisure available to the majority as a measure of civilisation.
+
+We must labour in order to live. Life is a right and labour a duty. Yet labour must be arranged so that neither body nor mind is broken. We must work to secure the means of life, but if that effort destroys bodily health and inner enthusiasm, the capacity to continue working will wither.
+
+Labour must not ruin us, physically or mentally. If a human being works to find the means of life but is destroyed by that very labour, he becomes like a hen that dies after laying its egg or a plant that withers as soon as it puts forth a bud: he disappears without yielding his full benefit.
+
+When the majority can work for an income sufficient for basic needs and family advancement without destroying body and mind, and still possess time for rest, leisure will acquire the power to elevate society’s standards and mental culture.
+
+In our present society we see cultivators, industrial workers, workshop employees, and other classes. Industrial workers form less than a quarter of the population; more than half are cultivators, with other groups following them. Under today’s standards of life and organisation of work, it is difficult for any of these groups to obtain genuine leisure capable of renewing the mind. Even the few who receive some leisure often lack the education to use it well, and possess still less money.
+
+Nature has not betrayed us. Our natural resources are enough to arouse the envy of those who have seen other countries. Yet because industry and employment have not grown sufficiently, poverty dances its destructive dance. We remain far behind other countries in using new methods and tools to exploit natural wealth.
+
+Most people consequently labour merely to conduct a tasteless and barren existence. Human effort is spent in excessive measure not to achieve a good or complete life, but simply to prevent a person from becoming a corpse. The majority will obtain leisure only when the severity of workers’ labour is reduced.
+
+Only when the majority receive leisure and use it properly can workers continue labouring with greater skill. Public wealth will then grow, order arise, and the country prosper. More important than all these, human dignity will blossom. The joy of saying, “We worked and now receive life’s benefit,” must arise first; only then can leisure be savoured.
+
+Work must not destroy human character. I refer not only to working hours but also to the method and nature of work and the facilities needed while it is performed. If work wears a person away, the later period of rest will not give rest; half a human being cannot obtain leisure’s benefit.
+
+There was a time when leisure belonged only to a few wealthy lords. Conditions are now changing and provide some hope. But while society grants leisure to a few and ceaseless toil to the many, its leisure produces not art and culture but empty revelry, painful frenzy, and arrogant display.
+
+The Roman Empire possessed a peculiar arena: the performance pit lay below while spectators sat high above. The battle there was neither wrestling nor swordplay between two strong men. It was a fight between a human being and a lion—a trembling, unarmed person against a hungry beast.
+
+The lord of the jungle roared, lashed its tail, and struck the ground. The person’s teeth chattered with fear. Above came the laughter of noblewomen, the sound of their bracelets as they applauded, and the intoxicated cries of noblemen. Blood spurted from the human below, while those above shouted, “Do not give up! Do not retreat!” urging the unarmed man to attack a lion strengthened by hunger. The beast tore him apart.
+
+Below stood the animal in the arena; above sat human beasts of the ruling class. Watching a beast kill a person was one manner in which Roman nobles spent their leisure.
+
+Until the system of leisure for a few and labour for the many changes, leisure cannot acquire the quality needed to elevate society. In a society with a low standard of living, leisure has neither benefit nor meaning. It is like serving uncooked food on a silver plate.
+
+Our country consists largely of villages, where cultivators live. For perhaps three months each year, cultivators have no agricultural work and are said to be at leisure. Experts therefore advise them not to waste this time but to use it profitably: rear bees or poultry, weave baskets, spin yarn, or undertake small cottage industries. They say leisure will not be wasted and will produce income.
+
+Whether such advice is given to farmers or everyone, trouble is inevitable when leisure is converted into a means of making money. Sooner or later the question arises whether the time and effort spent yield an adequate return. A man whose entire life already possesses comfort will gain greater pleasure from the single anna earned through a hobby than Kandan—who labours in the field from morning until evening without earning enough for even a quarter-filled stomach—will receive from the jackfruit produced by working during his supposed leisure.
+
+If leisure becomes new labour, and the resulting income must meet ordinary living expenses, it is neither leisure nor recreation. Advice offered to villagers thus makes leisure another master over the cultivator rather than his friend.
+
+Leisure should provide the joy of mind one might receive from a cultured friend. Whether this is possible under the present social and economic system is highly doubtful.
+
+To spend leisure pleasantly, people must have the means to meet its expense, and the cost must suit the living standards of the majority. They must taste leisure and dispel the weariness of labour. In hot weather that requires a cool drink; in cold weather, a warm one; and on every day, a family with pleasant faces and affectionate words. Once these exist, people need the knowledge to discover how to use leisure and facilities through which to do so.
+
+An office clerk who sees an advertisement saying, “Come with your family during the holidays, stay in a houseboat, and enjoy Kashmir,” can only sing and weep like Nandanar in the story: “Shall I fail to go tomorrow?” What else can he do?
+
+How many can enjoy the beauty of Ootacamund, the coolness of Kodaikanal, or the attractions of Courtallam? Unless living standards generally rise, such pleasure will remain something spoken of by a few and marvelled at by the many.
+
+Alongside improved living standards, we must create new Ootacamunds, Courtallams, and Kodaikanals—new places for rest and recreation. Through public effort and government planning, many such places could be established throughout Tamil Nadu within a distance affordable to the people of each region.
+
+During leisure we look at the moon and stars and feel delight, but how long can we merely look? Suppose the local municipality or public-welfare organisation installed a fine telescope and invited people to view distant objects clearly. Enjoying the sky would become a fascinating recreation, and useful knowledge would enter our minds without our noticing.
+
+Recreation should not be wasteful, but neither should it become a school lesson from *Viveka Chintamani*. It should give us intellectual joy without labour or difficulty. Municipalities can plan inexpensive recreation that causes artistic feeling to spring up in the public mind.
+
+Exhibitions are one such attempt—only an attempt, not yet a success, since most resemble shopping streets and provide little benefit. Some even encourage animal instincts and gambling and thereby cause harm. Properly arranged, however, an exhibition can be a fine recreation and a source of intellectual delight.
+
+When people praise Napoleon, the warrior who startled the world, they say he had no time even to sleep. On the battlefield he would remain mounted and sleep for only a few minutes wherever he could. “How much work and labour Napoleon bore!” they exclaim.
+
+It is true that this warrior fought without time to sleep. But did Napoleon lament that he had no leisure to bathe beneath a beautiful waterfall, stroll through a mango grove, and hear a bright-eyed woman sing? Did he complain: “What a troublesome life; nothing but work, no pleasure and no rest”? No.
+
+Compare Napoleon fighting hard without sleep or a moment’s rest with Napoleon imprisoned on Elba, given all twenty-four hours as leisure because he had no work. On the battlefield he had no rest, but standards of victory stood before his eyes, heroic music filled his ears, and realms lay beneath his feet. He played with jewelled crowns as though they were balls. On Elba the prisoner had leisure all day. Did it taste sweet or give him pride and fulfilment? That leisure was jasmine scattered upon a corpse.
+
+Most people in our country receive such leisure. There are countless Napoleons banished to Elba. Everyone defeated in life’s battlefield is an exiled Napoleon. What they possess is not leisure; they have not yet obtained life itself.
+
+If idle people live in a mansion, no condemnation arises. Others say admiringly, “How fortunate; what a peaceful life!” He raises deer or keeps fish for amusement, and leisure gives him room for a thousand diversions. The ceaseless worker who must toil all day to survive stands differently.
+
+Do salaried clerks, who work by watching the clock and collect wages by watching the calendar, possess the means to gather their available leisure and use it for intellectually rewarding recreation?
+
+Nature pours out her beauty, but it lies unattended like a lovely young widow: waterfalls, painted groves, mountain peaks from which rivers arise, sandalwood forests, singing streams, birds’ music, spotted deer leaping, elephant calves walking beside their mothers, Gingee Fort, and the Shevaroy Hills.
+
+Ask an ordinary clerk whether he has seen them and he may become angry: “Do you think I am a wealthy lord? My salary is only one hundred and fifty rupees, sir. Do you expect me to undertake pleasure tours?” Yet after great difficulty he may obtain four days’ leave to shave a child’s head at Tirupati, perform his mother’s memorial rites beside the Kaveri, or go to Rameswaram seeking a child. If asked how money became available for those journeys, his anger boils over.
+
+How can literature grow, the fragrance of art spread, painting flourish, or fine music arise if people cannot receive joy from nature and artistic awareness within the mind? Only a tiny group with means can use leisure properly.
+
+The exhausted mill worker sleeps without seeing the lotus delight in the morning sun or going to bed after enjoying moonlight. The woman lying a short distance away is his lawful wife. Her fallen tears were the only gift he received at night, and even that gift did not come easily. Without considering that her hands too had laboured in the mill since morning, he struck her back and cheek and beat his own head. Only then did she offer tears. Before the factory conch screams in the morning, a cry may pierce his ears.
+
+To lecture this comrade on leisure’s greatness and how to use it resembles a lord seeing his arrogant mansion dog bite a servant and merely advising the servant which medicine to take to avoid danger.
+
+Unless we change the industrial system that destroys workers and successfully establish labour according to strength and provision according to need, research into leisure must be called a hypocritical drama staged by the civilised world upon a foundation of learning and indifference.
+
+## Translator's Notes
+
+The source identifies this as a 1948 essay rather than a dated public speech.
+
+The OCR phrase “நாளைப் போகமலிருப்பேனோ நான்” is understood through the explicit Nandanar reference as an allusion to the song about going to Chidambaram “tomorrow”; the translation retains the postponement rather than supplying lyrics absent from the source.
+
+“விவேக சிந்தாமணி” denotes a didactic Tamil anthology. The point is that recreation should educate incidentally, not become another formal lesson.
+
+The OCR reads “தேசிங்கு கோட்டை”; the familiar place reference may be Gingee/Senji Fort associated with Desingh, but the extracted Tamil is preserved and the English rendering remains contextual.

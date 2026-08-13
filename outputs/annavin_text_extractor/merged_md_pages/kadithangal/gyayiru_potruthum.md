@@ -1,0 +1,1 @@
+../../md_pages/kadithangal/gyayiru_potruthum.md

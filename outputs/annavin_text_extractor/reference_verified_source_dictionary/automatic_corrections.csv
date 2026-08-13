@@ -1,0 +1,6 @@
+wrong,right,count,reason,example_page,confidence,category
+Hout,அவர்,1,mixed_language_tesseract_read_tamil_as_latin,katturaigal/aangilampol.md,high,automatic
+௮வர்,அவர்,1,tamil_digit_eight_misread_as_initial_a,katturaigal/aangilampol.md,high,automatic
+எனறு,என்று,,known_missing_pullied_n_before_ru,,high,automatic
+ஆனால,ஆனால்,,known_missing_final_pullied_l,,high,automatic
+விசாரணைையை,விசாரணையை,,deterministic_duplicate_vowel_mark,,high,automatic

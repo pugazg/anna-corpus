@@ -1,0 +1,1 @@
+../../md_pages/sorpozhivugal/dilliyae_nyayam_vazhangu.md

@@ -1,0 +1,174 @@
+# தூக்கு மேடை அமைக்கிறது! / The Gallows Is Being Prepared!
+
+**Tamil title:** தூக்கு மேடை அமைக்கிறது!  
+**English title:** The Gallows Is Being Prepared!  
+**Source file:** `katturaigal/thookumaedai_yar.md`
+
+## Source Tamil (verbatim)
+
+- Source image folder: `/Users/pugazhendhirajendran/Documents/Codex/2026-07-09/https-www-annavinpadaippugal-info/outputs/annavin_text_extractor/ocr_images/katturaigal/thookumaedai_yar`
+- OCR language: `tam`
+- Tesseract page segmentation mode: `3`
+- OCR cleanup: `enabled`
+
+## Image 1: 001-4ecda29365.png
+
+- Image: `katturaigal/thookumaedai_yar/001-4ecda29365.png`
+
+23. தூக்கு மேடை அமைக்கிறது!
+
+தாய் நாட்டினின்றும் பிரிந்து, கடல் கடந்து, மலேயா
+சென்று, தன் வாழ்வை வளப்படுத்திக் கொள்ள வேலையொன்றி
+லமர்ந்து, பிறகு தன் உடனுறையும் பாட்டாளித் தோழர்களின்
+பரிதாபக் கண்ணீரைத் துடைக்கும் அரும்பணியில் ஈடுபட்டுச்
+சென்ற சில ஆண்டுகளாக? செயலாற்றி வந்த தமிழன்
+ஒருவன் இன்று மலேயா நாட்டின் தூக்கு மேடையின் அருகே
+கொண்டுவந்து நிறுத்தப்பட்டிருக்கிறான்.
+
+கட்டிளங் காளை. வயது 24. காடு, மேடுகளெல்லாம்
+அலைந்து திரிந்து உழைப்போருலகுக்கு உழைத்து வந்த
+தீரன். வெள்ளை முதலாளிகளின் வெறிபிடித்த செயல்களுக்கு
+ஆட்பட்டுச் சிக்குண்டு சீரழிந்த தொழிலாளரின் நலன்களுக்
+காகப் பாடுபட்ட வீரன், இத்தகைய தமிழன் ஒருவனை,
+மலேயா நாட்டுச் சட்டம் தூக்கு மேடைக்கு அழைத்து
+வந்துள்ளது!
+
+சட்டம், நீதிவழியாக அல்ல - நேர்மை வழியாக அல்ல,
+கோணலான குறுக்கு வழியாகத் தூக்கு மேடை அருகே
+அந்தத் தமிழனை அழைத்துக் கொண்டு வந்து நிறுத்தி
+யிருக்கிறது!
+
+என்ன குற்றம் செய்தான்? நாட்டைக் காட்டிக்
+கொடுத்தானா, இல்லை! ஆட்சியைக் கவிழ்க்க முற்பட்டானா,
+இல்லை! பின் என்னதான் செய்தான்? ஒரு ரிவால்வரும்,
+ஆறு வெடிமருந்துகளும் வைத்திருந்தான். அவ்வளவுதான்!
+
+## Image 2: 002-bb0021d4fa.png
+
+- Image: `katturaigal/thookumaedai_yar/002-bb0021d4fa.png`
+
+அதற்கா தூக்கு தண்டனை? ஆம்! அதற்கேதான்!
+
+யார் அவர்? பெயர், ஏ. கணபதி. பிறப்பிடம் தஞ்சை
+மாவட்டப் பட்டுக்கோட்டைத் தாலுக்காவைச் சேர்ந்த தம்பிக்
+கோட்டை, மலேயா தொழிற்சங்கத்தில் சேர்ந்து தொண்டாற்றி
+வந்தவர்.
+
+மலேயாவில் நடைபெறும் கலவரத்தின் எதிரொலியாக,
+ரிவால்வார் வைத்திருப்போர் தூக்குத் தண்டனைக்
+குற்றத்திற்குள்ளாவார்கள் என்று மலேயா அரசாங்கம்
+வெளியிட்ட அவசரப் பிரகடனத்தையொட்டியே, தோழர்
+கணபதியும் ரிவால்வர் வைத்திருந்தார் என்ற குற்றஞ்
+சாட்டப்பட்டுத் தூக்குத் தண்டனை விதிக்கப்பட்டுள்ளார். தான்
+குற்றமற்றவன் என்றும், அவரசப் பிரகடனத்தின்படி,
+தன்னிடமுள்ள ரிவால்வரையும் ஆறு வெடி மருந்துகளையும்,
+அரசாங்கத்தாரிடத்தில் ஒப்படைக்கும் பொருட்டுத்: தான்
+கிளம்பி வரும் வழியில், போலீஸாரால் பிடிக்கப்பட்டு,
+ரிவால்வரும் கைப்பற்றப்பட்டு வூழக்குத் தொடரப்பட்டவன்
+என்றும், ஆகவே, தான் நிரபராதி என்றும் கோலாலம்பூர்
+பெடரல் வழக்கு மன்றத்தில் மனுச் செய்து கொண்டார் தோழர்
+கணபதி. அங்கு மனு மறுக்கப்பட்டுத் தூக்குதண்டனை உறுதி
+செய்யப்பட்டு இருக்கிறது.
+
+ரிவால்வர் வைத்திருந்தான் என்ற ஒரே குற்றத்திற்காக
+ஒருவன் தூக்குமேடை அனுப்பப்படுகிறானென்றால்,
+அப்பொழுதுதான் நாட்டில் நீதி விரட்டப்படுகிறது, நேர்மை
+புறக்கணிக்கப்படுகிறது என்கிறோம். மலேயா நாட்டுச் சட்டம்
+அந்த ஒரு குற்றத்தைத்தான் தோழர் கணபதி மேல் காட்டுகிறது.
+
+## Image 3: 003-9f5c4797ca.png
+
+- Image: `katturaigal/thookumaedai_yar/003-9f5c4797ca.png`
+
+காழர் கணபதி பரம்பரைக் கொலைக் கொள்ளைச்
+சதிகார;. ஆதாரம் எதுவும் காட்டப்படவில்லை! ரிவால்வரை
+வைத்துக் கொண்டு யாரையேனும், வெள்யைரைப் பல
+சந்தர்ப்பங்கள் இருந்தபோதும் மிரட்டினாரா? அப்படி
+யொன்றும் செய்தி வரவில்லை! ரிவால்வரை அவரிடமிருந்து
+பறித்தபோதும், பறித்தவரை அதனைக் கொண்டு சுட
+முயற்சித்தாரா? அதுவும் இல்லை! என்றாலும் அவரைத்
+தூக்குமேடை கூவி அழைக்கிறது!
+
+தூக்குமேடை ஏற நிற்கும் தமிழனைக் கீழே இறக்க
+இப்பொழுது வழியேதும் இல்லாமற் போகவில்லை. இரக்கம்
+என்னும் ஒரு பொருள் சிலாங்கூர் சுல்தானிடம் இருக்குமே
+யானால், தோழர் கணபதியை. அணைத்துக் கொள்ள இருக்கும்
+ஒருபெரும் ஆபத்தினின்றும் தப்பி ௨ாழச் செய்ய முடியும்.
+
+எனவே, குற்றமற்ற அந்தத் தமிழனை - தன்னைத்
+தொத்திக் கொண்டிருந்த ஒரு சிறு குற்றத்தையும் கழுவிடச்
+சென்று கொண்டிருந்த உண்மையாளனை, நீதி, நேர்மை,
+இரக்கம், கண்ணியம் ஆகிய எல்லாவற்றையும் உதறித் தள்ளி
+விட்டுச் சட்டம் தூக்குமேடைக்கு இழுத்துச் சென்றுள்ளது.
+சட்டத்தால் இழுத்துச் செல்லப்பட்டுள்ள அந்த இளைஞனை
+மீட்சியுறச் செய்யத் தன் கருணையைத் தூதனுப்பும்படியாகச்
+சிலாங்கூர் சுல்தானைத் தமிழகம் கேட்டுக் கொண்டுள்ளது.
+மலேயா வாழ் மக்களும் “கேட்டுக் கொள்வார்கள் என்று எதிர்
+பார்க்கிறோம்.
+
+தமிழர்களின் - திராவிடர்களின் கோரிக்கையை
+நிராகரித்து, இரக்கங் காட்டத் தவறி, ஒரு தமிழனின் வாழ்வு
+
+## Image 4: 004-901a70e407.png
+
+- Image: `katturaigal/thookumaedai_yar/004-901a70e407.png`
+
+மலேயாவின் தூக்குமேடையில் சிதைக்கப்பட்டால், அதனால்
+ஏற்படும் பெரும்புண், பழிக்குப் பழி. வாங்க அஞ்சாப் பழம
+புண்ணாக மாறி, என்றென்றும் தமிழர்கள் உள்ளத்தை வாட்டிக்
+கொண்டிருக்கும் என்பதை மட்டும் மலேயா அரசாங்கம்
+உணரவேண்டும். உணர்ந்து அதற்கேற்றபடி நடந்து கொள்ள
+வேண்டும். நடந்து கொள்ளும் என்று எதிர்பார்க்கிறோம்.
+
+நிரபராதி ஒருவனைத் தூக்கிலிட்டுத் தன்காலைக்
+கறைப்படுத்திக் கொண்டது மலேயா அரசாங்கம் என்றவாறு
+வருங்கால வரலாற்றில் எழுதப்படாமல் பார்த்துக் கொள்ள
+வேண்டிய பெரும் பெறுப்பும் மலேயாவையே சார்ந்ததாகும்.
+
+ஒரு. காசிராஜன் - ராஜகோபாலன் ஆகியோரை
+அன்றொரு நாள் தூக்கு மேடை கூவியழைத்தது.
+நல்லறிவாளர்கள் முயற்சியால் அவ்விருவரும் காப்பாற்றப்பட்டு
+வாழ்வளிக்கப்பட்டனர். அஃதேபோல் தோழர் கணபதியும்,
+சுல்தானின் கருணையின் காரணமாகவாவது காப்பாற்றப்பட்டு,
+தன் தாயகம் சேர்ந்து நம்மையெல்லாம் மகிழ்விப்பார் என்று
+வழிமேல் விழிவைத்து நிற்கிறோம்.
+
+(திராவிட நாடு - 24-4-49)
+
+## English Translation
+
+A Tamil man who left his motherland, crossed the sea to Malaya, took employment to improve his life, and then devoted himself for several years to the rare work of wiping away the tears of his fellow labourers now stands close to the gallows of Malaya.
+
+He is a vigorous young man, twenty-four years old; a resolute worker who roamed forests and uplands in the service of the working world; a valiant man who laboured for workers ruined after being caught in the frenzied acts of white capitalists. Malayan law has brought such a Tamil man to the gallows.
+
+The law has not led him there by the path of justice or integrity. It has brought him to the gallows by a crooked shortcut.
+
+What crime did he commit? Did he betray the country? No. Did he attempt to overthrow the government? No. Then what did he do? He possessed a revolver and six rounds of ammunition. That is all.
+
+The death penalty for that? Yes, for that alone.
+
+Who is he? His name is A. Ganapathy. His birthplace is Thambikottai in Pattukkottai taluk of Thanjavur district. He joined the Malayan trade-union movement and served it.
+
+Following unrest in Malaya, the government issued an emergency proclamation making possession of a revolver an offence punishable by death. Comrade Ganapathy was charged with possessing a revolver and sentenced to death under that proclamation.
+
+Comrade Ganapathy petitioned the Federal Court in Kuala Lumpur, maintaining that he was innocent. He said that, in accordance with the emergency proclamation, he had set out to surrender the revolver and six rounds in his possession to the government when the police arrested him, seized the weapon, and prosecuted him. His petition was rejected and the death sentence confirmed.
+
+If a man is sent to the gallows for the single offence of possessing a revolver, we say that justice has been driven from the country and integrity cast aside. Malayan law alleges only that one offence against comrade Ganapathy.
+
+No evidence has been shown that comrade Ganapathy came from a lineage of murder, robbery, or conspiracy. Although he had many opportunities, did he use the revolver to threaten anyone, including any white person? No such report has appeared. When it was taken from him, did he attempt to shoot the person who seized it? No. Yet the gallows summons him.
+
+It is not even now impossible to bring the Tamil man waiting to mount the gallows back down. If the Sultan of Selangor possesses such a thing as mercy, he can save comrade Ganapathy from the great danger preparing to embrace him and allow him to live.
+
+Thus the law has cast aside justice, integrity, mercy, and dignity and dragged to the gallows an innocent Tamil man—an honest man who was on his way to cleanse himself even of the small offence that had attached to him. Tamil Nadu has appealed to the Sultan of Selangor to send forth his mercy and redeem the young man whom the law has dragged away. We expect the people living in Malaya to make the same appeal.
+
+The Malayan government must understand one thing: if it rejects the demand of Tamils and Dravidians, fails to show mercy, and destroys a Tamil life upon its gallows, the great wound thereby created will become an old and enduring wound, fearless in demanding answer for injury, and will torment Tamil hearts forever. It must understand and act accordingly. We expect that it will.
+
+Malaya itself bears the great responsibility of ensuring that future history does not record that its government stained its hand by hanging an innocent man.
+
+The gallows once summoned Kasirajan and Rajagopalan. Through the efforts of people of good judgment, both were saved and granted life. We wait with our eyes fixed upon the road, hoping that comrade Ganapathy too will be saved, if only through the Sultan's mercy, return to his homeland, and bring joy to us all.
+
+(*Dravida Nadu*, 24 April 1949)
+
+## Translator's Notes
+
+This is a contemporary clemency appeal for trade-unionist A. Ganapathy. Assertions of innocence, the circumstances of arrest, and legal criticism are translated as the essay's claims. OCR “தன்காலைக் கறைப்படுத்தி” is read contextually as staining the government's hand; the Tamil source remains unchanged.

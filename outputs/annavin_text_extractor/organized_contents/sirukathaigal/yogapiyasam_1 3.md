@@ -1,0 +1,1 @@
+../../ocr_text_corrected/sirukathaigal/yogapiyasam_1.md

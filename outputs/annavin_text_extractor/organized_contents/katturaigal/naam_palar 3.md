@@ -1,0 +1,1 @@
+../../md_pages/katturaigal/naam_palar.md

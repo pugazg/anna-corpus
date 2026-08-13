@@ -1,0 +1,70 @@
+# தி.மு.க. நிலை / The DMK's Position
+
+**Tamil title:** தி.மு.க. நிலை  
+**English title:** The DMK's Position  
+**Source:** <http://www.annavinpadaippugal.info/paettigal/thimuka_nilai.htm>
+
+## Source Tamil (verbatim)
+
+(17.07.1965 அன்று கோலாலம்பூரில் செய்தியாளர்களிடையே அண்ணா)
+வினா: மலேசியா புதுக்குடியேற்ற அமைப்பு என்னும் முறையில் இந்தோனேசியா பலவகைக் குற்றச்சாட்டுகளைக் கூறி இருக்கிறது? அதைப் பற்றி நீங்கள் என்ன கருதுகிறீர்கள்?
+அண்ணா: அதிபர் சுகர்னோவும் அவர்தம் நண்பர்களும் மலேசியாவை மட்டும் புதுக் குடியேற்ற நாடு என்று குறிப்பிடவில்லை. இந்தியாவையும் அவர்கள் புதுக்குடியேற்ற நாடு என்றே குறிப்பிட்டுள்ளனர்.
+வினா: கம்யூனிஸ்டு சீனா அணுக்கருவிகளை உற்பத்தி செய்துவரும் இவ்வேளையில் அணுக்கருவிகளைச் செய்யப்போவதில்லை என்று இந்தியா கூறியுள்ளதே. அதைப் பற்றித் தங்கள் கருத்தென்ன?
+அண்ணா: ஒருமுறை நாம் இந்த அணுக்கருவிப் போட்டியில் நுழைந்து விட்டோமானால், நாம் அரசியல்போர் நெறிமுறையில் இறங்கிவிட்டோம் என்றுதான் பொருள். ஆகவே, இந்தப் போட்டியில் ஈடுபட இந்தியா ஒரு நாளும் விரும்பாது என்ற தனிப்பட்ட முறையில் நானும் மற்றும் என் இந்திய உடன்புறப்புகள் பலரும் கருதுகிறோம்.
+வினா: மாபெரும போர் ஏற்படும் நிலையில், அதனால் உருவாகும் தீய விளைவுளை இந்த அணுக்கருவிப் போராட்டத்தில் சேராதுபோனால் இந்தியா தாக்குப்பிடிக்க முடியுமா?
+அண்ணா: இந்தத் துறையில் இந்தியா அவ்வளவு பாதிக்கப்படாது. அதற்காக அது வருந்தவும் செய்யாது என்பதே என் தனிப்பட்ட கருத்தாகும்.
+வினா: இந்தியக் குடிவழியைச் சேர்ந்த மலேசியர்களின் சரியான பணி எவ்வாறு இருக்க வேண்டும் என்று நீங்கள் நினைக்கிறீர்கள்?
+அண்ணா: இந்நாட்டிலிருந்து வரும் இந்தியர்கள் இங்குப் பிறந்திருந்தாலும் சரி அல்லது இந்நாட்டைத் தங்கள் வாழ்க்கைக்குரிய நாடாக ஏற்றுக்கொண்டாலும் சரி அவர்கள் தங்கள் பற்றுறுதியையும் இந்நாட்டிற்கே தெரிவித்து அதற்கேற்ப நடந்து வரவேண்டும். அவர்களுக்கு இந்நாடுதான் சொந்தநாடு. அவர்கள் இந்நாட்டில் குடிமக்களாவர். ஆகவே, அவர்கள் இந்நாட்டின் மீது ஆழ்ந்த பற்றுக் கொண்டு வாழ்ந்து வரவேண்டும்.
+நேற்றுச் சிங்கையில் குறிப்பிட்டதுபோல் நான் என் நாட்டின் தூதுவனாக மற்றொரு நாட்டுக்கு வந்திருக்கிறேன். என் நாட்டின் பரிவையும் ஆதரவையும் மலேசியாவிற்குத் தெரிவித்துக் கொள்ளலாம். ஓர் அண்டை நாட்டின் தேவையற்ற தான் தோன்றித்தனமான வலுத்ததாக்குதல் மீது இந்தியா கொண்டுள்ள வெறுப்பினைத் தெரிவித்துக் கொள்ளவுமே நான் இங்கு வந்திருக்கிறேன்.
+பன்மையில் ஒருமை என்னுங் கொள்கைக்கு மலேசியா சிறந்த எடுத்துக்காட்டாக விளங்குகிறது. பல்வேறு இனமக்களைக் கொண்ட ஒரு நாடு ஒற்றுமையுடன் திகழ்ந்து வருகிறது என்பதில் மலேசியா தனி இடத்தைப் பிடித்தி்ருக்கிறது.
+உங்கள் மாபெருந் தலைமையமைச்சர் மாண்புமிகு துங்க அப்துல் ரகுமான் அவர்களைச் சந்தித்துப் பேசும் வாய்ப்பினைப் பெற முடியாதுபோனதுதான் எனக்குப் பெருங்குறையாக இருக்கிறது.
+இந்தியா மற்றொரு வலுத்தாக்குபவரால் தாக்கப்பட்டபொழுது, எங்கள் நாட்டுக்கு வெளி்ப்படையான ஆதரவைத் தெரிவி்க்க முன்வந்த முதலாவது அரசியலறிஞர் துங்குவாக இருப்பதால், இந்தியாவிலுள்ள நாங்கள் உங்கள் துங்குவுக்கு என்றும் நன்றி தெரிவிக்கக் கடமைப்பட்டுள்ளோம்.
+எனக்குக் கிடைத்த செய்திகளிலிருந்தும், நான் கேட்டறிந்த வகையிலும் உங்கள் நாட்டுத் தலைமை அமைச்சர் மிகவும் அடக்கமாகவும் குறிப்பிடத்தக்க அறிவியல் அறிவு படைத்த மாபருந் தலைவராகவும் இருந்து வருகிறார் என்பதை உணருகிறேன்.
+வினா: இந்தியாவை நோக்கி இருக்கும் ஒரு ஆபத்துகள் என்ன?
+அண்ணா: இந்தியாவில் நாங்கள் ஒரு ஆபத்துகளை எதிர்நோக்கி இருக்கிறோம். ஒன்று கட்ச்-ரண்ணில் பாக்கிஸ்தான். மற்றொன்று இந்திய எல்லையில் சீனா. இந்த இருதரப்புகளிடமிருந்தும் நாங்கள் மிகவும் தொல்லையான எல்லைப் பிரச்சினைகளை எதிர்நோக்கியுள்ளோம்.
+வினா: தனிநாடு ஏன் நீங்கள் கோரவில்லை?
+அண்ணா: என் கட்சி தனிநாட்டுக்காகக் கோரிக்கை எழுப்பிவந்ததே தவிரக் கூச்சலிடவில்லை. ஆனால், இப்போது ஒரு கடும் வெளிமிரட்டல்களை எதிர்நோக்கி வருவதால், நாங்கள் எங்கள் கோரிக்கையை கைவிட்டுவிட்டோம். இப்போது தி.மு.கழகத்திலுள்ள நாங்கள் இந்திய அரசியல் சட்டத்திற்கிணங்கவே ஒரு கட்சியாக இயங்கி வருகிறோம்.
+இன்று திமுக ஓர் அரசியல் கட்சியாக மட்டுமன்று, பண்பாட்டுக் கழகமாகவும் பணியாற்றி வருகிறது.
+(17.07.1965 அன்று கோலாலம்பூரில் செய்தியாளர்களிடையே அண்ணா)
+
+## English Translation
+
+*(Anna among journalists in Kuala Lumpur on 17 July 1965.)*
+
+**Question:** Indonesia has made various allegations that Malaysia is a neo-colonial formation. What do you think?
+
+**Anna:** President Sukarno and his friends have not described Malaysia alone as neo-colonial. They have described India in the same way.
+
+**Question:** At a time when Communist China is producing nuclear weapons, India says it will not manufacture them. What is your view?
+
+**Anna:** Once we enter this nuclear arms race, it would mean that we had embarked upon the path of political warfare. I personally, along with many of my Indian compatriots, believe India will never wish to enter this competition.
+
+**Question:** If a great war occurs, can India withstand its harmful consequences by remaining outside the nuclear struggle?
+
+**Anna:** My personal view is that India would not be affected to that extent in this field and would have no cause for regret.
+
+**Question:** What do you think should be the proper role of Malaysians of Indian descent?
+
+**Anna:** Whether Indians in this country were born here or have adopted this country as the land of their life, they must declare their loyalty to this country and act accordingly. This is their homeland. They are its citizens and must live with deep attachment to it.
+
+As I said in Singapore yesterday, I have come to another country as an envoy of my own. I may convey my country's affection and support to Malaysia. I have also come to express India's aversion to the needless, arbitrary aggression of a neighbouring country.
+
+Malaysia is an excellent example of unity in diversity. It occupies a distinctive place as a country in which people of many races live in unity.
+
+My great disappointment is that I could not obtain an opportunity to meet and speak with your great Prime Minister, the Honourable Tunku Abdul Rahman.
+
+We in India owe lasting gratitude to your Tunku, because he was the first statesman to come forward and express open support for our country when India was attacked by another aggressor.
+
+From reports I have received and what I have heard, I understand that your Prime Minister is a great leader of exceptional modesty and notable scientific understanding.
+
+**Question:** What dangers face India?
+
+**Anna:** We face two dangers: Pakistan in the Rann of Kutch and China on India's border. From both directions we face extremely troublesome frontier problems.
+
+**Question:** Why do you no longer demand a separate country?
+
+**Anna:** My party advanced a demand for a separate country; it did not merely shout about it. But because we now face severe external threats, we have abandoned that demand. We in the DMK now function as a party in accordance with the Indian Constitution.
+
+Today the DMK works not only as a political party but also as a cultural organisation.
+
+*(Anna among journalists in Kuala Lumpur on 17 July 1965.)*

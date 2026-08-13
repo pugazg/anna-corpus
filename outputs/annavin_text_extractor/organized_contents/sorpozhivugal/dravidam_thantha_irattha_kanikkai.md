@@ -1,0 +1,1 @@
+../../md_pages/sorpozhivugal/dravidam_thantha_irattha_kanikkai.md

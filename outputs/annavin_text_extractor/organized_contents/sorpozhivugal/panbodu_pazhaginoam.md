@@ -1,0 +1,1 @@
+../../md_pages/sorpozhivugal/panbodu_pazhaginoam.md

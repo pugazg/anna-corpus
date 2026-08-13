@@ -1,0 +1,1 @@
+../../md_pages/kadithangal/idiosayal_kidaikkathu.md

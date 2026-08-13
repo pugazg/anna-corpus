@@ -1,0 +1,1 @@
+../../md_pages/katturaigal/bagiranga_visa_kundra.md

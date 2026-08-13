@@ -1,0 +1,772 @@
+file,action,reason
+Kurunavalgal/CONTENTS.md,skipped,not in source map
+contact.md,unchanged,already verbatim
+english/CONTENTS.md,skipped,not in source map
+english/annavin_english_katturaigal.md,restored,verbatim English HTML source
+home.md,unchanged,already verbatim
+index.md,restored,verbatim Tamil HTML source
+kadithangal/1961_kaana_thittama.md,unchanged,already verbatim
+kadithangal/CONTENTS.md,skipped,not in source map
+kadithangal/aalayilla_ooril.md,unchanged,already verbatim
+kadithangal/aalinganamum.md,unchanged,already verbatim
+kadithangal/aanai_piranthathu_1.md,unchanged,already verbatim
+kadithangal/aanal_agavae.md,unchanged,already verbatim
+kadithangal/aariyam_irukum_idam.md,unchanged,already verbatim
+kadithangal/aavadiyum_kaavadiyum.md,unchanged,already verbatim
+kadithangal/aazhamam_kuzhiyam.md,unchanged,already verbatim
+katturaigal/4-5-7-10.md,skipped,OCR source requires reviewed corrections
+katturaigal/CONTENTS.md,skipped,not in source map
+katturaigal/aachariyar_adaintha.md,skipped,OCR source requires reviewed corrections
+katturaigal/aachariyarin_aarudam.md,skipped,OCR source requires reviewed corrections
+katturaigal/aaduraattey.md,skipped,OCR source requires reviewed corrections
+katturaigal/aakiramippai.md,skipped,OCR source requires reviewed corrections
+katturaigal/aal_thaedu.md,skipped,OCR source requires reviewed corrections
+katturaigal/aamai_vaegam.md,skipped,OCR source requires reviewed corrections
+katturaigal/aanalum.md,skipped,OCR source requires reviewed corrections
+katturaigal/aandu14.md,skipped,OCR source requires reviewed corrections
+katturaigal/aangilampol.md,skipped,OCR source requires reviewed corrections
+katturaigal/aariyamaayai.md,skipped,OCR source requires reviewed corrections
+katturaigal/aariyar_samayam.md,skipped,OCR source requires reviewed corrections
+katturaigal/aaruthal_kooru.md,skipped,OCR source requires reviewed corrections
+katturaigal/aaruthal_perattum.md,skipped,OCR source requires reviewed corrections
+katturaigal/aasai_vetkam.md,skipped,OCR source requires reviewed corrections
+katturaigal/aatchi_mozhi.md,skipped,OCR source requires reviewed corrections
+katturaigal/aathiramum.md,skipped,OCR source requires reviewed corrections
+katturaigal/abaya_arivippu.md,skipped,OCR source requires reviewed corrections
+katturaigal/abethavetham.md,skipped,OCR source requires reviewed corrections
+katturaigal/adakkumurai_att.md,skipped,OCR source requires reviewed corrections
+katturaigal/aduthakkattam.md,skipped,OCR source requires reviewed corrections
+katturaigal/aen_azhamattar.md,skipped,OCR source requires reviewed corrections
+katturaigal/aen_intha_acham.md,skipped,OCR source requires reviewed corrections
+katturaigal/ahathu_koodathu.md,skipped,OCR source requires reviewed corrections
+katturaigal/ahimsavilasam.md,skipped,OCR source requires reviewed corrections
+katturaigal/alagarsamy_kudumba.md,skipped,OCR source requires reviewed corrections
+katturaigal/alladugirar.md,skipped,OCR source requires reviewed corrections
+katturaigal/anbin_pinaippu.md,skipped,OCR source requires reviewed corrections
+katturaigal/andho_alagarsamy.md,skipped,OCR source requires reviewed corrections
+katturaigal/andrae_kilambiya.md,skipped,OCR source requires reviewed corrections
+katturaigal/anna_munnurai.md,skipped,OCR source requires reviewed corrections
+katturaigal/annan_tharum.md,skipped,OCR source requires reviewed corrections
+katturaigal/annavin_vazhthu.md,skipped,OCR source requires reviewed corrections
+katturaigal/antha_annakavadi.md,skipped,OCR source requires reviewed corrections
+katturaigal/antha_ganniyam.md,skipped,OCR source requires reviewed corrections
+katturaigal/antha_naadagam.md,skipped,OCR source requires reviewed corrections
+katturaigal/antha_thunivu.md,skipped,OCR source requires reviewed corrections
+katturaigal/anthamaan.md,skipped,OCR source requires reviewed corrections
+katturaigal/anthanalukkaga.md,skipped,OCR source requires reviewed corrections
+katturaigal/anthiya_kaalam.md,skipped,OCR source requires reviewed corrections
+katturaigal/anugundu.md,skipped,OCR source requires reviewed corrections
+katturaigal/anuman_kathai.md,skipped,OCR source requires reviewed corrections
+katturaigal/anuthabam.md,skipped,OCR source requires reviewed corrections
+katturaigal/arapor_kurippu.md,skipped,OCR source requires reviewed corrections
+katturaigal/arappoar.md,skipped,OCR source requires reviewed corrections
+katturaigal/arappoar_velha.md,skipped,OCR source requires reviewed corrections
+katturaigal/arappor_thodangi.md,skipped,OCR source requires reviewed corrections
+katturaigal/arisiyiyal.md,skipped,OCR source requires reviewed corrections
+katturaigal/arivukovvathathu.md,skipped,OCR source requires reviewed corrections
+katturaigal/ariyamayil.md,skipped,OCR source requires reviewed corrections
+katturaigal/arputham_paareer.md,skipped,OCR source requires reviewed corrections
+katturaigal/arumai_arumai.md,skipped,OCR source requires reviewed corrections
+katturaigal/arutperunjothi.md,skipped,OCR source requires reviewed corrections
+katturaigal/asath_avaesam.md,skipped,OCR source requires reviewed corrections
+katturaigal/ashraf.md,skipped,OCR source requires reviewed corrections
+katturaigal/athae_idathil.md,skipped,OCR source requires reviewed corrections
+katturaigal/athisaya_nayanar.md,skipped,OCR source requires reviewed corrections
+katturaigal/athisayamalla.md,skipped,OCR source requires reviewed corrections
+katturaigal/atraithingal.md,skipped,OCR source requires reviewed corrections
+katturaigal/august.md,skipped,OCR source requires reviewed corrections
+katturaigal/augustil_kidai.md,skipped,OCR source requires reviewed corrections
+katturaigal/avamanachinna.md,skipped,OCR source requires reviewed corrections
+katturaigal/avan_manithan.md,skipped,OCR source requires reviewed corrections
+katturaigal/avanum_manithan.md,skipped,OCR source requires reviewed corrections
+katturaigal/avar_kana_virumbiya.md,skipped,OCR source requires reviewed corrections
+katturaigal/avarathu_sanj.md,skipped,OCR source requires reviewed corrections
+katturaigal/avargal_sindhip.md,skipped,OCR source requires reviewed corrections
+katturaigal/avarudaya_araichi.md,skipped,OCR source requires reviewed corrections
+katturaigal/avarum_thamizhar.md,skipped,OCR source requires reviewed corrections
+katturaigal/avungsan.md,skipped,OCR source requires reviewed corrections
+katturaigal/ayvar_vazhakku.md,skipped,OCR source requires reviewed corrections
+katturaigal/ayyo_athuvum.md,skipped,OCR source requires reviewed corrections
+katturaigal/ayyo_yazh.md,skipped,OCR source requires reviewed corrections
+katturaigal/azhagana_silai.md,skipped,OCR source requires reviewed corrections
+katturaigal/bajagovindam.md,skipped,OCR source requires reviewed corrections
+katturaigal/balae_aal.md,skipped,OCR source requires reviewed corrections
+katturaigal/bernatsha.md,skipped,OCR source requires reviewed corrections
+katturaigal/bharathan_ezhuthiya.md,skipped,OCR source requires reviewed corrections
+katturaigal/bharathan_ezhuthiya2.md,skipped,OCR source requires reviewed corrections
+katturaigal/bharathazhvar.md,skipped,OCR source requires reviewed corrections
+katturaigal/burma_tharum.md,skipped,OCR source requires reviewed corrections
+katturaigal/burmavai_paarungal.md,skipped,OCR source requires reviewed corrections
+katturaigal/cdnaayagam.md,skipped,OCR source requires reviewed corrections
+katturaigal/chandiran_marai.md,skipped,OCR source requires reviewed corrections
+katturaigal/cheche.md,skipped,OCR source requires reviewed corrections
+katturaigal/chennayil_bamba.md,skipped,OCR source requires reviewed corrections
+katturaigal/chennayil_thozhar.md,skipped,OCR source requires reviewed corrections
+katturaigal/corp_alangolam.md,skipped,OCR source requires reviewed corrections
+katturaigal/culcutta_kaichal.md,skipped,OCR source requires reviewed corrections
+katturaigal/culcutta_rasagulla.md,skipped,OCR source requires reviewed corrections
+katturaigal/cyprus.md,skipped,OCR source requires reviewed corrections
+katturaigal/dalmiyapuram.md,skipped,OCR source requires reviewed corrections
+katturaigal/delhi_kuttu.md,skipped,OCR source requires reviewed corrections
+katturaigal/ditto.md,skipped,OCR source requires reviewed corrections
+katturaigal/dravidamaniyin.md,skipped,OCR source requires reviewed corrections
+katturaigal/ellam_eesan.md,skipped,OCR source requires reviewed corrections
+katturaigal/en_nandri.md,skipped,OCR source requires reviewed corrections
+katturaigal/en_vaazhthu.md,skipped,OCR source requires reviewed corrections
+katturaigal/enathu_vaendugol.md,skipped,OCR source requires reviewed corrections
+katturaigal/erode_kaana.md,skipped,OCR source requires reviewed corrections
+katturaigal/ethanum_pithanum.md,skipped,OCR source requires reviewed corrections
+katturaigal/ethu.md,skipped,OCR source requires reviewed corrections
+katturaigal/ezhil_dravidam.md,skipped,OCR source requires reviewed corrections
+katturaigal/ezhuthalar_manadu.md,skipped,OCR source requires reviewed corrections
+katturaigal/farook.md,skipped,OCR source requires reviewed corrections
+katturaigal/ganavaan.md,skipped,OCR source requires reviewed corrections
+katturaigal/gangai_karayil.md,skipped,OCR source requires reviewed corrections
+katturaigal/governor_ezhutha.md,skipped,OCR source requires reviewed corrections
+katturaigal/hindi_aalai.md,skipped,OCR source requires reviewed corrections
+katturaigal/hindi_ethirpor.md,skipped,OCR source requires reviewed corrections
+katturaigal/hindi_kattaya.md,skipped,OCR source requires reviewed corrections
+katturaigal/hindi_nilamai.md,skipped,OCR source requires reviewed corrections
+katturaigal/hindi_thinippu.md,skipped,OCR source requires reviewed corrections
+katturaigal/home_land.md,skipped,OCR source requires reviewed corrections
+katturaigal/idathu_paatham.md,skipped,OCR source requires reviewed corrections
+katturaigal/indraya_nirvagam.md,skipped,OCR source requires reviewed corrections
+katturaigal/iru_vetrigal.md,skipped,OCR source requires reviewed corrections
+katturaigal/irubathumoovar.md,skipped,OCR source requires reviewed corrections
+katturaigal/iruthaya_geetham.md,skipped,OCR source requires reviewed corrections
+katturaigal/iruttil_prag.md,skipped,OCR source requires reviewed corrections
+katturaigal/iyakka_veerarai.md,skipped,OCR source requires reviewed corrections
+katturaigal/iyakkam_namathu.md,skipped,OCR source requires reviewed corrections
+katturaigal/izhakkamaattom.md,skipped,OCR source requires reviewed corrections
+katturaigal/jiniva.md,skipped,OCR source requires reviewed corrections
+katturaigal/jomo.md,skipped,OCR source requires reviewed corrections
+katturaigal/july.md,skipped,OCR source requires reviewed corrections
+katturaigal/july13.md,skipped,OCR source requires reviewed corrections
+katturaigal/kadamai_unarchi.md,skipped,OCR source requires reviewed corrections
+katturaigal/kaelviyum_bathilum091147.md,skipped,OCR source requires reviewed corrections
+katturaigal/kaelviyum_bathilum201147.md,skipped,OCR source requires reviewed corrections
+katturaigal/kaeteergala.md,skipped,OCR source requires reviewed corrections
+katturaigal/kalaiyum_padukolaiyum.md,skipped,OCR source requires reviewed corrections
+katturaigal/kalanjiam_kaana.md,skipped,OCR source requires reviewed corrections
+katturaigal/kambar_maanadu.md,skipped,OCR source requires reviewed corrections
+katturaigal/kanchiyil_hindi.md,skipped,OCR source requires reviewed corrections
+katturaigal/karuthu_alaya.md,skipped,OCR source requires reviewed corrections
+katturaigal/kathamba_kesari.md,skipped,OCR source requires reviewed corrections
+katturaigal/kaviyarasi.md,skipped,OCR source requires reviewed corrections
+katturaigal/kazhaga_nilai.md,skipped,OCR source requires reviewed corrections
+katturaigal/kazhaga_pani.md,skipped,OCR source requires reviewed corrections
+katturaigal/kazhagakural.md,skipped,OCR source requires reviewed corrections
+katturaigal/kazhagamum.md,skipped,OCR source requires reviewed corrections
+katturaigal/keezhae_vizhuntha.md,skipped,OCR source requires reviewed corrections
+katturaigal/koattaikullae.md,skipped,OCR source requires reviewed corrections
+katturaigal/koluppommai.md,skipped,OCR source requires reviewed corrections
+katturaigal/koluthuvathu.md,skipped,OCR source requires reviewed corrections
+katturaigal/kovai_vaareer.md,skipped,OCR source requires reviewed corrections
+katturaigal/kovil_karai.md,skipped,OCR source requires reviewed corrections
+katturaigal/kumbakonathil.md,skipped,OCR source requires reviewed corrections
+katturaigal/londanile.md,skipped,OCR source requires reviewed corrections
+katturaigal/maahana_manavar.md,skipped,OCR source requires reviewed corrections
+katturaigal/magizhgirom200355.md,skipped,OCR source requires reviewed corrections
+katturaigal/magizhvin_maraivu.md,skipped,OCR source requires reviewed corrections
+katturaigal/makkatpanbu.md,skipped,OCR source requires reviewed corrections
+katturaigal/malai_naattil.md,skipped,OCR source requires reviewed corrections
+katturaigal/manavar_thanthai.md,skipped,OCR source requires reviewed corrections
+katturaigal/mandapa_maanadu.md,skipped,OCR source requires reviewed corrections
+katturaigal/mangammal.md,skipped,OCR source requires reviewed corrections
+katturaigal/mannikkamudiyatha.md,skipped,OCR source requires reviewed corrections
+katturaigal/manuvin_aatchiya.md,skipped,OCR source requires reviewed corrections
+katturaigal/mapusiponvizha.md,skipped,OCR source requires reviewed corrections
+katturaigal/maraintha_marath.md,skipped,OCR source requires reviewed corrections
+katturaigal/marainthar.md,skipped,OCR source requires reviewed corrections
+katturaigal/marainthayo.md,skipped,OCR source requires reviewed corrections
+katturaigal/maraivu.md,skipped,OCR source requires reviewed corrections
+katturaigal/marakka_mudiyatha.md,skipped,OCR source requires reviewed corrections
+katturaigal/marana_sasanam.md,skipped,OCR source requires reviewed corrections
+katturaigal/marappom_manni.md,skipped,OCR source requires reviewed corrections
+katturaigal/mathuvilakku_naadag.md,skipped,OCR source requires reviewed corrections
+katturaigal/mathuvilakku_satta.md,skipped,OCR source requires reviewed corrections
+katturaigal/mayana_kaandam.md,skipped,OCR source requires reviewed corrections
+katturaigal/mazhai.md,skipped,OCR source requires reviewed corrections
+katturaigal/mazhu_aenthiya.md,skipped,OCR source requires reviewed corrections
+katturaigal/meenambur.md,skipped,OCR source requires reviewed corrections
+katturaigal/meendum_kama.md,skipped,OCR source requires reviewed corrections
+katturaigal/mohana_muhari.md,skipped,OCR source requires reviewed corrections
+katturaigal/moksesae.md,skipped,OCR source requires reviewed corrections
+katturaigal/moodanambikai.md,skipped,OCR source requires reviewed corrections
+katturaigal/moodatheer.md,skipped,OCR source requires reviewed corrections
+katturaigal/moodupani.md,skipped,OCR source requires reviewed corrections
+katturaigal/moodupani_vilaga.md,skipped,OCR source requires reviewed corrections
+katturaigal/mooliyanar.md,skipped,OCR source requires reviewed corrections
+katturaigal/moondrarai_kodi.md,skipped,OCR source requires reviewed corrections
+katturaigal/moothavar.md,skipped,OCR source requires reviewed corrections
+katturaigal/moscovin_puthu.md,skipped,OCR source requires reviewed corrections
+katturaigal/mozhipor_veerang.md,skipped,OCR source requires reviewed corrections
+katturaigal/mozhiporattam.md,skipped,OCR source requires reviewed corrections
+katturaigal/mu_karunanithi.md,skipped,OCR source requires reviewed corrections
+katturaigal/mugathilae_kari.md,skipped,OCR source requires reviewed corrections
+katturaigal/munnani_padai.md,skipped,OCR source requires reviewed corrections
+katturaigal/munshi_marg.md,skipped,OCR source requires reviewed corrections
+katturaigal/murasum.md,skipped,OCR source requires reviewed corrections
+katturaigal/musadhik.md,skipped,OCR source requires reviewed corrections
+katturaigal/muthal_kanik.md,skipped,OCR source requires reviewed corrections
+katturaigal/muthal_thaakku.md,skipped,OCR source requires reviewed corrections
+katturaigal/muthalamaicharin_murari.md,skipped,OCR source requires reviewed corrections
+katturaigal/muthamizhukku.md,skipped,OCR source requires reviewed corrections
+katturaigal/mysore_sarkarukku.md,skipped,OCR source requires reviewed corrections
+katturaigal/naagai_mani.md,skipped,OCR source requires reviewed corrections
+katturaigal/naattu_nilayum.md,skipped,OCR source requires reviewed corrections
+katturaigal/nadaga_pera.md,skipped,OCR source requires reviewed corrections
+katturaigal/nadamaadum.md,skipped,OCR source requires reviewed corrections
+katturaigal/nadathiselgirar.md,skipped,OCR source requires reviewed corrections
+katturaigal/nadengum.md,skipped,OCR source requires reviewed corrections
+katturaigal/nadigar_sanga.md,skipped,OCR source requires reviewed corrections
+katturaigal/nagai_veedu.md,skipped,OCR source requires reviewed corrections
+katturaigal/nagaratchi_thaerthal.md,skipped,OCR source requires reviewed corrections
+katturaigal/nalla_yosanai.md,skipped,OCR source requires reviewed corrections
+katturaigal/nallatchi_kanbom.md,skipped,OCR source requires reviewed corrections
+katturaigal/nallathalla.md,skipped,OCR source requires reviewed corrections
+katturaigal/nam_annavin.md,skipped,OCR source requires reviewed corrections
+katturaigal/namaparvathi.md,skipped,OCR source requires reviewed corrections
+katturaigal/namathu_asai.md,skipped,OCR source requires reviewed corrections
+katturaigal/namathu_geethai.md,skipped,OCR source requires reviewed corrections
+katturaigal/namathu_paathai.md,skipped,OCR source requires reviewed corrections
+katturaigal/namathu_poar_paathai.md,skipped,OCR source requires reviewed corrections
+katturaigal/nambikai_natch.md,skipped,OCR source requires reviewed corrections
+katturaigal/namellam.md,skipped,OCR source requires reviewed corrections
+katturaigal/nammai_nambatha.md,skipped,OCR source requires reviewed corrections
+katturaigal/nanbargal_kaetpatharkku01.md,skipped,OCR source requires reviewed corrections
+katturaigal/nanbargal_kaetpatharkku02.md,skipped,OCR source requires reviewed corrections
+katturaigal/nanbargal_kaetpatharkku03.md,skipped,OCR source requires reviewed corrections
+katturaigal/nanbargal_kaetpatharkku04.md,skipped,OCR source requires reviewed corrections
+katturaigal/nanbargal_kaetpatharkku05.md,skipped,OCR source requires reviewed corrections
+katturaigal/nandri_170357.md,skipped,OCR source requires reviewed corrections
+katturaigal/nandriyum_varav.md,skipped,OCR source requires reviewed corrections
+katturaigal/nangu_naatkal.md,skipped,OCR source requires reviewed corrections
+katturaigal/navenna.md,skipped,OCR source requires reviewed corrections
+katturaigal/neethiyum.md,skipped,OCR source requires reviewed corrections
+katturaigal/ninaivil_nilaithar.md,skipped,OCR source requires reviewed corrections
+katturaigal/ninaivu_nilai.md,skipped,OCR source requires reviewed corrections
+katturaigal/noyaligal.md,skipped,OCR source requires reviewed corrections
+katturaigal/october_15.md,skipped,OCR source requires reviewed corrections
+katturaigal/oli_thanthar.md,skipped,OCR source requires reviewed corrections
+katturaigal/oru_ponnedu.md,skipped,OCR source requires reviewed corrections
+katturaigal/oviya_mannarukku.md,skipped,OCR source requires reviewed corrections
+katturaigal/paalaivana_malar.md,skipped,OCR source requires reviewed corrections
+katturaigal/paanjalasabai.md,skipped,OCR source requires reviewed corrections
+katturaigal/padikkathae.md,skipped,OCR source requires reviewed corrections
+katturaigal/pallakku_boomi.md,skipped,OCR source requires reviewed corrections
+katturaigal/pandithar_maraivu.md,skipped,OCR source requires reviewed corrections
+katturaigal/panditharukku_vaendu.md,skipped,OCR source requires reviewed corrections
+katturaigal/parakkum_kuthirai.md,skipped,OCR source requires reviewed corrections
+katturaigal/paranthathu.md,skipped,OCR source requires reviewed corrections
+katturaigal/parasakthi.md,skipped,OCR source requires reviewed corrections
+katturaigal/parattu5256.md,skipped,OCR source requires reviewed corrections
+katturaigal/parattu_211056.md,skipped,OCR source requires reviewed corrections
+katturaigal/parpanargalum.md,skipped,OCR source requires reviewed corrections
+katturaigal/pathandugal.md,skipped,OCR source requires reviewed corrections
+katturaigal/pathinainthu.md,skipped,OCR source requires reviewed corrections
+katturaigal/pazhaya_agar.md,skipped,OCR source requires reviewed corrections
+katturaigal/pernathath.md,skipped,OCR source requires reviewed corrections
+katturaigal/perumaikuriya_para.md,skipped,OCR source requires reviewed corrections
+katturaigal/perumpulavar.md,skipped,OCR source requires reviewed corrections
+katturaigal/pillayin_pinam.md,skipped,OCR source requires reviewed corrections
+katturaigal/pirarsothai.md,skipped,OCR source requires reviewed corrections
+katturaigal/pitham_theliya.md,skipped,OCR source requires reviewed corrections
+katturaigal/pon_vaathu.md,skipped,OCR source requires reviewed corrections
+katturaigal/pongal_virunthu.md,skipped,OCR source requires reviewed corrections
+katturaigal/poongatru.md,skipped,OCR source requires reviewed corrections
+katturaigal/pothu_seyalalar.md,skipped,OCR source requires reviewed corrections
+katturaigal/power_soda.md,skipped,OCR source requires reviewed corrections
+katturaigal/prarthanai.md,skipped,OCR source requires reviewed corrections
+katturaigal/puliyana_kathai.md,skipped,OCR source requires reviewed corrections
+katturaigal/punnagai.md,skipped,OCR source requires reviewed corrections
+katturaigal/puthiya_ani.md,skipped,OCR source requires reviewed corrections
+katturaigal/puthuppothanai.md,skipped,OCR source requires reviewed corrections
+katturaigal/puthuvali.md,skipped,OCR source requires reviewed corrections
+katturaigal/puthvazhvu.md,skipped,OCR source requires reviewed corrections
+katturaigal/raja_annama.md,skipped,OCR source requires reviewed corrections
+katturaigal/rashya_sirikirathu.md,skipped,OCR source requires reviewed corrections
+katturaigal/saeravaarum.md,skipped,OCR source requires reviewed corrections
+katturaigal/samayasancheevi.md,skipped,OCR source requires reviewed corrections
+katturaigal/sampath_thara.md,skipped,OCR source requires reviewed corrections
+katturaigal/sarintha_samrajyam_1.md,skipped,OCR source requires reviewed corrections
+katturaigal/satta_maruppum.md,skipped,OCR source requires reviewed corrections
+katturaigal/savundappan.md,skipped,OCR source requires reviewed corrections
+katturaigal/sengodi_nizhalilae.md,skipped,OCR source requires reviewed corrections
+katturaigal/sinthanai_kalan.md,skipped,OCR source requires reviewed corrections
+katturaigal/sir_cv_ramanukku.md,skipped,OCR source requires reviewed corrections
+katturaigal/sir_paathro.md,skipped,OCR source requires reviewed corrections
+katturaigal/sir_polish.md,skipped,OCR source requires reviewed corrections
+katturaigal/sirantha_nanbar.md,skipped,OCR source requires reviewed corrections
+katturaigal/sorgavasal.md,skipped,OCR source requires reviewed corrections
+katturaigal/sothanayil_vetri.md,skipped,OCR source requires reviewed corrections
+katturaigal/suzhalum_sak.md,skipped,OCR source requires reviewed corrections
+katturaigal/tamil_muzhakkam.md,skipped,OCR source requires reviewed corrections
+katturaigal/tamilan_thodu_kuri.md,skipped,OCR source requires reviewed corrections
+katturaigal/tamilan_thodutha.md,skipped,OCR source requires reviewed corrections
+katturaigal/thalamuthu.md,skipped,OCR source requires reviewed corrections
+katturaigal/thanae_seyya.md,skipped,OCR source requires reviewed corrections
+katturaigal/thanga_vayalil.md,skipped,OCR source requires reviewed corrections
+katturaigal/thatha_katta.md,skipped,OCR source requires reviewed corrections
+katturaigal/thayangathae.md,skipped,OCR source requires reviewed corrections
+katturaigal/theera_thuyaram.md,skipped,OCR source requires reviewed corrections
+katturaigal/theeviram_kolveer.md,skipped,OCR source requires reviewed corrections
+katturaigal/thendran_veesattum.md,skipped,OCR source requires reviewed corrections
+katturaigal/thennattu_poar.md,skipped,OCR source requires reviewed corrections
+katturaigal/thiruchiyil_thooku.md,skipped,OCR source requires reviewed corrections
+katturaigal/thiruvangur_thivan.md,skipped,OCR source requires reviewed corrections
+katturaigal/thookumaedai_yar.md,skipped,OCR source requires reviewed corrections
+katturaigal/thookumaedayil_matro.md,skipped,OCR source requires reviewed corrections
+katturaigal/thozhar_daniel.md,skipped,OCR source requires reviewed corrections
+katturaigal/thozhar_k.md,skipped,OCR source requires reviewed corrections
+katturaigal/thozhar_mu_ka.md,skipped,OCR source requires reviewed corrections
+katturaigal/thozhar_tm.md,skipped,OCR source requires reviewed corrections
+katturaigal/thudaithukolga.md,skipped,OCR source requires reviewed corrections
+katturaigal/thuravi.md,skipped,OCR source requires reviewed corrections
+katturaigal/urchagam_vaen.md,skipped,OCR source requires reviewed corrections
+katturaigal/urimai_murasoli.md,skipped,OCR source requires reviewed corrections
+katturaigal/vaayai_moodi.md,skipped,OCR source requires reviewed corrections
+katturaigal/vaazhkai_vizha.md,skipped,OCR source requires reviewed corrections
+katturaigal/vaeguthae.md,skipped,OCR source requires reviewed corrections
+katturaigal/vaendave_vaendam.md,skipped,OCR source requires reviewed corrections
+katturaigal/vaendukoal1508.md,skipped,OCR source requires reviewed corrections
+katturaigal/vaethalam.md,skipped,OCR source requires reviewed corrections
+katturaigal/vaguppu_thuv.md,skipped,OCR source requires reviewed corrections
+katturaigal/vaguppurimai_por.md,skipped,OCR source requires reviewed corrections
+katturaigal/valajavil.md,skipped,OCR source requires reviewed corrections
+katturaigal/vallal_marainthar.md,skipped,OCR source requires reviewed corrections
+katturaigal/vanambadi_para.md,skipped,OCR source requires reviewed corrections
+katturaigal/varavaerkirom.md,skipped,OCR source requires reviewed corrections
+katturaigal/varunthu_311048.md,skipped,OCR source requires reviewed corrections
+katturaigal/varuthukirom_190948.md,skipped,OCR source requires reviewed corrections
+katturaigal/vazhakkumandrathil.md,skipped,OCR source requires reviewed corrections
+katturaigal/vazhga_arivagam.md,skipped,OCR source requires reviewed corrections
+katturaigal/vazhga_natarajan.md,skipped,OCR source requires reviewed corrections
+katturaigal/vazhga_thindivanam.md,skipped,OCR source requires reviewed corrections
+katturaigal/vazhthu_140160.md,skipped,OCR source requires reviewed corrections
+katturaigal/vazhthugindrom180552.md,skipped,OCR source requires reviewed corrections
+katturaigal/vazhthuhindraen.md,skipped,OCR source requires reviewed corrections
+katturaigal/vazhvikkavae.md,skipped,OCR source requires reviewed corrections
+katturaigal/vazhvin_latchiyam.md,skipped,OCR source requires reviewed corrections
+katturaigal/vazhvu_oru.md,skipped,OCR source requires reviewed corrections
+katturaigal/veerar_chidambara.md,skipped,OCR source requires reviewed corrections
+katturaigal/veerar_veerarthan.md,skipped,OCR source requires reviewed corrections
+katturaigal/vellai_sigappukodi.md,skipped,OCR source requires reviewed corrections
+katturaigal/ventha_punnil.md,skipped,OCR source requires reviewed corrections
+katturaigal/veri_vetri.md,skipped,OCR source requires reviewed corrections
+katturaigal/vetkam.md,skipped,OCR source requires reviewed corrections
+katturaigal/vetkama.md,skipped,OCR source requires reviewed corrections
+katturaigal/vetrikalippu.md,skipped,OCR source requires reviewed corrections
+katturaigal/viduthalai_veeran.md,skipped,OCR source requires reviewed corrections
+katturaigal/viduthalaiyanar.md,skipped,OCR source requires reviewed corrections
+katturaigal/vignana_olimun.md,skipped,OCR source requires reviewed corrections
+katturaigal/vilambarachavadi.md,skipped,OCR source requires reviewed corrections
+katturaigal/we_welcome.md,unchanged,already verbatim
+katturaigal/yarukku_paathuk.md,skipped,OCR source requires reviewed corrections
+katturaigal/yezhayaga.md,skipped,OCR source requires reviewed corrections
+katturaigal/younoo.md,skipped,OCR source requires reviewed corrections
+kavithaigal/CONTENTS.md,skipped,not in source map
+kavithaigal/aariyamayai_potri.md,unchanged,already verbatim
+kavithaigal/adithalum_anaithalum.md,unchanged,already verbatim
+kavithaigal/annavin_kavithaigal.md,unchanged,already verbatim
+kavithaigal/avana_ivana_arivali.md,unchanged,already verbatim
+kavithaigal/congress_oozhal.md,unchanged,already verbatim
+kavithaigal/devathai_poatri.md,unchanged,already verbatim
+kavithaigal/enathu_karuthoattam.md,unchanged,already verbatim
+kavithaigal/ethirkaala_nilamai.md,unchanged,already verbatim
+kavithaigal/gandhi_panirendu.md,unchanged,already verbatim
+kavithaigal/idhazh_vaazhthu.md,unchanged,already verbatim
+kavithaigal/ilamayil_mudhumai.md,unchanged,already verbatim
+kavithaigal/inbam_kaana.md,unchanged,already verbatim
+kavithaigal/iniyana_ini_pala.md,unchanged,already verbatim
+kavithaigal/ivargalai_paarungal.md,unchanged,already verbatim
+kavithaigal/juvas_poatri.md,unchanged,already verbatim
+kavithaigal/juvasin_kalyana_gunam.md,unchanged,already verbatim
+kavithaigal/kaadudayar.md,unchanged,already verbatim
+kavithaigal/kaathirunthaen.md,unchanged,already verbatim
+kavithaigal/kadaisi_sinnam.md,unchanged,already verbatim
+kavithaigal/kadavul_engae.md,unchanged,already verbatim
+kavithaigal/kalkatha_kalakkam.md,unchanged,already verbatim
+kavithaigal/karpanayur.md,unchanged,already verbatim
+kavithaigal/katharin_mahimai.md,unchanged,already verbatim
+kavithaigal/koabam.md,unchanged,already verbatim
+kavithaigal/kochuvandhi_kummi.md,unchanged,already verbatim
+kavithaigal/kolaikaaran_kotsae.md,unchanged,already verbatim
+kavithaigal/kundram_pala.md,unchanged,already verbatim
+kavithaigal/kurai_kaelai.md,unchanged,already verbatim
+kavithaigal/malar_manam.md,unchanged,already verbatim
+kavithaigal/manitha_maembadu.md,unchanged,already verbatim
+kavithaigal/manithan.md,unchanged,already verbatim
+kavithaigal/mootharignar.md,unchanged,already verbatim
+kavithaigal/nacharavu.md,unchanged,already verbatim
+kavithaigal/nadai_chithiram.md,unchanged,already verbatim
+kavithaigal/nanae_thalaivan.md,unchanged,already verbatim
+kavithaigal/nasukkivittal.md,unchanged,already verbatim
+kavithaigal/nee_ennadi.md,unchanged,already verbatim
+kavithaigal/neengal_padaitha_aezhai.md,unchanged,already verbatim
+kavithaigal/niraveriyar.md,unchanged,already verbatim
+kavithaigal/odin_poatri.md,unchanged,already verbatim
+kavithaigal/orae_nilavu.md,unchanged,already verbatim
+kavithaigal/paesugirar_aesubiran.md,unchanged,already verbatim
+kavithaigal/paranthathu_oru_pura.md,unchanged,already verbatim
+kavithaigal/pidipattan.md,unchanged,already verbatim
+kavithaigal/poarmurasu.md,unchanged,already verbatim
+kavithaigal/pongal_valthu1961.md,unchanged,already verbatim
+kavithaigal/pongal_valthu1963.md,unchanged,already verbatim
+kavithaigal/pongal_valthu_dnadu1963.md,unchanged,already verbatim
+kavithaigal/porkalam_kaana.md,unchanged,already verbatim
+kavithaigal/pubthiyilla_ulagam.md,unchanged,already verbatim
+kavithaigal/punniya_naadu.md,unchanged,already verbatim
+kavithaigal/puthupoar.md,unchanged,already verbatim
+kavithaigal/seeridum_seettu.md,unchanged,already verbatim
+kavithaigal/sinnaan_sindhu.md,unchanged,already verbatim
+kavithaigal/sooriya_kutty.md,unchanged,already verbatim
+kavithaigal/tamil_isai.md,unchanged,already verbatim
+kavithaigal/thaembuhiraen.md,unchanged,already verbatim
+kavithaigal/thaeyilai_thottathilae.md,unchanged,already verbatim
+kavithaigal/thambi_kael.md,unchanged,already verbatim
+kavithaigal/tharthevan_poatri.md,unchanged,already verbatim
+kavithaigal/theekural.md,unchanged,already verbatim
+kavithaigal/theemaigal_ozhithukatta.md,unchanged,already verbatim
+kavithaigal/theemaigal_podipada.md,unchanged,already verbatim
+kavithaigal/thirumbippar.md,unchanged,already verbatim
+kavithaigal/thiruvidathai.md,unchanged,already verbatim
+kavithaigal/udayar_oalam.md,unchanged,already verbatim
+kavithaigal/unarveer.md,unchanged,already verbatim
+kavithaigal/vaelappanum_veerappanum.md,unchanged,already verbatim
+kavithaigal/vaendum_viduthalai.md,unchanged,already verbatim
+kavithaigal/vaetpalar_varugirar.md,unchanged,already verbatim
+kavithaigal/vandikaran_magan.md,unchanged,already verbatim
+kavithaigal/vandu_kandaen.md,unchanged,already verbatim
+kavithaigal/vazhibadu.md,unchanged,already verbatim
+kavithaigal/veettu_vilakku.md,unchanged,already verbatim
+kavithaigal/velli_mulaikkuthu.md,unchanged,already verbatim
+kavithaigal/viduthalai.md,unchanged,already verbatim
+kavithaigal/vizhiputra_paattali.md,unchanged,already verbatim
+nadagangal/CONTENTS.md,skipped,not in source map
+nadagangal/aatrangaraiyinilae_1.md,skipped,OCR source requires reviewed corrections
+nadagangal/avanasiyar_1.md,skipped,OCR source requires reviewed corrections
+nadagangal/avar_pesathathu_1.md,skipped,OCR source requires reviewed corrections
+nadagangal/avargal_ullam_1.md,skipped,OCR source requires reviewed corrections
+nadagangal/bajirao_1.md,skipped,OCR source requires reviewed corrections
+nadagangal/congresswala_1.md,skipped,OCR source requires reviewed corrections
+nadagangal/dharmam_thalai_1.md,skipped,OCR source requires reviewed corrections
+nadagangal/enthan_thiru_1.md,skipped,OCR source requires reviewed corrections
+nadagangal/kailayam_1.md,skipped,OCR source requires reviewed corrections
+nadagangal/kal_sumantha_1.md,skipped,OCR source requires reviewed corrections
+nadagangal/kattaiviral_1.md,skipped,OCR source requires reviewed corrections
+nadagangal/mangai_oorugai_1.md,skipped,OCR source requires reviewed corrections
+nadagangal/morarji_thesai.md,skipped,OCR source requires reviewed corrections
+nadagangal/mudhalalithuva_1.md,skipped,OCR source requires reviewed corrections
+nadagangal/orae_oru_vithi_1.md,skipped,OCR source requires reviewed corrections
+nadagangal/roam_erigirathu_1.md,skipped,OCR source requires reviewed corrections
+nadagangal/sellapillai_1.md,skipped,OCR source requires reviewed corrections
+nadagangal/sumangalipooja_1.md,skipped,OCR source requires reviewed corrections
+nandrigal.md,unchanged,already verbatim
+navalgal/CONTENTS.md,skipped,not in source map
+oviyam/CONTENTS.md,skipped,not in source map
+paettigal/CONTENTS.md,skipped,not in source map
+paettigal/aavalum_aarvamum.md,unchanged,already verbatim
+paettigal/anaivarum_virumbiya.md,unchanged,already verbatim
+paettigal/anna_uraiyadal.md,unchanged,already verbatim
+paettigal/arasiyalarivum_unarvum.md,unchanged,already verbatim
+paettigal/ariya_america_payanam.md,unchanged,already verbatim
+paettigal/baba_anna.md,unchanged,already verbatim
+paettigal/burma_arisi.md,unchanged,already verbatim
+paettigal/dravida_arasu.md,unchanged,already verbatim
+paettigal/hindiyum_dravidanadum.md,unchanged,already verbatim
+paettigal/hongkongil_anna.md,unchanged,already verbatim
+paettigal/iyandrathai_seivoam.md,unchanged,already verbatim
+paettigal/koottu_amaicharavai.md,unchanged,already verbatim
+paettigal/latchiya_arasu.md,unchanged,already verbatim
+paettigal/madhuvilakku.md,unchanged,already verbatim
+paettigal/mozhi_ullitta_prachinai.md,unchanged,already verbatim
+paettigal/mummozhi_thittam.md,unchanged,already verbatim
+paettigal/naangam_ainthandu.md,unchanged,already verbatim
+paettigal/nallavar_virumbum_thodarbu.md,unchanged,already verbatim
+paettigal/nirvagamum.md,unchanged,already verbatim
+paettigal/orae_katchi_aatchi.md,unchanged,already verbatim
+paettigal/pop_santhippu.md,unchanged,already verbatim
+paettigal/prachinaigal_pala.md,unchanged,already verbatim
+paettigal/thavaru_seithapothu.md,unchanged,already verbatim
+paettigal/thimuka_nilai.md,unchanged,already verbatim
+paettigal/thunai_amaichargal.md,unchanged,already verbatim
+paettigal/vaanolipaetiyil.md,unchanged,already verbatim
+photos/CONTENTS.md,skipped,not in source map
+sirukathaigal/1938-1940.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/CONTENTS.md,skipped,not in source map
+sirukathaigal/aarumugam.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/aezhai.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/alladum_andavan.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/annadhanam.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/aruvadai.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/aval_mudivu.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/baktha_bakthath.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/bali.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/bama_vijayam.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/boobathiyin.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/brammanayakam.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/danabal_chettiyar.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/devathayin_thuyaram.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/engum_avan.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/ganavaan.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/imsaikku_aalana.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/iru_satchigal.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/irumbaram.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/iruparambaraigal.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/iruvar.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/ivargal_kutravaligala.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/justice_janaki.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/kadavulin_kavalai.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/kadvul_thandipar.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/kaikku_ettiyathu.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/kaithigal.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/kali_theertha.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/kalizhanthan.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/kallum_kannadi.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/kamakurangu.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/kanavil_keerathar.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/kanni_vithavai.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/karuppannasamy.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/kathiravan_kanneer.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/kokarko.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/kolaikari.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/krishnaleela.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/kumari_soorya.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/kuralappar.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/kutravaali_koondilae.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/kutravaali_yar.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/kutravali_koondukku.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/maadiveedu.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/maduraikku_ticket_illai.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/maelathikari.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/manitha_manthai.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/marathundu.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/moolakaranam.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/moondru_kadithangal.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/mugam_veluthathu.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/naakizhanthar.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/naan_manithananaen.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/nadodi.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/nagaithal_nangai.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/neethipathi_vakeel.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/nenjil_neruppu.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/oru_muttalin_kathai.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/oruvanthan.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/paei_oadi_poachu.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/paeran_bengalooril.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/palapalan.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/pallilikkum.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/palliyarayil_paramasivan.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/pavalapaspam.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/pithalai_alla.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/police_ponnusamy.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/pongal_parisu.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/prarthanai.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/prasang_booshanam.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/pulinagam.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/puthiya_nayanar.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/rajapart.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/rottithundu.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/saadhu.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/samayapurathamman.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/samooga_sevaki.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/saroja_aarana.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/sengarumbu.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/sevvazhai.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/sokki.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/sollathathu.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/solvathai_ezhuthaenda.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/soothadi.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/sudumoonchi.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/sumar_subbaiah.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/thangathin_kathalan.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/thavalayum_manithanum.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/thediyathu_vakeelai.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/theerpaliyungal.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/theetuthuni.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/thirappu_vizha.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/thunai_nadigai.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/ubakari_ulaga.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/udai_poattathum.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/udayar_ullam.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/unnaviratham_oru_thandanai.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/vaelai_kidaithathu.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/vaelai_pochu.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/valiba_virunthu.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/valli_nayakiyin.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/valli_thirumanam.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/valliyin_devi.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/varavu_selavu.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/vazhuki_vizhunthavargal.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/velli_ratham.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/yaarmeethu_kobithu.md,skipped,OCR source requires reviewed corrections
+sirukathaigal/yogapiyasam_1.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/040767.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/050767.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/050767_2.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/060368.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/060767.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/070767.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/080767.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/080767_2.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/120767.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/130767.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/170367.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/170767.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/170868.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/170868_2.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/180767.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/180767_2.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/190368.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/240868.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/241167.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/250368.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/260368.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/260868.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/270367.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/270368.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/271167.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/280367.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/280368.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/300667.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/310868.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/CONTENTS.md,skipped,not in source map
+sorpozhivugal/a_stateless.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/a_thought.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/aabasa170259_2.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/aasiriyar.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/aezhaikku.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/allal_agala.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/alunarukku_anna.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/amaichar160361.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/arasoozhiyar.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/arasu_endral.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/arignaranna_perurai.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/call_to_the.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/chennai220360.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/chennai300161.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/chennai_maanagar.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/chennai_mavatta.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/chennai_rayapuram.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/desiya_vanipa.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/dravida_desium.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/ennai_kavarntha.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/gandhi_silai.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/hidhi_thinippai.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/hindi_ethirpu.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/hindi_ethirpu_mana.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/human_rights.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/ideal_society.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/irandavathu_manila1.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/irandavathu_manila2.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/jainaneri.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/jananayagathin.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/kadan_sambantha.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/kaikodukkum.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/kalaivanar_maraivu.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/kalayin_nilamai.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/kanchi_pattu.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/kanchi_vazha.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/kanivum.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/kaveri_thayin.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/kazhagathin_pilavu.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/kerala310859.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/kootu_endral.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/kovai_thaerthal.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/kulayum.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/latchiyam_valar.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/maanila300958.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/maanila_suya.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/maedai_paechu.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/magalir_nithi.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/mahathma_gandhi.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/mahatma_gandhi_marai.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/makkal_sakthi.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/makkalukku_vidutha.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/malarum_maanavar.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/manavamanigalin.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/manavargalukku_vaelai.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/manavargalum_samu.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/manilakalluri.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/mozhiprachinai.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/mozhiyai.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/muthal_manila.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/naadu_nagram.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/nadagathil_oru.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/nadagathilae.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/nagaichuvai_mannar.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/namakkal.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/nambikkai311057.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/nellai_mavatta.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/neruvum_annavum.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/nilaucha301058.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/nithi070458.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/nithi140361.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/nithi180358.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/nithi230359.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/nithi300460.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/nithi_othukka260757.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/noolnilayangal.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/oayvunaeram.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/oviyar_madhavan.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/pathirikai_thozhil.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/pazhayana.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/pengal_unavu.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/poar_murasu_kotti.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/poarkodi.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/poarvaal.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/pooja_mano.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/pothu_maanadu.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/puthiya_unarchi.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/reapraisal.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/samadarmam.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/samooga_pani.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/samuthaya170358.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/sangaralinga.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/sangeetha_sangam.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/satta_11_03_1958.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/satta_desiya_ava.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/seermigu_seerani.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/sootchamam.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/standly.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/sthabana_aykyam.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/suthanthira_indiavil.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/tamil_azhikum.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/tamilarignan.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/tamilarin_thani.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/thaeni_pothu.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/thaiyarkalayum.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/thambiyae_va.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/thamizhagathirku.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/thamizhinamae.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/thaniyar_kalvi.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/thanjai_manattil.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/tharugiraen50.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/thazhtha200358.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/the_role_of.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/theendamai.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/thimuka_moondravathu.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/thimuka_pothu.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/thimuka_thaer_sira.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/thiruppathur.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/thithikkkum.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/thoazhamaya.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/thozhamayai.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/thozhil240757.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/ullatchi051157.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/unavu100958.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/urimai161259.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/uthagai.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/veetirkor_putha.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/veettuku_oar.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/velanmai180948.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/velanmai190359.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/velanmai260358.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/vetri_veerargalukku.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/viduthalai_iyakkam.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/viduthalai_thirunalil.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/vilanginai.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/vithikku_adimai.md,skipped,OCR source requires reviewed corrections
+sorpozhivugal/yathum_oorae.md,skipped,OCR source requires reviewed corrections
+writings.md,restored,verbatim English HTML source

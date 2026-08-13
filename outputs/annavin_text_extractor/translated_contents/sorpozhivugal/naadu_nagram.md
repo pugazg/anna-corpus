@@ -1,0 +1,441 @@
+# நாடு நகரங்களிலே நமது சூரல்! பட்டிதொட்டிகளிலே நமது படை! மாற்றாரும் மருள நாம் வளர்ந்துவிட்டோம் / Our Whirlwind in Town and City! Our Army in Every Hamlet! We Have Grown Until Even Our Opponents Are Dismayed
+
+**Tamil title:** நாடு நகரங்களிலே நமது சூரல்! பட்டிதொட்டிகளிலே நமது படை! மாற்றாரும் மருள நாம் வளர்ந்துவிட்டோம்  
+**English title:** Our Whirlwind in Town and City! Our Army in Every Hamlet! We Have Grown Until Even Our Opponents Are Dismayed  
+**Source file:** `sorpozhivugal/naadu_nagram.md`
+
+## Source Tamil (verbatim)
+
+- Source image folder: `/Users/pugazhendhirajendran/Documents/Codex/2026-07-09/https-www-annavinpadaippugal-info/outputs/annavin_text_extractor/ocr_images/sorpozhivugal/naadu_nagram`
+- OCR language: `tam`
+- Tesseract page segmentation mode: `3`
+- OCR cleanup: `enabled`
+
+## Image 1: 001-79c6942c12.png
+
+- Image: `sorpozhivugal/naadu_nagram/001-79c6942c12.png`
+
+[42
+
+நாடு நகரங்களிலே நமது சூரல்!
+பட்டிதொட்டிகளிலே நமது படை!
+மாற்றாரும் மருள தாம்
+வளர்ந்துவிட்டோம்
+
+23-9-1960 அன்று துறையூரில் நடைபெற்ற பொதுக்
+கூட்டத்தில் அறிஞர் அண்ணா அவர்கள். ஆற்றிய
+சொற்பொழிவின் சுருக்கம் வருமாறு:-
+
+இங்கு எனக்கு முன் பேசிய நண்பர்கள் நாம் நடத்திய இந்தி
+எதிர்ப்புப் போராட்டத்தை ஒரு வெற்றியா என்று மாற்றார்கள்
+கூறுவதாக வருத்தப்பட்டுப் பேசினார்கள். நாம் இதற்காக ஏன்
+வருத்தப்பட வேண்டும்? நாள் ஆக ஆக நாம் வளர்ந்துகொண்டே
+வருகிறோம். நம்முடைய கொள்கைகள் எங்கும் நிறைநாதமாகி,
+எமை எளியவர்களது உள்ளங்களிலெல்லாம் ஒளிவிட்டுத் திகழத்
+தொடரங்கிவிட்டது. எங்குப் பார்த்தாலும் நமது நண்பர்கள்! எந்தச்
+சிற்றூரிலும் நமது கொடிகள்! எல்லாப் பேரூர்களிலும் நமது
+முழக்கங்கள்! நகரங்களிலே நமதுபடை வரிசை! இப்படி. ஏறத்தாழ
+4000 சிற்றூர்களில், இரண்டு அல்லது மூன்று லட்சம்
+உறுப்பினர்களைக் கொண்ட நம் இயக்கம் நாளொரு மேனியும்
+பொழுதொரு வண்ணமுமாக வளர்ந்தோங்கி வருகிறது.
+
+அது கண்ட அமைச்சர்கள் நாளொன்றுக்கு 10 அல்லது 15
+இடங்களுக்குச் சென்று குறைகளைக் களைந்து நல்லது
+சய்வதாகக் கூறிக்கொண்டு கற்றுப்பயணம் செய்கிறார்கள்.
+காலையிலேயே நமது தோழர் ஒருவர் அமைச்சர் ராமையா
+அவர்கள் குளித்தலை வட்டத்தில் மேற்கொண்ட சுற்றுப்பயணத்
+
+## Image 2: 002-84f31102e9.png
+
+- Image: `sorpozhivugal/naadu_nagram/002-84f31102e9.png`
+
+துண்டுத் தாளை என்னிடம் கொடுத்தார். அதில் 17-ம் தேதி 8.30
+மணிக்கு திருச்சி, 9.00 மணிக்கு நங்கவரம், 9.30 மணிக்கு
+கவுந்தம்பட்டி, 10.00 மணிக்கு பனையம்பட்டி, 11.00 மணிக்கு
+சேப்ளாபட்டி, 17.30 மணிக்கு முதலைப்பட்டி - என திட்டமிட்ட
+கால அட்டவணை கொடுக்கப்பட்டி ருக்கிறது.
+
+திருச்சியில் 8.30 மணிக்குப் புறப்பட்ட அமைச்சர் 9.00
+மணிக்கு நங்கவரம் வந்து, முப்பது நிமிடம் தங்குகிறார்; இந்த
+முப்பது நிமிட நேரத்தில் எத்தனை மனுக்களை அவர்
+பார்வையிட முடியும்? - எவ்விதம் குறைகளை அறிந்து அந்தக்
+குறுகிய கால அளவில் என்ன பரிகாரம் காணமுடியும் என்று
+நீங்கள் நினைக்கிறீர்கள்? 9.00 மணிக்கு நங்கவரம் - அதையடுத்து
+அரை மணியில் கவுண்டன்பட்டி - பிறகு பனையம்பட்டி -
+இப்படி அரை மணி நேரத்தில் ஒர் இடத்திலிருந்து மற்றோர்
+இடத்திற்குச் செல்வதற்கே முடியாதென்றால் குறைகளைத்
+தெரிந்துகொள்ள நேரம் எங்கே இருக்கிறது? இவர்கள் என்ன
+ஹெலிகாப்டர் விமானத்திலா பறந்து போகிறார்கள்?
+உண்மையில் இவர்கள் குறைகளைத் தெரிந்துகொள்ள -
+நிவர்த்திக்கச் செல்லவில்லை. நமது வளர்ச்சி கண்ட மருட்சியில்
+சிற்றார்தோறும் சென்று மிட்டாமிராசுகளைக் கண்டு
+வருகிறார்கள். ஓட்டு வாங்கவும் உண்டி. தூக்கவும்தான் ஊர்
+ஊராய்ப் போகிறார்களே தவிர, உருப்படியாய் இவர்கள்
+நாட்டுக்கு ஆற்றிய தொண்டுகள் என்ன என்பதை நம்மால்
+அறிந்துகொள்ள முடியவில்லை. அத்தகையவர்கள் நம்மை
+மதிக்கவில்லை என்பதைப்பற்றி நீங்கள் ஒரு சிறிதும்
+ஆயாசப்படவேண்டாம். நீங்கள் என்னை மதித்தால் போதும்;
+மாற்றார் நம்மை மதிக்கவில்லை என்ற கவலை நமக்குக் கூடவே
+கூடாது!
+
+சென்ற வாரத்திலே ஒரு நாள் சென்னையிலே இருந்தபோது
+தொலைபேசி மணி அடித்தது; என்னவென்று எழுந்து
+கேட்டபொழுது “நான்தான் நரசிம்மன் பேசுகிறேன் - ஒரு
+விஷயம்” என்ற குரல் கேட்டது. “நரசிம்மனா?” அப்படி, எனக்குத்
+தெரிந்தவர் எவரும் இல்லையே என்று ஆச்சரியப்பட்டேன்.
+அதற்குப் பிறகு அவரே “உங்களோடு படித்தவன் - ஞாபகம்
+இல்லையா? இந்து பத்திரிகை ஆபீசில் இருந்து பேசுகிறேன்”
+என்று சொன்னார். எனக்கு அவருடன் ப்டித்தது ஞாபகம்
+இல்லை என்றாலும் என்னவென்று விசாரித்தேன். அதற்கு அவர்
+“மேற்கு ஜெர்மன் நாட்டி லிருந்து ஒரு பத்திரிகை அதிபர் தங்களைக்
+
+## Image 3: 003-5a491a820e.png
+
+- Image: `sorpozhivugal/naadu_nagram/003-5a491a820e.png`
+
+தாணவேண்டும் என்று ஆவலோடு வந்திருக்கிறார். அவரை
+அழைத்துக்கொண்டு அங்கு வரட்டுமா?” என்றார். நான்
+சொன்னேன், “சரி நரசிம்மன்! இங்கு இப்பொழுதுதான் என் வீடு
+ரிப்பேர் செய்து கட்டிக்கொண்டிருக்கிறேன். இந்த இடத்தில்
+எப்படி?” என்று கூற, அவர் “உட்லன்ஸ் ஹோட்டலில் ஒரு ரூம்
+எடுத்து அதில் அவரை சந்திக்கச் செய்கிறேன்” என்றார். அனால்
+நான் “வேண்டாம்! அந்த அளவுக்கு நான் தயாராக இல்லை -
+இங்கேயே அழைத்துவாருங்கள்; ஏனென்றால் ஒருமுறை இப்படிச்
+செய்தால் அதுவே பழக்கமாய்விடும்!” என்றேன்.
+
+பிறகு அவரை அழைத்துவந்தார். அவரோடு இரண்டு மணி
+நேரம் பேசினேன். மாற்றார்கள் கேட்காத கேள்விகளைக்கூட
+அவர் கேட்டார். உலகமே ஒன்றாக இணைந்து இருக்க
+விரும்புகிறபோது நீங்கள் மட்டும் பிரிவினை கேட்பது ஏன்?
+என்று கேட்டார்; இரண்டுமணி நேரமாக நானும் அவரது
+கேள்விகளுக்கெல்லாம் தக்க ஆதாரத்தோடு விளக்கமளித்தேன்.
+இதைத்கேட்டறிந்த பிறகுதான் அவர் எனது கரம் குலுக்கி
+விடைபெறும் நேரத்தில், “நான் இதுவரை நீங்களும் உங்கள்
+இயக்கமும் பணக்காரர்களுக்குப் பக்க பலமாகவும்
+பகவானுக்கு எதிராகவும் இருக்கின்றவர்கள் என்றுதான்
+கருதியிருந்தேன். உங்கள் விளக்கத்திற்குப் பிறகு உண்மை
+உணர்ந்தேன். நன்றி! வணக்கம்” எனக் கூறி விடைபெற்றுச்
+சென்றார்.
+
+இப்படி. வேற்று நாட்டவரான மேற்கு ஜெர்மனிக்காரர்
+நம்மைக்கூட அறிந்துகொள்ள அசைப்படுவதை வரவேற்பது
+முக்கியமா? இல்லை - இவர்கள் தூற்றுகின்ற தூற்றல்பற்றி
+வருந்துவது அவசியமா? இன்று நம்மைப்பற்றி எழுதாத
+பத்திரிகைகள் இல்லை என்றே கூறலாம். போற்றி அல்ல);
+எப்படியோ நம்மைப்பற்றி ஏதாவது எழுதித்தான்
+தீரவேண்டும் என்ற சூழ்நிலை நாட்டிலே உருவாகி
+இருக்கிறது. அந்த அளவிற்கு நாம் வளர்ந்திருக்கிறோம்.
+அந்த வளர்ச்சி நமக்கு எப்படி, உருவாகியது? தனிப்பட்ட
+திறமையாலா? அல்ல - அல்ல! நம்மில் பலர் கொட்டிய
+குருதி, சிந்திய ரத்தம், உழைத்த உழைப்பு கழகத்தை
+வளர்த்திருக்கிறது!
+
+நாம் நினைத்தால் அவர்கள் நடத்திக் காட்டிய அசஸ்டுப்
+போராட்டம்போல நடத்திக் காண்பிக்க முடியாதா? - அந்த அற்ப
+ஆசை இருந்தால் இங்குப் பேசிய தம்பிமார்கள் கூறியபடிச் சுட்டு
+
+## Image 4: 004-0cd5fc173c.png
+
+- Image: `sorpozhivugal/naadu_nagram/004-0cd5fc173c.png`
+
+விரல் அசைவில் “நாளையே தண்டவாளத்தைப் பெயர்த்து
+எறியுங்கள்” என்று சொன்னால், இந்த நாட்டிலே ஒரு தண்ட
+வாளத்தையாவது கண்ணிலே பார்க்க முடியும் என்று
+கருதுகிறீர்களா? “தந்திக் கம்பிகளை அறுத்தெரியுங்கள்" என்று
+ஜாடையாக சொன்னால்கூடப் போதுமே! கம்பிகள் தங்கி
+யிருக்குமா? “தபாலாபீசைக் கொளுத்துங்கள்” என்று கூறினால்
+ஊரிலே ஒரு தபால் ஆபீஸ்கூட இயங்கும் என்றா கருதுகிறீர்கள்?
+பலாத்காரத்தைத் தடுத்து நிறுத்தித் தேக்கி வைத்
+திருக்கிறோம், அதைத் தவறாகப் பயன்படுத்தமாட்டோம்
+என்பதை நீங்கள் மனதிலே பதிய வைத்துக் கொள்ள
+வேண்டும் என்று கேட்டுக்கொள்கிறேன்.
+
+ஆப்பிரிக்கா கண்டத்திலே காங்கோ என்பது ஒரு நாடு,
+அந்த நாட்டிலே இன்று அடிமைப்பட்ட மக்கள் கிளர்ந்தெழுந்து
+விடுதலைப் போரில் நிற்கிறார்கள் என்றும் அந்த ஆட்சியாளர்
+களுக்கும் தலைவர்களுக்கும் இடையே உள்ள பூசல் அதிகரித்து
+வருகிறது என்பதையும் நாம் பத்திரிகைகளிலே பார்க்கிறோம்.
+அந்த காங்கோ நாடு நம் நாட்டைவிட அளவிலே என்ன
+பெரியதா? இல்லை. வளத்திலே சிறந்ததா? இல்லை. வீர
+உணர்ச்சிமிக்க இலக்கியங்கள் உண்டா? இல்லை. இதில் எதிலுமே
+சிறப்பில்லாத நாடு தனி அரசு கேட்கிறது. நாம் மட்டும் ஏன்
+கேட்கக்கூடாது? நம் நாட்டிலே என்ன இல்லை? தனி அரசாகி
+சுயாட்சி பெற்றால் என்ன நட்டம் ஆகிவிடும்?
+
+“இங்கிலாந்து நாட்டவருக்கு இலக்கியம் இருக்கிறது.
+மற்ற மற்ற நாட்டவர்களுக்கு வேறு பல இலக்கிய நூல்கள்
+உண்டு. நமக்கு எல்லாவற்றையும்விட அகம் இருக்கிறது;
+புறம் இருக்கிறது; கலித்தொகை இருக்கிறது, பத்துப்பாட்டு
+இருக்கிறது; எட்டுத்தொகை இருக்கிறது; சிலம்பு இருக்கிறது;
+சிந்தாமணி இருக்கிறது; ஆனால் காங்கோ நாட்டில் வாழும்
+கருப்பர்களுக்கு எந்த நூலும் இல்லை! அத்தகைய காங்கோ
+நாட்டிலிருந்து லுமும்பா ஐ. நா. வுக்குத் தந்தியடிக்கிறார் - “அங்
+கிருந்து இருபது ஆகாய விமானப்படை அனுப்புகிறீர்களா?
+இல்லை, நான் பெறவேண்டிய இடத்தில் பெற்றுக்கொள்
+ளட்டுமா?” என்று இங்கும்தான் நாம் அண்டாண்டு காலமாக
+சேரன் செங்குட்டுவன் புகழ் பற்றியும் அவன் இமயம் சென்று
+கனக விசயரை வென்று சிலைக்கென்று கல் கொணர்ந்த வரலாற்
+றையும் சுவை சொட்ட, வீரம் கொப்பளிக்கக் கூறிக்கொண்டிருக்
+கிறோம். இப்படிப்பட்ட வீர காவியம் இல்லாத காங்கோ -
+
+## Image 5: 005-d8f2c29162.png
+
+- Image: `sorpozhivugal/naadu_nagram/005-d8f2c29162.png`
+
+விடுதலை பெறத்துடிக்கிறது. அனால் நாம் கேட்பது மட்டும்
+தவறு என்று கூறுகிறார்களே - ஏன்?
+
+அப்படிக் கூறுவோர்களைக் கேட்கிறேன், கட்சிப்பற்று
+இல்லாத பெரியோர்களைக் கேட்கிறேன், நம்மைவிட வளத்தில்
+குறைந்த பிரான்ஸ், ஸ்பெயின், இத்தாலி, கிரீஸ் போன்ற நாடுகள்
+சுதந்திரமாய் வாழும்போது திராவிடம் பெறுவதிலே என்ன தவறு
+இருக்கிறது?
+
+ஓவ்வொரு நாட்டில் நிலக்கரி இருந்தால் இரும்பு
+இருக்காது! இரும்பு இருந்தால் நிலக்கரி இருக்காது! கரும்பு
+இருக்கும் திராட்சை இருக்காது! சந்தனம் கிடைக்கின்ற
+இடம் உண்டு; தேக்கை அங்கே பார்க்க முடியாது! தேக்கு
+கிடைக்கின்ற நாட்டிலே சந்தனம் கிடைக்காது! புகையிலை
+விளைகின்ற நாட்டிலே நவதானியம் கிடைக்காது! நஞ்சை
+இருக்கும், புஞ்சை இருக்காது! புஞ்சை நிலப்பகுதி உள்ள
+நாடுகளில் நஞ்சை நிலத்தை நாம் பார்க்க முடியாது! ஆனால்
+நம் நாடான திராவிட நாட்டில் இல்லாத பொருள் ஒன்றும்
+இல்லை!
+
+ஆனால் இங்குள்ள ஆளவந்தார்கள் அதை எல்லாம் விட்டு
+விட்டு நமது அங்க அடையாளங்களைப் பற்றிக் கூறிக்கொண்
+டி.ருக்கிறார்கள். நமக்கு மாமனாராக இருக்கின்றவர் கவனிக்க
+வேண்டிய காரியத்தில் இவர்கள் ஏனோ ஈடுபடுகிறார்கள்?
+இவர்களது வீரத்தை, தீரத்தை நம்மிடம் காட்டிப் பயன் என்ன?
+வடக்கே அல்லவா அந்த சூரத்தனம் பயன்பட வேண்டும். வடக்கே
+எல்லாம் அமைகிறது. அங்கேதான் ரூர்கேலா அமைகிறது,
+துர்க்காப்பூர் அமைகிறது; இன்னும் இரண்டு இரும்பு உருக்கு
+ஆலைகள் வடக்கிலேதான் அமைகின்றது; ஆனால் இங்கே
+இரண்டு ஐந்தாண்டுத் திட்டங்கள் முடிந்தும்கூட சேலத்தில்
+இரும்பு தூங்குகிறது. இங்கே இரும்புத் தொழிற்சாலை இன்னும்
+உருவாகவில்லை. ஆனால் ஓட்டு வாங்கமட்டும் ஓடோடி.
+வருகிறார்கள்; உண்டி திரட்ட ஊர் ஊராய் அலைகிறார்கள்;
+அவர்களைக் கேட்கிறேன்! உங்களுக்கு வெட்கம் இல்லையா?
+
+சேலம் இரும்பு, தென்னாற்காடு நிலக்கரி தூத்துக்குடி
+அறைமுகம், காவிரி வட்ட எண்ணெய் ஆகியவை இதுபற்றி
+எத்தனை தடவை நாங்கள் கேட்டிருப்போம்; அதற்கெல்லாம் வழி
+செய்தீர்களா? "முயற்சி செய்கிறோம் - நம்பிக்கையோடு இருக்
+கிறோம் - அடுத்த ஐந்தாண்டுத் திட்டத்தில் சேர்க்கப்படும்" என்று
+
+## Image 6: 006-2b8b2f117a.png
+
+- Image: `sorpozhivugal/naadu_nagram/006-2b8b2f117a.png`
+
+கூறுகிறீர்களே தவிர எதிர்த்துப் போராட - தட்டிக் கேட்க ஏன்
+சக்தி அற்றுப் போனீர்கள்? ஜஸ்டிஸ் கட்சியில் இருந்தபோது
+எங்களைப் பார்த்து “மந்திரி நாற்காலியில் என்ன பிசின் போட்டா
+ஒட்டியிருக்கிறது?” என்று கேட்டீர்களே; இப்போது உங்களை
+என்ன 'ரிவிட்' அடித்தா வைத்திருக்கிறது? கடந்த 25 வருட
+காலமாக சேதுசமுத்திர திட்டம்பற்றி முயற்சி செய்தும் எந்தவிதப்
+பலனுமில்லை. மூன்றாவது திட்டத்திலாவது சேர்க்கப்படுமா
+என்றால் அதற்கும் மூச்சில்லை. அண்மையில் வணிகப்
+பெருமக்களெல்லாம் கூடி இது குறித்து அமைச்சர் அவர்களைக்
+கேட்டார்கள். ஆனால் எப்பொழுதும் போல முயற்சி செய்கிறேன்,
+ஆனால் உறுதியில்லை என்று சேலம் மாவட்டத்திலிருந்து
+டில்லிக்குச் சென்ற செந்தமிழ் நாட்டுச் செம்மல் சுப்பராயன்
+கூறுகிறார்.
+
+இங்கிருந்து டி.ல்லிக்குத் தேசிய நல அபிவிருத்தி கவுன்சிலில்
+கலந்துகொள்ள நமது தொழில் அமைச்சர் வெங்கட்ராமன்
+அவர்கள் சென்றபோது அங்குள்ள அவரது தலைவர்களிடம்
+அதாவது நேரு - பந்த் போன்றோர்களிடம் நாம் சொல்லும்
+கருத்தை எடுத்துச் சொல்லி இருக்கிறார், எதிர்த்துப் பேசி
+இருக்கிறார். நாம் சொல்வதை அங்கே நாகரிகமான முறையில்
+அவர்களுக்கே உரிய மொழியில் “தேசத்தில் ஒரு பாகம் வளர்ந்து,
+மற்றொரு பாகம் புறக்கணிக்கப்படுவது என்பது பிரிவினை
+மனப்பான்மையைத்தான் வளர்க்கும்” என்று கூறியிருக்கிறார்.
+புள்ளி விவரங்களை அள்ளி வீசி விளக்கம் தந்திருக்கிறார்.
+அப்படிக் கூறியும் அதற்கு என்ன பதில் கிடைத்தது தெரியுமா,
+தோழர்களே? “உங்கள் புள்ளி விவரமே சரியில்லை!” என்று
+கூறிவிட்டார் நேரு. உடனே இவர் என்ன செய்திருக்க வேண்டும்?
+“நேரு அவர்களே! நீங்கள் எங்களது தலைவர்தான் - ஏற்றுக்
+கொள்கிறேன்! பெரியவர்தான் - போற்றுகிறேன்! ஆனால் தயவு
+செய்து எங்களுடைய புள்ளிவிவரம் சரியில்லை என்று மட்டும்
+கூறாதீர்கள்! இது சரியானது மட்டுமல்ல - நியாயமானதும் கூட!”
+என்று வாதாடி. இருக்க வேண்டும், அப்படிச் செய்தாரா? இல்லை.
+கோரிக்கை ஏற்கப்படாவிட்டால் ராஜினாமாவை வீசி
+எறிந்துவிட்டு வராமல் விரட்டி அடிக்கப்பட்டு ஓடோடி
+வந்திருக்கிறார்.
+
+ஒரு பையன் தனது அசிரியர் கொடுத்த கணக்கைப் போடத்
+தெரியாமல் தனது தந்தையிடம் போட்டுக் கொடுக்கச் சொல்லி
+அதை மறுநாள் ஆசிரியரிடம் காட்டுகிறான். “எந்த மடையன்
+
+## Image 7: 007-bca30e47be.png
+
+- Image: `sorpozhivugal/naadu_nagram/007-bca30e47be.png`
+
+இந்தக் கணக்கை உனக்குப் போட்டுக்கொடுத்தது?” என்று குட்டிக்
+கேட்க, “எங்கள் அப்பாதான்” என்று கூற, அதற்கு அவர், “சரியான
+அப்பாவிற்குச் சரியான மகன்தான்” என்று கூறுகிறார். அதைப்
+போல இங்கிருந்து தயாரித்துக் கொண்டுபோன புள்ளி விவரங்கள்,
+நேரு அவர்களால் சரி அல்ல என்று கூறப்படுகிறது. வெங்கட்ராமன்
+போன்ற அமைச்சர்களுக்கு நம்மைப் பார்த்துத் திட்டத்
+தெரிகிறதே அன்றி வடக்கின் கதவைத் தட்டத் தெரியவில்லை.
+தட்டிக் கேட்கும் துணிவுமில்லை! அவர்கள் ஏன் அங்குள்ளவர்
+களுக்கு அஞ்சவேண்டும்?
+
+சட்டமன்றத்தில் நான் கூறினேன், “தைரியமாகக் கேளுங்கள்!
+பலமாகக் கேளுங்கள்! பயப்படாதீர்கள்! நாங்கள் உங்களுக்கு உற்ற
+துணையாக இருக்கிறோம். இதுவரை எங்களில் ஓர் இயக்கத்
+தவரை உங்கள் கரத்திற்கு வலுவூட்ட வைத்துக் கொண்டிருக்
+கிறீர்கள். இனிமேல் நாங்கள் வேண்டுமானாலும் உங்களோடு
+ஒத்துழைக்கிறோம். ஆனால், வடக்கிற்குப் பயப்படாது, சேது
+சமுத்திரம் பற்றியும், சேலம் இரும்பு.பற்றியும் கேளுங்கள்.”
+என்று எடுத்துரைத்தேன்.
+
+அதற்கு அவர்கள், “இப்படி. நீங்கள் வெளிப்படையாகக்
+கூறுவதால்தான் எங்களுக்கு ஆபத்து ஏற்படுகிறது!” என்று
+தனிப்பட்ட முறையில் கூறினார்கள்.
+
+அப்படி என்றால் எதற்காக நீங்கள் அட்சிப்பிடத்திலே
+அமர்ந்து கொண்டிருக்கிறீர்கள்? இரண்டு ஐந்தாண்டுத் திட்டம்
+நிறைவேறியதாகக் கூறுகின்றீர்கள். இன்று எந்தக் குடும்பத்திலே
+குதூகலம் பொங்குகிறது? விலைவாசிகள் ஏறிக்கொண்டே
+இருக்கின்றன. வெள்ளைக்காரன் காலத்திலேயாவது ரூபாய்க்கு
+3 படி அரிசி கிடைத்தது; இந்த நல்லவர்கள் ஆட்சியில் படி. அரிசி
+ஒரு ரூபாய்க்குக் கூடக் கிடைக்கவில்லை. இதைத் தாய்மார்கள்
+நன்கு உணர்ந்து இருப்பார்கள். அவர்கள்தான் அகவிலை
+உயர்வினால் அவதிப்படுகிறவர்கள்! அடுப்படியில் காண்கின்ற
+அரசியலை நாம் வேறு எங்கும் காண முடியாது.
+
+வீட்டிலே கோழி வளர்க்கும் ஒரு பெண் அந்தக் கோழியை
+மாலை ஆனதும் கூடைக்குள் போட்டு மூடிவைப்பாள். அது
+கத்தும்போது கூடையை து£க்கிப்பார்த்து முட்டையை எடுத்து
+வைப்பாள். அப்படியில்லாமல் அதை எதேச்சையாகவிட்டு
+விட்டால் அது அடுத்த வீட்டு வைக்கோல் போரில் போய்
+முட்டையிடும். கோழி கத்திக்கொண்டு வரும்போது முட்டையைத்
+
+## Image 8: 008-e607d1137a.png
+
+- Image: `sorpozhivugal/naadu_nagram/008-e607d1137a.png`
+
+தேடி. கடையில் அடுத்த வீட்டு வைக்கோல் போரில் இருப்ப
+தறிந்து முட்டையை எடுக்கப்போகும்போது, அந்த வீட்டுப்
+பெண் “அது எங்கள் வீட்டு கோழி இட்ட முட்டை; இங்கே
+கொடு” என்று இழுக்க - “இல்லை - இல்லை! இது என் கோழி
+மூட்டை” என்று இவள் கூற இருவரும் முட்டையைப் பற்றித்
+கொண்டு வாதாட, கடைசியில் முட்டை உடைந்து இருவருக்கும்
+இல்லாது போய்விடும். அதைப்போல இவர்களது திட்டமும்
+உடைந்த முட்டையாகி வீணாகின்றது.!
+
+ஆனால் இப்படி செலவழிக்கும் பணம் எங்கேதான்
+போகின்றதென்றால் தனிப்பட்ட பணக்கார முதலாளிகளிடம்
+போய்ச் சேருகிறது. மிட்டா மிராசுகளிடம் போய்ச் சேருகிறது.
+1050 கோடி ரூபாய் தனிப்பட்ட முதலாளிகளுக்காகத் தொழில்
+வளர்ச்சி என்ற பெயரில் செலவழிக்கப்படுகிறது. இதைக் கைத்தறி
+நெசவாளர் பெறமுடியாது. கூடை முடையும் ஏழைத் தொழிலாளி
+கேட்கமுடியாது. கொடுக்கமாட்டார்கள். வீடு கட்டத் தரமாட்
+டார்கள். மருந்துச் செலவுக்கு உதவாது. ஆனால் பஸ் முதலாளி
+களுக்குக் கிடைக்கும்; அலை அரசர்களுக்கு வேண்டுமானால்
+தருவார்கள்.
+
+நாம் நலம்பெற - உலகம் போற்றிப் புகழ சுயஆட்சி உரிமை
+பெற்றாகவேண்டும். சுயாட்சி உரிமை பெற்றால் - தனியரசு
+நிறுவினால் - தாய்த்திருநாடு விடுதலை பெற்றால் - நாட்டில்
+உள்ள வளம் நமக்குப் பயன்பட, நாம் நல்ல முறையில் செயலாற்ற
+முடியும்.
+
+அந்த உரிமை இருந்தால் இலங்கைக் கடற்கரையில்
+36 தமிழர்களது பிணம் விழுந்திருக்காது. இங்கே வாழ
+வழியில்லாது, கதியில்லாது திக்கற்றுக் கள்ளத் தோணி
+மூலமாக இலங்கை சென்ற தமிழர்கள் பிணமாக மிதந்த
+காட்சியைக் கண்டிருக்க முடியாது!
+
+அதேபோல சீனன் ஒருவன் இங்கே செத்துக் கிடந்தால்
+சும்மா விடமாட்டார்கள்! காரணம் கேட்பார்கள். பதில்
+சொல்லித்தான் ஆகவேண்டும் சன அரசாங்கத்திற்கு! அல்லது
+இங்கு இந்த நாட்டு வீதியிலே ஒரு மார்வாடி, அகாரணமாய்
+இறந்திருந்தால் பாராளுமன்றத்திற்கு அவசரத் தீர்மானம்
+வந்திருக்கும். கேள்விகள் எழும். ஓத்திவைப்புத் தீர்மானம்
+நிறைவேறும் - சபாநாயகரும் அதற்குச் சம்மதிப்பார். இதற்குக்
+காரணம் என்னவென்று இங்கே உள்ளவர்களைக் கேட்பார்கள் -
+
+## Image 9: 009-82bf65e786.png
+
+- Image: `sorpozhivugal/naadu_nagram/009-82bf65e786.png`
+
+இவர்கள் நம்மைக்காட்டி. இவர்கள்தான் காரணம் என்பார்கள்.
+அதன் பயனாய் நம்மில் சிலருக்காவது தண்டனை கிடைக்கும்!
+
+ஆகையால் நமக்கென்று ஒரு நல்ல அரசு - நம்பிக்கையான
+அரசு - நமக்குப் பாதுகாப்பு தரக்கூடிய அரசு - கிடைக்க
+வேண்டுமானால் நம் தாய்த்திரு நாடு விடுதலை பெற்றால்தான்
+முடியும்! எனக்கூறி 'இத்துடன் விடைபெற்றுக் கொள்கிறேன்.
+வணக்கம்.
+
+## English Translation
+
+The following is a summary of the speech delivered by Arignar Anna at a public meeting in Thuraiyur on 23 September 1960.
+
+Friends who spoke before me expressed regret that our opponents refuse to call our anti-Hindi agitation a victory. Why should that trouble us? We continue to grow with every passing day. Our principles resound everywhere and have begun to shine in the hearts of the poor. Wherever we look, we find our friends; our flags fly in every village, our slogans ring in every large town, and our ranks march through the cities. With two or three lakh members in nearly four thousand villages, our movement grows in stature by the day and in splendour by the hour.
+
+Seeing this, ministers now undertake hurried tours, visiting ten or fifteen places a day while claiming that they will remedy grievances and do good. This morning one of our comrades gave me a leaflet describing Minister Ramiah's tour of Kulithalai taluk. Its schedule says: Tiruchirappalli at 8:30 on the seventeenth, Nangavaram at 9:00, Goundampatti at 9:30, Panaiyampatti at 10:00, Seplapatti at 11:00 and Mudalaipatti at 17:30.
+
+A minister who leaves Tiruchirappalli at 8:30 reaches Nangavaram at 9:00 and stays for thirty minutes. How many petitions can he inspect in that half-hour? How can he learn about grievances and devise remedies in so little time? Nangavaram at nine, Goundampatti half an hour later, and then Panaiyampatti: if one cannot even travel between these places in half an hour, where is the time to understand grievances? Do these men fly by helicopter?
+
+In truth, they are not going to learn of grievances or remedy them. Alarmed by our growth, they visit every village to call upon the landed magnates. They roam from town to town only to gather votes and collect contributions; we cannot discover any useful service they have rendered the country. Do not grow weary merely because such people fail to respect us. It is enough that you respect me; we must never worry that our opponents do not.
+
+One day last week, while I was in Madras, the telephone rang. When I answered, a voice said, "This is Narasimhan. I have something to tell you." "Narasimhan?" I wondered, for I could recall no one I knew by that name. Then he said, "I studied with you. Do you not remember? I am calling from *The Hindu* office." Although I could not remember studying with him, I asked what the matter was. He replied, "A newspaper proprietor from West Germany has come here eager to meet you. May I bring him?"
+
+I said, "All right, Narasimhan, but my house is now being repaired and rebuilt. How can we meet here?" He offered to take a room at the Woodlands Hotel and arrange the meeting there. I answered, "No, I am not prepared for anything on that scale. Bring him here, because if I do this once it will become a habit."
+
+He later brought the visitor, and I spoke with him for two hours. He asked questions even our opponents had not asked: when the whole world wishes to unite, why do you alone demand separation? For two hours I answered all his questions with appropriate evidence. Only after hearing my explanation did he shake my hand and say as he left, "Until now I believed that you and your movement supported the rich and opposed God. After your explanation I understand the truth. Thank you and farewell."
+
+What matters more: welcoming a foreigner from West Germany who wishes to understand us, or grieving over the abuse these people direct at us? Today one can almost say there is no newspaper that does not write about us. They may not praise us, but a situation has arisen in which they must write something about us somehow. We have grown to that extent. How did this growth arise? Through individual ability? No, no. The blood shed, the sacrifice made and the labour performed by many among us have made the Kazhagam grow.
+
+If we wished, could we not stage a protest like the August struggle they conducted? If we possessed that petty desire, and if I moved my index finger and said, "Tear up the railway tracks tomorrow," do you think a single track could still be seen anywhere in this country? If I merely signalled, "Cut down the telegraph wires," would the wires remain? If I said, "Burn the post offices," do you imagine even one post office would function in the town? We have restrained and held back the capacity for violence. I ask you to understand firmly that we will not misuse it.
+
+We read in the newspapers that the Congo is a country in Africa; that its enslaved people have risen and stand in a liberation struggle; and that conflict between its rulers and leaders is intensifying. Is the Congo larger than our country? No. Is it richer? No. Does it possess literature filled with heroic feeling? No. A country without distinction in any of these respects seeks a separate state. Why should we alone not seek one? What does our land lack? What loss would follow if it became a separate, self-governing state?
+
+The English have their literature and other peoples have many literary works. We possess, beyond them all, *Akam*, *Puram*, *Kalithogai*, *Pattuppattu*, *Ettuthogai*, *Silappathikaram* and *Chintamani*. Yet the Black people of the Congo possess none of these works. From such a Congo, Lumumba cables the United Nations: "Will you send twenty aircraft from there, or shall I obtain them wherever I can?" Meanwhile, year after year, we recount with relish and swelling valour the glory of Cheran Senguttuvan, who marched to the Himalayas, defeated Kanaka and Vijaya, and brought back stone for an image. The Congo, which has no such heroic epic, yearns for freedom. Why then do they say that our demand alone is wrong?
+
+I ask those who say so, and I ask elders without party attachment: when countries less richly endowed than ours, such as France, Spain, Italy and Greece, live in freedom, what is wrong with Dravidam obtaining freedom?
+
+In one country there may be coal but no iron; where there is iron, there may be no coal. There may be sugarcane but no grapes. Sandalwood grows in one place, but teak cannot be found there; where teak grows, sandalwood may not. A country that grows tobacco may lack the nine grains. There may be wetland but no dryland, and countries with dry tracts may have no wet cultivation. But there is nothing that our Dravida Nadu does not possess.
+
+The rulers here ignore all this and discuss our bodily identifying marks. Why do they concern themselves with matters that properly belong to a prospective father-in-law? What use is there in displaying their courage and valour toward us? That bravery ought to be useful in the North. Everything is established there: Rourkela and Durgapur are there, and two more iron and steel plants are also being established in the North. Yet even after two Five-Year Plans, Salem's iron lies dormant and no ironworks has arisen here. They come running only to gather votes and roam from town to town collecting contributions. I ask them: have you no shame?
+
+How many times have we asked about Salem iron, South Arcot lignite, Tuticorin harbour and Cauvery basin oil? Have you made provision for any of them? You merely say, "We are trying, we remain hopeful, it will be included in the next Five-Year Plan." Why have you lost the strength to oppose and demand action? When you were in the Justice Party, you asked us, "What glue holds you to the ministerial chair?" What rivets hold you there now?
+
+Despite twenty-five years of effort, the Sethusamudram project has produced no result. Asked whether it will at least be included in the Third Plan, they do not even breathe an answer. Recently, leading merchants assembled and questioned the minister about it. As always, Subbarayan, the eminent son of Tamil country who went from Salem district to Delhi, replied that he was trying but could offer no assurance.
+
+When our Industries Minister Venkataraman went from here to Delhi to attend the National Development Council, he presented our position to his leaders there, men such as Nehru and Pant, and argued with them. In their own polished language, he conveyed what we have said: "Allowing one part of the country to develop while neglecting another will only foster a separatist outlook." He supplied an abundance of statistics and explanation. Do you know Nehru's response? "Your statistics themselves are wrong."
+
+What should Venkataraman have done immediately? He should have argued: "Mr Nehru, you are our leader; I accept that. You are a great man; I honour you. But please do not say our statistics are wrong. They are not only correct but just." Did he do so? No. Instead of throwing down his resignation and returning when the demand was rejected, he was driven away and came running back.
+
+A boy who cannot solve a sum given by his teacher asks his father to solve it and presents it at school the next day. The teacher taps him and asks, "Which fool worked out this sum for you?" When the boy replies, "My father," the teacher says, "A fitting son for such a father." Likewise, Nehru declares that the statistics prepared here and taken to Delhi are incorrect. Ministers like Venkataraman know how to berate us but not how to knock on the North's door. They lack the courage to demand an answer. Why should they fear those in the North?
+
+In the Legislature I told them: "Ask courageously. Ask forcefully. Do not be afraid. We stand firmly beside you. Until now you have kept one member of our movement there to strengthen your hand. From now on, if you wish, we shall cooperate with you. But without fearing the North, demand the Sethusamudram project and the Salem ironworks."
+
+Privately they replied, "It is precisely because you say this openly that danger arises for us."
+
+Why, then, do you remain in power? You claim that two Five-Year Plans have been completed. In which family does happiness overflow today? Prices keep rising. Even under the British, one rupee bought three measures of rice; under the rule of these good men, one measure cannot be bought even for a rupee. Mothers understand this well, for they are the ones who suffer from the rising cost of living. Nowhere can politics be seen more clearly than at the kitchen hearth.
+
+A woman who raises a hen at home places it under a basket and closes it in at evening. When it clucks, she lifts the basket and takes the egg. If she carelessly lets it wander, it may lay in the neighbour's haystack. Hearing the hen cluck, she searches and finds the egg there. When she goes to retrieve it, the neighbour says, "Our hen laid that egg here; give it to me." The first woman replies, "No, it is my hen's egg." As both seize the egg and argue, it finally breaks and neither receives it. Their Plan likewise becomes a broken egg and is wasted.
+
+Where does the money spent in this manner go? It reaches individual wealthy capitalists and landed magnates. Under the name of industrial development, 1,050 crore rupees is spent for private capitalists. The handloom weaver cannot obtain it; the poor basket-maker cannot ask for it, and they will not give it to him. They will not provide it to build a home or help with medical expenses. But bus proprietors can obtain it, and they will give it to the mill barons.
+
+For our welfare and so that the world may honour and praise us, we must obtain the right to self-government. If we gain that right, establish a separate state and liberate our sacred motherland, we can act properly so that the country's resources benefit us.
+
+If we possessed that right, the bodies of thirty-six Tamils would not have fallen on the coast of Ceylon. We would not have witnessed Tamils who lacked any means of living here and travelled helplessly to Ceylon in illicit boats floating there as corpses.
+
+Likewise, if a Chinese person lay dead here, they would not let the matter rest. They would ask the reason, and an answer would have to be given to the Chinese Government. Or if a Marwari died without cause on a street in this country, an emergency motion would be introduced in Parliament. Questions would arise, an adjournment motion would be admitted and the Speaker would consent to it. They would ask the people here for the cause. These rulers would point to us and say we were responsible, and at least some among us would be punished.
+
+Therefore, if we are to obtain a good Government of our own, a trustworthy Government capable of protecting us, our sacred motherland must gain freedom. With these words, I take my leave. Greetings.
+
+## Translator's Notes
+
+The source is a printed summary rather than a verbatim transcript. Its corrected Tamil OCR is retained unchanged in the bilingual document.
+
+The headline form “சூரல்” is probably the OCR-damaged “சூறல்” (whirlwind). The English title follows that contextual reading while retaining the printed Tamil headline verbatim.
+
+“அசஸ்டுப் போராட்டம்” is read as the August struggle, a historical reference whose exact intended campaign should be verified against the scan or publication context.
+
+The OCR contains numerous minor defects and several damaged expressions, including “தாணவேண்டும்”, “அலை அரசர்கள்”, and malformed letters in political and economic terms. They have not been silently repaired in the retained Tamil source.

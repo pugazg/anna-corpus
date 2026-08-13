@@ -1,0 +1,1 @@
+../../md_pages/paettigal/prachinaigal_pala.md

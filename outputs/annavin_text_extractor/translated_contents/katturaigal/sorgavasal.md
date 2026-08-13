@@ -1,0 +1,322 @@
+# சொர்க்கவாசல் / The Gates of Heaven
+
+**Tamil title:** சொர்க்கவாசல்  
+**English title:** The Gates of Heaven  
+**Source file:** `katturaigal/sorgavasal.md`
+
+## Source Tamil (verbatim)
+
+- Source image folder: `/Users/pugazhendhirajendran/Documents/Codex/2026-07-09/https-www-annavinpadaippugal-info/outputs/annavin_text_extractor/ocr_images/katturaigal/sorgavasal`
+- OCR language: `tam`
+- Tesseract page segmentation mode: `3`
+- OCR cleanup: `enabled`
+
+## Image 1: 001-82e6f1e87a.png
+
+- Image: `katturaigal/sorgavasal/001-82e6f1e87a.png`
+
+இந்த டிக்கட்டை வாங்குவதற்காக மக்கள் 'க்யூ'
+வரிசையில் நிற்கின்றனர்.
+
+செளராஷ்டிராவில் போர். பந்தரிலுள்ள சுதாமா
+கோயிலில் ஏராளமான மக்கள் சொர்க்கம் போகத் துடியாய்த்
+துடித்தபடி நிற்கின்றனர்...
+
+சொர்க்கத்தை சுலபத்தில் காட்டி விட்டார்கள் -
+சொர்க்கத்திற்குப் போக மக்கள் தங்கள் அவசரம் முழுவதும்
+காட்டி அங்கே கூடிவிட்டார்கள்.
+
+சொர்க்கத்திற்குப் பாதையென்ன  - போவதெப்படி
+என்று கேட்டு விடாதீர்கள்.
+
+சொர்க்கம் வேறெங்குமில்லை. சுதாமா கோயில்
+விக்கிரகத்தின் மூன்னாலிருக்கும் பலிபீடத்தைத் '. தாண்டி
+விட்டால் சொர்க்கந்தான் - தாண்டும்வரை நரகமே! பலி
+பீடத்தைக் கடந்து சென்றவர்களின் பாவங்கள் போய், புனிதர்
+களாகி விடுவார்களாம்.
+
+முதலில் சொர்க்கம் போக டிக்கட்டில்லை. இப்பொழுது'
+ஐந்தே காலணா.
+
+சொர்க்கம் சென்றவருக்குப் புரோகிதர் திலகமிடுகிறார்.
+
+சொர்க்கத்தை, ஐந்தே காலணா தூரத்தில் கொண்டு
+வந்து விட்டார்கள்.
+
+சொர்க்கலோகம், எல்லோரும் போக நினைக்கும்
+பூமிதான் - ஆனால், மெளடீகத்தின் பிடிப்பால் மக்கள்
+இப்படி சுதாமா கோயிலில் சுற்றி வருகிறார்கள்.
+
+## Image 2: 002-f40ad50f45.png
+
+- Image: `katturaigal/sorgavasal/002-f40ad50f45.png`
+
+சொர்க்கம் எங்கே இருக்கிறது? சுதாமா கோயிலிலா,
+இல்லை, இல்லை! நம்மைச் சுற்றிலும் நடமாடும் சொர்க்க
+லோகம் உண்டு. ்
+
+நாமிருக்கும் இடத்தைச் சொர்க்கமாக மாற்றும்
+மனத்துணிவு வேண்டும்.
+
+மக்களுக்கு . சொர்க்கம், பசியில்லாத நிலைமை -
+பட்டினி கிடக்க வேணடாத அளவு உணவு - இதனைத் தந்து
+விட்டால் சொர்க்கம் என்றுதான் பேசுவர்.
+
+அந்த சொர்க்க வாசலின் கதவுகளைத்தான் தட்டிய
+படியே .மக்கள் இருக்கின்றனர்.
+
+சொர்க்கவாசலைத் திறக்க வேண்டியவர்களோ,
+_ இன்னமும் வழி தெரியாமல் தவிக்கிறார்கள்.
+
+சொர்க்கத்தை, நரகமாக்கியபடி இருந்தனர்!
+
+உணவு நெருக்கடி ஏற்பட்டபொழுது, சுயதேவை பூர்த்தி
+யென்று, எந்த இராகத்திற்கும் ஒத்துவராத பாடலை, பாடியபடி
+இருந்தனர். ப
+
+நாம், சொர்க்க பூமி, இப்பொழுது சோர்வு பூமியாகிறது
+என்று எடுத்துக் காட்டினோம் - எச்சரித்தோம் - கண்டித்தோம்
+-. ஆனால் ஏளனப்படுத்தப்பட்டோம்!
+
+சொர்க்கம், ஏதோ ஐந்தே காலணாவில் கிடைத்துவிடும்
+என்று சுதாமா கோயிலில் கூடிக்கிடப்போர் நினைக்கின்றனர்.
+
+## Image 3: 003-4e51ec3361.png
+
+- Image: `katturaigal/sorgavasal/003-4e51ec3361.png`
+
+அதுபோல, நம்மையாளும் காங்கிரசாட்சியினரும், வீரவுரையும்
+விதவிதமான காகிதத் தீர்மானங்களும் போதுமென்றே
+தீர்மானித்தனர்.
+
+சொர்க்கம் நரகமாயிற்று - சோற்றுக்கில்லையே என்று
+சோர்ந்து படுப்போர் தொகை வளரலாயிற்று!
+
+வெகு தொலைவிலுள்ள நாடுகளிலிருந்தெல்லாம்
+உணவு தான்யங்களைப் பெற மிகவும் பிரயாசைப்பட்டி
+ருக்கிறோம்.
+
+கப்பலுக்குப் பின் கப்பலாக உணவ தான்யங்கள் வந்து
+
+கொண்டிருக்கின்றன. இருந்தாலும் இவை போதாது.
+
+அவசியமிருந்தால், இனியும் வெளிநாட்டு உதவியை
+நாடியபடி இருப்போம்.
+
+சொர்க்கலோகக் காவலாளி, கதவு திறக்க மார்க்கம்
+காட்டுகிறார் இப்பொழுது - மூன்னர் நாம் கூறிய பொழுது '
+ஒப்புக்கொள்ளாதது மட்டுமல்ல, நம்மையெல்லாம் குறை
+கூறினார்.
+
+பிரமதர் நேரு, தமது ரேடியோ பிரசங்கத்தில் வெளி
+நாட்டு உணவு உதவி அவசியம் . என்பதை உணர்ந்து பேசி
+யுள்ளார். சுயதேவை பூர்த்தியென்று கூறியதோடு நிறுத்திக்
+கொள்ளவில்லை.
+
+உண்மையை உணர்ந்த காரணத்தால்தான் நிலைமை
+
+சீர்பட - நரகம், சொர்க்கமாக - வழி தெரிகிறது!
+
+## Image 4: 004-5885c6ba4a.png
+
+- Image: `katturaigal/sorgavasal/004-5885c6ba4a.png`
+
+டாமல் செஞ்சீனாவில் - கனம் முன்ஷி பர்மாவில்!
+உணவு நெருக்கடி தீர்க்க தூதுபோயுள்ளனர். அமெரிக்காவிலும்
+இதுபற்றியே பேச்சு வார்த்தை!
+
+பர்மிய சர்க்காருடன் ஒப்பந்தம் பேசி, உணவுப்
+பொருள் பெற, கனம் சென்றுள்ளார். அதுபோலவேதான்
+சீனாவுடனும் இந்திய சர்க்கார், மூன் . அனுப்பியதைவிட
+இன்னும் அதிகம் பெறப் பேச்சுவார்த்தை நடத்துகின்றனர்.
+
+இதனைத்தான் நாம் நெருக்கடியைத் தீர்க்கும் நேரான
+வழி, சீரான மூறையென்றோம். இப்பொழுதாவது புரிந்து
+கொண்டு பணியாற்றுகிறார்களே என்று நாம் மகிழ்கிறோம்.
+
+சொர்க்கம் சுதாமா கோயிலல்ல - இந்த பரந்த
+தேசத்தில்: - பலிபீடத்தைத் தாண்டுவதால் வந்துவிடாது.
+உணவு நெருக்கடியைத் தாண்ட வேண்டும். பாவங்கள்
+போகிறதோ, இல்லையோ, பட்டினி போகவேண்டும், பஞ்சம்
+போக வேண்டும். அங்குதான் சொர்க்கத்தைக் காண முடியும்.
+
+இந்திய சர்க்கார் இதனை உணர்ந்து பணியாற்ற
+வேண்டும்.
+
+ஙு (4
+253
+
+சொர்க்கத்திற்கு வழிகாட்டும் ஏழுமலையான்
+கோயிலிலே திருட்டு - சில லட்டுகள், கொஞ்சம் ரூபாய்!
+
+். போலீஸ் புலன் விசாரணை செய்கிறது!
+
+திருட்டு போன லட்டு, மிகப் பிரசித்தமானவை -
+
+## Image 5: 005-cffed7cf5d.png
+
+- Image: `katturaigal/sorgavasal/005-cffed7cf5d.png`
+
+ஆகவேதான் போலீஸ் பாதுகாப்பு - இரண்டு ஹெட்
+கான்ஸ்டேபிள், எட்டு கான்ஸ்டேபிள்கள் காவலிருப்பார்கள்.
+
+சொர்க்கம் எவ்வளவு துர்பாக்கிய நிலையிலிருக்கிறது
+
+என்று பாருங்கள்
+
+அகில உலக நாதர் ஏழுமலையானுக்குப் போலீஸ்
+
+காவல்! எவ்வளவு வெட்கங் கெட்ட நிலை.
+
+திருப்பதி வெங்கடாசலபதி லட்டைப் பறிகொடுத்து
+விட்டு, போலீஸ், 'லட்டியை' நம்பி, காவலிருக்க
+வேண்டியுள்ளார்.
+
+தேவாதி தேவர், சாதாரண மனித உதவியை நாடுகிறார்.
+
+பண்டித நேரு, பாராளும் மந்திரி - நினைத்தால்
+எதையும் செய்யலாம். செய்வதாகவும் கூறுகிறார். ஆனாலும், _-
+மக்களைப் பார்த்துக் கூறுகிறார், ஒருநாள் விரதமிருங்கள்
+- என்று! - இது, வெங்கடாசலபதி, போலீஸ் உதவியைத்.
+தேடுவதைப் போலத்தானே!
+
+மக்கள் விரதமிருந்து, உணவு தருவதென்றால், அதற்கு
+ஏன் மந்திரி சபை, .மற்ற மற்ற ஆட்சி ஏற்பாடுகள்!
+
+கொசுவைக் .கொல்ல, ஒரு குறும்பன் வழி சொல்லித்
+தந்தாள். கொசுவை. மெதுவாகப் பிடிக்க வேண்டுமாம். பிறகு
+அதற்குச் சிரிப்புக் காட்டவேண்டுமாம். அது சிரிக்கும்பொழுது,
+அதன் வாயில், அவன் தரும் விஷப்பொடியைத் தூவிவிட
+வேண்டுமாம். பிறகு. கொசு இறந்துவிடுமாம். அப்படியல்லவா,
+பண்டிதநேரு பேசியுள்ளார்.
+
+## Image 6: 006-95c064d83a.png
+
+- Image: `katturaigal/sorgavasal/006-95c064d83a.png`
+
+உணவு நெருக்கடி தீர அதிக உணவு உற்பத்தி
+செய்யவேண்டும், அயல் நாட்டு உணவுப் பொருள்களை
+வரவழைக்க வேண்டும் என்றால் ஒப்புக் கொள்ளலாம். மக்கள்
+விரதமிருந்து உணவை மீத்தல் என்றால், அது கொசுவைக்
+கொல்ல, 'கோணல்' வழியைக் கடைப்பிடிப்பது போலத்தான்!
+
+தினமும், மக்கள் வயிறார உண்ணத்தான் திட்டம்
+தீட்டவேண்டுமே தவிர, ஒருநாள் விரதம், இரண்டுநாள்
+பட்டினி, மூன்று நாள் உபவாசம், ஒருநாள் உண்ணாவிரதம்
+என்றிருக்க அல்ல!
+
+பண்டித நேரு, சீனாவுக்குத் தூது அனுப்பினார் ்]
+பர்மாவுக்கு முன்ஷி சென்றுள்ளார். அமெரிக்கா உதவியைக்
+கேட்டுள்ளார். கானடா, உணவு தருமா என்று எதிர்பார்க்கிறார்.
+இவை, உண்மையில் ஏற்ற திட்டங்கள், வெங்கடாசலபதி,
+திருடியவனைத் தாமே, தண்டனை தர, நரகத்திற்கு அனுப்புவது
+போல! ஆனால், அவர் போலீஸ் உதவியை நாடுவதுபோல்,
+நேரு, பொதுமக்களை விரதமிருங்கள் என்று கூறுவது
+பொருந்தாது.
+
+சொர்க்கம், விரதத்தால்' கிடைப்பதல்ல! வயிறார உண்ண
+வசதியுள்ள இடந்தான் இன்றைய சொர்க்கமாகும். அதன்
+வாசலில்தான் மக்கள் குழுமிக் கிடக்கின்றனர்.
+
+சொர்க்க வாசலைத் திறக்கவேண்டியவர்கள்
+காங்கிரசாட்சியாளர் - திறக்க முயற்சிக்க வேண்டும். விரைவில்,
+அதற்கு .அதிக நெஞ்சுரம் மட்டுமல்ல, மூளை பலமும்
+வேண்டும்.
+
+## English Translation
+
+People stand in a queue to buy this ticket.
+
+At the Sudama Temple in Porbandar, Saurashtra, a vast number of people stand trembling with eagerness to go to heaven.
+
+Heaven has been made easy to see. People have gathered there in all haste to go to heaven.
+
+Do not ask what the path to heaven is or how one travels there.
+
+Heaven is nowhere else. Cross the sacrificial altar in front of the Sudama Temple idol and there is heaven; until one crosses, there is only hell! Those who pass the altar are said to lose their sins and become holy.
+
+At first there was no ticket for going to heaven. Now it costs only five quarter-annas.
+
+The priest applies a sacred mark to the person who has visited heaven.
+
+They have brought heaven within the distance of five quarter-annas.
+
+The realm of heaven is a land everyone wishes to reach. But, gripped by foolishness, people circle the Sudama Temple in this way.
+
+Where is heaven? In the Sudama Temple? No, no! A heavenly world moves all around us.
+
+We need the courage to transform the place where we live into heaven.
+
+For the people, heaven is a condition without hunger: enough food that no one need starve. Give them this, and they will call it heaven.
+
+The people keep knocking upon the doors of those gates of heaven.
+
+Those who must open the gates still struggle without knowing the way.
+
+They have been turning heaven into hell!
+
+When the food crisis arose, they sang the song of "self-sufficiency," a tune that matched no melody.
+
+We demonstrated, warned, and condemned the fact that our heavenly land was becoming a land of exhaustion. But we were mocked!
+
+Those gathered at the Sudama Temple believe heaven can somehow be obtained for five quarter-annas.
+
+Likewise, the Congress rulers who govern us decided that heroic speeches and assorted paper resolutions would suffice.
+
+Heaven became hell. The number of people collapsing in despair because they had no rice began to grow.
+
+We have struggled greatly to obtain food grains from faraway countries.
+
+Ship after ship laden with grain keeps arriving, yet even this is not enough.
+
+If necessary, we shall continue seeking foreign assistance.
+
+The guardian of the heavenly realm now shows the way to open the gate. Earlier, when we proposed it, he not only refused to agree but blamed us all.
+
+In his radio address, Prime Minister Nehru recognised and spoke of the necessity of foreign food aid. He did not stop with the slogan of self-sufficiency.
+
+Because the truth has been recognised, a path is visible for setting conditions right and turning hell into heaven.
+
+[A representative has gone] to Red China, and the Honourable Munshi to Burma! They have gone as emissaries to resolve the food crisis. Talks on the same subject are taking place in America.
+
+The Honourable Minister has gone to negotiate an agreement with the Burmese government and obtain food supplies. Likewise, the Indian government is negotiating with China to obtain still more than was previously sent.
+
+This is what we called the direct path and proper method for resolving the crisis. We are glad that at least now they understand and are working.
+
+Heaven is not the Sudama Temple. It lies in this vast country. It will not arrive by crossing an altar. We must cross beyond the food crisis. Whether sins disappear or not, starvation and famine must disappear. Only there can heaven be found.
+
+The Government of India must understand this and act.
+
+At the temple of Lord Venkateswara, who shows the way to heaven, there has been a theft: a few laddus and some rupees!
+
+The police are investigating!
+
+The stolen laddus are very famous. That is why there is police protection: two head constables and eight constables stand guard.
+
+See what a wretched condition heaven is in.
+
+Police protection for Lord Venkateswara, master of the entire universe! What a shameless condition.
+
+Tirupati Venkatachalapathi, having lost his laddus, must trust the police lathi and remain under guard.
+
+The god of gods seeks the aid of ordinary humans.
+
+Pandit Nehru is a minister who governs the land. He can do anything he decides and says that he will. Yet he looks at the people and says, "Fast for one day!" Is this not like Venkatachalapathi seeking police assistance?
+
+If the people must fast and thereby provide the food, why do we need a cabinet and all the other machinery of government?
+
+A mischievous fellow once suggested a way to kill a mosquito. One must catch it gently, then make it laugh. While it is laughing, one should sprinkle the poison powder he supplies into its mouth. Then, it seems, the mosquito will die. Has not Pandit Nehru spoken in just this fashion?
+
+If he says that more food must be produced and foreign food supplies imported to solve the crisis, we can agree. But asking the people to save food by fasting is like adopting a crooked method to kill a mosquito.
+
+Plans ought to ensure that the people eat their fill every day, not impose one day of fasting, two days of starvation, three days of religious abstinence, and another day without food!
+
+Pandit Nehru has sent an emissary to China. Munshi has gone to Burma. He has asked America for assistance and looks to Canada for food. These are truly appropriate plans, like Venkatachalapathi himself punishing the thief and sending him to hell! But just as it is inappropriate for the deity to seek police aid, it is inappropriate for Nehru to tell the public to fast.
+
+Heaven is not obtained through fasting. Today, heaven is the place where people can eat their fill. At its gates the people have gathered.
+
+The Congress rulers are the ones who must open those gates. They must try to open them quickly. For that, they need not only greater courage but also greater strength of mind.
+
+## Translator's Notes
+
+The first surviving scan begins after an earlier reference to a ticket and lacks the printed heading; the descriptive title follows the repeated சொர்க்கவாசல் motif. A name at the start of image 4 is clipped or OCR-damaged, so English marks the unidentified emissary rather than inventing one. No publication citation survives.

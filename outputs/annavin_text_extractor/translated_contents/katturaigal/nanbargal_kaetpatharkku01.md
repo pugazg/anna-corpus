@@ -1,0 +1,682 @@
+# நண்பர்கள் கேட்பதற்கு... — பகுதி 1 / For Friends Who Ask... — Part 1
+
+**Tamil title:** நண்பர்கள் கேட்பதற்கு... — பகுதி 1  
+**English title:** For Friends Who Ask... — Part 1  
+**Source file:** `katturaigal/nanbargal_kaetpatharkku01.md`
+
+## Source Tamil (verbatim)
+
+- Source image folder: `/Users/pugazhendhirajendran/Documents/Codex/2026-07-09/https-www-annavinpadaippugal-info/outputs/annavin_text_extractor/ocr_images/katturaigal/nanbargal_kaetpatharkku01`
+- OCR language: `tam`
+- Tesseract page segmentation mode: `3`
+- OCR cleanup: `enabled`
+
+## Image 1: 001-806d93a72d.png
+
+- Image: `katturaigal/nanbargal_kaetpatharkku01/001-806d93a72d.png`
+
+நண்பர்கள் கேட்பதற்கு. . .
+
+கி ச ப ப ப ப ட அ பப ப பப பபப
+7, திராவிட நாடு தனிநாடு ஆக்கப்பட வேண்டும் என்று
+
+கொண்டிருந்த திட்டத்தை விட்டுவிட்டது ஏன்?
+
+எனக்கும், நம் தோழர்கட்கும், ஏதேதோ இன்னல் ஏற்பட்டு
+விடும் என்ற அச்சம்கொண்டு நான் இந்த முடிவுக்கு வந்திருக்க
+மாட்டேன் என்பதை நண்பர்கள் அறிவார்கள். இன்னல் ஏற்பட்ட
+பிறகும் தொடர்ந்து பணியாற்றும் வழியே அடைக்கப்பட்டு
+வருவதுதான், இதிலே கூர்ந்து பார்த்து, உணர்ந்துகொள்ள
+வேண்டிய உண்மையாகும். கடந்த ஓராண்டுக் காலமாகவே
+இந்தப் பிரச்சினைபற்றிக் கழகத் தோழர்கள் பலரிடம் பேசிக்
+கருத்தறிந்து வந்திருக்கிறேன். புதிய தடைச் சட்டம், ஒரு
+எண்ணத்தை வெளியிடும் ஏற்பாட்டையே - அதாவது
+கழகத்தைய - அழித்திட வருகிறது என்பதைக் கழகத் தோழர்கள்
+நன்றாக அறிவார்கள். எனவே கழகம் தொடர்ந்து பணியாற்ற
+வேண்டும் என்ற எண்ணம் கொண்டவர்கள் இப்போது எடுக்கப்
+பட்டது போன்ற ஒரு முடிவுதான் எடுக்க முடியும் என்பதை அறிந்
+திருக்கிறார்கள். திராவிடநாடு திட்டமானாலும் வேறு எந்தத்
+திட்டமானாலும், பிரச்சாரம் செய்திட ஒரு அமைப்பு ஒரு கட்சி
+- இருக்க அரசியல் சட்டம் இடம் கொடுத்தாலொழிய இயங்க
+முடியாது. சில நாடுகளிலே, ஆளுகிற கட்சி தவிர அரசியல்
+கட்சியே கூடாது என்று தடை இருக்கிறது. அங்கு, அரசியல்
+கட்சிகள் இல்லை - இயங்க வழி இல்லை. வீரம் இல்லாததால்
+அல்ல, இயங்கும் வழி இல்லாததால், இதேநிலை இங்கு நமது
+திட்டத்துக்கு ஏற்பட்டு விட்டது. நாம் அந்தத் திட்டத்தை
+வைத்துக்கொண்டு கழகம் நடத்த இயலாது என்று, சாதாரண
+சட்டம் அல்ல - அரசியல் சட்டம் கூறுகிறது. ஆறடி அகலம்,
+எட்டு அடி நீளம் மட்டும்தான், கட்டடம் கட்ட அனுமதிக்
+கப்பட்டுள்ள இடம் என்றால் அந்த இடத்தில், பதினாறு அடி
+அகலம் பதினெட்டு அடி நீளத்தில் கட்டடம் கட்ட முடியாது.
+2. கோழைத்தனம்தான் காரணம் கொள்கைளை
+
+விட்டுவிட்டதற்கு என்று கூறுகிறார்களே?
+
+கூறுகிறார்களா? தூற்றியபடி இருக்கிறார்கள். தேக்கி
+வைக்கப்பட்டி ருந்த தண்ணீர் கரை உடைபட்ட தும் குபுகுபுவென
+
+## Image 2: 002-e93a8a02bf.png
+
+- Image: `katturaigal/nanbargal_kaetpatharkku01/002-e93a8a02bf.png`
+
+வெளியே பாய்ந்தோடி வருவதுபோல, என்னிடமும்
+கழகத்திடமும் கொண்டுள்ள வெறுப்புணர்ச்சி இப்போது
+பொங்கி வழிகிறது, பலருடைய வாய்வழி, கோழைத்தனம் என்று
+ஏசித் திரிவோர், முதலில் நாம் கொள்கையை விட்டுவிட்டோம்
+என்று கூறுவதே பொருளற்றது என்பதை உணர மறுக்கிறார்கள்.
+கொள்கை வேண்டாமென்றோ, தீது என்றோ, ஆகாது என்றோ,
+நாம் விட்டுவிடவில்லை; கொள்கை, தடைச் சட்டத்தின் மூலம்
+நம்மிடமிருந்து பறிக்கப்பட்டி ருக்கிறது.
+
+கோழைத்தனம் என்றால் என்ன? ஒரு பொறுப்பை
+மேற்கொள்ளும்போது ஏற்படக்கூடிய கஷ்ட நஷ்டங்களை
+பயங்கரங்களைத் தாங்கிக் கொள்ளும் துணிவு அற்றிருப்பது
+கோழைத்தனம்.
+
+உயிர் போய்விடும், உடைமை போய்விடும். பட்டம், பதவி
+போய்விடும் சுகவாழ்வு போய்விடும் என்று எண்ணி நடுக்கம்
+கொண்டு, நிலையை, நினைப்பை, நடவடிக்கையை, நோக்கத்தை
+மாற்றிக்கொள்வது கோழைத்தனம்.
+
+கொண்ட கொள்கைக்காகச் சிறைப்பட அஞ்சுவது
+கோழைத்தனம். ஆனால் ஆறாவது முறையாகச் சிறை செல்லும்
+என்னையும், அதுபோன்றே, சிறைசெல்ல அஞ்சாது பணியாற்றி
+வரும் நமது கழகத் தோழர்களையும் கோழைகள் என்று கூறுவது
+பொறுத்தமல்ல - பொச்சரிப்பு கொண்டவர்களின் அத்தகைய
+நச்சுப்பேச்சுக்குப்பொருளும் இல்லை.
+
+கோழைத்தனம் காரணமாகக் கொள்கையை விட்டு
+விட்டார்கள் என்று ஏசுபவர்கள், சிறைப்பட்டிருந்தபோது,
+மனுக்கள் கொடுத்தும் மாரடித்து அழுதும், தூது சென்றும்
+தூபதீபநைவேத்தியம் நடாத்தியும். விடுதலை தாருங்கள்,
+வெளியே அனுப்புங்கள் என்று வேண்டிக்கிடந்தவர்களேயன்றி
+வேங்கையை குத்திக்கொன்ற கரமும், வேழத்தை உதைத்து
+வீழ்த்திய காலும், அரிமாவைக் கடித்துக் கொன்ற வாயும்,
+அனைத்தையும் சுட்டெரிக்கும் கண்களும் கொண்ட சூரர்கள்
+அல்ல; அறிவீர்கள். இந்தி எதிர்ப்புப் போராட்டத்தில் ஈடுபட்டு,
+சிறை செல்ல முன்வந்திருக்கும் கழகத்தவரை, சிறைசெல்ல
+அஞ்சுவோர், கோழைகள் என்று கூறுவது பொருளற்றது,
+பொருத்தமற்றது, பொல்லாங்கு பேசுவோரின் கூற்று. *
+
+பதவியை இழக்க மனம் வராதது கோழைத்தனம்
+என்பார்கள். திராவிட முன்னேற்றக் கழகம் நடாத்தும் இந்தி
+எதிர்ப்பு அறப்போரில் ஈடுபடும் பலருக்கு - எனக்கு உட்பட -
+அவர்கள் இன்று வகித்துவரும் பதவி பறிபோய் விடக்கூடும்.
+
+## Image 3: 003-083bc8b93f.png
+
+- Image: `katturaigal/nanbargal_kaetpatharkku01/003-083bc8b93f.png`
+
+தெரிந்துதான் அறப்போரில் ஈடுபடுகிறார்கள். தெளிவற்றவர்கள்
+தவிர மற்றவர், இத்தகைய தோழர்களை ஏசுவோர் கோழைகள்
+என்று கூறினால் ஏற்றுக்கொள்ளவும் மாட்டார்கள்; அவர்தம்
+பேச்சைப் பொருட்படுத்தவும் மாட்டார்கள்.
+
+கஷ்ட நஷ்டம் ஏற்கும் துணிவுடையோர், கஷ்ட நஷ்டம்
+ஏற்றோர், நிரம்ப உள்ள இடம், கழகம்.
+
+அவர்கள் தாங்கொணொாத வேதனையால் தாக்கப்பட்ட
+தையும் நான் பார்த்திருக்கிறேன், அவர்களின் தியாக உள்ளம்
+கண்டு, நாடு அவர்களை வாழ்த்துவதையும் காண்கிறேன்.
+
+கயவர்களால் கொல்லப்பட்டு இறந்த தன் கணவனைக்
+கண்டு கதறிய ஜெகதாம்பாள் அம்மையின் நெஞ்சு உருக்கும்
+நிலையையும் கண்டேன்; மக்கள் கூடிநின்று அவர்களைச் சட்ட
+மன்ற உறுப்பினராக்கி மகிழ்ச்சிபெற்று மரியாதை செலுத்தியதை
+யும் பார்த்தேன்.
+
+போலீஸ் தடியடி. காரணமாக பீறிட்டுவந்த இரத்தம்
+சட்டையை நனைத்திருந்த நிலையில், பூவிருந்தவல்லி போலீஸ்
+கொட்டடியில் அடைக்கப்பட்டிருந்த நிலையிலும், ௮. பொ.
+அரசு அவர்களைக் கண்டேன்; சென்னை மாநகராட்சிமன்றத்
+தலைவர் - மேயர் - என்பவருக்கான கெம்பீரமான உடையிலே
+அவர் என் எதிரே நின்றதையும் பார்த்தேன்.
+
+அண்ணாமலைப் பல்கலைக் கழகத்தில் மாணவன்
+மதியழகன், கயவர்கள் காங்கிரசின் ஏவுதலால் மண்டை. பிளக்கப்
+பட்டதையும் பார்த்தேன்; சட்டமன்ற உறுப்பினர் மதியழகன்
+அமைச்சர்களுக்கு மண்டைக் குடைச்சல் ஏற்படும்படியாக
+வாதிட்டு வருவதையும் காண்கிறேன்.
+
+செத்தான் இனி! என்று கூறிப் புதுவைத் தெருவொன்றில்
+குற்றுயிராகும்வரை தாக்கிய காங்கிரசார், கருணாநிதியைக்
+கிடத்திவிட்டுப் போனதையும் கண்டேன்; சட்டமன்ற எதிர்க்
+கட்சித் துணைத்தலைவராக வீற்றிருந்து அமைச்சர்களை அவர்
+துளைத்தெடுக்கும் காட்சியையும் காணுகின்றேன்.
+
+எத்தகைய கஷ்ட நஷ்டத்தையும் ஏற்கும் துணிவு
+கொண்டவர்களே கழகத்தினர். கோழைத்தனம் அல்ல,
+கொள்கை மாற்றத்துக்குக் காரணம்.
+
+உயிர் போவதானாலும், பாகிஸ்தான் அமையவிடப்
+
+போவதில்லை என்று பேசிய காங்கிரஸ்காரர் உயிரோடுதான்
+உலவிக்கொண்டிருக்கிறார்கள்; பாகிஸ்தான் அமைந்திருக்கிறது.
+
+## Image 4: 004-ccb9196937.png
+
+- Image: `katturaigal/nanbargal_kaetpatharkku01/004-ccb9196937.png`
+
+அவர்களை, கோழைத்தனம் காரணமாகத்தானே, ஏக
+இந்தியா கொள்கையை விட்டுவிட்டீர்கள்; பாகிஸ்தானுக்கு
+இணங்கிவிட்டீர்கள் என்று நாம் கேட்கவில்லை. கேட்க
+மாட்டோம்; பண்பு வேண்டும், பொது வாழ்வில், நிச்சயம்
+வேண்டும் என்பதனால்.
+
+ஒருசமயம், காந்தியார் சொன்னார் சுயராஜ்யம் இன்ன
+காலத்துக்குள் பெறாவிட்டால், என் பிணம் அரபிக் கடலில்
+மிதக்கும் என்றர், அவர் சொன்னதற்கு நெடுங்காலத்துக்குப்
+பிறகே சுயராஜ்யம் கிடைத்தது. ஆனால் எந்த இழிமகனும்,
+அரபிக்கடலிலே ஏன் பிணம் மிதக்கவில்லை என்று கேட்க
+வில்லை.
+
+அந்த நிலைமைகளுக்கெல்லாம் காரணம், கோழைத்தனம்
+என்று எவரும் கூறியதில்லை; நேர்மையாளர்கள் கூறிட
+மாட்டார்கள்.
+டட கொள்ளை போன பிறகு கழகம் எதற்கு?
+
+நியாயமான கேள்வி. ஆனால் கேள்வியிலே முழுவடிவம்
+இல்லை, குத்தல் பேச்சுக்கு வேண்டுமானால் இந்தக் கேள்வி
+பயன்படாலாமேயன்றி, பிரச்சினையை அலசிப் பார்க்கும் வழி
+இது அல்ல. அனுதாபத்தோடு அணுகும் முறை இப்படி இருக்கக்
+கூடாது; அருவறுப்பைக் காட்ட மட்டுமே இக் கேள்வி
+பயன்படும். திராவிடநாடு தனிநாடு அவதற்கான கொள்கை
+போன பிறகு, கழகம் எதற்கு என்பதுதான் கேள்வியின் முழு
+வடிவமாக இருக்க முடியும் நான் சொல்லக்கூடியதெல்லாம்,
+திராவிடநாடு கொள்கை தவிர வேறு பலவும் கழகம் மேற்
+கொண்டுள்ளது. அவைகளை செயல்படுத்த கழகம் தேவைப்
+படுகிறது. உயிர் போனபின் உடல் ஏன்! மணம் போனபின் மலர்
+ஏன்! நரம்பு போனபின் யாழ் ஏன்! - என்றுபல கூறத்தோன்றும்.
+கூறுபவர் மீது எனக்கு வருத்தம் இல்லை. ஆனால் இந்த மிக
+எளிய முறையிலே எனக்கு வருத்தம் இல்லை. ஆனால் இந்த
+மிக எளிய முறையிலே உணர்ந்து கொள்ளக்கூடிய உண்மை
+எனக்கும் தெரிந்திருக்குமல்லவா? அப்படி. இருக்க நான் ஏன்,
+கழகம் இருக்க வேண்டும் என்று எண்ணுகிறேன்? கழகம்
+தொடர்ந்து பணியாற்றிடத் தேவை இருக்கிறது; வாய்ப்பு
+இருக்கிறது, கடமையும் இருக்கிறது. திராவிடநாடு தனிநாடு
+ஆவது என்பது நாம் கொண்டிருந்த மூலாதாரக் கொள்கை. அந்த
+கொள்கையைப் பேச, எழுத, அந்தக் கொள்கைக்காகக் கழகம்
+இயங்க, முடியாது என்ற நிலை ஏற்பட்டுவிட்டது. தடை
+
+## Image 5: 005-b8ff59a130.png
+
+- Image: `katturaigal/nanbargal_kaetpatharkku01/005-b8ff59a130.png`
+
+மீறப்படும் என்று அறிவித்துவிட்டு, கழகத்தை அழித்துக்
+கொள்ளலாம். ஆனால் கழகம் அழிந்த பிறகு, கொள்கை
+இருக்குமா பரவுமா என்றால், இருக்க இடமில்லை, பரவ வழி
+இல்லை. எனவேதான், கழகம் கொண்டிருந்த மூலாதாரக்
+கொள்கையைவிட நேரிட்டது. என்றாலும், மற்ற எத்தனையோ
+கொள்கைகள் உள்ளன, மக்களுக்கு நல்வாழ்வும் நாட்டுக்கு
+நல்லாட்சியும் பெற்றுத்தரத்தக்க கொள்கைகள். அவைகளுக்
+காகக் கழகம் தொடர்ந்து பணியாற்றலாம் என்று கருதிக்
+கொண்டிருக்கிறேன், இதுபோன்ற கேள்வியைக் கழகத்
+தோழர்கள் - என் உடன்பிறந்தோர் - கேட்கும்போது பரிவுடன்
+நான் பதில் அளிக்கிறேன். ஆனால் இதே கேள்வியை மற்றவர்கள்
+- அதிலும் நமது அழிவுக்காகவே தமது அறிவாற்றலைப் பயன்
+படுத்துபவர் - நம்மை இழிவு படுத்துவ்தையே கொள்கையாக்கிக்
+கொண்டவர்கள் கேட்கும்போது, சிரிப்பே வருகிறது. திட்டம்
+கொண்டிருந்த போது, ஏன் அந்தத் திட்டம்? விட்டு விடு! என்று
+பேசி ஏசினார்கள் திட்டத்தை விட்டுவிட்டபோது, ஏன் விட்டு
+விட்டாய்? எப்படி விட்டுவிடலாம்! என்று பேசி ஏசுகிறார்கள்.
+ஆக இவர்களின் நாக்குக்கு இப்போது ஓரே ஒரு வேலை!
+கழகத்தை ஏசுவது, கழகத் தோழர்களை ஆடுகள் என்று
+திட்டுவது. தலைவர்களை ஏய்ப்பவன், மேய்ப்பவன் கோழை
+என்றெல்லாம் தூற்றுவது. அவர்களின் அறிவுத் திறமை ஓரே
+் ஒரு காரியத்துக்குத்தான் பயன்பட்டு வருகிறது. என்மீது குறை
+. கண்டுபிடிக்க - கழகத்தின் போக்கிலே தவறு கண்டுபிடிக்க!
+். ஆட்சி முறையிலே உள்ள தவறுகளைக் கண்டறிய அல்ல;
+ஆளவந்தார்களின் போக்கிலே ஏற்பட்டுவிட்ட ஆணவம்;
+அதனால் ஏற்படும் விளைவுகள் யாவை என்று பார்த்திட அல்ல!
+ஊளர் மக்களை வாட்டி வதைத்திடும் வரிக்கொடுமைகளை
+எதிர்த்திட அல்ல! எதையாவது கண்டுபிடித்து கழகத்தை
+ஏசுவதற்கு மட்டுமே அவர்கள் அறிவு பயன்பட்டு வருகிறது.
+கொள்கை போன பிறகு கழகம் ஏன் என்று அவர்கள்
+கேட்கிறார்கள்! கேட்பவர்களிடம், திராவிடநாடு கொள்கை
+இல்லை! அனால் அந்த கொள்கை இல்லாமல் அவர்கள் ஒரு
+கட்சியாக இருக்கலாமாம்! நாம், இருக்கக்கூடாதாம்! இதற்குப்
+பெயர், அறிவுள்ள வாதமா? அடக்க முடியாத அருவறுப்பு
+என்றுதான் நான் இதனைக் கூறுகிறேன். எனவேதான், கழகத்
+தோழர் இதுபோலக்கேட்கும்போது, உள்ள நெகிழ்ச்சி
+பெறுகிறேன்; வெறும் காரச் சரக்குகள் கேட்கும்போது, சிரித்துக்
+கிடக்கிறேன். இரண்டு நிலையிலுமின்றி உள்ள சிலரும் இதனைக்
+கேட்கிறார்கள். சில நாட்களுக்கு முன்பு வெளியூரில் நான்
+
+## Image 6: 006-e0ef64a7e2.png
+
+- Image: `katturaigal/nanbargal_kaetpatharkku01/006-e0ef64a7e2.png`
+
+இருந்தபோது ஒரு நிருபர் என்னைப் பார்த்துக் கேட்டார்,
+திராவிடநாடு திட்டத்தை விட்டுவிட்ட. பிறகு, கழகம் என்ன
+செய்யும்? என்ன வேலை? என்று ஏசுவதற்கு அல்ல! உள்ளபடியே
+ஐயப்பாடு கொண்டு. நான் அவரைக் கேட்டேன், “ஐயா”
+திராவிடநாடு திட்டத்தை விட்டுவிடு என்று முன்பு உம்மைப்
+போன்றவர்கள் கூறி வந்தீர்களே - அப்போது திராவிடநாடு
+திட்டத்தை விட்டுவிட்டால், நாங்கள் என்ன செய்ய வேண்டும்,
+என்ன வேலையில் ஈடுபடவேண்டும், எப்படி ஒரு கட்சியாக
+இயங்கவேண்டும் என்று எண்ணி இருந்தீர்கள்? என்று
+கேட்டேன். நண்பர் நகைமுகம் காட்டினார். அதே வேலைதான்
+இனி' என்றேன் - விடைபெற்றுச் சென்றார். நாட்டிலே நாட்டுப்
+பிரிவினையைத் திட்டமாகக் கொள்ளாத எத்தனையோ
+கட்சிகள் உள்ளன; அவர்களே கேட்கிறார்கள், பிரிவினையை
+விட்டுவிட்ட பிறகு கழகம் ஏன் இருக்கவேண்டும் என்று.
+காரணம்? தந்தம் உடைபட்டாலும் யானை பெரிதாகத்தானே
+இருக்கும், கன்றினைவிட!! தங்கத்திலே ஒரு குறை இருந்தாலும்
+தரத்தினில் குறையுண்டோ!! இதைக்: கூறுகிறேன் அவர்கட்கு.
+கழகத் தோழர்கட்கோ, வேலையே இல்லை என்று எண்ணி
+விடாதீர்கள். நிரம்ப இருக்கிறது. நல்லாட்சி காண்பது என்பது
+அலட்சியப்படுத்தத்தக்க திட்டம் அல்ல.
+
+4. கழகம் அமைந்ததே நாட்டுப் பிரிவினைக்கு - அதற்கு
+
+வழி இல்லை என்ற பிறகு கழகம் ஏன்?
+
+இதுவும், முன்கேள்வி போன்றதுதான். சாயலில சிறிதளவு
+மாற்றம் இருக்கிறது. கழகம், அமைந்ததே நாட்டுப் பிரிவினைக்
+காகத்தான் என்பது முழு உண்மை அல்ல. பிரிவினைத்திட்டம்
+முழுக்க முழுக்க நம் இதயத்தில் வைத்துப் போற்றி வளர்க்கப்
+பட்டு வந்தது உண்மை. அதற்கு ஈடாக வேறோர் திட்டம்
+இல்லை என்ற உறுதி வளர்ந்தது உண்மை. ஆனால் கழகம்
+அமைக்கப்பட்டதே அதற்காக, அதன்மீது என்பது முழு உண்மை
+அல்ல. தி. மு. ௧. திராவிடர் கழகத்திலிருந்து பிரிந்து வந்தவர்களின்
+அமைப்பு திராவிடர் கழகத்தில் இருந்தபோது கொண்டிருந்த
+கொள்கைகளின்மீது, தி. மு. க. அமைத்தோம். திராவிடர் கழகம்,
+நாட்டுப் பிரிவினையைக் கொள்கையாகக்கொண்டு துவக்கப்
+படவில்லை. நீதிக்கட்சியைத் தவிரக் கட்சியாக்கியதில் கிடைத்த
+வடிவம், திராவிடர் கழகம். இந்த அமைப்புக்கு அடிப்படையாக
+இருந்துவந்தது, காங்கிரஸ் ஆட்சியை மாற்றி, நல்லாட்சி
+ஏற்படுத்தவேண்டும் என்பது அரசியல் கட்சியாகத்தான்
+அமைப்பு துவக்கப்பட்டது. நாளாவட்டத்தில், வளர்ச்சிக்குத்
+
+## Image 7: 007-56d38cf3dc.png
+
+- Image: `katturaigal/nanbargal_kaetpatharkku01/007-56d38cf3dc.png`
+
+தக்கபடி, கொள்கைகள் மலர்ந்தன, விரிவடைந்தன, திராவிடர்
+கழகம், விடுதலை இயக்கமாகி, நாட்டுப் பிரிவினையைக்
+கோட்பாடு ஆக்கிக்கொண்டது; அதிலிருந்து வெளியேறிய
+வர்கள் அதே விடுதலைக் கோட்பாட்டை வைத்துக்கொண்டு
+அமைத்ததுதான் தி. மு. க. ஆனால் அது வளர வளர, விடுதலை
+உணர்வு வேகமாக வளர்ந்ததுபோலவே, ஒரு தீவிரமான
+அரசியல் கட்சியாக பாராளுமன்ற முறைகொண்ட கட்சி
+யாகவும் தி. மு. ௧. வளர்ந்து நிற்கிறது. பாராளுமன்றக் கட்சியாக
+தி. மு. க. வளர்ந்தது, ஒரு கட்சி வளர்ச்சியிலே காணப்படும்
+ஒரு கட்டம் மட்டுமல்ல; ஒரு கட்சிக்கு ஏற்பட்டுவிட்ட,
+இரண்டாவது முனை என்று கூறலாம். இந்தப் பாராளுமன்ற
+முனை, விடுதலை உணர்வு முனைக்குத் துணைநின்று, இருமுனை
+களும் ஒருசேர வளர்ந்து வந்தன. எனவே பிரிவினையின்
+அடிப்படையிலே தான் தி. மு. ௧. அமைக்கப்பட்டது என்று
+கூறுவது முழு உண்மை ஆகாது. இப்போது விடுதலை
+முனையில் கழகம் இயங்க முடியாதபடி. சட்டம் - அரசியல்
+அமைப்புச் சட்டம் வடிவமெடுத்துவிட்டது. எனவே இனி
+விடுதலை முனையில் பணியாற்ற எந்த ஒரு அமைப்பினாலும்
+முடியாது. கழகம் இனி பாராளுமன்ற முனையிலே பணியாற்றும்
+நிலை பெற்றிருக்கிறது. இந்தநிலை பெற்றிருப்பதை நான்
+விளக்கத்திற்காகக் கூறுகிறேனே தவிர, சமாதானம் தேடி, மனதை
+சாந்திப்படுத்திக்கொள்ள அல்ல.
+
+5. சட்டத்திற்குப் பயந்து கொள்கையை விட்டுக்
+கொடுக்கலாமா?
+
+கூடாது! நிச்சயம் கூடாது. அனால், இது வெறும் சட்டம்
+அல்ல. சட்டம் கொட்டும், வலியைத் தாங்கிக் கொள்ளலாம்;
+செத்தாலும் செத்தவர்போக மற்றவர் பணியாற்றியபடி
+இருக்கலாம். இது சட்டம் அல்ல; தடை! தடை, நம்மில் ஒரு
+சிலருக்கு அல்ல. நம் அனைவருக்கும் தடை. இன்று மட்டுமல்ல,
+என்றென்றும். தடையை மீறலாம், ஆனால் மீறிடுவதன்மூலம்,
+இயங்க வழி கிடைக்காது. தடை இயங்கும் சக்தியைப் பறித்துக்
+கொள்கிறது. தடையை மீறலாம் - ஒருமுறை, பிறகும் தடை
+இருக்கும், மீற கழகம் இருக்காது. சட்டம் ஒரு பாம்பு என்று
+வைத்துக் கொண்டால், கடி.பட்டுச் சிலர் செத்த பிறகு,
+அடி பட்டுப் பாம்பு சாவதுபோல, சட்டத்தால் பலர் தாக்கப்
+பட்டு மடிந்த பிறகு மக்கள் பார்த்து சட்டத்தை மாற்றிவிடும்
+அதிகாரத்தை சட்டத்தால் சாகடிக்கப்பட்டவர்களின்
+உடனிருந்தாருக்கு அளிக்க முடியும். சட்டத்தால் சாகடிக்கப்
+
+## Image 8: 008-d18716f4b9.png
+
+- Image: `katturaigal/nanbargal_kaetpatharkku01/008-d18716f4b9.png`
+
+படுபவர் பற்றி உடன் இருப்போர் ஊராரிடம் முறையிட்டபடி
+இருந்தால், ஊரார் ஒருநாள் இல்லாவிட்டால் மற்றோர் நாள்,
+பலரைக் கொல்லக் காரணமாக இருந்த சட்டத்தை நீக்கிட, உடன்
+இருப்போருக்கு அதிகாரம் அளிப்பர். இந்தத் தடை, அப்படி
+அல்ல, இதிலே மீறுபவர்கள்போக மீதியுள்ளவர்கள், இந்த
+கொடுமையை மக்களிடம் முறையிட்டு, அதிகாரம் பெற்று
+இதனை மாற்றிட வழிதேடும்விதமாக அமையவில்லை. சட்டம்
+வேறு, இந்தத் தடை முற்றிலும் வேறு. சட்டத்துக்கு பயப்பட
+லாமா என்ற கேள்வி இதற்குப் பொருந்தாது.
+
+6. காங்கிரஸ் கட்சி கடுமையான தண்டனைகளைப்
+
+பெற்றதே! கலங்கவில்லையே!
+
+ஆம்! காங்கிரஸ் கட்சி மட்டுமல்ல, மற்றும் எத்தனையோ
+கட்சிகள். ஆனால், சட்டங்கள், அவசரச் சட்டங்கள்
+ஆகியவற்றின் மூலம் ஏற்பட்ட கொடுமைகளைத்தான் தாங்கிக்
+கொண்டன - சந்தித்தன. அந்தக் கட்சிகளை மூலாதாரக்
+கொள்கையைப் பேசாதே, எழுதாதே, அதற்காக கட்சி
+நடத்தாதே, அதைச் சொல்லிக்கொண்டு தேர்தலில் நிற்காதே
+என்று ஒரு தடைபோட்டு, கொலைபட்டு இறப்பதா, தற்கொலை
+செய்துகொண்டு இறப்பதா என்ற இக்கட்டில் ஒருபோதும் சிக்க
+வைக்கவில்லை. கழகத்துக்கு ஏற்பட்டுள்ளது, முற்றிலும் வேறான
+நெருக்கடி.
+க் தடை மீறப்படும் என்றால் என்ன நடக்கும்?
+
+மீறுபவர்கள் தண்டிக்கப்படுவார்கள்! மீறாவிட்டாலும்,
+பிரிவினையைக் கொள்கையாகக் கொண்ட கட்சி கலைக்கப்
+பட்டு, அதில் உள்ளவர்கள் சிறைப்படுவார்கள். அந்தக் காரியம்
+நடந்துகொண்டி ருக்கும்போதே, காங்கிரஸ் முதலிய கட்சியினர்,
+கழக உறுப்பினர்களை அணுகி, தடை மீறி என்ன பலன்?
+கழகத்தில் இருக்காதீர்கள். சொத்து பறிமுதலாகும்; வேலை
+போகும், வெளியே இருக்க முடியாது என்று கிலி மூட்டி,
+கழகத்தை விட்டுவிட்டதாக எழுதி வாங்கிவிடுவார்கள். மூன்று
+மாதத்தில் கழகத்தை இருந்த இடம் தெரியாதபடி ஆக்கிக்
+காட்டுவார்கள்.
+8. அப்படி நேரிட்டாலும் வீரத்தைப் பாராட்டிப்
+
+பேசுவார்களே, இன்று ஏசுபவர்கள்!
+
+இல்லை! ஆகாத ஒரு திட்டத்துக்காக, வீணான அவதி
+தேடிக்கொண்டு சிலர் சிறை சென்றுவிட்டார்கள். இனி
+
+## Image 9: 009-fb58ae6082.png
+
+- Image: `katturaigal/nanbargal_kaetpatharkku01/009-fb58ae6082.png`
+
+நீங்களோ, பிரிவினை பேச முடியாது, அதற்காக ஒரு கட்சி
+நடத்த முடியாது, இந்த நிலையில், தேம்பித் தவித்து என்ன
+பயன்? செய்யக்கூடிய அளவுக்கு தொண்டாற்றலாம் வாரீர்,
+எமது கட்சியில் சேரீர்! என்று அழைத்து, கணக்குப் பார்த்துக்
+களிப்படைவார்கள்,; பாராட்டவும் மாட்டார்கள் துணை
+நிற்கவும் மாட்டார்கள்.
+
+9. கழகம் அடியோடு போய்விட்டால்தான் என்ன
+
+பெரிய நஷ்டமா அது?
+
+கழகம் போய்விட்டால், காங்கிரஸ் எதேச்சதிகாரத்தைத்
+தட்டிக் கேட்க, தடுத்து நிறுத்த, எதிர்த்து அடக்க தி. மு. ௧.
+அளவுக்குக் கட்டுக்கோப்பாக வளர்ந்து ஆற்றல் பெற்றுள்ள
+கட்சி தமிழகத்தில் வேறு இல்லை. எந்தக் கட்சியுடன் ஒப்பிட்டுப்
+பார்த்தாலும், கழகத்தின் அளவு நன்கு தெரியும், பெரிது என்பது.
+இத்தனை பெரிய கழகமே கலைந்து போய்விடுகிறது என்றால்,
+காங்கிரசு சர்வாதிகாரக் கட்சியாவதை தடுத்திடும் ஆற்றல்
+கொண்ட ஒரு கட்சி இன்னும் ஓர் இருபது ஆண்டுகளுக்குத்
+தமிழகத்தில் எழ முடியாது.
+10. தடைமீறி, தலைவர்கள் சிறைப்படட்டும். மற்றவர்கள்
+
+வேறு கட்சியில் சேர்ந்து காங்கிரசை வீழ்த்தட்டுமே.
+
+நல்ல யோசனை, அனால் இதிலே உள்ள குறை என்ன
+என்றால், வேறு கட்சிகள் என்று குறிப்பிடும்போது அந்தக்
+கட்சிகளிலேயும் திராவிடநாடு திட்டம் இல்லை என்பதையும்,
+அந்தக் கட்சிகள் திராவிடநாடு கேட்காது என்பதையும், மறந்து
+விடக் கூடாது. திராவிடநாடு திட்டம் தீது, பைத்தியக்காரத்தனம்
+என்று பேசுவதுதான் அந்தக் கட்சிகளின் வேலை. அப்படிப்
+பட்ட கட்சிகளுக்கு அதரவு கொடுத்து வெற்றி தேடினால்
+திராவிடநாடு திட்டத்துக்கு என்ன இலாபம்? திராவிடநாடு
+திட்டத்துக்காக, தடை மீறி, சிறைப்பட்டார்கள் என்ற உணர்ச்சி
+காரணமாக, திராவிடநாடு திட்டத்தைப் பேசாத, நம்பாத,
+கொண்டி ராத, எதிர்க்கிற, வேறு கட்சிக்கு, நாம் துணை தேடிக்
+கொடுக்கும் விபரீதம் ஒற்கடில் இது எந்த வகையிலே, முறையிலே
+நியாயம்?
+
+11. திகைப்பு காரணமாக திடீர் மாற்றம் ஏற்படுத்தி
+விட்டீர்கள் - இல்லையா?
+எழக்கூடிய எல்லாவிதமான எண்ணங்களையும், சீர்தூக்கிப்
+பார்த்து, கலந்து பேசிப் பேசிப் பேசி, கடைசியாக இந்த
+
+## Image 10: 010-c5354cb6b7.png
+
+- Image: `katturaigal/nanbargal_kaetpatharkku01/010-c5354cb6b7.png`
+
+முடிவுக்கு வந்திருக்கிறேன். இந்த வழியில், பணியாற்றி வந்தால்,
+திராவிடநாடு தனிநாடு எனும் திட்டத்தின் மூலமாக நாம்
+அடைய வேண்டும் என்று கருதிடும் பல நலன்களை, நாம்
+பெற்றிட வழி கிடைக்கும் என்று மனதார நம்புகிறேன்; நல்லாட்சி
+அமைத்திட வழி கிடைக்கும் என்று நம்புகிறேன். உதவிக்கு யாரும்
+கிடைக்காத நிலையில் வண்டி உளைச்சேற்றில் இறங்கினால்
+பயணம் அடியோடு தடைபட்டுவிடும். பாதையைப் பார்க்கிறேன்
+பயங்கர உளை தெரிகிறது. வண்டியை வேறு பக்கம் திருப்பு
+கிறேன் - எனக்கு இன்னல் ஏற்படும் என்ற எண்ணத்தால் அல்ல,
+வண்டியில் உள்ளவைகள் பாழ்படக்கூடாது என்பதற்காக. இந்த
+என் மனநிலையின் தூய்மையினை உணருபவர்கள், பயணத்தில்
+என்னுடன் வருவார்கள் என்று நம்புகிறேன். நல்லாட்சி
+அமைத்திடும் பணியிலே, நாம் ஈடுபடலாம் வாரீர் என்று
+அழைக்கிறேன்.
+
+1.2. விடுதலைக்காகப் போராடியவர்கள், எட்டு பத்து
+ஆண்டுகள் கூடச் சிறையில் கிடந்தனர் - ஏன் நாம்
+அதுபோலக் கொடுமையைத் தாங்கிக் கொள்ளக்
+கூடாது?
+
+கொடுமையைத் தாங்கிக்கொள்ள மனமில்லாதவர்களின்
+கூடாரமல்ல, தி. மு. ௧. ஆனால், கொடுமைகளைத் தாங்கிக்
+கொண்டவர்கள் சிறையில் இருந்தபோது, வெளியே அவர்களுக்
+காகப் பரிந்து பேசவும், அவர்களின் கொள்கையை இயன்ற
+முறையிலெல்லாம் பரவச் செய்யும், பலர் இருந்து வந்தனர்,
+மக்கள் மனதிலே எழுச்சிக் கனலை வளர்த்து வந்தனர், எடுத்துக்
+காட்டு தேவை என்றால் ஜேோேோமோ கெனியாடாவைக்
+காட்டலாம். எட்டு ஆண்டுகள் சிறை. ஆனால், கெனியாடா
+சிறையில் இருந்த போது வெளியே டாம்போயா போன்றவர்கள்
+விடுதலைக் கனலை வளர்த்து வந்தனர், சட்டத்தின் கோரப்
+பற்களிலே சிக்காமல், கெனியாடா சிறைப்பட்ட பிறகும்,
+நாட்டிலே கொந்தளிப்பு நிற்கவில்லை என்ற நிலையை
+டாம்போயாவும், அவர் கட்சியான, :கானு'வும் செய்து வந்தது.
+அதற்கு வெள்ளை அரசு தடை விதிக்கவில்லை. ஜோமோ
+கெனியாடா விடுதலை கேட்கிறார் என்று கூறிக்கூடத் தண்டிக்க
+வில்லை. பயங்கர இயக்கமான 'மாவ்-மாவ்' இயக்கத்தை நடத்து
+கிறார் என்று பழி சுமத்தித் தண்டித்தனர். விடுதலை கேட். பதே
+குற்றம் என்று அங்கு தடைச் சட்டம் இல்லை. எனவே;
+கெனியாடா சிறைப்பட்ட பிறகும் விடுதலை உணர்ச்சி வளர்க்கப்
+பட்டு வந்தது - சட்டம் இடங்கொடுத்தது. டாம்போயா கட்சி
+
+## Image 11: 011-a492c9bad7.png
+
+- Image: `katturaigal/nanbargal_kaetpatharkku01/011-a492c9bad7.png`
+
+ஆளுங்கட்சி ஆகத்தக்க நிலை பெற்றது. கெனியாடா விடுதலை
+பெற்றதும், அவரை வரவேற்க, அவருக்குத் துணை நிற்க, “கானு'
+கட்சி பலமாக இருந்தது. இங்கு நிலைமை முற்றிலும் வேறு.
+என்னை எட்டு ஆண்டுகள் சிறையில் தள்ளிவிடட்டும் நான்
+உள்ளே இருக்கும்போது, திராவிடநாடு திட்டத்தை, விடுதலை
+உணர்வைப்பரப்ப, வழி உண்டா? தடைச்சட்டம் அதற்கு
+இடங்கொடுக்காது. எனவே விடுதலை உணர்வை வளர்த்து இங்கு
+ஒரு கானு' கட்சி நடத்திட வழி இல்லை. நான் எந்த விடுதலை
+உணர்ச்சி பரப்புவதற்காகச் சிறைப்படுகிறேனோ, அந்த விடுதலை
+உணர்ச்சியைத் தொடர்ந்து பரப்ப, முடியாது - தடைச் சட்டம்
+அப்படி ஒரு தனி நபரையோ, ஒரு கழகத்தையோ இயங்க
+அனுமதிக்காது. எனவே, விடுதலை உணர்ச்சி பரவ முடியாது.
+பரவ வழி இல்லாததால், எதற்காகச் சிறை கிடைக்கிறதோ அந்த
+நோக்கம் ஈடேற வழிகிடைக்காது. மற்ற நாட்டு விடுதலை
+இயக்கங்களின் முறைகளும் வேறு; அவற்றினை அடக்க அங்கு
+கையாளப்பட்ட முறைகளும் முற்றிலும் வேறானவை. இங்கு
+நானும் நமது தோழர்களும் சிறைப்பட்டபிறகு, விடுதலை
+உணர்ச்சியைப் பரப்ப, கம்யூனிஸ்டு கட்சியோ, அல்லது இன்று
+வீரம் போதிக்கும் கட்சிகளோ, முன் வருமா! ஒருக்காலும்
+இல்லை. அதுமட்டுமா! சிறைப்பட்டுக் கிடக்கிறார்கள் என்று
+பரிவு, பச்சாதாபம், ஆதரவு காட்டுமா? காட்டாது! எந்தக்
+கொள்கைக்காக நாம் சிறைப்படுகிறோமோ, அந்தக்
+கொள்கைக்கு ஆதரவு திரட்டுமா? திரட்டாதது மட்டுமல்ல;
+திராவிடநாடு திட்டமே அபத்தம், ஆபத்தானது என்று ஆளுங்
+கட்சியுடன் சேர்ந்துகொண்டு ஏசி, நம்மைச் சிறையில்
+வைத்திருப்பது நியாயம் என்று வாதாடும்! அவ்வளவு
+நல்லெண்ணம், நம்மிடம்!! அறிவார்களே, தோழர்கள்.
+
+13. உள்ளபடியே, இந்திய ஐக்கிய அமைப்பு கெட்டுவிடும்
+நாடு துண்டாடப்பட்டுப் போய்விடும் என்ற அச்சம்
+காரணமாகவா தடைச்சட்டம் பிறந்தது?
+
+மெத்தவும் முக்கியமான கேள்வி. தடைச் சட்டம்
+போடுவது, இந்திய ஐக்கிய அமைப்பும் அரசுரிமையும் கெடக்
+கூடாது என்பதற்காகத்தான் என்று ஆளுங்கட்சி வாதாடுகிறது.
+ஆனால் இதே ஆளுங்கட்சி, சில நாட்களுக்கு முன்புவரை;
+திராவிடநாடு திட்டத்தைத் தமிழகம் அதரிக்கவில்லை; தி. மு.
+கழகத்துக்கு ஓட்டுப் போட்டவர்களெல்லாம் பிரிவினைக்கு
+ஓட்டுப் போட்டவர்கள் என்று கூற முடியாது. மேலும் தமிழகத்
+திலே ஓரளவு ஆதரவு இருப்பதாகச் சொன்னாலும், திராவிட
+
+## English Translation
+
+## 1. Why did you abandon the plan that Dravida Nadu should become a separate country?
+
+Friends know that I would not have reached this decision through fear that some hardship might befall me or our comrades. What must be closely observed and understood is that even after accepting hardship, the road for continuing our work is being closed.
+
+For the past year I have discussed this issue with many Kazhagam comrades and learned their views. They understand well that the new prohibitory law seeks to destroy the very arrangement through which an idea may be expressed—that is, the Kazhagam itself. Those who desire the Kazhagam to continue working therefore know that only a decision like the present one is possible.
+
+Whether it is the Dravida Nadu plan or any other, propaganda requires an organisation or party, and it cannot function unless the Constitution permits one. Some countries prohibit every political party except the ruling party. Political parties do not exist there because there is no path for them to operate, not because they lack courage.
+
+Our plan has now been placed in that same condition. Not an ordinary law but the Constitution says we cannot operate the Kazhagam while retaining that plan. If a site permits a building only six feet wide and eight feet long, one cannot erect there a building sixteen feet wide and eighteen feet long.
+
+## 2. They say cowardice made you abandon the policy. Is that so?
+
+Do they merely say it? They go about reviling us. Like stored water bursting through a bank, the hatred many hold towards me and the Kazhagam now pours from their mouths.
+
+Those who abuse us as cowards first refuse to understand that it is meaningless to say we abandoned the policy. We did not discard it because we considered it unwanted, evil or impossible. The prohibitory law has taken it from us.
+
+What is cowardice? It is lacking courage to endure the hardship, loss and danger that may accompany accepting responsibility.
+
+To tremble at the thought that life, property, title, office or comfort may disappear, and consequently alter one's position, thought, action and purpose—that is cowardice. To fear imprisonment for one's policy is cowardice.
+
+But it is improper to call me a coward as I go to prison for the sixth time, or to call our comrades cowards when they work without fear of prison. Such poisonous speech from the resentful has no meaning.
+
+Those who say cowardice made us abandon the policy are not heroes whose hands killed tigers, feet felled elephants, mouths bit lions to death and eyes burned everything to ash. They are people who, while imprisoned, submitted petitions, beat their breasts and wept, sent emissaries and performed every ritual offering while pleading, “Release us; send us out.” You know this.
+
+It is malicious and absurd for people afraid of prison to call Kazhagam members cowards when they have entered the anti-Hindi struggle prepared to be jailed.
+
+They say reluctance to lose office is cowardice. Many participating in the DMK's anti-Hindi moral struggle—including me—may lose their present positions. They enter the struggle knowing this. Except for the confused, no one will accept the claim that such comrades are cowards or pay heed to those who abuse them.
+
+The Kazhagam is filled with people who possess the courage to accept hardship and loss and have already done so. I have seen them struck by unbearable pain and watched the country honour their spirit of sacrifice.
+
+I saw the heart-rending condition of Jagadambal Ammal as she lamented over her husband murdered by villains. I also saw people gather, elect her to the Legislative Assembly and honour her.
+
+I saw A. P. Arasu confined in the Poonamallee police lock-up, blood from a police baton charge soaking his shirt. I later saw him stand before me in the majestic robes of the Mayor of Madras.
+
+At Annamalai University I saw thugs, instigated by Congress, split open student Mathialagan's head. I now see Assembly member Mathialagan argue in ways that give ministers headaches.
+
+I saw Congressmen leave Karunanidhi half-dead on a Puducherry street, saying, “He is finished.” I now see him seated as Deputy Leader of the Opposition, piercing ministers with his questions.
+
+Kazhagam members possess courage to accept every hardship and loss. Cowardice did not cause the policy change.
+
+Congressmen who said they would rather lose their lives than allow Pakistan to be formed are still walking about alive, while Pakistan exists. We do not ask them, “Did cowardice make you abandon united India and accept Pakistan?” We shall not, because public life must have decency and integrity.
+
+Gandhi once said that if self-rule were not obtained by a certain time, his corpse would float in the Arabian Sea. Self-rule came long after the stated time, but no degraded person asked why no corpse floated in that sea.
+
+No one called such circumstances cowardice; honest people will not.
+
+## 3. Once the policy has been stolen, what is the Kazhagam for?
+
+It is a fair question, but incomplete. It may serve as a taunt, not as a way to analyse the issue. Sympathy would not approach matters this way; the question merely displays disgust.
+
+Its complete form is: “Once the policy that Dravida Nadu should become a separate country is gone, what is the Kazhagam for?”
+
+My answer is that the Kazhagam has adopted many policies besides Dravida Nadu, and it remains necessary to implement them. One may say: why the body after life has gone, the flower after fragrance has gone, or the lute after its strings are gone? I bear no resentment towards the speaker. Yet surely I too know this readily understood truth. Why, then, do I believe the Kazhagam must remain?
+
+There is a need, an opportunity and a duty for it to continue working.
+
+Making Dravida Nadu a separate country was our foundational policy. A situation now exists in which we cannot speak or write it, nor operate the Kazhagam for it. We may announce that we will defy the ban and thereby destroy the Kazhagam. But once the organisation is destroyed, will the policy remain or spread? There will be no place for it to exist and no road for it to spread.
+
+That is why we had to relinquish the foundational policy. Yet many other policies remain, capable of securing a good life for the people and good government for the country. I believe the Kazhagam can continue working for them.
+
+When Kazhagam comrades—my siblings—ask this question, I answer affectionately. When others ask it, especially those who use all their intelligence for our destruction and make humiliating us their policy, I can only laugh.
+
+While we held the plan, they reviled us: “Why this plan? Abandon it!” Once we did, they reviled us again: “Why did you abandon it? How could you?” Their tongues now have only one occupation: abusing the Kazhagam, calling its comrades sheep and reviling leaders as deceivers, shepherds and cowards.
+
+Their intelligence serves one purpose: finding fault with me and the Kazhagam—not identifying defects in government, studying the rulers' arrogance and its consequences, or resisting cruel taxes that torment village people.
+
+They ask why the Kazhagam should remain after losing its policy. Those asking possess no Dravida Nadu policy themselves, yet they may remain a party without it while we supposedly may not. Is this intelligent argument? I call it uncontrollable disgust.
+
+Thus I am moved when a Kazhagam comrade asks, but laugh when merely caustic traders do. Some who belong to neither group also ask.
+
+Recently, while I was out of town, a reporter asked without mockery but genuine doubt: “After abandoning the Dravida Nadu plan, what will the Kazhagam do? What work remains?”
+
+I replied: “People like you previously asked us to abandon it. At that time, what did you imagine we should do after doing so? What work did you expect us to undertake, and how did you think we should operate as a party?”
+
+The friend smiled. “That same work remains,” I said, and he departed.
+
+Many parties in the country do not seek partition, yet they ask why the Kazhagam should exist after abandoning it. Why? Even with a broken tusk, an elephant remains larger than a calf. Even with an imperfection, does gold lose its quality? That is my answer to them.
+
+To Kazhagam comrades I say: do not imagine there is no work. There is plenty. Establishing good government is no trivial programme.
+
+## 4. Was the Kazhagam not created for partition? Once that road is closed, why should it remain?
+
+This resembles the previous question with a slight change of shade.
+
+It is not wholly true that the Kazhagam was established only for partition. We cherished and cultivated that plan wholeheartedly, and became certain no other was equivalent. But it is not entirely true that the organisation was founded solely upon it.
+
+The DMK was formed by people who left the Dravidar Kazhagam, upon the policies they held there. The Dravidar Kazhagam itself was not founded with partition as its initial policy. It was the form obtained by transforming the Justice Party into a non-electoral organisation. The foundation had been the political objective of replacing Congress rule with good government.
+
+As the organisation grew, its policies blossomed and expanded. The Dravidar Kazhagam became a liberation movement and adopted partition. Those who left it retained that liberation principle when forming the DMK.
+
+As the DMK grew, however, it developed both an increasingly intense liberation consciousness and a vigorous parliamentary political wing. This parliamentary wing was not merely a stage in party growth but a second front. It supported the liberation front, and both grew together. Thus it is not fully true that the DMK was founded solely on partition.
+
+The law—the Constitution—has now taken a form that prevents the Kazhagam operating on the liberation front. No organisation can henceforth work there. The Kazhagam is now positioned to work on the parliamentary front. I say this as explanation, not to seek consolation or pacify my mind.
+
+## 5. Can a policy be surrendered through fear of law?
+
+It should not—certainly not. But this is no ordinary law. One can endure the pain inflicted by a law; even if some die, others can continue working. This is a prohibition.
+
+It is not a ban upon a few of us, but upon everyone—not only today, but forever. It may be defied, but defiance does not open a road for operation. The prohibition removes the ability to function. Defy it once and afterward the ban remains while the Kazhagam does not.
+
+Suppose a law is a snake. After it bites and kills some people, others may beat the snake to death. Those surviving victims can appeal to the public, and sooner or later the public may grant them authority to remove the murderous law.
+
+This prohibition is different. It is not arranged so that after some defy it, those remaining may complain to the people, gain authority and change it. Law and this prohibition are entirely different. “Should one fear a law?” does not fit the case.
+
+## 6. Congress endured severe punishments without losing heart.
+
+Yes. Not only Congress, but many parties. They endured cruelties caused by laws and emergency laws. But they were never placed in the predicament of choosing murder or suicide through a prohibition saying: “Do not speak or write your foundational policy; do not operate a party for it; do not contest elections proclaiming it.”
+
+The Kazhagam faces an entirely different crisis.
+
+## 7. What happens if the ban is defied?
+
+Those who defy it will be punished. Even without defiance, a party holding partition as its policy will be dissolved and its members imprisoned.
+
+While this happens, Congress and other parties will approach Kazhagam members and frighten them: “What is gained by defiance? Leave the Kazhagam. Your property will be confiscated, your job lost and you cannot remain outside prison.” They will obtain written resignations and within three months erase every sign that the Kazhagam existed.
+
+## 8. Even then, would today's critics not praise your courage?
+
+No. They would say: “Some sought useless suffering and went to prison for an impossible plan. You can no longer speak partition or operate a party for it. Why languish? Come perform whatever service is possible; join our party.” Then they would rejoice over their arithmetic. They would neither praise nor support us.
+
+## 9. What great loss if the Kazhagam disappears completely?
+
+No other party in Tamil Nadu has grown as organised and capable as the DMK in questioning, restraining, opposing and checking Congress autocracy. Comparison with any party reveals the Kazhagam's scale.
+
+If so great an organisation dissolves, no party capable of preventing Congress becoming dictatorial can arise in Tamil Nadu for another twenty years.
+
+## 10. Let leaders defy the ban and be imprisoned. Others can join another party and defeat Congress.
+
+It sounds good, but remember that those other parties do not possess or demand the Dravida Nadu plan. Their work consists in calling it evil and insane. What benefit comes to that plan if we support such parties and secure their victory?
+
+It would be a grotesque outcome if, because some were imprisoned for defying the ban in support of Dravida Nadu, we gathered support for another party that neither speaks, believes nor holds the plan, but opposes it. In what way is that just?
+
+## 11. Bewilderment caused you to make a sudden change, did it not?
+
+I reached this decision only after weighing every possible thought and discussing it repeatedly. I sincerely believe that by working along this road we can obtain many benefits we had hoped to secure through a separate Dravida Nadu and can establish good government.
+
+If a cart enters deep mud where no help is available, its journey ends completely. I see a terrifying bog in the road and turn the cart another way—not from fear of suffering to myself, but to prevent everything aboard from being ruined.
+
+I trust those who understand the purity of this state of mind will travel with me. I invite you: come, let us undertake the work of establishing good government.
+
+## 12. Those who fought for liberation remained in prison for eight or ten years. Why should we not endure the same cruelty?
+
+The DMK is not a camp of people unwilling to endure cruelty. But while those fighters were in prison, many outside advocated for them, spread their policy by every possible means and nurtured sparks of awakening in the public mind.
+
+Jomo Kenyatta provides an example. He spent eight years in prison, but outside, people such as Tom Mboya continued cultivating the flame of liberation. Without being caught in the law's cruel teeth, Mboya and his party KANU ensured agitation did not cease after Kenyatta's imprisonment.
+
+The colonial government did not prohibit that. Kenyatta was not punished merely for demanding liberation, but accused of leading the feared Mau Mau movement. There was no law making the demand for freedom itself a crime. Thus liberation consciousness continued to grow while he was imprisoned; the law allowed it. Mboya's party became capable of governing, and when Kenyatta was released, a powerful KANU stood ready to receive and support him.
+
+The condition here is entirely different. Let them imprison me for eight years. While I am inside, is there any road for spreading the Dravida Nadu plan and liberation consciousness? The prohibition allows none. There can be no KANU here cultivating liberation feeling, because the law permits neither an individual nor organisation to operate for it.
+
+The very consciousness for which I would be imprisoned cannot continue to be propagated. With no road for it to spread, the objective for which imprisonment was accepted cannot be fulfilled.
+
+Other countries' liberation movements and the methods used against them were different. After our comrades and I are imprisoned, will the Communist Party or parties now preaching courage spread this liberation consciousness? Never.
+
+Will they show sympathy or support because we lie imprisoned? No. Will they gather support for the policy that put us there? Not only will they refuse; they will join the ruling party in calling Dravida Nadu absurd and dangerous and argue that keeping us imprisoned is just. Such is their goodwill towards us. Comrades know it.
+
+## 13. Was the prohibitory law truly born from fear that Indian unity and sovereignty would be damaged and the country fragmented?
+
+This is a very important question. The ruling party argues that the ban protects India's unity and sovereignty. Yet until only a few days ago the same party said Tamil Nadu did not support Dravida Nadu; that not everyone who voted for the DMK voted for partition; and that even if it had some support in Tamil Nadu, Dravida—
+
+*[Question 13 continues in Part 2.]*

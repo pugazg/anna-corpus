@@ -1,0 +1,1 @@
+../../md_pages/sorpozhivugal/vadavaridamirunthu_pirivom.md

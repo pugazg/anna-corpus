@@ -1,0 +1,470 @@
+# பாதி வழியில்...! / Halfway...!
+
+**Tamil title:** பாதி வழியில்...!  
+**English title:** Halfway...!  
+**Source file:** `katturaigal/paathivazhi.md`
+
+## Source Tamil (verbatim)
+
+- Source image folder: `/Users/pugazhendhirajendran/Documents/Codex/2026-07-09/https-www-annavinpadaippugal-info/outputs/annavin_text_extractor/ocr_images/katturaigal/paathivazhi`
+- OCR language: `tam`
+- Tesseract page segmentation mode: `3`
+- OCR cleanup: `enabled`
+
+## Image 1: 001-f16ea5c40f.png
+
+- Image: `katturaigal/paathivazhi/001-f16ea5c40f.png`
+
+பாதி வழியில்...!
+
+“நமது அரசியலமைப்பு, மாநில சட்டமன்றங்களின்
+
+அதிகாரங்களை, அது பொருளாதாரத் துறையைப்
+பொறுத்தவரையில், மிகமிகக் குறைத்து விட்டிருக்கிறது என்பது
+மறுக்க முடியாத உண்மை. இந்த நிலை, கூட்டாட்சி தத்துவத்
+திற்கு ஒவ்வாதது மட்டுமல்ல, பாராளுமன்ற முறைக்கே ஊறு
+தேட வல்லது. நாட்டு நலனுக்கேற்ற திட்டங்களை நிறைவேற்று
+வதில் மாநிலங்களின் பொறுப்பு மேலும் வளர்ந்து வருவதையும்,
+பொறுப்பு வளர வளர, அரசியல் சட்டம் வகுத்திருக்கும்
+எல்லைக் கோட்டினை அவைகள் அடிக்கடி மீறுவதை நாம்
+காண்கிறோம். இந்தப் பிரச்னை சாதாரணமானதல்ல! இந்த
+நாட்டில் ஜனநாயகம் நிலைத்திட வேண்டுமானால், இதற்கோர்
+முடிவு கண்டாகவேண்டும்.”
+
+ இத்தகையிதோர் கருத்து, சற்றும் எதிர்பாராத இடத்திலே
+யிருந்து வந்திருக்கிறது. என்பதை எண்ணும்போது, உண்மை
+யிலேயே நம் உள்ளத்திலெல்லாம் மகிழ்ச்சி பிறக்கிறது.
+
+இதே கருத்தினை, நானோ, நாவலர் நெடுஞ்செழியனோ -
+சம்பத்தோ கருணாநிதியோ -.அ௮ன்பழகனோ - நடராஜனோ,
+மற்றும் கழகத் தோழர்களில் வேறொருவரோ கூறியிருந்தால்,
+அதிலே மதிப்பதற்கொன்றுமில்லை - நாள்தோறும் நடைபெறு
+கின்ற நிகழ்ச்சி.
+
+மத்திய அரசு மாநிலங்களை ஆட்டிப் படைக்கிறது -
+சூத்திரதாரி டில்லியில்; சொகுசாக உலா வருகின்ற கொலுப்
+பொம்மைகள் இங்கே - என்று நாம் தினம் தினம்தான்
+சொல்லுகிறோம், ஆணித் திறமான ஆதாரங்களோடு!
+
+இந்த அவல நிலையினை, ஆகாத முறையினை, அகற்றிட
+நாடு நமத்ாக வேண்டும், நமது நாடாம் திராவிடத்தின் ஆட்சி நம்
+கரத்திலே ஒப்படைக்கப்படல் வேண்டும் என்று வழிவகை
+களையும், எடுத்துக் கூறுகிறோம், எதிர்ப்புகளையும் ஏளனங்
+
+௪.1௦.
+
+## Image 2: 002-3405dbdc3f.png
+
+- Image: `katturaigal/paathivazhi/002-3405dbdc3f.png`
+
+களையும் பொருட்படுத்தாமல், எதையும் தாங்கிடும் இதயத்தின ்
+ராக.
+
+மாநிலங்களுக்கு ஒதுக்கப்பட்டிருக்கின்ற அதிகாரம் /
+போதாது -. மத்திய அரசின் ஆலக் அவைகட்டுப்பட்டு
+நடந்திடும் போக்கு ஆகாது. இதற்கோர் மாற்றம் எம்
+முறையிலேனும் கண்டாக வேண்டும் - என்று நமது கழகத்தவர்
+எவரும் பேசுவதிலே வியப்பில்லை.
+
+ஆனால் நாமெல்லாம் வியக்கத்தக்க வகையில் இந்தக்
+கருத்தினை வெளியிட்டிருப்பவர், ஒரு கம்யூனிஸ்டுத் தோழர் -
+வங்கத்தைச் சேர்ந்தவர் - பூபேஷ் கு.ப்தா என்பார்!
+
+நாம் நாள்தோறும், செல்லுமிடமெல்லாம். சொல்லி
+வருகின்ற கருத்துக்கு, செஞ்சட்டை முகாமிலிருந்தே இத்தகைய
+தோர் ஆதரவு கிடைத்திடுவது கண்டு நமக்கெல்லாம் மஇழ்ச்சி
+ஏற்படாமலிருக்க முடியாது.
+
+காரணம், அவர்கள் தமது கருத்திற்கு மாறான . எந்தக்
+கருத்தினையும் ஏற்றுப் பழக்கப்படாதவர்கள் - எதையும் எளிதில்
+'பிற்போக்குவாதம்” என்று பெயரிட்டுவிட்டு ஒதுக்கித் தள்ளி
+விடுகின்ற சுபாவத்தினர்[!
+
+இதே கருத்தினைத்தான் இன்னும் ஒருபடி மேலே சென்று,
+திராவிட முன்னேற்றக் கழகம். “*திராவிட நாடு திராவிடருக்கே”*
+என்ற கோரிக்கையின் மூலம் நாட்டு மக்கள் முன்னிலையில்
+வைத்து வருகின்றது. .
+
+அதை, கம்யூனிஸ்டுக் கட்சியினர் அறியாதவரல்லர்;
+ஆனாலும் என்ன' செய்தார்கள்?
+
+ஆகா! நீங்கள் சொல்லுவதுதான் சரி, இதோ நாங்களும்
+வருகின்றோம், நல்லதோர் காரணத்திற்காக, நியாயம் பெறுவதன்
+பொருட்டுப் போராடும் என்றா கூறினார்கள்?
+
+திராவிடமாம், பிரிவினையாம். வடக்காம் தெற்காம்,
+இவர்களுக்கென்ன புத்தி பேலிப்பா என்று கேலி பேசினார்கள்!
+பாரதம் ஒன்றன்றோ, பாவிகளே, அதைத் துண்டாட நினைக்
+கின்றீரே, இது ஆகுமா, அடுக்குமா, என்று சென்றவிடமெல்லாம்
+
+நம்மைச் சாடினார்கள்!!
+
+ர
+
+## Image 3: 003-e4e9477075.png
+
+- Image: `katturaigal/paathivazhi/003-e4e9477075.png`
+
+சாடியதோடு மட்டுமா! இந்தச் சண்டாளர்களை ஒழித்துக்
+கட்டி விடுகிறோம் என்று தீர்மானமே நிறைவேற்றினார்கள்,
+அமிர்தசரஸ் மாநாட்டில்.
+
+அந்த அளவுக்கு நம்மைச் சாடிய கூடாரத்திலே இருக்கின்ற
+ஒருவர், இந்த அளவுக்கு நம்மை நெருங்கி வந்திருக்கிறாரே
+என்பதை எண்ணும்போது நம்மையறியாமலே நமக்கு மகழ்ச்சி
+பிறக்கிறது.
+
+இந்த ஞானோதயம் அவர்களுக்குத் திடீரென்று ஏற்பட்ட
+தல்ல! கேரளத்தில் கம்யூனிஸ்டுக் கட்சி ஆட்சிப் பீடத்திலே
+அமர்த்தப்பட்ட நாள் முதல், மத்திய அரசு எந்த அளவு வலி
+வோடு திகழ்கிறது என்பதனையும், மாநிலங்கள் எந்த அளவு
+வலுவற்று, எதற்கும் டில்லியின் கட்டளையை எதிர்பார்க்க
+வேண்டிய ஏளனமான நிலை இருந்து வருகின்றது என்பதனையும்
+அவர்கள் மெள்ள மெள்ள உணர்ந்து வருகின்றனர்.
+
+கேரளத்து முதலமைச்சர் எதையெதையோ செய்ய
+நினைக்கிறார் - பற்பல சாதனைகளைப் புரிந்திட எண்ணுறார் -
+எத்தனிக்கிறார் - ஆனால் முடிவில் அவருக்குப் புரிகிறது, அவரது
+கரங்கள் கட்டப்பட்டு இருக்கின்றன என்பது/
+
+ஆட்சிப்பீடம் ஏறிய நாள் முதல் அவர் .பெற்றிருக்கின்ற
+அனுபவங்கள். மிகப்பல - அந்த அனுபவங்கள் நல்லபல
+படிப்பினைகளை அவருக்குத் தந்திருக்க வேண்டும் - அந்தப்
+படிப்பினைகளின் விளைவுதான் தோழர் பூபேஷ் குப்தாவின்
+கருத்துப்படையல்.
+
+இந்த உண்மையினைக் கண்டுபிடிக்க கம்யூனிஸ்டுகளுக்கு,
+இவ்வளவு நாள் ஆகியிருக்க வேண்டியதில்லை -
+அரசியலமைப்பைப் பற்றிக் கருத்தறிவித்திருக்கன்ற அத்தனை
+பேரும் ஒருமுகமாக இதனை எடுத்துக்காட்டியிருக்கின்றனர்.
+
+ஆனாலும் இப்போதாவது அவர்கள் உணர்ந்தார்களே;
+குப்தா போன்றவர்கள் அதை வெளிப்படையாக விளக்கிடவும்
+துணிந்தனரே, என்று நாம் மஇிழ்கின்றோம். மூழ்ந்திடும்போது
+மற்றோர் உண்மையையும் நாம் மறந்துவிடக்கூடாது. மாநிலங்
+களுக்குப் போதிய அதிகாரங்கள் தரப்படவில்லை என்று தமது
+
+## Image 4: 004-7f04c18170.png
+
+- Image: `katturaigal/paathivazhi/004-7f04c18170.png`
+
+கட்சி ஏட்டிலே தீட்டிக் காட்டிவிட்டதாலே தோழர் குப்தாவோ,
+அவர்தம் கட்சியோ நாட்டுப் பிரிவினைக்கு ஆதரவு தருகிறது
+என்று பொருளல்ல - அவர்கள் இன்னமும் அகில இந்தியா'க்கள்
+தான்!
+
+அவரோ, அவர் சார்ந்திருக்கின்ற கம்யூனிஸ்டுக் கட்சியோ
+'சிறு மீன்களை'... விரும்புவதில்லை, 'உறுமீன்' வருமளவும்
+வாடியிருக்கச் சித்தமாயிருப்பவர்கள்!
+
+ஆனாலும் நமக்கு, நியாயமானதோர் ஐயப்பாடு
+எழுகின்றது.
+
+பாரதம் ஒன்றுதான் என்பதிலே அவர்களுக்கு உண்மை
+நம்பிக்கை இருக்குமானால், மத்திய அரசுக்கு எவ்வளவு
+அதிகாரங்கள் கொடுக்கப்பட்டால்தான் என்ன என்று
+- பேசாமலல்லவா இருந்துவிட வேண்டும்? அதிகாரங்கள் அங்கே
+குவிக்கப்படுவதா என்று முணுமுணுப்பதிலே பொருளென்ன?
+பாரதம் ஒன்றுதான் என்று ஏற்றுக்: கொண்டான பிறகு,
+பகுதிகளைப் பற்றிக் கவலைப்படுவானேன்? அவற்றின்
+அதிகாரங்கள் அளவுக்குமீறிக் குறைக்கப்பட்டுவிட்டன. என்று
+குரலெழுப்புவானேன்? பாரதம் ஒன்றென்று ஏற்றுக் கொண்டால் -
+மாநிலங்கள் வெறும் ஆட்சிச் செளகரியத்திற்கென அமைக்கப்
+பட்டிருக்கின்ற பற்பல பகுதிகள் என்றுதானே கொண்டதாக
+வேண்டும்!
+
+நாட்டின் நலனுக்கான திட்டங்களை நிறைவேற்றும்
+பொறுப்பு மாநிலங்களுக்கு இருப்பதாலே, அவற்றிற்கு இன்னும்
+அதிகமான அதிகாரங்கள் வழங்கப்பட வேண்டும் என்று
+கம்யூனிஸ்டுகள் வாதிடுவார்களானால், ' அந்தத் திட்டங்களை
+மத்திய அரசாங்கமே நிறைவேற்றி விடலாமே, மாநில
+அரசுகளுக்கு அந்தப் பொறுப்புகள் ஏன், என்றொரு கேள்வி
+எழுப்பப்பட்டால் என்ன பதில் சொல்வார்கள்? மத்திய
+அரசாங்கத்திற்கு 'ஏஜண்டு'களாக மாநில அரசாங்கங்கள் இயங்கு
+கின்றன என்று அவர்கள் வாதிட்டால், அத்தகைய ஏஜண்டுமுறை
+ஏன் என்று கேட்கப்படக்கூடுமல்லவா? இிட்டங்கள் நிறை
+வேற்றப்படுவதுதான் முக்கியமே தவிர, அவற்றை: நிறை
+வேற்றுவதற்காக ஏஜண்டுகளை நியமிப்பதோ, அந்த ஏஜண்டு
+
+## Image 5: 005-b96b26354a.png
+
+- Image: `katturaigal/paathivazhi/005-b96b26354a.png`
+
+களுக்கு என்னென்ன அதிகாரங்கள் வழங்கப்பட - வேண்டும்
+என்று ஆராய்வதோ அல்லவே!
+
+இதுபோன்ற கேள்விகள் எழுப்பப்பட்டால், கம்யூனிஸ்டு
+நண்பர்களுக்கு வேலை அதிகமாகிவிடும் - அவர்கள் தங்கள்
+இதயத்தில் இருக்கின்ற உண்மையை ஒளிவு மறைவின்றிச்
+சொல்ல வேண்டிய சூழ்நிலை ஏற்பட்டுவிடும் - என்பதையும்
+மறைத்திட முடியாது!
+
+அந்தச் சூழ்நிலையில் அவர்கள் இந்தத் துணைக் கண்டத்து
+வரலாறு முழுவதையும் - இன்று மாநிலங்களாக இருக்கின்ற
+வேறுபட்ட பகுதிகளின் வரலாறு என்ன, அவை எந்தெந்த
+விதங்களில் ஒன்றுக்கொன்று வேறுபட்டவை, எந்தெந்தக் கால
+முதல் டில்லியோடு தொடர்பு கொண்டவை. என்ற உண்மைகள்
+மக்களுக்கு எடுத்து சொல்லியாக வேண்டும்!
+
+அங்ஙனம் எடுத்துச் சொல்லும் போது, அவர்கள், திராவிட
+முன்னேற்றக் கழகத்தோடு நெருங்கி வந்து விடுவார்கள் அது கூறி
+வருகின்ற கருத்தைக் எண வகிக் நிர்ப்பந்தத்தில் தள்ளப்படு
+வார்கள்!
+
+எனவேதான், பூபேஷ் குப்தா அவர்கள் அந்தப் பக்கம்
+திரும்பிப்பார்க்கவில்லை/ மிகவும் எச்சரிக்கையோடு
+குறைபாடுகள் எடுத்துக் காட்டியிருக்கின்றன நிலைமை விளக்கம்
+தந்திருக்க - ஆனால் அந்த நிலைமையில் சீர்படுத்துவதற்கான
+வழிமுறைகள் இவையிவை என்றுகூற முற்பட்டாரில்லை - அந்த
+பொறுப்பை மக்களுக்கு விட்டுவிட்டு விட்டார்
+
+மாநிலங்களுக்குப் போதுமான அதிகாரங்கள் வழங்கப்
+பட்டது என்பதுமட்டுமல்ல, இத்துணைக் கண்டத்து அரசிய
+லமைப்பு அவர்காணுகின்ற குறையும் - இதோ மற்றொன்றையும்
+எடுத்துக்காட்டுகிறார்;-
+
+மத்திய அரசியலமைப்பு ஜனநாயக மக்களுக்குப் பலதடை
+களை ஏற்படுத்தி வயதுவந்தோர் அனைவருக்கும் தரப்
+பட்டாலும், கட்சிகள் பெறும் வாக்குகளுக்கேற்ப, அவை சட்ட
+மன்றங்களிலே அங்கம் வ௫த்திட மு.டிவதன் காரணம், தேர்தல்
+முறையில் இருக்கும் கோளாறுதான். ''
+
+## Image 6: 006-1a6523fd36.png
+
+- Image: `katturaigal/paathivazhi/006-1a6523fd36.png`
+
+இந்த உண்மையினைத் திராவிட முன்னேற்றக் கழகமும்
+உணர்ந்திருக்கிறது. கடந்த, பொதுத் தேர்தலில் காங்கிரசு பெற்ற
+பங்குகளில் மூன்றில் ஒரு பங்கு வாக்குகளைப் பெற்றிருந்தும்,
+சட்டமன்றத்தில் அது பெற்றிருக்கும் இடங்கள் 15-ஆனால்
+காங்கிரஸ் கட்சி பெற்றிருப்பதோ 150/
+
+எனவே, குப்தா குறிப்பிடுகின்ற ஏற்பாடுகளனைத்தையும்
+நாம் கோருகிறோம் - அவை களையப்பட வேண்டியவைதான்
+என்பதை ஒப்புக் கொள்ளுகின்றோம்.
+
+அதே சமயத்தில் நம் உள்ளத்தில் ஒரு கேள்வி ம டலட்தல்
+அவற்றைக் களைந்திடும் மார்க்கம் என்ன?” என்று!
+
+அந்தக் கேள்வி எழுவதன் பயனால் குப்தா காட்டுகின்ற-
+
+வழிகள் என்ன என்று துருவித் துருவிப் பார்க்கிதோம், முடிவில்
+ஏமாறுகிறோம் - காரணம், அவர் உருப்படியாக எந்த வழியையும்
+காட்டவில்லை, பிரச்சினைகளை, அலூக் தக்வப்தாமி நின்று
+விட்டார்.
+
+குறைபாடுகளை எடுத்துக் கூறியவர் அவற்றினைக்
+களைத்திடுவதற்கான வழிவகைகள் பற்பல அவற்றை எடுத்துக்
+காட்டி, அவற்றை இவையிவை, இன்னின்ன ஏற்றுக்கொள்ளப்
+கூடாதவை; இவையிவை ஜனநாயகத்திற்கு ஒவ்வாதவை, என்று
+வாதாடிவிட்டு, முடிவிலே ஒருவழியினைக் காட்டி, சிறந்தது
+என்று கூறி இருந்தால் பொருத்தமாக இருந்திருக்கும்!
+
+ஆனால் அவர், தனது. மனதுக்குத் தோன்றிய ஒரு
+பாதையைக் காட்டி, நாட்டிலே உள்ள கட்சிகளனைத்தையும்
+அந்தப் பாதையிலே வருமாறு வேண்டுகோள் விடுக்கிறார்.
+இதோ அவர் வகுத்துத் தரும் பாதை:-
+
+“இந்தப் பிரச்சினை கட்சி வேறுபாடுகளைக் கடந்தது -
+
+..ஆனாலும் நாட்டுப் பற்றும் ஜனநாயகத்திலே நம்பிக்கையும்
+
+கொண்ட சக்திகளனைத்தையும் ஓன்று சேர்ந்திடவல்லது.
+போராட்டம் நிகழ்த்தப்படவேண்டும், சட்ட மன்றங்களுக்கு
+உள்ளேயும் வெளியேயும்!”
+
+இது குறைபாடுகளைக் களைவதற்கான திட்டமா, அல்லது
+கம்யூனிஸ்டுகள் ஒட்டு வேட்டைக்காகச் செய்ய விரும்புகின்ற
+தகிடுதத்தமா? ்
+
+## Image 7: 007-995bab07ce.png
+
+- Image: `katturaigal/paathivazhi/007-995bab07ce.png`
+
+““மகானைங்களே! இந்த நாட்டில் இத்தனை எதிர்க்கட்சிகள்
+இருக்கின்றன. இவையெதுவும் கண்டுபிடிக்காத ஒன்றை நாங்கள்
+கண்டுபிடித்தோம் - அவர்களால் சாதிக்க முடியாததை நாங்கள்
+சாதித்தோம்! நாங்கள் துவங்கவில்லையென்றால், இந்தப்
+போராட்டம் நடை பெற்றிருக்க மூடியுமா?”” என்று பேசித்
+தேர்தல் காலத்தில் இலாபம் பெறக் கம்யூனிஸ்டுகளுக்கு, இந்தத்
+இட்டம் பயனளிக்கக் கூடுமே தவிர, உண்மையில், இருக்கின்ற
+குறைபாடுகளைப் போக்க எப்படி முடியும், இந்தப் போராட்டத்
+தின் மூலம்?
+
+குப்தா எடுத்துக். காட்டியிருக்கின்ற குற்றச்சாட்டுகள்
+களையப்பட வேண்டுமானால், அரசியல். சட்டம் திருத்தப்பட
+வேண்டும்!
+
+அரசியல் சட்டத்தைத் : இருத்துவதென்பது சாதாரண
+விஷயமல்ல - ஆளும் கட்சியின் ஆதரவு ட ற்ப வு அது
+ஏப்படிச் சாத்தியமாகும்?
+
+் ஆளும் கட்சியின் ஆதரவு கிடைக்கவில்லையென்றால்
+என்ன செய்வது?
+
+“பெரியதோர் போராட்டம், எல்லாக் கட்சிகளும்
+சேர்ந்து!"
+
+மிகப் பரந்த மனப் பான்மையோடுதான் திட்டம் தருகிறார்,
+எல்லாக் கட்சிகளும் ஒன்று சேர வேண்டுமென்று! பாவம், அந்தக்
+கட்சிகளுக்கிடையே இருக்கின்ற பற்பல சிக்கல்களையும்,
+போராட்டங்களையும், மனமாச்சரியங்களையும் மறந்துவிட்டார்!
+
+அப்படியே கட்சிகள் ஒன்று சேர்ந்து போராட்டம் நடத்தி
+வெற்றி காண்பதாகவே வைத்துக் கொள்வோம்.
+ட் அரசியல் சட்டமும் இருத்தப்படுகிறது என்றும் ஒப்புக்
+கொள்வோம். அப்போது சேர்க்கப்படப் போகிற திருத்தங்கள்
+என்னென்ன?
+
+மாநிலங்களுக்கு இப்போது இருக்கின்ற அதிகார
+வரம்பினை ஓரளவு விரிவுபடுத்துவதாலேயே பிரச்சினை
+தீர்ந்துவிடாதே!
+
+## Image 8: 008-bd2b331875.png
+
+- Image: `katturaigal/paathivazhi/008-bd2b331875.png`
+
+விரும்பினால் பிரிந்துபோகின்ற உரிமை மாநிலங்களுக்கு
+அளிக்கப்பட்டாலொழிய, மத்திய அரசாங்கத்தினைக் கட்டுப்
+படுத்தக் கூடிய பயனுள்ள ஆயுதம் வேறென்ன?
+
+அந்த ஆயுதத்தை மாநிலங்களின் கரத்திலே கொடுத்துவிடக்
+குப்தா ஓப்புக்கொள்ளுகிறாரா?
+
+அவரைப் பொறுத்தவரை இந்தப் பாதை கல்லும் முள்ளும்
+நிறைந்தது, ௧ கரடு மூரடானது மட்டுமல்ல, மிகவும் பயங்கர
+மானதும் கூட, ஆனாலும் என்ன செய்ய? 'பாதிவழி' வந்து
+விட்டார்! இனித் தயங்கிப் பலனென்ன, போய்ச் சேரவேண்டிய
+இடத்தை நோக்கி விரைந்து செல்வதைத் தவிர!
+
+15.2.1959
+
+## English Translation
+
+### Image 1
+
+“It is an undeniable truth that our Constitution has very greatly reduced the powers of the State legislatures in matters concerning the economic sphere. This position is not only inconsistent with the principle of federation; it is capable of damaging the parliamentary system itself. We see that the responsibility of the States to carry out plans suited to the country's welfare continues to grow and that, as this responsibility grows, they frequently cross the boundary drawn by the Constitution. This is no ordinary problem! If democracy is to endure in this country, a solution must be found.”
+
+When we consider that such an opinion has come from a wholly unexpected quarter, joy truly arises in all our hearts.
+
+Had I, Navalar Nedunchezhian, Sampath, Karunanidhi, Anbazhagan, Natarajan, or any other comrade of the Kazhagam expressed this same view, there would have been nothing remarkable in it; that happens every day.
+
+We say every day, with conclusive evidence, that the Central Government makes the States dance to its tune: the puppeteer is in Delhi and the dolls that parade in comfort are here.
+
+We also explain the means of removing this miserable and improper condition: our land must become ours, and the government of our land, Dravida Nadu, must be entrusted to our hands. We do so without regard for opposition or ridicule, with hearts capable of bearing anything.
+
+### Image 2
+
+There is nothing surprising when any member of our Kazhagam says that the authority allotted to the States is inadequate, that the course of acting under the Central Government's control is unacceptable, and that this must somehow be changed.
+
+But the person who has expressed this view in a way that astonishes us all is a Communist comrade from Bengal: Bhupesh Gupta!
+
+We cannot but rejoice that a view we proclaim daily wherever we go has received such support from within the red-shirt camp itself.
+
+For they are not accustomed to accepting any view contrary to their own. Their nature is to label anything “reactionary” and cast it aside with ease.
+
+The Dravida Munnetra Kazhagam carries this same idea one step further and places it before the people through the demand, “Dravida Nadu for the Dravidians.”
+
+The Communist Party is not unaware of it. Yet what did they do?
+
+Did they say, “Ah! What you say is right. Here we come too, to struggle for a good cause and secure justice”?
+
+They mocked us: “Dravidam, is it? Separation, is it? North and South, is it? What sort of sense do these people have?” Everywhere they went, they attacked us: “Is not Bharat one, sinners? You seek to cut it apart. Is that proper or reasonable?”
+
+### Image 3
+
+Did they stop with attacks? At their Amritsar conference, they even passed a resolution declaring that they would root out these wretches.
+
+When we see someone from a camp that attacked us to that extent come this close to us, joy arises in us almost without our knowing it.
+
+This dawn of wisdom did not occur suddenly. From the day the Communist Party was seated in power in Kerala, they have gradually realized how powerful the Central Government is and how weak the States are, left in the humiliating position of awaiting Delhi's command for everything.
+
+Kerala's Chief Minister thinks of doing many things and accomplishing numerous achievements. He tries, but in the end discovers that his hands are tied.
+
+The experiences he has gained since ascending the seat of government are many. They must have taught him several valuable lessons. Comrade Bhupesh Gupta's offering of ideas is the result of those lessons.
+
+The Communists need not have taken so long to discover this truth. Everyone who has commented on the Constitution has pointed it out with one voice.
+
+Still, we are glad that they have understood it at least now, and that people such as Gupta have dared to explain it openly. Amid that joy, however, we must not forget another truth. Merely because Comrade Gupta has written in his party journal that the States have not been given sufficient powers does not mean that either he or his party supports national separation.
+
+### Image 4
+
+They are still “All-Indians”!
+
+Neither he nor the Communist Party to which he belongs desires the “small fish.” They are prepared to wait until the “great fish” arrives.
+
+Even so, a reasonable doubt arises in us.
+
+If they genuinely believe that Bharat is one, should they not remain silent no matter how many powers are given to the Central Government? What meaning is there in murmuring that powers are concentrated there? After accepting that Bharat is one, why worry about its parts? Why raise a voice that their powers have been excessively reduced? If Bharat is accepted as one, must not the States be regarded merely as several divisions created for administrative convenience?
+
+If the Communists argue that the States must receive still greater powers because they bear responsibility for carrying out plans for the country's welfare, what answer will they give if asked, “Why should the State Governments bear those responsibilities? Could not the Central Government itself carry out those plans?” If they argue that State Governments function as “agents” of the Central Government, may one not ask why such an agency system is necessary? What matters is that the plans are carried out, not that agents be appointed to execute them or that one investigate what powers those agents should receive.
+
+### Image 5
+
+If such questions are raised, our Communist friends will have much work to do. They will be placed in circumstances that compel them to speak openly, without concealment, the truth that lies in their hearts. That too cannot be hidden.
+
+In those circumstances, they will have to explain to the people the entire history of this subcontinent: the histories of the different regions that are now States, the ways in which they differ from one another, and the periods from which each became connected with Delhi.
+
+When they explain these matters, they will draw close to the Dravida Munnetra Kazhagam and be compelled to accept the view it has been advancing.
+
+That is why Bhupesh Gupta did not turn in that direction. Very cautiously, he has identified the defects and explained the situation, but he has not attempted to say, “These are the means by which this condition can be corrected.” He has left that responsibility to the people.
+
+Insufficient powers for the States are not the only defect he finds in the Constitution of this subcontinent. He points to another:
+
+“The Central Constitution places many obstacles before the democratic people. Although the franchise has been given to all adults, the defect in the electoral system prevents parties from obtaining representation in the legislatures in proportion to the votes they receive.”
+
+### Image 6
+
+The Dravida Munnetra Kazhagam too has recognized this truth. In the last general election, although it received one-third as many votes as Congress, it obtained only fifteen seats in the legislature, while the Congress Party obtained 150.
+
+Therefore, we too demand the changes Gupta indicates and agree that these defects must be removed.
+
+At the same time, a question arises in our hearts: “What is the way to remove them?”
+
+Because that question arises, we search closely for the paths Gupta shows. In the end we are disappointed, because he has shown no practical path. He has merely identified the problems and stopped there.
+
+It would have been fitting if the person who identified the defects had presented the several possible means of removing them, argued that some were unacceptable and others inconsistent with democracy, and finally shown one path and declared it the best.
+
+Instead, he shows a path that occurred to him and appeals to all the parties in the country to follow it. Here is the path he lays down:
+
+“This problem transcends party differences. It can unite all forces possessing patriotism and faith in democracy. A struggle must be conducted, both inside and outside the legislatures!”
+
+Is this a plan for removing the defects, or a manoeuvre the Communists wish to conduct in their hunt for votes?
+
+### Image 7
+
+This plan may help the Communists profit at election time by saying, “Gentlemen! There are so many opposition parties in this country. We discovered what none of them discovered and achieved what they could not. Could this struggle have taken place had we not begun it?” But how can this struggle actually remove the existing defects?
+
+If the charges identified by Gupta are to be remedied, the Constitution must be amended.
+
+Amending the Constitution is no ordinary matter. Without the support of the ruling party, how can it be possible?
+
+What is to be done if the ruling party's support is unavailable?
+
+“A great struggle, with all parties united!”
+
+He offers his plan with a very broad mind, asking all parties to unite. Poor man, he has forgotten the many complications, conflicts, and resentments among those parties.
+
+Let us nevertheless suppose that the parties unite, conduct a struggle, and achieve victory. Let us also agree that the Constitution is amended. What amendments will then be inserted?
+
+The problem will not be solved merely by extending the present limits of State authority to some degree.
+
+### Image 8
+
+Unless the States are granted the right to separate if they wish, what other effective weapon can restrain the Central Government?
+
+Does Gupta agree to place that weapon in the hands of the States?
+
+As far as he is concerned, this path is filled with stones and thorns. It is not merely rugged but exceedingly dangerous as well. Yet what can he do? He has come “halfway”! What use is there in hesitating now, except to hasten toward the place he must reach?
+
+15 February 1959
+
+## Translator's Notes
+
+“Halfway” preserves the title's closing wordplay: Anna presents Bhupesh Gupta's demand for greater State powers as movement partway toward the DMK demand for a right of separation.
+
+“All-Indians” renders அகில இந்தியா'க்கள், Anna's ironic label for those committed to an indivisible all-India polity.
+
+The “small fish” and “great fish” passage retains the source's proverbial political metaphor. “Red-shirt camp” preserves செஞ்சட்டை முகாம் as Anna's contemporary description of the Communist camp.
+
+The Tamil source's election comparison is retained as printed: fifteen seats for the DMK and 150 for Congress despite a one-to-three vote relationship.

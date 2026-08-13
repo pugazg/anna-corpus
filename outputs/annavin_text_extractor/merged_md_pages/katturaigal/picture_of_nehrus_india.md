@@ -1,0 +1,1 @@
+../../md_pages/katturaigal/picture_of_nehrus_india.md

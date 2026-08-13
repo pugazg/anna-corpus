@@ -1,0 +1,1 @@
+../../md_pages/katturaigal/poverty_garbed.md

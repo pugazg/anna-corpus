@@ -1,0 +1,12 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+
+# Regenerable 11 GB scan cache. Its manifest and extraction tools are retained.
+outputs/annavin_text_extractor/ocr_images/**
+!outputs/annavin_text_extractor/ocr_images/_state/
+!outputs/annavin_text_extractor/ocr_images/_state/**
+
+# Local exploratory/test runs.
+work/
+

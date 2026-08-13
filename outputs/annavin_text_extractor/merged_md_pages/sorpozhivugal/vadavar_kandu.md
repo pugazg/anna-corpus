@@ -1,0 +1,1 @@
+../../md_pages/sorpozhivugal/vadavar_kandu.md

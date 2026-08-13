@@ -1,0 +1,731 @@
+# பூபதியின் ஒருநாள் அலுவல் / A Day's Business for Boopathi / பூபதியின் ஒருநாள் அலுவல்
+
+**Tamil title:** பூபதியின் ஒருநாள் அலுவல்  
+**English title:** A Day's Business for Boopathi / பூபதியின் ஒருநாள் அலுவல்  
+**Source file:** `sirukathaigal/boobathiyin.md`
+
+## Source Tamil (verbatim)
+
+- Source image folder: `/Users/pugazhendhirajendran/Documents/Codex/2026-07-09/https-www-annavinpadaippugal-info/outputs/annavin_text_extractor/ocr_images/sirukathaigal/boobathiyin`
+- OCR language: `tam`
+- Tesseract page segmentation mode: `6`
+- OCR cleanup: `enabled`
+
+## Image 1: 001-d71689b39f.png
+
+- Image: `sirukathaigal/boobathiyin/001-d71689b39f.png`
+
+ஓ * ஓ
+பூபதியின் ஒருநாள் அலுவல்
+. “ஏதோ எனக்கென்று கொஞ்சம் சொத்து இருக்கிறது
+பிரதர்! நான் ஒன்றும், அலைந்து திரிய வேண்டிய அவசிய
+மில்லை. நிம்மதியாக வாழ எனக்கு வசதி இருக்கிறது. ஆண்டவன்
+அப்படி ஒன்றும் என்னை உழைத்து உருக்குலையும்படியான
+நிலையிலே விட்டு வைக்கவில்லை. வாழ்வதற்காக வதைபடு
+என்று என் தலையில் ஒன்றும் எழுதியில்லை'' என்று கூறினார்,
+ஒய்வூர் மிட்டாதார் ஒயிலானந்த பூபதி, கொஞ்சம் கோபத்துடன்.
+அவரிடம் பேசிக் கொண்டிருந்தவர் பிரதர்” துரைசிங்கம்
+என்பவர். துரைசிங்கம், பூபதியிடம் கொஞ்சம் சுறுசுறுப்பாக
+(வேலை செய்து, யுத்தக் கடன் பத்திரங்களை அதிகமாக விற்று,
+கவானர். பெருமான்! ஒய்வூருக்கு வரும் போது, இந்தப்
+பக்கத்திலேயே, அதிகமாக யுத்த உதவி செய்ய வேண்டும் என்று
+வலியுறுத்திக் கொண்டிருந்தார். யுதீதக்கடன் பத்திரங்களை விற்பது,
+யுத்த உதவி நிதி சேர்ப்பது இரண்டும் முதலிலே ஒயிலானந்த
+பூபதிக்குச் சந்தோஷமாக இருந்தது. அதிலும், மேற்படி நிதிக்காக,
+சங்கீதக் கச்சேரிகள், நாட்டியக் கச்சேரிகள் முதலியவற்றை
+ஏற்பாடு செய்யும்போது, 'ரொம்பக் குஷி: பூபதிக்கு. இந்தச்
+சந்தோஷத்துடன் கொஞ்சம் சுறுசுறுப்பாகவும் வேலை செய்தால்
+பலன் உருவாகும் என்பது துரைசிங்கத்தின் எண்ணம். யுத்த
+உதவித தொகையின் அளவு உயர உயரத் தனக்கும் 'ராவ்சாகிபு"
+பட்டததுக்கும் இடையே உள்ள 'தொலைவு' குறையும் என்பது
+இரைசிங்கத்தின் எண்ணம். எனவே பூபதியைச் சற்று அதிகமான
+எறுசுறுப்புக் காட்டும்படி கேட்டுக் கொண்டார். பூபதிக்குக்
+கொஞ்சம் கோபம். “இவனே அலைபயட்டும்! சர்க்கார் இவனை
+த்தப் பிரசாரகர் என்று நியமித்திருக்கிறார்கள்; மாதம் 500
+அபளமும் தருகிறார்கள்; இவன் அலைய வேண்டியது சரி;
+
+## Image 2: 002-89affcecc9.png
+
+- Image: `sirukathaigal/boobathiyin/002-89affcecc9.png`
+
+என்னை எப்படி இவன் அதிகமாக வேலை செய்ய
+வேண்டுமென்று எதிர்பார்க்கலாம்'' என்று கருதியே கோபித்துக்
+கொண்டு, தனது அந்தஸ்தைச் சுட்டிக் காட்டினார்
+துரைசிங்கத்திடம்.
+
+“ஏன் ஊர் சுற்றித் திரியமாட்டான்! குடித்துவிட்டுக்
+கூத்தாடத்தான் செய்வான். ஏதாவது “வித்து விசனம்” கவலை -
+கஷ்டம் இருந்தால்தானே! காளை. மாடு போலச் சுற்றி வருகிறான்.
+இருப்பது பாழாகாதபடி பார்த்துக் கொள்ளவும், இவனுக்குச்
+சொத்து சுகம் தேடிக் கொடுக்கவும் நான் பாடுபட்டேன். அவன்,
+அந்தத் தைரியத்திலே, உலகத்தைப் பற்றியே கவலை இல்லை
+என்று மதோன்மத்தனாகத் திரிகிறான். எந்த விலை ஏறினால்
+அவனுக்கென்ன! அவன் உண்டு. நண்பர்கள் உண்டு, செலவு
+செய்வதற்குக் கேட்கும்போது பணம் தர நான் உண்டு என்று
+இருக்கிறான். விளைந்து வருகிறது, விற்றுப் பணத்தைக்
+குவிக்கிறான், செலவு செய்து கொண்டு குஷாலாக இருப்போம்
+என்று உலவுகிறான். பாடுபட்டுப் பணத்தைச் சேர்க்கிற
+எனக்கல்லவா தெரியும், அதனுடைய அருமை."
+
+.. பூபதி, புவனேஸ்வரியின் நடனக் கச்சேரியை ஏற்பாடு
+செய்யப் போயிருக்கிறார்;. கல்யாணி என்ற பாடகியை
+அழைத்துவரப் போயிருக்கிறார் என்ற செய்திகளை அடிக்கடி
+கேட்டுக் கோபங் கொண்டார், பெரிய மிராசுதாரர்,
+பொன்னுராமர். தன் மகன், சர்க்கார் காரியமாகப்
+போயிருக்கிறான், சண்டைக்குப் பணம் திரட்டும் காரியமாகத்தான்
+போயிருக்கிறான், யுத்த நிதிஉதவிக் கச்சேரிகளுக்காகத்தான்
+புவனேஸ்வரி, கல்யாணி ஆகியோரைத் தேடிச் சென்றானே
+யொழிய வேறு சொந்த வேடிக்கைக்கு அல்ல என்று,
+பொன்னுராமரிடம் கூறப்பட்டது என்றபோதிலும், அவர்
+சமாதானம் அடையவில்லை. யுத்த வேலை, நித திரட்டுவது என்று
+என்ன பேர் வேண்டுமானாலும் வைக்கட்டும், பூபதி இப்போது
+சதாசர்வகாலம், இந்தச் சிரிப்புக் ,காட்டிகள்'' இருக்கும்
+இடத்திலேயே உலாவுகிறான். அது தவறு; அது கூடாது என்று
+கூறியபடி இருந்தார். அவருக்குத் தன் பாலிய கால நினைவு. அவர்
+காலத்திலே யுத்த நிதி வசூலிக்கும் வேலை இல்லை; ஆனால்
+'நவராத்திரி உற்சவ ஏற்பாடு' இருந்தது. பொன்னுராமர் அதிலே
+தீவிரமாகச் சேவை செய்தபோதுதான் திலகாவும், அன்னமும்
+அவருக்குச் சினேகிதமானது.'இலேசாக படுக்கப் போகும்போது
+கொஞ்சம் உசத்திச் சரக்கு” சாப்பிடக் கற்றுக் கொண்டதும்
+
+## Image 3: 003-5bf2703ccb.png
+
+- Image: `sirukathaigal/boobathiyin/003-5bf2703ccb.png`
+
+அந்தச் சமயத்திலேதான். ஆகவே பொன்னுராமர், யுத்த நிதி வசூல்
+வேலைக்குத்தான் போயிருக்கிறான் ஒயிலானதந்தன் என்று
+சொன்னவர்கள் மீது றி விழுந்தார். தனக்கு நவராத்திரி: - தன்
+மகனுக்கு 'யுத்தநிதி வல் வேலை” என்று மாறி இருக்கிறது என்று
+“ராஜா போல நிம்மதியாக இருக்க வேண்டியவன்! வீடு
+இருக்கிறது, அரண்மனை போல; தோட்டம் இருக்கிறது,
+நந்தவனம் போல; என்ன குறை இவனுக்கு? எந்த
+இருக்கக்கூடாதா? பகவான், நமக்கு ஒரு குறையும் செய்யவில்லை;
+சகல சம்பத்தும் கொடுத்திருக்கிறார். இதை அனுபவித்துக்
+கொண்டு, வீட்டோடு சந்தோஷமாக ஏன் இருக்கக்கூடாது?
+என்னமோ, பாடுபட்டு ஜீவிக்க வேண்டியவனைப் போல, சதா
+அலைச்சல்! வீடு தங்குவது கிடையாது; வேளாவேளைக்குச்
+சாப்பிடுவது கிடையாது; உடம்பைக் கவனித்துக் கொள்வது
+-இடையாது; கண்டவர்களிடம் பேசிப்பேசி,தொண்டையைக்
+கூடப் புண்ணாக்கிக் கொள்வான் போலிருக்கிறது. ஏனம்மா
+ர ரன்க இந்தக் கஷ்டம்?. இவன் தலையிலே நல்ல எழுத்து
+் முதியிருக்க, எதற்காக இவன் அலைந்து கொண்டிருக்க
+வேண்டும்: வீட்டோடு நிம்மதியாக இருக்கக்கூடாதா” என்று,
+(பூபதியின் தாயார் வருத்தப்பட்டுக் கொண்டார்கள். எப்போது
+மார்கோலும் பப வெளியே சுற்றிக் கொண்டே இருப்பதைக்
+"கண்டு தாய்க்கு, மகன் இப்படி அலைந்து உடம்பை பாழாக்கிக்
+கொள்கிறானே என்று சோகம். அவர்களுக்கென்ன தெரியும்,
+மகன், உல்லாச வேட்டையாடுகிறானே தவிர, ஊருக்கு உபகாரம்
+ட ஒரு துளியும் வேலை செய்யவில்லை என்பது? அலைந்து
+: வேண்டும், இரிந்து கிடக்க வேண்டும், பாடுபட்டுப் பணம்
+தேடியே ஜீவித்தாக வேண்டும் என்ற நிலையில் பலர்
+இருப்பதற்குக் காரணம், அவர்கள் தலையிலே ஆண்டவன்
+அப்படி எழுதினான் என்பது, மிட்டாதாரணியின் எண்ணம்.
+சன், ஏதோ பாடுபடுகிறான் மற்றவர்களுக்காக என்று வருத்தப்
+பட்டார்கள் அந்த அம்மையார். இரவெல்லாம் குடித்துவிட்டுக்
+கிடப்பதால், பூபதியின் உடல் இளைத்தது. அதை அம்மையார்,
+ஊன் ஊருக்கு: உழைத்து அப்படியானான் என்று எண்ணிக்
+கொண்டார்கள்.
+ல் _.. உன் அந்தஸ்துக்கும், செல்வத்துக்கும், இது ஒரு பிரமாதமா?
+டம தோன்றியவர்களெல்லாம், ஷெவர் லேயில் போகும்
+ர் து, நீ ஏன் -ரோல்ஸ்ராயில்' போகக்கூடாது? அந்தப் பயல்,
+
+## Image 4: 004-ef8c54f140.png
+
+- Image: `sirukathaigal/boobathiyin/004-ef8c54f140.png`
+
+ரஸ்: இளப்பிலே, ஆயிர ரூபாய் நோட்டை அலட்சியமாக வீடு
+எறிகிறான்; நூறு ரூபாய் நோட்டு எடுப்பதென்றால் உனக்குக்
+கை நடுக்கம் பிறக்கிறது. உன் அந்தஸ்துக்கு ஏற்றபடியா உடை
+இருக்கிறது? :ட்வீட்' இல்லாமல் டாக்டர் தாமோதர்வெளியே
+தளம்புவதில்லை; உன் உடையைப் பார்! செச்சே! என்ன
+இருந்தாலும், நீ இப்படி உன்னுடைய செல்வ நிலைக்குக்
+குறைவாக, மட்டமாக, வாழ்க்கையை நடத்தக்கூடாது. மதிக்கமாட்
+டார்களே ஜனங்கள்! என்னடா மகா பிரமாதம்! அவன் பெரிய
+ஆசாமியின் மகன் என்று சொல்லுகிறாய்; அவனுந்தான் '555'
+பிடிக்கிறான்; நம்முடையதும் அதே ரகச் சிகரெட்தான்'' என்று,
+அன்று ஒரு நாள் அப்ரகாம் சொன்னான். எனக்கு வெட்
+கமாகத்தான் இருந்தது. எவ்வளவு செலவு செய்தாலும் உனக்குத்
+த்கும்.'”
+செல்வவான்களின் செருக்கு, அவர்களையே அழிக்கும்
+நெருப்பாக மாறும். ஆகவே அவர்கள் உள்ளத்திலே : அந்த
+நெருப்புக் குறையாதபடி நாம் அடிக்கடி தூண்டி விட்டுக்
+கொண்டே இருக்க வேண்டும்; அதிகமாகச் செலவு செய்கிறோம்,
+அனாவசியமாகச் செலவு செய்கிறோம் என்ற எண்ணமே,
+அந்தச் ச மானுக்கு தோன்றக்கூடாது. எவ்வளவு செலவு
+செய்தாலும் கெடுஇ இல்லை: தகும். மேலும் அப்படிச் செலவு
+செய்வதுதான் நமது அந்தஸ்துக்கு ஏற்றது. ஜனங்கள்
+அப்போதுதான் நம்மைக் கண்டால் மதிப்பார்கள்; செலவைச்
+சுருக்க ஆரம்பித்தால், கேவலமாக நினைத்து விடுவார்கள் என்ற
+இப்படிப்பட்ட எண்ணம் 2 மானின் மனதிலே முளைத்தபடி
+இருக்க வேண்டும். அந்தப் பயிர் செழிப்பாக இருக்க முகஸ்துதி
+என்ற தண்ணீரை நாம் பாய்ச்சியபடி இருக்க வேண்டும். என்ற
+தத்துவம், கோடீஸ்வரனுக்கு. பெயர் கோடீஸ்வரன்; நிலைமை
+மகா மோசம். ஆசாமியோ பலே பேர்வழி. மரத்திலேதான் பழம்
+இருக்கும்; நாம் நடந்து செல்லும் பாதையிலேயா இருக்கும்?
+பாதையிலே, முள்ளும் கல்லும்தான் இருக்கும். நமக்கு இந்தக்
+கல்தான் கிடைக்கும்; கனி தோட்டக்காரனுக்குத்தானே கடைக்கும்:
+நாம் பாட்டையிலே போக வேண்டியவரானோம். என்று
+சொல்பவன், பைத்தியக்காரன். திடைக்கிற கல்லை, எடுத்துத்
+தொலைவிலே தொங்கும் பழத்தை நோக்கி வீ௫ினால், பழம் கீழே
+விழுகிறது. கல்லை விட்டுவிடு, கனியை எடு; சாப்பிடு! இதுதானே
+புத்திசாலி செய்ய வேண்டிய காரியம்? பாதையிலே. நடந்து
+
+## Image 5: 005-7b4b40a77e.png
+
+- Image: `sirukathaigal/boobathiyin/005-7b4b40a77e.png`
+
+கொண்டே, காலிலே கல் தடுக்கினால் கஷ்டப்பட்டு, அதே
+நேரத்திலே, மேலே அண்ணா ந்து பார்க்கும்போது, மரத்திலே
+கனி.குலுங்கக் கண்டு, ஏக்கமடைந்து நடப்பவன் ஏமாளி. மேலே
+பழம், உன் காலடியிலே கல்! கைக்கும் கருத்துக்கும் கொஞ்சம்
+வேலை .கொடு. கனி பிறகு உனக்குத்தான். மரத்துக்கா,
+தோட்டக்காரனுக்கா? - இந்தத் தர்க்கம் செய்பவன்
+கோடீஸ்வரன். பணம், பணக்காரனிடம் இருக்கிறது, மரத்திலே
+பழம். இருப்பது போல! ஏழையிடம், பணமில்லை; ஆனால்
+பணக்காரனிடம் உள்ள பணத்தைப் பறிக்கும் *வித்தை' கூடவா
+இல்லை: அவன் மூளைக்குக் கொஞ்சம் வேலை கொடுத்தால்
+தானே. என்பான் கோடீஸ்வரன். அந்த முறையிலே, சமான்
+களின் தோழனாக இருந்தான், இலாபத்துடன். சீ மான்களின்
+மனது குளிரும்படி பேசுவான். கெஞ்சுவதில்லை; பணம் ஒரு
+மிரமாதமா என்று சொல்வான். ௪ மான் எவ்வளவு செலவு
+“செய்தாலும், இது என்ன சாதாரணச் செலவுதான் என்று
+கூறுவான். வேறு பல சீமான்களின் நடை, நொடி, பாவனை
+களை தன் வலையில் வீழ்ந்த ச மானின் முன் புகழ்ந்து
+பேசுவான். அதன் மூலம், தன் நண்பனான 8 மானின் மனதிலே,
+“ரோஷ: உணர்ச்சு உண்டாகச் செய்வான். அந்த ரோஷ
+அணர்ச்சி, ஷெவர்லே காராகக் காட்சி அளிக்கும்; ட்வீட்
+சட்டாகத். தோற்றமளிக்கும்; உயர்தரமான ஒட்டல்களுக்கு
+இழுத்துச் செல்லும்; சினிமா, நாடகங்களிலே, சோபாவிலே
+கொண்டு. போய் உட்கார வைக்கும்! அதிகமாக அவசியமற்ற
+செலவு செய்து வருகிறோம் என்று பூபதி கொஞ்சம் கவலைப்
+_ங்ட்டபோது; “ரோஷ”' உணர்ச்சி ஊட்டுவதற்கு உபயோகித்த
+உபதேசம் மேலே குறிப்பிடப்பட்டது. அந்தப் பேச்சின் பயனாகப்
+பூபதிதான் உண்மையிலேயே தன் அந்தஸ்துக்கு ஏற்றபடி செலவு
+செய்யவில்லை என்று எண்ணவும், கொஞ்சம் வெட்கப்படவும்
+கூட நேரிட்டது. கோடீஸ்வரன், பூபதியின் ரோஷ உணர்ச்சியை
+அவ்வளவு சாமர்த்தியமாகக் கிளறிவிட்டான். அதன் பலன்,
+அன்று: ரமாமணி வீட்டிலே ரசமான விருந்து. பூபதிக்கு!
+கோடீஸ்வரனிடம் கொஞ்சிக் கொண்டிருந்தாள், கோகிலா.
+சமாமணியின் தங்கை.உங்களுக்கென்ன குறைச்சல்! மிட்டா
+, தாரர்தான், நீங்கள் போட்ட கோட்டைத் தாண்டுவதில்லை
+(் யாமே? என்றாள் கோகிலம். “கோடு போடுவது நான், புதிய
+வீடு கட்டுவது ரமா”” என்றான் கோடீஸ்வரன் வேடிக்கையாக.
+
+## Image 6: 006-20a18cef07.png
+
+- Image: `sirukathaigal/boobathiyin/006-20a18cef07.png`
+
+“அந்த வீடு உங்களுக்கும் சொந்தம்தானே”' என்று :பாத்யதை'யைக்
+கவனப்படுத்தினாள் கோகிலம்.
+
+“உனக்கு என்னப்பா குத்தலும் குடைச்சலும்: பெட்டியிலே
+பணம் இருக்கிறது ஏராளமாக. வட்டி மூலம் அதனை வளர்க்கச்
+சரியான தந்தை இருக்கிறார். நீ சுற்றலாம், ஆனந்தமாக.
+விலையைப் பற்றிக் கவலை இல்லாமல் சாமான்களை
+வாங்கலாம். காலத்தைப் பற்றியே கவலையின்றி, வேடிக்கையாக
+இருக்கலாம். எவ்வளவு வேண்டுமானாலும் செலவு செய்யலாம்
+- நீ கஷ்டப்பட்டு சம்பாதித்தது என்ன கெட்டுவிட்டது!
+எப்படியோ சொத்து சேர்ந்துவிட்டது; சுகமாக வாழ முடிகிறது.
+நீ எதற்குப் பாடுபடப் போகிறாய்? மற்றவர்களைப் போல நீயும்
+கஷ்டப்பட்டுப் பணம் சேர்த்திருந்தால், உனக்கும் தெரியும்,
+அதனுடைய பலன்! € மானுக்கு மகனாகப் பிறந்தாய், சுகம் என்ற
+தொட்டிலிலே வளர்ந்தாய், இப்போது ஆனந்தம் என்ற
+அம்சதூளிகா மஞ்சத்திலே புரள்கிறாய். உனக்கு, ஊரின் கஷ்டம்
+என்ன தெரியும்? பணம் தேடி அலுப்பவனின் பதைப்பு எப்படிப்
+புரியும்? பாடுபடுபவனின் தொல்லையை எப்படி நீ தெரிந்து
+கொள்ளப் போகிறாய்! உன் கவலை பூராவும், விதவிதமான
+களியாட்டங்களைத் தேடுகிற அளவுதானே!!! - பூபதியின்
+நண்பர்களிலே இவன் ஒரு தனி ரகம். பணக்காரனிடம் பணம்
+இருக்கிறது, மலரிலே மணம் இருப்பது போல. நாம் பச்சிலை:
+நாளாவட்டத்திலே சருகு ஆகிவிடுவோம். மலருக்கு இருக்கும்
+மணம் தனக்கு இருக்க வேண்டுமென்று பச்சிலை
+எதிர்பார்க்கலாமா? என்று வாதம் புரிபவன், வக்&ல் அல்ல,
+வியாபாரி. வியாபாரியிலும், நஷ்டக் கணக்கையே அடிக்கடி
+கண்டு நொந்தவன்; பூபதியுடன் ஒரு காலத்திலே படித்தவன்
+என்ற முறையிலே, சந்திப்பு ஏற்படும். அப்போதும், தன்
+சஞ்சலத்தை மறக்கமாட்டான். பூபதியும் கோடீஸ்வரனும்
+அனந்தமாக விளையாடிவிட்டு வருகிறபோது கண்டான்; நண்பன்
+என்ற முறையிலே, பூபதியின் சந்தோஷத்தின். சூட்சமத்தைப்
+பற்றியும், தன் சஞ்சலத்தைப் பற்றியும் பேசினான். அதுவும்,
+மற்றப் பணக்காரர்களிடம் பேச முடியாதல்லவா?.. போடா
+சுடுமூஞ்சி'” என்று கேலி பேசிவிட்டு முதுகைத் தட்டிக். கொடுதது
+விட்டு, அவனிடம் பேசுவதற்காக அதுவரை நிறுத்தி வைத்திருந்த
+மோட்டாரை, ஒட்டலானான் பூபதி. வளமில்லாத: வியாபாரம்
+செய்து வந்த வரதராஜன், தன் கூட்டாளி: காதரிடம், பூபதியின்
+
+## Image 7: 007-c14dbae1db.png
+
+- Image: `sirukathaigal/boobathiyin/007-c14dbae1db.png`
+
+செல்வம், செல்வாக்கு ஆகியவை பற்றி பெருமையாகப் பேசிக்
+கொண்டே நடந்தான். காதர், பணக்காரர் உயர்ந்தவர்கள்; ஏழை
+மட்டம் என்ற கொள்கையை ஏற்றுக் கொள்பவனல்ல. ஆகவே
+பூபதியைத் தன் நண்பன் புகழ்ந்தது பிடிக்கவில்லை. எவன் தன்
+சாமர்த்தியத்தால், உழைப்பால், முயற்சியால், வாழ்கிறானோ
+அவனைத்தான் பாராட்ட வேண்டுமே தவிர பணத்தை யாரோ,
+எப்படியோ இரட்டிக் கொடுத்துவிட, அதை வைத்துக் கொண்டு
+ப்டாடோப வாழ்வு நடத்துபவனைப் புகழ்வது, மதியீனம் என்பது
+தாதர். கொண்டிருந்த கருத்து. ஆகவே பூபதியின் மோட்டார்
+போகிற வேகத்தைக் கொஞ்ச நேரம் பார்த்துவிட்டு, “கிடக்கிறான்
+தள்ளப்பா! என்ன புகழ்வது அவனை! மோட்டாரிலே சவாரி
+'செய்கிறானாம்; அதிலே இருக்கிற ஒரு சிறிய ஆணியை விலை
+ட அ வாங்கத் தேவைப்படும் பணத்தைக்கூட அவன்
+ச )பாதித்ததில்லை - சம்பாதிக்க முடியாது - சம்பாதிக்க வழி
+-இடையாது. என்னமோ, பணக்காரனுக்குப் பிள்ளையாகப் பிறந்து
+விட்டான்; அகப்பட்டதை வைத்துக் கொண்டு ஆட்டம்
+ஆடுகிறான். இது ஒரு பெரிய கீர்த்தியா! இவன் தன்னுடைய
+ற சாதுர்யத்தாலும், உழைப்பினாலும், இந்தச் சொத்து
+'சேர்த்தானா, "திறமைசாலி என்று இவனைப் புகழ? அவன்
+"மட்டும், அந்தச் € மானுக்கு மகனாகப் பிறக்காதிருந்தால, அரை
+ரூபா சம்பாதிப்பானா அன்றாடம்? விரலை மடக்கு, அவனுக்குப்
+க ிிழைக்கும் மார்க்கம் இன்னது தெரியுமென்று! படாடோபத்தோடு
+சரி. படிப்பு கிடையாது. மிரட்டத் தெரியும். ஒரு வேலையும்
+தெரியாது. எப்படிப் பிழைப்பான்? என்ன வேலைக்கு இலாயக்கு?
+"கூலி வேலைகூட செய்ய முடியாதே, உடலிலே அதற்கு வலிவு
+ஏது? ஒன்றுக்கும் பயனற்றவன், ஏதோ அங்கே பிறந்ததால்
+ர ஆட்டம். இதிலே பெருமை இல்லை. இதற்காக
+இவ னை நான் மதிக்கத் தயாராக இல்லை! என்னைக் கேட்டால்
+அவன் கையாலாகாதவன்; பிழைக்கத் தெரியாதவன்; அப்பா
+சேர்த்து வைத்திருப்பதைச் செலவிட்டுக் கொண்டு திரியும் ஒரு
+வீண் ஜம்பக்காரன் என்றுதான் சொல்லுவேன்.'' என்று
+"வெறுப்பு, அலட்சியம் இரண்டையும் ஏராளமாகக் கலந்து
+பேசினான். பேசிவிட்டு, :அக்பர்ஷா'சிகரெட்டைப் பற்ற
+ஓ. குட். மார்னிங் மிஸ்டர்! உட்காருங்கள். உங்களைப்
+
+சான்ற. உயர்ந்த அந்தஸ்துக்காரர்கள்தான் ஊருக்கே மதிப்புத்
+
+## Image 8: 008-0e486e9608.png
+
+- Image: `sirukathaigal/boobathiyin/008-0e486e9608.png`
+
+தர வேண்டியவர்கள். உங்களுடைய உதவியும், இறமையும்தானே
+ஊருக்கே பொதுச் சொத்து! நீங்களெல்லாம், நினைத்தால் எந்தக்
+காரியமும் சாத்தியமாகும். நீங்கள்தான் ஊர் ஜனங்களைத்
+தலைமை தாங்கி நடத்திச் செல்ல வேண்டும். ஜனங்கள்
+நல்வழிப்பட, நாகரிகம் பெற, அறிவு பெற, நீங்கள்தான் வேலை
+செய்ய வேண்டும்'' என்றார் டிப்டிக் கலெக்டர்! ஜே.ஈஸ். பங்களா
+எதிரே வத்து: நின்றது,. மிட்டாதாரர் பூபதியின் மோட்டார்
+என்பதை டபேதார் சொன்னதும், புதிய நாற்காலியைப் போடச்
+சொன்னார். பூபதி கொஞ்சம் வெட்கத்துடன் உள்ளே வரக்
+கண்டு, புன்சிரிப்புடன் வரவேற்றார், கை குலுக்கினார். கொஞ்ச
+நேரம் (லோக: விஷயம் பேசினார். பிறகு, பூபதி யுத்தநிதி
+சம்பந்தமாக மேலும் கொஞ்சம் மும்முரமாக வேலை செய்ய
+வேண்டும் என்பதற்காக, அவனைத துண்ட ஆரம்பித்தார்.
+பூபதிக்குக் கொஞ்சம் “ஸ்துதி: செய்தால் போதும்; சொல்கிறபடி
+ஆடுவான். என்று ஜே.ஈஸ். நினைத்தார். ஆகவேதான், பூபதியின்
+பெருமையைப் பூபஇக்குக் கவனப்படுத்தினார். பூபதிக்கு ஆனந்தம்!
+விடை பெற்றுக் கொண்டு வெளியே வரும்போது, தன் வீட்டிலே
+ஏதோ விசேஷத்துக்குச் சமையல் செய்த வேதாந்தாச்சாரி வரக்
+கண்டான் பங்களாவுக்குள். “ஐயர், இங்கே என்ன வேலையாக
+வந்தீர்?” என்று பூபதி கேட்க, ஐயர் சிரித்துக் கொண்டே,
+“வேலையா? இது என் மருமான் மோன்னோ?'' என்றார்.
+“என்ன என்ன?'' என்று இடுக்கிட்டுப் போய்க் கேட்டான் பூபதி.
+“ஜெமீன்தார்வாள்! டிப்டிக் கலெக்டர் யாருன்னு நினைச்ச 72?
+அவருக்கு என் தமையனாரின் மகளைத்தான் கொடுத்திருக்கு”
+என்று கூறிப் பந்துதவத்தை விளக்கினார் வேதாந்தாச்சாரி.
+விளங்கவில்லை; கொஞ்சம் பரிதாபமாகவும் இருந்தது அந்தப்
+பேச்சு, பூபதிக்கு. கட்சமத்தைத் தெரிந்து கொண்டார்
+வேதாந்தாச்சாரி, “ஒ! அதனாலே மிரள்கிறீரா? டிப்டிக் கலெக்டர்,
+எங்களவாதான் ஜெமீன்தார்வாள்! பெயர் ஈஸ் என்று இருக்கவே.
+கிருஸ்தவன்னு எண்ணிண்டீர் போலிருக்கு. ஈஸ் என்பது,
+ஜெக ஸ் என்ற பெயரின் ரத்னச் சுருக்கம். அவர் பெயர்
+ஜெக சாச்சார். €மையிலே, ஈஸ்னு பெயரை வச்சுண்டார்.
+உததியோகத்துக்கும் அதே பெயர் ஒட்டிண்டது, அவ்வளவுதான் ''
+என்று விளக்கம் கூறினார். பூபதி, வேதாந்தாச்சாரியாருக்கு,
+வழக்கத்தைவிடச் சற்று அதிகமான மரியாதை காட்டிவிட்டு பூபதி
+மோட்டாரில் புறப்பட்டார் வீடு நோக்கி. கோடீஸ்வரன், வேறு
+வேலை இருப்பதாகக் கூறிவிட்டுப் போய்விட்டான், டாக்சியில்.
+
+## Image 9: 009-952efc2365.png
+
+- Image: `sirukathaigal/boobathiyin/009-952efc2365.png`
+
+பூபதி, பெரிய குடும்பம். நேக்கு அவா குடும்பத்திடம்
+ரொம்ப நாளாகப் பரிச்சயம்'” என்று கூறிக் கொண்டே வந்தாரா,
+வேதாந்தாச்சாரி. டிப்டிக் கலெக்டர் ஆன பிறகு உனக்கு
+இப்படிப்பட்ட ச மான்களின் சினேகம் கிடைத்தது. எனக்கு,
+இவர்களுடைய சனேகிதம் நெடுநாட்களாக உண்டு என்று கூறிக்
+கொள்வதிலே அவருக்கும் வகையான சந்தோஷம். டிப்டிக்
+கலெக்டர் ஆரம்பித்தார் தன் அர்ச்சணீ்னையை.
+
+ட் “இடியட்! கால்மேல் கால் போட்டுக் கொண்டு உட்கார்ந்
+இருந்தான், கொஞ்சங்கூட. மட்டு மரியாதை தெரியாமல. சுத்த
+ஞானரசூன்யம். வைசிராயின் பெயர் தெரியவில்லை; இன்னமும்
+விவிங்்டன்தான் வைசிராயாக இருப்பதாக எண்ணிக்
+கொண்டிருக்கிறான். இவனெல்லாம், ஊருக்குத் தலைவர்களாக
+வேண்டும். இந்த உதவாக்கரைக்கு ராவ்பகதூர் வேண்டுமாம்!
+எப்படியோ, பணம் சேர்ந்துவிட்டது; ஊரை ஏமாற்றிச் சேர்த்துக்
+கொண்டான். பணம் இருப்பதாலேயே, இவனுக்கு நாமெல்லாம்
+£திப்புத். தர வேண்டுமாம். மடையன்! ஒரு சாதாரண
+பர்க்க தெரிந்த விஷய ஞானம்கூட இவனுக்கு என்ன
+தெரியும்? மளமளவென்று அளக்கிறான், அந்த ஆபீசர் தெரியும்,
+இந்த கலெக்டர் தெரியுமென்று. தெரிந்து என்ன, தெரியாமல்
+(போனால் என்ன? எழுத்துப் பிழையில்லாமல் இன்னமும், தன்
+கையெழுத்தைப் போடத் தெரியாது. நாமும் உத்யோகம்
+செய்கிறோம், தலை நரைக்கிற வரையில். என்ன காண்கிறோம்!
+அந்த இடியட் “இன்கம் டாக்ஸ்' நான்தான் இந்த
+ர ட லயே அதிகம் கட்டுகிறேன் என்று பெருமையாகப்
+2பசக் கொள்கிறான். இவனுக்கு எஸ்டேட் மானேஜா, பி.ஏ.வாம்!
+எவ்வளவு அலட்சியமாகப் பேசுகிறான் தெரியுமோ? பணம்
+போய் எப்படியோ மாட்டிக் கொண்டு இப்படிப்பட்ட இடியட்
+களை “நம்ம வாயினாலேயே புகழ்ந்து பேச வேண்டிய
+நிலைமையைக்கூட உண்டாக்குகிறது!” என்று சுடச்சுடப்
+பேசினார், மிஸ்டர் ஜே. ஈஸ்.
+
+"பணம் இருக்கலாம்; நீர் பெரிய பங்களாவிலே வாழலாம்;
+அதை : எல்லாம் இங்கே சொல்லிக் கொண்டிருக்க
+வேண்டியதில்லை. உம்மிடம் சொத்து இருப்பதாலேயே, மதிப்புத்
+தர வேண்டுமென்ற அவசியம் கிடையாது. சட்டம் உம்மையும்
+சாதாரண மனிதனையும் சமமாக நடத்தும்: உளறாமல், கேட்ட
+கேள்விகளுக்கு ஒழுங்காக, உண்மையை ஒளிக்காமல் பதில்
+சொல்ல வேண்டும். குடித்துவிட்டு, நிலை தவறி, மோட்டார்
+இட்டிக் கொண்டு போனது, முதல் குற்றம்; மோட்டார். ஒட்ட
+
+## Image 10: 010-a705354050.png
+
+- Image: `sirukathaigal/boobathiyin/010-a705354050.png`
+
+லைசென்ஸ் வாங்கவில்லை - அது இரண்டாவது குற்றம்; நாலு
+காலன் பெட்ரோல் டின் உமது மோட்டாரில் இருந்தது. முதலில்
+அதற்கு “கோட்டா'” இல்லை; பிளாக் மார்க்கட் பெட்ரோல் அது.
+அது மூன்றாவது குற்றம், ஏன் உன்னை நான் சார்ஜு செய்யக்
+கூடாது?”” - அன்று மாலைதான், சார்ஜு எடுத்துக் கொண்டார்,
+சப்-இன்ஸ்பெக்டர் சாப்ஜான். அவருக்கு, கனம். ஆகாகான்
+தூரபாத்யம். ஆகவே அவர் சாதாரணமாக எந்தச் சீமானாதக
+இருந்தாலும், நமக்கென்ன என்று கூறுபவர்; பூபதியின்
+பூர்வோத்திரம் தெரியாது. தெரிந்தாலும் அதற்காகச்
+சப்-இன்ஸ்பெக்டர் தன் டீக்கைக் குறைத்துக் கொள்ளுகிறவரல்ல.
+டிப்டிக் கலெக்டரிடம் கைகுலுக்கிய ஜோரில், மோட்டாரைக்
+கொஞ்சம் வேகமாக ஒட்டினார் பூபதி. ஒரு சிறுவன், சிக்கிக்
+கொள்ள இருந்தான்; திடீரென்று, 'பிரேக்: போட்டார். ஜனங்கள்
+கூவினார்கள்; இவ்வளவும் போலீஸ் ஸ்டேஷனுக்கு வெகு
+சமீபத்திலே சொன்னார் ஜவானை. அவன் மோட்டாரை
+நிறுத்தச் சொல்லிவிட்டு, ஐயா கூப்பிடுகிறார்? என்று
+சொன்னான் பூபதிக்குப் பழைய சப்-இன்ஸ்பெக்டரே அங்கு
+இருப்பதாக எண்ணம். ஆகவே, ::நாளைக்கு வீட்டண்டை
+வரச்சொல்” என்று கூறினார். சப்-இன்ஸ்பெக்டர் சாப்ஜான்,
+இதை ஜவான் சொன்னதும் ஒரு முறைப்பிலே,
+
+ஜவானின் குலையை நடுங்க வைத்தார், வெளியே
+போனார் தன் கைப்பிரம்பை ஆட்டிக் கூப்பிட்டார் பூபதியை.
+புதிய ஆசாமியாக இருக்கவே, பூபதி, ஸ்டேஷனை நோக்கி வர
+வேண்டி இருந்தது. உள்ளே போய் இரும்: என்று கூறிவிட்டு,
+கும்பலை விரட்டும்படி ஜவான்்௧களை அனுப்பிவிட்டு... நேரே
+மோட்டார் இருக்குமிடம் சென்று சோதனை. போட்டு, பெட்
+ரோல் டின்னைக் கண்டுபிடித்து, அதைத் தூக்கிக் கொண்டு
+வரும்படி வேறோர் கான்ஸ்டெபிளுக்கு உத்திரவு செய்துவிட்டு,
+கோபமாக உள்ளே நுழைய, அங்கே “ரைட்டர்” பூபதி எதிரே
+நின்று கொண்டிருக்கவும், பூபதி டி.எஸ்.பி, போல, உட்
+கார்ந்திருக்கவும் கண்டு, ஒரு கனைப்பினால, ரைட்டரை,
+அவருடைய ஆசனத்துக்குத் துரத்திவிட்டு விசாரணையைத்
+துவக்கினார். பூபதி தன்னுடைய மிட்டாதார் நிலைமையை ஜாடை
+காட்டவே, சாப்ஜான், கோபம் அதிகரித்தது. பணக்காரர். என்ற
+பதவி, ஏழைகளை மிரட்ட உதவுமே தவிர, பொறுப்பாகவும்,
+தயவு தாட்சண்யம் பார்க்காமல் நேர்மையாகவும் நடந்து
+கொள்ளும் அதிகாரியை அடக்கப் பயன்படாது. என்பதை
+
+## Image 11: 011-9d252930c8.png
+
+- Image: `sirukathaigal/boobathiyin/011-9d252930c8.png`
+
+விளக்க வேண்டி, காரசாரமாகப் பேசி, சார்ஜாம் செய்து
+விட்டார்.
+
+கோபம்! ஆனால் யார் மீது காட்டுவது? பூபதி, மோட்டாரை
+ஒட்டிக் கொண்டு நேரே சப் கலெக்டரிடமே போகலாமா, இந்த
+சப்-இன்ஸ்பெக்டரைப் பற்றிக் கூறிவிட்டு வருவோமா என்று
+எண்ணினார். பிறகு, “பெட்ரோல் டின்'' கவனம் வந்தது! நேரே
+பங்களா போவது, பிறகு என்ன யோசிப்பது என்று தீர்மானித்து,
+மோட்டாரைக் கொஞ்சம் குறைந்த வேகத்திலேயே ஒட்டிக்
+கொண்டு. போனார். வழியிலே இரண்டு கூலிக்காரர்கள், மோட்
+டாரில் போகும் பூபதியைக் கண்டனர். அதிலே ஒருவன், கும்பிட்
+டான் பூபதியை. மற்றவன், “ஏன்? யார் அவர்?” என்று கேட்
+டான். கும்பிடு போட்டவன் சொன்னான்.
+1... 4மனுஷ ஜென்மமெடுத்தா, இப்படி எடுக்க வேண்டும். நாம்
+இருக்கிறோம் நாய் படாதபாடு பட்டுக் கொண்டு; அதோ பார்டா,
+போகிறான், மகாராஜன்! புண்யசாலி. போன ஜென்மத்திலே
+என்ன...பூஜை செய்தானோ! இந்த ஜென்மத்திலே, இவ்வளவு
+அந்தஸ்தோடு வாழறான்! கடவுள் கடாட்சம்டா'' என்றான்.
+மற்றவன், அதை மறுத்தும் பேசவில்லை; ஆதரித்தும்
+பேசவில்லை. நிலக்கடலையைக் கொரித்துக் கொண்டே
+இருந்தான். இன்னும் இரண்டொரு வீதிகளே இருந்தன
+வீடுபோக. வேகத்தைக் குறைத்தார் பூபதி; மறுபடியும் யோசனை
+வந்தது,..யுத்தப் பிரச்சாரகரைப் போய் பார்தது விஷயத்தைச்
+சொல்வோமா என்று. போவதா வேண்டாமா என்ற
+மோசனையில் ஈடுபட்டு, மோட்டாரின் வேகத்தைக் குறைததுக்
+கொண்டே இருந்தார். இரண்டு ஆலைத் தொழிலாளர்கள்,
+நடுப்பாதையில் சென்று கொண்டிருந்தனர்; மோட்டார்
+ஊதுகுழலைப் பலமுறை அழுத்த வேண்டி நேரிட்டது, பூபதிக்கு.
+ஆலைத் தொழிலாளர், நிதானமாக, மோட்டாரை ஒருமுறை
+திரும்பிப் பார்த்துவிட்டு, பாதை ஒரம் சென்றனர். மோட்டார்
+பிறகு அவர்களைத் தாண்டிச் சென்றபோது, ஒரு தோழன்,
+மறறவனிடத்திலே, “போறான் பார்டா, பொதுமாடு மாதிரி. நாம்ப
+வேகாத வெயிலிலே பாடுபட்டுவிட்டு, தள்ளாடி நடக்கிறோம்.
+எப்படிப் போறான் பார்த்தாயா, மோட்டார்லே. அந்த மோட்டார்
+வாரியிலேகூட அவருக்குக் களைப்பு வந்துட்டுது; கைக்குட்
+“டையை எடுத்து முகத்தைத் துடைக்கிறான்! நாம்ப, உடம்பு பூரா
+நண, வீட்டிலே போய்க் கழுவ வேணும்; தெருக் கோடியிலே
+
+## Image 12: 012-881c140429.png
+
+- Image: `sirukathaigal/boobathiyin/012-881c140429.png`
+
+தண்ணி வந்தா. . ."” என்று சொன்னான். பூபதியின் மாளிகை
+இருக்கும் தெருக்கோடியிலே, ஏதோ கூட்டம்; ஒருவன், உரத்த
+குரலில் பேசிக் கொண்டிருக்கக் கண்டான் பூபதி, ஒரு சமயம்
+யுத்தநிதி கூட்டமோ என்று எண்ணினான். பிறகு “செ! யுத்தநிதிக்
+கூட்டம் இப்படி ஏன் நடுத்தெருவிலே நடக்கப் போடறது?” என்று
+எண்ணினான். எதற்கும் கவனிப்போம் என்றெண்ணி மோட்
+டாரை மிக மெதுவாக ஒட்டிக் கொண்டு சென்றான். பிரசங்கி
+ஆவேசமாகப் பேசுவது தெரிந்தது. ஜனங்கள் மோட்டார்
+வருவதை வேடிக்கை பார்த்துக் கொண்டு, பிரசங்கத்தைச்
+சரியாகக் கவனிக்காமலிருந்தனர். பிரசங்கி, ஒரு விநாடி பேச்சை
+நிறுத்தினான். மோட்டாரைப் பார்த்தான்; அதிலே இருந்த
+பூபதியையும் பார்த்தான்; ஆரம்பித்தான் ஆவேசமாக.
+ஜனங்களின் கண்ணும் கருத்தும், பேச்சாளி பக்கம் திரும்பி
+விட்டது. “பாடுபடுபவர்களே! மேனி கருத்தவர்களே' என்று
+வார்த்தைகள் கணீர் கணீரெனக் கிளம்பிற்று. பூபதியின்
+முகத்திலே வெறுப்புக் குறி தோன்றிற்று. தொழிலாளிகள் கூட்
+டம் போலிருக்கு என்று மெள்ளக் கூறிக் கொண்டே, மோட்
+டாரைச் சற்று வேகமாக ஒட்டலானான். ஆனால் பிரசங்கியின்
+குரல் வேகமாக, அழுத்தமாக, ஆவேசத்துடன் மோட்டாரைத்
+துரத்திக் கொண்டு வருவது போல் இருந்தது. கூட்டத்திலே
+ஒலிபெருக்கி இருக்கவே, பூபதியின் செவியில் :ஒட்டி உடல்
+உலர்ந்து ஏன் நாம்ப இருக்கிறோம்? பாடுபடாமலா இருக்கிறோம்:
+ஏன் பசியாரச் சாப்பிடக் கூட. முடியலேன்னு கேள்வி கேட்கற
+யேப்பா! அதோபார், போறான், உழைப்புறிஞ்சி।! அதுபோன்ற
+ஜென்மங்களைக் கொழுக்க வைக்கத்தான் நாம்ப பரம்பரை
+பரம்பரையாப் பாடுபட்டுப் பாடுபட்டு இந்தக் கதி யானோம்.
+தெரியுதா? நாம்ப இப்படி இருக்கக் காரணம், அவனுங்க அப்படி
+இருக்கிறதாலேதான்'' என்று அந்தப் பிரசங்கி பேசியது
+தெளிவாகக் கேட்டது. கோபம் அதிகரித்தது பூபதிக்கு! மோட்
+டாரின் வேகமும் அதிகரித்தது. வேகம், பங்களா. வாசற்படிக்
+கதவைத் தாக்கிற்று. கோபம், தோட்டக்காரன் முதுகிலே. சுரீல
+எனப் பாய்ந்தது. ஆனால் அன்று இரவு, பூபதியின் தலையணை
+நனைந்து விட்டது. வெட்கம், கோபம், துக்கம். யாவும்: ஒரே
+சமயத்திலே தாக்கியதால் மனம் கண் வழியாக நீரைச்
+சொரிந்தது! தூங்க முயற்சித்தான்; முடியவில்லை.
+
+## Image 13: 013-fe8eaf6542.png
+
+- Image: `sirukathaigal/boobathiyin/013-fe8eaf6542.png`
+
+“உழைப்பை உறுஞ்சுபவன்! போகிறான் பார்! அந்த
+ஜென் மங்களை நாம் கொழுக்க வைக்கிறோம்'' என்ற சத்தம்,
+அவன் செவியைத் துளைத்துக் கொண்டே இருந்தது. சோடா
+குறைவாகக் கலந்து, விஸ்கியைச் சாப்பிட்ட பிறகும் அந்தச் சத்தம்
+கேட்டபடி இருக்கவே, பூபதி, ரேடியோவைத் இருப்பினான்.
+
+“பஞ்சம் பரவி, பட்டினி அதிகரிக்கவே, பாட்டாளிக்
+கூட்டம் படையபோலத் திரண்டு மாளிகைகளில் நுழைந்து
+கொள்ளை அடிக்கவும், தடுததவர்களைத் தாக்கவும், கைது செய்ய
+வந்த போலீசாரைப் பார்த்து, “நீங்களும் ஏழைகள் தானே என்று
+சொந்தம் கொண்டாடவும் தொடங்கிற்று. மோன்கள் அலறி
+ஓடினர். 'சக்திக்கேற்ற உழைப்பு! தேவைக்கேற்ற வசஇ' என்ற
+முழக்கம் எங்கும் கேட்டது. . .'* என்று ரேடியோவில், யாரோ,
+பிரெஞ்சுப் புரட்சியையோ, ரஷியப் புரட்சியையோ பற்றி
+விளக்கிப் பேசிக் கொண்டிருக்கவே, விஸ்கி பாட்டிலை
+'ரேடியோ மீது அடித்துவிட்டுப் பூபதி பெருங் கூச்சலிட்டான்.
+ஓடோடி வந்த தாயார், “என்னப்பா பூபதி!”” என்று கதறினார்கள்.
+“கெட்ட சகவாசம் வேண்டாமென்றால் கேட்கிறானா?”” என்றார்
+(தகப்பனார். டெலிபோன் மூலம் சேதி கேட்டு விரைந்து வந்த
+“டாக்டர் இனகர், “ஒன்றும் இல்லை. ரொம்பக் களைத்திருக்கிறார்;
+ரல் மாதம் ஊட்டி போய் இருந்தால் எல்லாம் சரியாகிவிடும்''
+என்று மருந்து இருக்குமிடத்தைக் கூறிவிட்டுப் போனார்.
+-பங்களாத் தோட்டக்காரச் சிறுவன்,
+னக “வடக்கே ரஷிய நாடொன்றிருக்குதாமே! அங்கே. . .'*
+என்று. பாட்டை பாடினான். விஸ்கியுடன், டாக்டர் கொடுத்த
+மருந்தும் சேர்ந்து, பூபதிக்கு மயக்கத்தைத் தந்தது. பாட்டு காதிலே
+பட்டதும் படாததுமாக இருக்கையிலேயே, படுக்கையில் சாய்ந்து
+விட்டான்.
+
+7-7-1946
+4 4 ௬3
+
+## English Translation
+
+“I have some property of my own, brother! I have no need to roam about. I possess the means to live in peace. God has not left me in a condition where I must labour until I am ruined. He did not write upon my head that I must suffer merely to live,” said Oyvur estate-holder Oyilananda Boopathi, somewhat angrily.
+
+The man speaking with him was “Brother” Duraisingam. He was urging Boopathi to work more energetically, sell more war-loan bonds and ensure that this locality made an especially large contribution when His Excellency the Governor visited Oyvur.
+
+At first, selling war bonds and collecting the war-aid fund had pleased Oyilananda Boopathi. He was especially “very happy” when he arranged music and dance performances for the fund. Duraisingam thought that adding a little energetic work to this pleasure would produce results. He also believed that as the war-aid total rose, the “distance” between himself and a Rao Sahib title would shrink. He therefore asked Boopathi to show greater activity.
+
+Boopathi became annoyed. “Let him wander! The government appointed him a war propagandist and pays him five hundred rupees a month. It is right that he should roam. How can he expect me to work harder?” he thought, and reminded Duraisingam of his rank.
+
+“Why would he not wander through town? He will drink and revel. Does he possess any anxiety, worry or hardship? He roams like a bull. I laboured to preserve what we have and acquire property and comfort for him. Secure in that knowledge, he staggers about intoxicated, with no concern for the world. Why should rising prices trouble him? He has food, friends, and me to give him money whenever he asks for spending. He thinks crops appear, are sold and money accumulates, so he may spend and live merrily. Only I, who struggled to gather that wealth, know its value.”
+
+Great landlord Ponnuramar often heard that his son Boopathi had gone to arrange Bhuvaneswari’s dance recital or invite the singer Kalyani, and grew angry. People told him his son was on government business, raising money for the war, and sought those women only for war-aid performances, not private amusement. Ponnuramar was not pacified.
+
+“Call it war work or fund-raising, or give it any name you please. Boopathi now spends every hour around those painted smilers. It is wrong and must stop,” he said.
+
+He remembered his own youth. There had been no war-fund work then, but there had been arrangements for the Navaratri festival. It was while Ponnuramar served that cause zealously that Tilaka and Annam became his intimate friends. It was then too that he learned to take “a little superior liquor” before bed. So he flew at anyone who said his graceful son travelled only on war-fund work. What had been “Navaratri” for him had become “war-fund work” for his son.
+
+“He should live peacefully like a king! His house is a palace and his garden a celestial grove. What does he lack? Is there any task here for which he has no servant? Why can he not remain at ease? God has withheld nothing and given us every kind of wealth. Why not enjoy it and remain happily at home?
+
+“Yet he roams constantly as though he must labour for a living. He never stays home or eats at the proper hour. He does not care for his body. He will talk to everyone until his throat becomes sore. Why must the boy suffer so? When good fortune is written upon his head, why should he wander? Can he not remain peacefully at home?” his mother lamented.
+
+Whenever she saw Boopathi outside, she grieved that her son was ruining his health through such wandering. What did she know? He hunted pleasure and did not perform a particle of work for the town. Drinking all night had made him thin; his mother believed his body had wasted from labouring for the public.
+
+She believed many people must wander, struggle and earn money through toil because God had written it upon their heads. She pitied her son for supposedly working on behalf of those people.
+
+“Is any expense remarkable for a man of your status and wealth? Men who appeared only yesterday ride Chevrolets. Why should you not ride a Rolls-Royce? That fellow tosses away a thousand-rupee note at the club without a thought, while your hand trembles to take out a hundred. Do your clothes suit your station? Doctor Damodar never leaves home without tweed; look at what you wear!
+
+“Whatever else you do, you must not live beneath your wealth and rank. People will not respect you. Abraham told me the other day: ‘What is so magnificent about him? You call him the son of a great man, but he smokes 555s, the same cigarettes as us.’ I felt ashamed. However much you spend, it suits you.”
+
+This was the philosophy of Kodeeswaran. His name meant millionaire, though his circumstances were dreadful. He was, however, a formidable operator.
+
+The arrogance of the wealthy becomes a fire that destroys them. So men like Kodeeswaran must keep stirring that fire and never let it diminish. The rich man must never think he spends too much or wastes money. However much he spends, no harm is done; it suits him. Only such expenditure matches his rank and wins public respect. If he economizes, people will despise him. Such ideas must continually sprout in his mind, and the crop must be irrigated with the water of flattery.
+
+Fruit grows on a tree, not upon the road one walks. The road contains thorns and stones. A fool says, “Only this stone is available to me; the fruit belongs to the gardener, for I am merely a traveller.” The clever man picks up the stone, throws it at the distant fruit, lets the stone go and eats the fallen fruit.
+
+“Fruit hangs above and a stone lies at your feet. Give your hand and mind a little work. Then the fruit is yours. Does it belong to the tree or gardener?” Kodeeswaran argued.
+
+Money was on the rich man as fruit was on the tree. The poor man had none, but did he not possess the art of knocking down the rich man’s money if he used his brain?
+
+Kodeeswaran thus became a profitable companion of wealthy men. He spoke to cool their hearts. He did not beg; he said money was no great matter. Whatever his patron spent, he called ordinary. He praised before his trapped friend the walk, manner and style of other rich men, arousing wounded pride. That pride appeared as a Chevrolet, a tweed coat, visits to expensive hotels, and sofa seats at cinemas and plays.
+
+When Boopathi worried that he spent too much on unnecessary things, Kodeeswaran gave the advice above. He stirred Boopathi’s pride so skilfully that Boopathi came to believe he truly failed to spend according to his rank, and even felt ashamed.
+
+The result that day was a delectable feast for Boopathi at Ramamani’s house. Kokila, Ramamani’s younger sister, flirted with Kodeeswaran.
+
+“What do you lack? They say the estate-holder never crosses a line you draw,” she said.
+
+“I draw the line; Rama builds the new house,” Kodeeswaran joked.
+
+“Does that house not belong to you too?” Kokila reminded him of his “right.”
+
+Another of Boopathi’s friends was a different sort.
+
+“What pain or irritation can trouble you? There is plenty of money in the chest, and a capable father to increase it through interest. You can roam happily, buy things without considering price and amuse yourself without concern for time. Spend as much as you please. Did you earn it through hardship, that anything is lost?
+
+“Property somehow accumulated, and you can live comfortably. Why should you labour? Had you struggled like others to earn money, you too would know its value. You were born the son of a rich man, raised in the cradle of comfort and now roll upon the swan-down bed called pleasure. What do you know of the town’s hardship, the agitation of one exhausted in search of money or the troubles of a labourer? Your entire concern is only to seek varied amusements.”
+
+The speaker was Varadarajan, a merchant whose business had little prosperity and who had once studied with Boopathi. He argued that money belonged to a rich man as fragrance to a flower. “We are green leaves that will become dry litter with time. Can a leaf expect to possess a flower’s scent?”
+
+Encountering Boopathi and Kodeeswaran returning from pleasure, he spoke as a friend of the secret of Boopathi’s happiness and his own anxiety. He could not say such things to other wealthy men.
+
+“Go away, sour face!” Boopathi laughed, patted his back and drove off in the car he had stopped only long enough to speak.
+
+Varadarajan walked on, proudly describing Boopathi’s wealth and influence to his business partner Kadar. Kadar did not accept the doctrine that the rich were superior and the poor inferior, so he disliked his friend’s praise. He believed one should honour a man who lived through his own ability, labour and effort, not one who conducted a pompous life with money somehow accumulated by someone else.
+
+He watched Boopathi’s car recede and said:
+
+“Leave him aside. Why praise him? He rides in a motor car, but he has never earned even enough to buy one little screw in it. He could not earn it and knows no way to do so. He happened to be born a rich man’s son and now performs with whatever he found. Is that great glory?
+
+“Did his own intelligence and work gather this wealth, that we should praise his skill? Had he not been born that rich man’s son, could he earn half a rupee a day? Fold a finger for every way he knows to earn. Pomp is all he has. No learning, only the ability to intimidate. He knows no work. How would he live, and for what job is he fit? He cannot even labour for wages; where is the strength in his body?
+
+“He is useless, and struts only because he was born there. There is no greatness in it, and I will not respect him for it. Ask me and I shall call him incapable, unable to make a living, and a vain boaster wandering about spending what his father accumulated.”
+
+Kadar spoke with abundant contempt and lit an Akbar Shah cigarette.
+
+* * *
+
+“Oh, good morning, mister! Sit down. People of high station like you must give honour to the entire town. Are not your assistance and ability public assets? If people like you decide upon anything, it can be accomplished. You must lead the townspeople. You must work so that they follow a good path and acquire civilization and knowledge,” said Deputy Collector J. Es.
+
+When the orderly announced that estate-holder Boopathi’s car stood before the bungalow, the officer ordered a new chair brought out. He welcomed the slightly bashful Boopathi with a smile and handshake, spoke for a while about worldly matters, then began prodding him to work more intensely for the war fund.
+
+J. Es believed a little praise would make Boopathi dance as directed. He therefore reminded Boopathi of his greatness. Boopathi was delighted.
+
+As he took leave, he saw Vedantachari, who had once cooked for a function at his house, entering the bungalow.
+
+“Iyer, what business brings you here?” Boopathi asked.
+
+“Business? Is he not my relative?” Vedantachari replied with a laugh.
+
+Boopathi started. “What? What?”
+
+“Zamindar sir, who do you think the Deputy Collector is? My elder brother’s daughter was given in marriage to him,” the cook said, explaining the relationship.
+
+Boopathi did not understand and found the talk rather pathetic. Vedantachari perceived his difficulty.
+
+“Oh! Is that why you are alarmed? The Deputy Collector is one of us, Zamindar sir. Since his name appears as Es, you seem to have thought him a Christian. Es is merely the jewelled abbreviation of his name, Jagadeesa Sastri. In England he adopted Es as his name, and it became attached to his official service, that is all.”
+
+Boopathi showed Vedantachari slightly more respect than usual and departed for home in his car. Kodeeswaran had already left by taxi, saying he had other business.
+
+“Boopathi belongs to a great family. I have known them for a very long time,” Vedantachari said as he entered. It gave him a certain pleasure to imply: “After becoming Deputy Collector, you acquired the friendship of wealthy men like these; I have long possessed their friendship.”
+
+The Deputy Collector began his own ritual of abuse.
+
+“Idiot! He sat with one leg crossed over the other, without the slightest decorum or respect. A complete void of knowledge. He does not know the Viceroy’s name and still imagines Willingdon holds the office. Such men are expected to lead the town. This useless fellow wants a Rao Bahadur title!
+
+“Money somehow accumulated; he gathered it by cheating the town. Because he has money, we must all honour him. Fool! What does he know of matters known to an ordinary clerk? He rattles on about knowing this officer and that collector. What if he does, and what if he does not? He still cannot sign his name without a spelling error.
+
+“We serve until our hair turns grey. What do we obtain? That idiot boasts, ‘I pay the most income tax in this entire district.’ He employs a B.A. as estate manager! Do you know how carelessly he speaks? Money goes and fastens itself somewhere, then creates a situation in which we must praise such idiots with our own mouths.”
+
+Mr J. Es spoke with burning contempt.
+
+* * *
+
+“You may have money and live in a large bungalow, but there is no need to speak of it here. Property alone does not oblige us to respect you. The law treats you and an ordinary man equally. Stop babbling and answer the questions properly without hiding the truth.
+
+“Driving a motor car while drunk and out of control is the first offence. You have no driving licence; that is the second. There was a four-gallon petrol tin in your car. You have no quota for it; it is black-market petrol. That is the third. Why should I not charge you?”
+
+That evening Sub-Inspector Sahibjan took up the charge. His Excellency the Aga Khan was a distant relative of his, and so he ordinarily said, “Why should any rich man matter to us?” He did not know Boopathi’s ancestry. Even had he known, he was not a man to diminish his authority on that account.
+
+Elated from shaking hands with the Deputy Collector, Boopathi drove rather fast. A boy nearly came under the car. He braked suddenly and people shouted. It happened very near the police station.
+
+A constable stopped the car and said, “Sir is calling you.” Boopathi assumed the former Sub-Inspector was still posted there.
+
+“Tell him to come to my house tomorrow,” he replied.
+
+When the constable reported this, one glare from Sahibjan made him tremble. The Sub-Inspector came out, waving his cane, and summoned Boopathi. Since this was a new officer, Boopathi had to approach the station.
+
+“Go inside and sit,” Sahibjan said. He sent constables to disperse the crowd, went directly to inspect the car, found the petrol tin and ordered another constable to carry it in.
+
+He entered angrily. The station writer stood before Boopathi while Boopathi sat like a Deputy Superintendent of Police. With a clearing of his throat Sahibjan drove the writer back to his own seat and began the inquiry.
+
+Boopathi hinted at his status as an estate-holder, which only increased Sahibjan’s anger. The title “rich man” might help intimidate the poor, but it could not subdue an officer who acted responsibly and honestly without fear or favour. To make this clear, Sahibjan spoke sharply and filed the charges.
+
+Boopathi was furious, but upon whom could he show it? He considered driving straight to the Sub-Collector to complain about the Sub-Inspector. Then he remembered the petrol tin. He decided to go directly home and think afterwards, and drove at a lower speed.
+
+Two labourers saw him pass. One saluted him.
+
+“Why? Who is he?” asked the other.
+
+“If one takes human birth, it should be like that. We suffer worse than dogs, while there goes a maharaja, a blessed man! What worship must he have performed in a former birth to live with such rank in this one? It is God’s grace,” replied the first.
+
+The other neither agreed nor objected, but continued chewing groundnuts.
+
+Only another street or two remained before Boopathi’s house. He slowed down, wondering again whether to see the war propagandist and explain the matter. While he deliberated, two factory labourers walked in the middle of the road. He had to sound the horn repeatedly. They calmly looked back once and moved to the side.
+
+As the car passed, one said to the other:
+
+“Look at him going like a temple bull. We toil beneath the burning sun and stagger home. See how he travels by car. Even that ride has tired him, and he takes out a handkerchief to wipe his face. Our entire bodies are soaked; we must wash at home, if water comes to the street tap.”
+
+At the end of the street containing Boopathi’s mansion stood a crowd. A man spoke loudly. Boopathi first wondered whether it was a war-fund meeting, then thought, “Why would such a meeting be held in the middle of the street?” He slowed to observe.
+
+The speaker talked passionately. People watched the approaching car and ceased attending properly. The speaker stopped for a second, looked at the car and Boopathi inside, then resumed with intensity. Every eye and mind turned back to him.
+
+“You who labour! You whose bodies are darkened by toil!” the words rang out.
+
+Disgust appeared upon Boopathi’s face. “It seems to be a workers’ meeting,” he murmured and accelerated. But the speaker’s forceful, impassioned voice seemed to chase the car. Because the gathering had a loudspeaker, Boopathi heard clearly:
+
+“You ask why our bodies have dried to bone. Do we not labour? Why can we not even eat enough to fill our stomachs? Look there. The exploiter of labour is passing! We have toiled generation after generation and reached this condition only to fatten creatures like him. Do you understand? We are like this because they are like that.”
+
+Boopathi’s anger and the car’s speed both increased. The speed struck the gate at the entrance to his bungalow. His anger struck the gardener’s back with a sharp blow.
+
+But that night Boopathi’s pillow became wet. Shame, rage and grief attacked him together, and his mind poured water through his eyes. He tried to sleep but could not.
+
+“The exploiter of labour! Look at him passing! We fatten those creatures!” The cry continued piercing his ears.
+
+Even after he drank whisky with little soda, it remained. Boopathi switched on the radio.
+
+“As famine spread and hunger increased, the working masses gathered like an army, entered mansions and looted them, attacked those who tried to stop them, and claimed kinship with police who came to arrest them, saying, ‘Are you not poor too?’ The rich fled screaming. Everywhere arose the slogan: ‘Work according to ability! Provision according to need!’”
+
+Someone on the radio was explaining either the French or Russian Revolution. Boopathi hurled the whisky bottle at the set and screamed.
+
+His mother came running. “What is it, Boopathi?” she cried.
+
+“Does he listen when I tell him to avoid bad company?” said his father.
+
+Doctor Inagar hurried over after receiving a telephone message.
+
+“It is nothing. He is extremely tired. Everything will be all right if he spends a month in Ooty,” the doctor said, prescribed medicine and left.
+
+The bungalow gardener’s boy sang:
+
+“They say there is a country called Russia in the north; there...”
+
+The whisky and the doctor’s medicine together made Boopathi drowsy. While the song barely entered his ears, he sank upon the bed.
+
+7 July 1946

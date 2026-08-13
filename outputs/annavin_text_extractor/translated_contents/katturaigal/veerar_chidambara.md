@@ -1,0 +1,200 @@
+# வீரர் சிதம்பரனார்! / The Hero Chidambaranar!
+
+**Tamil title:** வீரர் சிதம்பரனார்!  
+**English title:** The Hero Chidambaranar!  
+**Source file:** `katturaigal/veerar_chidambara.md`
+
+## Source Tamil (verbatim)
+
+- Source image folder: `/Users/pugazhendhirajendran/Documents/Codex/2026-07-09/https-www-annavinpadaippugal-info/outputs/annavin_text_extractor/ocr_images/katturaigal/veerar_chidambara`
+- OCR language: `tam`
+- Tesseract page segmentation mode: `3`
+- OCR cleanup: `enabled`
+
+## Image 1: 001-e5c000afcf.png
+
+- Image: `katturaigal/veerar_chidambara/001-e5c000afcf.png`
+
+19, வீரர் சிதம்பரனார்!
+
+மறைந்த மாவீரர் வ.உ.சி; அவர்களையும், அவர்
+நாட்டின் விடுதலைக்காக ஆற்றிய அரும்பெரும்
+தொண்டுகளையும் மக்கள் மறக்க முடியாது. பேரும், புகழும்
+பெற்றுச் சொந்த வாழ்க்கைக்குத் தங்களுடைய உழைப்பும்
+தேச பக்தியும் பயன்படவேண்டுமென்ற சுயநல நோக்கம்
+கொண்டவர்களைப் போலன்றி, உண்மையாகவே நாட்டுக்கு
+விடுதலையும், மக்களுக்கு நல்ல வாழ்க்கையும் ஏற்பட
+வேண்டுமென்ற பொதுநல நோக்குடன் - பேரையும்,
+புகழையும் விரும்பாமல் - ஆடம்பரமற்ற வாழ்க்கையை
+நடத்தி நாட்டுப் பணியாற்றியவர்.
+
+- வெள்ளையன் இந்நாட்டை விட்டு விரட்டப்பட
+வேண்டுமனால், அவனுடைய ஆதிக்கத்தின் ஆணிவேரான
+வியாபாரத்துறையைத் தான் முதலில் கைப்பற்றவேண்டுமென்ற
+ஒருசிறந்த திட்டத்தை முதலில் வகுத்த பெருமை
+சிதம்பரனாருக்கே உரியதாகும். 1906-ல் அவரால்
+ஆரம்பிக்கப்பட்ட “சுதேசிக் கப்பல் கம்பெனி” இந்தச் சிறந்த
+நோக்கத்துடனேயே தொடங்கப்பட்டதாகும். என்றாலும்
+அவருடைய திட்டம் வெற்றி பெற முடியாதபடி அரசாங்கம்
+அவரை நாட்டை விட்டே துரத்திவிட்டது - தீவாந்திரத்
+தண்டனை கொடுக்கப்பட்டது. கடலில் கப்பலோட்ட முயன்ற
+ஒரு தமிழன், கடல் நடுவே கப்பல் போல் மிதந்துகொண்டு
+இருக்கும் ஒரு தீவில் சிறைவைக்கப்பட்டார்.
+
+ஆறாண்டுகள் பொறுத்து வீரர் சிதம்பரனார்
+
+## Image 2: 002-0c693368bc.png
+
+- Image: `katturaigal/veerar_chidambara/002-0c693368bc.png`
+
+சிறையினின்றும் வெளியே வந்தபோது, வறுமையென்னும்
+கொடிய பகைவனே அவரை வரவேற்றான். வறுமை அவரை
+ஆட்டிப் படைத்தது. அன்றாட வாழ்க்கையை நடத்துவது
+கூட முடியாது போயிற்று. அவரை ஆதரித்த 'அன்பர்கள்'
+எல்லோரும் கைவிட்டுவிட்டனர். நாட்டின் விடுதலைக்காக
+ஒரு பெரிய அரசாங்கத்தோடு போராடிய சிதம்பரனார்,
+கடைசியாக வறுமையோடு போராடி அதில் வெற்றிபெற
+முடியாமல் 1936-ல் உயிர் நீத்தார்.
+
+எந்தக் காரியத்தைச் செய்ய வேண்டுமென்று அவர்
+நினைத்துப் பாடுபட்டாரோ, அந்தக் காரியம் இன்று வெற்றி
+பெற்றுவிட்டது. 43 ஆண்டுகளுக்கு -முன் ஓட்ட வேண்டு
+மென்று அவர் நினைத்த கப்பல் இன்று ஓடுகிறது. இது
+அவருடைய கனவை நினைவாக்கும் ஒரு நற்செய்தியாகும் -
+தமிழ் மக்களுக்கு: அவர் உண்டாக்கி தந்த ' ஒரு பெருமை
+யாகும். . பண்டைக் காலத்தில் கப்பலோட்டிப் புகழ்பெற்ற
+தமிழர்களின் சிறந்த பண்பை, 'வ.உ.சிதம்பரம்' என்ற கப்பல்
+நிலைநாட்டி விட்டது.
+
+வீரர் .சிதம்பரனாரின் கனவை நினைவாக்கிவிட்டோம்
+என்ற மகிழ்ச்சி ஒவ்வொரு தமிழனுக்கும் உண்டாகும் இந்தச்
+சமயத்தில், சிதம்பரனார் பெயரால் கடலில் கப்பல் ஓடுகிறது
+- ஆனால் அவருடைய குடும்பமாகிய கப்பல் கரை காண
+முடியாமல் தத்தளித்துக் கொண்டிருக்கிறதென்பதையும் நாம்
+மறந்து விடக்கூடாது. சிதம்பரனாரின் துணைவியார் குடி
+யிருப்பதற்குக் கூட வீடின்றித் துயரக் கடலில் மிதந்து
+கொண்டிருக்கிறார். இது மிகமிக முக்கியமாகக் கவனிக்கப்பட
+
+## Image 3: 003-4d4835cb50.png
+
+- Image: `katturaigal/veerar_chidambara/003-4d4835cb50.png`
+
+வேண்டிய விஷயமாகும் என்பதை நாம் வலியுறுத்துவதோடு
+இதுபற்றி 'லோகோபகாரி' ஆசிரியர் தோழர் ப.ச.
+நெல்லையப்பர் அவர்கள் விடுத்துள்ள வேண்டுகோளையும்
+இங்கு வெளியிடுகிறோம்
+
+தூத்துக்குடியிலிருந்து கொழும்புக்குச் செல்லும் 'வ.உ.
+சிதம்பரம்' என்ற கப்பலின் மூதல் யாத்திரை, சுதந்திர
+இந்தியாவின் முதல் கவர்னர் ஜெனரல் கனம் பொருந்திய
+ராஜாஜி அவர்களால் தொடங்கி வைக்கப்பட்டது. சரித்திரத்தில்
+இடம்பெறவேண்டிய௰ய விஷயமாகும். தமிழ் மக்கள் இதுபற்றி
+மகிழ்ச்சியடைய வேண்டும். சிதம்பரனார் சுமார் நாற்பது
+ஆண்டுகளுக்கு முன் சுதேசிக் கப்பல் கம்பெனியைத் தொடங்கி
+நடத்தியபொழுது அவருடன் தொண்டு செய்யும் பாக்கியம்
+பெற்ற என் போன்றவர்களுக்கு இந்த நிகழ்ச்சி மட்டற்ற
+மகிழ்ச்சி அளிப்பதாகும்.
+
+காலஞ்சென்ற சிதம்பரனார் பரதேசிக் கப்பல்
+கம்பெனியுடன் பேராடி, சுதேசி கப்பற் கம்பெனியைத்
+தொடங்கினார். அது காரணமாக எண்ணிறந்த இன்னல்களை
+அடைந்து, சிறைவாசமும் செய்தார். அவர் கனவு நனவாவது
+பற்றி அவர் ஆன்மா இன்று. சாந்தி பெறும். அவரது சுதேசிக்
+கப்பல் முயற்சிக்கு அன்னாளில் இடையூறு விளைத்த பரதேசிக்
+கப்பல் கம்பெனி இன்று தூத்துக்குடியை விட்டு மறைந்து
+விட்டதும், அதற்குப் பதில் ஒரு சுதேசிக் கப்பல் கம்பெனி
+தோன்றியிருப்பதும் குறிப்பிடத்தக்க நிகழ்ச்சிகளாகும்.
+
+சிதம்பரனார் பேரால் ஒரு கப்பல் ஓடுவது போதாது,
+
+அவர் பேரால் நூற்றுக்கணக்கான வர்த்தகக் கப்பல்களும்,
+
+## Image 4: 004-6662d57955.png
+
+- Image: `katturaigal/veerar_chidambara/004-6662d57955.png`
+
+பிரயாணிக் கப்பல்களும் நமது நெடுங்கடலில் ஓட
+வேண்டும்.
+
+மேலும் சிதம்பரனார் நினைவைப் போற்றுமாறு அவர்
+பேரால் கப்பல் விடும் நமது நாட்டார் அவர் குடும்பத்தைப்
+போதிய அளவு கவனியாதிருப்பது அறமில்லை. அவரது
+மனைவி மக்கள் வாழ்ந்திருப்பதற்கு அவர்களுக்கென்று ஒரு
+வீடு இல்லை. இன்னும் முற்றுப் பெறாமலிருக்கிற சிதம்பரனார்
+நிதியிலிருந்து அவர் மனைவியாருக்கு மாதம் முப்பது ரூபாய்
+கொடுத்து வருவதே நாட்டு மக்கள் அவர் குடும்பத்தாரிடம்
+காட்டும் நன்றியாக இருக்கிறது. சிதம்பரனார் நிதியிலிருந்து
+அவர் குடும்பத்தாருக்குத் தாராளமாக உதவி செய்ய வேண்டு
+மென்பது எனது வேண்டுகோள்.
+
+சிதம்பரனாரின் மூத்த புதல்வர் வ.உ.சி. ஆறுமுகம்
+சென்ற சுமார் இருப்தாண்டுகளாக அரசாங்க சேவையில்
+இருந்து வருகிறார். இரண்டாவது புதல்வர் வ.உ.சி.
+சுப்பிரமணியம் சென்ற மூன்று ஆண்டுகளாகத் தினமணி
+பத்திரிகையில் உதவி ஆசிரியராகச் சேவை செய்து வருகிறார்.
+கடைசிப் புதல்வர் வ.உ.சி. வாலிசுரன் ராமநாதபுரம் ஜில்லாவில்
+அரசாங்க ஊழியம் செய்து வருகிறார். இவர்களில் ஒருவரும்
+அதிக வருவாயுள்ள பெரிய உத்தியோகங்களில் இல்லை.
+எனவே தேச முழுமையும் சிதம்பரனாரைப் பற்றிச் சிந்திக்கின்ற
+இந்நாளில் அவரது குடும்ப நிலைமையைப் பற்றி நினைவூட்ட
+வேண்டியது எனது கடமை என்று தோன்றியதால் இதை
+எழுதலானேன்.”
+
+இவ்வறிக்கை, சிதம்பரனாரின் குடும்பம் இன்று என்ன
+நிலையில் : இருக்கிறதென்பதை விளக்கியும், அதற்காவன
+
+## Image 5: 005-cbce9c4734.png
+
+- Image: `katturaigal/veerar_chidambara/005-cbce9c4734.png`
+
+செய்ய வேண்டுமென்பதை வற்புறுத்தியும் வெளியிடப்பட்ட
+தாகும். சிதம்பரனாரின் பெயரால் கப்பலோட்டும் நிலையைப்
+பெற்ற இந்தச் சமயத்தில், அதற்காகவே தம்முடைய
+வாழ்க்கையை வறுமையின் இருப்பிடமாக்கிக் கொண்டவரின்
+குடும்பத்தைப் பற்றி எண்ணவும், அதற்கான ஒரு நல்ல
+ஏற்பாட்டை - உதவியைச் செய்யவும் பொது மக்களும்,
+அரசாங்கமும் முன்வரவேண்டுமென்று கேட்டுக் கொள்கிறோம்.
+
+ஒப்பற்ற சேவை புரிந்த சிதம்பரனாருக்கு நாடு காட்ட
+வேண்டிய நன்றியறிதலையும், செய்ய வேண்டிய கடமையும்
+இதுவரை மறந்திருந்ததுபோல் இனியும் இருக்கக் கூடா
+தென்பதையும் நினைவூட்டுவதோடு, செய்ந்நன்றி கொல்லாத
+தமிழர் பண்பாட்டினை நிலைநாட்டவும், சிதம்பரனார் புகழ்
+என்றும் நிலைக்கவும், அவருடைய குடும்பம் மனவேதனை
+யால் நொந்து போகாதபடி பார்த்துக் கொள்ளவும் இப்போதா
+வது தமிழ் மக்கள் முன் வந்து ஆவன செய்யவேண்டுமென்பதே
+எமது வேண்டுகோளும் விருப்பமுமாகும்,
+
+(திராவிட நாடு - 13-2-49)
+
+## English Translation
+
+The people cannot forget the late great hero V. O. C. or the immense and invaluable service he rendered for the country's freedom. Unlike those whose selfish purpose is to use their labour and patriotism to secure name and fame for their private lives, he truly sought freedom for the country and a good life for the people. He desired neither name nor fame, lived without ostentation, and served the nation with the common good as his purpose.
+
+Chidambaranar deserves the distinction of being the first to formulate an excellent plan: if the white man was to be driven out of this country, commerce, the taproot of his dominance, had first to be captured. The Swadeshi Steam Navigation Company that he founded in 1906 was begun with this noble purpose. The government, however, prevented his plan from succeeding by banishing him from the country and sentencing him to transportation. A Tamil who tried to sail a ship upon the sea was imprisoned upon an island that itself floated like a ship in the middle of the sea.
+
+When the hero Chidambaranar emerged from prison after six years, a cruel enemy named poverty welcomed him. Poverty tossed him about. Even conducting his daily life became impossible. All the "friends" who had supported him abandoned him. Chidambaranar, who had fought a mighty government for the country's freedom, finally fought against poverty. Unable to defeat it, he died in 1936.
+
+The work he conceived and struggled to accomplish has succeeded today. The ship he wished to sail forty-three years ago now sails. This is good news that turns his dream into reality for the Tamil people; it is a distinction that he created and gave them. The ship named *V. O. Chidambaram* has reaffirmed the admirable quality of the Tamils of ancient times who won fame by sailing ships.
+
+At this moment, when every Tamil rejoices that the hero Chidambaranar's dream has become reality, we must not forget that although a ship bearing his name sails upon the sea, the ship that is his family still flounders without sighting the shore. Chidambaranar's wife does not even have a house in which to live and floats upon a sea of sorrow. We stress that this matter requires the most urgent attention, and we reproduce here the appeal issued by comrade P. S. Nellaiyappar, editor of *Lokopakari*:
+
+> The first voyage of the ship named *V. O. Chidambaram* from Thoothukudi to Colombo was inaugurated by the Honourable Rajaji, the first Governor-General of independent India. This is an event that deserves a place in history. The Tamil people should rejoice over it. For people like me, who had the privilege of serving beside Chidambaranar when he founded and operated the Swadeshi Steam Navigation Company about forty years ago, this event brings boundless joy.
+>
+> The late Chidambaranar struggled against a foreign shipping company and founded the Swadeshi company. For that reason, he suffered innumerable hardships and endured imprisonment. His spirit will now find peace because his dream has come true. It is also noteworthy that the foreign company which obstructed his Swadeshi shipping venture in those days has now disappeared from Thoothukudi and that a Swadeshi shipping company has arisen in its place.
+>
+> It is not enough for one ship to sail in Chidambaranar's name. Hundreds of merchant ships and passenger vessels bearing his name must sail upon our broad seas.
+>
+> Moreover, while our countrymen launch a ship in Chidambaranar's name to honour his memory, it is not righteous that they fail to attend adequately to his family. His wife and children have no house of their own in which to live. The only gratitude the people of the country show his family is the thirty rupees paid monthly to his wife from the Chidambaranar Fund, which has still not been completed. My appeal is that generous assistance be given to his family from that fund.
+>
+> Chidambaranar's eldest son, V. O. C. Arumugam, has been in government service for approximately the past twenty years. His second son, V. O. C. Subramaniam, has served for the past three years as an assistant editor at the *Dinamani* newspaper. His youngest son, V. O. C. Valeeswaran, is a government employee in Ramanathapuram district. None of them holds a senior post with a large income. Since the entire country is thinking of Chidambaranar today, I felt it my duty to remind people of his family's circumstances, and I have therefore written this.
+
+This statement was issued both to explain the present condition of Chidambaranar's family and to insist that the necessary measures be taken. At this moment when we have attained the position of sailing a ship in Chidambaranar's name, we appeal to the public and the government to come forward, think of the family of the man who turned his own life into an abode of poverty for that very cause, and make proper arrangements to assist them.
+
+We remind the country that it must not continue to forget, as it has until now, the gratitude it owes and the duty it must perform toward Chidambaranar for his incomparable service. It is our appeal and desire that the Tamil people come forward at least now and take the necessary action: to uphold the Tamil virtue of never forgetting a benefit received, to ensure that Chidambaranar's fame endures forever, and to protect his family from wasting away in anguish.
+
+*Dravida Nadu*, 13 February 1949.
+
+## Translator's Notes
+
+V. O. Chidambaram Pillai is referred to by the honorific Tamil form Chidambaranar and the initials V. O. C. The source describes his punishment as `தீவாந்திரத் தண்டனை`; “transportation” preserves the period penal term without silently revising the article's historical account. The quoted appeal is kept as a distinct block and retains its ship-and-family parallel.

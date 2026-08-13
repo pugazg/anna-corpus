@@ -1,0 +1,442 @@
+# முன்ஷி மார்க்கம் / Munshi's Path
+
+**Tamil title:** முன்ஷி மார்க்கம்  
+**English title:** Munshi's Path  
+**Source file:** `katturaigal/munshi_marg.md`
+
+## Source Tamil (verbatim)
+
+- Source image folder: `/Users/pugazhendhirajendran/Documents/Codex/2026-07-09/https-www-annavinpadaippugal-info/outputs/annavin_text_extractor/ocr_images/katturaigal/munshi_marg`
+- OCR language: `tam`
+- Tesseract page segmentation mode: `3`
+- OCR cleanup: `enabled`
+
+## Image 1: 001-245945a9fc.png
+
+- Image: `katturaigal/munshi_marg/001-245945a9fc.png`
+
+72. முன்ஷி மார்க்கம்/
+விரதம் எடுத்துக் கொள்ளுங்கள், மாதர்களே திங்கட்கிழமை யன்று
+காய்கறிகளை தவிர இதர தானியங்களை சமைப்பதில்லையென்று! -
+புண்ணியம் உண்டு. ்
+உணவுப் பழக்கத்தை மாற்றிக் கொள்ளாத வரையில் உருப்பட
+
+வழியில்லை.
+
+நவநாகரீகம் எதற்கும் குறுக்கிடும். - . அதனைத். தூக்கி
+எறிந்திடவேண்டும். ்
+
+விருந்து வேண்டாம் - அதில் அதிகம் செலவு செய்து விட்டு .
+வருந்தவும் வேண்டாம்.
+
+பொறுப்புணர்ச்சி தேவை - வயிற்றை ஈரத்துணியால் இறுக்கிக்
+கட்டென்றால் கட்டிவிட வேண்டும். எதிர்த்துப் பேசக் கூடாது
+
+தேவை, தேவை - உடனே தேவை/'தியாகிகள் தேவை - உணவைத்
+
+தியாகம் செய்யும் உத்தமர்கள் தேவை.
+
+உழை வேண்டும் - மக்கள் மகிழவேண்டும். . ஆகவே மரம்
+வளர்க்கவேண்டும் ்
+
+பட்டினியால் எவரும் செத்து மடிய விடேன். நானிருக்க பயமேன்? '
+
+## Image 2: 002-ad9d192109.png
+
+- Image: `katturaigal/munshi_marg/002-ad9d192109.png`
+
+ஒன்றுமே தெரியாதவர்கள் நாங்கள் என்று மக்கள் நினைக்கிறார்கள்
+அது தவறு - நாங்கள் சகல கலா வல்லவர்கள். மக்கள் இதனைத் தெரிந்து
+கொள்ள வேண்டும்.
+
+- இவை புத்தரின் பொன்மொழிகளுமல்ல, நபிகள் நாயகம் அருளிய
+தல்லுரைகளுமல்ல, பைபிளில் காணும் குறிப்புகளுமல்ல, - இராமனுசர்
+சொல்லவில்லை, பெரியாழ்வார் பிரபந்தமுமில்லை - புதிய போதனை.
+சொல்லியவர் ஆழ்வாருமல்ல, நாயன்மாருமில்லை. அவர் 'கனம்' - ஊருக்கு
+உபதேசம் புரியும் வேலையைக் கொண்டவரல்ல, ஊராளும் உரிமை பெற்ற
+மதி மந்திரியார், முன்ஷி - கூறியிருக்கிறார், மேலே காட்டிய கருத்துகளை -
+ஆனால் இதே வார்த்தைகளிலல்ல!
+
+முன்ஷி மார்க்கம் மிகப் புதியது - மதம் ஏற்படுத்த வருகிறார் புதிதாக
+இல்லாவிட்டால் அவர் இப்படி விகித்திர தண்ட பல்லும் வீசியபடி
+இருக்கமாட்டார்.
+
+ஆ ௫ ட * ச்,
+
+உணவு நிலைமையில் நெருக்கடி ஏற்பட்டது. இன்றுவரை
+தீர்க்கப்படவே இல்லை. உணவு இலாகாவைக் கண்காணிக்கும் '
+பொறுப்பையேற்ற தெளலத்ராம் சரிவரத் தம் கடமையைச்
+செய்யவில்லையென்று குறை கூறினர். அவர் விலகினார். அவருக்கு. '
+அடித்தது அடுத்த 'சான்ஸ்', ஒரு மாகாணத்தின் கவர்னராக!மூன்ஷி வந்தார்,
+அந்த இடத்திற்கு! இனி 'சனகுஷி'யான திட்டங்களை வெளியிட்டு, நமது
+வாட்டத்தை ஓட்டிவிடுவார் என்று கூறினர். எதிர்பார்த்தோம் எவ்வளவோ,
+ஏமாந்தோம், அவ்வளவு நம்பிக்கையும் இழந்து!
+
+மழையை இழுக்க அவர் மகோற்சவம் செய்ய வேண்டும் என்று
+கூறியவுடனேயே இவர் 'கற்கால' கனமாகிவிட்டார் என்று கருத்துள்ளோர்
+். முடிவுகட்டிவிட்டனர். சிரித்துக் கொண்டனர் மனதிற்குள்ளாகவே, வெளியில்
+சொல்லாவிட்டாலும்!
+
+முன்ஷி மார்க்கம் புதியது மட்டுமிலலை - புரியாததுங்கூட ' கனமாகி'
+விட்ட இவரோ, மழை மதம் ஏற்படுத்திவிட்டார். அதற் ந மாபூஜை
+
+## Image 3: 003-9f12949e76.png
+
+- Image: `katturaigal/munshi_marg/003-9f12949e76.png`
+
+_.. செய்யுங்கள் என்று சொல்லிவிட்டார் விளங்காத விசித்திரம்' - வேதனை
+தீரும் அற்புதம்!
+
+க் ச் க க ௫
+
+கனம் முன்ஷியாரின் மார்க்கத்திலே அடுத்தபடி உணவுப் பிரச்சினை
+- அதிலேயும் ஒரு விசித்திரக் கட்டளை போட்டுள்ளார். பசியெடுத்தால்
+புசியாமலிருங்கள் என்பதைப் போல, வாரத்தில் ஒரு நாள் காய்கறி,
+கனிகளைத் தின்றுவிடுங்கள் - மற்றவற்றை, எண்ணியும் பாராதீர்கள் அன்று
+என்று! மழை மதம் அப்படி - சாப்பாட்டு சமயம் இப்படி!
+
+கொஞ்சம் உணவுப் பிரச்சினையைத் தீர்க்கமாக ஆராய வேண்டும்.
+அப்பொழுதுதான் முன்ஷி மார்க்கம் மிகமிக மோசமானது என்று விளங்கும்
+
+“நம் நாட்டிற்கு வேண்டிய உணவு முழுவதும் 1951-க்குள் நம்
+நாட்டிலேயே உற்பத்தி செய்யப்பட வேண்டும் என்று சர்க்கார் முடிவு
+செய்துள்ளனர். அந்தத் தேதிக்குப் பிறகு வெளிநாடுகளிலிருத்து தாம்
+உணவு இறக்குமதிச் செய்யப் போவதில்லை”” - இப்படி பிரதம மந்திரி,
+பண்டித்நேரு பேசினார். ரேடியோவில், சென்ற 1949 ஜூன் 29-ல்!
+
+தித்திக்கும் தீர்மானம் - ஆனால் சாத்தியமா? சிந்தித்தனர்
+அறிவாளிகள். பேச்சு போதும். பிரச்சினை தீர வழியென்று கேட்டனர்,
+பசியால் வாடிய மக்கள். சர்க்காரும் விடை தந்தனர்.
+
+ஐந்தாண்டு உணவு உற்பத்தித் திட்ட அடிப்படையில் நடந்த
+வேலைகளைக் காட்டினர் சர்க்கார். அப்படியும் பசிபோகவில்லை என்றனர்
+
+கணக்கிட்டுப் பார்த்தால். 1952 மார்ச் இறுதியில் 49.2 இலட்சம் டன்
+
+உணவு தானியம் பற்றாக் குறையாக இருக்கக் கூடுமென்று தெரிய வருகிறது.
+இதனைச் சரி செய்ய எல்லா ராஜ்ய சர்க்கார்களோடு கலந்தாலோசித்து
+ஆண்டு தோறும் அதிகப் படியாக உற்பத்தி செய்யத் திட்டமிடப்பட்டு நடந்து
+வருகிறது. இதுவரை 24 இலட்சம் டன் அதிக உற்பத்தி நடந்திருக்கிறது. என்று
+
+## Image 4: 004-4a04cd8550.png
+
+- Image: `katturaigal/munshi_marg/004-4a04cd8550.png`
+
+ஆளவந்தார்கள் கணக்கு சொல்கிறார்கள். மக்களோ, கணக்கு கிடக்கட்டும்,
+“கடும் பசியாகுதே, ஓடாகிய வயிறும் நோகுதே'' என்று பாடுகின்றனர்.
+
+சர்க்கார் விழித்துக் கொண்டனர் - கொஞ்சம் விளக்கத்துடன் பேசினர்.
+1949-50ல் அதிக உற்பத்தி செய்ய வேண்டும் என்று போட்ட திட்டத்தின்படி
+9,85 இலட்சம் டன் வேண்டும். ஆனால் உண்மையில் உற்பத்தி செய்யப்பட்ட
+அளவு 9.35 இலட்சம் டன். இது இலட்சியத்தில் 95 சதவிகிதமாகும்
+என்றாலும் அதற்காக நிறைவேற்றப்பட்ட காரியங்களைப் பாருங்கள்.
+97,124 கிணறுகள் வெட்டியிருக்கிறோம். 13, 581 அணைகள், கால்வாய்கள்,
+குழாய்க் கிணறுகள் போன்ற சிறு பாசனத் திட்டங்களைப் பூர்த்தி
+செய்திருக்கிறோம். 17,380 தண்ணீர் இறைக்க பம்புகள் ஏற்பாடு
+செய்துள்ளோம். 3,863 குளங்கள் மராமத்து செய்யப்பட்டுள்ளன. எங்கள்
+முயற்சியில். பல்வேறு இராஜ்யங்களில் மொத்தம் 5,740.29 ஏகரா தரிசு
+நிலங்கள் திருத்திப் பண் படுத்தியிருக்கிறோம். மத்திய டிராக்டர் ஸ்தாபனம்
+71,774 ஏகராதரிசு நிலத்தை மீட்டுக் கொடுத்திருக்கிறது. 3,44,830 ஏகரா
+நிலத்தில் யந்திரக் கலப்பைகள் கொண்டு சாகுபடி செய்துள்ளோம். இரசாயன
+உரமும், பிண்ணாக்கும், பசுந்தாள் உரமும் மொத்தம் 3,06,106 டன்
+அளித்துள்ளோம். 8, 76,000 டன் சேர்க்கை உரம் பயன்படுத்தப்பட்டுள்ளது.
+மொத்தம் 64.446 டன் உயர்தர வித்துக்கள் அளித்துள்ளோம்... இப்படிப் .
+புள்ளி விவரத்கைக் காட்டி, பொங்கியெழும் மக்களைப் பூரண திருப்திடையச்
+செய்ய முயற்சியிலீடுபடுகின்றனர்ஆள்வோர். புள்ளியைக் காட்டி எங்களை .
+கவலையைத் தள்ளி விட முடியாது.நாங்கள் வாங்குவது அளவரிசி,
+அத்துடன் 'தசரவதார' தானியங்கள் என்று கோபத்தால் கூவுகின்றனர்
+பசியால் மாள்வோர்.
+
+ர் ௫ % % ௫
+
+உணவை அதிகப்படுத்த அவர்கள் படும் பாட்டை எடுத்துக்
+காட்டுகிறார்கள் - அதுதான் முறை! ஆனால் அந்தப் பகுதிக்கு அதிபரோ, .
+விசித்திரமாகப்பேசுகிறார், விபரீதமாக நடக்கிறார் கனம் முன்ஷி காட்டும்
+பாதை - மார்க்கம் பசியெடுத்த மக்களுக்கு ஆத்திரத்தையே உண்டாக்கும்.
+
+காய்கறிகளைச். சமையுங்கள் என்று கன்னியரிடம் பேசுகிறார்.
+உண்வைத் தியாகம் செய்யுங்கள் என்று காளையரிடம் வேண்டுகிறார். இந்த
+நாம். - 24
+
+## Image 5: 005-705ba60d15.png
+
+- Image: `katturaigal/munshi_marg/005-705ba60d15.png`
+
+இரண்டும் நடந்துவிட்டால் இவர் ஏன் மந்திரியாக இருக்கிறாரோ, நாம்
+அறியோம், பராபரமே!
+
+மக்கள் தொண்டை மறந்து, மரத்தொண்டை மேற்கொண்ட மந்திரியார்
+காய்கனிகளைத் தின்று பசியாரக் கற்றுக் கொள்ளுங்கள் என்கிறார்.
+அதுமட்டுமா? உணவுப் பொருள்களை அழித்து வருகின்றன குரங்குகள்
+என்று, அனுமார் வேட்டையில் ஈடுபட்டுள்ளார். - இராமதூதர்களுக்கு
+ஆபத்தா என்று கூட எதிர்க்கிறார்களாம்.
+விருட்ச விழா
+காய்கறி விரதம்
+அனுமார் வேட்டை
+அரைப் பட்டினி
+இப்படி கனம் முன்ஷியாரின் மார்க்க போதனை வளர்ந்து கொண்டே
+போகிறது.
+
+பசி வந்திடப் பத்தும் பறந்து போம் - என்பார்கள், ஆம், பம்பாயில், .
+பட்டினிச் சாவு ஏற்படவிடேன் என்று முன்ஷியார் பேசியதைக் குறித்து
+'தினசரி'யார் எழுதியுள்ள தலையங்கத்தைப் படித்தாலே போதும் - கடுமை .
+மட்டுமல்ல, வழக்கத்திற்கு அதிகமான காரமும் சேர்ந்துள்ளது. தன் நிலை
+மறந்து, தன் போக்கையும், நோக்கத்தையுங் கூட நினைவில் நிறுத்தாமல்
+எழுத்துகளில் எதிர்ப்பைப்பூட்டி, வார்த்தைகளில் நெருப்பைக் கொட்டி
+விட்டிருக்கிறது.
+
+ஆளவந்திருப்போர், அரசியல்பேசி அலுத்து விட்டனர்.
+பொருளியலை ஆராய்ந்து களைத்து விட்டனர். சமூக வியலை அலசிச்சலித்து
+விட்டனர்.
+
+'இப்பொழுது எங்குதிரும்பினும் அவர்கள் பேசுவது அரசியல் அல்ல
+- அரிசியியல்! இந்த அரிசியியலைப்பற்றி எழுதும் பொழுதுதான் தினசரியார்
+தீப்பிழம்பாக மாறியிருக்கிறார்.
+
+## Image 6: 006-a661acaa80.png
+
+- Image: `katturaigal/munshi_marg/006-a661acaa80.png`
+
+பட்டினிச் சாவு நடைபெறாது என்று முன்ஷியார் கூறுகிறார். பட்டினி
+கிடந்து செத்துவிடாதபடி மக்களை பாதுகாப்பது என்பதுமாத்திரமல்ல
+சர்க்காரின் பொறுப்பு. கிடைக்கும் சாப்பாடு வயிற்றுக்கு கொஞ்மாவது
+போதுமானதாக இருக்க வேண்டும் என்று இடித்துக் காட்டியுள்ளார்
+தினசரியார்.
+
+8-அவுன்ஸ் 7-அவுன்ஸ் அரிசியாக்கப்பட்டுள்ளது சென்னை
+மாவட்டத்தில் - அரிசியின்றி மக்கள் அவதிப்படுகின்றனர் இங்கு. நேரில்
+கண்டு சென்றள்ளார் கனம் முன்ஷியார். இதற்கு என்ன வழி செய்துள்ளார்.
+அவர் என்று கேட்கிறார் தினசரியார், கோபத்தின் உச்சியில்!
+கையாலாகாதது
+விஷயம் புரியாதது
+
+இப்படிக்கூட மத்திய சர்க்காரைக் காய்ந்திருக்கிறார், தினசரியார்.
+வெளிநாட்டிலிருந்து உணவுப் பொருள்களை வரவழைக்க, தனிப்பட்।
+வர்த்தகர்கள் கேட்டுக்கொண்டதற் கிணங்க வசதி செய்து தரவேண்டும் என்று
+வற்புறுத்துகையில்!
+
+அரிசியியல் அல்லல்களைப் பற்றிப் பேசிடும் பொழுது ஆத்திரம்
+வரத்தான் செய்யும் - அது இயற்கை! தினசரியார், தீ நடையிலே அதனால்
+தான் தீட்டியிருக்கிறார் தலையங்கத்தை!
+
+அந்நிய நாட்டிலிருந்து உதவியை எதிர் பார்ப்பதே தவறு - இனிநமக்கு
+வேண்டியவற்றை நாமே உற்பத்தி செய்துகொள்ள வேண்டும் என்று நேரு
+பேசிவிட்டார். அதை மனதில் எண்ணிக் கொண்டு முன்ஷி, பர்மாவிலிருந்து
+அரிசி கொண்டுவரத் தங்களுக்கு ஏற்ற நாயணமாற்ற வசதி, போக்குவரத்து
+உதவிமுதலியவற்றைச் செய்து தரவேண்டும் என்று கேட்ட வர்த்தகர்களிடம்
+தக்க முறையில் பேசாது, தட்டிக் கழித்திடும் போக்கிலேயே நடதது
+கொண்டுள்ளார்.
+
+ஆனால் அரிசியின்றி அல்லல் படுவதைக் காணும்போது
+தொல்லையின் எல்லை மீறுகிறது, இதயமுள்ளவர்களுக்கு!
+
+சென்னை இராஜ்யத்தின் உணவு நிலைமை மிகவும் கவலைக்கிடமாக
+இருப்பதால் மத்திய சர்க்கார் அதிக உணவு தானியங்களை அனுப்பி உதவ
+வேண்டும் என்று த.நா. காங்கிரஸ் கமிட்டி தீர்மானம் நிறைவேற்றியுள்ளது.
+
+## Image 7: 007-e1ac99b24d.png
+
+- Image: `katturaigal/munshi_marg/007-e1ac99b24d.png`
+
+மத்திய சர்க்கார் போட்டுள்ள சிக்கனத் திட்டம் வேறு அரிசியியல்,
+எவ்வளவு தூரம் அரசியலைப் பாதிக்கிறது என்று எடுத்துக் காட்டுகிறது!
+திருமணம், சாவுச்சடங்கு, மாநாடு போன்றவைகளுக்குப் போட்டிருக்கும்
+உணவு ஏற்பாடு, செல் விரும்தோம்பி, வருவிருந்து நோக்கியிருக்கும் - பகடு
+நடந்த கூழை பகுத்துண்ணும் பண்புடைய நம் நாட்டவருக்கு எத்துணை
+வேதனை தரும்! நிலைமையைச் சமாளிக்கச் செய்கிறார்கள் இந்தச் சிக்கன
+ஏற்பாடுகளை - ஆனாலும் அரிசி வர வழியிருந்து, அதனை அடைந்து விட்டு
+வேடிக்கை பார்ப்பது வேதனையாக இருக்கிறகல்லவா?
+
+ஆஸ்டிரேலிய அரிசி சங்கம், ஆசியாவுக்கு அதிகம் தேவைப்படும்
+அரிசியை ஆஸ்டிரேலியா வடமேற்கு மாகாணங்களில் பயிரிட முடியும்,
+இதற்குச் சிரமம் தேவையில்லை, அதிகப் பணமும் செலவிடப்பட
+வேண்டியதில்லை, ஆட்கள் மட்டும் வேண்டும். இந்தியாவிலிருந்து
+வரவழைக்க ஆஸ்டிரேலிய குடியேற்றச் சட்டம் தடையாயிருப்பதால்
+இத்தாலியிலிருந்து தொழிலாளர்களை வரவழைத்துக் கொள்ளலாம், இரண்டு
+மாதங்களில் அரிசி விளைந்திடும் என்று கூறுகிறது. கேட்கும் பொழுதே நம்
+முகம் மகிழ்ச்சியால் மலர்கிறது சர்க்காரின் போக்கினை எண்ணி விட்டாலே,
+கூம்பிய தாமரையாகி விடுகிறது. அடுத்த கணத்தில்!
+
+சென்னை இராஜ்யத்தில் நெற்பயிரை அழிக்கும் “ஸ்டெம்போரர்''
+என்ற பூச்சிவகையை ஓழிக்க விவசாய கருத்துடன் ஆராய்ந்து வருகின்றனர்
+ஆட்சியாளர் அக்கறை காட்டுகின்றனர், என்ற எண்ணம் வந்து பதிவதற்குள், :
+எட்டு, ஏழு ஆறு என்ற அவுன்ஸ் கணச்கு புரையோடிப்போன நினைவு வந்து
+குறுக்கிடுகிறது.
+
+திருவாங்கூரில் நெல் சாகுபடியை அபிவிருத்தி செய்வதற்காக இந்திய
+விவசாய ஆராய்ச்சிக் கழகத்தின் பண உதவி பெற்றுப் பத்தாண்டுகளாகச்
+செய்த ஆராய்ச்சி முடிவுகளைக்காணக் களிப்பு வருகிறது. அரிசிக்கு வரும்
+மக்கள் கண்ணீரைத் துடைத்துக்கொண்டு இச்செய்தியைப் படிப்பர். பிறகு
+ஆட்சியாளரின் அக்கறையற்ற தன்மையைக் கண்டு பதைப்பர்.
+
+அரிசியியல கரும் அடுக்கடுக்கான செய்திகளை நாம் நாளும்
+பார்க்கிறோம். அங்கே அரிசியைக் கடத்தினான், இங்கே அரிசியைத்
+திருட தெகனயாசப் பதுக்கிவைத்தான், ரேஷன் கார்டுகள் பல பொய்யாக
+உண்டாக்கி ரிசி அதிகம் வாங்கினான் .... என்றெல்லாம் படிக்கிறோம்
+
+## Image 8: 008-39f531fe62.png
+
+- Image: `katturaigal/munshi_marg/008-39f531fe62.png`
+
+கேரளப்பகுதியில் 7 கோடி ரூபாய் செலவில் உணவு உற்பத்திப்பெருக்கத்
+திட்டம் வேலை செய்யப்போகிறது என்பதையும் படிக்கிறோம்
+இரண்டையும் சேர்த்துப் பார்க்கிறபொழுது சிரிப்பதா. அழுவதா என்று
+புரியவில்லை. திட்டம் இருக்கிறது, எனினும் வாட்டம் வளர்கிறது. ஏன்?
+இக்கேள்வி எழுப்பினால் காய்கறித் தோட்டத்தைக் காட்டி விடுகிறார் கனம்
+- கனிக் காட்டிற்குச் செல் என்று கட்டளை பிறப்பித்து விடுகிறார் மந்திரி!
+
+உணவு நிலைமை இப்படிப் பிண வீடாகக் காட்சியளிக்கிறது. அந்தப்
+பகுதியைக் கவனிக்கும் கனம் முன்ஷியாரோ பம்பாயில் தங்கி,
+பாழ்பட்டுப்போன சோமநாதர் ஆலயத்தைத் திருப்பித் திருத்திப் புதுப்பிக்க,
+சிற்பிகளோடுபேர்சுவார்த்தை நடத்தினார் என்று செய்தி வருகிறது.
+
+முன்ஷி மார்க்கம் விரிந்துகொண்டே போகிறது. விபரீதத்தை
+வளர்த்துக்கொண்டே இருச்கிறது.
+
+சிற்ப ஆராய்ச்சி
+
+இவைகளையும் பழைய மார்க்கத் திட்டப் பட்டியலோடு இணைத்துப்
+படியுங்கள்.
+
+முன்ஷி முனிவராகிறார் - இடிந்த கோயில், உடைந்த சிலை,
+தூர்ந்துபோன குளம் இப்படிப் புதுத் திருப்பணி வேறு ஆரம்பித்துவிட்டார்.
+இடிந்த இதயத்துடன், பசி போக்க புசிக்க உணவு கிடைக்கவில்லையே என்று
+வாடிடும் உயிருள்ள 'சிலைகளை ப் பற்றி எண்ணவில்லை!
+
+இத்தனை திருவிளையாடல்களையும் பார்க்கிறோம்.நாம். நம்மிடமே
+சொல்கிறார், மந்திரிகள் என்றால் ஒன்றும் தெரியாதவர்கள் என்று மக்கள்
+நினைக்கின்றனர், இது மன்னிக்க முடியாத தவறு, மந்திரிகள் எல்லாம்
+உணர்ந்தவர்கள், எதைப்பற்றியும் அறிந்தவர்கள், அவர்கள் நிபுணர்கள்,
+சகலத்தையும் தெரிந்த வித்தகர்கள் என்று!
+
+ட ட 3 ௫ ௫
+
+முன்ஷியார் மந்திரியான பிறகு, மகானாகிறார் - மக்களுக்கு எட்டாத
+திட்டங்களைத்தீட்டிக் காட்டுகிறார்! மார்க்க ஸ்தாபகராகிறார் - உணவில்லாத
+
+துக்கத்தை தூர்க்க வழி காட்டவில்லை!
+
+## Image 9: 009-b73f381786.png
+
+- Image: `katturaigal/munshi_marg/009-b73f381786.png`
+
+முன்ஷி மார்க்கம் - சாதித்துவிடத் துடிப்பவை - அந்த வாழ்க்கைக்கு
+ஓட்டிவராத பிரச்சினைகள் - நம்மைத் திகைக்க வைக்கின்றன
+
+நாட்டைக் காடாக்கி விடவேண்டும் நாட்டு மக்கள் விலங்கினங்கள்
+போலக் காய்கறிகளைத் தின்னவேண்டும். குரங்குகளை அழிக்கவேண்டும்.
+இப்படி எல்லாவற்றையும் இணைத்துப் படித்துப் பார்த்தால், டார்வின்
+ஆராய்ச்சியைத் திருப்பி நடத்தப் போட்டிருக்கும் புதுத் திட்டமோ, இந்த
+முன்ஷி மார்க்கம் என்று கூட நினைக்கத் தோன்றுகிறது அந்த நினைவு
+சிரிப்பை இழுக்கிறது முதலில், சிந்தனையைக் கிளறுகிறது பிறகு, சீற்றத்தைத்
+தட்டி விடுகிறது இறுதியில்!
+
+(திராவிடநாடு - 30.7.50)
+
+## English Translation
+
+“Take a vow, ladies, that on Mondays you will cook no grain or other food, but only vegetables! You will earn merit.
+
+“There can be no improvement until food habits are changed.
+
+“Modern civilisation obstructs everything; it must be cast away.
+
+“Do not hold feasts, spend too much on them, and then suffer regret.
+
+“A sense of responsibility is needed. If you are told to bind your stomach tightly with a wet cloth, you must do so without objection.
+
+“There is a need—an immediate need—for martyrs: noble people who will sacrifice food.
+
+“There must be labour and the people must be happy; therefore trees must be grown.
+
+“I will let no one die of starvation. Why fear while I am here?
+
+“People think we know nothing. That is wrong. We are masters of every art, and the people must understand it.”
+
+These are neither golden sayings of the Buddha, counsel bestowed by the Prophet, nor passages from the Bible. Ramanuja did not utter them, and they are not a hymn of Periyalvar. This is a new gospel. Its author is no Alvar or Nayanmar. He is an Honourable Minister, not one charged merely with preaching to a town but one endowed with the authority to govern it. Munshi has expressed the ideas above, though not in these exact words.
+
+Munshi's path is very new. He must be coming to establish a new religion; otherwise he would not cast such bizarre commandments in every direction.
+
+The food situation became critical and remains unresolved. Daulatram, who had responsibility for the Food Department, was accused of failing in his duty and resigned. His next “chance” was an appointment as governor of a province. Munshi took his place. We were told he would announce plans that delighted the people and drive away our distress. The more we expected, the more we were deceived, until we lost all hope.
+
+As soon as he said a grand festival must be held to draw the rain, thoughtful people concluded that this Honourable gentleman had become a man of the Stone Age. Even when they did not say it aloud, they laughed inwardly.
+
+Munshi's path is not only new but incomprehensible. Having become “Honourable,” he has founded a rain religion and prescribed a great rite for it: perform the ceremony and the inexplicable marvel will occur; suffering will end by miracle!
+
+The next step in Honourable Munshi's path concerns the food problem, and here too he has issued a strange command. It is like telling the hungry not to eat: one day each week, eat vegetables and fruit and do not even think of anything else. Such is the rain religion; such is the mealtime rule.
+
+The food problem must be examined with some seriousness. Only then will it become clear how very harmful Munshi's path is.
+
+“The government has decided that by 1951 all the food our country requires must be produced within the country itself. After that date we shall import no food from abroad,” Prime Minister Pandit Nehru said over the radio on 29 June 1949.
+
+It was a sweet resolution—but was it feasible? The informed reflected upon it. “Speeches are enough; show us the way to solve the problem,” demanded people tormented by hunger. The government gave an answer.
+
+It pointed to the work undertaken under the Five-Year Food Production Plan. Yet hunger had not disappeared. Calculation showed that by the end of March 1952 there might still be a deficit of 4.92 million tons of food grain. To remedy it, plans had been made in consultation with all state governments to increase annual production. Those in power say that an additional 2.4 million tons have so far been produced. The people reply, “Let the figures lie there; fierce hunger grips us and our wasted stomachs ache.”
+
+The government awoke and offered a more detailed explanation. Under the 1949–50 programme, the target for additional production was 985,000 tons; actual production was 935,000 tons, or 95 per cent of the goal. But look, it said, at what was accomplished: 97,124 wells dug; 13,581 small irrigation projects such as dams, canals and tube wells completed; 17,380 water pumps installed; and 3,863 tanks repaired. Across the states, 574,029 acres of wasteland had been reclaimed and improved. The Central Tractor Organisation reclaimed 71,774 acres, while mechanical ploughs cultivated 344,830 acres. A total of 306,106 tons of chemical fertiliser, oilcake and green manure was supplied; 876,000 tons of compost was used; and 64,446 tons of superior seed was distributed.
+
+With such statistics the rulers try to satisfy completely the people rising in anger. “You cannot show us figures and dismiss our anxiety,” cry those dying of hunger. “What we receive is a measured ration of rice mixed with grains in all ten incarnations.”
+
+It is proper for the government to show the efforts it makes to increase food. But the minister in charge speaks strangely and behaves perversely. Honourable Munshi's path can only provoke the hungry.
+
+He tells women to cook vegetables and asks men to sacrifice food. If both are done, why he needs to remain a minister is beyond us, O Supreme Being!
+
+Forgetting service to the people and taking up service to trees, the minister says people must learn to appease hunger with fruit and vegetables. Nor is that all. Saying monkeys destroy food crops, he has begun a hunt for Hanuman. We hear there are even protests asking whether danger threatens the emissaries of Rama.
+
+Tree festivals,
+
+vegetable fasts,
+
+the Hanuman hunt,
+
+half-starvation—
+
+thus the gospel of Honourable Munshi's path keeps growing.
+
+They say that when hunger comes, ten virtues fly away. One need only read the *Dinasari* editorial on Munshi's declaration in Bombay that he would permit no starvation death. It contains not merely severity but more pungency than usual. Forgetting its own position, course and purpose, it has packed opposition into its writing and poured fire into its words.
+
+Those who rule have grown tired of discussing politics, exhausted from examining economics and weary of analysing sociology. Wherever they turn now, they speak not of politics but of “rice-ology.” Writing about this rice-ology has transformed the *Dinasari* into a flame.
+
+Munshi says that starvation deaths will not occur. The government's responsibility, the *Dinasari* thundered, is not merely to keep people from dying of starvation; the food available must at least be somewhat sufficient for their stomachs.
+
+In the Madras area, an eight-ounce rice ration has become seven ounces, and people suffer without rice. Honourable Munshi has seen it himself. At the height of its anger, the *Dinasari* asks what remedy he has provided.
+
+“Helpless!”
+
+“Unable to understand the matter!”
+
+The *Dinasari* has scorched even the Central Government with such words while insisting that private traders seeking to import food from abroad be given the necessary facilities.
+
+Anger naturally rises when one discusses the afflictions of rice-ology. That is why the *Dinasari* wrote its editorial in a fiery style.
+
+Nehru has said it is wrong to expect help from foreign countries and that henceforth we must produce our own necessities. Keeping that in mind, Munshi failed to respond properly to traders who asked for suitable foreign-exchange arrangements, transport assistance and other facilities to bring rice from Burma; instead, he brushed them aside.
+
+But when people suffer without rice, the distress passes all bounds for anyone with a heart.
+
+Because the food situation in Madras State is extremely grave, the Tamil Nadu Congress Committee has passed a resolution asking the Central Government to send additional food grains. The Central Government's austerity programme is another example of how deeply rice-ology affects politics. Restrictions on serving food at weddings, funeral rites and conferences cause great pain in a land whose people cherish hospitality and share even their humble gruel with a guest. These economies are imposed to manage the situation—but is it not painful to leave unused an available route by which rice could be obtained?
+
+The Australian Rice Association says that the rice urgently needed by Asia can be grown in north-western Australia without difficulty or great expense; only workers are required. Since Australian immigration law prevents workers being brought from India, labourers could be brought from Italy, and rice would grow within two months. Hearing this, our faces bloom with happiness. The moment we remember our government's conduct, they close like lotuses.
+
+Before the thought can settle that the rulers are showing agricultural concern by studying how to eradicate the “stem borer” that destroys paddy in Madras State, the festering memory of the eight-, seven- and six-ounce ration intrudes.
+
+We rejoice at the results of ten years of research, financed by the Indian Council of Agricultural Research, to improve paddy cultivation in Travancore. People shedding tears for rice will wipe them away and read the news, then tremble at the rulers' indifference.
+
+Every day we encounter a succession of dark reports in rice-ology: someone smuggled rice there; someone stole and hoarded it here; another fabricated many ration cards and obtained extra rice. We also read that a seven-crore-rupee programme to increase food production is to operate in Kerala. When the two kinds of news are placed side by side, one cannot tell whether to laugh or weep. A plan exists, yet suffering grows. Why? Ask the question, and the Honourable gentleman points to a vegetable garden; the minister commands you to go to an orchard.
+
+The food situation resembles a house of death. Yet news comes that Honourable Munshi, who oversees the department, has remained in Bombay negotiating with sculptors to restore and renovate the ruined Somnath temple.
+
+Munshi's path keeps expanding and multiplying perversity.
+
+Now add “sculptural research” to the earlier catalogue of its doctrines.
+
+Munshi is becoming a sage. He has begun a new sacred renovation of fallen temples, broken idols and silted tanks. Yet he gives no thought to the living “statues” whose hearts are broken as they languish without food to relieve their hunger.
+
+We witness all these divine exploits. Then he tells us that the people commit an unforgivable error in thinking ministers know nothing: ministers understand everything, are knowledgeable about every subject, are experts and masters of all things!
+
+After becoming a minister, Munshi becomes a great soul and displays plans beyond the people's reach. He becomes the founder of a religion, but shows no way to dispel the misery of having no food.
+
+The things Munshi's path strives to accomplish, and the problems that do not lead us towards such a life, leave us bewildered.
+
+The country must be turned into a forest. Its people must eat vegetables like animals. Monkeys must be destroyed. Reading all these precepts together, one even wonders whether Munshi's path is a new scheme to run Darwin's research in reverse. At first the thought draws laughter; then it stirs reflection; finally it kindles fury.
+
+(*Dravida Nadu*, 30 July 1950)

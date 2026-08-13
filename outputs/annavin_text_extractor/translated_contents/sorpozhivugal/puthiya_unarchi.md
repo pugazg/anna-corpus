@@ -1,0 +1,118 @@
+# புதிய உணர்ச்சியைப் பூணுவீர் / Embrace a New Spirit
+
+**Tamil title:** புதிய உணர்ச்சியைப் பூணுவீர்  
+**English title:** Embrace a New Spirit  
+**Source file:** `sorpozhivugal/puthiya_unarchi.md`
+
+## Source Tamil (verbatim)
+
+- Source image folder: `/Users/pugazhendhirajendran/Documents/Codex/2026-07-09/https-www-annavinpadaippugal-info/outputs/annavin_text_extractor/ocr_images/sorpozhivugal/puthiya_unarchi`
+- OCR language: `tam`
+- Tesseract page segmentation mode: `3`
+- OCR cleanup: `enabled`
+
+## Image 1: 001-afcc430f36.png
+
+- Image: `sorpozhivugal/puthiya_unarchi/001-afcc430f36.png`
+
+104
+
+புதிய உணர்ச்சியைப் பூணுவீர்
+
+9-3-1967 அன்று தமிழகத்தின் தலைநகரில் நடைபெற்ற
+தமிழக காவல் படை அதிகாரிகள் கூட்டத்தில் முதலமைச்சர்
+அறிஞர் அண்ணா அவர்கள் ஆற்றிய உரை:-
+
+தோழர்களே!
+
+“இதுநாள்வரை, காவல் படையைப் பற்றிக் குறைகூறி வந்த
+நான், இன்று திடீரென்று, அப்படையைப் போற்றுபவனாக
+மாறிவிடுவேன் என்று நீங்கள் எதிர்பார்க்கமாட்டீர்கள். ஆனால்
+ஒன்று, காவல்படை மிகவும் பலம் வாய்ந்ததாக வேண்டும்
+என்பதை, நாங்கள் ஏற்கனவே உணர்ந்திருக்கிறோம். அந்த
+நிலையிலிருந்து இன்னும் நான் மாறுபடவில்லை. சட்ட ஒழுங்கை
+நிலை நாட்டும் பொறுப்புடைய அப்படை, பலம் வாய்ந்ததாக
+இருக்க வேண்டும். ஏனெனில், சட்ட ஒழுங்குநிலை
+நிறுத்தப்படாமல், உலகில், சட்டப்பூர்வ அரசாங்கம் எதுவும்,
+இயங்க முடியாது.
+பாதுகாப்புப் பணியில் அனுசரணைப் போக்கு :
+
+எனவே இக்கொள்கையைப் பொறுத்தவரை, யாருக்கும்
+கருத்து வேறுபாடில்லை. அனால் கொள்கையை வியாக்யானம்
+செய்வதில்தான் சங்கடம் நேரிடுகிறது. பாதுகாப்புப் பணி புரிவதில்
+அனுசரணைப் போக்கும் இயைந்திருக்க வேண்டும் என்று நான்
+கருதுகிறேன். பாதுகாப்பு - அனுசரணைப் போக்கு இந்த
+இரண்டையும் எவ்வாறு ஒருங்கிணைப்பது என்பது, நம் நாட்டிற்கு
+மட்டுமல்ல, உலகம் முழுவதும் உன்ள ஒரு பிரச்சினையாகும்.
+
+## Image 2: 002-104addcdec.png
+
+- Image: `sorpozhivugal/puthiya_unarchi/002-104addcdec.png`
+
+நிகழ்ச்சிகளின்போது மக்கள் மனதில் வெறுப்பு உணர்ச்சி
+தோன்றுவது மட்டுமல்ல, காவல் படை அதிகாரிகளே கூட
+துப்பாக்கிச்சூடு நிகழ்ச்சிக்குப்பின் தங்கள் வீடுகளுக்குத் திரும்பும்
+போது, மன வருத்தம் அடைவார்கள் என்பதில் எனக்குச் சந்தேக
+மில்லை. கொல்வது, அதிலும் நம் நாட்டு மக்களை நாமே
+கொல்வது, மகிழ்ச்சி தரக்கூடிய காரியம் அல்ல. ஆகையால்,
+துப்பாக்கி நிகழ்ச்சி நடக்கும் ஓவ்வொரு சந்தர்ப்பத்திலும், சிலர்
+கொல்லப்படுகிறார்கள். மக்கள் மனதில் வெறுப்பு உணர்ச்சி,
+கோபம் உண்டாகிறது என்பதை மட்டுமல்ல, அதிகாரிகளாகிய
+நீங்களே அத்தகைய ஒன்று நடந்து விட்டதே என்று மெத்தவும்
+மனவருத்தம் அடைவீர்கள் என்று கருதுகிறேன். இத்தகைய
+துர்ப்பாக்கிய சம்பவங்களைத் தவிர்க்கும் பிரச்சினைக்கு,
+போலீஸ் இன்ஸ்பெக்டர் ஜெனரல் ஒரு வழி வகை கண்டு
+வைத்திருக்கிறார் என்பதை அறிய மகிழ்ச்சி அடைகிறேன்.
+அவரது யோசனை பற்றி மேலும் தீர ஆலோசித்து, ஒரு
+திருப்தியான மூடி.வு காணலாம் என நினைக்கிறேன்.
+
+சட்ட ஒழுங்கை நிலை நாட்டுதல் என்பது நெடு நாட்களாக
+இருந்துவரும் பொதுவான கொள்கை. அக்கொள்கை,
+இப்போதைய புதிய சகாப்தம், புதிய ஜனநாயக உணர்ச்சி,
+மக்களிடையே தோன்றியுள்ள புதிய உள்ளக்கிடக்கை
+ஆகியவற்றிற்குப் பொருந்திவரச் செய்ய வேண்டும். காவல்
+படையின் அலுவல்கள் என்பவை மக்களது நலனுக்கும்,
+அரசாங்கத்தின் நிலையான தன்மைக்கும் உற்றவையே என்று
+ஏற்கும் நிலை உண்டாக வழி வகை காண வேண்டும்.
+
+பொதுவாழ்வுக்கு அதிகாரிகள் :
+
+அரசாங்கத்தின் நிர்வாகத் துறை ஒவ்வொன்றையும் நான்
+குறை கூறி வந்தவன் என்றாலும் காவல் படையின் மீது எனக்கு
+வெறுப்பு கிடையாது என்பதை நான் உறுதியாகக் கூறிக்
+கொள்கிறேன். அதேபோல காவல் படையினரும் அரசியல்
+வாதிகள் என்றாலே ஒரு தப்பெண்ணம் கொள்ள மாட்டார்கள்
+என்று கருதுகிறேன்.
+
+நாம் ஒருவரை ஒருவர் புரிந்து கொண்டால், ஒரு புதிய
+சகாப்தமே ஆரம்பமாவது உறுதி என்று கருதுகிறேன். நாங்கள்
+ஆட்சிப் பொறுப்பை ஏற்றுக் கொண்டதால், நிகழப்போவது
+ஒன்று உண்டு என்றால், அது இதுதான்:- அரசாங்கத்தின்
+ஒவ்வொரு துறையிலும், சிறப்பாக காவல் படைத் துறையில், ஒரு
+புதிய உணர்ச்சியை, ஒரு புதிய நோக்கினைப் புகுத்திட, நாங்கள்
+விரும்புகிறோம்.”
+
+## English Translation
+
+Speech delivered by Chief Minister Arignar Anna at a meeting of Tamil Nadu police officers in the State capital on 9-3-1967:
+
+Comrades!
+
+“You will not expect me, who has criticized the police force until now, suddenly to become one who praises it today. But we have already recognized one thing: the police force must be very strong. I have not changed from that position. The force responsible for maintaining law and order must be strong, because no lawful government in the world can function unless law and order are maintained.
+
+“There is therefore no difference of opinion about this principle. The difficulty arises only in interpreting it. I believe that a conciliatory approach must be joined with the performance of protective duties. How to integrate protection and a conciliatory approach is a problem not only for our country but for the whole world.
+
+“During incidents, not only does a feeling of resentment arise in the minds of the people; I have no doubt that police officers themselves feel sorrow when they return to their homes after a shooting. Killing, especially our own people killing the people of our own country, is not an act that can give joy. Therefore, whenever a shooting occurs and some people are killed, not only do resentment and anger arise among the public; I believe that you officers yourselves feel profound sorrow that such a thing has occurred.
+
+“I am pleased to learn that the Inspector-General of Police has devised a means of avoiding such unfortunate incidents. I believe that, by considering his proposal more deeply, we can arrive at a satisfactory decision.
+
+“Maintaining law and order is a general principle that has existed for a long time. That principle must be made compatible with the present new era, the new democratic spirit, and the new aspirations that have arisen among the people. We must find a way to create an understanding that the duties of the police are closely connected both with the welfare of the people and with the stability of government.
+
+“Although I have criticized every administrative department of government, I state firmly that I bear no hatred toward the police force. In the same way, I trust that members of the police will not harbour a misconception merely upon hearing the word ‘politicians.’
+
+“If we understand one another, I believe a new era is certain to begin. If one thing is to happen because we have assumed the responsibility of government, it is this: in every department of government, and especially in the police department, we wish to instil a new spirit and a new outlook.”
+
+## Translator's Notes
+
+The source is a complete edited speech record with internal subheadings; the English preserves their conceptual divisions in continuous prose.
+The introductory date and venue are clear. Policy statements are translated in the speaker’s voice and are not independently verified here.

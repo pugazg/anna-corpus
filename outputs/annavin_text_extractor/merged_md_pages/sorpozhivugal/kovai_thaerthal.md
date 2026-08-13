@@ -1,0 +1,1 @@
+../../ocr_text_corrected/sorpozhivugal/kovai_thaerthal.md

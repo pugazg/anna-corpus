@@ -1,0 +1,1 @@
+../../md_pages/katturaigal/vibration_from_vijayawada.md

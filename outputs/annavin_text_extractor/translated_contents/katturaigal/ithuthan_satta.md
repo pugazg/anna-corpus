@@ -1,0 +1,290 @@
+# இதுதான் சட்டசபை/ / This Is the Legislative Assembly!
+
+**Tamil title:** இதுதான் சட்டசபை/  
+**English title:** This Is the Legislative Assembly!  
+**Source file:** `katturaigal/ithuthan_satta.md`
+
+## Source Tamil (verbatim)
+
+- Source image folder: `/Users/pugazhendhirajendran/Documents/Codex/2026-07-09/https-www-annavinpadaippugal-info/outputs/annavin_text_extractor/ocr_images/katturaigal/ithuthan_satta`
+- OCR language: `tam`
+- Tesseract page segmentation mode: `3`
+- OCR cleanup: `enabled`
+
+## Image 1: 001-f26ebb6a3a.png
+
+- Image: `katturaigal/ithuthan_satta/001-f26ebb6a3a.png`
+
+29. இதுதான் சட்டசபை/
+
+மூன்று நிருபர்கள் வந்திருக்கிறோம் என்று சொன்னார்
+அவர்! என்னய்யா, சட்டசபைக் கூட்ட நிகழ்ச்சிகளை எழுத
+ஒரு பத்திரிகையிலிருந்து மூன்று நிருபரா - என்று கேட்டேன்,
+நான்!
+
+சட்டசபைக் கூட்டங்கள், இதற்குமுன் நடந்தபோது,
+அடிக்கடி. நான் போயிருக்கிறேன். அப்போதெல்லாம்
+இல்லாத ஒரு ஆர்வமும், பரபரப்பும், கடந்த ஓராண்டாக,
+எல்லோருக்கும் ஏற்பட்டி ருக்கிறது. ஏடுகள், சட்டசபைப்
+பேச்சுகளை உடனுக்குடன் போட, ஆசைப்படுகின்றன.
+மக்களும், பேரார்வம் காட்டுகிறார்கள்.
+
+நிருபர், என்னைப் பார்த்துச் சிரித்தார், தேசீய ஏட்டின்
+நிருபர்தான் அவர். 'தேசீயம்' என்பதற்காகத் தோழமையை
+யும் பெருந்தன்மையையும் பறிகொடுக்காதவர், அவர்.
+“உண்மையைச் சொல்லுகிறேன் அண்ணல்! முன்பெல்லாம்
+
+சட்டசபைக்குப் போவதென்றால், யார் .போவது என்று
+
+## Image 2: 002-2d78c3b8be.png
+
+- Image: `katturaigal/ithuthan_satta/002-2d78c3b8be.png`
+
+சலிப்பாகக் கூட இருக்கும். உட்கார்ந்த இடத்தைவிட்டு
+அசையாமல் எழுதிக்கொண்டே இருப்பதென்பது பெரிய
+தலைவலி! அதனால் யார் போவது என்று ஒவ்வொருவரும்
+யோசிப்போம். இப்போதோ, நீநான் என்று எங்களுக்
+குள்ளேயே போட்டியிருக்கிறது. அதிலும் உங்கள் தலைவர்
+பேசுக தினத்தில், எல்லா நிருபர்களுமே வரவேண்டும்
+என்று அசைப்படுகிறார்கள். .உதனால், மூன்று போர்
+வந்திருக்கிறோம்” என்று சொல்லிவிட்டு, என்னைப்பார்த்துச்
+சிரித்தார்.
+
+தி.மு.க.சட்டசபைக்குள் சென்ற பிறகு தமிழ்
+மணக்கிறது என்று சென்ற ஆண்டு ஆனந்த விகடன்
+குறிப்பிட்டது பலருக்குக் கவனமிருக்கலாம். உண்மையில்,
+தமிழ் மணக்கத்தான் செய்கிறது. நிதி நிலை அறிக்கை
+என்றால் 'நிதியாவது நிலையாவது' என்றுதானே கனம்கள்
+கேலி செய்வார்கள். முன்பெல்லாம். 'பட்ஜெட்' என்பதற்குப்
+பதில், தி.மு.க.வினர் குறிப்பிட்ட இச்சொல், எல்லோராலும்
+. பயன்படுத்தப்படுகிறது. அமைச்சர்கள் கூட
+முன்னெச்சரிக்கையுடனேயே நல்ல தமிழில் பேச முயற்சி
+எடுத்துக் கொள்ளுகின்றனர். நிதி நிலை அறிக்கை, நிதி நிலை
+அறிக்கை என்று பல உறுப்பினர்கள் பேசியது,
+பெருமைக்குரியதாக இருந்தது!!!
+
+முன்பெல்லாம் சட்டசபைக்குள் போனால் “கோரம்”
+மட்டுமே இருக்கும். எத்தனைபேர் இருந்தால் சபை
+நடத்தலாம் என்று ஒரு விதி இருக்கிறதல்லவா? அந்தளவுக்கு
+மட்டுமே உறுப்பினர்கள் இருப்பார்கள்! அவர்களையும்
+விடாமல் பார்த்துக் கொள்ளும் வேலை கட்சிக்
+“கொறடா"வுக்குத் தொடர்ந்து, இருக்கும்! இப்போது
+
+## Image 3: 003-febc4c2ce0.png
+
+- Image: `katturaigal/ithuthan_satta/003-febc4c2ce0.png`
+
+அப்படியில்லை. அநேகமாக, சபையில் பல உறுப்பினர்கள்
+இருந்தவண்ணமே இருக்கிறார்கள். தி.மு.க. உறுப்பினர்கள்,
+உட்கார்ந்திருக்கும் பக்கம் பார்த்தால், பார்வையாளராகப்
+போயிருக்கும் நமக்கெல்லாம் ஒரு பெருமகிழ்ச்சியே
+காணக்கிடைக்கிறது! புன்முறுவலும், சுறுசுறுப்பும்,
+பொதுப்பணியை இங்கும் ஆற்றுகிறோம் என்கிற ஒரு
+பெருமிதமும் தோன்ற அவர்கள் அமர்ந்திருக்கிறார்கள்.
+சட்டசபை நடைபெறும் ஒவ்வொரு நாளும் துவக்கத்தில்
+கேள்வி நேரம் இருக்கிறதல்லவா? சுவையான நேரம் அது!
+அமைச்சர்களைக் கேள்வி மேல் கேள்வி கேட்டு
+எதிர்க்கட்சியினர் 'அம்பு' பூட்டிடும் நேரம் அ து! ஓமந்தூரார்
+ஆட்சிக் காலத்தில், முக்கிய எதிர்க் கட்சியாக விளங்கிய
+முஸ்லிம் லீக்கினர், அடிக்கடி. துண்டுக் கேள்விகளைப்
+போடுவார்கள். ரசமாயிருக்கும்! கம்யூனிஸ்டுகள் முக்கிய
+எதிர்க்கட்சியினராக, போனதடவை விளங்கினர்களல்லவா?
+அவர்களும் பலதுண்டுக் கேள்விகள் கேட்பதுண்டு! அது
+ஒரு மாதிரி. இப்போதோ கேள்வி நேரம், சுவையாயிருக்கிறது!
+் சபைத் தலைவர் மட்டும் அனுமதித்துக் கொண்டேயிருந்தால்,
+கேள்விகளாலேயே அமைச்சர்களைத் துரத்திவிடுவார்கள்
+போலிருக்கிறது.
+
+காங்கிரஸ் கட்சியைச் சேர்ந்த எம்.எல்.ஏ.க்களுக்கு,
+எதிர்க்கட்சியினருக்கு இருக்கவேண்டிய பொறுப்பு இல்லை.
+எனவே, பொறுப்புடன் பேசவும், கேள்வி கேட்கவும்
+வேண்டிய அவசியமும் ஏது? அதனால், அவர்களில்
+பலருக்குத் தூக்கம் வரும் நிலை ஏற்படத்தான் செய்யும்!
+அவர்களைப் பிழை சொல்வதற்கில்லை! ஒரே ஒரு சமயத்தில்
+மட்டும் அவர்கள் தங்களுக்கு 'டிக்கெட்' கொடுத்த
+காங்கிரசுக்கு நன்றி காட்டத் தவறுவதில்லை. பேசும்போதும்,
+
+## Image 4: 004-547c6594c0.png
+
+- Image: `katturaigal/ithuthan_satta/004-547c6594c0.png`
+
+சந்தர்ப்பம் கிடைக்கும்போதும், தி.மு.க.வைச்' சர்க்கார்
+கட்சியாக நினைத்துக் கொண்டு, எதிர்க்கட்சியாகி
+விடுகிறார்கள் அவர்கள்! எம்.எல்.ஏக்கள் மட்டுமா, சபைத்
+தலைவராக இருக்கும் சி.சுப்பிரமணியம்கூட அப்படித்தான்!
+
+இந்தத் தடவை நிதி நிலை அறிக்கையின் கடைசி நாள்
+விவாதத்திற்கு அவர் பதிலளித்தார் அல்லவா? அதற்கு
+இரண்டு நாட்களுக்கு முன், நமது கழக. நூல்களைத் தேடி,
+நிதியமைச்சரின் சகாக்கள் அலைந்ததாக ஒருவர் சொன்னார்!
+“பணத்தோட்டம்”, “இலட்சிய வரலாறு” முதலிய நூல்களைப்
+படித்து, நமக்குப் பதில சொல்ல வேண்டுமென்றே
+நிதியமைச்சர் வந்திருந்தார். சபையில் பேசும்போதுகூட
+அவரே சொன்னார், இதனை. சொன்னது மட்டுமல்ல,
+“இலட்சிய வரலாறு” நூலையும் தமிழில் டைப் அடித்து
+கொண்டு வந்திருந்தார், அவர். சட்டசபையை, நமக்குப்
+பதிலளிக்கும் இடமாகப் பயன்படுத்தும் ஆசையே,
+காங்கிரஸ்காரர்களுக்கு இருக்கிறது! யார் பேசினாலும் சரி
+நம்மைப்பற்றிப் பேசாமலிருப்பதே கிடையாது!!! முன்
+பெல்லாம் வாய்திறக்க மாட்டார்கள் என்று இருந்த பெயர்
+மாறி நாம் போன பிறகு நம்மைப் பற்றியாவது
+பேசுகிறார்களே என்பதற்காக நிச்சயம் அவர்களை
+
+பாராட்டத்தான் வேண்டும்.
+
+சில சமயங்களில் அவர்களது பேச்சு வரம்புமீறிய
+வகையில் போய்விடவும் நேருகிறது! நிதி நிலை
+அறிக்கையைப்பற்றி, பதிலளித்துக் கொண்டே வந்த
+சி.சுப்பிரமணியம், நமது வரலாற்றைச் சொல்ல ஆரம்பித்தார்.
+தேவையில்லாததுதான் அது! கம்யூனிஸ்டுகளுக்கு, 'என்ன?
+தி.மு.க.வைப்பற்றியே பேசுகிறாரே! சுப்பிரமணியத்துக்கும்
+
+## Image 5: 005-24778cfba9.png
+
+- Image: `katturaigal/ithuthan_satta/005-24778cfba9.png`
+
+தி.மு.க.தலைவர்களுக்கும் ஏதாவது ஒப்பந்தம் இருக்குமோ!!!
+என்று கூட நினைப்பு வந்திருக்கும். அந்தளவுக்கு,
+சட்டசபையை, பொது மேடையாக ஆக்கிவிட்டார்
+நிதியமைச்சர். அது, சில காங்கிரஸ் எம்.எல்.ஏக்களுக்குக்கூட
+வேதனையாக இருந்திருக்கிறது அவர்போக்கு. வெளியில்நான்
+உட்கார்ந்திருந்த இடத்துக்கு, நிதியமைச்சர் உள்ளே.
+பேசிக்கொண்டிருந்த நேரத்தில் விநாயகம் வந்தார்!
+தமிழரசை விட்டு, தேர்தலின்போது காங்கிரசான
+விநாயகம்தான்!! நமக்கும் அவருக்குமிருந்த பழைய
+பாசத்தைக் காட்டுபவர்போல அருகில் வந்தார். நிதியமைச்சர்
+மீது, அத்திரப்பட்டார். இதுவா, சட்டசபை? சட்டசபையை
+இதற்கா பயன்படுத்துவது - என்று என்னிடம் கேட்டார்!
+போய், நிதியமைச்சருக்குச் சொல்லுங்கள், என்றேன்!!!
+
+சேலத்தில் வெற்றிபெற்று வந்தாரே மாரியப்பன் எனும்
+காங்கிரஸ் உறுப்பினர் - அவர் போன்றோர் சந்தர்ப்பம்
+கிடைக்கும்போது, தாங்கள் காமராசரைத் திருப்திப்படுத்த
+_ வேண்டியவர்கள் என்பதைக் காட்டிக் கொள்ளத்
+தவறுவதில்லை. அண்ணாவைப்பற்றி ஏதோ குறிப்பிடும்
+போது, “சாதியை ஒழிக்கும் காங்கிரஸ் கட்சி"யைச் சேர்ந்த
+அவர், “அண்ணாதுரை முதலியார்" என்று குறிப்பிட்டார்!
+ஐயோ பாவம், அவருடைய குரலை, யாருமே இலட்சியம்
+செய்யவில்லை!!!
+
+பொருளில்லாவிட்டாலும் நம்மைப் புண்படுத்தும்
+'வெறி'யில் ஒரு சிலரும் - உண்மை கண்டவிடத்து ரசிக்கும்
+வேறு சிலரும் இருக்கிறார்கள் காங்கிரஸ் தரப்பில் அண்ணா,
+பேசும்போது, “எதிர்க்கட் சியில்லையே, சரியான எதிர்க் கட்சி
+
+யில்லையே என்று போகுமிடமெல்லா உள்நாட்டு அமைச்சர்,
+
+## Image 6: 006-fb58ac2a65.png
+
+- Image: `katturaigal/ithuthan_satta/006-fb58ac2a65.png`
+
+பக்தவத்சலம் அவர்கள் பேசி வருகிறார். அவர்கள் குறைப்
+படுவதைப் பார்த்தால் அடுத்த தடவை, அவரே, எதிர்க்கட்சித்
+தலைவராக வந்து விடுவார் போலிருக்கிறது” என்று
+குறிப்பிட்டார். சபை முழுவதும் நகைச்சுவையில் ஆழ்ந்தது.
+காங்கிரஸ் எம்.எல்.ஏக்களும் வாய்விட்டுச் சிரித்து விட்டு
+உடனே சிரித்ததை, யாராவது பார்த்துவிட்டார்களோ என்று
+அவர்கள் இங்குமங்கும் திரும்பிப் பார்த்தது, பரிதாப
+மாயிருந்தது! இப்படி, அச்சத்துக்கும் அசைக்கும் ஆட்
+பட்டாலும், “என்னமோ காங்கிரசிலிருக்கிறோம்” என்றி
+ருப்பவர்கள், இவர்கள். காங்கிரஸ் எம்.எல்.ஏக்களில் இவர்கள்
+தான் அதிகம் தென்படுகிறார்கள்.
+
+சபையில், காமராசர் எப்படியிருக்கிறார் என்று அறிய
+பலருக்கு ஆசை ஏற்படக்கூடும். அவர் இருக்கிறார்!
+அவ்வளவுதான்!! அவருக்குப் பக்கத்தில் நிதியமைச்சர்.
+அடுத்து, பக்தவத்சலம், அவருக்கடுத்து மாணிக்கவேலர் -
+கக்கன் - ராமையா - பிறகு லூர்து அம்மையார், இப்படி.
+உட்கார்ந்திருக்கிறார்கள். நேர் எதிரில், எதிர்க்கட்சித்
+ப தலைவர்களிருக்கிறார்கள். காமராசருக்கு எதிரில் கா...
+தலைவர் வி.கே. ராமசாமி, அவருக்கருகில் கா.சீ.க.துணைத்
+தலைவர் டி..எஸ். ராமசாமி, அடுத்து அண்ணா, பக்கத்தில்
+நமது கோவிந்தசாமி, பிறகு கம்யூனிஸ்டுக் கட்சி கலியாண
+சுந்தரம், சோஷியலிஸ்டு பக்கிரிசாமியார், நல்லசிவம்
+முதலியோர் இருக்கிறார்கள். அண்ணாவுக்கு நேர் பின்னால்,
+அன்பழகனும், எம்.பி. சுப்பிரமணியமும் இருக்கிறார்கள்.
+அதற்குப் பின்னால் கருணாநிதி, சத்தியவாணி முத்து,
+ஆசைத்தம்பி, ப.௨. சண்முகம். எம்.பி சாரதி, நடராசன்.
+செல்வராசு. எஸ்.எம். அண்ணாமலை, சந்தானம், இருசப்பன்,
+ஆனந்தன் இப்படி உட்கார்ந்திருக்கிறார்கள்! நமது
+
+## Image 7: 007-e3de4be014.png
+
+- Image: `katturaigal/ithuthan_satta/007-e3de4be014.png`
+
+உறுப்பினர்கள் பேசும்போதுதான், மேலே மாடியில்
+உட்கார்ந்திருக்கும் பார்வையாளராகிய நமக்கு “கணீர்” என்று
+கேட்கிறது!! நிதியமைச்சர் சுப்பிரமணியம் பேசும்போது
+தெளிவுடன் கேட்கிறது - அவர் நமது உறுப்பினர்களைவிட
+“நன்றாக”ப் பேசவேண்டும் என்கிற முயற்சியில், இப்போது,
+தீவிரமாக ஈடுபட்டு வருகிறார் என்ற உணர்ச்சியே எனக்கு
+ஏற்பட்டது!!!
+
+சபையில், தகராறுக்குரிய இடங்கள் பல எழும்போது
+கூட, நமது உறுப்பினர்கள் அதிகமான பொறுமையையே
+காட்டுகின்றனர். “மாற்றுக் கட்சியினருக்கு, நம்மவர்கள்
+காட்டுகிற மரியாதை அதிகம்தான்” என்று என்னோடு வந்த
+நண்பர் குறிப்பிட்டார்! “எத்தனை நாளைக்கு இவர்கள்
+எல்லாம் மாற்றுக் கட்சியிலேயே இருப்பார்கள். என்றாவது
+ஒருநாள், டில்லியின் போக்கை எதிர்த்து நமது பக்கம்
+வராமலா போகப் போகிறார்கள். அதனால்தான் இவ்வளவு
+பொறுமையும் கட்டுப்பாடும் நமது தரப்பில் தேவைப்
+படுகிறது” என்று நான் சொன்னேன். பதினைந்துபேர்கள்
+உள்ளே போனதற்கே, சபையில், பரபரப்பும் ஆர்வமும்
+எழும்பியிருக்கிறது - அமைச்சர் நமது நூல்களையெல்லாம்
+படிக்க ஆரம்பித்து விட்டாரே - ஒரு 50 பேர் போயிருந்தால்
+எப்படியிருந்திருக்கும், என்று நினைத்தேன். என் கவனம்,
+சட்டசபையை விட்டு, ஜெனரல் ஆஸ்பத்திரிக்குப் போயிற்று
+நாம் சட்டசபையில் நுழையக்கூடாதெனத் தள்ளாத
+வயதிலும் ஓடி. ஓடி. காங்கிரசுக்கு உழைத்துவிட்டு, அதே
+காங்கிரசால் சிறைக்குள் அடைபட்டுக் கிடக்கும் பெரியாரின்
+நினைவு வந்தது! பெருமூச்சு விட்டுக் கொண்டு,
+கிளம்பினேன்!!!
+
+(தனி நிருபர் செய்தி - திராவிட நாடு - 16-8-28)
+
+## English Translation
+
+He said that three reporters had come! “What, sir? Three reporters from a single newspaper to cover the proceedings of the Legislative Assembly?” I asked.
+
+I often attended Assembly sittings when they were held before. Over the past year, however, an enthusiasm and excitement previously absent has taken hold of everyone. Newspapers want to publish Assembly speeches immediately, and the people show intense interest.
+
+The reporter smiled at me. He was a correspondent for a nationalist journal, but not one who sacrificed friendship and generosity for the sake of “nationalism.”
+
+“I shall tell you the truth, sir! In earlier days, whenever an Assembly sitting approached, we would feel weary and wonder who should go. Sitting in one place and writing continuously was a great headache, so each of us would think about who ought to attend. Now we compete among ourselves, saying, ‘You or me.’ In particular, on a day when your leader speaks, every reporter wants to come. That is why three of us have come,” he said, smiling at me.
+
+Many may remember that *Ananda Vikatan* observed last year that Tamil began to give off its fragrance after the DMK entered the Assembly. Tamil truly does give off its fragrance there. In the old days, dignitaries would mock, “What finance, and what condition?” when they heard the Tamil expression `நிதி நிலை அறிக்கை`. Yet this term, used by DMK members in place of “budget,” is now used by everyone. Even ministers take care and attempt to speak in good Tamil. It was a matter of pride to hear many members repeatedly say “financial statement” in Tamil!
+
+Previously, whenever one entered the Assembly, there would be only a quorum. There is a rule about the minimum number required to conduct the House, is there not? Only that many members would be present. The party whip would have the continuing job of ensuring that even those members did not leave! It is not so now. For the most part, many members remain in the House.
+
+When those of us sitting in the visitors' gallery look towards the DMK members, we see something that gives us great joy. They sit with smiles, alertness and the pride of knowing that they are performing public service here too.
+
+Each sitting of the Assembly begins with Question Hour, does it not? It is an enjoyable time, when the opposition fits arrow after arrow to its bow by directing question upon question at the ministers! During Omandurar's administration, the Muslim League, then the principal opposition, frequently asked supplementary questions. It was delightful. When the Communists served as the main opposition last time, they too asked many supplementary questions. That had its own character. Now Question Hour is truly lively. If only the Speaker kept granting permission, it seems the ministers might be chased away by questions alone.
+
+Congress MLAs do not bear the responsibility required of an opposition member. Why, then, would they need to speak responsibly or ask questions? It is only natural that many of them should become sleepy. One cannot blame them! There is only one occasion on which they never fail to show gratitude to the Congress that gave them their tickets. Whenever they speak or find an opportunity, they imagine the DMK to be the government party and turn themselves into the opposition! Not merely the MLAs; even C. Subramaniam, who serves as Leader of the House, behaves that way.
+
+He replied on the final day of the debate on the financial statement this time, did he not? Someone said that two days earlier the Finance Minister's colleagues had roamed about searching for our movement's books. The Finance Minister had come after reading works such as *Panathottam* and *Latchiya Varalaru*, intending to answer us. He said as much himself while speaking in the House. Not only that: he had even brought a Tamil typescript of *Latchiya Varalaru*. Congress members possess an urge to use the Assembly as a place to answer us. No matter who speaks, they never fail to speak about us! They once had a reputation for never opening their mouths. We must certainly praise them for speaking at least about us after our arrival.
+
+At times their speeches even cross the limits. While responding to the debate on the financial statement, C. Subramaniam began narrating our history. It was unnecessary. The Communists might even have wondered, “Why does he speak only about the DMK? Could there be some agreement between Subramaniam and the DMK leaders?” To that extent, the Finance Minister turned the Assembly into a public platform. His conduct appears to have distressed even some Congress MLAs.
+
+While the Finance Minister was speaking inside, Vinayakam came to where I sat outside. It was the same Vinayakam who left the Tamil Arasu movement and joined Congress during the election! As though displaying the old affection between us, he came near and expressed anger with the Finance Minister. “Is this a Legislative Assembly? Is this what the Assembly should be used for?” he asked me. “Go and tell the Finance Minister,” I replied!
+
+Congress member Mariappan, who won at Salem, is one of those who never misses an opportunity to show that he must satisfy Kamaraj. When referring to Anna in some connection, this member of the “Congress Party that abolishes caste” called him “Annadurai Mudaliar”! Alas, poor man; no one paid the slightest attention to his voice!
+
+On the Congress side there are a few driven to wound us even without substance, and others who appreciate truth when they encounter it. While Anna was speaking, he observed: “Wherever he goes, Home Minister Bhaktavatsalam complains that there is no opposition, no proper opposition. Judging by how much he laments, it appears that next time he himself may return as Leader of the Opposition.” The entire House dissolved in laughter. The Congress MLAs too laughed aloud, then immediately looked from side to side to see whether anyone had noticed them laughing. It was pitiable! Though subject to such fear and desire, these are people who remain saying, “Well, somehow we are in Congress.” They appear to form the majority among Congress MLAs.
+
+Many may wish to know how Kamaraj appears in the House. He is there. That is all! Beside him sits the Finance Minister; then Bhaktavatsalam, followed by Manickavelar, Kakkan and Ramaiah, and then Mrs Lourdes. Directly opposite sit the opposition leaders. Facing Kamaraj is V. K. Ramasamy, leader of the Commonweal Party; beside him is its deputy leader D. S. Ramasamy; then Anna, with our Govindasamy nearby; then Kalyanasundaram of the Communist Party, Socialist Pakirisamy, Nallasivam and others. Directly behind Anna sit Anbazhagan and M. P. Subramaniam. Behind them sit Karunanidhi, Sathyavani Muthu, Asaithambi, P. U. Shanmugam, M. P. Sarathi, Natarajan, Selvarasu, S. M. Annamalai, Santhanam, Irusappan and Anandan.
+
+Only when our members speak can those of us in the gallery above hear a resonant, clear voice! Finance Minister Subramaniam too can be heard distinctly when he speaks. I felt that he is now making an earnest effort to speak “better” than our members!
+
+Even when many contentious moments arise in the House, our members display great patience. A friend who came with me remarked, “The respect our people show the other parties is considerable.” I replied: “How long will all these people remain in other parties? Will they not one day oppose Delhi's course and come over to our side? That is why our side needs so much patience and discipline.”
+
+The entry of just fifteen members has generated such excitement and interest in the House, and the minister has begun reading all our books. I wondered what it would have been like had fifty members gone in.
+
+My attention left the Legislative Assembly and travelled to the General Hospital. I remembered Periyar, who, even at an age when he should not have been made to exert himself, ran tirelessly and worked for Congress, only to be imprisoned by that same Congress so that we should not enter the Assembly. I rose and left with a deep sigh.
+
+(Special correspondent's report, *Dravida Nadu*, 16-8-28)
+
+## Translator's Notes
+
+The printed closing date is retained exactly as OCR gives it (`16-8-28`), but the political setting is the first DMK legislative contingent elected in 1957, so the year is visibly suspect and requires scan verification. `நிதி நிலை அறிக்கை` is the Tamil expression for “financial statement” or budget; the author's joke turns on its adoption in place of the English word. The source prints the title-ending mark as `/`, which is preserved in the Tamil title rather than silently changed. Party abbreviations damaged in the seating paragraph are rendered from the recoverable context; the Tamil source remains verbatim.

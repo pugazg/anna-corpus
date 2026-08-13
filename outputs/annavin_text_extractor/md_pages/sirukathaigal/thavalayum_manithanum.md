@@ -1,0 +1,17 @@
+---
+source_url: "http://www.annavinpadaippugal.info/sirukathaigal/thavalayum_manithanum.htm"
+final_url: "http://www.annavinpadaippugal.info/sirukathaigal/thavalayum_manithanum.htm"
+fetched_at: "2026-07-09T21:30:50+05:30"
+http_status: 200
+content_type: "text/html"
+html_title: "-:: Annavin Padaippugal ::-"
+---
+
+# தவளையும் மனிதனும்
+
+Source: <http://www.annavinpadaippugal.info/sirukathaigal/thavalayum_manithanum.htm>
+
+அறிஞர் அண்ணாவின் சிறுகதைகள்
+சிறுகதைகள் பட்டியல்
+தவளையும் மனிதனும்
+முகப்பு | எழுத்து | பேச்சு | புகைப்படம் | ஓவியம் | தொடர்பு

@@ -1,0 +1,202 @@
+# துடைத்துக்கொள்க! / Wipe It Away!
+
+**Tamil title:** துடைத்துக்கொள்க!  
+**English title:** Wipe It Away!  
+**Source file:** `katturaigal/thudaithukolga.md`
+
+## Source Tamil (verbatim)
+
+- Source image folder: `/Users/pugazhendhirajendran/Documents/Codex/2026-07-09/https-www-annavinpadaippugal-info/outputs/annavin_text_extractor/ocr_images/katturaigal/thudaithukolga`
+- OCR language: `tam`
+- Tesseract page segmentation mode: `3`
+- OCR cleanup: `enabled`
+
+## Image 1: 001-214fbb98b9.png
+
+- Image: `katturaigal/thudaithukolga/001-214fbb98b9.png`
+
+8. துடைத்துக்கொள்க!
+
+''இதுகளுக்கு'' ஆங்கில மோகம் அமோகம்!
+
+ஆங்கிலம், வெளிநாட்டான் மொழி. அந்த ஆங்கிலத்துக்கு
+'இதுகள்'' அடிமைகள்!!!
+
+“'இதுகளா'', கன்னித்தமிழைக் காப்பாற்றப் போகின்றன! காங்கிர
+சாராகிய நாங்கள் இந்த ஆங்கில மோகம் கொண்ட அடிமைகளல்ல!
+
+ஆங்கிலத்தை அடியோடு விரட்டி அடிப்போம்.
+
+''இதுகள்'' வெட்கமின்றிக் கூறுகின்றன, ஆங்கிலம் இருக்கத்தான்
+வேண்டுமென்று, என்னே, 'இதுகளின்' அடிமை மனப்பான்மை.
+
+தமிழ் வளர்க்கும் பண்பா இது! இதுகளா தமிழை வளர்க்கும் கூட்டம்!
+
+ஐயகோ! ஐயகோ! ௮ம்மவோ! ௮ம்மவோ!-
+
+இதுபோல, முழக்கமிடும் தேசியத் தமிழர் சிலர் உண்டு -
+அறிந்திருப்பீர்கள். ்
+
+உலகிலே ஆங்கிலம் அடைந்துள்ள உயர் நிலையைக் கண்டு, அந்த
+மொழி மூலம் பெறக்கூடிய பலன்களை எண்ணி, ஆங்கிலத்தைப்
+
+புறக்கணிக்கக் கூடாது என்று நாம் கூறுவது கேட்டு, 'இதுகள் அடிமைகள்'
+என்று வசை பாடுகின்றனர்.
+
+## Image 2: 002-b231ce43ac.png
+
+- Image: `katturaigal/thudaithukolga/002-b231ce43ac.png`
+
+"சர்வதேச பாஷையான ஆங்கிலப் படிப்பை இந்தியா விட்டுவிட
+. மூடியாது. ஆரம்பத்திலிருந்தே ஒவ்வொரு அணக அதிகக் ஆங்கிலம்
+
+கட்டாய பாஷையாக்கப்பட வேண்டும்''
+
+கேண்மினோ! கேண்மினோ! கேடு களைந்து, கன்னித்தமிழை
+வளர்க்கக் கங்கணம் கட்டிக் கொண்டுள்ள கர்மவீரர்காள்! நீவிர் நிமிர்ந்து
+நடந்துகொண்டிருக்கும் இந்நாளிலே நாடே உமது ஆள்காட்டிவிரல் கண்டு
+ஆடிடும், இவ்வேளையிலே ஆங்கிலம் இருக்கத்தான் வேண்டும், கட்டாய
+பாஷையாகவும் போதிக்கப்பட வேண்டும். அதிலேயும், ஓவ்வொரு
+பள்ளிக்கூடத்திலும் போதிக்கப்பட வேண்டும், ஆரம்பத்திலிருந்தே கட்டாய
+பாஷையாகப் போதிக்கப்பட வேண்டும் என்று துணிவுடன் கூறுவதைக்
+கேண்மின்! எவ்வளவு நெஞ்சமுத்தம்! எங்ஙனம் இதனை விட்டுவைப்பது!
+எடுங்கள் ஏசல் பாணத்தை! தொடுத்திடுங்கள் போர்! தமிழ் வளர்க்கும்
+வீரர்காள்! ஆங்கில மோகம் கொண்டலைவோரை வீழ்த்தாது விடுவது
+அழகாமோ, அறமாமோ, தமிழைப் போற்றுதும்! தமிழைப் போற்றுதும்! -
+என்று பாடிக் கூடுக/! பாவியைத் தொலைத்திட முன்வருக! இன்றே வருக!
+திரண்டு வருக!!'' - என்று கூறிடத் தோன்றும், நம்மை 'இதுகள்' என்று
+ஏசிடும் தலைவர் வழிநிற்கும் தொண்டர் குழாத்துக்கு.
+
+உண்மையாகவே, ஆங்கிலமொழியின் பயனைக் கருதி ௮ம் '
+மொழியைப் பயில வேண்டும் என்று கூறிடும் நம்மை, 'அதுகள் - இதுகள்'
+என்று ஆத்திரத்துடன் ஏசிடுவோர், ஆங்கில மொழியைப் படித்தாக :
+வேண்டும், அனைவரும், கட்டாயமாக, துவக்கத்திலிருநீதே என்று
+பேசிடுவோரைச் சாடாது விடலாமோ! அந்த அடிமைப் புத்தியை
+மண்டையிலடித்து நொருக்காவிட்டால், தேசிய வீரம் என்னாவது! கன்னித்
+தமிழைக் காப்பாற்றும் கர்மவீரர்களின் தீரம், திறம், என்னாவது! எனவே,
+அவர்கள், கிளம்பத்தான் வேண்டும், ஆங்கில மோகத்தை அழிக்க,
+பிறமொழிப் பித்தத்தைப் பொசுக்க, அன்னியனின் அடிவருடும்
+_ பேதைமையை ஒழிக்க!
+
+கிளம்பத்தான் வேண்டும் - நம்மை 'இதுகள் அதுகள் ' எனக்
+கூறிடுவதைவிட) வன்மையாகக்கண்டிக்கத்தான் வேண்டும் - கிளம்பத்தான்
+வேண்டும் - கண்டிக்கத்தான் வேண்டும் - ஆனால், கிளம்பவும்
+மாட்டார்கள், கண்டிக்கவும் மாட்டார்கள் - ஏனெனில், ஆங்கிலத்தை
+
+## Image 3: 003-6f6f836d51.png
+
+- Image: `katturaigal/thudaithukolga/003-6f6f836d51.png`
+
+ஆரம்ப முதலில் அனைவரும் கட்டாயமாகப் படித்தாக வேண்டும், என்று
+கூறுபவர் திராவிடர் இயக்கத்தவரல்லர் - இருந்தால்தான் 'ஒரு கை' பார்த்து
+விடுவார்களே, ஓய்விலாது உழைத்துத் தமிழகத்தைத் திராவிடத்தாரிட
+மிருந்து மீட்கும் திருப்போரில் ஈடுபட்டுள்ள திருத்தொண்டர்கள்! -
+ஆங்கிலத்தின் அவசியத்தை அழுத்தந் திருத்தமாக வலியுறுத்தியிருப்பவர்,
+அன்னை பாரதமாதாவின் ஆசியால், அகில இந்தியாவை ஆடசி புரியும்
+காங்கிரஸ் மந்திரிகளிலே ஒருவரான, ராஜகுமாரி அமிர்த கெளரி அம்மை
+யாராகும்! பாடியாலாவில் ஒரு பள்ளிக்கூட விழாவிலே அம்மையார்
+அறைந்திருக்கிறார். இதுபோல, பிப்ரவரித் திங்கள் இரண்டாம் நாளில்!
+
+கோபம் கொப்புளிக்கிறது - கண் சிவக்கிறது - கன்னித் தமிழ்
+கடகடவெனப் புரண்டோடி வருகிறது - ஆனால் தொண்டை அளவிலே
+நின்றுவிடுகிறது.
+
+கண்டிக்கலாம், காரசாரமாக - (காரசாரமாக இல்லாததால்) - அடுக்
+கடுக்காகச் சொற்கள் உருண்டோடி வருகின்றன -- அகராதியும் பக்கத்
+திலேயே இருக்கிறது துணை செய்ய, சந்துமூனைச் சிந்து - வந்துதவி
+செய்கிறது - எல்லாம் சரி - ஆனால் கண்டிக்க முடியாதே - பேசுபவர்,
+ராஜகுமாரி அமிர்த்த கெளரி அம்மையாரல்லவோ - காங்கிரசாயிற்றே -
+காங்கிரஸ் தலைவர்களிலே ஒருவராயிற்றே - அகில இந்திய அரசியலை
+நடத்தும் ஆற்றல் கொண்ட பாரத மணிகளில் ஒருவரான பெண்மணி :
+யல்லவா பேசுகிறார்கள், ஆங்கிலம் கட்டாயப் பாடமாக இருக்கத்தான்
+வேண்டுமென்று - எப்படிக் கண்டிப்பது! கண்டித்தால் விபரீதமல்லவா
+ஏற்பட்டுவிடக் கூடும்!
+
+அதுகள் - இதுகள்' கூட்டத்தோடு பாரத மணிகளில் ஒருவரான
+ராஜகுமாரி அமிர்த கெளரி அம்மையாரும் சேருகிறார்கள் சேராமலிருக்க
+முடியுமா! அறிவு அழைக்கிறது அம்மையாரை, ஆர்ப்பரிப்பைக் கண்டு
+் அஞ்சிவிடுவார்களா! அவர்கள் நன்கு அறிவார்கள், இந்த ஏசல்
+பாடுவோர், தம்மை நெருங்க மாட்டார்கள் என்று! ஏசல் பாடிடுவோரும்
+நன்கு புரிந்துகொண்டுதான் இருக்கிறார்கள், தங்கள் கோபப்
+பார்வையையும் கொதிப்பான பேச்சையும், அப்பக்கம் திருப்பலாகாது -
+என்ற உண்மையை! கோபம் கொதிக்கிறது - கொதிப்பைப் போக்கிக்
+
+## Image 4: 004-061b325c78.png
+
+- Image: `katturaigal/thudaithukolga/004-061b325c78.png`
+
+கொள்ளவா வழி தெரியாது. வழி காட்டும் வல்லவர்களுக்கு' திராவிட
+இயக்கம் இருக்கவே இருக்கிறது, தாக்குவோம், மேலும் மேலும்
+தாக்குவோம், - என்று பரணி பாடினால், கொதிப்பு குறையாமலா போகும்!
+
+அசீசுச கோ.ர்போபய்/
+
+அச்சுக் கோப்போய/
+
+தசீசுச் சொற்கள் நாலவாயிரமு.ம்
+
+. இச்சைய/ டன் ததீதேன்
+இன்றே கோதீதிடுக/
+
+என்று பாடித் தங்கள் தூக்கத்தையும், கோபத்தையும், துடைத்துச்
+கொள்வார்களா!
+
+(திராவிட நாடு- 18,251)
+
+## English Translation
+
+"These things" have an overwhelming infatuation with English!
+
+English is a foreigner's language. "These things" are slaves to that English!
+
+Are "these things" going to protect virgin Tamil? We Congressmen are not slaves possessed by this infatuation with English!
+
+We shall drive English away, root and branch.
+
+"These things" shamelessly say that English must remain. What a servile mentality "these things" possess!
+
+Is this a quality that will foster Tamil? Is this the crowd that will develop Tamil?
+
+Alas! Alas! Oh, mother! Oh, mother!
+
+There are some nationalist Tamils who raise cries like these. You will know them.
+
+We see the high position English has attained in the world, consider the benefits obtainable through that language, and say that English must not be neglected. On hearing this, they sing abuse at us as "these slaves."
+
+> India cannot abandon the study of English, an international language. English must be made a compulsory language in every school, right from the beginning.
+
+Hear this! Hear this, valiant men of action who have girded yourselves to remove corruption and foster virgin Tamil! Today, as you walk with heads held high, at this hour when the country dances at the sight of your pointing finger, hear someone boldly declare that English must remain and must be taught as a compulsory language; that it must, moreover, be taught in every school and made compulsory from the very beginning! What audacity! How can this be allowed? Take up your arrows of abuse! Launch the battle! Heroes who foster Tamil, would it be right or righteous to leave unvanquished those possessed by an infatuation with English? Sing together, "Let us praise Tamil! Let us praise Tamil!" Come forward to destroy the sinner! Come today! Come in throngs!
+
+This is what the band of followers who stand behind the leader who reviles us as "these things" ought to feel like saying.
+
+Indeed, can those who angrily revile us as "those things" and "these things" because we say that English should be studied for its usefulness refrain from attacking one who says that everyone must study English compulsorily from the very beginning? If they do not smash that slavish idea upon the head, what will become of nationalist valour? What will become of the courage and ability of the men of action who protect virgin Tamil? They must therefore set forth to destroy the infatuation with English, burn away the craze for another language, and abolish the folly of licking a foreigner's feet!
+
+They must set forth. They must condemn it more fiercely than they condemn us by calling us "these things" and "those things." They must set forth; they must condemn it. But they will neither set forth nor condemn it. For the person who said that everyone must compulsorily study English from the very beginning is not a member of the Dravidian movement. Had that been so, the sacred volunteers who labour without rest in the holy war to recover Tamil Nadu from the Dravidians would certainly have "dealt with" her!
+
+The person who forcefully and emphatically insisted upon the necessity of English was Rajkumari Amrit Kaur, one of the Congress ministers who, with Mother India's blessing, rule all India. The lady thundered these words at a school function in Patiala on the second day of February.
+
+Anger boils over. Eyes redden. Virgin Tamil comes rushing and rolling noisily forward, but stops at the throat.
+
+They could condemn her pungently. Since the condemnation cannot be pungent, words come tumbling out one upon another. The dictionary is close at hand to assist, and a street-corner *chindu* comes to their aid. All that is well, but they cannot condemn her. Is the speaker not Rajkumari Amrit Kaur? Is she not of the Congress? Is she not one of its leaders? Is it not a woman who is one of the jewels of Bharat and possesses the power to conduct all-India politics who says that English must remain a compulsory subject? How can she be condemned? Might not something disastrous happen if they condemn her?
+
+Rajkumari Amrit Kaur, one of the jewels of Bharat, joins the crowd of "those things" and "these things." Can she avoid joining it? Knowledge calls her. Would she be frightened by clamour? She knows very well that those who sing these songs of abuse will not approach her. Those who sing the abuse also understand perfectly well the truth that they must not turn their angry gaze and heated speech in that direction.
+
+Anger boils, but they know no way to cool the heat. For the experts who show them a way, the Dravidian movement is always available. If they sing a martial hymn saying, "Let us attack it, let us attack it more and more," will their fury not subside?
+
+> O typesetter!
+>
+> O typesetter!
+>
+> Four thousand poisonous words
+>
+> I have willingly given you;
+>
+> set them in type today!
+
+Will they sing thus and wipe away both their drowsiness and their anger?
+
+*Dravida Nadu*, 18 February 1951.
+
+## Translator's Notes
+
+The contemptuous neuter plural `இதுகள்` is repeatedly rendered as “these things” because replacing it with “these people” would remove the dehumanising insult on which the satire depends. `கர்மவீரர்` is translated contextually as “valiant men of action.” The closing verse addresses the printing compositor and mockingly imagines anti-Dravidian invective being set in type.

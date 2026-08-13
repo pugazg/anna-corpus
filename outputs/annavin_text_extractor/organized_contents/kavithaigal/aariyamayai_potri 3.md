@@ -1,0 +1,1 @@
+../../md_pages/kavithaigal/aariyamayai_potri.md

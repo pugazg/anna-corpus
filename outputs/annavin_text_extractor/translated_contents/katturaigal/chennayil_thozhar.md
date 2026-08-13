@@ -1,0 +1,56 @@
+# சென்னையில் தோழர் அழகிரிசாமி / Comrade Alagirisami in Madras
+
+**Tamil title:** சென்னையில் தோழர் அழகிரிசாமி  
+**English title:** Comrade Alagirisami in Madras  
+**Source file:** `katturaigal/chennayil_thozhar.md`
+
+## Source Tamil (verbatim)
+
+- Source image folder: `/Users/pugazhendhirajendran/Documents/Codex/2026-07-09/https-www-annavinpadaippugal-info/outputs/annavin_text_extractor/ocr_images/katturaigal/chennayil_thozhar`
+- OCR language: `tam`
+- Tesseract page segmentation mode: `3`
+- OCR cleanup: `enabled`
+
+## Image 1: 001-0461505d06.png
+
+- Image: `katturaigal/chennayil_thozhar/001-0461505d06.png`
+
+பணியினைத் தொடர்ந்து செய்ய வந்துள்ளார் என்பதறிந்து
+மகிழ்கிறோம்.
+
+16-11-47-ல் சென்னை எழும்பூர் புகைவண்டி
+நிலையத்தில் தோழர் அழகிரிசாமி அவர்கள் வந்திறங்கிய
+போது, அவரை வரவேற்ற காட்சி, எப்பொழுது வருவார்
+என்று எதிர்பார்த்திருந்த பொது மக்களின் ஆவலையும்
+அகமகிழ்ச்சியையும் எடுத்துக் காட்டுவதுபோல் இருந்தது.
+
+16-11-47-ல் பெரம்பூரில் நடைபெற்ற கூட்டத்திலும்,
+18-11-47-ல் கோகலே மண்டபத்தில் நடைபெற்ற உணவு-
+உடை குறையுடையோர் மாநாட்டிலும், 22-11-47-ல் ஏழு
+கிணற்றுத் திராவிடர் கழகத் திறப்பு விழாவிலும்,
+23-11-47-ல் ராபின்சன் பார்க்கில் நடைபெற்ற என்.எஸ்.கே.
+வரவேற்புக் கூட்டத்திலும் தோழர் அழகிரிசாமி அவர்கள்
+கலந்து கொண்டு, சொற்பொழிவாற்றி விட்டு, 25-11-47-ல்
+சென்னையைவிட்டு மதுரைக்குப் பயணமானார்.
+
+13-12-47-க்கு மேல் கூட்டங்களுக்கு ஏற்பாடு செய்வோர்
+கீழ் உள்ள முகவரிக்கு எழுதவும். கே.வி. அழகிரிசாமி,
+அலங்காநல்லூர், பி.ஓ., மதுரை.
+
+(செய்தி - 30-11-47 - திராவிட நாடு)
+
+## English Translation
+
+We are glad to learn that he has returned to continue his work.
+
+When Comrade Alagirisami arrived at Madras Egmore railway station on 16 November 1947, the scene of his reception seemed to reveal both the anxious anticipation and the heartfelt joy of the public who had been waiting for his arrival.
+
+Comrade Alagirisami also attended and addressed the meeting held at Perambur on 16 November 1947; the Conference of Those Lacking Food and Clothing held at Gokhale Hall on 18 November 1947; the opening ceremony of the Seven Wells Dravidar Kazhagam on 22 November 1947; and the reception for N. S. K. held at Robinson Park on 23 November 1947. He then left Madras for Madurai on 25 November 1947.
+
+Those arranging meetings after 13 December 1947 may write to the following address: K. V. Alagirisami, Alanganallur P.O., Madurai.
+
+*News item, Dravida Nadu, 30 November 1947*
+
+## Translator's Notes
+
+The available scan begins with the concluding sentence of an earlier passage and has no surviving printed heading. The descriptive title is based on the page identifier and content. All dates were checked against the scan.

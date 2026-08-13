@@ -1,0 +1,26 @@
+{
+  "note": "Human-reviewed, page-specific OCR corrections. These are applied after Unicode normalization and before token corrections.",
+  "files": {
+    "katturaigal/aangilampol.md": {
+      "phraseCorrections": [
+        {
+          "wrong": "மூயல்வதால் ஒரு கிறு",
+          "right": "முயல்வதால் ஒரு சிறு",
+          "reason": "verified from sentence context in the scanned page"
+        }
+      ],
+      "tokenCorrections": [
+        {
+          "wrong": "மாநீதர்க்குந்",
+          "right": "மாந்தர்க்குந்",
+          "reason": "OCR read ந்த as நீ in scanned text"
+        },
+        {
+          "wrong": "தாநீதாம்",
+          "right": "தாந்தாம்",
+          "reason": "OCR read ந்த as நீ in scanned text"
+        }
+      ]
+    }
+  }
+}

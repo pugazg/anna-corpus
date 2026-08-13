@@ -1,0 +1,1 @@
+../../md_pages/sorpozhivugal/speech_sattamandram.md

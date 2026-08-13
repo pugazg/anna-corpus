@@ -1,0 +1,1 @@
+../../md_pages/kadithangal/karuppu_malli.md

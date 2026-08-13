@@ -1,0 +1,523 @@
+# மொழியைக் காத்திடவும் நாட்டை மீட்டிடவும் வீரர்களே விரைந்து வாரீர்! / Heroes, Come Swiftly to Protect the Language and Redeem the Country!
+
+**Tamil title:** மொழியைக் காத்திடவும் நாட்டை மீட்டிடவும் வீரர்களே விரைந்து வாரீர்!  
+**English title:** Heroes, Come Swiftly to Protect the Language and Redeem the Country!  
+**Source file:** `sorpozhivugal/mozhiyai.md`
+
+## Source Tamil (verbatim)
+
+- Source image folder: `/Users/pugazhendhirajendran/Documents/Codex/2026-07-09/https-www-annavinpadaippugal-info/outputs/annavin_text_extractor/ocr_images/sorpozhivugal/mozhiyai`
+- OCR language: `tam`
+- Tesseract page segmentation mode: `3`
+- OCR cleanup: `enabled`
+
+## Image 1: 001-2db300f105.png
+
+- Image: `sorpozhivugal/mozhiyai/001-2db300f105.png`
+
+£0
+
+மொழியைக் காத்திடவும்
+நாட்டை மீட்டி டவும்
+
+வீரர்களே விரைந்து வாரீர்!
+
+10-7-19260 அன்று காட்டூரில் நடைபெற்ற கூட்டத்தில்
+அறிஞர் அண்ணா விடுத்த மொழிப்போர் அறைகூவல்:-
+
+தோழர்களே!
+
+“காமராசருக்கு இன்றையத் தினம் எவ்வித அதிகாரமும்
+இல்லை; இந்த நாட்டில் ஒரு கோடி ரூபாய்க்கு மேல் மூலதனம்
+போட்டுத் தொழில் நடத்துவதானால் அதற்கு உரிமை
+அளிக்கின்ற அதிகாரம் காமராசரிடத்தில் இல்லை; அந்த
+அதிகாரம் வடநாட்டுக்காரர்களிடத்தில்தான் இருக்கிறது!
+அதிகாரமற்ற இளித்தவாயர்களாகத்தான் நாம் இருக்கிறோம்!
+உரிமைகளைப் பெறுவதற்காகத்தான் நாம், 'திராவிட நாடு
+திராவிடர்க்கே' என்று சொல்லுகிறோம்.
+
+“இதைத் தெரிந்த வடநாட்டுக்காரர்கள், 'இந்த இன
+உணர்ச்சி எப்படி. ஏற்பட்டது? என்று சிந்தித்தார்கள்; 'தமிழ்
+மொழியின் மீது உள்ள பற்றின் காரணமாகத்தான் இப்படி
+யெல்லாம் பேசுகிறார்கள்' என்று கருதி, நம் தாய்மொழியை
+ஒழித்துக் கட்ட இந்தியைத் திணிக்க முயற்சி எடுத்து
+வருகிறார்கள்; அந்த முயற்சிகளிலே ஒன்றாகத்தான் கார்டு -
+கவர்களிலும், மைல் கற்களிலும் இந்தியைப் புகுத்தி வருகிறார்கள்;
+நம்மை 'அடிமைகள்' என்று சொல்லுவதற்காகத்தான் வடவர்கள்
+மைல் கற்களிலும் இந்தியைப் புகுத்துகிறார்கள். இதைக்
+கேட்பதற்கு இந்த நாட்டில் திராவிடர் கழகத்தைத் தவிர -
+திராவிட முன்னேற்றக் கழகத்தைத் தவிர வேறு கட்சியில்லை.
+
+## Image 2: 002-edb8807241.png
+
+- Image: `sorpozhivugal/mozhiyai/002-edb8807241.png`
+
+எனவேதான், இந்த இந்தியை ஒழித்துக் கட்ட குமார
+பாளையத்தில் நமது பொதுக்குழு கூடி. நாள் குறித்திருக்கிறது.
+“இன்றையத்தினம், 'அண்ணா வாழ்க! திராவிட நாடு
+திராவிடர்க்கே' என்று சொல்பவர்கள் நான் அழைப்பு விடுக்கின்ற
+நேரத்தில் அறப்போரில் ஈடுபடத் தயாராக இருக்க வேண்டும்.
+
+“வட நாட்டு ஏகாதிபத்தியம் என்ற நோய் நம்முடைய
+மூளையைத் தொட்டிருக்கிறது! அடி வயிற்றைத் தடவிப்
+பார்த்தார்கள் - பொறுத்துக் கொண்டோம்! அனால் இப்போது
+மூளையைத் தடவிப் பார்க்கிறார்கள்! எந்தப் பக்கத்திலே
+புறநானூறு இருக்கிறது; எங்கே அகநானூறு இருக்கிறது; எந்தப்
+பக்கத்திலே தொல்காப்பியமும், கலித்தொகையும், கலிங்கத்துப்
+பரணியும் இருக்கின்றன என்று தடவிப் பார்த்து, அந்தப்
+பக்கத்திலே இந்தியைத் திணிக்க முற்பட்டி ருக்கிறார்கள்!
+
+“அந்த இந்தியைக் கடுமையாக எதிர்த்து ஒழிக்க
+வேண்டுமானால், நாமும் சில கடுமையான நடவடிக்கைகளை
+எடுக்க வேண்டும். அதற்கான ஆதரவைத் திரட்டுவதற்காக நமது
+பொதுச் செயலாளர் அவர்கள் நாடு நகரம் எல்லாம் சுற்றி
+வருகிறார். அவர் வரும்போது இந்திப் போராட்டத்திற்கான
+பட்டியலில் உங்களுடைய பெயர்களையும் பொறித்துக் கொள்ள
+வேண்டும்; 'நம்முடைய தாய்மொழியைக் காப்பாற்ற - தந்தையர்
+நாட்டை மீட்க இரத்தத்தில் நீந்தினோம்' என்றால், என்ன குடி.
+முழுகியா போய்விடும்? மற்றவர்களுடைய இரத்தத்தில் அல்ல;
+ஆளவந்தோரின் குண்டுகளின் மூலமாகப் பீறிட்டுக் கொண்டு
+வரும் நம்முடைய இரத்தத்திலே மூழ்குவதற்கு நீங்கள் அனைவரும்
+தயாராக இருக்க வேண்டும்.
+
+“இந்தச் சிற்றூரில் திராவிட முன்னேற்றக் கழகத்தை நடத்தி
+வருகின்ற நண்பர்கள், நானும் என்னுடைய நண்பர்களும் இந்தக்
+கூட்டத்திலே கலந்து கொள்ள வேண்டும் என்று பெரு முயற்சி
+எடுத்துக்கொண்டு, எங்களுக்கு இந்த வாய்ப்பினை ஏற்படுத்தித்
+தந்ததற்கு நான் அவர்களை வெகுவாகப் பாராட்டுகிறேன்;
+அத்துடன், அவர்களது முயற்சிக்கு ஆதரவளிக்கின்ற பொது
+மக்களையும் பாராட்டுவதோடு,. அவர்களது முயற்சிகள் வெற்றி
+பெற வேண்டும் என்று நான் பெரிதும் ஆசைப்படுகிறேன்.
+
+“என்னுடைய அருமை நண்பர் காட்டூர் இராமையா
+அவர்கள் சொன்னதுபோல, இந்த வளர்ச்சி போதுமென்று கருதி,
+
+## Image 3: 003-1b56ae36f5.png
+
+- Image: `sorpozhivugal/mozhiyai/003-1b56ae36f5.png`
+
+நீங்கள் எல்லாம் பேசாமல் இருந்துவிடாமல் தொடர்ந்து
+பணியாற்ற வேண்டும் என்று உங்களையெல்லாம் பணிவன்போடு
+கேட்டுக் கொள்கிறேன்.
+
+“இங்கே இந்தக் கூட்டத்திலே பொறுப்புள்ள
+பெரியவர்களை நான் காண்கிறேன்; இராமையா அவர்கள்
+சொன்னதுபோல், அவர்கள் காட்டிய அர்வத்தைக் கண்டு நான்
+பெருமைப்படுகிறேன்!
+
+“இந்தி கட்டாய பாடமாகப் புகுத்தப்பட்டால் தமிழ்நாட்டு
+மக்களுடைய நல்வாழ்வு கெட்டுவிடும் என்று அறிந்து, அதை
+ஒழித்துக் கட்டுவதற்கான போராட்டத்தில் நான் முன்னணியில்
+நிற்பதோடு நன்னிலம் வட்டாரத்தில் உள்ள கழகத் தோழர்களும்,
+பொதுமக்களும் அந்தப் போராட்டத்தில் முன்னணியிலே
+இருப்பார்கள் - என்று நண்பர் இராமையா அவர்கள் எங்களுக்கு
+உறுதி மொழியளித்தார். இந்தியை எதிர்த்து நடத்தவிருக்கும்
+போராட்டத்திற்கு ஆதரவு கிடைக்குமா, என்று அலைந்து திரிந்து
+வருகின்ற எங்களுக்கு இப்படிப்பட்ட ஆர்வம் உள்ளவர்களைக்
+காணுகின்ற போது மட்டற்ற மகிழ்ச்சி ஏற்படுகிறது.
+
+'திராவிட முன்னேற்றக் கழகத்தின் வளர்ச்சி மக்களுக்கு
+மருட்சியையும், நண்பர்களுக்கு மகிழ்ச்சியையும், சர்க்காருக்கு
+அதிர்ச்சியையும், உலகத்தாருக்கு ஆச்சரியத்தையும் ஏற்படுத்தி
+யிருக்கிறது.
+
+“இந்தப் பத்தாண்டுக் காலத்தில் இந்தக் கழகம் இவ்வளவு
+விரைவாக வளரும் என்று நான் எதிர்பார்க்கவில்லை; அப்படி
+வளருவதை நான் விரும்பவும் இல்லை; மெல்ல மெல்லத்தான்
+வளர வேண்டும் என்று விரும்பினேன்.
+
+“காய் திடீரென்று பழுக்கக் கூடாது; தானாகப் பழுத்தால்
+தான் அது சுவையாக இருக்கும்!
+
+“மாற்றுக் கட்சிக்காரர்கள் - அமைச்சர்கள் உட்பட -
+எங்களைப் பற்றி இழித்தும் பழித்தும் பேசுகிறார்கள் என்று
+எனக்கு முன்னாலே பேசிய நண்பர் கிள்ளிவளவன் அவர்கள்
+உங்களிடத்திலே எடுத்துச் சொன்னார்.
+
+“என்னைப் பொறுத்தவரையில் எங்களுடைய நினைப்பு
+அவர்களுக்கு வந்ததே என்று நினைத்து நான் மகிழ்ச்சி
+யடைகிறேன். எங்கே நம்மை அலட்சியப்படுத்திவிடுவார்களோ
+என்று பயந்து கொண்டிருந்தேன்; ஆனால் அவர்கள் நம்மை
+
+## Image 4: 004-b52edb3dd3.png
+
+- Image: `sorpozhivugal/mozhiyai/004-b52edb3dd3.png`
+
+மறந்து விடாமல், அலட்சியப்படுத்தி விடாமல் எங்குச்
+சென்றாலும் நம்மைப் பற்றியே பேசிவருகிறார்கள். மாதம் ர. 1500
+சம்பளம் வாங்குகிற அமைச்சர்கள்கூட எங்குப் போனாலும்
+நம்மைப் பற்றியே பேசி வருகிறார்கள் என்றால், நாம் எங்கும்
+நிறைந்த நாதமாக இருக்கிறோம் என்பதுதான் அதற்குக் காரணம்.
+அப்படிப்பட்ட வகையிலே முன்னேற்றக் கழகம் வளர்ச்சி
+அடைந்திருக்கிறது.
+
+“முன்னேற்றக் கழகம் துவங்கியபோது முதலில் அலட்சியப்
+படுத்தினார்கள்; 'எங்கே இவர்கள் வாழப் போகிறார்கள்? எப்படி
+இவர்கள் கழகத்தை நடத்தப் போகிறார்கள்' - என்றெல்லாம்
+நம்மைப் பார்த்து அரூடம் கணித்தார்கள். அனால் இன்றைய
+தினம் அந்தக் கட்டத்தைத் தாண்டி இரண்டாவது தட்டத்திற்கு
+வந்திருக்கிறது, முன்னேற்றக் கழகம்.
+
+“மூன்னேற்றக் கழகம் அழிந்தால் ஒழிய நல்லாட்சி
+கிடைக்காது; ஆகவே மக்களே இரண்டு வாருங்கள் - என்று
+மாற்றுக் கட்சியினர் அழைப்பு விடுகிறார்கள்; அதைக் கண்டு
+நம்மிடையுள்ள துடிப்புள்ள இளைஞர்கள் ஆத்திரப்
+படுகிறார்கள்; அப்படி, அவர்கள் ஆத்திரப்பட்டாலும் என்னைப்
+போன்றவர்கள், “அவர்கள் அப்படித்தான் பேச வேண்டும்' என் று
+மனமார விரும்புகின்றனர்; நீங்கள் நன்றாகத் திட்டுங்கள்; நீங்கள்
+திட்டத் திட்டத்தான் மக்களுக்கு எங்களிடத்திலே இருக்கும்
+அன்பு அதிகமாகும்' என்று அவர்களுக்குக் கூற விரும்புகிறேன்,
+
+“ஒரு. கட்சியிலே உள்ள தலைவர்கள் மாற்றுக்
+கட்சிக்காரர்களைத் திட்டத் திட்ட மாற்றுக் கட்சித்
+தலைவர்களிடத்தில் மக்களுக்கு உள்ள மதிப்பு மேலும் உயரும்.
+அந்தப் பணியைக் கனம் காமராசர் என் சார்பிலே செய்வதைக்
+கண்டு நான் மெத்தவும் பெருமைப்படுகிறேன்.
+
+“ஜனாப் ஜின்னா அவர்களைக் காங்கிரசுக்காரர்கள்
+திட்டியதனால்தான் முஸ்லிம் சமுதாயத்தைச் சார்ந்தவர்கள் அவர்
+பக்கம் ஓன்று திரண்டார்கள். அதைப் போலவே காங்கிரசுக்
+காரர்கள் என்னைத் திட்டுவதால் என் பக்கம் மக்கள் திரளுவதற்கு
+வாய்ப்பு ஏற்படுகிறது; அண்ணாதுரையினால் நாட்டுக்கு ஆபத்து
+என்று காமராசர் சொல்வதால், அந்த அளைப் பார்க்கலாம்'
+என்று மக்கள் ஆர்வத்தோடு ஒன்று திரண்டு“வந்து என்னைப்
+பார்க்கின்றனர்; அப்படி, என்னைப் பார்க்கின்ற மக்கள்,
+'இவனைப் பார்த்தால் சாதுவாகத்தானே இருக்கிறான்? நன்றாகத்
+
+## Image 5: 005-647e6c9ea6.png
+
+- Image: `sorpozhivugal/mozhiyai/005-647e6c9ea6.png`
+
+தானே பேசுகிறான்? உண்மையைத்தானே பேசுகிறான்? இவனாலா
+ஆபத்து ஏற்பட்டுவிடும்?” என்று நினைக்கிறார்கள்.
+
+“ஆனால் காமராசரைப் பார்க்கிற மக்கள், அவருடைய
+உருவத்தைப் பார்க்கின்றபோது - இவர்தான் இதந்த மாநிலத்தின்
+முதலமைச்சர்' என்று சொல்லுகின்றபோது - “இவரா இந்த
+மாநிலத்தின் முதலமைச்சர்” என்று ஆச்சரியத்தோடு
+பார்க்கிறார்கள்!
+
+“முப்பது ஆண்டுகளுக்கு முன்னாலே எனக்குத் திருமணம்
+ஏற்பாடாகி, என்னுடைய மனைவியை ஊர்வலமாக அழைத்து
+வந்தார்கள்; அப்போது ஒரு குறும்புக்கார நண்பர் என்னிடத்திலே
+ஓடோடி வந்து, உன்னுடைய மனைவி சுத்தக் கறுப்பு' என்று
+சொன்னார்; அவர் அவ்வாறு சொன்னதாலே, 'உருவத்தைப்
+பார்க்க வேண்டும்' என்ற அசை எனக்குத் தோன்றியது. உடனே
+ஊர்வலத்தில் என்னுடைய மனைவியைப் பார்த்தபோது, அவர்
+சொன்ன மாதிரி கறுப்பாக இல்லாமல் நல்ல சிவப்பாக
+இருந்ததோடு மட்டுமல்லாமல், அழகாகவும் இருந்தாள்.
+அதைப்போல காங்கிரசுக்காரர்கள் எங்களைத் இட்டுவதாலே -
+'ஆபத்தானவர்கள்' என்று சொல்வதினாலே - மக்களுக்கு
+எங்களைப் பார்க்க வேண்டும் என்ற அர்வம் ஏற்பட்டு,
+நம்முடைய கூட்டத்திற்கு ஏராளமாக வந்து கூடுகிறார்கள்.
+
+“நான் மக்களைக் கேட்டுக் கொள்வேன் - நாங்கள்
+சொல்லுகின்ற கருத்து நல்லது என்று கருதினால் ஏற்றுக்
+கொள்ளுங்கள்; இல்லை என்றால் துப்பி விடுங்கள்.
+
+“அப்படி நீங்கள் எங்களுடைய கருத்தை ஏற்றுக்
+கொள்வதாக இருந்தால், நீங்கள் இரத்தம் சிந்துவதற்குத் தயாராக
+இருக்க வேண்டும். எங்களுடைய நோக்கம் சர்க்காரைத்
+திருத்துவதுதான்!
+
+“எங்களுக்கு வாய்ப்புக் கிடைத்தால் அரசு அமைப்போம்;
+ஆனால் அதைவிட முக்கியமான நோக்கம் அரசு பெறுவது
+ஆகும்.
+
+“சொந்த வீட்டுக்காரன் என்றால் கதவைத் தட்டியவுடன்
+திறக்கப்படும். வாடகை வீட்டுக்காரன் என்றால்தான் கதவு
+திறப்பதற்கு நேரமாகும்.
+
+“அதைப்போல இன்றைக்கு நம்மிடம் இருக்கும் நாடு
+வாடகை வீடு போன்றது!
+
+## Image 6: 006-83394dcb71.png
+
+- Image: `sorpozhivugal/mozhiyai/006-83394dcb71.png`
+
+"வீட்டைப் பழுது பார்க்க வேண்டுமென்றால்
+வீட்டுக்காரனிடத்தில் சொல்ல வேண்டியிருக்கிறது; வீட்டுக்குச்
+சுண்ணாம்பு அடிக்க வேண்டுமென்றால் வீட்டுக்காரனிடத்தில்
+சொல்ல வேண்டியிருக்கிறது.
+
+“அதைப்போல - இந்த நாட்டில் அமைச்சர்கள்
+இருக்கிறார்கள் என்றாலும் வெள்ளை அடிக்க வேண்டும்;
+வீட்டைப் பழுது பார்க்க வேண்டும் என்று வீட்டுக்காரனைக்
+கேட்பதுபோல், நம்முடைய நாட்டிலே எதையாவது செய்ய
+வேண்டும் என்றால் வடநாட்டிலே உள்ளவர்களைக் கேட்க
+வேண்டிய நிலையில்தான் இவர்கள் இருக்கிறார்கள். இதைக்
+கேட்பதினால்தான் காமராசருக்கு என்மீது கோபம் பிறக்கிறது.
+ஆத்திரம் ஏற்படுகிறது.
+
+“அவர்களிடத்திலே ஆட்சிப் பொறுப்பு இருக்கிறதே ஒழிய
+அதிகாரம் அவர்களிடத்திலே இல்லை; எல்லா அதிகாரத்தையும்
+இன்றையத் தினம் வடக்கே உள்ள ஒரு பெரிய சர்க்கார் வைத்துக்
+கொண்டிருக்கிறது - என்று சொல்வதினால்தான் அவர்களுக்கு
+எங்கள் மீது அத்திரம் பிறக்கிறது.
+
+“திருவிழாவிற்குச் சென்ற தாயைப் பார்த்து குழந்தை
+ஏதாவது பண்டத்தைச் சுட்டிக்காட்டி வாங்கித் தரும்படி
+கேட்டால், கையிலே காசு இல்லாத தாய் குழந்தையை அடிப்பது
+போல், நாங்கள், 'பக்ராநங்கல் இல்லையே; சிந்திரி இல்லையே;
+சித்தரஞ்சன் இல்லையே' என்று கேட்டால் அவர்களுக்கு எங்கள்
+மீது கோபம் ஏற்பட்டு எங்களைத் திட்டுகிறார்கள்.
+
+“அது மட்டுமல்லாமல், 'அதோ பார் இராகுட்; அதோ பார்
+பக்ரா நங்கல்; அதோ பார் சித்தரஞ்சன்; அதோ பார் சிந்திறி'
+என்று காட்டுகிறார்கள்!
+
+“நாங்கள் 'இங்கே பார் - எஞ்சிக் கிடக்கிற இரும்பு! இங்கே
+பார் - தூர்ந்துபோய் இருக்கிற துறைமுகம்! இங்கே பார் -
+நிலக்கரி! - இங்கே பார் - அலுமினியம்! இங்கே பார் -
+எண்ணெய்! - என்று காட்டுகின்ற காரணத்தினால், 'இவர்களுக்கு
+என்ன தெரியும்' என்று பேசுகிறார்கள்!
+
+“இவர்கள்! இப்படிப் பேசுவதனாலே உலகத்து மக்கள்
+
+இவர்களிடத்திலே வைத்துள்ள மதிப்புத்தான்” குறையுமே தவிர
+இவர்கள் ஏற்றம் பெற முடியாது!
+
+## Image 7: 007-53153b6468.png
+
+- Image: `sorpozhivugal/mozhiyai/007-53153b6468.png`
+
+“அவர்கள் பக்கத்திலே இருப்பவர்கள் வேண்டுமானால்
+'நன்றாகப் பேசினார்கள்' என்று சொல்லலாம்; பக்கத்தில்
+உட்கார்ந்து கொண்டிருப்பவர்கள் அப்படித்தான் பேசுவார்கள்;
+பக்கத்திலே யார் யார் இருக்கிறார்கள்? ஒரு பக்கத்திலே
+நெடும்பலம் சாமியப்பா மகன் இராமலிங்கமும், ஒரு பக்கத்திலே
+பூண்டி, வாண்டையாரும், மற்றோர் பக்கத்திலே மூப்பனாரும்,
+வேறோர் பக்கத்திலே வடபாதி மங்கலம் தியாகராஜ முதலியாரும்
+தானே இருக்கிறார்கள்? காமராசர் மேடையிலே பேசிவிட்டுக்
+கீழே இறங்கியதும் 'நன்றாகப் பேசினீர்கள்; இந்தப் பயல்களை
+வெளுத்து வாங்கிவிட்டீர்கள்; இனிமேல் இவர்கள் கொட்டம்
+அடங்கிப் போகும்' என்றுதான் சொல்வார்கள்; 'ஒரு பாயின்ட்
+சொன்னீர்களே, அது மிகவும் பிரமாதம்' என்று உக்கடை
+தேவரும், பூண்டி வாண்டையாரும் சொல்வதால் காமராசர்,
+தமக்கு எல்லாம் தெரிந்துவிட்டதாக நினைத்துக் கொண்டு
+பெருமைப்படுகிறார். காமராசரை வழியனுப்பிவிட்டு அவர்கள்,
+பின்னாலே பேசுவது காமராசருக்குத் தெரியாது. அவர்கள்
+பின்னாலே பேசிக்கொள்வதெல்லாம் என்ன செய்வது? இப்படிச்
+சொல்லாவிட்டால் நமக்கு உள்ள லைசெசனன்சு, நமக்குள்ள
+பெர்மிட்டு எல்லாம் போய்விடுமே; அதற்காகவாவது அப்படிச்
+சொல்ல வேண்டாமா?” என்றுதான் பேசிக் கொள்வார்கள்.
+
+“நாடகத்திலே 'இராசபார்ட்' வேடம் தாங்கி மிகவும்
+திறமையாக நடித்தாலும் மக்கள் கை கொட்டிச் கிறிக்க
+மாட்டார்கள்; பபூனைப் பார்த்துதான் சிரிப்பார்கள்; 'பபூனாக
+நடி.த்த என்னைப் பார்த்துதான் - என்னுடைய நடிப்பைப்
+பார்த்துதான் மக்கள் கைகொட்டிச் சிரிக்கிறார்கள்.
+எனக்காகத்தான் மக்கள் அதிகமாகச் சிரிக்கிறார்கள் என்று பபூன்
+வேடதாரி சொல்ல முடியாதல்லவா?
+
+“அவர்களுக்கு இருக்கின்ற எண்ணமெல்லாம் தங்களுடைய
+ஆதிக்கம் எங்கே போய்விடுமோ என்பதுதான்! ஒரு தேர்தலிலே
+காங்கிரசுக் கட்சி தோற்றால் மறுபடியும் ஆட்சியை எட்டிப்
+பிடிப்பது என்பது முடியாத காரியம்! கண்ணாடிப் பாத்திரம்
+உடைந்து போனால் ஓட்ட வைக்க முடியாது; ஆனால் மற்ற
+பாத்திரம் ஓட்டையாகி விட்டால் உடனே அதைச் சரிசெய்து
+விடலாம். அதைப்போல் காங்கிரசு ஒருமுறை தோற்றால் அதை
+சரி செய்வதென்பது முடியாத காரியம்!
+
+“எனவே அவர்கள், பாத்திரத்தை நன்றாக அழுத்திப்
+பிடிக்கிறார்கள். அழுத்திப் பிடிக்கிற காரணத்தினால் 'பாத்திரம்
+8- பே..௮. சொ, தொ-2. பூ. வெ. எண், 600
+
+## Image 8: 008-2e986016c4.png
+
+- Image: `sorpozhivugal/mozhiyai/008-2e986016c4.png`
+
+உடையாது' என்று அவர்கள் கருதுகிறார்கள்! இன்னும் சற்று
+அதிகமாக அதனை அவர்கள் அழுத்திப் பிடித்தால் அழுத்திப்
+பிடிக்கப் பிடிக்க அது &ழே விழாமல், கையிலேயே உடைந்து
+போகும்.
+
+“இன்றையதினம் காங்கிரசுக் கட்சியில் அதிக
+பணக்காரர்கள் சேர்ந்து அந்தக் கட்சியை அழுத்தமாகப்
+பிடித்தால், காங்கிரசுக் கட்சி தானாகவே உடைந்து போய்விடும்
+என்பது உறுதி.
+
+“மாற்றுக் கட்சிக்காரர்களுக்குக் காமராசர் ஆட்சியைக்
+கவிழ்க்க வேண்டும் என்பதல்ல நோக்கம்; மற்றவர்களுக்கு
+வேண்டுமானால் அந்த எண்ணம் இருக்கலாம்; அனால் நாங்கள்
+கவலைப்படுவதெல்லாம், 'இந்த ஆட்சி நம்முடையதாக இருக்க
+வேண்டும்' என்பதுதான்.
+
+“இன்றையதினம் ஆட்சி நம்மிடத்திலே இல்லை.
+நம்மிடத்திலே இருந்தால்தான் அது எப்படிப்பட்ட ஆட்சியாக
+இருக்கும் என்று சொல்ல முடியும்! அகல் நம்மிடத்திலே இல்லை;
+அகல் முதலில் கிடைத்தால் பிறகு அதிலே விளக்கெண்ணெய்
+ஊற்றலாமா, என்று பார்க்கலாம்; இப்போது அந்த அகல் விளக்கு
+வடநாட்டில் இருக்கிறது. முதலிலே அது நம் கைக்கு
+வரவேண்டும். எனவேதான், திராவிட முன்னேற்றக் கழகம் அரசு
+அமைக்க விரும்புகிறது.
+
+“வெள்ளைக்காரன் எப்படி நமக்கு அந்நியனோ,
+ஐப்பான்காரன் எப்படி. நமக்கு அந்நியனோ, ஜெர்மன்காரன்
+எப்படி. நமக்கு அந்நியனோ, அமெரிக்காகாரன் எப்படி நமக்கு
+அந்நியனோ, பிரான்சு நாட்டுக்காரன் எப்படி. நமக்கு அந்நியனோ
+அதைப்போலவே வடநாட்டுக்காரனும் நமக்கு அந்நியன்தான்!
+
+“அந்நியன் என்று எதை வைத்துச் சொல்கிறோம்? நாம்
+சாப்பிடாத உணவுப் பொருளை அந்நிய பதார்த்தம்' என்று
+சொல்கிறோம். அதைப்போலவே நமக்குப் புறம்பானவர்களை
+அந்நியர் என்று சொல்கிறோம். எனவே வடநாட்டுக்காரர்களும்
+நமக்கு அந்நியர்களே!
+
+“அவர்கள் மொழி வேறு - நம் மொழி வேறு; அவர்கள்
+உடை வேறு - நம்முடைய உடை வேறு - அவர்கள் பழக்க
+வழக்கம் வேறு - நம்முடைய பழக்க வழக்கம் வேறு; நாம் அரிசி
+சாப்பிடுகிறோம் - அவர்கள் கோதுமை சாப்பிடுகிறார்கள்; நாம்
+
+## Image 9: 009-990c791baa.png
+
+- Image: `sorpozhivugal/mozhiyai/009-990c791baa.png`
+
+நான்கு முழ வேட்டி கட்டுகிறோம் - அவர்கள் 16 முழம் உள்ள
+பெரிய துணியினால் சுருணையாகச் சுருட்டி, தலையில் அணிந்து
+கொள்கிறார்கள்; நாம் ஆற்றைக் கண்டால் குளிக்கிறோம் -
+அவர்கள் ஆற்றைக் கண்டால் கும்பிடுகிறார்கள்; நாம் மேஜை
+நாற்காலி போட்டு வியாபாரம் செய்தால் அவர்கள் திண்டு
+தலையணை போட்டுக்கொண்டு படுத்துக்கொண்டே வியாபாரம்
+செய்கிறார்கள்! இவற்றையெல்லாம் வைத்துத்தான் நாம்
+வடநாட்டுக்காரனை அந்நியன் என்று சொல்லுகிறோம்.
+
+“வெள்ளைக்காரனை ஏன் அந்நியன் என்று
+சொல்லுகிறோம்? அவன் ஆங்கிலம் பேசுகிறான் - நம்முடைய
+மொழி தமிழ்; அவன் கால்சட்டை போடுகிறான் - நாம் வேட்டி
+கட்டுகிறோம்; இதை வைத்துத்தான் நாம் அவனை அந்நியன்
+என்று சொல்கிறோம்.
+
+“தலைமுறை தலைமுறையாக வாழ்ந்தவர்களுக்கு ஏற்பட்ட
+பழக்க வழக்கத்தைத்தான் நாம் பண்பாடு என்று சொல்கிறோம்.
+அதை வைத்துத்தான் தேசீயக் கவி இராமலிங்கம் பிள்ளை கூட,
+தமிழன் என்றோர் இனம் உண்டு தனியே அவர்கட்கு ஓர் குணம்
+உண்டு' என்று பாடினார். தமிழன் என்று ஓர் இனம் உண்டா
+என்று கேட்காதே என்ற கருத்தை வைத்துத்தான் அந்த நல்ல
+கவிஞர் அப்படிப் பாடியிருக்கிறார்; அதை வைத்துத்தான் வட
+நாட்டவர் வேறு - நாம் வேறு என்று சொல்லுகிறோம். எதிலே
+நமக்கும் அவர்களுக்கும் ஓட்டு உறவு இருக்கிறது?
+காங்கிரசுக்காரர்கள் நெஞ்சிலே கை வைத்துச் சொல்ல வேண்டும்.
+
+“இந்திய சர்க்காரில் உள்ள ஓர் இன மக்களுக்கும் மற்றோர்
+இன மக்களுக்கும் விரோதம் மூட்டுகிறார்கள் - பேதம்
+கற்பிக்கிறார்கள் என்றதோர் வழக்கை அவர்கள்
+தொடுப்பதானாலும் சரி, நான் தைரியமாகச் சொல்லுகிறேன் -
+அவர்கள் வேறு, நாம் வேறு; அவர்களுக்கும் நமக்கும் ஓட்டு உறவு
+இல்லை என்று அழுத்தந் திருத்தமாகச் சொல்லுகிறேன்.”
+
+## English Translation
+
+The following is Arignar Anna's call to the language struggle at a meeting held in Kattur on 10 July 1960.
+
+Comrades,
+
+“Kamaraj today possesses no real authority. If an industry is to be established in this country with capital exceeding one crore rupees, Kamaraj has no authority to grant permission; that authority rests with people in the North. We remain powerless simpletons. It is to obtain our rights that we say, ‘Dravida Nadu for the Dravidians.’
+
+“The people of the North who understood this asked themselves, ‘How did this ethnic consciousness arise?’ They concluded that we speak in this manner because of our attachment to Tamil. They are therefore attempting to impose Hindi in order to abolish our mother tongue. Introducing Hindi upon postcards, envelopes and milestones is one such effort. Northerners put Hindi upon milestones to tell us that we are slaves. No party in this country except the Dravidar Kazhagam and the Dravida Munnetra Kazhagam will challenge it.
+
+“That is why our General Council met at Kumarapalayam and fixed a date for the campaign to eradicate Hindi.
+
+“Those who today proclaim ‘Long live Anna’ and ‘Dravida Nadu for the Dravidians’ must be prepared to participate in the moral struggle when I issue the call.
+
+“The disease of northern imperialism has touched our brain. They felt our lower belly and we endured it; now they feel our brain. They probe to discover where *Purananuru*, *Akananuru*, *Tolkappiyam*, *Kalithogai* and *Kalingattuparani* lie, and they attempt to impose Hindi precisely there.
+
+“If we are to oppose and eradicate that Hindi firmly, we too must adopt certain severe measures. Our General Secretary is touring every town and city to gather support. When he comes, you must inscribe your names upon the list for the anti-Hindi struggle.
+
+“If we say that we swam in blood to protect our mother tongue and redeem the land of our fathers, will our whole lineage sink? I do not mean the blood of others. Every one of you must be prepared to be immersed in our own blood as it spurts from bullets fired by the rulers.
+
+“I greatly appreciate the friends who conduct the DMK in this small village for making every effort to have me and my friends participate in this meeting and creating this opportunity for us. I also praise the public who support their endeavour and strongly desire that their efforts succeed.
+
+“As my dear friend Kattur Ramaiah said, do not imagine this growth is enough and fall silent. I humbly ask all of you to continue your work.
+
+“I see responsible elders at this meeting. As Ramaiah said, I am proud of the enthusiasm they have shown.
+
+“Friend Ramaiah gave us an assurance: knowing that the welfare of Tamil Nadu's people would be ruined if Hindi were introduced as a compulsory subject, he would stand in the front rank of the struggle to abolish it, and Kazhagam comrades and the public throughout the Nannilam region would stand there too. As we wander seeking support for the coming anti-Hindi struggle, we feel boundless joy upon seeing people with such enthusiasm.
+
+“The growth of the DMK has caused alarm among the public, joy among friends, shock to the Government and wonder throughout the world.
+
+“I did not expect the Kazhagam to grow so quickly in these ten years, nor did I desire such growth. I wanted it to grow gradually.
+
+“A fruit should not ripen suddenly. Only when it ripens naturally will it possess flavour.
+
+“Our friend Killivalavan, who spoke before me, told you that members of opposing parties, including ministers, speak contemptuously and abusively about us.
+
+“For my part, I am pleased that they have at least thought of us. I was afraid they might ignore us. But instead of forgetting or disregarding us, they speak only about us wherever they go. Even ministers who receive a salary of 1,500 rupees a month speak about us wherever they go because we have become a sound that fills every place. The DMK has grown to that extent.
+
+“When the Kazhagam began, they first ignored it. ‘Where will these people survive? How will they conduct their organisation?’ they predicted. Today the DMK has passed that stage and reached the second.
+
+“The opposing parties now call upon the people: ‘Good government cannot be obtained unless the DMK is destroyed; therefore, people, come together.’ Energetic young people among us become angry upon hearing it. Even if they do, people like me sincerely desire that our opponents speak in precisely that way. I wish to tell them: abuse us thoroughly; the more you abuse us, the more the people's affection for us will grow.
+
+“The more leaders of one party abuse the opposing party, the higher public respect rises for the opposing leaders. I am very proud that the honourable Kamaraj performs that service on my behalf.
+
+“Members of the Muslim community gathered around Mr Jinnah because Congress people abused him. Likewise, Congress abuse of me creates an opportunity for people to gather around me. When Kamaraj says Annadurai endangers the country, people eagerly assemble and come to see ‘that man.’ Upon seeing me, they think, ‘He looks gentle, does he not? He speaks well and speaks the truth. Can this man truly cause danger?’
+
+“But when people see Kamaraj and are told, ‘This is the Chief Minister of the State,’ they look in astonishment and ask, ‘Is this man the Chief Minister?’
+
+“Thirty years ago, when my marriage had been arranged and my wife was brought in procession, a mischievous friend ran to me and said, ‘Your wife is utterly dark.’ His statement made me desire to see her appearance. When I immediately saw her in the procession, she was not dark as he had said but fair and beautiful.
+
+“In the same way, because Congress people abuse us and call us dangerous, the public develops a desire to see us and gathers in great numbers at our meetings.
+
+“I ask the people: if you consider the ideas we express good, accept them; if not, spit them out.
+
+“If you accept our ideas, you must be prepared to shed blood. Our objective is to reform the Government.
+
+“If we receive the opportunity, we shall form a Government. But an even more important objective is to obtain a Government of our own.
+
+“For the owner of a house, the door opens as soon as he knocks. Only a tenant must wait for it to open.
+
+“The country we now possess resembles a rented house.
+
+“If the house needs repair, we must tell the landlord. If it needs whitewash, we must ask the landlord.
+
+“Likewise, although there are ministers in this country, whenever they wish to do anything they must ask those in the North, just as a tenant must ask the landlord to whitewash or repair a house. Kamaraj becomes angry with me because I question this.
+
+“They possess responsibility for administration, but they do not possess authority. A great Government in the North holds all authority today. They are enraged with us because we say so.
+
+“When a child at a festival points to a sweet and asks its mother to buy it, a mother without money may beat the child. In the same manner, when we ask, ‘Where is our Bhakra-Nangal? Where is our Sindri? Where is our Chittaranjan?’ they become angry and abuse us.
+
+“Moreover, they point and say, ‘Look there at Rourkela; look there at Bhakra-Nangal; look there at Chittaranjan; look there at Sindri.’
+
+“We point here and say, ‘Look at the iron left unused. Look at the silted harbour. Look at the coal, aluminium and oil.’ Because we do so, they say, ‘What do these people know?’
+
+“Speaking in this fashion can only reduce the respect the world's people place in them; it cannot elevate them.
+
+“Those beside them may say, ‘You spoke well.’ People sitting nearby always speak that way. Who sits beside Kamaraj? On one side Ramalingam, son of Nedumbalam Samiappa; on another Poondi Vandayar; on another Moopanar; and elsewhere Vadapathimangalam Thyagaraja Mudaliar.
+
+“When Kamaraj comes down from the stage, they say, ‘You spoke wonderfully. You thrashed those fellows; their arrogance will now subside.’ Because Ukkadai Thevar and Poondi Vandayar say, ‘That point you made was magnificent,’ Kamaraj grows proud and imagines he knows everything.
+
+“Kamaraj does not know what they say after seeing him off. Behind his back they tell one another, ‘What can we do? If we do not speak that way, we may lose our licences and permits. Must we not at least say it for their sake?’
+
+“In a play, even if the actor playing the royal hero performs with great skill, the people do not clap and laugh at him; they laugh at the clown. Yet the clown cannot say, ‘The people clap and laugh because of me and my acting; they laugh more for me.’
+
+“Their only thought is that their domination might disappear. If Congress loses one election, regaining power will be impossible. A glass vessel cannot be repaired after it breaks, while a hole in another kind of vessel can be mended immediately. Likewise, once Congress is defeated, it cannot be repaired.
+
+“Therefore, they grip the vessel tightly, believing it will not break. If they squeeze it harder, it will break in their own hands instead of falling to the ground.
+
+“If more wealthy people join Congress today and grip it tightly, the party will certainly break of its own accord.
+
+“The opposing parties' objective is not merely to overthrow Kamaraj's administration. Others may possess that desire. Our concern is that the Government must be our own.
+
+“Today the Government is not ours. Only when it belongs to us can we say what kind of rule it should be. We do not possess the lamp's earthen vessel. First let us obtain it; afterward we can consider pouring lamp oil into it. That lamp now remains in the North. It must first come into our hands. That is why the DMK seeks to establish a Government.
+
+“Just as the Englishman, Japanese, German, American and Frenchman are foreigners to us, the northerner too is a foreigner to us.
+
+“On what basis do we call someone foreign? Food we do not eat is called a foreign dish. Likewise, we call people outside our way of life foreigners. Therefore, northerners too are foreign to us.
+
+“Their language differs from ours; their clothing differs; their customs differ. We eat rice and they eat wheat. We wear a four-cubit *veshti*, while they wind a large sixteen-cubit cloth and wear it upon the head. When we see a river, we bathe; when they see one, they worship it. We conduct business seated at a table and chair; they lie upon bolsters and pillows while conducting it. On these grounds we call the northerner foreign.
+
+“Why do we call the Englishman foreign? He speaks English while our language is Tamil. He wears trousers while we wear the *veshti*. On this basis we call him foreign.
+
+“We call the customs formed among people over generations their culture. That is why even national poet Ramalingam Pillai sang, ‘There is a people called the Tamil; they possess a character of their own.’ The good poet wrote so to say that one must not ask whether a Tamil people exists. On that basis we say northerners are one people and we another. What inseparable relationship exists between us and them? Congress people must place a hand upon their hearts and answer.
+
+“Even if they prosecute me for inciting hostility or creating division between one people and another within the Indian Union, I say courageously and emphatically: they are different, we are different, and no inseparable bond exists between us.”
+
+## Translator's Notes
+
+The source date “10-7-19260” is an OCR insertion; the ten-year reference to the DMK and surrounding chronology establish 10 July 1960. The Tamil source remains verbatim.
+
+This is a historical political speech. Its descriptions of regions, peoples, food, clothing and custom are translated in source context and are not presented as contemporary factual generalisations.
+
+The phrase “அரசு அமைப்போம்; ... முக்கியமான நோக்கம் அரசு பெறுவது” distinguishes forming a ministry within the existing system from obtaining political authority conceived as one's own government.
+
+The OCR form “இராகுட்” is probably Rourkela in the industrial-project list alongside Bhakra-Nangal, Chittaranjan and Sindri.

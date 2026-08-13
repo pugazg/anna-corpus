@@ -1,0 +1,1 @@
+../../md_pages/sorpozhivugal/thaethal_namakku_uzhavu.md

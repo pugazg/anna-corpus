@@ -1,0 +1,1 @@
+../../md_pages/sorpozhivugal/naattu_pirivinai_vaendum.md

@@ -1,0 +1,439 @@
+# தருகிறேன் 50 லட்சம் / I Will Raise Fifty Lakh Rupees
+
+**Tamil title:** தருகிறேன் 50 லட்சம்  
+**English title:** I Will Raise Fifty Lakh Rupees  
+**Source file:** `sorpozhivugal/tharugiraen50.md`
+
+## Source Tamil (verbatim)
+
+- Source image folder: `/Users/pugazhendhirajendran/Documents/Codex/2026-07-09/https-www-annavinpadaippugal-info/outputs/annavin_text_extractor/ocr_images/sorpozhivugal/tharugiraen50`
+- OCR language: `tam`
+- Tesseract page segmentation mode: `3`
+- OCR cleanup: `enabled`
+
+## Image 1: 001-6ebd7b1a2d.png
+
+- Image: `sorpozhivugal/tharugiraen50/001-6ebd7b1a2d.png`
+
+36
+
+தருகிறேன் 50 லட்சம்
+
+2-4-1950 - ஆம் ஆண்டு சென்னை மக்கள் பூங்கா
+(பீபிள்ஸ் பார்க்) மைதானத்தில் தோழர் சி எஸ்.
+அந்தோணிப் பிள்ளை அவர்கள் தலைமையில்
+நடைபெற்ற சேரி வாழ்வோர் மாநாட்டில் அறிஞர்
+அண்ணா அவர்கள் ஆற்றிய சொற்பொழிவு :
+
+அன்புள்ள தலைவர் அவர்களே, தோழர்களே
+
+சேரியில் வாழும் குடிமக்களின் குறைகளை,
+அரசாங்கத்துக்கு எடுத்துரைப்பதற்காகத் தக்க தலைவரின்
+தலைமையில் இம் மாநாடு கூட்டப்பட்டுள்ளது. குறிப்பிட்ட
+பிரச்சினைகளைத் தீர்க்க பல கட்சிகள் இன்று இங்குள்ளவாறு
+ஒன்றுசேர்வது வரவேற்கத்தக்கது.
+
+அடிப்படையிலே மாறுபட்ட கொள்கையுடன் வேறு வேறு
+கட்சியிலிருப்போரும் இம் மாநாட்டில் ஓன்று கூடியுள்ளோம்.
+அரசியல் கட்சிகளுக்கு மாறுபட்ட திட்டங்கள் இருந்தாலும்,
+எல்லாரும் சேர்ந்து கவனிக்கப்பட வேண்டியது சேரி வாழ்வோர்
+பிரச்சினையாகும். அதனால்தான் நாம் எல்லாரும் ஓன்று
+கூடியுள்ளோம். இதற்காக ஒன்றுகூடி வேலை செய்ய
+வேண்டுமென்று நம் மனதில் ஒரு அசை.
+
+எனக்கு முன்னர் பேசிய அன்பர் நமக்குள் ஒரு கூட்டு
+மூயற்சி இருக்க வேண்டுமென்கிறார். இது மிக முக்கியமானது.
+மேலும் அவ்வன்பர், “இந்தச் சர்க்காரிடமிருந்து சேரியில் வாழும்
+ஏழை மக்கள் நன்மையை எதிர்பார்க்க முடியாது. இதற்கு ஒரே
+ஒரு வழி நாமே சர்க்காரை காப்பாற்ற வேண்டும்” என்றார். இதை
+நான் முழுமனதுடன் ஏற்கிறேன். நாம் கூட்டு முயற்சியுடன் சேரி
+வாழ்வோரின் நலத்திலே ஈடுபட்டால் சர்க்கார் அவசியம் நமக்கு
+வளைந்து கொடுத்துத்தான் அகவேண்டிவரும். மாற்றுக்
+கட்சியினர் ஓன்றுசேர்கிறார்களே! இனி என்ன ஆகுமோ என்ற
+
+## Image 2: 002-024a41f39d.png
+
+- Image: `sorpozhivugal/tharugiraen50/002-024a41f39d.png`
+
+திலி அரசியலாருக்கு ஏற்படும். அரசியலார் அஞ்ச
+வேண்டியதில்லை; சஞ்சலப்பட. வேண்டியதில்லை - அதிகாரத்தைக்
+கைப்பற்ற நாங்கள் முற்படப் போவதில்லை. அப்படி
+இடதுசாரியினர் அரசாங்கம் அமைக்கும்படி ஏற்பட்டால்
+தோழர் அந்தோணிப் பிள்ளையைத்தான் நான் அமைச்சர்
+பதவியிலே அமர்த்துவேன். பல அமைச்சர்கள் சபையைப் பார்க்க
+விரும்புகிறேன் நான்.
+
+நம்முடைய பிரச்சினைகளிலே சர்க்காருக்கு எங்கே
+அக்கறைஇருக்கப் போகிறது? சர்க்காருக்கு அவர்களுடைய
+பிரச்சினைகளிலேயே சந்தேகமாயிற்றே! நான் திராவிடக் கட்சி,
+திராவிட முன்னேற்றக்கட்சி ஆகிய இரண்டுக்கும் பிரதிநிதி. சேரி
+வாழ்வோர் நலத்திலே அதிக கவனத்தைச் செலுத்தாததற்காக
+சர்க்கார் உண்மையிலேயே நாகரீக சர்க்காரானால் வெட்கப்படத்
+தான் வேண்டும். வெளிநாட்டி லிருந்து வரும் தூதுவர்களுக்குச்
+சேரிகளின் இழிந்த நிலை எங்கே தெரியப்போகிறது? மந்திரி
+மார்களுக்குப் பறந்து செல்ல விமானம், உல்லாசமாக வாழ்க்கை
+நடத்த மாளிகைகள் எல்லாம் இருக்கின்றன. சேரிகளிலோ
+துர்க்கந்தம் வீசுகிறது. மலம் கழிக்கத் தக்க இடமில்லை! மக்கள்
+இருக்க இடமின்றித் திண்டாடுகிறார்கள். சர்க்கார் ஒரு நாகரிக
+சர்க்காரானால் இவற்றையெல்லாம் கண்டுகொண்டு இருக்குமா?
+
+மனிதப் பிராயத்திலே உள்ள இந்தச் சர்க்கார் சேரி
+வாழ்வோரின் நலத்திலே ஈடுபடாமல் இருப்பதைவிட
+வெளியேறினால் கடைசி மரியாதையையாவது காப்பாற்றிக்
+கொள்ளலாம்.
+
+நேற்று இராசிபுரத்தில் ஒரு மாநாடு அலுவலாகச் சென்று
+வந்தேன். திருச்சினாப்பள்ளியின் ஜில்லா போர்டு தலைவர் அங்கு
+நடைபெற்ற மாநாட்டில் குறிப்பிட்ட வாசகத்தை உங்கள்
+நினைவுக்குக் கொண்டுவருகிறேன். நம்முடைய விசித்திரமான
+சர்க்காருக்கு அவர்களுடைய திட்டமே புரிவதில்லையாம்.
+மற்றவர்களுடைய திட்டம் அவர்களுக்கு எப்படிப் புரியும்?
+முசிரிக்கு அருகில் அழகான காவிரி மீது பாலம் கட்டவேண்டு
+மென்று அவர் திருச்சியிலிருந்து ஒரு தீர்மானம் அனுப்பினாராம்.
+மக்கள் எல்லோருடைய ஆதரவைப் பெற்றதோடு நின்று
+விடாமல், திருச்சி ஜில்லா போர்டு அங்கத்தினர்களின்
+ஒப்புதலையும் பெற்று அவர் அந்த மனுவை அனுப்பியிருந்தார்.
+இதற்கு நம்முடைய சர்க்கார் எழுதி அனுப்பிய பதில் என்ன
+தெரியுமா?
+
+## Image 3: 003-e1ca982703.png
+
+- Image: `sorpozhivugal/tharugiraen50/003-e1ca982703.png`
+
+"$01 0௧௦% (௦ (6 1). $௦8ம் 10810401( 10 ௦008$8ர/ 801108"
+
+“தக்க நடவடிக்கை எடுத்துக் கொள்ளும்படி. ஜில்லா
+போர்டின் தலைவருக்குத் திருப்பி அனுப்பப்படுகிறது என்று
+பதில் வந்ததாம். தக்க நடவடிக்கை எடுத்துக் கொள்ள ஜில்லா
+போர்டின் தலைவருக்கு அதிகாரம் கிடையாது.
+
+“எங்கள் ஊரிலே உள்ள தனி அள் அல்ல; ஒரு ஜில்லா
+போர்டின் தலைவன் என்ற முறையில் எல்லோருடைய
+ஒப்புதலையும் பெற்று அனுப்பிய மனுவுக்கு சர்க்கார் அனுப்பிய
+பதிலைப் பார்த்தீர்களா?” என்று ஜில்லா போர்டின் தலைவர்
+நேற்று கூட்டத்தில் சொன்னார். “இப்படி ஒரு சர்க்கார்
+செய்வதைக் கண்டு கொஞ்சநாள் நான் காங்கிரஸ்காரனாக
+இருந்ததற்காக உண்மையிலே வெட்கப்படுகிறேன்” என்று மேலும்
+அவர் சொன்னார். விவசாயிகள் மாநாட்டில் நான் ஜில்லா
+போர்டு தலைவருக்குச் சொன்னேன், “உடனே பாலம் கட்ட
+ஆரம்பியுங்கள்” என்று. மராமத்து மந்திரியார் வேண்டுமானால்
+கோர்டில் வழக்குத் தொடரட்டும்.
+
+இதைப் போலவே இன்று நடை பெறுகிற மாநாட்டி லிருந்து
+முக்கியமான பிரச்சினையைப் பற்றி நாம் தீர்மானம் போட்டு
+அனுப்புகிற மனுவையும் நம்முடைய சர்க்கார் "50 080% (௦ (4௦
+ர0514611 10 1600588௫7 80110” என்று திருப்பி அனுப்பி
+விட்டாலும் விடலாம். நம்முடைய சர்க்காரின் விசித்திரமான
+செயல்களை யார் கண்டார்கள்?
+
+கார்ப்பரேஷனால் முடியாத காரியத்தைப் பொது மக்களின்
+சர்க்கார் அவசியம் கவனிக்கவேண்டும். சேரி வாழ்வோரின் நலம்
+கருதி நாம் தீர்மானம் போட்டு அனுப்பிப் பின்னர் அதை
+நிராகரித்தால் அவர்களுக்கு எச்சரிக்கை செய்கிறோம்.
+பதவியிலிருப்பதைவிட. விலகுவது மேலென்று.
+
+1935-அம் அண்டில்தான் நான் சென்னை நகரசபை
+அங்கத்தினர் தேர்தலுக்கு நின்று தோற்றேன். அப்பொழுது என்
+சார்பாக நடைபெற்ற தேர்தல் கூட்டங்களில், “சேரிகளிலே
+அலங்கார விளக்குகள் இல்லை. அப்படியிருக்கும் பொழுது
+நம்முடைய நகரசபை கோயில்களின் முன்னிலையிலே 2
+அலங்கார விளக்குகள் போடுவது ஏன்?” என்று பலமுறை கூறி
+நான் பலமாகக் கண்டித்தேன். தெருவிலே நல்ல ஒளி தரும்
+மின்சார விளக்குகள் பல காட்சியளிக்கும்பொமுது இந்த
+
+## Image 4: 004-b4eb215ce2.png
+
+- Image: `sorpozhivugal/tharugiraen50/004-b4eb215ce2.png`
+
+அலங்கார விளக்குகள் ஏன் என்று கேட்.டதோடு “என்னை நீங்கள்
+நகர சபைக்கு அனுப்பினால் முதலிலே இது போன்ற
+பிரச்சினைகளை எதிர்த்துச் சேரி வாழ்வோரின் நலத்திலே
+ஈடுபடுவேன்” என்று சொன்னேன்.
+
+இப்பொழுதிருக்கும் பக்தர்களைவிட அப்பொழுது
+பக்தர்கள் கொஞ்சம் முறுக்காக இருந்த காரணத்தினால் நான்
+சொல்லிய கருத்தை ஏற்றுக் கொள்ளாமல் இருந்தார்கள். இதை
+ஒரு சாக்காக வைத்துக்கொண்டு எனக்கு எதிராக நின்ற காங்கிரஸ்
+அன்பர் “அண்ணாதுரைக்கு ஓட்டுக் கொடுத்தால் கோயில்களின்
+முன்னிலையிலே இருக்கும் அலங்கார விளக்குகளை எடுத்து
+விடுவதாகப் பேசினார். அதலால் அண்ணாதுரைக்கு ஓட்டுக்
+கொடுக்காதீர்கள்” என்று துண்டுப்பிரசுரங்கள் வெளியிட்டார்.
+மக்கள் அப்பொழுது என்னை நகரசபைக்கு அனுப்பாதிருந்ததே
+நல்லதாய்ப் போயிற்று. அப்படி. அனுப்பியிருந்தால் ஒரு குரல்
+நகரசபையிடம் நான் அழுதாலும் அவர்கள் இதை கவனிக்கப்
+போகிறார்களா என்ன?
+
+நகரசபை அதிகாரிகள் உங்கள் நன்மையிலே நாட்டம்
+செலுத்தவில்லை! அமெரிக்காவிலிருந்து யாராவது சென்னையை
+பார்க்க வந்தால் அவர்கள் பார்த்து மகிழ ஒரு அழகிய
+ஸ்டேடியம், கடலிலிருந்து மிதந்தோடி வரும் காற்றைப் பெற்றுக்
+கொண்டே நீந்த ஒரு நீந்துமிடம். இது மட்டுமா? அவர்களுடைய
+மெருகு கலையாத மோட்டாரின் டயர் தேயாமல் போக ஒரு
+தார் ரோடு. காமிராக்கள் மூலம் நல்ல காட்சிகளையெடுக்க
+சர்க்கார் மாளிகைகளிலே அழகான காட்சிகள் - இவை போன்ற
+மேனி மினுக்கி ஏமாற்றத்தைக் கற்றுக் கொண்டிருக்கிறது,
+சர்க்கார்.
+
+நாட்டிலே உள்ள சேரிகளைச் சீர்திருத்த, வெளிநாட்டுத்
+தூதுவர்களுக்காகச் செலவிடும் பணத்திலே ஒரு பகுதியே
+போதும்! சேரிகளிலே சீர்திருத்தம் செய்வதற்காக 50 லட்சம்
+ரூபாய் ஒதுக்கும்படி. சர்க்காரைக் கேட்கிறோம். சர்க்கார் இதற்குச்
+சுலபமாக “எங்களிடம் பணம் இல்லை” என்று சொல்லி
+விடுகிறார்கள். பணம் இருக்கின்ற இடத்தை அவர்களுக்குக்
+காட்ட நாங்கள் இருக்கிறோம். சர்க்காருக்கு அறிவுக்கண்
+இல்லாததாலும் அதிகார போதையிலே இருப்பதாலும், அவர்கள்
+கண் பார்வை கொஞ்சம் மங்கியிருப்பதாலும் அவர்களுக்கு நாம்
+காட்டுகிற இடம் தெரியாது.
+
+## Image 5: 005-7cbffe3d27.png
+
+- Image: `sorpozhivugal/tharugiraen50/005-7cbffe3d27.png`
+
+சென்னை நகரிலுள்ள நிலங்களின் விலை ஒன்றுக்குப்:
+பத்தாக உயர்ந்திருக்கிறது. அதிக விலையில் விற்கப்படும்
+இந்நிலங்களுக்கு வரி கேட்டு வாங்கலாம். தாம்பரத்துக்குப்
+பக்கத்திலேயும் வண்டலூருக்கு அருகிலும் உள்ள 300, 400 ஏக்கரா
+காடு நிலங்களை மலிவாக “ஹிந்து” பத்திரிகை முதலாளிகள்
+வாங்கியுள்ளதாகக் கேள்விப்பட்டேன். காடு நாடாவதுதான்
+நாகரீக வளர்ச்சி. ஹிந்து பத்திரிகை முதலாளிகள் இந்த இடத்தை
+நல்ல நோக்கோடுதான் வாங்கியிருக்கிறார்கள். காடாக இருக்கும்
+இடம் நகரமானதும் நல்ல சான்ஸ் இருக்கும் என்ற
+எண்ணத்தோடுதான் அவர்கள் இவ்வளவு நிலங்களை வாங்கி
+இருக்கவேண்டும். பத்துப் பதினைந்து வருடங்களுக்கு முன்னாலே
+குறைவான விலை கொடுத்து வாங்கிய மனைகள் இப்பொழுது
+நாகரீக வளர்ச்சி ஏற்பட்டதும் விலையேறிவிட்.ட.ன. ஊர் வளர்கிற
+காரணத்தால் சர்க்கார் இது போன்ற காலி மனைகளைக்
+குறைவான விலைகொடுத்து வாங்கி அழகிய வீடுகளைச் சேரி
+மக்களுக்குக் கட்டிக் கொடுக்கலாம். நேற்றுக் காடாக இருந்த
+இடங்களிலே எல்லாம் இன்று அழகிய வீடுகள் -
+பங்களாக்களைக் காண்கிறோம். என்னுடைய இளமைப்
+பருவத்திலே காடாக இருந்த மாம்பலம் இன்று ஒளிவீசும்
+நட்சத்திரங்கள் கூடியிருக்குமிடமாக மாறியிருப்பதைக்
+காண்கிறேன்.
+
+காடாக இருக்கும் வண்டலூர் போன்ற இடங்களில்
+இருக்கும் காலி மனைகளை நம்முடைய சர்க்கார் புத்தி யூகமுள்ள
+சர்க்காரானால் விலை கொடுத்து வாங்கலாம். நூ. 5000க்கு
+வாங்கப்படும் நிலம் ரூ. 50,000மாகக் கூட. மாறும் காலம் வரும்.
+
+“வீடு நமக்குத் திருவாலங்காடு, கையிலுண்டு நமக்குத்
+திருவோடு" என்று நாம் கூறமாட்டோம். சேரிமக்கள் இன்பமாய்
+வாழக் கோயில்களைக் கொடு என்று அண்டவனைக் கேட்போம்.
+ஆலயங்களிலே நூற்றுக்கால் மண்டபங்களிலெல்லாம் ஏழை
+மக்கள் வதியலாமே! குளிப்பதற்காக இருக்கும் திருக்குளத்தைத்
+தந்துதவலாமே! பளிங்கு மண்டபத்திலே ஏழை மக்கள்
+அமரலாமே! ஏழை மக்கள் ஆண்டவனுடைய மக்களல்லவா!
+
+ஊளரிலிருந்து துரத்தப்பட்ட மக்கள், ஊருக்கு உழைக்கும்
+மக்கள், ஊருக்கென்று உழைத்து உருக்குலைந்த மக்கள், ஒரு
+சாராரால் உலுத்தர்கள், பறையர்கள் என்று ஒதுக்கித்
+
+## Image 6: 006-7424f31c8a.png
+
+- Image: `sorpozhivugal/tharugiraen50/006-7424f31c8a.png`
+
+தள்ளப்பட்ட பாமர மக்கள், ஆண்டவனே உன் மக்களல்லவா?
+உன் கோயில்களிலே உள்ள காலி இடங்களிலே ஏன் அவர்கள்
+புகக்கூடா து?
+
+திராவிட முன்னேற்றக் கழகத்தாரிடம் அரசாங்கம்
+ஓப்படைக்கப்பட்டால் கோயிலிலே குடியேற ஏழை மக்களுக்கு
+இடமளிக்கப்படும். ஆண்டவனின் சொந்த மக்களான
+ஏழைகளுக்கு வெளியிலே இடமில்லையென்றால் ஆண்டவனின்
+
+சன்னிதானத்தில் இடமில்லையா?
+
+ஓன்பதுபேர் ஓர் ஓட்டைக் குடிசையிலே வாழத்தக்க
+இடமின்றித் தவியாய் தவிக்கிறார்கள், பங்களாக்களிலோ,
+உல்லாசச் சீமான்களும் சீமாட்டிகளும் உலாவி வருகிறார்கள்.
+
+சில பங்களாக்களின் முற்றங்களுக்குள் காரில் சென்றால்
+கூடப் பங்களா இருக்குமிடத்தைக் கண்டு பிடிக்க முடியாது.
+மெருகு குலையாத மோட்டார் செல்ல அழகியதொரு பாதை
+வீட்டைச் சுற்றி அமைத்திருக்கிறார்கள். ஒரு பக்கத்திலே சிலர்
+'ஹாக்கி' பந்தாட்டம் ஆடிக் கொண்டிருப்பார்கள். அதைக் கடந்து
+சென்றால் மரத்தடியில் சோபாக்கள்; அந்தச் சோபாக்களிலே
+அதிரூப சுந்தரிகள். இப்படிப்பட்ட இடங்களையெல்லாம் கடந்து
+சென்றால் உள்ளே ஒரு பங்களா! வீடு எங்கே இருக்கிறது என்று
+தெரியாதமாதிரி பங்களாக்கள் இருக்கின்றன. சேரிமக்கள்
+வாழவோ இடமில்லை! பங்களாக்களிலோ தேவைக்கு மேல்
+உள்ள இடங்களையெல்லாம் சிறுசிறு வீடுகளாக மாற்ற
+வேண்டும்.
+
+நம்முடைய கிளர்ச்சிகள் அடிக்கடி. தோன்றி அமுங்கி
+விடுகின்ற காரணத்தால்தான் சர்க்கார் நம்முடைய
+பிரச்சினைகளைக் கவனிக்காமல் இருக்கிறார்கள். கிளர்ச்சிகள்
+தொடர்ந்து செய்யப்பட்டால்தான் பலன் காண முடியும்.
+சர்க்காரால் ஏழைமக்களின் நலத்திலே நாட்டம் செலுத்த முடிய
+வில்லையென்றால் எங்களிடம் சில ஆண்டுகளுக்குக்
+காண்ட்ராக்டாக விடட்டும்; அப்பொழுது நாங்கள் ஏழை
+மக்களின் நலன் கருதி செய்யும் வசதிகளைக் கண்டு சர்க்காரே
+வெட்கமடையும்.
+
+நானும் தோழர் அந்தோணிப்பிள்ளையும் ஒரு லட்சம்
+பேருடன் அமைதியான முறையிலே சட்டசபைக்குச் சென்று,
+“நீங்கள் அமைச்சர் பதவியிலே அனந்தமாக இருக்கிறீர்கள்.
+
+## Image 7: 007-cae5463ac6.png
+
+- Image: `sorpozhivugal/tharugiraen50/007-cae5463ac6.png`
+
+உங்களுக்குத் தேவைக்குமேல் இடமுள்ள அழகிய பங்களாக்க
+ளிருக்கின்றன. எங்களுக்கோ மலம் கழிக்க இடமில்லை! சாக்கடை
+நாற்றம் பொறுக்க முடியவில்லை. சேரிகளிலோ நாங்கள்
+அவதிப்படுகிறோம்; உங்களுக்கு அறிவுக்கண் இருந்தால் எங்கள்
+பிரச்சினைகளைக் கவனியுங்கள்” என்று கேட்க வேண்டும்.
+
+“நாங்கள் கையாலாகாதவர்கள்; உங்கள் பிரச்சினைகளை
+எங்களால் கவனிக்க முடியாது” என்று சர்க்கார் ஒரு துண்டு
+நோட்டீஸ் போட்டுக் கொடுக்கட்டும் அதை வைத்துக்
+கொண்டே தமிழ்நாட்டில் 50 லட்சம் ரூபாய் வசூல் செய்து
+காட்டுகிறேன்.
+
+நம்முடைய சர்க்காருக்குச் சொந்தமாக அழகியதொரு
+விமானம் இருக்கிறது. அதன் பெயர் என்ன தெரியுமா? 'ஹ.நுமான்'
+அந்த ஹநுமான் குடியிருப்பது மைசூரில். அதற்கு அங்கே
+வாடகை தரப்படுகிறது. விமானத்துக்கு ஹநுமான் என்று பெயர்
+வைத்திருப்பது ஒன்றே சர்க்காரின் போக்கை நன்கு காட்டுகிறது.
+
+இலண்டன் மாதகரத்திலே 2 ஆண்டுகளுக்கு முன்னே
+காலியாக இருந்த சீமான்களின் வீடுகளிலெல்லாம் இருக்க
+இடமின்றி இருந்த ஏழை மக்கள் குடியேறி விட்டார்கள். கதவு
+அடைக்கப்பட்ட வீடுகளிலெல்லாம் ஜன்னல் வழியாகக்
+குடியேறினார்கள். பழைய “ஹிந்து' பத்திரிகை இருந்தால்
+அப்பத்திரிகையில் படங்களுடன் இந்தக் காட்சியை நீங்கள்
+பார்க்கலாம்.
+
+நாகரீகம் தலை தூக்கத் தூக்க மாளிகைகளும் வளர்ந்து
+கொண்டே போகின்றன. சேரிகளோ அதிகமாகிக் கொண்டு
+வருகின்றன. சேரி என்ற பெயரையே சர்க்கார் ஒழித்து ஏழை
+மக்களுக்கு வாழ நல்ல இடமளிக்க வேண்டும். மற்றப்
+பிரச்சினைகளில் ஒன்றுசேராதவர்கள் இதில் ஒன்றுபட்டுள்ளனர்.
+மாற்றுக் கட்.சியில் உள்ளவர்கள் ஒன்றாகச் சேர்ந்து மாநாடு கூடித்
+இர்மானிப்பதை அரசியலார் மதித்தாக வேண்டும். நாமெல்லாரும்
+ஒன்றுகூடிச் சர்க்காரைக் கேட்பது 50 லட்சம் ரூபாய்தான்.
+நம்முடைய தலைவலியை மட்டும் போக்கிக் கொள்ளவே முதலில்
+இந்தத் தொகையைக் கேட்கிறோம். அடிக்கடி நாற்றமெடுக்கும்
+சேரியிலே நாற்றம் கொஞ்சமாவது குறையட்.டும். ஏதோ சிறு
+சிர்திருத்தமாவது தற்போது செய்வதற்காக ரூபாய் 50 லட்சம்
+ஒதுக்குங்கள் என்று சர்க்காரைக் கேட்கிறோம்.
+
+## Image 8: 008-6c3749a522.png
+
+- Image: `sorpozhivugal/tharugiraen50/008-6c3749a522.png`
+
+இப்பொழுது சர்க்கார் தூதுகோஷ்டிக்குச் செலவிடுகிற
+பணத்தில் ஒரு சிறு பகுதி ஓதுக்கினால்கூட. போதுமே, சேரி
+
+மக்கள் நலம் பெற.
+
+சிறைக்கூடத்துக்கு என்னை சர்க்கார் அனுப்பாமலிருந்தால்
+உங்களுடன் கூடி. உங்கள் நலனுக்காகப் போராடுவேன்.
+இதுபோன்ற பிரச்சினைகளைச் சர்க்கார் கவனிக்க வேண்டி.யதின்
+அவசியத்தை வற்புறுத்துவதற்காக இரு. அந்தோணிப் பிள்ளை
+அவர்கள் சொல்லியதைப் போல நமக்கு ஒரு மத்திய ஸ்தாபனம்
+அவசியம் வேண்டும்.
+
+நாட்டு மக்களின் நலிவைப் போக்கவும், ஏழை மக்களின்
+நாட்டத்திலே சர்க்கார் கவனம் செலுத்தவேண்டுமென்று உங்கள்
+சார்பாகவும் என் சார்பாகவும் கேட்டுக் கொள்கிறேன்.
+
+## English Translation
+
+The speech delivered by Arignar Anna at the Conference of Slum Residents held under the chairmanship of Comrade C. S. Anthony Pillai at the People’s Park grounds in Chennai on 2 April 1950:
+
+Dear Chairperson and friends,
+
+This conference has been convened under a fitting leader to present to the government the grievances of citizens who live in slums. It is welcome that many parties have assembled here today to resolve specific problems.
+
+Though we belong to different parties with fundamentally differing policies, we have gathered at this conference. Political parties may possess different programmes, but the problem of slum residents is one that everyone must jointly address. That is why we have assembled. We desire to come together and work for this purpose.
+
+The friend who spoke before me said that we must undertake a joint effort. This is very important. He also said, “The poor who live in slums can expect no benefit from this government. There is only one path: we ourselves must save the government.” I accept this wholeheartedly.
+
+If we engage in the welfare of slum residents through joint effort, the government will necessarily have to yield to us. The politicians in power may worry: “The opposition parties are uniting; what will happen now?” They need not fear or be agitated. We are not about to seize power. If circumstances did require the left parties to form a government, I would appoint Comrade Anthony Pillai as a minister. I wish to see an assembly containing many ministers.
+
+Where will this government find concern for our problems when it is uncertain even about its own? I represent both the Dravidar Kazhagam and the Dravida Munnetra Kazhagam. If it is truly a civilised government, it ought to be ashamed that it has paid so little attention to the welfare of slum residents.
+
+How will foreign envoys learn of the degraded condition of the slums? Ministers have aircraft in which to fly and mansions in which to live luxuriously. The slums reek. There is no place to relieve oneself. People struggle without space in which to live. Could a civilised government see all this and remain as it is?
+
+This government, now in the prime of human life, could at least preserve its final dignity by leaving office rather than remaining indifferent to the welfare of slum residents.
+
+Yesterday I attended a conference at Rasipuram. I remind you of a statement made there by the president of the Tiruchirappalli District Board. It seems our strange government does not understand even its own programme; how could it understand anyone else’s?
+
+From Tiruchi, he had sent a resolution asking for a bridge to be built across the beautiful Cauvery near Musiri. Besides receiving the support of all the people, he had secured the approval of the members of the Tiruchi District Board and sent the petition. Do you know the government’s reply?
+
+It said, “Returned to the president of the District Board for necessary action.” But the president of the District Board possessed no authority to take the necessary action.
+
+At yesterday’s meeting, the president said, “See the reply the government sent to a petition that I submitted not as a private individual from my town, but as president of a District Board after obtaining everyone’s approval.” He added, “Seeing a government act in this manner, I am truly ashamed that I was once a Congressman.”
+
+At the farmers’ conference, I told the District Board president, “Begin building the bridge immediately.” Let the Public Works Minister file a case in court if he wishes.
+
+Likewise, the government may return the petition containing the resolution we pass at today’s conference on this important issue with another garbled bureaucratic direction. Who can predict our government’s strange acts?
+
+The people’s government must attend to what the Corporation cannot do. If we pass and submit a resolution for the welfare of slum residents and it is rejected, we warn them that it would be better to leave office than remain in it.
+
+It was in 1935 that I contested and lost an election to the Chennai Corporation. At my campaign meetings, I repeatedly condemned the municipality by asking, “There are no decorative lights in the slums. Why then does our Corporation install decorative lights before temples?”
+
+I asked why decorative lights were needed when many electric streetlights already gave good illumination. I said, “If you send me to the Corporation, I shall first oppose issues of this kind and work for the welfare of slum residents.”
+
+Devotees were somewhat more rigid then than they are now and did not accept my view. Using it as a pretext, the Congress friend contesting against me issued leaflets saying, “Annadurai has said he will remove the decorative lights before temples if you vote for him. Therefore, do not vote for Annadurai.”
+
+It was perhaps good that the people did not send me to the Corporation then. Even if they had, would the Corporation have paid attention while I wept there as a lone voice?
+
+Municipal officials have no interest in your welfare. If someone from America visits Chennai, there is a fine stadium for them to enjoy; a swimming pool where they may swim while receiving the breeze blowing in from the sea; and a tarred road so the tyres of their polished cars will not wear out. There are attractive scenes at government mansions for their cameras to photograph. The government has learned such cosmetic deception.
+
+Only a portion of the money spent upon foreign envoys would be enough to improve the country’s slums. We ask the government to allocate fifty lakh rupees for slum improvement. The government easily replies, “We have no money.” We are here to show them where the money exists. But because the government lacks the eye of wisdom, is intoxicated with power, and has dim vision, it cannot see the places we show it.
+
+The value of land in Chennai has increased tenfold. Tax may be demanded and collected upon land sold at such high prices. I have heard that the proprietors of *The Hindu* purchased three or four hundred acres of forest land near Tambaram and Vandalur at low prices.
+
+Civilised development turns forest into settled country. The proprietors of *The Hindu* must have purchased so much land with good intentions, expecting there would be a fine opportunity when the forest became a city. Plots bought cheaply ten or fifteen years ago have risen in price as development occurred.
+
+Because the city is growing, the government could buy such vacant land cheaply and build fine houses for slum residents. In places that were forests yesterday, we now see beautiful houses and bungalows. Mambalam, which was forest in my youth, has become a place crowded with shining stars.
+
+If our government possessed foresight, it could buy vacant plots in forested places such as Vandalur. A time will come when land bought for five thousand rupees becomes worth fifty thousand.
+
+We will not say, “Thiruvalangadu is our home, and the begging bowl is in our hand.” We shall ask God to give temples so that slum residents may live happily. Poor people could live in the hundred-pillared halls of temples. The sacred tank could be given for bathing. Poor people could sit in the marble halls. Are the poor not God’s children?
+
+People driven out of the town, people who labour for the town, people worn down by working for it, ordinary people excluded by some as “Uluthars” and “Paraiyars”: God, are they not your children? Why may they not enter the vacant places within your temples?
+
+If the government were entrusted to the DMK, poor people would be given space to live in temples. If God’s own children, the poor, have no place outside, is there no place for them in God’s sanctuary?
+
+Nine people suffer without sufficient room in one leaking hut, while pleasure-loving gentlemen and ladies stroll through bungalows.
+
+In the grounds of some bungalows, even after entering by car, one cannot locate the house itself. A fine path has been laid around it for polished motorcars. On one side, some people play hockey. Beyond them are sofas beneath trees, and upon those sofas sit exceptionally beautiful women. Only after passing all this does one reach the bungalow. There are bungalows so large that one cannot find the house, while slum residents have no place to live. Space in bungalows beyond what is needed should be converted into small homes.
+
+The government ignores our problems because our agitations repeatedly arise and subside. Results can be obtained only if agitation continues. If the government cannot take an interest in poor people’s welfare, let it give us the work on contract for a few years. It will then be ashamed on seeing the facilities we provide for the poor.
+
+Comrade Anthony Pillai and I should go peacefully to the Legislative Assembly with one hundred thousand people and say: “You live happily in ministerial office. You have fine bungalows with more space than you need. We do not even have a place to relieve ourselves. We cannot bear the stench of the drains. We suffer in the slums. If you possess the eye of wisdom, attend to our problems.”
+
+Let the government issue us a leaflet saying, “We are incapable; we cannot attend to your problems.” With that leaflet alone, I shall raise fifty lakh rupees in Tamil Nadu.
+
+Our government owns a fine aircraft. Do you know its name? Hanuman. That Hanuman resides in Mysore, and rent is paid for it there. The mere fact that the aircraft has been named Hanuman clearly reveals the government’s outlook.
+
+Two years ago in London, poor people without homes occupied all the gentlemen’s houses that stood vacant. They entered through the windows of locked houses. If you have an old issue of *The Hindu*, you can see photographs of those scenes.
+
+As civilisation raises its head, mansions continue to grow, and slums too continue to multiply. The government must abolish even the name “slum” and provide poor people with good places to live.
+
+People who do not unite on other issues have united on this one. Those in opposition parties have assembled and resolved upon it together; those in power must respect that. All of us together ask the government for only fifty lakh rupees.
+
+We first ask for this sum merely to relieve our immediate headache. Let the stench in the constantly foul-smelling slums at least diminish a little. We ask the government to allocate fifty lakh rupees so that at least some small improvement can be made now.
+
+Even a small portion of what the government now spends on delegations would be enough to benefit slum residents.
+
+If the government does not send me to prison, I shall join you and struggle for your welfare. As Mr. Anthony Pillai said, we need a central organisation to insist that the government attend to issues of this kind.
+
+On your behalf and mine, I ask that the government turn its attention to relieving the people’s distress and to the welfare of the poor.
+
+## Translator's Notes
+
+The source is a complete eight-page speech delivered at the Conference of Slum Residents at People’s Park, Chennai, on 2 April 1950. All Tamil OCR pages remain verbatim.
+
+The title literally says “I Give Fifty Lakhs,” but the speech’s explicit promise is to collect or raise fifty lakh rupees if the government admits its inability. The English title follows that contextual action.
+
+The source contains two garbled OCR lines representing English bureaucratic replies. The first is immediately paraphrased in Tamil as returning the matter to the District Board president for necessary action. English translates the secure Tamil meaning rather than reconstructing unreadable English letters.
+
+“சேரி” is rendered as “slum” because the speech concerns urban settlements lacking sanitation, housing, and services. Period caste labels in the temple passage are retained in quotation marks and not normalised into neutral contemporary terminology.
+
+The quoted line about Thiruvalangadu and a begging bowl is retained as a cultural expression of homelessness and destitution. Its precise literary source is not identified in this document.
+
+Political, financial, municipal, land-value, housing, religious, caste, numerical, and historical assertions are translated in the speaker’s voice and have not been independently verified.

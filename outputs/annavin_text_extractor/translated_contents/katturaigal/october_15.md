@@ -1,0 +1,163 @@
+# அக்டோபர் 15 / The October 15 Campaign
+
+**Tamil title:** அக்டோபர் 15  
+**English title:** The October 15 Campaign  
+**Source file:** `katturaigal/october_15.md`
+
+## Source Tamil (verbatim)
+
+- Source image folder: `/Users/pugazhendhirajendran/Documents/Codex/2026-07-09/https-www-annavinpadaippugal-info/outputs/annavin_text_extractor/ocr_images/katturaigal/october_15`
+- OCR language: `tam`
+- Tesseract page segmentation mode: `3`
+- OCR cleanup: `enabled`
+
+## Image 1: 001-f9bdfd0231.png
+
+- Image: `katturaigal/october_15/001-f9bdfd0231.png`
+
+என்பதைக் கூறியிருக்கிறார் - திட்டம், விளக்கமாக,
+ஒருநாள் முன்னதாக அறிவிக்கப்படும் என்பதையும்
+தெரிவித்திருக்கிறார்.
+
+காமராஜர் ஆட்சிக்குத் தொல்லை தரும் செயலல்லவா
+இது, இதனைத் தமிழர் செய்யலாமா? செய்பவர்
+தமிழர்தானா - தமிழ் மக்கள் இதனை ஆதரிப்பார்களா?
+என்று கேட்கும் 'வக்சில்கள்' இருக்கிறார்கள்!
+
+ம.பொ.சி. எல்லைப் பிரச்சினை சம்பந்தமாக ஈடுபடத்
+தொடங்கியது காமராஜர் ஆளவந்த பிறகு அல்ல - காமராஜர்
+“அளவந்தார்' ஆகக்கூடும் என்ற எண்ணமே எவருக்கும்
+எழாத நாட்களிலேயே, 'என் குருநாதர்' என்று எந்த
+ஆச்சாரியாரைக் குறித்துப் பாசத்துடன் பேசுவாரோ, அந்த
+ஆச்சாரியார் ஆட்சியின்போதே,. ஈடுபட்டார்.
+
+எனவே, இப்போது, ம.பொ.சி. காமராஜர்மீது
+கொண்ட கசப்பினால் அறப்போர் தொடுக்கிறார் என்று
+. எவரேனும் கூறுவரேல், அது பொருளற்ற வாதமாகும்
+என்பதோடு, சொல்பவர்களுக்குக் காமராசர் இப்போது
+கரும்பாகிவிட் டார் என்பதைக் காட்டவும் உதவும்.
+
+அரசியல் ரசவாதம், நீண்ட காலத்துக்குப் பலன்
+அளிக்காது, நரி பரியானால், மீண்டும் பரி, நரியாக நீண்ட
+
+காலம் பிடிக்காது.
+
+எனவே, ம.பொ.சி.யின் அறப்போரைக் கண்டித்துப்
+பேச, பெரிய இடத்து உறவு பயன்படும் என்று பலமாக
+நம்பிக் கொண்டு, காமராஜர் தப்புக் கணக்குப் போட
+
+2180. _.. அட்டக் க் கொள்கிறோம்.
+
+## Image 2: 002-f8b26396d4.png
+
+- Image: `katturaigal/october_15/002-f8b26396d4.png`
+
+அறப்போர் ம.பொ.சி. முன்னின்று நடத்துகிறார் -
+ஆனால், தமிழ் மக்களின் சார்பாக நடத்துகிறார்.
+
+தமிழரின் உரிமையும் உடைமையும் பறிபோக
+விடலாகாது என்ற கருத்துக் கொண்ட கட்சிகள் யாவும்,
+அவருடைய முயற்சிக்கு ஆதரவளிக்கின்றன. திராவிட
+முன்னேற்றக் கழகம், தன்னாலான ஆதரவு திரட்டித்தரத்
+தயங்காது;
+
+எனவே, காமராஜர் சர்க்கார், காலந்தாழ்த்தாது, டில்லி
+ஏகாதிபத்தியத் துக்கு உண்மை நிலையை எடுத்துக்காட்டி,
+எல்லைப் பிரச்சனைக்கு ஒரு நியாயமான முடிவு காண
+வேண்டுகிறோம்.
+
+ஆறே நாட்கள் நடைபெற்ற அறப்போரில், 500
+தோழர்கள் சிறைப்பட முன்வந்தனர்.
+
+அவ்வளவுதானே! - என்று பேசுவதும், அதனால்
+என்ன? என்று கேட்பதும், அரசியல் ஆணவமாகும்.
+
+ம.பொ.சி. இப்போதும், காங்கிரஸ் ஆட்சியையோ,
+காமராஜரின் ஆளுகையையோ, எதிர்ப்பவராக இல்லை.
+
+அது, நாம் - இதிலே ஒளிவு மறைவு இல்லை.
+
+அவர் கேட்பதெல்லாம், எல்லைப் பிரச்சினையில்
+டில்லி நியாயம் வழங்கவேண்டும், சென்னை சர்க்கார் அதை
+வலியுறுத்திப் பெறவேண்டும் என்பதுதான்.
+
+இந்த 'அளவுக்கு' நேசக் குரலுடன் கேட்கும்
+ம.பொ.சி.யை, எதிரி என்றும்; குழப்பவாதி என்றும் ஏசிப்
+பேசிவிட்டால் பரிகாரம் கிடைத்துவிடாது.
+
+## Image 3: 003-0f990b28c2.png
+
+- Image: `katturaigal/october_15/003-0f990b28c2.png`
+
+தேவிகுளம் பீர்மேடு விஷயத்தில் சென்னையின்
+'கையாலாகாத' தன்மையைக் கண்டு, தமிழர் வேதனை
+அடைந்துள்ளனர்.
+
+வடக்கெல்லை விஷயத்திலும், சென்னை மந்தபுத்தி
+காட்டி, மேலும் தமிழரை வேதனைக்கு ஆளாக்க வேண்டாம்
+என்று கேட்டுக் கொள்கிறோம்.
+
+அறப்போர் நடாத்த முடிவு செய்த, ம.பொ.சி.யின்
+முயற்சியைப் பாராட்டுகிறோம்.
+
+தமிழ்ப் பெருங்குடி. மக்களின் ஆதரவு, திரண்டு எழும்
+என்று உறுதி கூறுகிறோம்.
+
+திராவிட முன்னேற்றக் கழகம், தன் . கடமையைக்
+கருத்திலிறுத்தி, அறப்போருக்கு ஆதரவு கிடைப்பதற்கான
+வழிவகை காணும் என்று நம்புகிறோம்.
+
+சிறை சென்று மீண்ட, ம.பொ.சி. விநாயகம், உமாபதி,
+- தொண்டர்கள் அனைவரையும் வாழ்த்துகிறோம்.
+
+(செய்தி - 7-10-26 - திராவிட நாடு)
+
+## English Translation
+
+...he has stated this, and has also announced that the plan will be explained in detail one day beforehand.
+
+"Is this not an act that will cause trouble for Kamaraj's government? May Tamils do this? Are those who do it really Tamils? Will the Tamil people support it?" There are lawyers who ask such questions!
+
+Ma. Po. Si. did not begin involving himself in the border question only after Kamaraj came to power. He became involved in it under the rule of the very Acharya whom he affectionately calls "my preceptor," in days when it had not even occurred to anyone that Kamaraj might become the "ruler."
+
+Therefore, if anyone now claims that Ma. Po. Si. is launching a campaign of civil resistance out of bitterness toward Kamaraj, it is a meaningless argument. It also helps demonstrate that Kamaraj has now become sugarcane to those making the claim.
+
+Political alchemy will not yield results for long. If a fox becomes a horse, it will not take long for the horse to become a fox again.
+
+We therefore take it that Kamaraj is making a serious miscalculation, firmly believing that his connections in high places will help him speak against Ma. Po. Si.'s campaign of civil resistance.
+
+Ma. Po. Si. is leading the campaign, but he is conducting it on behalf of the Tamil people.
+
+Every party that holds that the rights and possessions of Tamils must not be allowed to be taken away is supporting his effort. The Dravida Munnetra Kazhagam will not hesitate to muster all the support it can.
+
+We therefore urge the Kamaraj government, without further delay, to explain the true position to the imperial power in Delhi and secure a just settlement of the border question.
+
+In a campaign that lasted only six days, five hundred comrades came forward to go to prison.
+
+To say, "Is that all?" and to ask, "What difference does that make?" is political arrogance.
+
+Even now, Ma. Po. Si. is not an opponent of either Congress rule or Kamaraj's administration.
+
+We are: there is no concealment about this.
+
+All he asks is that Delhi deliver justice in the border question and that the Madras government press for and obtain it.
+
+No remedy will be found by abusing Ma. Po. Si. as an enemy and an agent of disorder when he makes his demand in such a friendly voice and only to this extent.
+
+The Tamils have been distressed by Madras's "helplessness" in the matter of Devikulam and Peermade.
+
+We ask that Madras not display the same dullness over the northern boundary and subject the Tamils to still more distress.
+
+We commend Ma. Po. Si.'s decision to conduct a campaign of civil resistance.
+
+We confidently declare that the support of the great body of Tamil people will surge forth.
+
+We trust that the Dravida Munnetra Kazhagam, mindful of its duty, will find ways to secure support for the campaign.
+
+We congratulate Ma. Po. Si., Vinayagam, Umapathi, and all the volunteers who have returned from prison.
+
+*Seithi, Dravida Nadu, 7 October 1956*
+
+## Translator's Notes
+
+The first scan begins in the middle of a sentence and does not include the printed heading; the descriptive title follows the archive filename. The scan confirms வக்கீல்கள் (“lawyers”), the damaged closing phrase என்று எடுத்துக் கொள்கிறோம், and the publication date 7-10-56. The ஆளவந்தார்/அளவந்தார் wording is a deliberate political pun and is represented by “came to power”/“ruler.” The sentence அது, நாம் is terse but legible in the scan; its contrast is preserved rather than silently expanded.

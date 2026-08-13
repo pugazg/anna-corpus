@@ -1,0 +1,1 @@
+../../md_pages/sorpozhivugal/ethikatchigalai_alatchiya.md

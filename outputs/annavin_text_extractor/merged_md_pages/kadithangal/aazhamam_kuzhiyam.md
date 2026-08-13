@@ -1,0 +1,1 @@
+../../md_pages/kadithangal/aazhamam_kuzhiyam.md

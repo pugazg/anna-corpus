@@ -1,0 +1,504 @@
+# முதல் மாநில மாநாடு / The First State Conference
+
+**Tamil title:** முதல் மாநில மாநாடு  
+**English title:** The First State Conference  
+**Source file:** `sorpozhivugal/muthal_manila.md`
+
+## Source Tamil (verbatim)
+
+- Source image folder: `/Users/pugazhendhirajendran/Documents/Codex/2026-07-09/https-www-annavinpadaippugal-info/outputs/annavin_text_extractor/ocr_images/sorpozhivugal/muthal_manila`
+- OCR language: `tam`
+- Tesseract page segmentation mode: `3`
+- OCR cleanup: `enabled`
+
+## Image 1: 001-ee9d69e149.png
+
+- Image: `sorpozhivugal/muthal_manila/001-ee9d69e149.png`
+
+41
+
+முதல் மாநில மாநாடு
+
+1251 டிசம்பர் 13, 74, 75, 16 அகிய நாட்களில் சென்னையில்
+நடைபெற்ற முதல் மாநில தி. மு. க. மாநாட்டில் அறிஞர்
+அண்ணாவின் தலைமை உரை :
+
+தோழர்களே!
+
+“திராவிட முன்னேற்றக் கழகம் வளருமோ, இடையிலேயே
+அழிந்துபடுமோ என்ற ஐயம் -. சந்தேகம் யாருக்கேனும்
+இருந்திருக்குமானால், அவர்களுக்கு இந்த மாநாடு, இதற்கு
+அமைக்கப்பட்டுள்ள மிகப் பெரிய பந்தல், அலங்கார விளக்குகள்,
+அழகிய முகப்பு கூடியுள்ள இலட்சக்கணக்கான மக்கள் - இவை
+தெளிவாக விளக்கும். இங்குக் குழுமியுள்ள உறுப்பினர்கள்
+என்னிடத்திலும், கட்சிக் கருத்துக்களிடத்தும் காட்டும்
+ஆர்வத்தைக் காண மகிழ்கிறேன். அவர்களுக்கு நன்றி
+செலுத்துகிறேன்.
+
+என்னைப் பற்றிப் பலர் புகழ்ந்துரைத்தார்கள். அவைகளை
+யெல்லாம், அழகிய தமிழில் அன்போடு வீசிய வார்த்தைகள்
+என்றே. கருதுகிறேன். ஏனெனில் அத்தகைய சிறப்புரைகளுக்கு
+ஏற்றவனல்ல நான்! என்னை, அருமைத் தம்பிமார்கள் அண்ணா,
+கட்டளையிடுங்கள், கடமையைச் செய்கிறோம்' என்று அடிக்கடி
+வற்புறுத்தினார்கள். நான் கட்டளையிடுபவன் அல்ல. அத்தகைய
+நிலையிலே உள்ளவனுமல்ல! சிலர், என்னை “வழிகாட்டுங்கள்!
+வாகைகசூடி வருகிறோம், பாருங்கள்” என்றார்கள். நான் வழி
+காட்டியுமல்ல என்றே அவர்களுக்கு நினைவுபடுத்துகிறேன். வழி
+காட்டி, மத சம்பந்தமாக வந்த ஒரு வைதீக வாடை. அடிக்கும் சொல்.
+
+இரண்டாண்டுகளுக்கு முன் ஏற்பட்ட நெருக்கடியில்
+நிச்சயம் சிதறுண்டுவிடும், சுக்கு நூறாகிவிடும் திராவிட இயக்கம்
+என்றே எல்லாரும் எதிர்பார்த்தனர். ஆனால் உங்களது நம்பிக்கை
+
+## Image 2: 002-37c150c52a.png
+
+- Image: `sorpozhivugal/muthal_manila/002-37c150c52a.png`
+
+வெற்றி பெற்றுவிட்டது. நீங்கள் கடைப்பிடித்த ஒற்றுமையே
+இன்று இந்தப் பெரிய சக்தியாக வளர்ந்திருக்கிறது.. நீங்கள்
+என்னிடங் கொண்டுள்ள பற்றும், காட்டும் பாசமும் கண்டு
+பூரிப்படைகிறேன். அந்தப் பாசத்திற்குக் கட்டுப்பட்டவனே தவிர,
+கட்டளையிடுபவனுமல்ல - வழிகாட்டுபவனுமல்ல! நீங்கள்
+என்மேல் வைத்துள்ள நம்பிக்கை கெடாமல், இதுவரை நடந்து
+வந்துள்ளேன். எதிர்காலத்திலும் நடந்து கொள்வேன் என்று
+உறுதி கூறுகிறேன்.
+
+நான் ஜனநாயகத்தில் நம்பிக்கை கொண்டவன். அரசியலில்
+கண்ணியத்தை விரும்புபவன் - கட்டளையிடுபவனல்ல!
+ஜனநாயகம் வளர்ந்துள்ள இந்நாளில் கட்டளையிடும்
+தலைவர்கள் தோன்ற முடியாது - தோன்றவும் கூடாது!
+ஜனநாயகமில்லா விட்டால், அரசியலால் பலன் இல்லை. நான்
+நானாக ஏதும் செய்வதில்லை. செய்யவும் மாட்டேன். உங்களிலே
+பலரின் கருத்துரைகளைக் கேட்.கிறேன். தொகுத்துப் பார்க்கிறேன்.
+பிறகு அதன்படி. முடிவிற்கு வருகிறேன். உங்கள் பேராற்றலை
+நம்பித்தான் எனக்களிக்கப்பட்டுள்ள பெரும் பொறுப்பை ஏற்று
+நடத்தி வருகின்றேன். அளவுகடந்த பொறுமையுடன்
+பணியாற்றுகின்றேன்.
+
+இந்த மாபெரும் பந்தலில் பல இலட்சக்கணக்கில்
+கூடி யிருக்கிறோம். இந்த உணர்ச்சி, உத்வேகம், எழுச்சி எல்லாம்
+நமது முன்னாள் தலைவர் சர். தியாகராயர் நமக்கு அளித்த
+பிச்சையென்றே கூறுவேன். செல்வக் குடியிலே பிறந்த அவர்,
+தேய்ந்துவரும் திராவிடச் சமுதாயத்தினரைத் தட்டியெழுப்பாம
+லிருந்திருந்தால், நாம் இவ்வளவு பெரிதாக வளர்ந்திருக்க
+முடியாது. நாயர், இந்தியாவில் மட்டுமல்ல இங்கிலாந்திலேயும்
+தமது புயல் குரலை எழுப்பியிராவிட்டால், நாம் வளர்ந்திருக்க
+முடியாது. பல தலைவர்கள் அன்று திராவிடச் சமுதாயத்திற்காகப்
+போராடினார்கள். அவர்களுக்கெல்லாம் இந்த நேரத்தில் மனம்
+நிறைந்த வணக்கத்தைத் தெரிவித்துக் கொள்கிறேன்.
+
+இந்த நேரத்தில் தலைவர் பெரியாரையும் நினைவு
+கூர்கிறேன். இதே மேடையில், நமது தோழர் ஜீவானந்தம்
+இருக்கிறார். நாங்கள் வேறு வேறு இயக்கத்திலே இன்று
+பணியாற்றுகிறோம். ஆனால், பெரியாரும் ஜீவானந்தமும்,
+பெரியாரும் நானும் ஒரு இடத்திலிருந்து பணிபுரியும் நாள்
+எதிர்காலத்திலுண்டு என்ற நம்பிக்கை எனக்குண்டு. கொள்கைச்
+சந்தையிலே கடை. வைத்திருப்பவனல்ல நான் - அவர்களும்
+அப்படியே. நான் என் கொள்கையை விடமாட்டேன். அவர்களும்
+
+## Image 3: 003-25f5f44647.png
+
+- Image: `sorpozhivugal/muthal_manila/003-25f5f44647.png`
+
+விடமாட்டார்கள் - விடக்கூடாது. ஆனால், மூவரும் சந்திக்கும்
+ஒரு முகாம் ஏற்படத்தான் போகிறது.' அது பொது உடைமை
+முகாமாகப் பெயர் பெறட்டும். நான் கவலைப்படவில்லை. அனால்,
+அத்துடன் 'திராவிட' அடைமொழி சேரவேண்டும். திராவிடப்
+பொதுவுடைமைக் கட்சியென்று கூறுங்கள். அதிலே முதல்
+அங்கத்தினன் நான். திராவிடச் சமதர்மக் கட். சியென்று கூறுங்கள்.
+அதிலே முதல் அங்கத்தினன் நான். திராவிடத் தீவிரவாதிகள் கட்சி
+- இருக்கட்டும். திராவிடப்புரட்சி இயக்கம் ஆட் சேபனையில்லை.
+அவைகளிலே நான் முதல் உறுப்பினன். ஆனால் திராவிட என்ற
+அடைமொழி இல்லாவிட்டால் அங்கே நான் இருக்கமாட்டேன்.
+
+இந்தப் பந்தலைச் சுற்றிப் பார்க்கிறேன். ஒளிவீசும்
+விளக்குகளை, அவைகளுக்கு ஒளிதரும் உங்களை - உங்கள்
+கண்களை - கண்களில் புரண்டெழும் கனலைக் காண்கிறேன்.
+மகிழ்கிறேன். ஒருகணம் பிரமித்து நிற்கிறேன். இவ்வளவும்
+நம்மாலேயா, நாமா இவ்வளவையும் செய்தோம் என்று
+எண்ணுகிறேன். நம்மைப் பற்றி அரூடம் கணித்தவர்களின்
+ஆரூடம் பொய்த்து விட்டதே - அந்த அவசர அரசியல்
+ஆரூடக்காரர்கள் இதனைக் கண்டு நிச்சயம் மனம் வெதும்பிப்
+போவர். இதிலிருந்து நமக்குத் தெரிகிறது அவர்களிடம் இருப்பது
+அவசர அகராதியே தவிர அனுபவ அகராதியல்ல என்று.
+
+பந்தலைச் சுற்றிலும், நம் கிளைக் கழகங்களின் கொடிகள்
+பறக்கின்றன. அனைமலையிலே நம் கழகம், அதன்
+அடி.வாரத்திலேயும் நம் கழகம் இருக்கிறது. மலைப்பிரதேசத்தில்
+பள்ளத்தாக்கில், கணவாய் பூமியிலே, சமவெளியிலே, பூஞ்சோலை
+நிறைந்த இடங்களிலே நஞ்செய் நிறைந்த இடங்களிலே, பஞ்சம்
+பயங்காட்டும் ராமநாதபுரத்திலே, மற்ற மற்ற மாவட்டங்களில்
+இருந்தெல்லாம் நம் கிளைக் கழகக் கொடிகள் வந்துள்ளன.
+இன்னும் கடல் கடந்த, பிரதேசங்களிலிருந்தெல்லாம் கிளைக்
+கழகக் கொடிகள் வந்துள்ளன. இலங்கை, பர்மா, இந்தோசினா
+போன்ற இடங்களிலிருந்தெல்லாம் கொடிகள் வந்துள்ளன. அவை
+பறந்திடும் காட்சியைக் கண்டு பூரிக்கிறோம், நாம் - ஆனால் சிலர்
+ஆச்சரியப்படுகிறார்கள். இன்னுஞ் சிலர் அச்சப்படுகிறார்கள்.
+வேறு சிலர் சந்தேகிக்கிறார்கள். இது என்னென்ன செய்யுமோ,
+எதெதற்கு வழி வகுக்குமோ என்ற ஐயம் அவர்களை வாட்டுகிறது;
+அவர்களுக்குத் தெளிவாகச் சொல்கிறேன்; திராவிட முன்னேற்றக்
+கழகம், கண்ணியத்திற்குத் தோழன், கொள்சைக்கு நண்பன்,
+திராவிடத்தின் பாசறையென்பதை உணருங்கள்.
+
+1. தேர்தல் கூட்டணி பற்றிய எண்ணம்.
+
+## Image 4: 004-562a046d48.png
+
+- Image: `sorpozhivugal/muthal_manila/004-562a046d48.png`
+
+பொதுவுடைமைக்கு ஒரு எல்லை வேண்டும் என்கிறேன்.
+நமது எல்லைக்குள் பொதுவுடைமையைப் பரப்ப முடியும்
+என்கிறேன். அந்த எல்லையை - எவருக்கும் தொல்லை தராத
+எல்லையை - நமது மூதாதையர் இரத்தம் சொரிந்து வரைந்த
+எல்லையை - பிறகு ஏமாளித்தனத்தால் இழந்துவிட்ட எல்லையை
+- எத்தர்கள் தட்டிப் பறித்துக் கொண்ட. எல்லையை - நம்
+எழுச்சியால் மீண்டும் பெற வேண்டிய எல்லையை; அடைந்தே
+தீருவோம் என்கின்றோம்.
+
+அந்த இலட்சியத்தை நோக்கி, அமைதிப் பாதையிலே
+நடந்து செல்கின்றோம். அந்தப் பயணத்தின் இடையிலே வரும்
+பிரச்சினைகள், பாதையிலே வரும் நண்பர்களைப்போல; பேசிக்
+கொண்டே செல்வோம், பிரிவோம் - ஆனால் பாதையை
+விடமாட்டோம்' மழை பெய்தால் ஒதுங்கி நிற்போம் சிறிது நேரம்
+- ஓய்ந்து விடமாட்டோம். தொடர்ந்து நடப்போம். பனி, மழை,
+வெய்யில், குளிர், இரவு, பகல் என்ற எதுவும் பயணத்தை
+நிறுத்தாது - பாதையை மாற்றாது.
+
+பாதையில் பிணங்கள் கிடக்கலாம். எலும்புக் கூடுகள்
+இருக்கக் கூடும். அவைகளைச் சுற்றிக் கழுகுகள் வட்டமிடலாம்.
+நரிகளின் ஊளை கேட்கலாம். ஆனால் நாம் பாதையைத்
+தவறவிடோம். பிணமும், பிறவும் நமக்கு முன்னால் வீரர்கள்
+சென்றிருக்கிறார்கள் என்பதின் சின்னங்கள் என்றே கருதி
+நடப்போம். இடையிலே வரும் பிரச்சினைகளுக்காக நாம்
+எதற்காக உருவாகி, உழைத்து வருகின்றோமோ அந்த அடிப்படை
+இலட்சியத்தை இழந்து விடமாட்டோம்.
+
+நான் கனதனவான்கள் கூட்டத்தைச் சேர்ந்தவனல்ல -
+பணத்தால் உயர்ந்தவனல்ல - உங்களைவிடச் செல்வத்திலே
+குறைந்தவன். இவைகளையெல்லாம்விட தைரியத்திலே மிக மிகக்
+குறைந்தவன் - ஆனால் என்னைச் சூழ்ந்து இருக்கும் தம்பிகளின்
+தைரியத்தை நம்பித்தான் பணியாற்றுகிறேன். நம் இலட்சியப்
+பாதைப் பயணத்தில் வெற்றி பெற்றே தீருவோம் - இது உறுதி!
+
+மிகப் பெரிய அளவில் வளர்ந்து வரும் இந்த வளர்ச்சி
+நிலைத்திருக்க வேண்டுமானால், இந்த இயக்கத்தை இயக்குவிக்க
+அரிய இயந்திரம் வேண்டும். அந்த இயந்திரம் இயங்க எண்ணெய்
+வேண்டும். இயந்திர உறுப்புகள் கெடாமல் காக்கப் பசை
+வேண்டும். கழக மாளிகை வாங்கிவிட்டோம். மற்ற காரியங்கள்
+சரிவர நடத்தப்பட வேண்டுமானால், இயக்க இயந்திரம் துருப்
+பிடிக்காமல் இருக்க வேண்டுமானால் மாதா மாதம் குறைந்தது
+
+## Image 5: 005-55ae8d4370.png
+
+- Image: `sorpozhivugal/muthal_manila/005-55ae8d4370.png`
+
+நூ. 2000மாவது வேண்டும். இன்னும் வேகமாக வேலை செய்ய
+வேண்டுமானால் அதிகம் வேண்டும்.
+
+சரித்திர ஆதாரத்தை, பூகோளப் புள்ளி விவரத்தை,
+இலக்கியச் சான்றுகளைக் காட்டி, நாம் கேட்கிறோம். கேட்க
+உரிமையிருக்கிறது. பெறத் திறமையிருக்கிறது, நமக்கு! நாம்
+கூடியுள்ள இடம் மிகப் பொருத்தமானது. எஸ். ஐ. ஏ. ஏ. திடல்
+என்றால் தென்னிந்திய வீர விளையாட்டுக் களம் என்றே
+பொருள்படும். பாசீச அட்சியின் அந்தியக் காலத்திலே
+கூடியிருக்கிறோம். இந்தப் பொருத்தங்களைக் காண
+மகிழ்ச்சியடைகிறோம். இன்று இத்தகைய பெரிய அளவில்
+வளர்ந்திருக்கும் ஆர்வத்தைப் பாழாக்காமல், அரசியல் சுற்றுச்
+சூழல்கள் அடிக்காமல் காத்துக் கொள்ள வேண்டும்.
+
+நமது இலட்சியத்தை அதரிப்போர் தொகை வர வர
+வளர்ந்து கொண்டே வருகிறது. அண்மையில் அண்ணாமலைப்
+பல்கலைக் கழகத்தில் பேசிய, சென்னை நிதியமைச்சர், கனம்
+கோபாலர், மத்திய சர்க்கார், மாகாண சர்க்கார்களைத்
+தோழர்களாகக் கூட எண்ணி நடத்துவதில்லை. இந்நிலை வருந்தத்
+தக்கது, என்று குறிப்பிட்டுள்ளார். இது தேர்தல் காலத்துப்
+பேச்சோ, அல்லது அண்ணாமலைப் பல்கலைக். கழகம்,
+திராவிடத் தென்றல் வீசும் அறிவகம் என்பதையறிந்து
+இடத்திற்கேற்பப் பேசும் சந்தர்ப்பப் பேச்சோ என்று சந்தேகிக்கக்
+கூடும். ஆனால் அவர் பணப்பெட்டிக்குப் பக்கத்திலிருந்து
+பழக்கப்பட்ட நிதியமைச்சர். அவருக்குத்தான் அத்தகைய
+சங்கடங்கள் அடிக்கடி, வரும். அவரையுமறியாமல், மனத்தில்
+பொங்கிடும் குமுறல்கள் வெளிவந்துவிடும். அத்தகைய
+சங்கடங்கள் அடிக்கடி. வரும், அவரையுமறியாமல். அத்தகைய
+மனக்குமுறல்தான் அவர் பேசிய பேச்சு. அவர் உண்மையில்,
+மாகாண சர்க்காருக்கு அதிகாரம் வேண்டும் என்பதைப்
+பிரச்சினையாக்கித் தேர்தலில் நின்றிருக்க வேண்டும். என்னைச்
+சந்தித்த ஜீவா சொன்னார் : “இந்தத் தேர்தலில் நீங்கள் யாரை
+ஆதரித்தாலும் சரி, அதற்குப் பிறகும் நாம் ஒன்றாக இருக்கவே
+பாடுபடுவேன்” என்று. நானும் அதையேதான் சொல்கிறேன்.
+ஜனவரிப் பேச்சென்றால், ஒப்பந்தத்தில் கையெழுத்திடு என்பேன்.
+“மார்ச்சிலே பேசுவோம் - மனம் ஒன்றுபட்டு மக்கள் பணி
+செய்வோம்” என்கிறேன்.
+
+இதுவரை, திராவிடமுன்னேற்றக் கழக ஓப்பந்தப்
+பத்திரத்தில் 15 பேர்களுக்கு மேல் கையொப்பமிட்டி ருக்கிறார்கள்.
+அவர்களிலே முதலாளிமார்கள் உண்டு. ஒரு அபய்யர்கூட
+
+## Image 6: 006-1b37b66446.png
+
+- Image: `sorpozhivugal/muthal_manila/006-1b37b66446.png`
+
+இருக்கிறார்! இவர்களைப் பார்க்கும்போது கொஞ்சம் சந்தேகம்.
+அரசியல் விராடபர்வமோ? ஏது மறைந்திருந்து வருகிறார்களோ
+- வந்து தொல்லை தர நினைக்கிறார்களோ என்றெல்லாம்! இந்தச்
+சந்தேகத்திற்கிடையே தம் தம் கட்சிக் கொள்கைகளைக்
+காப்பாற்றிக் கொள்ள வேண்டும். அதற்காகத்தான் அவர்களை
+எடை போடுவோம் - சலித்து எடுப்போம் - உரைத்துப்
+பார்ப்போம் - கூர்மையாகக் கவனித்து நல்லது அல்லாதன
+இருந்தால் அனுதாபத்தோடு ஒதுக்கிடுவோம்.
+
+காங்கிரஸ் ஆட்.சி மீண்டும் வராமலிருக்கப் பாடுபட
+வேண்டும். தமிழ்நாட்டு ராஷ்டிரபதி காமராஜர் அடிக்கடி
+கூறுகிறார். சுதந்திரம் நாலாண்டுக் குழந்தை - அதனிடம் அதிகம்
+எதிர்பார்க்கிறார்கள் என்று! அது எதைச் செய்தாலும்
+பொறுத்திடுக. ஓட்டை மட்டும் போட்டிடுக என்று பல்லவி
+பாடுகிறார்! அந்த நாலாண்டுக் குழந்தைதான், சேலம் சிறையிலே
+இருந்த நிரபராதிகளான காவல் கைதிகளைச் சுட்டு வீழ்த்திற்று.
+நெசவாளிகளை வாட்டி, வதைத்தது, மக்களைப் பட்டினி
+போட்டது - சென்னை வீதியில் அறிஞர் அப்பாதுரையை
+அடித்துப் போட்டது. தாய்மார்களைக் கூடத் தடி. கொண்டு
+தாக்கியது. பெரியாரையும் என்னையும் சிறை வைத்துப் பத்து
+நாட்கள் அரசியல் கொலு பார்த்தது - இன்னும் தாங்க முடியாத
+கொடுமைகளையெல்லாம் செய்தது. நாலாண்டுக் குழந்தை.
+நாலாண்டுக் காலத்திலேயே இவைகளையெல்லாம் செய்கிறதே,
+இன்னும் மீசை ஆரும்பிக் கையில் கம்புடன் வந்தால் என்ன
+நடக்கும் என்று எண்ணிப் பார்க்கும்பொழுது பயமல்லவா
+தோன்றும்! பாரதத்தில், வருகிற - கண்ணன் சின்ன வயதில்
+வெண்ணெய் திருடினான். தாய் யசோதா, அவனை அடித்து
+அடக்காமல், உச்சிமோந்து, முத்தமிட்டு, “கண்ணே, வெண்ணெய்
+தானே வேண்டும்? வெளியில் ஏன் போகிறாய்? நம் வீட்டிலேயே
+இருக்கிறது' என்று கொஞ்சிப் பேசி, வெண்ணெய் படிந்த
+வாயைத் துடைத்து, கண்ணனைத் தட்டிக் கொடுத்தாள். அதன்
+விளைவு என்னவாயிற்று? சிறுவயதிலேயே திருடாதே என்று
+தடுக்காததால் பெரிய வயதில் சேலையையே திருட ஆரம்பித்து
+விட்டான்! அதைப்போல்தான் காங்கிரஸ் ஆட்சி நாலாண்டுக்
+காலத்தில் நடத்திய செயல்கள் சகிக்கவில்லை. அதைத் தலையில்
+கொட்டி. வெளியேற்ற நினைக்கிறார்கள்.
+
+நாலாண்டுக் காலத்தில் காங்கிரஸ் சாதித்தது என்ன?
+அரிசியிருந்த பாண்டத்தில் சோளம், சோளமிருந்த பாண்டத்திலே
+புளியங்கொட்டை, புளியங்கொட்டை இருந்த பாண்டத்திலே
+
+## Image 7: 007-c5e17ac736.png
+
+- Image: `sorpozhivugal/muthal_manila/007-c5e17ac736.png`
+
+பருத்திக் கொட்டை - பருத்திக் கொட்டையும் போய், காலிப்
+பாண்டங்கள் - இடிந்த கூரை - செத்து விழும் மக்கள் - பசி -
+பட்டினி இவைகளைத்தானே காட்டிட முடியும்?
+
+மக்களைப் பட்டினி போட்டுக் கொல்லும் நேரு சர்க்காரை
+நான் பகிரங்கமாகக் குற்றம் சாட்டுகிறேன். நேரு சர்க்கார்
+முதலாளிகளின் பின்னோடும் சர்க்கார், என்கிறேன். அமெரிக்க
+முதலாளித்துவத்தின் அடி.வருடும் ஏஜண்ட் சர்க்கார் என்கிறேன்.
+நேருவைக் குற்றம் சாட்டுகிறாயே, நேரு எங்கே, நீ எங்கே என்பர்
+சிலர். நேரு மிகப் பெரியவர் - தெரியும் எனக்கு. எவ்வளவு
+பெரியவராக்கப்பட்டி ருக்கிறார் என்பதும் தெரியும். ஆம், நான்
+சாமான்யன், நான் எவ்வளவு தூரம் சாமான்யனாக்கதப்
+பட்டிருக்கிறேன். இந்த நாட்டுப் பத்திரிகைகளால் என்பதையும்
+உணர்கிறேன். இருந்தாலும் குற்றம் சாட்டுகிறேன்.
+
+நேரு சர்க்கார், தொழில்களைத் தேசியமயமாக்குவதாக
+உறுதி தந்தார்கள். அனால் செய்யவில்லை. செய்ய முடியவில்லை
+என்றே கூறினார்கள். நிர்வாகத் திறமைக் குறைவை வெளிப்
+படுத்தினார்கள். ஏன் இந்த சர்க்கார் சர் ஆர். கே. சண்முகம், ஜி.
+9. நாயுடு போன்றவர்களை சர்க்கார் கஊளழியராக்கக் கூடாது?
+மற்றவர்களைக் குறிப்பிடாமல் இவர்களை ஏன் குறிப்பிடுகிறே
+னென்றால் இவர்கள் என் நண்பர்கள். நான் சொல்வதைத் தவறாக
+எடுத்துக் கொள்ளமாட்டார்கள் என்பதால்!
+
+சென்னை மாகாண மோட்டார் போக்குவரத்தை தோழர்
+ஜி. டி. நாயுடுவை அழைத்து அவரையே ஜெனரல் மேனேஜராக
+இருந்து நடத்தச் சொல்லுங்கள். இலாபம் வராவிட்டால்,
+அவர்களாக நடத்தும்பொழுது மட்டும் எப்படி. இலாபம் வந்தது
+என்று கேளுங்கள். தவறாக நடந்து கொண்டார்கள் என்றால்,
+மக்கள் மன்றத்திற்கு அழைத்து வாருங்கள். அவர்களைத் தேசத்
+துரோகிகள் என்று தீர்ப்பளியுங்கள், இவர்களை என்ன
+செய்வதென்று கேளுங்கள். பிரஞ்சுப் புரட்சிக் கதைகள் மனத்தில்
+உருண்டு உருண்டு வரும். இவர்களை அழைத்து வர, முதலாளி
+மார்களின் கொடுமைகளிலே வெந்துழலும் தொழிலாளிகள்
+தயாராக இருக்கிறார்கள்
+
+கள்ள மார்க்கெட்காரர்களைக் கழுமரத்திலேற்றுவேன்
+என்றார் நேரு. நாடு முழுவதும் சுற்றி வந்து இதையே கூறினார்.
+அதன் பிறகு அமெரிக்கா சென்றார். அமெரிக்கா செல்லுமுன்
+கள்ள மார்க்கெட்காரர்களிடம் கெஞ்சினார். கள்ள
+மார்க்கெட்காரர் என்று கூடக் கூறவில்லை. “இரகசிய
+
+## Image 8: 008-2ab8a7a856.png
+
+- Image: `sorpozhivugal/muthal_manila/008-2ab8a7a856.png`
+
+இலாபக்காரர்களே, கணக்குக் காட்ட வேண்டாம், உங்கள்
+இலாபத்தில் ஒரு பகுதியை வரியாகச் செலுத்திவிடுங்கள்/
+எப்படிக் கிடைத்தது இலாபம், என்ன விதத்தில் வந்து சேர்ந்தது?
+எதையும் சொல்ல வேண்டாம்” என்றார் நேரு.
+
+“வல்லரசுகளின் எழுச்சியும், வீழ்ச்சியும்” என்பதுபற்றி, தம்பி
+சம்பத் பேசக் கேட்டீர்கள். இன்று நேருவின் எழுச்சியும்
+வீழ்ச்சியும் நம் கண்களுக்கு முன்னால் தெரிகிறது. அபேதவாதம்
+படித்த அலகாபாத் பண்டிதர், ரஷ்யத் திட்டத்தை பெய்சிபூர்
+காங்கிரசில் பேசியவர், விடுதலைப் போரின் முன்னணி வீரர்,
+சுதந்திர புருடர், இந்தியாவின் முடிசூடா மன்னர், மாசிலா
+மாணிக்கம், ஆசியாவின் ஜோதி, அகில உலகம் அறிந்த அறிஞர்
+- நேரு, இன்று மக்களின் நம்பிக்கையை இழந்து விட்டார்.
+நம்பிக்கையை இழந்த நேருவின் கையிலே ஆட்சி செல்வதைவிட,
+டாடாவிடம் ஒப்படைக்கலாம்; அயோக்கியத்தனம் அதிகம்
+இருந்தாலும் திறழமையோடாவது ஆட்சி நடக்கும். பிர்லாவிடமே
+ஆட்சியைத் தரலாம். பேராசை இருந்தாலும், பிற நாட்டான் கேலி
+செய்யாத நிலையிலாவது ஆட்சி இருக்கும். நேருவின் கரத்திலே
+மீண்டும் ஆட்சியை ஒப்படைப்பது, கன்றை ஓநாயிடம்
+ஓப்படைப்பதாகும். ஆகவே, இந்தத் தோர்தலில் காங்கிரசைத்
+தோற்கடிக்க எல்லா வகையான - மன்னிக்க வேண்டும் - சட்ட
+பூர்வமான - மன்னிக்க வேண்டும் - நாகரிகமான நடவடிக்கை
+
+களிலும் தி. மு. க. ஈடுபடும்.
+
+சிறைச்சாலை சென்று வந்து சட்டசபை போனவர்கள்
+அவர்கள். அவர்கள் ஆட்சிக்கு வந்துவிட்டால் ச. ஐ. டி.க்களுக்கு
+வேலையிருக்காது என்று கூறினார்கள். ஆனால், இப்பொழுது
+வேளைக்கு வேளை, விதவிதமாக ௪ி. ஐ. டி.க்கள் வருகிறார்கள்.
+எங்கே தவறுகிறோம், வழக்குத் தொடுக்கலாம், சிறையில்
+தள்ளலாம் என்று பார்க்கிறார்கள். அந்த சி. ஐ. டூ.க்களில் பலர்
+எனக்கு நண்பர்கள். அவர்கள் உத்தியோகம் நிலைக்க வேண்டு
+மென்பதற்காகப் பெயர்களைக் கூறவில்லை! சி. ஐ. டிக்களை என்
+பின் அனுப்பலாம். நான் காங்கிரசாட்சியைச் சந்தேகிக்கிறவன்.
+அகவே, அவர்கள் என்னைச் சந்தேகிக்கலாம். ஆனால் கிருபளானி
+பின்னால் ஏன் அனுப்பவேண்டும்? அவர் அவர்களிடமிருந்து
+நேற்றுப் பிரிந்து வந்தவராயிற்றே?
+
+யானை அளவு இந்தியா; பூனையளவுதான் இலங்கை.
+ஆனால், யானை பூனையிடம் பிச்சை கேட்கிறது; இந்தியாவிற்கு
+
+## Image 9: 009-1fbc6a09a9.png
+
+- Image: `sorpozhivugal/muthal_manila/009-1fbc6a09a9.png`
+
+இலங்கை அரிசி அனுப்புகிறது. எப்படி. முடிகிறது? அதுதான்
+வெட்கக் கேடு. இந்தியாவில் விளையும் அரிசியையே, கள்ள
+வாணிபர்கள் வேதாரண்யம், கோடிக்கரை வழியாக சிலோன்
+கடற்கரைச்குக் கொண்டு போகிறார்கள். அந்த அரிசியே மீண்டும்
+இந்தியாவிற்கு வருகிறது; அதனால்தான் சேனாநாயகா
+செருக்குடன் இருக்கிறார். இதைக்காட்டிலும், இந்தக்
+காங்கிரசாட்சியினர், அளத் தெரியாதவர்கள் என்பதற்கு
+அத்தாட்சி வேறு வேண்டுமா?
+
+இன்று ஆளும் காங்கிரசாட்சி பாசிசப் பாதையில் நடந்து
+செல்கிறது. அடக்கு முறைகள் அத்தனையையும் அவிழ்த்துவிட்டு
+வேடிக்கை பார்க்கிறது.
+
+நேருவோ, ஒரு மாதம் இங்கிலாந்து செல்கிறார். மெளண்ட்
+பேட்டன் மாளிகையில் தங்குகிறார். அடுத்த மாதம் அமெரிக்கா
+செல்கிறார் - ட்ரூமன் வரவேற்கிறார், என்றெல்லாம் பேசுகிறார்கள்.
+ரோம் நாட்டு வீரர்கள், உள் நாட்டிலே செல்வாக்குச்
+சரியும்போது வெளிநாடு சென்று ராணுவ வெற்றி பெற்று, ரோம்
+நகரில் பவனி வந்து, சரிந்த செல்வாக்கைச் சரிகட்டியதாகச் சரிதம்
+கூறுகிறது. நேரு இதே முறையில் பழகுகிறார்.
+
+அப்படியே நேரு அகில உலகப் புகழ் பெற்றவர் என்றாலும்,
+வெளிநாட்டுக் கொள்கையிலாவது, வலுவான கொள்கை
+கொண்டிருக்கிறார்களா என்றால் இல்லை! அமெரிக்கா எப்படி
+ஆடுகிறதோ அப்படி ஆடுகிறார்கள். கொரியா யுத்தத்தில்
+இவர்கள் ஏன் கலந்து கொள்ள வேண்டும்? படையனுப்பவில்லை
+என்பார்கள். வைத்திய யூனிட்டுகள் ஏன் அனுப்ப வேண்டும்,
+38-ஆவது ரேகையைத் தாண்டினால் கண்டிப்பேன் என்று
+முழங்கினார் நேரு. ஆனால் அவர் அலகாபாத்திலிருந்து
+அமிர்தசரஸ், அமிர்தசரசிலிருந்து புனா - புனாவிலிருந்து பம்பாய்
+என்று இப்படித் தாண்டிக் கொண்டிருந்தாரே தவிரக்
+கண்டிக்கவில்லை; ஈரான் நாட்டு முஸாதிக், முதுகிழவர்,
+போராடுகிறார் - எண்ணெய்ப் பிரச்சினை பற்றி நல்லெண்ணம்
+பிறக்கும்படி. நேரு ஏன் பேசக்கூடாது? சூயஸ் கால்வாய் பற்றி
+அவர் ஏன் சொல்லக்கூடாது? நேரு? இவை பற்றி ஒரு நல்ல
+வார்த்தை சொன்னாரா? இனியாவது சொல்வாரா?
+
+## English Translation
+
+Presidential address by Arignar Anna at the first state conference of the Dravida Munnetra Kazhagam, held in Chennai from 13 to 16 December 1951.
+
+Comrades!
+
+If anyone entertained a doubt whether the Dravida Munnetra Kazhagam would grow or perish midway, this conference supplies a clear answer: the enormous pavilion erected for it, its decorative lights and beautiful facade, and the hundreds of thousands gathered here. I rejoice at the enthusiasm shown by the assembled members toward me and toward the party’s principles, and I thank them.
+
+Many have spoken in my praise. I regard their remarks only as words of affection cast in beautiful Tamil, for I am not worthy of such tributes. My dear younger brothers repeatedly urged me, “Anna, give us your command and we shall perform our duty.” I am not one who commands, nor do I occupy such a position. Some said, “Show us the way; you will see us return crowned with victory.” I remind them that I am not a “guide” either. The word carries the smell of religious orthodoxy.
+
+When the crisis occurred two years ago, everyone expected the Dravidian movement to disintegrate and shatter into a hundred pieces. But your confidence has triumphed. The unity you maintained has grown into the great force visible today. I am moved by your attachment and affection for me. I am bound by that affection; I neither command nor act as a spiritual guide. I have so far conducted myself without betraying the trust you placed in me, and I assure you that I shall continue to do so.
+
+I believe in democracy and desire dignity in politics. I am not a commander. In an age when democracy has grown, leaders who issue commands cannot and must not arise. Without democracy, politics yields no benefit. I do nothing merely on my own and shall not do so. I listen to the views of many among you, bring them together, examine them, and then reach a decision. I carry the great responsibility entrusted to me only by relying on your immense strength, and I work with limitless patience.
+
+Several hundreds of thousands have gathered in this vast pavilion. I would say that all this feeling, momentum, and awakening is an alms bestowed upon us by our former leader Sir P. Theagaraya. Born into wealth, had he not awakened the declining Dravidian community, we could not have grown to this scale. Had Dr T. M. Nair not raised his storm-like voice in England as well as India, we could not have advanced. Many leaders fought for the Dravidian community in those days. At this moment I offer heartfelt homage to them all.
+
+I also remember our leader Periyar. Our comrade Jeevanandham is present on this very platform. Today we work in different movements, but I believe a day will come when Periyar and Jeevanandham, and Periyar and I, will work from one place. I do not run a shop in a marketplace of principles, and neither do they. I shall not abandon my principles; they will not abandon theirs, nor should they. Yet a common camp for all three will arise.
+
+Let it be called a communist camp; I do not object, provided that the adjective “Dravidian” is added. Call it the Dravidian Communist Party and I shall be its first member. Call it the Dravidian Socialist Party and I shall be its first member. Let it be a party of Dravidian radicals or a Dravidian revolutionary movement; I have no objection and shall be the first member. But if the word “Dravidian” is absent, I shall not be there.
+
+I look around this pavilion at the shining lights and at you who give those lights their radiance—at your eyes and the sparks surging within them. I rejoice and, for a moment, stand astonished. Did we accomplish all this? Are we truly the ones who did it? The predictions made about us have proved false. Those hasty political astrologers will surely suffer at this sight. We now know that what they possess is a dictionary of haste, not a dictionary of experience.
+
+Flags of our branches fly all around the pavilion. Our Kazhagam exists in the Anamalai hills and at their foot; in mountain country, valleys, passes, plains, flower-filled groves, and fertile wetlands; in famine-stricken Ramanathapuram and every other district. Branch flags have arrived from all these places. They have also come from across the seas—from Ceylon, Burma, Indo-China, and elsewhere.
+
+We are delighted to see them fly, but some are astonished, some afraid, and others suspicious. They worry about what this organisation may do and what it may bring about. I tell them clearly: understand that the Dravida Munnetra Kazhagam is a companion of dignity, a friend of principle, and the encampment of Dravidam.
+
+I say that communism must have a boundary and can be spread within our own boundary: a boundary that troubles no one, which our ancestors drew with their blood, which we later lost through foolishness, which tricksters seized from us, and which our awakening must regain. We declare that we shall certainly reach it.
+
+We advance toward that objective along a peaceful road. Problems encountered during the journey are like friends met on the road: we shall converse and part from them, but we shall not leave the path. When it rains, we may take shelter briefly, but we shall not abandon the journey. We shall continue walking. Snow, rain, heat, cold, night, or day will neither stop the journey nor alter its course.
+
+Corpses may lie upon the path; skeletons may remain there; vultures may circle above them and jackals may howl. Yet we shall not lose our way. We shall regard those remains as signs that heroes travelled before us and move ahead. We shall not sacrifice the fundamental objective for which we were formed and continue to labour merely because intermediate problems arise.
+
+I do not belong to the wealthy classes and have not risen through money. I possess less wealth than you and, more than all else, far less courage. I work only by trusting the courage of the younger brothers who surround me. We shall certainly succeed in our journey along the path of principle.
+
+If this rapidly expanding growth is to endure, the movement needs a fine machine to set it in motion. The machine requires oil to run and grease to protect its parts. We have purchased a building for the Kazhagam. To conduct the other work properly and prevent the movement’s machinery from rusting, we need at least two thousand rupees every month. More will be needed if we are to work faster.
+
+We present historical evidence, geographical statistics, and literary testimony in making our demand. We have the right to ask and the ability to obtain it. The place where we have gathered is especially appropriate. S.I.A.A. Grounds means the athletic ground of South India. We have assembled here in the final days of a fascistic administration, and we rejoice at these correspondences. We must preserve the immense enthusiasm now developed without allowing it to be wasted or buffeted by changing political circumstances.
+
+The number supporting our objective continues to grow. The Madras Finance Minister, the Honourable Gopala Reddi, recently said at Annamalai University that the Central Government does not treat provincial governments even as partners and that this situation is regrettable. One may suspect this was election-time talk, or an opportunistic remark suited to Annamalai University, an intellectual centre where the Dravidian breeze blows.
+
+But he is a Finance Minister accustomed to sitting beside the cash box. Such distress frequently comes to him, and the anguish boiling within his mind escapes without his knowledge. His speech was such an outpouring. In truth, he should have made provincial autonomy an election issue and stood upon it.
+
+Jeeva told me when we met: “Whomever you support in this election, afterward I shall continue striving for us to stand together.” I say the same. If this were January, I would ask him to sign an agreement. I say, “Let us speak in March, unite our hearts, and serve the people.”
+
+More than fifteen people have so far signed the DMK’s agreement. Capitalists are among them, and there is even an Iyer. Looking at them creates a little suspicion: is this a political *Virata Parva*? From where have they emerged in disguise, and do they intend to cause trouble? Amid these doubts, every party must protect its own principles. We shall therefore weigh them, sift them, test them on the touchstone, observe them closely, and, if anything proves unsound, set it aside with sympathy.
+
+We must work to prevent the Congress administration from returning. Kamaraj, the president of the Tamil Nadu Congress, repeatedly says: “Freedom is a four-year-old child; people expect too much from it.” His refrain is: tolerate whatever it does and merely vote for it.
+
+That four-year-old child shot down innocent security prisoners in Salem Jail. It tormented weavers, starved the people, beat the scholar Appadurai in the streets of Madras, attacked even mothers with batons, imprisoned Periyar and me, and displayed us as political trophies for ten days. It committed still more unbearable cruelties. If a four-year-old child already does all this, are we not frightened to imagine what will happen when its moustache grows and it comes carrying a staff?
+
+In the *Bharata*, Krishna stole butter as a child. Instead of beating and restraining him, Mother Yasoda kissed his head and said fondly: “My dear, is it only butter you want? Why go outside? We have it at home.” She wiped his butter-smeared mouth and patted him. What was the result? Because he was not stopped from stealing as a child, when he grew older he began stealing women’s clothes. In the same way, the acts committed by Congress during its first four years are intolerable, and the people intend to strike it on the head and drive it out.
+
+What has Congress achieved in four years? The pot that once held rice came to hold millet; the pot that held millet came to hold tamarind seeds; the one that held tamarind seeds held cottonseed; then even the cottonseed disappeared. Empty pots, collapsing roofs, people falling dead, hunger and starvation—are these not all it can show?
+
+I publicly accuse the Nehru Government of starving people to death. It is a government that runs behind capitalists, an agent government that serves American capitalism. Some will ask, “You accuse Nehru—but where is Nehru and where are you?” I know that Nehru is very great, and I know how great he has been made. Yes, I am an ordinary man, and I also know how thoroughly this country’s newspapers have made me appear ordinary. Nevertheless, I make the accusation.
+
+The Nehru Government promised to nationalise industries but did not do so, saying it could not. It thus exposed its lack of administrative ability. Why should the government not employ people such as Sir R. K. Shanmugham Chetty and G. D. Naidu as public servants? I name them rather than others because they are my friends and will not misunderstand me.
+
+Invite Comrade G. D. Naidu to run motor transport throughout Madras Province as its General Manager. If it does not earn a profit, ask how it made one when private operators ran it. If they acted improperly, summon them before the people’s assembly, declare them traitors, and ask what must be done with them. Stories of the French Revolution roll through my mind. Workers scorched by the cruelty of capitalists stand ready to bring them forward.
+
+Nehru said he would impale black marketeers and travelled throughout the country repeating it. Later, before departing for America, he pleaded with them. He did not even call them black marketeers. He said: “Secret profiteers, you need not show your accounts. Pay part of your profit as tax. You need not say how the profit was obtained or by what means it reached you.”
+
+You heard Brother Sampath speak about “The Rise and Fall of Great Powers.” Today we see before our own eyes the rise and fall of Nehru. The Allahabad scholar who studied socialism, spoke of the Russian plan at the Faizpur Congress, stood at the front of the freedom struggle, was hailed as a free spirit, India’s uncrowned king, a flawless jewel, the light of Asia, and a scholar known throughout the world—this Nehru has now lost the people’s confidence.
+
+Rather than entrust government again to a Nehru who has lost that confidence, it might be handed to Tata; despite greater dishonesty, it would at least be administered efficiently. It might be given to Birla; despite his greed, it would at least be run without inviting the mockery of other countries. Returning power to Nehru would be like entrusting a calf to a wolf. Therefore, in this election the DMK will employ every kind of—pardon me—lawful and—pardon me—civilised measure to defeat Congress.
+
+Congressmen went from prison into the legislature. They said that once they assumed power, the C.I.D. would have no work. But now C.I.D. officers arrive hour by hour in every guise, searching for where we might err, where a case may be filed, and how we may be imprisoned. Many of those officers are my friends. I do not name them because I want them to retain their jobs.
+
+They may send the C.I.D. behind me. I distrust the Congress administration, so it may distrust me. But why send them behind Kripalani? He separated from them only yesterday.
+
+India is the size of an elephant and Ceylon only the size of a cat, yet the elephant begs from the cat and Ceylon sends rice to India. How is this possible? That is the disgrace. Black marketeers carry rice grown in India through Vedaranyam and Point Calimere to the Ceylon coast, and that same rice returns to India. That is why Senanayake behaves proudly. What further proof is needed that the Congress rulers do not know how to govern?
+
+The ruling Congress administration now walks the path of fascism, unleashing every instrument of repression and watching the spectacle.
+
+They speak of Nehru going to England one month and staying at Mountbatten’s palace, then travelling to America the next month and being welcomed by Truman. History says that when Roman warriors lost influence at home, they went abroad, won military victories, returned in procession through Rome, and repaired their declining prestige. Nehru follows the same practice.
+
+Even if Nehru enjoys worldwide fame, does he at least possess a firm foreign policy? No. His government dances as America directs. Why should India participate in the Korean War? They may say no troops were sent, but why send medical units? Nehru thundered that he would condemn any crossing of the 38th parallel. Yet he merely crossed from Allahabad to Amritsar, from Amritsar to Poona, and from Poona to Bombay; he issued no condemnation.
+
+The aged Mossadegh of Iran struggles to secure justice in the oil dispute. Why should Nehru not speak? Why does he say nothing about the Suez Canal? Has Nehru offered one good word on these matters? Will he do so even now?
+
+## Translator's Notes
+
+The introductory date is OCR-corrupted as “1251 டிசம்பர் 13, 74, 75, 16”. It is read as 13, 14, 15, and 16 December 1951, the dates of the DMK’s first state conference; the source remains verbatim.
+
+The source heading includes a footnote marker about electoral alliances, but no corresponding footnote text appears in this OCR item.
+
+“பொதுவுடைமை” can denote common ownership, socialism, or communism depending on context. Here “communism” is used where Anna proposes a named political camp, while related formulations retain “socialist” according to their explicit party label.
+
+The speech contains sharp partisan, religious, national, and geopolitical rhetoric characteristic of a 1951 election address. It is translated as historical political speech without endorsement or silent factual correction.
+
+The OCR “பெய்சிபூர் காங்கிரஸ்” is read contextually as the Faizpur Congress. Historical names including Gopala Reddi, Mossadegh, Senanayake, Kripalani, Mountbatten, and Truman are normalised in English while their Tamil source forms remain untouched.

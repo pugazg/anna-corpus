@@ -1,0 +1,528 @@
+# பூஜா மனோபாவம் கூடாது / There Must Be No Cult of Worship
+
+**Tamil title:** பூஜா மனோபாவம் கூடாது  
+**English title:** There Must Be No Cult of Worship  
+**Source file:** `sorpozhivugal/pooja_mano.md`
+
+## Source Tamil (verbatim)
+
+- Source image folder: `/Users/pugazhendhirajendran/Documents/Codex/2026-07-09/https-www-annavinpadaippugal-info/outputs/annavin_text_extractor/ocr_images/sorpozhivugal/pooja_mano`
+- OCR language: `tam`
+- Tesseract page segmentation mode: `3`
+- OCR cleanup: `enabled`
+
+## Image 1: 001-ab99e30737.png
+
+- Image: `sorpozhivugal/pooja_mano/001-ab99e30737.png`
+
+1௮
+
+பூஜா மனோபாவம் கூடாது
+
+26-10-1947: அம். நாளன்று திராவிடப் புரட்சியை
+அடக்க முடியாது என பேரறிஞர் அண்ணா ஆற்றிய
+உறை,
+
+நாட்டை. மீட்கும். நற்பணியில் நாங்கள் எஈடுபட்டிருக்
+கிறோம். இப்போது இங்கே இரண்டே கட்சிகள்தான் உண்டு:
+ஒன்று விடுதலைப் போர் புரியும் கட்சி. மற்றொன்று
+ஏகாதிபத்தியம். எனவே வேறு கட்சிகள் இருக்கக்கூடாது.
+
+நாடு விடுதலை பெற்றான பிற்கு, நாட்டை ஆளும்
+நேரத்திலே. கட்சிகள் இருக்கலாம்; போராட்டத்தின்போது
+கூடாது. என்று காங்கிரஸ் தலைவர்கள் கூறி வந்தனர். இன்றோ
+நாட்டுக்கு. விடுதலை. : கிடைத்து. விட்டது. அனால்,
+காங்கிரசாருக்கு, வேறு கட்சியே இருக்கக்கூடா து! எதிர்ப்பின்றி,
+ஏகபோகமாகத் தாங்களே நாடாள வேண்டும். நிர்வாகம்
+எவ்வளவு கேடுள்ளதாயினும் யாரும் எதிர்த்திடக் கூடாது என்ற
+எண்ணம் பலமாக ஏற்பட்டி ருக்கிறது.
+
+வெற்றிக். களிப்பே, இந்த விபரீத எண்ணத்துக்கு முக்கிய
+காரணம்; ஆனால் மூலகாரணம். வேறு இருக்கிறது.
+
+என்ன தவறு செய்தாலும் சகித்துக்கொண்டு, தவறுகளை
+வெளியே எடுத்துச். சொல்லவும் யாருமே... இல்லை. என்றால்
+மட்டுமே, தங்களால் ஆட்சியை நடத்த முடியும்; குறை
+கண்டுபிடிக்கப் பலருக்கோ சிலருக்கோ வாய்ப்பிருந்தால் தமது
+பிடி: தளர்ந்து விடும். என்ற அச்சம் அந்த மூலகாரணம்.
+
+இது, குடி. அரசுக் கோட்பாட்டுக்குக் கேடு விளைவிக்கக்
+கூடியது:
+
+அறிஞர். டாக்டர் கிருஷ்ணலால் சீதரணி, இந்தப்
+போக்குக் கூடாது என்று தக்கக் காரணத்தோடு விளக்கியுள்ளார்.
+
+## Image 2: 002-ab843502f0.png
+
+- Image: `sorpozhivugal/pooja_mano/002-ab843502f0.png`
+
+புதிய நிலை நாட்டுக்குப் பிறந்து விட்டது; இப்போது
+பழைய 'பூஜா மனோபாவம்' நீடிக்குமானால் ஜனநாயகம்
+வளராது என்கிறார். அவருடைய கருத்துரை கழே. வெளியிடப்
+பட்டிருக்கிறது.
+புதிய கட்சிகள் வேண்டும்
+
+“சுதந்திரம் அடைந்திருக்கும் இந்த நேரத்தில் நமக்கு
+ஒன்றுக்கு மேற்பட்ட அரசியல் கட்சிகள் தேவைப்படுகின்றன.
+எங்கு ஒரே கட்சி அதிக்கம் செலுத்துகிறதோ: அங்கு. ஜனநாயகத்
+திற்கு உறைவிடம் சவக்குழிதான். இது ஒரு மகத்தான
+சோதனையாயிருக்கும். ஏனெனில், நாம் நடத்தி வந்துள்ள ஒரு
+நீண்ட, கடுமையான போராட்டத்தின் :போக்கில், நாம்
+காங்கிரசைத் தவிர மற்றச் சகல கட்சிகளிடத்தும் அவநம்பிக்கை
+கொள்ளக் கற்று வந்திருக்கிறோம். ஆனால் காங்கிரஸ்
+ஒன்றினிடத்தில் மட்டும் நாம் கொண்ட. பக்திக்குக் காரணம்,
+காங்கிரஸ் இன்றுவரை ஒரு கட்சியாக இராமல் ஒரு இயக்கமாக
+இருந்து வந்ததுதான் என்பதை நாம் உணர வேண்டும். அது ஒரு
+பொதுஜன. முன்னணியாக விளங்கிற்று; அதன் அதரவில்,
+பல்வேறு. சிந்தனைப் போக்குகள் ஒன்றுபட்டு : அந்நிய
+அதிகாரத்திற்கெதிராக ஒரு பொது இலட்சியத்தை உருவாக்கின.
+அந்த இயக்கம், இந்தியாவை அந்நிய ஆதிக்கத்திலிருந்து
+விடுவிக்கும் தனது பணியை இப்போது நிறைவேற்றி வைத்து
+விட்டது.
+
+சுதந்திரமெய்தியிருக்கும் இத்தருணத்தில் காங்கிரஸ் ஒரு
+கட்சியாக மாறிவிடுகிறது. இயக்கம் என்ற அதன் உருவம்.மறைந்து
+விடுகிறது. அந்த நிலைமையானது பல்வேறு அரசியல்
+பொருளாதாரத். திட்டங்களையு/டைய மற்றக். கட்சிகள்
+ஸ்தாபிக்கப்படவேண்டியதை அவகியமாக்குகிறது.
+
+இந்தப் புதிய கட்சிகளில் சில, காங்கிரசிற்கு உள்ளிருந்தே
+எழும். அந்தக் கட்சிகள், காங்கிரசிற்கு ஒருபோதும் தங்களின்
+தளராத விசுவாசத்தை அளித்திராத நபர்களையும் சேர்த்துக்
+கொள்ளும். காங்கிரஸ் வலதுசாரியாகவும், இடதுசாரியாகவும்
+பிரிந்துவிடுமென்று தோன்றுகிறது. எனினும், அதுவும் கொஞ்ச
+காலம் வரை ஒரு இடைக் கட்சியாக ஆதிக்கம் வகித்துவரும்.
+
+## Image 3: 003-b8738803eb.png
+
+- Image: `sorpozhivugal/pooja_mano/003-b8738803eb.png`
+
+பத்திரிகைச் சுதந்திரம்
+“சுதந்திரமடைந்திருக்கும் இந்த நேரத்தில் நமக்கும் சுதந்திரம்
+பெற்ற பத்திரிகைகள் தேவை. இப்போது ஒரு தர்மசங்கடமான
+பிரச்சினையாயிருக்கிறது. அந்நிய அடக்குமுறை ஒழிக்கப்பட்ட
+அந்த நிமிடமே நமது பத்திரிகைகள் தாமாகச் சுதந்திரமடைந்து
+விடுமென்று சில ஜனங்கள் நினைப்பார்கள். அனால் அன்னிய
+ஆட்சியில் அவை சுதந்திரமாக நடந்து கொள்ளலாம்; நமது
+சொந்த ஆட்சியில் அவ்வாறு நடந்து கொள்வதுதான் கஷ்டம்.
+ஏகாதிபத்தியவாதிகளுக்கெதிரான தங்களுடைய போராட்டத்தில்
+பல்வேறு. கொள்கைகளோரடு இறங்கிய நமது. வீரர்களைப்
+போற்றி, ஆதரவு நல்கி, நமது பத்திரிகைகள் தேசத்திற்கு அவை
+ஆற்றவேண்டிய பணிகளைச். செய்தன. அது ஒரு பழக்கமாக
+மாறியது. பழக்கங்கள் மாறுவது துர்லபம். நமது பத்திரிகைகள்
+தாமாகவே வீரர்களின் விளம்பர ஸ்தாபனங்களாக இருந்துவரத்
+தொடங்கினால், அவை தத்தம் ஜனநாயகக் கடமைகளைச்
+செய்யத் தவறிவிடும்; யுத்த காலத்தில் குற்றங் குறைகள் கூறுவதைச்
+சகிப்பது கஷ்டம்தான். ஆனால் சமாதான காலத்தில் சீர்திருத்த
+வேண்டுமென்ற எண்ணத்தோடு குற்றங் குறைகளை எடுத்துக்
+
+கூறவேண்டியது ஒரு கடமையாகி விடுகிறது.
+
+தன் குறும்புத்தனத்தை அதாவது எதேச்சதிகாரத்தைத்
+திருத்தக்கூடிய வல்லமை கிடைத்தது பத்திரிகை ஒன்றுக்குத்தான்.
+ஆனால் சுதந்திரமாயிருந்தால்தான் அந்த வல்லமை அதற்குண்டு.
+நமது பத்திரிகாசிரியர்கள் அந்நிய ஆட்சி வர்க்கத்தினருக்
+கெதிராக எவ்வளவு தைரியத்துடன் நடந்து கொண்டார்களோ;
+அவ்வளவு தைரியத்துடன் இப்போது நமது சொந்தத்
+தலைவர்களிடமும். நடந்து கொள்ள வேண்டும். இது: . நமது
+தலைவர்களில் சிலருக்கு வேப்பங்காயாக இருக்கலாம்..ஏனெனில்
+இதுவரை அவர்களுடைய பேச்சிற்கு மறு பேச்சு இல்லாமலிருந்து
+வந்தது. ஆனால். தங்கள் தலைவர்களின் நேரான நடத்தையை
+எதிர்பார்ப்பது. ஜனநாயக. மக்களின்: உரிமையாகும். “சர்வமும்
+தாம்தான்”. என்ற மமதை கொண்ட எந்தவொரு மனிதனும்
+ஜனநாயக ஆட்சிக்குத் தலைமை தாங்கத் தகுதியடையவனாக
+முடியாது.
+
+வீரர். வணக்கம். பற்றிய எனது கருத்திற்கு இது- தோற்று
+வாயாகிறது. ஒரு: போராட்ட.த்தின்போது அது ஆயுதப்
+
+## Image 4: 004-5182935b90.png
+
+- Image: `sorpozhivugal/pooja_mano/004-5182935b90.png`
+
+போராட்டமாயினும் சரி, அகிம்சைப் போராட்டமாயினும் சரி,
+நமக்கு ராணுவ மனோபாவம் அவசியமாகிறது. ஆகவே, இங்கு
+நமது வீரவணக்கம் தீவிரப்பட்டு, மேலே போகப் போக, பல்
+இடங்களில் சிதறிக்கிடந்த நம்து விசுவாசம் ஒருமுகப்பட்டு,
+எல்லோருக்கும் மேம்பட்டு விளங்கும் அந்த ஒரு. மனிதரிடமே
+செல்கின்றது. பார்க்குமிடமெல்லாம் அவரது முகமே நம் முன்
+தோன்றுகிறது. சகல குண நலன்களையும் நாம் அவருக்கு
+உரிமையாக்கி விடுகிறோம். வேறு யாரும் நம்மைத் திருப்திப்
+படுத்த முடியாது.
+
+ஆயினும், சாதாரண காலத்தில், ஒரு ஜனநாயக: அரசை
+உருவாக்கிக்  கொண்டிருக்கும்போது நமது வீர வணக்கமானது
+ஒருமுகமாகத் தீவிரப்படுவதற்குப்' பதிலாகப் பல இசையில் பரந்து
+செல்ல வேண்டும். நாட்டு மக்கள் அனைவரும் வீரர்களாகிவிடும்
+ஒரு காலம் வரும்வரை நாம் அநேக வீரர்களைப் பெறவேண்டும்,
+சாதாரண. மனிதனின் பெருமைதான் ஜனநாயகம். என்று
+அழைக்கப்படுகிறது. அமெரிக்காவைப்போல் நாம் அரசியலைத்
+தவிர. மற்றத் துறைகளிலும், அதாவது கலைத்துறையில்,
+இலக்கியத் துறையில், தொழில் துறையில், தொழிலாளர் இயக்கத்
+துறையில் சினிமாத் துறையில் வீரர்களைப் பெறவேண்டும். இங்கு
+நாட்டின். பத்திரிகைகள் புதிய சமுதாயத்திலிருந்து. புதிய
+தலைவர்களை உருவாக்கிக் கொடுப்பதன் மூலம். பணிசெய்ய
+முடியும். இப்போது நமது பத்திரிகைகளில் ஒவ்வொரு .நாளும்
+நாம் எப்போதும் பார்க்கும் அதே. முகங்கள்தான்
+பிரசுரிக்கப்படுகின்றன. வழக்கமான .ஒரு சில தலைவர்களின்
+சொற்கள்தான் வெளியாகின்றன.
+
+மற்றவர்களும் செய்திகளில் இடம் பெற முடி.யுமென்ப
+தையும், அச். செய்திகளை ஜனங்கள். படிப்பார்கள் என்பதையும்
+முயற்சி, ஊக்கமுடைய நிருபர்கள். காண்பார்கள்.
+
+ஜனநாயகம் ஆழ்ந்து வேரூன்ற வேரூன்ற பெரியவர்களுக்கே
+புகழ் பாடும் மனோபாவம் அருகத் தொடங்குகிறது. சாதாரண
+மனிதனுடைய முக்கியத்துவம் அதிகரித்துக்கொண்டே
+போகும்போது “படே மனிதர்களோடு” அவனை ஒப்பிட்டுக்
+கூறவேண்டிய அவசியம் குறைந்து விடுகிறது. அமெரிக்காவில்
+சாதாரண மனிதன் எப்படி. வாழ்கிறான் என்பதை எடுத்துரைக்கும்
+புத்தகங்களும், பத்திரிகைகளும்: பெரிய மனிதர்களின்
+
+## Image 5: 005-0da4450831.png
+
+- Image: `sorpozhivugal/pooja_mano/005-0da4450831.png`
+
+செய்கைகளை . விவரிக்கும். புத்தகங்களைப். போலப். பிரபலம்
+பெற்று விளங்குகின்றன.
+
+ஓரே கட்சிக்கே நாடாளும் வாய்ப்பு இருக்கவேண்டும்,
+அத்தக் கட்சி எவ்வளவு தவறு செய்தாலும், எடுத்துக்
+காட்டுவதுகூடத் தவறு: அந்தக் கட்சியின் தலைவர்களின் புகழ்
+பாடுவதன்றி வேறோர்: காரியம். செய்தலாகாது: என்ற
+மனோபாவம், சர்வாதிகாரத்திலே.. போய்ச்சேரும்: என்ற
+உண்மையையும், விடுதலைப். போரின்போது, மகாவீரராக
+யாரேனும் ஒருவர். விளங்கினார் என்றால், நாட்டை ஆளும்
+நிர்வாக காரியத்திலும் அவர். மகாவீரராகவே இருந்து தீருவர்;
+அங்ஙனம் இல்லை என்றாலும், அவரைக் கண்டிப்பது கூடாது
+என்று கட்டளையிடுவதும், நிச்சயமாக நாட்டு முன்னேற்றத்தைத்
+தடுக்கு மென்பதையும், அறிஞர் விளக்கிக் கூறியிருக்கிறார்.
+இக்கட்டுரையில் இவர், காங்கிரசுக்கு எதிர்க்கட்சி நடத்திக்
+கொண்டிருந்தவருமல்ல, உலக நிலையையும், நாடாளும்
+முறைகளையும் ஆராய்ந்து இதனைக் கூறினார். ஆனால்
+இங்குள்ள காங்கிரசாருக்கோ, என்றென்றும் ஆட்சி உரிமை
+தமக்கே என்ற எண்ணமும், அந்த நிலையைப். பாதுகாத்துக்
+கொள்ளத் தம்மிடம் அதிகாரம் இருக்கும் இந்நாளிலேயே, மிகக்
+கடுமையான. நடவடிக்கைகள் மூலம், காங்கிரசுக்கு எதிர்க்கட்சி
+என்று ஏதும் இருக்க முடியாதபடி. செய்துவிட வேண்டுமென்னும்
+எண்ணமும். ப்லமாகி விட்டது. பேச்சும் நடவடிக்கையும்: இதற்கு
+ஏற்றபடியே இருந்திட.க்.காண்கிறோம்.
+
+“இவர்களை எல்லாம் பிடித்து ஜெயிலில் போட்டுவிட்ப்
+போகிறோம்” என்று மேடையில் பேசுவது, இப்போது காங்கிரஸ்
+பிரசாரகர்களுக்கு மிகச் சகஜமாகி விட்டது.
+
+“இதோ... தந்தி கொடுத்து விட்டோம் 'மந்திறிக்கு.
+நாளைக்குள்ளே அரஸ்ட்டு வாரண்டு பிறந்து விடுகிறது பார்!”
+என்று மிரட்டுவதிலே, இப்போது காங்கிரசார் புதிய களிப்புப்
+பெறுகின்றனர்.
+
+ஒரு காலத்திலே, தொல்லைக்கு ஆளாகி, அடக்குமுறை
+யினால் தாக்கப்பட்டவர்களானபடியால், தங்களுக்கு ஆளும்
+வாய்ப்புக் கிடைத்த உடனே, பிறர், தங்களைக் கண்டு பயப்பட
+வேண்டும், “பிறரை அடக்கி அளவேண்டும் என்ற எண்ணம்,
+
+## Image 6: 006-b0410ebd53.png
+
+- Image: `sorpozhivugal/pooja_mano/006-b0410ebd53.png`
+
+அவர்களுக்குச் சுலபத்தில் உண்டாகிவிடுகிறது. .:சாமான்யர்
+களுக்கு, இந்த அதிகாரம் பெற்ற நிலை, சாஸ்வதமானது என்றே
+தோன்றும். ஒரு மந்திரி சபைக்கு சட்டப்படி, உள்ள அயுட்காலம்
+கூட. இருப்பதற்கின்றி, . பிரச்சாரம் இருண்டு, ஓமாந்தூரார்
+ஒளிவிடும். மாறுதல் மந்திரி . சபைக்கே ஏற்பட்டு விட்டதே.
+இதற்கே... இந்த நிலை . என்றால், நாடு ஆளும் நிலை நமக்கு
+என்றென்றும். இருக்கும் என்று எதைக்கொண்டு தீர்மானிப்பது
+என்றுகூட, அவர்கள் எண்ணிப் பார்ப்பதில்லை.
+
+அடக்குமுறை, ஒரு விசித்திரமான சக்தி. அதை உபயோகப்
+படுத்துவோருக்கு துவக்கத்திலே களிப்பு அதிகரிக்கும்.
+சவுக்கெடுத்துக் காளையின் முதுகிலே, 'சுளீர்' என அடி.
+கொடுத்ததும், அது துள்ளி வேகமாக ஓடும்போது உண்டாகிற
+களிப்புப் போல, அடக்குமுறையை வீசி, எதிர்க்கட்சியினரை
+இம்சை செய்து, அவர்கள் கஷ்டம் அனுபவிப்பதைக் கண்டதும்,
+ஒருவகைக் களிப்புப் பிறக்கும்.
+
+அதேபோல முதல் தாக்குதல், அடி பட்டவனுக்கு அதிக
+வருத்தத்தை, சோகத்தை, திகைப்பைத்தான் தரும். அவனிடம்
+அதிகாரம் இருக்கிறது. நான் என்ன செய்ய முடியும் அவனுக்கு
+எதிராக, என்ற எண்ணம் வரும்.
+
+அடிக்கடி 'சவுக்கு'. வீசவேண்டியும், ஒவ்வொரு முறை
+சவுக்கு வீசும்போதும், காளை துள்ளுவதோடு மட்டும் நிற்காமல்,
+துரிதமாக இருந்தால், முதல். சவுக்கு வீசியபோது உண்டான
+ஆனந்தம் கருகி, இதேதடா தொல்லை! என்று. சலிப்புப் பிறந்து
+விடும். கையிலே சவுக்கு இருப்பினும், அடக்குமுறை. உபயோகப்
+பவருக்கும் அதே நிலைதான். ஆரம்பத்திலே அதனை
+உபயோகிக்கும்போது ஏற்படும் களிப்பு, அதனை அடிக்கடி
+உபயோகிக்க வேண்டிய நிர்ப்பந்தம் ஏற்பட்டால் உண்டாகாது.
+சலிப்பும், இப்படியே அடக்குமுறையைக் கொண்டே எவ்வளவு
+காலத்துக்குத்தான் ஆட்சியை நிலைநிறுத்துவது என்ற அச்சமும்
+ஏற்படும்.
+
+அதுபோலவே, . முதன் முறை தாக்குண்டபோது. துயரப்
+பட்டுத். திகைத்தவர்கள், பிறகும் அடிக்கடியும் தாக்குதலை
+
+## Image 7: 007-912707360b.png
+
+- Image: `sorpozhivugal/pooja_mano/007-912707360b.png`
+
+அனுபவிக்க நேரிட்டால், துயரமும் திகைப்பும் தீய்ந்து. போகும்;
+உறுதியும் எதிர்ப்புச் சக்தியும் புதிதாகத் தோன்றும்.
+
+அடக்குமுறை, இவ்விதமான பலன்கள் தரும், ஒருவகை
+விசித்திர சக்தி.
+
+சாவது அவ்வளவு கஷ்ட.மானதல்ல. - என்று
+கூறிக்கொண்டே இறந்த நாள் ஓர் மங்கை - கொடுங்கோலனிடம்
+சிக்கியபோது, அவளுடைய கணவனின் செவியிலே அந்த வாசகம்
+வீழ்ந்தது! சாவது அவ்வளவு கஷ்டமில்லை! செத்துக்கொண்டே
+கூறினாள் சேல்விழியாள்! நானோ சாவுக்கு. அஞ்சி, கொடுங்
+கோலனைச் சரணடையலாமா என்றுகூட யோசித்தேன். சே! நான்
+கோழை! அகாது இக் கோழைத்தனம் என்று கூறி, சீறிப்
+போரிட்டுக் கொடுங்கோலனை விரட்டினான் என்றோர் கிரேக்கக்
+கதை உண்டு. அது போன்றே, அதிகாரத்தைப் பெற்றிருக்கும் கட்சி
+அடக்குமுறை கொண்டு எதிர்க்கட்சியைத் தாக்கும்போது, அந்தத்
+தாக்குதலைச். சமாளித்து. விட்டால், பிறகு பிறக்கும். புதிய
+சக்தியின் உருவைக் கண்டு நாமே ஆச்சரியமடை வோம்.
+
+அடக்குமுறையின் இந்த இலட்சணத்தை ஆராய
+அவர்களுக்கு அவகாசம் இல்லை. எனவேதான், ஆள்வதற்கு
+நாங்கள் கிளம்பிவிட்டோம். இனி நாட்டிலே வேறு. எக்கட்சியும்
+இருக்க அனுமதியோம் என்று கூறுகிறார்கள்.
+
+தமது: அதிக்கத்திற்கு அடிபணிவோரெல்லாம். நல்ல
+பிள்ளைகள், மற்றையோர் துடுக்கர்கள். என்றே. உலகில் இதுவரை
+எல்லா எதேச்சாதிகாரிகளும் எண்ணி வந்தனர். ரஷிய நாட்டை
+ரணகளமாக்கிய ஜார் மன்னனும் அப்படித்தான் எண்ணினான்.
+சில்லரை. அதிகாரம் வகிக்கும் சிறு தேவதைகளும். அவ்வண்ணமே
+எண்ணுகின்றன; எதிர்ப்பு. என்ற உடனே எரிச்சல். வருவதும்,
+அதனை அழித்தே விடுவது என்ற .ஆணவம். எழுவதும், அழிக்க
+எத்தகைய. கொடிய: இழிந்த முறைகளைக் கையாளும். துணிவு
+ஏற்படுவதும் வீரமென்று. அவர்கள் எண்ணிக்கொண்டு செய்யும்
+நடவடிக்கைகளெல்லாம். பயங்கொள்ளிச் செயல்களாகும்.
+உண்மையில், எதிர்ப்பில் சக்தி இல்லாவிடின் எதிர்ப்போருக்கு
+நாட்டிலே அதரவு. வராது என்ற எண்ணமிருப்பின், யார்
+
+## Image 8: 008-86433938c2.png
+
+- Image: `sorpozhivugal/pooja_mano/008-86433938c2.png`
+
+எவ்வளவு எதிர்ப்பினும்: தமது. செல்வாக்குக் குறையாது என்ற
+நம்பிக்கை இருப்பின், தம்மைப்பற்றி. மக்கள். உண்மையை
+உணரும்படி. செய்யத் தங்களால் முடியும் என்ற வீர உணர்ச்சி
+இருப்பின் எதிர்ப்பைக் கண்டதும் அதன் மீது உடனே பாய்ந்து
+அடித்து ஒழித்துவிட. யாரும் எண்ணார்.
+
+வீரருக்கு. அழகு, எதிர்ப்படும் எத்தனை .அபத்தையும்
+பொருட்படுத்தாது போரிடல். கோழைகளின் கொள்கை, எதிர்ப்பு
+என்ற உடனே என்னாகுமோ நமது கதி' என்று பயந்து, பதை
+பதைத்து, பாதகச் செயலையும் செய்யத் துணிவது. முன்னையோர்
+முடிவில் வெற்றியும்,. பின்னையோர் இறுதியில் தோல்வியும்
+பெற்று. வந்ததாலேயே, இன்று உலகில் ஏதோ ஓரளவுக்காவது
+நீதியும் நேர்மையும் நிலைத்திருக்கின்றன.
+
+புரட்சி என்பது இயங்கும் சக்தி! அதைப் பொசுக்கிவிட
+யாராகிலும் ஆகாது. புரட்சி என்பது மக்களின் போராடும்
+சக்தியின் வழி வருவது. புரட்சி வாலிபத்தின். .கூறு/
+பகுத்தறிவாளர். ஆயுதம். பழமை விரும்பிகள், . புரட்டர்கள்,
+எதேச்சாதிகாரிகள், சர்வாதிகாரிகள் ஆகியோருக்கு நஞ்சு.
+எனவேதான், அத்தகையோர் புரட்சி என்ற சொல்லைக்
+கேட்டதும் மருட்சி அடைந்தே விடுவர். நீண்டு வளர்ந்து நிற்கும்
+நெடு மரங்களும் அசைந்து ஆடி, சுழன்று, அடி அறுபட்டு,
+விழுந்து நொறுங்கும், சூறாவளி வரின் அதைப்போன்றே
+ராணுவம், பொக்கிஷம், கர்வம் கபடம், ஆணவம், அகந்தை ஆகிய
+எல்லா. ஆயுதங்களையும் ஒருங்கே படைத்துத் தனக்கு ஒப்பாரும்
+மிக்காரும் இல்லை. என இறுமாந்து கிடந்த எத்தனையோ
+எதேச்சாதிகாரிகள்இடர்ப்பட்டு, இடி.பட்டு ழே: உருண்டனர்,
+புரட்சியின். வேகத்தைத் தாங்க. மாட்டாது. எனவேதான். அவர்
+வழி. வந்தவருக்கெல்லாம் . புரட்சி. என்றது மருட்சி ஏற்பட்டு
+விடுகிறது. மருட்சி அவர்களைக் காப்பாற்றாது. மருட்சி
+கொண்டோன், பலப்பல. கொடுமையான ..காரியங்களையும்
+கூசாது செய்வான். எனினும் எச்செயலும். புரட்சிப் புயலில்
+அவனைச் சிக்க வைக்காது போகாது. இது சரித்திரம்.
+
+எதேச்சாரதிகாரிகளுக்கு அரசியல் அதிகாரம் கிடைத்தால்,
+அதனை வைத்துக் கொண்டு சட்டம் கொண்டு புரட்சியை
+
+## Image 9: 009-e7d2cf6bd5.png
+
+- Image: `sorpozhivugal/pooja_mano/009-e7d2cf6bd5.png`
+
+ஒடுக்கப் பார்ப்பர். ரரணுவ பலமிருப்பின் புரட்சிக்காரரை சுட்டுக்
+கொல்லுவர். இரண்டுமின்றி: நமது நாட்டில் அந்த நாளிலே
+இருந்ததாகக் கூறப்படும் ரிஷிகளாக இருப்பின் சபித்து விடுவர்.
+இன்று அந்த “ரிஷி பரம்பரையில்” வந்தவராகக் . கருதப்படும்
+காந்தியாரும், அவரது பூசாரிகளும், ஒழுங்கு நடவடிக்கை எனும்
+தண்டத்தை வீசுகின்றனர். ஒன்றுமே இல்லாத:-பேர்வழிகள் ஏதோ
+தங்களாலான விதத்திலே தமது சமர்த்தைக் காட்ட முற்படுவர்.
+இந்தி எதிர்ப்பை அடக்கி விடலாமென எண்ணவில்லையா?
+மதுரைக். கோயில். பட்டர்கள், கோயிற் கதவைப். பூட்டிக்
+கொண்டு, சாவிகளை ஒளித்து வைத்துவிட்டுத் தாமும் மறைந்து
+கொண்டால் ஆலயப் பிரவேசம் அடியோடு நின்று விடும் என்று
+எண்ணவில்லையா? அத்தகைய கோமாளித்தனமான: முறைகள்
+கையாளப்படுவதற்குக் காரணம்: யாது? அவர்களின் மன
+மருட்சிதான் காரணம். புரட்சியின் சக்தி அப்படிப்பட்டது.
+
+சுயமரியாதை இயக்கம் ஆரம்பிக்கப்பட்டுப் பல புதிய
+கருத்துக்களைப் புகுத்திப் புரட்சியைக் கிளப்பியபோ து,
+மருண்டவர் எத்தனை பேர்! மருட்சியின் காரணமாக அவர்கள்
+ஆடிய ஆட்டமும், போட்ட கூக்குரலும், கையாண்ட இழிவான
+முறைகளும் கொஞ்சமா!
+
+அதைப் போன்றே “தமிழ் நாடு தமிழருக்கே” என்ற
+புரட்சிக் தம் பாடப்பட்டவுடன், யாராருக்கு மருட்சி
+ஏற்பட்டது! மருட்சி காரணமாக, கோமாளித்தனமே குறை நீக்கும்
+மருந்தெனக் கருதும் ஆசாமி முதற்கொண்டு, கோபக் கனலால்
+எதிர்ப்போரைத் தகித்துவிடலாம் எனக் கருதிய காங்கிரஸ்
+மந்திரிகள் வரையிலே, என்னென்ன பேசினார்கள்! புரட்சி,
+அவ்விதமாகவெல்லாம், அவர்கள் மனதை மருட்டி விட்டது.
+
+பிரசாரகரோ, பத்திரிகையோ, நாட்டிலே இவர்கள்மீது
+எழுந்துள்ள எதிர்ப்பையே எடுத்துக்காட்டி வருகின்றனர்;
+இவர்களாக எதிர்ப்பை உற்பத்தி செய்வதில்லை. எதிர்ப்பை
+எழுப்புவது, ஆட்சி முறைகளின் விளைவுகள், அவர்களின்
+போக்கு, பேச்சு, புதிய சட்டங்கள், புதுப்புது வரிகள். இவைகள்
+நாட்டிலே அதிருப்தியை - வெறுப்பைக் - கொதிப்பைக் - கிளப்பி,
+எதிர்ப்பு என உருண்டு திரண்டு வருகிறது. அந்த எதிர்ப்பு என்ற
+
+## Image 10: 010-b73f260509.png
+
+- Image: `sorpozhivugal/pooja_mano/010-b73f260509.png`
+
+'ல்வாலை'யின். பொறிகளைத் தாங்கி..வருவன பத்திரிகைகள்,
+பிரசாரங்கள். . பொறிகளை அணைத்து டுவது! 6 ஜ்வாலையை
+அணைத்ததாகாது.
+
+“உண்மையைக் கேள், குழந்தாய்! ஜ்வாலை விட்டு எரியும்
+பெருந் தீயிலிருந்து. நான்கு பக்கமும் பொறிகள் பறந்து செல்வது
+போல்''.. என்று. உபநிஷத்தில்...ஒரு. இடத்தில். வருவதாகக்
+கூறுகிறார்கள்.
+
+பொறிகளைக் கண்டு மருண்டு, அவைகளை: அழித்து
+விட்டால் பயனில்லை. ஜ்வாலை'. இருக்கிறது, பொறிகளை
+எண்ணற்ற. பொறிகளை. எடுத்தெடுத்து வீச!
+
+எனவே; மருட்சி கொண்டவர் செயல், ஒருபோதும்
+புரட்சியை அடக்கிவிடாது என்பதை ஆட்சி செலுத்துவோருக்கு
+நாம் எடுத்துக் காட்டுகிறோம்.
+
+## English Translation
+
+This address was delivered by Perarignar Anna on 26 October 1947, arguing that the Dravidian revolution could not be suppressed.
+
+We are engaged in the noble work of redeeming the country. “There are now only two parties here: one fighting the liberation struggle, the other imperialism; therefore, there must be no other parties,” Congress leaders used to say. They argued that political parties might exist after the country obtained freedom and the time came to govern, but not during the struggle.
+
+Today the country has obtained freedom. Yet Congress now believes no other party should exist. It wishes to rule alone, without opposition or competition, and believes that however defective its administration may be, no one should oppose it.
+
+The elation of victory is an important cause of this perverse thought, but its root lies elsewhere. Congress fears that it can govern only if everyone tolerates whatever errors it commits and no one exposes them; if many people or even a few receive an opportunity to identify defects, its grip will loosen.
+
+This tendency can injure the principle of republican government.
+
+The scholar Dr Krishnalal Shridharani has explained with sound reasons why such a tendency must not continue. A new condition has arisen in the country, he says, and democracy cannot grow if the old “attitude of worship” persists. His observations follow.
+
+## New Parties Are Necessary
+
+“At this moment of independence, we need more than one political party. Wherever a single party dominates, democracy finds its home only in a grave. This will be a great test, because during our long and severe struggle we learned to distrust every party except Congress.
+
+“But we must understand that our devotion to Congress alone arose because, until now, Congress was not a party but a movement. It functioned as a popular front under whose support diverse currents of thought united to create a common objective against foreign authority. That movement has now completed its task of freeing India from foreign domination.
+
+“At the moment of independence, Congress becomes a party and loses its form as a movement. This condition makes it necessary to establish other parties possessing different political and economic programmes.
+
+“Some of these new parties will arise from within Congress. They will also include people who never gave Congress their unwavering loyalty. Congress appears likely to divide into right and left wings, though for some time it may continue to dominate as a centrist party.
+
+## Freedom of the Press
+
+“At this moment of independence, we also need a free press. A difficult problem now arises. Some people may imagine that the instant foreign repression disappears, our newspapers automatically become free. Yet it may be possible for them to conduct themselves freely under foreign rule and difficult to do so under our own.
+
+“Our newspapers performed their duty to the nation by praising and supporting the heroes who entered the struggle against imperialists with diverse principles. That practice became a habit, and habits are difficult to change. If our newspapers continue voluntarily as publicity institutions for heroes, they will fail in their democratic duties.
+
+“In wartime it is difficult to tolerate criticism of faults. In peacetime, however, exposing faults with the intention of reforming them becomes a duty.
+
+“Only the press possesses the ability to correct the mischief—that is, the autocracy—of Government. But it possesses that power only when free. Our editors must now deal with our own leaders with the same courage they displayed toward the foreign ruling class.
+
+“This may taste bitter to some leaders, because until now their speech has met no answering speech. Yet a democratic people has the right to expect upright conduct from its leaders. No person arrogant enough to believe ‘I am everything’ can be fit to lead a democracy.
+
+“This leads to my view of hero worship. During a struggle, whether armed or nonviolent, we require a military frame of mind. Hero worship therefore intensifies. Our loyalties, previously scattered in many places, become concentrated and flow toward the one person who towers above all. His face appears everywhere we look. We attribute every virtue to him, and no one else can satisfy us.
+
+“But in ordinary times, while building democratic government, hero worship must spread in many directions instead of intensifying around one person. Until the day when all the country's people become heroes, we must have many heroes. Democracy means the greatness of the ordinary person.
+
+“As in America, we need heroes outside politics too—in art, literature, industry, the labour movement and cinema. The press can serve by creating new leaders from the new society. At present, the same familiar faces appear every day in our newspapers and only the words of the usual few leaders are published.
+
+“Enterprising and energetic reporters will discover that others too can find a place in the news and that people will read about them.
+
+“As democracy takes deeper root, the attitude of singing praise only to the great begins to diminish. As the ordinary person's importance increases, the need to compare him with ‘great men’ decreases. In America, books and newspapers describing how the ordinary person lives are as popular as books recounting the deeds of great men.”
+
+The scholar has explained that the belief that only one party should have the opportunity to rule, that it is wrong even to point out that party's errors, and that no work may be done except singing the praises of its leaders will end in dictatorship.
+
+He also explains that a person who appeared as a great hero in the liberation struggle will not necessarily remain a great hero in administration, and that commanding people never to criticise him even when he does not will certainly obstruct national progress.
+
+The author was not conducting an opposition party against Congress. He reached these conclusions by studying world conditions and systems of government. But Congress people here believe the right to rule belongs to them forever. While they possess power, they have also developed the desire to use the severest measures to protect that position and make it impossible for any opposition party to Congress to exist. Their speech and conduct accord with that desire.
+
+“We are going to seize all these people and put them in jail” has become an ordinary platform declaration for Congress propagandists.
+
+Congress people now find new delight in threatening: “Look, we have sent a telegram to the minister. You will see an arrest warrant issued by tomorrow.”
+
+Because they once suffered and were attacked by repression, when they receive an opportunity to rule they easily develop the desire that others must fear them and that they must suppress and govern others.
+
+Ordinary people may imagine that possession of power is permanent. Yet before one Ministry had even completed its lawful lifespan, darkness fell upon Prakasam and Omandur Ramasamy Reddiar came to light; change overtook the Ministry itself. If that position was impermanent, on what basis can Congress conclude that its rule will last forever? They do not even consider the question.
+
+Repression is a curious force. At first it increases the delight of those who use it. When a man takes a whip, strikes a bull's back with a crack and sees it leap and run faster, he feels pleasure. Likewise, one kind of delight arises when repression is hurled at opponents and their suffering is witnessed.
+
+Similarly, the first attack brings the victim chiefly sorrow, grief and bewilderment. He thinks, “The other man possesses authority; what can I do against him?”
+
+But if the whip must be used repeatedly, and each time the bull not only leaps but has to be driven ever faster, the pleasure of the first blow withers. Weariness arises: “What a nuisance this has become.” The same happens to the user of repression even while the whip remains in his hand.
+
+The delight felt at the beginning disappears when he is compelled to use it again and again. Weariness appears, along with fear: how long can rule be sustained by repression alone?
+
+Likewise, those who grieved and stood bewildered after the first assault will, if subjected to repeated attacks, lose their grief and bewilderment. New determination and power of resistance will arise.
+
+Such are the effects of the curious force called repression.
+
+There is a Greek story of a young woman who died in the grip of a tyrant while repeating, “Dying is not so difficult.” Her words fell upon her husband's ears. The bright-eyed woman said it even as she died: “Dying is not so difficult.” He thought, “I considered surrendering to the tyrant because I feared death. Shame! I am a coward. This cowardice must not continue.” He fought fiercely and drove away the tyrant.
+
+Likewise, when a party in power attacks the opposition through repression, once that attack has been endured, we ourselves will marvel at the form of the new strength that arises.
+
+The rulers possess no time to study this character of repression. Therefore, they declare, “We have set out to rule; henceforth we shall permit no other party to exist in the country.”
+
+Every autocrat in history has imagined that those who submit to his domination are good children and everyone else insolent. The Tsar who turned Russia into a battlefield thought so too. Minor deities possessing petty authority think likewise. They become irritated at the very word “opposition,” arrogantly determine to destroy it and imagine that courage consists in adopting any cruel or degrading method. In fact, all such actions are acts of cowardice.
+
+If they believed opposition lacked strength and therefore could not gain popular support, if they trusted that no amount of opposition could reduce their influence, and if they possessed the courage to make people understand the truth about them, no one would pounce upon opposition and attempt to beat it out of existence the moment it appeared.
+
+The beauty of a hero lies in fighting without regard for any danger that confronts him. The coward's doctrine is to panic at opposition, ask what fate awaits him and dare even criminal acts. The former ultimately won and the latter ultimately failed; that is why at least some justice and honesty remain in the world today.
+
+Revolution is a force in motion. No one can crush it. It arises from the people's power to struggle. Revolution is a quality of youth and a weapon of rationalists; it is poison to lovers of antiquity, frauds, autocrats and dictators. That is why such people become alarmed at the very word.
+
+When a cyclone comes, even tall, long-grown trees sway, whirl, break at the root, fall and shatter. Likewise, unable to withstand the speed of revolution, many autocrats who possessed every weapon—army, treasury, pride, deceit, arrogance and conceit—and boasted that none equalled or surpassed them have stumbled, been struck and rolled downward.
+
+Thus everyone following their path is alarmed by revolution. Alarm will not protect them. An alarmed person may perform many cruel deeds without shame, but none will prevent him from being caught in the revolutionary storm. That is history.
+
+When autocrats obtain political authority, they use laws to suppress revolution. If they possess military strength, they shoot revolutionaries. If they possess neither, but are sages said to have existed in our ancient country, they pronounce a curse.
+
+Today Gandhi and his priests, regarded as descendants of that “sage tradition,” wield the staff called disciplinary action. People possessing nothing at all try to display their cleverness by whatever means they can.
+
+Did they not imagine they could suppress opposition to Hindi? Did the priests of the Madurai temple not imagine that if they locked the temple doors, hid the keys and concealed themselves, temple entry would cease altogether? Why are such farcical methods adopted? Their mental alarm is the cause. Such is the power of revolution.
+
+When the Self-Respect Movement began, introduced many new ideas and kindled revolution, how many people became alarmed. How much they capered and shouted, and how many degrading methods they adopted because of that alarm.
+
+Likewise, when the revolutionary song “Tamil Nadu for the Tamils” was sung, how many became alarmed. From the man who believed buffoonery was the cure for every grievance to Congress ministers who imagined the fire of their anger could scorch opponents, what did they not say? Revolution unsettled their minds in every such way.
+
+Propagandists and newspapers merely show the opposition that has arisen against the rulers; they do not manufacture it. Opposition is generated by the consequences of administration, by the rulers' conduct and speech, and by new laws and new taxes. These kindle dissatisfaction, hatred and anger throughout the country, which roll together into opposition.
+
+Newspapers and propaganda carry the sparks of that flame called opposition. Extinguishing the sparks does not extinguish the flame.
+
+“Hear the truth, child. As sparks fly in all directions from a great blazing fire...” is said to appear in an Upanishad.
+
+There is no use becoming alarmed by the sparks and destroying them. The flame remains, ready to cast out sparks—countless sparks.
+
+We therefore demonstrate to those who govern that action born of alarm can never suppress revolution.
+
+## Translator's Notes
+
+The source combines Anna's framing and conclusion with a long attributed discussion by Dr Krishnalal Shridharani. The translation preserves the shift through quotation and section headings.
+
+“பூஜா மனோபாவம்” denotes an attitude or cult of worship directed toward parties and heroic leaders, not merely formal religious ritual.
+
+The OCR phrase “பிரச்சாரம் இருண்டு, ஓமாந்தூரார் ஒளிவிடும்” probably contrasts the fall of the Prakasam Ministry with the rise of Omandur Ramasamy Reddiar; the translation follows that political context while retaining the source verbatim.
+
+The final flame-and-sparks image distinguishes newspapers and propaganda, which carry visible signs of opposition, from the underlying political dissatisfaction that produces them.

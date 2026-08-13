@@ -1,0 +1,131 @@
+# வாழ்விக்கவ சட்டம் வாடச் செய்ய அல்ல7 / Law Exists to Sustain Life, Not to Make It Wither!
+
+**Tamil title:** வாழ்விக்கவ சட்டம் வாடச் செய்ய அல்ல7  
+**English title:** Law Exists to Sustain Life, Not to Make It Wither!  
+**Source file:** `katturaigal/vazhvikkavae.md`
+
+## Source Tamil (verbatim)
+
+- Source image folder: `/Users/pugazhendhirajendran/Documents/Codex/2026-07-09/https-www-annavinpadaippugal-info/outputs/annavin_text_extractor/ocr_images/katturaigal/vazhvikkavae`
+- OCR language: `tam`
+- Tesseract page segmentation mode: `3`
+- OCR cleanup: `enabled`
+
+## Image 1: 001-0c0edae1f3.png
+
+- Image: `katturaigal/vazhvikkavae/001-0c0edae1f3.png`
+
+725. வாழ்விக்கவ சட்டம்
+வாடச் செய்ய அல்ல7
+
+வகுப்பு நீதி வழக்கு முன்னேற்பாட்டு தந்திரம்
+சமூக நீதி வழங்குக, தயங்கினால் கிளர்ச்சிதான்
+
+சி, என். ௭. வேண்டுகோள்
+
+சமூகநீதி வழங்குவதற்குச் சாதகமாக அரசியலமைப்பைத்
+திருத்தியமைக்க வேண்டும் அதற்கான முயற்சிகளில் ஆளவந்தாரும்
+அவரைச்சார்ந்தோரும் தயங்குதல் தகாது; தயங்கினால் நாட்டில் கிளர்ச்சிக்கு
+வித்தூன்றுவதாகும்'' என்று சென்னையில் ஆக 2-ந் தேதியன்று மாணவர்கள்
+வேலை நிறுத்தப் பொதுக்கூட்டத்தில் பேசிய திராவிட முன்னேற்றக் கழகப்
+பொதுச் செயலாளர் சி.என். அண்ணாதுரை வெளியிட்டார். மேலும் :
+பேசுகையில் அவர்கூறியதாவது, ''தமிழர் வீரம் நிறைந்தவர்கள் - அவர்களது
+வீரம் இமயத்தில் கொடி பொறித்தது! கடல் கடந்து கப்பலோட்டி வியாபாரம் '
+நடத்தியோர் தமிழர்! ஐம்பெருங்காப்பியங்களைத் தந்தது தமிழரின்
+கலைப்பண்பு! தமிழர்கள் நாகரிகம் தன்னிகரில்லாதது - தனிப்
+பெருமையுடையது! ஆனால் ஆரியம் தந்த நாகரிகம், அது புகுத்திய
+முறைகள் தமிழ்நாட்டைச் சீர்குலைத்தன. பார்ப்பனீயக் கோட்பாடுகள்
+மக்களை மூடநம்பிக்கைக்கு இரையாக்கிற்று - அறியாமைப் படுகுழியில்
+தள்ளியது, தமிழனை வீழ்த்தியது! வீரனை கோழையாக்கியது!!'' என்று
+.. குறிப்பிட்டார்.
+
+பார்ப்பனீயம் தமது ஆதிபத்யத்தை மக்களிடம் நீடிக்கச் செய்யும்
+வகையில் அன்று தொட்டு கையாண்டு வந்திருக்கும் குழ்ச்சித்திட்டங்கள்
+குறித்து. சி.என்.ஏ. குறிப்பிடுகையில் ஆங்கிலத்தை மிலேச்சபாஷை என்று
+
+## Image 2: 002-610911c1bc.png
+
+- Image: `katturaigal/vazhvikkavae/002-610911c1bc.png`
+
+கூறினர். அதைப் படிக்கலாமோ, நீங்கள்' என்று உபதேசம் செய்தனர். நமக்கு
+அந்த ஞானோபதேசம் செய்தனர் - அதை நம்பிய நம்மனோர் கெட்டனர்!
+ஆனால் அதே நேரத்தில் அவர்கள் அந்த மிலேச்ச பாஷையைக் கற்கத்
+தவறவில்லை. படித்தார்கள்! கல்விபீடத்தைப் பிடித்துக் கொண்டார்கள்! இதன்
+விளைவாக எங்கும் அவர்கள் ஆதிக்கம் பரவியது. அதிகாரத்திலே அவர்கள்!
+விஞ்ஞானத்துறையிலே அவர்கள்! வெளிநாட்டிலே, உலவினர்!
+பொருளாதார அறிஞர்களாச மாறினர்! 'எங்கும் அவர்கள் மயம்' ஏற்பட் டது!
+
+ஆனால். மிலேச்ச பாஷையைப் படியாதீர்!''என்ற இதோபதேசத்தைக்
+கேட்ட தமிழர் கெட்டனர். முன்னேற்றுவதற்கான வழி வகைகளை இழந்தனர்,
+ஏமாந்தனர்! இதை மீட்டு, ஏமாந்தோரும் ஏற்றங் காணவேண்டுமென்னும்
+பெரு நோக்குடன் கொண்டு வரப்பட்டது தான் வகுப்புவாரி பிரதிநிதித்துவ
+முறை. இதை, நாம் கைவிட்டோமானால் தமிழகம் தாழ்ந்தது - அழிந்தது -
+ஒழிந்தது!" என்று ஆத்திரத்தோடு கூறினார்.
+
+சட்டத்தையும் தங்கள் தந்திரத்தையும் கொண்டு எதையும் சாதித்துக்
+கொள்ளமுடியுமென்று 'அவர்கள்' நினைப்பார்களேயானால் அவர்களுக்கு
+இப்போதே தான் எச்சரிக்க விரும்புகிறேன். பின், 'வல்லோன் வகுத்ததே
+வாய்க்கால்' என்ற முறையைப் பின்பற்றத் தயங்கமாட்டார்கள், ஏமாற்ற
+- மடைந்தோர். அந்நிலை ஏற்பட வேண்டுமென்று நாட்டு நலனில் ௮க்கறை
+கொண்டோர் விரும்பமாட்டார். ஆகவே, இன்று தீர்ப்பு கிடைத்த
+மகிழ்ச்சியால் நம்மை ஏளனத்தோடு, ஏறெடுத்துப் பார்க்கும் அவர்களை நான்
+கேட்டுக்கொள்கிறேன். எல்லோருக்கும் சமநீதி வழங்கும் வகுப்புவாரி முறை
+ஒழிந்தது என்று எக்காளமிடவேண்டாம். எதிர்காலத்தைப்பற்றி
+எண்ணுங்கள். தமிழகத்தில் தென் ஆப்பிரிக்கா ஏற்படக் கூடாது என்பதை
+நினையுங்கள். பெரும்பான்மைச் சமூகத்திற்குத் துரோகம் செய்யும் சட்டத்தை
+மாற்ற வாருங்கள். மூன்னணியிலிருந்து, சட்டத்தைத் திருத்தும், முயற்சிக்கு
+வழிகாட்டியாயிருங்கள்'' என்று பார்ப்பனர்களை நோக்கி அறைகூவி
+அழைத்தனர்.
+
+மேலும் பேசியபோது, ''இது திடீர் நிகழ்ச்சி அல்லவென்றும், நீண்ட
+நாளாகவே கட்டுப்பாட்டோடும் சூழ்ச்சியோடும் செய்யப்பட்ட ராஜதந்திரம்
+
+என்றும், இதை ஆதரிக்கச் சட்டம் இருக்கிறது என்றும், அந்தச் சட்டத்தை
+
+## Image 3: 003-4d29b3cfc6.png
+
+- Image: `katturaigal/vazhvikkavae/003-4d29b3cfc6.png`
+
+. -மாற்றநமக்கு உரிமை இருக்கிறது என்றும், மக்கள் எல்லோரும் சமத்துவமாக
+வாழ வழி செய்வதற்குத்தான், சட்டமும் நீதி மன்றமும் தேவை என்றும்,
+மக்கள் மன்றத்தின் தீர்ப்பு சட்ட மன்றத்தின் தீர்ப்பையும் மாற்றும்
+வலிமையுடையதென்றும், மாணவர்கள், நல்லறிவு பெற்றவர்களாகையால்,
+அவர்கள், சமூக நீதியை நிலைநாட்ட எத்தகைய தியாகத்திற்கும் தயாராக
+இருக்கவேண்டும் எனவும், கேட்டுக்கொண்டதோடு மாணவர்களின்
+எழுச்சியையும் பாராட்டி, தொடர்ந்து பணியாற்றக் கேட்டுக்கொண்டார்
+
+(திராவிடநாடு - 68.50)
+
+## English Translation
+
+## The Communal-Justice Case Was a Prearranged Manoeuvre: Grant Social Justice, or Hesitation Will Bring Agitation
+
+### An Appeal by C. N. A.
+
+"The Constitution must be amended in a manner favourable to providing social justice. The rulers and those associated with them must not hesitate in undertaking that effort. If they hesitate, they will sow the seeds of agitation in the country," declared C. N. Annadurai, General Secretary of the Dravida Munnetra Kazhagam, while speaking at a public meeting connected with the students' strike in Madras on the 2nd.
+
+He continued:
+
+"Tamils are filled with valour; their courage engraved a flag upon the Himalayas. Tamils sailed ships across the seas and conducted trade. The artistic culture of the Tamils produced the five great epics. Tamil civilisation is incomparable and possesses a distinctive greatness.
+
+"But the civilisation given by Aryanism and the practices it introduced disordered Tamil Nadu. Brahminical doctrines made the people prey to superstition, cast them into the abyss of ignorance, and brought the Tamil down. They turned the hero into a coward."
+
+Referring to the schemes Brahminism had long employed to perpetuate its domination over the people, C. N. A. said:
+
+"They called English a language of the *mlechchas* and preached to us, 'May you study it?' They gave us that sermon of wisdom, and our people who believed it were ruined. At the same time, they themselves did not fail to learn that supposedly alien language. They studied it and seized the seats of education. As a result, their domination spread everywhere. They occupied authority, entered science, travelled abroad, and became economic experts. Everywhere became filled with them.
+
+"But the Tamils who obeyed the sermon, 'Do not study the alien language,' were ruined. They lost the means of advancement and were deceived. The system of communal representation was introduced with the great purpose of reversing this and enabling those deceived people to rise. If we abandon it, Tamil Nadu will be lowered, destroyed, and abolished."
+
+He said angrily:
+
+"If 'they' imagine that they can achieve anything through the law and their stratagems, I wish to warn them now. Later, those who have been deceived will not hesitate to follow the principle that the channel takes the course laid down by the powerful. No one concerned for the country's welfare will desire that condition.
+
+"Therefore, I ask those who now look upon us with mockery because of their joy over today's judgment: do not trumpet that the communal system providing equal justice to all has been abolished. Think of the future. Remember that a South Africa must not arise in Tamil Nadu. Come forward to change the law that betrays the majority community. Stand in the front rank and guide the effort to amend the law."
+
+He thus issued a call to Brahmins.
+
+Speaking further, he said this was not a sudden event but a political manoeuvre carried out over a long period with discipline and intrigue. There was a law supporting it, and the people had the right to change that law. Law and courts were needed to enable all people to live equally, and the judgment of the people's forum possessed the strength to change even the judgment of the legislature.
+
+He asked students, as people of sound understanding, to be prepared for any sacrifice necessary to establish social justice. He commended their awakening and asked them to continue their work.
+
+(*Dravida Nadu*, 68.50)

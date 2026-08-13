@@ -1,0 +1,1 @@
+../../md_pages/kadithangal/kuruthi_kalantha_mann.md

@@ -1,0 +1,1 @@
+../../md_pages/katturaigal/blessed_the_spot.md

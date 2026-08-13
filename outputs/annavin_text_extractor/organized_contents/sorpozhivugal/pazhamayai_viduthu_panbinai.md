@@ -1,0 +1,1 @@
+../../md_pages/sorpozhivugal/pazhamayai_viduthu_panbinai.md

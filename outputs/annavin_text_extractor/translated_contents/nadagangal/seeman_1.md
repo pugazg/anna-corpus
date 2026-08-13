@@ -1,0 +1,370 @@
+# ‘சீமான் சந்தர்ப்பவாதி’ / The Opportunist Magnate
+
+**Tamil title:** ‘சீமான் சந்தர்ப்பவாதி’  
+**English title:** The Opportunist Magnate  
+**Source file:** `nadagangal/seeman_1.md`
+
+## Source Tamil (verbatim)
+
+- Source image folder: `/Users/pugazhendhirajendran/Documents/Codex/2026-07-09/https-www-annavinpadaippugal-info/outputs/annavin_text_extractor/ocr_images/nadagangal/seeman_1`
+- OCR language: `tam`
+- Tesseract page segmentation mode: `3`
+- OCR cleanup: `enabled`
+
+## Image 1: 001-1f27036090.png
+
+- Image: `nadagangal/seeman_1/001-1f27036090.png`
+
+‘சீமான் சந்தர்ப்பவாதி’
+
+சீமான் சந்தர்ப்பவாதியின் சிங்கார மாளிகைக் கூடத்திலே,
+வெலிங்டன் படம் ஒரு புறத்திலும், விசுவாமித்ரா - மேனகா படம்
+மற்றொரு புறத்திலும், தோட்டக் கச்சேரிக் காட்சியும், துரைமாரிடம்
+கைகுலுக்கிய காட்சியும் காட்டும் படங்களும் இருந்தன; அது,
+முன்பு!
+
+இப்போது, சீமான் சந்தர்ப்பவாதி, ஜில்லா காங்கிரஸ்
+போஷகர், தாலுக்கா காங்கிரஸ் பொக்கிஷதார், நகர காங்கிரஸ்
+தலைவர், மாகாண காங்கிரசுக்குப் பயணமாகி மந்திரி வேலையை
+எட்டிப் பிடிக்க வேண்டியவர்!
+
+சீமான் சிறிதளவு சஞ்சலத்துடன், கடிகாரத்தைப் பார்ப்பதும்,
+நுழைவு வாயிலை நோக்குவதுமாகவே இருந்தார் - உள்ளே
+நுழைந்தான் வேலையாள்.
+
+“என்னடா”
+
+“கிடைக்கலிங்க...”
+
+“மடையா... கடை வீதியிலே போய்ப் பார்த்தாயா... பொட்டைக்
+கண்ணா! சரியாகப் பார்த்துத் தொலைத்தாயா.”
+
+“பார்த்தேனுங்க... ஒரு கடையிலே கூட இல்லிங்க.”
+
+“படக் கடையிலே?”
+
+“இல்லிங்க! கதர்க்கடை ஐயரைக் கூடக் கேட்டேன் -
+இரவலாகவாவது கொடுக்கச் சொல்லி...”
+
+“என்ன சொன்னாரு?”
+
+“விழுந்து விழுந்து சிரிக்கிறாரு... அந்தப் படம் இங்கே
+ஏதுடான்னு கேட்கிறாரு...”
+
+“பெரிய கடைவீதி பூராவிலுமா இல்லே...”
+
+## Image 2: 002-b76c87cc09.png
+
+- Image: `nadagangal/seeman_1/002-b76c87cc09.png`
+
+“இல்லிங்க... போசு படம் இருக்குதுங்க... தாகூர் படம்
+கிடைக்குது - பிரசாது படம் பார்த்தேனுங்க... விவேகானந்தரு
+படம் கிடைக்குதுங்க.”
+
+“வெங்காயம் கிடைக்குது - ஒரு கடையிலுமா, காமராஜர்
+படம் கிடைக்கல்லே.”
+
+“இல்லிங்களே...”
+
+“என்னடா பெரிய இழவாப் போச்சு... இன்னும் ஒரு அரை
+மணி நேரத்திலே வந்திடுவாங்களே... ஏலே! டேய்! ஓடிப்போயி
+காங்கிரஸ் கமிட்டி ஆபீசிலே...”
+
+“இருக்குதான்னு பார்க்கச் சொல்றீங்களா? பார்த்தாச்சிங்க...
+கிடையாதுங்க...”
+
+“நாசமாப் போச்சி...”
+
+“ஐயாமாரெல்லாம் வருகிறாங்க...” என்று கூறிக்
+கொண்டு கணக்கப்பிள்ளை உள்ளே நுழைகிறார். சீமான்
+வேலையாளை வெளியே விரட்டி விட்டு முகத்தை மலரச் செய்து
+கொள்கிறார். உள்ளே கதராடைக் கனவான்கள் வருகிறார்கள்.
+
+சீமான்: வாங்க! வாங்க! நமஸ்காரமுங்க... நமஸ்காரம்...
+இப்படி... இந்தச் சோபாவிலே...
+
+ஒருவர்: நமஸ்தே! நமஸ்தே!
+
+மற்றொருவர்: வந்தே மாதரம்.
+
+மூன்றாமவர்: நீங்க உட்காருங்க...
+
+சீமான்: பரவாயில்லிங்க...
+
+நான்காமவர்: சிவ! சிவா! நீங்க நிற்கறது, நாங்களெல்லாம்
+உட்காருவதா, செச்சேச்சே! உட்காருங்க.
+
+சீமான்: ஆகட்டுங்க...
+
+முதலாமவர்: (ஒருவரைக் காட்டி) இவர்தான்...
+
+சீமான்: இதென்னாங்க அறிமுகப்படுத்தவேணுமா! உலக
+மறிந்தவர் ஊராள்றவரு, அவரைத் தெரியாதவங்களும் உண்டா?
+நம்மைப்பத்திச் சொல்லுங்க அவருக்கு.
+
+முதலாமவர்: சொல்லித்தானே அழைத்து கொண்டு
+வந்திருக்கிறேன் - உங்களோட தயாள குணத்தையும், தர்ம சிந்தனை
+யையும், காங்கிரஸ் பக்தியையும் கேள்விப்பட்ட பிறகுதான், அவர்
+தம்முடைய பல வேலைகளை விட்டுவிட்டு வந்தார்.
+
+## Image 3: 003-6eb5d59d26.png
+
+- Image: `nadagangal/seeman_1/003-6eb5d59d26.png`
+
+சீமான்: என் பாக்யம்னுதான் சொல்லோணும்... பாருங்க,
+இங்கே ஒரு தொண்டன், இந்த மாதிரி ஆளுக வீட்டுக்கு எங்க
+தலைவரு வரவே மாட்டாருன்னு, கடை வீதியிலே பேசிவிட்டி
+ருக்கான். கண்டபடி என்னைப்பத்தி, இல்லாததும் பொல்லாதுமாப்
+பேசினானுங்க.
+
+மற்றவர்: தள்ளுங்க குப்பையிலே... தடியடிபட்டேன்...
+ஜெயிலுக்குப் போனேன். நான் தியாகி, தேசபக்தன், அப்படி
+இப்படின்னு சொல்லிக்கொண்டே காலத்தை ஓட்டலாம்னு பார்க்கிற
+வனுங்க அவனுங்களெல்லாம். அவனுங்க பேச்சை விட்டுத்
+தள்ளுங்கள்.
+
+சீமான்: எதுக்கும் கொஞ்சம் அடக்கி வைக்க வேணுமுங்க,
+இந்த மாதிரி அரட்டைகளை.
+
+ஒருவர்: சரி... அதை எல்லாம் நாம், சாவதானமாய்ப் பேசிக்
+கொள்வோம் - இப்ப, வந்திருக்கிற விஷயத்தை...
+
+சீமான்: சொல்லுங்கள்...
+
+ஒருவர்: நான் இவரை, வேறே எந்த இடத்துக்கும் வர
+வேண்டாம், அதை எல்லாம் நாங்க பார்த்துக் கொள்றோம்னு
+சொல்லி, இங்கே மட்டும் வந்தாப் போதும்னு சொல்லி...
+
+சீமான்: ரொம்ப சந்தோஷமுங்க...
+
+மற்றவர்: பேப்பர்லே பார்த்திங்களெல்லோ...
+
+சீமான்: ஐயா, இங்கே வருகிறார் என்கிற சேதிங்களா?
+காணோமே...
+
+ஒருவர்: அதல்ல... ஆவடி காங்கிரசு பற்றி...
+
+சீமான்: அதுங்களா... ஒவ்வொரு நாளும் வருதுங்க...
+படிக்கப் படிக்கப் பிரம்மானந்தமா இருக்குதுங்க...
+
+மற்றவர்: செலவு ஏராளமா இருக்குது...
+
+சீமான்: இதென்னாங்க பிரமாதம்... பிரம்மா நினைச்சா
+ஆயுசுக்குக் குறைவான்னானாம், அதுபோல, நம்ம தலைவரு மனசு
+வைச்சா தீர்ந்தது. பட்ஜட்டிலேயே ஒரு பத்து இலட்சம் ஒதுக்கி
+விட்டாப் போகுது...
+
+மற்றவர்: அப்படிச் செய்யலாமா... அதிகாரம் இருக்குன்னு
+வையுங்க... எதிர்த்துக் கேட்கவும் ஆள் எவன் இருக்கான்...
+ஆனாலும், நாம் அப்படிச் செய்யப்படாது பாருங்க... அதனாலே
+தான், பணம் ‘தண்டி’... பிரமாதமா நடத்திக்காட்டறதுன்னு தீர்மானிச்
+சாச்சி... உங்களிடமிருந்து, ஐயா, ஒரு இருவது எதிர்பார்க்கிறாரு...
+
+## Image 4: 004-d61999413e.png
+
+- Image: `nadagangal/seeman_1/004-d61999413e.png`
+
+சீமான்: நீங்க ஒரு வேடிக்கை... டாட்டாவும், பிர்லாவும்
+தரலாம்... நான் என்னங்க, தகரக் குவளை... என் சக்திக்கு
+ஏற்றதை நான் தருவேனுங்க...
+
+மற்றவர்: அனுமாருக்கு, அவரோட சக்தி அவருக்குத் தெரியா
+தாம்... பிறர் சொன்னாத்தான் தெரியுமாம்... கடலைப் பார்த்ததும்
+கலங்கிப் போனாராம், இதை எப்படித் தாண்ட முடியும்னு...
+ஜாம்பவான் சொன்னாராம்... அனுமான்! தாண்டு, உன்னாலே
+முடியும்னு... தாண்டினார்! இராமாயணம் கேட்டிருக்கேன். அது
+போல, உங்களோட சக்தி உங்களுக்குத் தெரியாது. நாங்கதான்
+சொல்ல வேணும். இருவதுக்குக் குறைஞ்சா இவர் வந்ததுக்கும்
+கௌரவமல்ல... உங்கள் யோக்யதைக்கும்...
+
+சீமான்: பிடிவாதம் செய்யாதிங்க... பெரியவரை எதிரே
+வைத்துக் கொண்டு, என்னோட மானத்தைக் கெடுத்துப் போடா
+திங்க... இந்த வருஷம் ரொம்ப ‘டல்லு’ங்க... வியாபாரம்
+சரியில்லை... நம்ம ஆபீசருங்களும் புலியாப் பாயறாங்க...
+மேலே விழுந்துக்கறாங்க. எந்த மாதிரியா எழுதினாலும், அவங்க
+கண்ணுக்குத் தப்புக் கணக்காத்தான் தெரியுது... நான் இதைப்
+பத்தி தலைவரிடமே வந்து சொல்லணும்னு எண்ணிக் கொண்டி
+ருந்தேன்... ஏதோ என் அதிர்ஷ்டம் அவரே வந்திருக்காரு...
+
+ஒருவர்: உங்களுக்கு வேண்டியதை நான் கவனித்துக் கொள்
+கிறேன் - அதைப்பத்தி இப்ப பேசத் தேவையில்லை...
+
+சீமான்: சரிங்க... நல்ல காரியம் நடக்கப் போகுது.
+நம்மோட கஷ்டத்தைக் கவனிக்கப்படாது. ஒரு அஞ்சு அனுப்பி
+விடறேன்.
+
+ஒருவர்: அதென்னங்க அஞ்சும் பிஞ்சும்...
+
+சீமான்: உங்களண்டை சொல்றதிலே தப்பு என்னங்க,
+அந்த அஞ்சுக்கே நான் அகர்சந்துகிட்டேதான் போக வேண்டி
+இருக்கு...
+
+ஒருவர்: இதுபோலப் பேரம் பேசப் போறது தெரிஞ்சிருந்தா...
+இவரை அழைத்துக் கொண்டு வந்திருக்க மாட்டோம்.
+
+அவர்: பரவாயில்லை... எனக்கு ரொம்ப நாளா இவரைப்
+பார்க்க வேணும்னு எண்ணம். பணம் கொடுத்தாத்தானா! அது
+அவர் சவுகரியம்... பத்து கொடுக்கிறவங்க ‘லிஸ்டு’ ஒண்ணு
+பண்டித நேருவுக்குப் போவுது... அதிலே இவர் பெயர் இருக்க
+வேணும் என்பது என் ஆசை...
+
+## Image 5: 005-5d337e940f.png
+
+- Image: `nadagangal/seeman_1/005-5d337e940f.png`
+
+சீமான்: அப்படிங்களா... நீங்க உத்தரவு போடுங்க...
+நான் மீறவா போறேன். ஐயா! கணக்கப் பிள்ளை!
+
+(கணக்கப்பிள்ளை வருகிறார். அவரிடம் இரகசியமாகச் சீமான்
+பேசுகிறார். அவர் போன பிறகு, சமையல் ஐயர் வருகிறார்.
+‘பாதாம்கீர்’ அனைவருக்கும் தரப்படுகிறது.)
+
+எங்கு? எப்போது? என்றெல்லாம் கேட்டு என்னைச்
+சங்கடத்தில் இழுத்துவிடாதே தம்பி. ஆவடியில் கூடினரே
+காங்கிரசார், அப்போது, இதுபோலெல்லாம் பணம் திரட்ட
+முடிந்தது - எளிதாக. ஆவடியிலிருந்து இப்போது அமிர்தசரஸ்
+சென்றுள்ளனர்.
+
+ஆளும் கட்சியாகக் காங்கிரஸ் மாறுவதற்கு முன்பே கூட,
+தேசியப் போராட்டம், ‘இந்திய முதலாளிகளுக்கு’ச் சாதகமான
+சூழ்நிலையை உண்டாக்கும் என்பதை அறிந்து ‘பிர்லாக்கள்’,
+காங்கிரஸின் போராட்டங்கள், கிளர்ச்சிகள், தேர்தல்கள், மாநாடுகள்
+ஆகியவற்றுக்கெல்லாம் தாராளமாகப் பணம் கொடுத்தனர்;
+விதைக்கிறோம், அறுவடை ஆனந்தமாகப் பிறகு கிடைக்கும் என்ற
+நம்பிக்கையுடன்.
+
+பிர்லா என்று நினைக்கிறேன், ஒரு சமயம் காந்தியாருக்கு,
+ஒரு கடிதமும், கையொப்பமிட்ட, ஆனால் தொகை மட்டும் குறிப்
+பிடாத ‘செக்’கும் அனுப்பினாராம்.
+
+மகாத்மாஜி, காங்கிரஸ் பணிக்காக, என்னிடம் தாங்கள்
+பணம் கேட்டதுபோல நான் நேற்று ஒரு கனவு கண்டேன்
+என்றும் பிர்லா எழுதியிருந்தார்.
+
+8-4-1956.
+
+* * * * *
+
+## English Translation
+
+In the ornate hall of the Opportunist Magnate's mansion, there had once been a portrait of Wellington on one side and a picture of Viswamitra and Menaka on the other, together with pictures of a garden concert and of hands being shaken with British gentlemen. That was formerly!
+
+Now the Opportunist Magnate is patron of the District Congress, treasurer of the Taluk Congress, president of the Town Congress, and a man who must travel onward into the Provincial Congress and seize a ministerial post!
+
+Somewhat agitated, the Magnate alternately looks at the clock and towards the entrance. A servant comes in.
+
+“Well?”
+
+“Couldn't find one, sir...”
+
+“Idiot! Did you look in the bazaar? You blind fool! Did you search properly?”
+
+“I looked, sir. Not a single shop has one.”
+
+“At the picture shop?”
+
+“No, sir! I even asked the gentleman at the khadi shop to lend us one.”
+
+“What did he say?”
+
+“He doubled over laughing. He asks how that picture could be found here.”
+
+“Not anywhere in the whole main bazaar?”
+
+“No, sir. There are pictures of Bose. Tagore's picture is available. I saw Prasad's picture. Vivekananda's picture is available too.”
+
+“Onions are available! Yet not one shop has a picture of Kamaraj?”
+
+“No, sir...”
+
+“What a damned predicament! They will arrive in another half-hour. Hey! You! Run to the Congress Committee office...”
+
+“To ask whether they have one, sir? I already looked. They don't.”
+
+“We're ruined...”
+
+Saying, “All the gentlemen are arriving,” the accountant enters. The Magnate drives the servant out and makes his face bloom into a smile. Gentlemen clad in khadi enter.
+
+**Magnate:** Welcome! Welcome! Namaskaram... Namaskaram... This way, upon this sofa...
+
+**One:** Namaste! Namaste!
+
+**Another:** Vande Mataram.
+
+**Third man:** Please sit down.
+
+**Magnate:** It is quite all right.
+
+**Fourth man:** Siva! Siva! You stand while all of us sit? Shame, shame! Please sit.
+
+**Magnate:** Very well.
+
+**First man:** (pointing to someone) This is...
+
+**Magnate:** What is this? Does he need an introduction? He is known to the world and governs the town. Can anyone fail to know him? Tell him about me.
+
+**First man:** I told him before bringing him. Only after hearing of your generous nature, charitable mind and devotion to Congress did he set aside his many duties and come here.
+
+**Magnate:** I must call it my good fortune. Look, a party worker here has been proclaiming in the bazaar that our leader would never visit the homes of people like this. He has spoken recklessly about me, inventing every kind of slander.
+
+**Another:** Throw him into the rubbish heap. “I was beaten with sticks, I went to prison, I am a martyr and a patriot”: fellows like him think they can spend their lives repeating such things. Disregard their talk.
+
+**Magnate:** Such prattle ought to be suppressed a little, in any case.
+
+**One:** Yes. We shall discuss all that at leisure. Now, about the matter that brought us here...
+
+**Magnate:** Please tell me.
+
+**One:** I told him he need not go anywhere else, that we would take care of all that, and that it would be enough if he came here alone...
+
+**Magnate:** I am very pleased.
+
+**Another:** You saw it in the newspapers, did you not?
+
+**Magnate:** The news that the gentleman was coming here? I did not see it.
+
+**One:** Not that. About the Avadi Congress.
+
+**Magnate:** Oh, that. It appears every day. Reading it gives me greater and greater divine bliss.
+
+**Another:** The expenditure is enormous.
+
+**Magnate:** What is so remarkable about that? They say that if Brahma willed it, there would be no shortage of lifespan. Likewise, if our leader sets his mind upon it, the matter is settled. Let them allocate ten lakhs in the budget itself.
+
+**Another:** Can that be done? Granted, there is authority, and who is there to question it? Yet we ought not to do such a thing. That is why it has been decided to collect money and stage the event magnificently. The gentleman expects twenty from you.
+
+**Magnate:** You are amusing. Tata and Birla may give such sums. What am I, a mere tin cup? I shall contribute according to my capacity.
+
+**Another:** Hanuman supposedly did not know his own strength until others told him. He was dismayed on seeing the ocean and wondered how he could cross it. Jambavan said, “Hanuman! Leap! You can do it.” He leapt. I have heard the Ramayana. In the same way, you do not know your own strength; we must tell you. Anything below twenty would dishonour both his visit and your standing.
+
+**Magnate:** Do not be obstinate. Do not ruin my honour in front of this great man. This year has been very dull. Business is poor. Our officers pounce like tigers and fall upon us. However the accounts are written, they see only false entries. I had been thinking of approaching the leader about this. By some good fortune, he himself has come here.
+
+**One:** I shall attend to what you require. There is no need to discuss that now.
+
+**Magnate:** Very well. A good undertaking is about to take place; we should not dwell upon our troubles. I shall send five.
+
+**One:** What is this paltry five?
+
+**Magnate:** What is wrong in telling you? Even for that five, I must go to Agar Chand.
+
+**One:** Had we known you would bargain like this, we would not have brought him here.
+
+**The distinguished visitor:** It does not matter. For a long time I have wished to see him. Giving money is his convenience. A list of those who contribute ten will go to Pandit Nehru. My wish is that his name should appear upon it.
+
+**Magnate:** Is that so? Give the order. Would I disobey? Sir! Accountant!
+
+[The accountant enters. The Magnate speaks to him secretly. After he leaves, the cook enters and almond milk is served to everyone.]
+
+Do not draw me into difficulty, brother, by asking where and when. When the Congress assembled at Avadi, money could be collected in just this manner, and easily. From Avadi they have now gone to Amritsar.
+
+Even before Congress became the ruling party, the “Birlas,” understanding that the national struggle would create conditions favourable to “Indian capitalists,” contributed money liberally to every Congress struggle, agitation, election and conference. They did so in the confidence that they were sowing seeds from which a joyous harvest would later be obtained.
+
+I believe it was Birla who once sent Gandhi a letter together with a signed cheque upon which only the amount had been left blank.
+
+“Mahatmaji, I dreamt last night that you asked me for money for Congress work,” Birla had written.
+
+8 April 1956
+
+## Translator's Notes
+
+`சீமான்` here denotes a wealthy magnate or local notable, not a personal name. The title combines that social type with `சந்தர்ப்பவாதி`, an opportunist who changes allegiance for advantage. The requested “twenty,” “ten” and “five” are contextually large donation amounts, conventionally understood in thousands, though the source leaves the unit unstated. `பாதாம்கீர்` is almond milk or almond kheer, served to underscore the guest's privileged reception. All five scans had been falsely recorded as containing no OCR text; their Tamil was restored by comparing the images with the matching Wikisource transcription before translation.

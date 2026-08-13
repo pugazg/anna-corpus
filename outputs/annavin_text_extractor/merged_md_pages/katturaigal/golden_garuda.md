@@ -1,0 +1,1 @@
+../../md_pages/katturaigal/golden_garuda.md

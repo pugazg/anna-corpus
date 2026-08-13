@@ -1,0 +1,66 @@
+# நாகை மணி பகுத்தறிவுக் கழகம்! / Nagai Mani Rationalist Association!
+
+**Tamil title:** நாகை மணி பகுத்தறிவுக் கழகம்!  
+**English title:** Nagai Mani Rationalist Association!  
+**Source file:** `katturaigal/naagai_mani.md`
+
+## Source Tamil (verbatim)
+
+- Source image folder: `/Users/pugazhendhirajendran/Documents/Codex/2026-07-09/https-www-annavinpadaippugal-info/outputs/annavin_text_extractor/ocr_images/katturaigal/naagai_mani`
+- OCR language: `tam`
+- Tesseract page segmentation mode: `3`
+- OCR cleanup: `enabled`
+
+## Image 1: 001-a8ead45040.png
+
+- Image: `katturaigal/naagai_mani/001-a8ead45040.png`
+
+41. நாகை மணி பகுத்தறிவுக் கழகம்!
+
+சுயமரியாதை இயக்கம் துவக்கப்பட்டபோது, பல
+திக்குகளிலிருந்தும் பலமான எதிர்ப்பு ஏற்பட்டது.பிரச்சார
+மேடை அமைப்பது மிக ஆபத்தான வேலையாக இருத்த
+காலம் அது. ஊரெங்கும் எதிர்ப்பு; ஒருவனை 20%
+எதிர்ப்பல்ல ஒரு புறம் சர்க்கார், மற்றோர்...” ்
+அதிகாரிகள், பணக்காரர் வைதீகர் ஆகியோரின் அறிப்பு
+இவ்வளவுக்குமிடையே எதிர்நீச்சு, இயக்க காரியம் தன்னி
+பெரியார் செய்துவந்தபோது, அவருக்கு இருமருங்கிலும்,
+இரு சிங்கங்களென நின்றவர்கள், மாயவரம் தோழர் நடராஜன்
+
+## Image 2: 002-546fc315d1.png
+
+- Image: `katturaigal/naagai_mani/002-546fc315d1.png`
+
+அவர்களும், நாகை மணியுமாவர். இருவரும் இன்று இல்லை.
+உடற்கட்டு, உள்ள உரம், உழைப்பதில் சலியாத தன்மை
+கொண்ட அவர்களின் ஒப்பற்றத் தொண்டின் விளைவுதான்,
+இன்று தஞ்சை மாவட்டத்திலே இயக்கத்துக்குள்ள செல்வாக்கு.
+மறைந்த மணியின் நினைவுக்குறநியாக, நாகை வெளிப்
+பாளையத்தில், மணி பகுத்தறிவுக் கழகம், அமைத்து, அவர்
+ஆற்றி வந்த தொண்டினைத் தொடர்ந்து நடத்தி வருவதே,
+அவர்பால் நமக்குள்ள மரியாதையைக் காட்டும் முறையாகும்
+என்ற . நோக்குடன், நாகை திராவிடத் தோழர்கள் மேற்படி
+கழகத்தை நடத்தி வருகிறார்கள், 15-7-47 அன்று மாலை,
+நாகை அவுரித் திடலில் மணி பகுத்தறிவுக் கழக மூன்றாவது
+ஆண்டு விழா. குடந்தைத் தோழர் வி. சின்னதம்பி அவர்கள்
+தலைமையில் சிறப்புற நடைபெற்றது. தோழர்கள் மதியழகன்.
+நெடுஞ்செழியன், சம்பத், அண்ணாதுரை ஆகியோர். காலஞ்
+சென்ற மணி அவர்களின் மாண்புகளை எடுத்துரைத்துவிட்டு.
+பகுத்தறிவின் அவசியத்தைக் குறித்தும், திராவிட நாடு
+தனிநாடு ஆகவேண்டியது பற்றியும் பேசினர்.
+
+(செய்தி - திராவிட நாடு - 27-7-47
+
+## English Translation
+
+When the Self-Respect Movement began, it encountered powerful opposition from many directions. It was a time when establishing a propaganda platform was extremely dangerous. Opposition filled every town. It was not opposition from one quarter alone: on one side stood the Government, and on another officials, rich men, and orthodox forces.
+
+Amid all this hostility, while Periyar swam against the current and conducted movement work, two men stood on either side of him like two lions: Comrade Natarajan of Mayavaram and Nagai Mani. Neither is alive today.
+
+The influence the movement now possesses in Thanjavur district is the fruit of their incomparable service, bodily strength, firmness of heart, and tirelessness in labour.
+
+Believing that the proper way to show respect for the late Mani was to establish the Mani Rationalist Association at Velippalayam in Nagapattinam and continue the service he had rendered, the Dravidian comrades of Nagapattinam have been conducting that association.
+
+On the evening of 15 July 1947, the third anniversary of the Mani Rationalist Association was held splendidly at the Nagapattinam Avuri Grounds under the chairmanship of Comrade V. Chinnathambi of Kumbakonam. Comrades Mathiazhagan, Nedunchezhian, Sampath, and Annadurai described the qualities of the late Mani and spoke about the necessity of rationalism and the need for Dravida Nadu to become a separate country.
+
+(*Seithi*; *Dravida Nadu*, 27 July 1947)

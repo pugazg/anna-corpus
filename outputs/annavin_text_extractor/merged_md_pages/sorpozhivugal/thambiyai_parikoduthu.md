@@ -1,0 +1,1 @@
+../../md_pages/sorpozhivugal/thambiyai_parikoduthu.md

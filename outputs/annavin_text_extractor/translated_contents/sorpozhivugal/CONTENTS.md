@@ -1,0 +1,541 @@
+# சொற்பொழிவுகள் / Speeches
+
+Total source works: 537
+
+- [sorpozhivugal/040767](040767.md) - translated
+- [sorpozhivugal/050767](050767.md) - translated
+- [sorpozhivugal/050767_2](050767_2.md) - translated
+- [sorpozhivugal/060368](060368.md) - translated
+- [sorpozhivugal/060767](060767.md) - translated
+- [sorpozhivugal/070767](070767.md) - translated
+- [sorpozhivugal/080767](080767.md) - translated
+- [sorpozhivugal/080767_2](080767_2.md) - translated
+- [sorpozhivugal/110667](110667.md) - pending
+- [sorpozhivugal/120767](120767.md) - translated
+- [sorpozhivugal/130767](130767.md) - translated
+- [sorpozhivugal/150767](150767.md) - pending
+- [sorpozhivugal/170367](170367.md) - translated
+- [sorpozhivugal/170767](170767.md) - translated
+- [sorpozhivugal/170868](170868.md) - translated
+- [sorpozhivugal/170868_2](170868_2.md) - translated
+- [sorpozhivugal/180767](180767.md) - translated
+- [sorpozhivugal/180767_2](180767_2.md) - translated
+- [sorpozhivugal/190368](190368.md) - translated
+- [sorpozhivugal/190868](190868.md) - pending
+- [காஞ்சிபுரம் தேர்தல் பிரச்சாரக் கூட்டம் - 1962](1962_thaerthal.md) - pending
+- [sorpozhivugal/1967](1967.md) - pending
+- [sorpozhivugal/200268](200268.md) - pending
+- [sorpozhivugal/200367](200367.md) - pending
+- [sorpozhivugal/200368](200368.md) - pending
+- [sorpozhivugal/200868](200868.md) - pending
+- [sorpozhivugal/210367](210367.md) - pending
+- [sorpozhivugal/230168](230168.md) - pending
+- [sorpozhivugal/230367](230367.md) - pending
+- [sorpozhivugal/230868](230868.md) - pending
+- [sorpozhivugal/240868](240868.md) - translated
+- [sorpozhivugal/241167](241167.md) - translated
+- [sorpozhivugal/250367](250367.md) - pending
+- [sorpozhivugal/250368](250368.md) - translated
+- [sorpozhivugal/260368](260368.md) - translated
+- [sorpozhivugal/260868](260868.md) - translated
+- [sorpozhivugal/270367](270367.md) - translated
+- [sorpozhivugal/270368](270368.md) - translated
+- [sorpozhivugal/270667](270667.md) - pending
+- [sorpozhivugal/271167](271167.md) - translated
+- [sorpozhivugal/280268](280268.md) - pending
+- [sorpozhivugal/280367](280367.md) - translated
+- [sorpozhivugal/280368](280368.md) - translated
+- [sorpozhivugal/280868](280868.md) - pending
+- [sorpozhivugal/280868_2](280868_2.md) - pending
+- [sorpozhivugal/300367](300367.md) - pending
+- [sorpozhivugal/300667](300667.md) - translated
+- [sorpozhivugal/310868](310868.md) - translated
+- [sorpozhivugal/a_stateless](a_stateless.md) - translated
+- [sorpozhivugal/a_thought](a_thought.md) - translated
+- [sorpozhivugal/aabasa170259_2](aabasa170259_2.md) - translated
+- [ஆளும் பொறுப்புக் கிடைத்தால்](aalum_poruppu_kidaithal.md) - pending
+- [sorpozhivugal/aalunar090259](aalunar090259.md) - pending
+- [sorpozhivugal/aalunar110860](aalunar110860.md) - pending
+- [sorpozhivugal/aalunar130258](aalunar130258.md) - pending
+- [sorpozhivugal/aalunar_vivath](aalunar_vivath.md) - pending
+- [ஆளுங்கட்சிக்கு அறைகூவல்](aalunkatchikku_araikooval.md) - pending
+- [ஆங்கிலமே இந்தியாவின் ஆட்சி மொழி!](aangilamae_inthiyavin.md) - pending
+- [sorpozhivugal/aasiriyar](aasiriyar.md) - translated
+- [ஆட்சிப் பொறுப்பில் அமருவோமானால்....](aatchiporuppil_amaruvomanal.md) - pending
+- [ஆட்சியிலுள்ள அழுக்கை அகற்றாவிட்டால்...](aatchiyilulla_azhukkai.md) - pending
+- [-:: Annavin Padaippugal ::-](aatchiyin_aneethiyai.md) - pending
+- [sorpozhivugal/aatchmozhi_prachi](aatchmozhi_prachi.md) - pending
+- [ஆதிக்க ஒழிப்பே தி.மு.க. திட்டம்!](aathikka_ozhipae_dmk_thittam.md) - pending
+- [ஆத்திரம் வேண்டாம், அனுதாபப்படுவோம்](aathiram_vaendam.md) - pending
+- [“ஆற்றலுண்டு – அவசரப்படமாட்டேன்“](aatralundu.md) - pending
+- [அடக்கமும் பொறுமையும் அவசியம் தேவை](adakkamum_porumayum.md) - pending
+- [அடக்கு முறை கண்டு அஞ்சோம்!](adakkumurai_kandu_anjoam.md) - pending
+- [அடக்குமுறையை வளரவிடுவது நமது தன்மானத்திற்கு அழகல்ல!](adakkumurayai_valaraviduvathu.md) - pending
+- [அதிகாரம் அவர்களிடம் அறைகூவல் நமக்கு!](adhikarrarm_avargalidam.md) - pending
+- [ஏடாக உள்ளவையெல்லாம் இலக்கியங்களாக மாட்டா!](aedaga_ullathellam.md) - pending
+- [“ஏக இந்தியா“ எத்தனைநாள்?](aega_india.md) - pending
+- [sorpozhivugal/aey_thazhntha](aey_thazhntha.md) - pending
+- [ஏழை மக்களின் வாக்கு! முதலாளிகள் நட்புறவுக்கா?](aezhai_makkalin_vaaku.md) - pending
+- [sorpozhivugal/aezhaikku](aezhaikku.md) - translated
+- [ஏழைகளின் இலட்சியம் அழியாது](aezhayin_latchiyam_azhiyathu.md) - pending
+- [அக்கரை இல்லாத அரசாங்கம்!](akkarai_illatha_arasangam.md) - pending
+- [sorpozhivugal/allal_agala](allal_agala.md) - translated
+- [sorpozhivugal/alunarukku_anna](alunarukku_anna.md) - translated
+- [sorpozhivugal/aluvalaga050960](aluvalaga050960.md) - pending
+- [sorpozhivugal/amaichar160361](amaichar160361.md) - translated
+- [அமைச்சர் பேச்சு, அண்ணா அறிக்கை!](amaichar_paechu_anna_arikai.md) - pending
+- [அமைச்சர்களுக்கு அண்ணா அறைகூவல்](amaicharukku_anna_araikooval.md) - pending
+- [அன்பு வாழ்க்கை](anbu_vaazhkai.md) - pending
+- [அன்றைய மன்னர்களின் அஞ்சாநெஞ்சம் நமக்குத் தேவை](andraya_mannargalin.md) - pending
+- [அஞ்சல் ஊழியர் பிரதிநிதிகளுக்கும்](anjal_oozhiyar_pirathinithi.md) - pending
+- [அண்ணா அழைக்கின்றார்!](anna_azhaikkirar.md) - pending
+- [sorpozhivugal/annal_nabi](annal_nabi.md) - pending
+- [sorpozhivugal/annamalai_perurai](annamalai_perurai.md) - pending
+- [sorpozhivugal/annavin_thalaimai](annavin_thalaimai.md) - pending
+- [அந்நிய ஆதிக்கத்திற்கு இடம் கொடோம்](anniya_aathikathukku.md) - pending
+- [‘அனுமதி மறுக்கப்படுமானால் ஊர்வலம் எடுக்க அனுமதி அளிக்கிறேன்‘](anumathi_marukkapadamal.md) - pending
+- [sorpozhivugal/ara_nilaya](ara_nilaya.md) - pending
+- [அறப்போரில் ஈடுபட தி.மு.க. தயங்காது!](arapporil_eedupada_thimuka.md) - pending
+- [அறப்போருக்கு ஆயத்தமாவீர்!](arapporukku_aayathamaveer.md) - pending
+- [‘அரசியல்வாதிக்கு இருக்கும் உரிமை தொழிலாளிக்கு இல்லையா?](arasiyalvathikku_irukkum.md) - pending
+- [sorpozhivugal/arasoozhiyar](arasoozhiyar.md) - translated
+- [sorpozhivugal/arasu_endral](arasu_endral.md) - translated
+- [அரசு ஊழியர் பிரச்சினையை ஊறுகாய் பானையில் போடாதீர்!](arasu_oozhiyar_prachinaiyai.md) - pending
+- [sorpozhivugal/arignaranna_perurai](arignaranna_perurai.md) - translated
+- [அரிசி சாப்பிடுவோர் அறிவாளிகள் அல்லவா?](arisi_saapiduvor.md) - pending
+- [அறிவுப் பிரச்சாரம் செய்ய முன்வருக!](arivu_pracharam.md) - pending
+- [sorpozhivugal/atchimozhi_hindiyanal](atchimozhi_hindiyanal.md) - pending
+- [ஐந்தாண்டுத் திட்டம் தீட்டிப் புனிதப்போர் நடத்துக!](aynthadu_thittam_theeti.md) - pending
+- [பாபா-அண்ணாத்துரை உரையாடல்](baba_anna.md) - pending
+- [பம்பாயில் அண்ணா – கோலாகல வரவேற்பு](bambayil_anna.md) - pending
+- [sorpozhivugal/budget1958](budget1958.md) - pending
+- [sorpozhivugal/call_to_the](call_to_the.md) - translated
+- [“Carry on! But Remember. . .!!”](carry_on_but_1.md) - pending
+- [sorpozhivugal/cheena_aakira](cheena_aakira.md) - pending
+- [sorpozhivugal/chennai151261](chennai151261.md) - pending
+- [sorpozhivugal/chennai220360](chennai220360.md) - translated
+- [sorpozhivugal/chennai300161](chennai300161.md) - translated
+- [சென்னை கழகத் தோழர்களுக்கு அண்ணா அறிவுரை!](chennai_kazha_thozhar.md) - pending
+- [sorpozhivugal/chennai_maanagar](chennai_maanagar.md) - translated
+- [sorpozhivugal/chennai_mavatta](chennai_mavatta.md) - translated
+- [சென்னை நகருக்குக் குடிநீர் வசதி](chennai_nagarukku_kudineer.md) - pending
+- [sorpozhivugal/chennai_rayapuram](chennai_rayapuram.md) - translated
+- [சென்னையை மேலும் எழில் நகராக்க முடியும்](chennayai_maelum.md) - pending
+- [sorpozhivugal/chitoor_thimuka](chitoor_thimuka.md) - pending
+- [ANNA SPEAKS AT THE RAJYA SABHA 1962-66](colossal.md) - pending
+- [காங்கிரசார் துருப்புச் சீட்டு தேர்தலில் செல்லாது](congresar_thuruppu_cheettu.md) - pending
+- [காங்கிரஸ் ஐந்தாம் தர டீ போன்றது](congress_aintham_tharatee.md) - pending
+- [காங்கிரஸ் ஆட்சியில் மனிதன் மிருகநிலை அடைந்ததுதான் மிச்சம்](congress_atchiyil_manithan.md) - pending
+- [காங்கிரசாரின் கேள்விக்கு அர்த்தம் உண்டா?](congress_kaelvikku.md) - pending
+- [தில்லி மேல்சபையில் திராவிடநாடு முழக்கம்](delhi_maelsabayil.md) - pending
+- [டெல்லியில் அண்ணாவின் முதல் முழக்கம்](delhiyil_muthal_muzhakkam.md) - pending
+- [sorpozhivugal/desiya131159](desiya131159.md) - pending
+- [sorpozhivugal/desiya_vanipa](desiya_vanipa.md) - translated
+- [டில்லியே, நியாயம் வழங்கு!](dilliyae_nyayam_vazhangu.md) - pending
+- [டாக்டர்களாய் இருக்கிறோம்!](doctorhalai_irukkiroam.md) - pending
+- [sorpozhivugal/dravida_desium](dravida_desium.md) - translated
+- [திராவிடம் நமது பிறப்புரிமை](dravidam_namathu_pirapurimai.md) - pending
+- [திராவிடம் தனித்தியங்க முடியும்](dravidam_thanithiyanga.md) - pending
+- [திராவிடம் தந்த இரத்தக் காணிக்கை!](dravidam_thantha_irattha_kanikkai.md) - pending
+- [திராவிடம் உரிய இடத்தைப் பெறும்!](dravidam_uriya_idathai.md) - pending
+- [‘திராவிட நாடு – இலட்சியப் பயணம்!‘](dravidanadu_latchiyapayanam.md) - pending
+- [திராவிடநாடு விடுதலை வாரம்](dravidanadu_viduthalaivaaram.md) - pending
+- [sorpozhivugal/dravidar_kazhaga_thani](dravidar_kazhaga_thani.md) - pending
+- [sorpozhivugal/dravidar_nilai](dravidar_nilai.md) - pending
+- [திராவிடர் திருநாள்](dravidar_thirunaal.md) - pending
+- [திராவிடத்தை மீட்போம்!](dravidathai_meetpom.md) - pending
+- [எனது வேண்டுகோள்!](enathu_vaendukol.md) - pending
+- [எங்கிருந்தாலும் ஆற்றுக சமூகப்பணி!](engirunthalum_aatruga.md) - pending
+- [என் கடமை!](enn_kadamai.md) - pending
+- [‘என் கடன் பணி செய்து கிடப்பதே’](enn_kadan_pani.md) - pending
+- [sorpozhivugal/ennai_kavarntha](ennai_kavarntha.md) - translated
+- [எந்த ஆயுதத்தால் ஒழிக்கப் போகிறீர்கள்?](entha_aayuthathal.md) - pending
+- [எதையும் சாதிக்க இயலும்!](ethayum_saathikka_iyalum.md) - pending
+- [எதிர்க்கட்சிகளை அலட்சியப்படுத்தினால் சனநாயகம் பிழைக்காது!](ethikatchigalai_alatchiya.md) - pending
+- [எதிர்காலச் சமுதாயத்தை உருவாக்கும் ஆசிரியர் உருக்குலையா?](ethirkala_samuthayathai.md) - pending
+- [எதிர்ப்பு வெள்ளம் நீந்தினோம்!](ethirppu_vellam_neenthinoam.md) - pending
+- [சேலம் உருக்காலை மற்றும்](ezhuchi_naal.md) - pending
+- [sorpozhivugal/gandhi_silai](gandhi_silai.md) - translated
+- [கிராமங்களின் அவலநிலை](gramangalin_avalanilai.md) - pending
+- [குஜராத் தலைநகரில் அண்ணா](gujarath_thalainagaril.md) - pending
+- [sorpozhivugal/hidhi_thinippai](hidhi_thinippai.md) - translated
+- [sorpozhivugal/hindi_ethirpu](hindi_ethirpu.md) - translated
+- [sorpozhivugal/hindi_ethirpu_aen](hindi_ethirpu_aen.md) - pending
+- [sorpozhivugal/hindi_ethirpu_mana](hindi_ethirpu_mana.md) - translated
+- [sorpozhivugal/human_rights](human_rights.md) - translated
+- [sorpozhivugal/ideal_society](ideal_society.md) - translated
+- [இலக்கியமும் வாழ்க்கையும்](ilakkiyamum_vaazhkayum.md) - pending
+- [இலங்கைத் தமிழர் அறப்போர்](ilangai_thamizhar_arappoar.md) - pending
+- [இன அரசு வேண்டும்!](ina_arasu_vaendum.md) - pending
+- [இணைந்திருப்பதால் என்ன நன்மை?](inaithiruppathal_enna_nanmai.md) - pending
+- [இப்படை தோற்கின் எப்படை வெல்லும்](ippadai_thoarkin.md) - pending
+- [sorpozhivugal/irandavathu_manila1](irandavathu_manila1.md) - translated
+- [sorpozhivugal/irandavathu_manila2](irandavathu_manila2.md) - translated
+- [இரண்டு சர்க்கார்களுக்கிடையே சிக்குண்டு தவிக்கிறோம்!](irandu_sarkarukidayilaeye.md) - pending
+- [sorpozhivugal/jainaneri](jainaneri.md) - translated
+- [ஜனநாயகப் பயிற்சிக்கூடம்!](jananaayaka_payirchikoodam.md) - pending
+- [sorpozhivugal/jananayagathin](jananayagathin.md) - translated
+- [ஜனநாயகம் நிலைக்க](jananayakam_nilaikka.md) - pending
+- [ஜனநாயகமா? பணநாயகமா?](jananayakama_pananayakama.md) - pending
+- [இலங்கைத் தமிழர் அறப்போர்](jananayakathirku_aetra_idam.md) - pending
+- [காஞ்சி மணிமொழியார் பாராட்டு விழா!](kaanchi_manimozhiyar.md) - pending
+- [sorpozhivugal/kadan_sambantha](kadan_sambantha.md) - translated
+- [கேலிக்கூத்து – கண்துடைப்பு – எரிச்சல் தருவது!](kaelikoothu_kanthudaippu.md) - pending
+- [கேட்பது பிரிவினையல்ல!](kaetpathu_pirivinayalla.md) - pending
+- [கேட்டதையெல்லாம் கொடுத்திருக்கிறீர்கள்](kaettathayellam.md) - pending
+- [sorpozhivugal/kaikodukkum](kaikodukkum.md) - translated
+- [கலை விழா](kalai_vizha.md) - pending
+- [கலைவாணர் வழியில் எம்.ஜி.ஆர்](kalaivaanar_vazhiyil_mgr.md) - pending
+- [sorpozhivugal/kalaivanar_maraivu](kalaivanar_maraivu.md) - translated
+- [கலைவாணர் சிலைத் திறப்பு](kalaivanar_silai.md) - pending
+- [“கலப்பு மணம் கண்டோருக்கு வரவேற்பு தருக!”](kalappu_manam.md) - pending
+- [sorpozhivugal/kalayin_nilamai](kalayin_nilamai.md) - translated
+- [கல்வி வளர](kalvi_valara.md) - pending
+- [sorpozhivugal/kanchi_pattu](kanchi_pattu.md) - translated
+- [sorpozhivugal/kanchi_vazha](kanchi_vazha.md) - translated
+- [sorpozhivugal/kanivum](kanivum.md) - translated
+- [கத்தி எடுத்தவன் கத்தியாலேயே மடிவான்](kathi_edutthavan.md) - pending
+- [கதிர் முற்றி அறுவடைக்குக் காத்திருக்கிறது](kathir_muttri.md) - pending
+- [‘கத்திக் குத்து‘ கழகத்தை அழிக்குமா?](katthikkuthu.md) - pending
+- [sorpozhivugal/kaveri_thayin](kaveri_thayin.md) - translated
+- [sorpozhivugal/kazhagathin_pilavu](kazhagathin_pilavu.md) - translated
+- [கழகக் கருத்தறிய மாநாடுகளுக்கு வருக...](kazhahak_karuthariya.md) - pending
+- [sorpozhivugal/kerala310859](kerala310859.md) - translated
+- [sorpozhivugal/kootu_endral](kootu_endral.md) - translated
+- [sorpozhivugal/kovai_thaerthal](kovai_thaerthal.md) - translated
+- [sorpozhivugal/kulayum](kulayum.md) - translated
+- [இலப்பை கண்டிகையில் அண்ணா!](lappai_kandikayil_anna.md) - pending
+- [sorpozhivugal/latchiyam_valar](latchiyam_valar.md) - translated
+- [இலட்சியத்துடன் வாழ்வோம்!](latchiyathudan_vaazhvoam.md) - pending
+- [ANNA SPEAKS AT THE RAJYA SABHA 1962-66](let_us_march.md) - pending
+- [மாநகராட்சி மன்ற நிர்வாகம் – காங்கிரசுக்காரர்கள் குற்றச்சாட்டு!](maanagaratchi_mandra_nirvagam.md) - pending
+- [மாணவர் தமிழ் விழா!](maanavar_tamil_vizha.md) - pending
+- [sorpozhivugal/maanila300958](maanila300958.md) - translated
+- [sorpozhivugal/maanila_suya](maanila_suya.md) - translated
+- [மாற்றான் தோட்டத்து மல்லிகைக்கும் மணம் உண்டு](maatran_thottathu_malligaikkum.md) - pending
+- [மாற்றார் தூற்றுவதற்காக நாம் கவலைப்படத் தேவையில்லை](maatrar_thootruvatharkaha.md) - pending
+- [மாவீரர் மணிமொழியார்!](maaveerar_manimozhiyar.md) - pending
+- [sorpozhivugal/maedai_paechu](maedai_paechu.md) - translated
+- [sorpozhivugal/magalir_nithi](magalir_nithi.md) - translated
+- [sorpozhivugal/mahathma_gandhi](mahathma_gandhi.md) - translated
+- [sorpozhivugal/mahatma_gandhi_marai](mahatma_gandhi_marai.md) - translated
+- [மக்கள் மண்டியிட்டது அந்தக்காலம்!](makkal_mandiyittathu.md) - pending
+- [sorpozhivugal/makkal_sakthi](makkal_sakthi.md) - translated
+- [மக்களாட்சி மலர வழிகோலுக!](makkalatchi_malara_vazhi.md) - pending
+- [மக்களாட்சி மலர்ந்தும் மக்கள் வாழ்வு மலர்ந்ததா?](makkalatchi_malarthum.md) - pending
+- [மக்களுக்குக் காட்டட்டும்](makkalukku_kaattatum.md) - pending
+- [sorpozhivugal/makkalukku_vidutha](makkalukku_vidutha.md) - translated
+- [மக்கட்பணி ஆற்றுவோம்!](makkatpani_aatruvoam.md) - pending
+- [sorpozhivugal/malarum_maanavar](malarum_maanavar.md) - translated
+- [sorpozhivugal/manamakkalukku](manamakkalukku.md) - pending
+- [sorpozhivugal/manavamanigalin](manavamanigalin.md) - translated
+- [sorpozhivugal/manavargalukku_vaelai](manavargalukku_vaelai.md) - translated
+- [sorpozhivugal/manavargalum_samu](manavargalum_samu.md) - translated
+- [sorpozhivugal/manila_avai](manila_avai.md) - pending
+- [sorpozhivugal/manilakalluri](manilakalluri.md) - translated
+- [மனித குரலுக்கு மதிப்பளியுங்கள்](manitha_kuralukku_mathippaliyungal.md) - pending
+- [மந்திரியால் பயன் என்ன?](manthiriyal_payan_enna.md) - pending
+- [மறுமலர்ச்சி](marumalarchi.md) - pending
+- [sorpozhivugal/may_thinam](may_thinam.md) - pending
+- [மீண்டும் ஆதிக்கம் பெறவிடுவது](meendum_aathikkam_peraviduvathu.md) - pending
+- [மிரட்டல்களுக்கு அஞ்சிக் கொள்கைகளைக் கைவிடமாட்டோம்!](mirattalgaluku_anji.md) - pending
+- [sorpozhivugal/moondravath111161](moondravath111161.md) - pending
+- [மூட்டை தூக்கும் மார்வாரியைக் கண்டதுண்டா?](moottai_thookum_maravari.md) - pending
+- [மொழிப்போரின் முன்னணி வீரர்!](mozhiporin_munnani_veerar.md) - pending
+- [sorpozhivugal/mozhiprachinai](mozhiprachinai.md) - translated
+- [sorpozhivugal/mozhiyai](mozhiyai.md) - translated
+- [sorpozhivugal/muthal_manila](muthal_manila.md) - translated
+- [முதல்வர் அண்ணா உரை](muthalvar_urai.md) - pending
+- [sorpozhivugal/muthamizh_manad](muthamizh_manad.md) - pending
+- [நாடக மேடை நடிகர்கள் அல்ல அமைச்சர்கள்](naadaga_maedai_nadigarhalalla.md) - pending
+- [நாடு இன்னும் நாகரிக நிலைக்கு வரவில்லை](naadu_innum.md) - pending
+- [sorpozhivugal/naadu_nagram](naadu_nagram.md) - translated
+- [“நாடும் ஏடும்”](naadum_aedum.md) - pending
+- [நாம்](naam.md) - pending
+- [நான் தருகின்றேன் 1000 கோடிக்குத் திட்டம்](naan_tharugiraen1000.md) - pending
+- [நாரணத் துரைக்கண்ணனார் படத்திறப்பு விழா](naarana_durai.md) - pending
+- [நாட்டை நானே ஆளவேண்டும் என்ற எண்ணம் எனக்கில்லை](naattai_naanae_alavaendum.md) - pending
+- [நாட்டு நிலை பாரீர்! நல்ல தீர்ப்பு தாரீர்!](naattin_nilai_pareer.md) - pending
+- [நாட்டுப் பிரிவினை வேண்டும்](naattu_pirivinai_vaendum.md) - pending
+- [நாட்டு நலிவு நீங்கினால்தான் நல்ல நூல்கள் கிடைக்கும்](naatu_nalivu.md) - pending
+- [sorpozhivugal/nadaga_valarchi](nadaga_valarchi.md) - pending
+- [sorpozhivugal/nadagathil_oru](nadagathil_oru.md) - translated
+- [sorpozhivugal/nadagathilae](nadagathilae.md) - translated
+- [நேரமில்லை – உணருவீர்!](naeramillai_unarveer.md) - pending
+- [sorpozhivugal/nagaichuvai_mannar](nagaichuvai_mannar.md) - translated
+- [நல்ல தீர்ப்பு](nalla_theerpu.md) - pending
+- [நல்லதொரு பணியில் ஈடுபடுவீர்!](nallathoru_paniyil_eedupaduveer.md) - pending
+- [நம் சமுதாயத்திற்கு வழிகாட்டியவர் வள்ளுவர்](nam_samuthayathirku.md) - pending
+- [sorpozhivugal/namakkal](namakkal.md) - translated
+- [நமக்கென்று ஓர் அரசு இருந்தால் இந்நிலை ஏற்படுமா?](namakkendru_oru_arasu.md) - pending
+- [நமது முழக்கம்](namathu_muzhakkam.md) - pending
+- [sorpozhivugal/nambikkai301057](nambikkai301057.md) - pending
+- [sorpozhivugal/nambikkai311057](nambikkai311057.md) - translated
+- [sorpozhivugal/nan_kanda_nehru](nan_kanda_nehru.md) - pending
+- [நஷ்ட ஈடு தர வேண்டும்!](nashta_eedu_tharavaendum.md) - pending
+- [sorpozhivugal/nattu_mathip111157](nattu_mathip111157.md) - pending
+- [sorpozhivugal/nellai_mavatta](nellai_mavatta.md) - translated
+- [sorpozhivugal/neruvum_annavum](neruvum_annavum.md) - translated
+- [sorpozhivugal/nila_ucha290861](nila_ucha290861.md) - pending
+- [நில உச்சவரம்புச் சட்டத்தின் நிலை என்ன?](nila_uchavarambu_sattathin.md) - pending
+- [sorpozhivugal/nilaseer200460](nilaseer200460.md) - pending
+- [sorpozhivugal/nilaucha301058](nilaucha301058.md) - translated
+- [sorpozhivugal/nilayum_ninaippum](nilayum_ninaippum.md) - pending
+- [sorpozhivugal/nithi070458](nithi070458.md) - translated
+- [sorpozhivugal/nithi080358](nithi080358.md) - pending
+- [sorpozhivugal/nithi080361](nithi080361.md) - pending
+- [sorpozhivugal/nithi100359](nithi100359.md) - pending
+- [sorpozhivugal/nithi140361](nithi140361.md) - translated
+- [sorpozhivugal/nithi180358](nithi180358.md) - translated
+- [sorpozhivugal/nithi230359](nithi230359.md) - translated
+- [sorpozhivugal/nithi300460](nithi300460.md) - translated
+- [sorpozhivugal/nithi_othukka260757](nithi_othukka260757.md) - translated
+- [நியாயங்களை அலட்சியப்படுத்துவது அறமல்ல!](niyayangalai_alatchiyappaduthuvathu.md) - pending
+- [sorpozhivugal/noolnilayangal](noolnilayangal.md) - translated
+- [sorpozhivugal/oayvunaeram](oayvunaeram.md) - translated
+- [ஒளி விளக்கு](oli_vilakku.md) - pending
+- [‘ஒன்றுபடுவோம்-ஒற்றுமை காப்போம்’](ondrupaduvom.md) - pending
+- [ஒன்றுபட்ட இதயமே நமது ஒரே படைக்கலன்](ondrupatta_idhayamae.md) - pending
+- [ஊரைத் திருத்துவதில் ஒன்றுபட்டுப் பணியாற்ற வேண்டும்](oorai_thiruthuvathil.md) - pending
+- [sorpozhivugal/ooratchi240958](ooratchi240958.md) - pending
+- [ஒட்டுமாஞ்செடி](ottumanchedi.md) - pending
+- [sorpozhivugal/oviyar_madhavan](oviyar_madhavan.md) - translated
+- [படை திரட்டி அனுப்பத் தயார்](padai_thiratti_anuppa_thayar.md) - pending
+- [sorpozhivugal/paerunthu030959](paerunthu030959.md) - pending
+- [பகையும் இல்லை – காதலும் இல்லை](pagayumillai_kathalumillai.md) - pending
+- [பணக்காரர்களின் பாசறை!](panakkararhalin_paasarai.md) - pending
+- [பண்போடு பழகினோம்!](panbodu_pazhaginoam.md) - pending
+- [‘பண்டிதரின் அறைகூவலைப் பணிவோடு ஏற்கிறேன்‘](panditharin_araikoovalai.md) - pending
+- [பதவிகளைத் துறந்து தேர்தலில் ஈடுபடத் தயாரா?](pathavikalai_thuranthu.md) - pending
+- [sorpozhivugal/pathirikai_thozhil](pathirikai_thozhil.md) - translated
+- [பழமையை விடுத்துப் பண்பினைக் காப்பீர்!](pazhamayai_viduthu_panbinai.md) - pending
+- [sorpozhivugal/pazhayana](pazhayana.md) - translated
+- [sorpozhivugal/pengal_unavu](pengal_unavu.md) - translated
+- [PEOPLE'S POET](peoplespoet.md) - pending
+- [பெரியார் – நேரு சந்திப்பு தேவை!](periyar_nehru_santhippu_thaevai.md) - pending
+- [பெரியார் ஒரு சகாப்தம்!](periyar_oru_sahaptham.md) - pending
+- [பெரியார் தந்த கடைசிப் பட்டம்](periyar_thantha_kadaisi_pattam.md) - pending
+- [பெரியாரைச் சிறையில் வைத்திருப்பது முறையா?](periyarai_sirayil_vaithiruppathu.md) - pending
+- [sorpozhivugal/pirivinai_thadai](pirivinai_thadai.md) - pending
+- [sorpozhivugal/poar_murasu_1](poar_murasu_1.md) - pending
+- [sorpozhivugal/poar_murasu_kotti](poar_murasu_kotti.md) - translated
+- [போராட்டம்](poarattam.md) - pending
+- [sorpozhivugal/poarkodi](poarkodi.md) - translated
+- [sorpozhivugal/poarvaal](poarvaal.md) - translated
+- [பொங்கல் திருநாள்](pongal_thirunaal.md) - pending
+- [sorpozhivugal/pooja_mano](pooja_mano.md) - translated
+- [sorpozhivugal/porul](porul.md) - pending
+- [‘பொறுப்புடன் நடப்பது கோழைத்தனமல்ல’](poruppudan_nadappathu.md) - pending
+- [பொறுப்பு வாய்ந்த எதிர்க் கட்சியாக இயங்கும்!](poruppuvaintha_ethirkatchi.md) - pending
+- [பொறுப்புள்ள எதிர்க்கட்சியாக தி.மு.க. பணியாற்றும்](porupulla_ethirkatchiyaga.md) - pending
+- [sorpozhivugal/pothu_maanadu](pothu_maanadu.md) - translated
+- [பொதுச் செயலாளர் – செய்தி!](pothucheyalalar_seithi.md) - pending
+- [sorpozhivugal/pothuvaelai_niru](pothuvaelai_niru.md) - pending
+- [பொய்யுரை பரப்புபோர் பற்றி அண்ணா விளக்க அறிக்கை](poyyurai.md) - pending
+- [புனிதமான பொங்கல் நாள்](punithamana_pongal.md) - pending
+- [sorpozhivugal/puthiya_unarchi](puthiya_unarchi.md) - translated
+- [புதிய வரலாறு](puthiya_varalaru.md) - pending
+- [ANNA SPEAKS AT THE RAJYA SABHA 1962-66](rajya_an_appeal.md) - pending
+- [ANNA SPEAKS AT THE RAJYA SABHA 1962-66](rajya_call_my_state.md) - pending
+- [ANNA SPEAKS AT THE RAJYA SABHA 1962-66](rajya_debacle.md) - pending
+- [ANNA SPEAKS AT THE RAJYA SABHA 1962-66](rajya_launching.md) - pending
+- [ANNA SPEAKS AT THE RAJYA SABHA 1962-66](rajya_quo_vadis.md) - pending
+- [ANNA SPEAKS AT THE RAJYA SABHA 1962-66](rajya_resisting_hindi.md) - pending
+- [ANNA SPEAKS AT THE RAJYA SABHA 1962-66](rajya_session_and.md) - pending
+- [ANNA SPEAKS AT THE RAJYA SABHA 1962-66](rajya_stock_taking.md) - pending
+- [ANNA SPEAKS AT THE RAJYA SABHA 1962-66](rajya_unity_or_uniform.md) - pending
+- [இராமாயண நாடகம்](ramayana_naadagam.md) - pending
+- [ரத்தக் கண்ணீர்](rathakkanneer.md) - pending
+- [இரத்தம் சிந்தவே அழைக்கிறேன்!](ratham_sinthavae_azhaikiraen.md) - pending
+- [sorpozhivugal/reapraisal](reapraisal.md) - translated
+- [“சாதி எண்ணம் எங்கிருந்தாலும் அதைக் கெல்லி எடுக்க வேண்டும்”](saathi_ennam.md) - pending
+- [சாதிகள் ஒழிய கலப்பு மணம் தேவை](saathikal_ozhiya.md) - pending
+- [சாவுக்கு அஞ்சும் பரம்பரை அல்ல நாம்!](saavukku_anjum.md) - pending
+- [சாகித்திய அகாடமி தமிழ்மொழிக்கு இழைத்த அநீதி](sahithya_academy.md) - pending
+- [சக்தியை உணர்ந்து பணிபுரிவோம்!](sakthiyai_unarnthu_panipurivoam.md) - pending
+- [sorpozhivugal/samadarmam](samadarmam.md) - translated
+- [sorpozhivugal/samooga_pani](samooga_pani.md) - translated
+- [sorpozhivugal/samuthaya170358](samuthaya170358.md) - translated
+- [sorpozhivugal/sangaralinga](sangaralinga.md) - translated
+- [sorpozhivugal/sangeetha_sangam](sangeetha_sangam.md) - translated
+- [sorpozhivugal/satta_04_07_1957](satta_04_07_1957.md) - pending
+- [sorpozhivugal/satta_10_12_1959](satta_10_12_1959.md) - pending
+- [sorpozhivugal/satta_11_03_1958](satta_11_03_1958.md) - translated
+- [sorpozhivugal/satta_16_03_1960](satta_16_03_1960.md) - pending
+- [sorpozhivugal/satta_17_02_1959](satta_17_02_1959.md) - pending
+- [sorpozhivugal/satta_17_07_1957](satta_17_07_1957.md) - pending
+- [sorpozhivugal/satta_desiya_ava](satta_desiya_ava.md) - translated
+- [சட்டம் ஒரு – புனித ஒப்பந்தம்!](sattam_oru_punitha_oppantham.md) - pending
+- [சட்டமன்ற உறுப்பினர்களுக்கும் கழகத் தோழர்களுக்கும்!](sattamandra_thozhargalum.md) - pending
+- [sorpozhivugal/sattamandram_first](sattamandram_first.md) - pending
+- [‘சட்டத்தால் விடுதலை உணர்வை அடக்கிவிட முடியாது‘](sattathal_viduthalai_unarvai.md) - pending
+- [sorpozhivugal/seermigu_seerani](seermigu_seerani.md) - translated
+- [சென்று செயலாற்றுங்கள்!](sendru_seyalatrungal.md) - pending
+- [சிங்களத் தீவில் சீரழிகின்றனர் தமிழர்](singala_theevil.md) - pending
+- [சிறைச்சாலை என்ன செய்யும்?](siraichalai_enna_seyum.md) - pending
+- [சிறைக் கூடம் அல்ல கழகக் கிளைக் கூடம்!](siraikoodam_alla.md) - pending
+- [சிறைமீண்ட நாங்கள் வெளி வந்திருக்கிறோம்!](siraimeenda_nangal.md) - pending
+- [சிறந்த கொள்கையே அரசியல் கட்சிக்கு அடிப்படை!](sirantha_kolgayae.md) - pending
+- [சிரித்து, விட்டுவிடுவோம்!](sirithu_vittuviduvom.md) - pending
+- [sorpozhivugal/sollum_payan](sollum_payan.md) - pending
+- [சொல்வதெல்லாம் செய்தால் சுதந்திரம்](solvathellam_seithal.md) - pending
+- [சூழ்நிலை](soolnilai.md) - pending
+- [sorpozhivugal/sootchamam](sootchamam.md) - translated
+- [speech](speech.md) - pending
+- [உலகத் தமிழ் மாநாடு – 1968](speech01_ulaga.md) - pending
+- [அண்ணா முதலமைச்சரான பிறகு](speech02_mudhalvar.md) - pending
+- [எழுச்சி நாள் உரை](speech03_ezhuchi.md) - pending
+- [திருவள்ளுவர் படத்திறப்பு விழா](speech04_thiruvalluvar.md) - pending
+- [பட்டுக்கோட்டை அழகிரி நினைவு விழாவில்](speech05_1957.md) - pending
+- [காஞ்சிபுரம் தேர்தல் பிரச்சாரக் கூட்டம் – 1962](speech06_1962.md) - pending
+- [சென்னை வழக்குரைஞர் சங்கம் (Bar Council)](speech07_bar.md) - pending
+- [கடலூர் நகராட்சி மன்ற கூட்டம்](speech08_cuddalore.md) - pending
+- [கலைஞர் பிறந்தநாள் விழாவில](speech09_kalaignar.md) - pending
+- [விவசாயிகள் மாநாட்டுப் பேருரை](speech10_farmer.md) - pending
+- [வெளிநாடுகளில் சுற்றுப்பயணத்தின் பிறகு](speech11_muthamizh.md) - pending
+- [வானொலிப் பேட்டி (ஆங்கிலம்)](speech12_vanoli.md) - pending
+- [அரசிதழ் பதிவு பெறாத அரசுப்பணியாளர் சங்க விழாவில்](speech13_arasitha.md) - pending
+- [மலேசிய முஸ்லிம்கள் விழாவில்](speech14_muslim.md) - pending
+- [மலேசிய துறைமுகத் தொழிளார்கள் மத்தியில்](speech15_thurai.md) - pending
+- [நாட்டரசன்கோட்டையில் பேசியது](speech16_natta.md) - pending
+- [செங்கல்பட்டு தலைநகர் மாற்றம்](speech17_chengal.md) - pending
+- [காரைக்குடியில் பேசியது](speech18_karai.md) - pending
+- [UNITED NATION DAY - English Speech](speech19_sudhanthira.md) - pending
+- [ஜி.டி.நாயுடு பற்றி அண்ணா](speech20_gdnaidu.md) - pending
+- [ஜி.டி.நாயுடு பற்றி அண்ணா](speech21_narana.md) - pending
+- [தமிழ்நாடு பெயர் சூட்டு விழா](speech22_tamilnadu.md) - pending
+- [கலைவாணர் சிலை திறப்பு](speech23_nsk.md) - pending
+- [காரைக்குடி அழகப்பா கல்லூரியில் - 1967](speech24_alagappa.md) - pending
+- [சொற்பொழிவுகள் காலவரிசையில்...](speech_all.md) - pending
+- [ஒலி வடிவில்](speech_audios.md) - pending
+- [மேடைப்பேச்சு](speech_maedai.md) - pending
+- [மன்றம்](speech_mandram.md) - pending
+- [பேரறிஞர் அண்ணாவின் பேட்டிகள்](speech_paettigal.md) - pending
+- [பள்ளி, கல்லூரி, பல்கலைக்கழகங்கள்](speech_pallikalluri.md) - pending
+- [பாராளுமன்றம்](speech_paralumandram.md) - pending
+- [சட்டமன்றம்](speech_sattamandram.md) - pending
+- [வானொலி](speech_vaanoli.md) - pending
+- [sorpozhivugal/standly](standly.md) - translated
+- [sorpozhivugal/sthabana_aykyam](sthabana_aykyam.md) - translated
+- [sorpozhivugal/sudhanthira_kaiyelu](sudhanthira_kaiyelu.md) - pending
+- [சுதந்திர விழாவும் சுகாதார நிலையும்](sudhanthira_vizhavum_sugathara.md) - pending
+- [sorpozhivugal/suthanthira_indiavil](suthanthira_indiavil.md) - translated
+- [சுயமரியாதை வளர்த்த தளபதி](suyamariyathai_valartha.md) - pending
+- [sorpozhivugal/tamil_azhikum](tamil_azhikum.md) - translated
+- [தமிழ்நாடு என்ற பெயர் பெற்றதற்கான விழாவில் அண்ணா](tamil_nadu_peyar.md) - pending
+- [sorpozhivugal/tamil_umathu](tamil_umathu.md) - pending
+- [தமிழ் வெற்றி உறுதி](tamil_vetri.md) - pending
+- [தமிழ் விழா!](tamil_vizha.md) - pending
+- [தமிழர் திருநாள்](tamilar_thirunal.md) - pending
+- [sorpozhivugal/tamilarignan](tamilarignan.md) - translated
+- [தமிழரின் மறுமலர்ச்சி!](tamilarin_marumalarchi.md) - pending
+- [sorpozhivugal/tamilarin_thani](tamilarin_thani.md) - translated
+- [தேள்போல் கொட்டி மக்களை வாட்டி வதைத்தனர்](thaelpola_kotti.md) - pending
+- [sorpozhivugal/thaeni_pothu](thaeni_pothu.md) - translated
+- [தேரை புகுந்த தேங்காய்ப் போல்...!](thaerai_puguntha_thaengai.md) - pending
+- [தேரோட்டத்திற்கு முட்டுக் கட்டையும் தேவைதான்](thaerottathirku_muttukattai.md) - pending
+- [தேர்தலில் நாம்](thaerthalil_naam.md) - pending
+- [தேர்தலோடு முடிந்துவிடுவதல்ல நமது பணி](thaerthalodu_mudinthu_viduvathalla.md) - pending
+- [தேர்தல் நமக்கு உழவு மற்றவர்க்கு அறுவடை!](thaethal_namakku_uzhavu.md) - pending
+- [தாய்த்திரு நாட்டை மீட்பதே உயிர் இலட்சியம்](thaithirunaattai.md) - pending
+- [sorpozhivugal/thaiyarkalayum](thaiyarkalayum.md) - translated
+- [தலைகளைத் தரவேண்டாம் உங்கள் இதயங்களைத் தாருங்கள்‘](thalaigalai_tharavaendam.md) - pending
+- [தலைப்பு இல்லா நாடாகத் தமிழ்நாடு திகழ்வதா?](thalaippu_illai.md) - pending
+- [sorpozhivugal/thambiyae_va](thambiyae_va.md) - translated
+- [தம்பியைப் பறிகொடுத்து கலங்குகிறேன்](thambiyai_parikoduthu.md) - pending
+- [sorpozhivugal/thambiyudayan](thambiyudayan.md) - pending
+- [தமிழ் இனம் வாழ்ந்தால்தான் தமிழ் மொழி வளரும்](thamizh_inam_vazhnthalthan.md) - pending
+- [தமிழ்த் தலைவர்கள் காட்டுமிராண்டிகளா?](thamizh_thalaivarhal_kattumirandihala.md) - pending
+- [sorpozhivugal/thamizhagathirku](thamizhagathirku.md) - translated
+- [தமிழகத்திற்கப் பரம்பிக்குளம் தண்ணீர்!](thamizhahathil_parambikulam.md) - pending
+- [sorpozhivugal/thamizhinamae](thamizhinamae.md) - translated
+- [தமிழுக்கு உயிரூட்டியவர் திரு.வி.க.](thamizhukku_uyirootiya.md) - pending
+- [sorpozhivugal/thaniyar_kalvi](thaniyar_kalvi.md) - translated
+- [sorpozhivugal/thanjai_manattil](thanjai_manattil.md) - translated
+- [தாராவியில் அண்ணா...](tharaaviyil.md) - pending
+- [sorpozhivugal/tharugiraen50](tharugiraen50.md) - translated
+- [sorpozhivugal/thazhtha200358](thazhtha200358.md) - translated
+- [sorpozhivugal/the_role_of](the_role_of.md) - translated
+- [sorpozhivugal/thee_paravattum_1](thee_paravattum_1.md) - pending
+- [sorpozhivugal/thee_paravattum_2_1](thee_paravattum_2_1.md) - pending
+- [sorpozhivugal/theendamai](theendamai.md) - translated
+- [தெளிவில்லாத அரசியல் பணி நாட்டுக்கு நாசம் விளைவிக்கும்!](thelivillatha_arasiyal_pani.md) - pending
+- [தெரிந்தது என்ன? தெரியாதது என்ன?](therinthathu_enna.md) - pending
+- [தி.க. – தி.மு.க. இணைப்பு நிறைவேறுமா?](thika_thimuka_inaippu.md) - pending
+- [தி.மு.க. கையாளாக இராது!](thimuka_kaiyalaha_irathu.md) - pending
+- [sorpozhivugal/thimuka_moondravathu](thimuka_moondravathu.md) - translated
+- [தி.மு.க. பற்றி குசராத்தி ஏடு தந்த செய்தி](thimuka_patri_gujarath.md) - pending
+- [sorpozhivugal/thimuka_pothu](thimuka_pothu.md) - translated
+- [sorpozhivugal/thimuka_thaer_sira](thimuka_thaer_sira.md) - translated
+- [sorpozhivugal/thimuka_thuvak](thimuka_thuvak.md) - pending
+- [தி.மு.கழகம் நமது குலக்கொடி](thimukazhagam_namathu_kulakkodi.md) - pending
+- [தி.மு.கழகத்தினர் ஆதரிப்பர்!](thimukazhagathinar_aatharippar.md) - pending
+- [தி.மு.கழகத்தின் ஒரே செல்வம் தோழமைதான்](thimukazhathin_orae_selvam.md) - pending
+- [திருச்சியில் அறிஞர் அண்ணா](thiruchiyil_arignar_anna.md) - pending
+- [திருக்குறள்](thirukkural.md) - pending
+- [sorpozhivugal/thiruppathur](thiruppathur.md) - translated
+- [திருப்பூர் கணேசன் குடும்பத்திற்கு உதவி](thiruppoor_ganesan.md) - pending
+- [திரு.வி.க படத்திறப்பு](thiruvika_padathirappu.md) - pending
+- [sorpozhivugal/thithikkkum](thithikkkum.md) - translated
+- [திட்டங்களை வெட்டுவது முறையா?](thitttangalai_vettuvathu.md) - pending
+- [தியாகங்களுக்குப் பின்னரே விடுதலை!](thiyagangalukku_pinnarae.md) - pending
+- [sorpozhivugal/thoazhamaya](thoazhamaya.md) - translated
+- [sorpozhivugal/thozhamayai](thozhamayai.md) - translated
+- [தோழர் அண்ணாதுரை](thozhar_annadurai.md) - pending
+- [sorpozhivugal/thozhil080460](thozhil080460.md) - pending
+- [sorpozhivugal/thozhil240757](thozhil240757.md) - translated
+- [துணிவு பெற்றாலன்றி நியாயம் பெற இயலாது](thunivu_petralandri.md) - pending
+- [உலகத் தமிழ் மாநாடு](ulaga_tamil_maanadu.md) - pending
+- [உலகம் நம்மை உற்றுக் கவனித்து வருகிறது](ulagam_nammai_uttru.md) - pending
+- [sorpozhivugal/ullatchi051157](ullatchi051157.md) - translated
+- [உள்ளத்திலும் உருவிலும் தங்கம் போன்றவர்](ullathilum_uruvilum.md) - pending
+- [உணர்ச்சி வெள்ளம்!](unarchi_vellam.md) - pending
+- [sorpozhivugal/unavu100958](unavu100958.md) - translated
+- [உரிமைப்போர்](unimaipoar.md) - pending
+- [sorpozhivugal/urimai161259](urimai161259.md) - translated
+- [sorpozhivugal/uruvagum_varalaru](uruvagum_varalaru.md) - pending
+- [sorpozhivugal/uthagai](uthagai.md) - translated
+- [உயர்ந்த இலட்சியத்தை உள்ளடக்கியது!](uyartha_latchiyathai.md) - pending
+- [உயிரைத் தருவோம் – திராவிடம் பெறுவோம்](uyirai_tharuvoam.md) - pending
+- [உழைப்பைத் திருடும் வெறிநாய்கள்!](uzhaippai_thirudum_verinaaygal.md) - pending
+- [உழைப்பு வீண்போகவில்லை](uzhaippu_veenpogavillai.md) - pending
+- [வாளாவிருந்துவிட்டால் நாடு பிழைக்காது](vaalavirunthuvittal.md) - pending
+- [வடவர் கண்டு வியந்த ஊர்வலமும் பொதுக்கூட்டமும்](vadavar_kandu.md) - pending
+- [வடவரிடமிருந்து பிரிவோம்!](vadavaridamirunthu_pirivom.md) - pending
+- [வேலை நிறுத்தம் என்பது விளையாட்டல்ல!](vaelai_nirutham_enbathu.md) - pending
+- [வேங்கையை விரட்ட வாரீர்!](vaengayai_viratta_vaareer.md) - pending
+- [வேட்டுமுறை இன்றியே விடுதலை பெறுவோம்](vaettumuraiyindriyae.md) - pending
+- [வைரமா? வண்ணத்துப் பூச்சியா?](vairama_vannathu.md) - pending
+- [வளம் காண வழி](valam_kaana_vazhi.md) - pending
+- [வலிமை மிக்க எதிரியை முறியடிக்க வேண்டும்](valimai_mikka_ethiriyai.md) - pending
+- [வள்ளுவர் குறளை வையகமெல்லாம் பரவச் செய்வீர்!](valluvar_kuralai.md) - pending
+- [“வரலாற்றுப் பட்டினத்தில் வறுமை வாழ்கிறது“](varalatru_pattinathil.md) - pending
+- [வறுமை நீங்க திட்டம் தேவை](varumai_neenga.md) - pending
+- [வசதிகள் அதிகரிக்க விஞ்ஞானத்தினை நாடுக!](vasathigal_athikarikka.md) - pending
+- [வழக்கு மன்றத்தில் - அறிஞர் அண்ணா!](vazhakkumandrathil_anna.md) - pending
+- [வீர மரபினரே விரைந்து வாரீர்](veera_marabinarae.md) - pending
+- [வீரமாகப் பணியாற்ற வேண்டும்!](veeramaga_paniyattra.md) - pending
+- [sorpozhivugal/veetirkor_putha](veetirkor_putha.md) - translated
+- [‘வீட்டிற்கும் சிறைச்சாலைக்கும் வேறுபாடு காணாதவர்கள் நாம்‘](veetirkum_siraichalaikkum.md) - pending
+- [sorpozhivugal/veettuku_oar](veettuku_oar.md) - translated
+- [sorpozhivugal/velanmai180948](velanmai180948.md) - translated
+- [sorpozhivugal/velanmai190359](velanmai190359.md) - translated
+- [sorpozhivugal/velanmai260358](velanmai260358.md) - translated
+- [வெள்ளச் சேதத்துக்கு அரசே பொறுப்பு](vella_saethathukku.md) - pending
+- [sorpozhivugal/velludai](velludai.md) - pending
+- [வெற்றி அல்லது வீரமரணம்](vetri_allathu_veera.md) - pending
+- [வெற்றி முரசு](vetri_murasu.md) - pending
+- [sorpozhivugal/vetri_veerargalukku](vetri_veerargalukku.md) - translated
+- [‘வெற்றி பெற்றவர் உருவில் நான் இருப்பேன்‘](vetripetravar_uruvil.md) - pending
+- [sorpozhivugal/viduthalai_iyakkam](viduthalai_iyakkam.md) - translated
+- [விடுதலை இயக்கத்தை அழித்ததாக வரலாறில்லை](viduthalai_iyakkathai.md) - pending
+- [விடுதலைப் போர்](viduthalai_poar.md) - pending
+- [‘விடுதலைப் போர் வீட்டுக்கொருவர் வாரீர்!‘](viduthalai_poar_veetukoruvar.md) - pending
+- [sorpozhivugal/viduthalai_thirunalil](viduthalai_thirunalil.md) - translated
+- [விடுதலை வேண்டாமென்போர் யார்?](viduthalai_vaendhamenbor.md) - pending
+- [sorpozhivugal/vilanginai](vilanginai.md) - translated
+- [sorpozhivugal/vithikku_adimai](vithikku_adimai.md) - translated
+- [‘விதித்துள்ள தடையைக் திரும்ப பெறுக‘](vithithulla_thadayai.md) - pending
+- [விவசாயக் கருத்தரங்கு](vivasaya_karutharangu.md) - pending
+- [விவசாயத்தில் அடைந்துள்ள முன்னேற்றம் என்ன?](vivasayathil_adainthulla.md) - pending
+- [sorpozhivugal/yathum_oorae](yathum_oorae.md) - translated

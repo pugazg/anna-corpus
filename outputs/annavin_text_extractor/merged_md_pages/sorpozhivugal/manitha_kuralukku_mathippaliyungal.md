@@ -1,0 +1,1 @@
+../../md_pages/sorpozhivugal/manitha_kuralukku_mathippaliyungal.md

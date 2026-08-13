@@ -1,0 +1,367 @@
+# கண்ணாடி வீட்டில் இருந்துகொண்டு கல் வீசுகிறார்! / Throwing Stones While Living in a Glass House!
+
+**Tamil title:** கண்ணாடி வீட்டில் இருந்துகொண்டு கல் வீசுகிறார்!  
+**English title:** Throwing Stones While Living in a Glass House!  
+**Source file:** `katturaigal/kannadi_veetil.md`
+
+## Source Tamil (verbatim)
+
+- Source image folder: `/Users/pugazhendhirajendran/Documents/Codex/2026-07-09/https-www-annavinpadaippugal-info/outputs/annavin_text_extractor/ocr_images/katturaigal/kannadi_veetil`
+- OCR language: `tam`
+- Tesseract page segmentation mode: `3`
+- OCR cleanup: `enabled`
+
+## Image 1: 001-3146540a81.png
+
+- Image: `katturaigal/kannadi_veetil/001-3146540a81.png`
+
+15. கண்ணாடி வீட்டில் இருந்துகொண்டு
+கல் வீசுகிறார்!
+
+தமிழ்நாடு இந்திப் பிரசார சபைத் தலைவர் தோழர் வேதரத்னம்
+அவர்கள், “இந்தி எதிர்ப்பை மறுக்கும் முறையில் ஓர் அறிக்கை
+வெளியிட்டிருக்கிறார். இந்தியை எதிர்ப்பவர்கள், அதனை, ஏன்,
+என்னென்ன காரணங்களுக்காக எதிர்க்கின்றனர் என்பதை நிதானமாகவும்,
+பொறுமையாகவும் ஆராயாமலேயே அந்த அறிக்கையை வெளியிட்டிருக்
+கிறார். இந்திப்பிரசார சபைக்கே தலைவராய் இருக்கும் ஒருவர், இந்தி
+எதிர்ப்பைக் கண்டும் வாளா இருப்பது முறையா என்று எவரேனும்
+கேட்டுவிட்டால் என்ன செய்வது என்ற எண்ணமே அவருக்கு இந்த
+அறிக்கையை வெளியிடும்படி தூண்டிவிட்டதென்று நினைக்கிறேன்.
+
+நாட்டுக்கு ஒரு பொதுமொழி வேண்டும். அதற்கு இந்தியே
+பொருத்தமுடையது - அதனை நாடெங்கும் பரப்புவதற்கு இந்திப் பிரசார
+சபைகளை ஏற்படுத்தி, அவைகளின் வாயிலாக மக்களுக்கு இந்தி
+கற்றுக்கொடுப்பது - என்ற காங்கிரசின் திட்டத்தின்படி, நாட்டில், இந்திப்
+பிரசாரம் நெடுநாட்களாகவே நடைபெற்றுவரும்போது, அரசாங்கம்,
+தனக்கிருக்கிற தொல்லைகள் போதாதென்று புதிதாக ஒரு தொல்லையை
+ஏன் உண்டாக்கிக் கொள்ள வேண்டுமென்பதைக் கூடத் தோழர் வேதரத்னம்
+அவர்கள் எண்ணிப் பார்க்க முடியாத நிலையில் இருந்துகொண்டு, இந்தி
+எதிர்ப்பாளர்களிடத்தில் தவறு கண்டுபிடிப்பதுதான் வேடிக்கையாக
+இருக்கிறது.
+
+தோழர் வேதரத்னம் அவர்களே தம்முடைய அறிக்கையில்
+கூறுகிறார், இந்தி ஒன்றுதான் இந்நாட்டு மக்களில் பெரும்பான்மையோரால்
+பேசப்படும் மொழி என்று. இது எவ்வளவு உண்மையென்பது ஒருபுறம்
+
+## Image 2: 002-1c2d40f23f.png
+
+- Image: `katturaigal/kannadi_veetil/002-1c2d40f23f.png`
+
+இருக்கட்டும். அவர் கூறுகின்றபடி இந்திதான் இந்நாட்டு மக்களில்
+பெரும்பாலார் பேசும்மொழி யென்றால், பெரும்பான்மையோரால்
+பேசப்படும் ஒருமொழியைச் சிறுபான்மையோராக உள்ள சிலர், அதை
+ஒப்புக் கொண்டாலும் ஒப்புக்கொள்ளாவிட்டாலும், அவர்களுக்கும்,
+அந்தப் பெரும்பான்மை மக்களால் பேசப்படுவதாகச். சொல்லப்படும்
+மொழிதானே பொதுமொழியாக அமையும் - அமைய முடியும்.
+அப்படியிருக்க, அதனை ஏன் கட்டாயப்படுத்திக் கற்கும்படி செய்கிறீர்கள்?
+அதற்குத்தான் நாங்கள் இருக்கிறோமே! இந்திப் பிரசார சபை இருக்கிறதே!
+என்று, பலமொழிகளை ஆராய்ந்து, அவற்றுள் இந்தி ஒன்றுதான் இந்நாட்டு
+மக்களில் பெரும்பான்மையோரால், பேசப்படுகின்றதென்பதைக்
+'கண்டுபிடித்த' தோழர் வேதரத்னம் அவர்கள், கல்வியமைச்சரைக்
+கேட்டிருக்கலாம், அல்லது அவருக்கு அறிவுரை புகட்டி, அவரை அந்தத்
+தேவையற்ற முயற்சியில் இறங்காமலும், அதற்காகப் பொதுப்பணத்தைப்
+பாழாக்காமலும் இருக்கும்படி செய்திருக்கலாம். அதை விட்டு இந்தி
+எதிர்ப்பாளர்கள் மீது குறை கண்டுபிடிக்கும் குறுகிய மனப்போக்கை ஏன்
+கொண்டார் என்பது தெரியவில்லை.
+
+மேலும் அவர் தம்முடைய அறிக்கையில் கூறுகிறார், இந்தியில்
+இலக்கியச் சிறப்பு எதுவும் இல்லை என்று. இந்தச் சமயத்தில் இந்த
+உண்மையை அவரே ஒப்புக்கொண்டு வெளியிட்டதற்காக நான் அவரைப்
+பாராட்டுகிறேன். ஆனால்; பொதுமக்களிடத்தில் ஒரு மொழி கட்டாய
+மாகப் புகுத்தப்படும்போது, அவர்கள் அந்த மொழியில் இலக்கியச் சிறப்பு
+இருக்கிறது - இலக்கண அமைப்பு இருக்கிறது என்பதற்காகவோ, அல்லது
+அந்த மொழியில் அவை இல்லை என்பதற்காகவோ, அவர்கள் அதனைக்
+கற்றுக் கொள்வதில்லை - அந்த மொழிக்கு ஏற்பட்டுள்ள செல்வாக்கு,
+அவர்களுக்கு அதனிடத்து மதிப்புக் கொள்ளும்படி செய்துவிடுகிறது.
+உதாரணமாக ஆங்கிலத்தை எடுத்துக் கொள்ளலாம். ஆங்கிலம்,
+உலகிலேயே சிறந்த இலக்கியங்களைத் தன்னகத்தே கொண்ட ஒரு மொழி.
+அதனுடைய வளம், இலக்கியத் துறையில், பிறமொழி இலக்கியங்களையும்
+வளரச்செய்யும் சிறப்பினைப் பெற்று மேலும் மேலும் வளர்ச்சி
+அடைந்துகொண்டே இருக்கிறது. ஆங்கிலத்துக்கு இத்துணைச் சிறப்பு
+இருக்கிறதென்பதற்காகவா இந்நாட்டு மக்கள் அம்மொழிக்கு மதிப்புக்
+கொடுத்து அதனைக் கற்றுக் கொண்டனர்? அல்லது. ஆங்கிலத்தில், ஒரு
+
+## Image 3: 003-559079a254.png
+
+- Image: `katturaigal/kannadi_veetil/003-559079a254.png`
+
+ஷேக்ஸ்பியா, ஒரு பைரன், ஒரு ஷெல்லி இருக்கின்றனர் - அவர்
+களுடைய இலக்கியங்கள் படித்தின்புறுதற்குரியன என்று எண்ணியா
+இந்நாட்டு மக்கள் அதற்கு மதிப்புக் கொடுத்தனர்? இல்லவே இல்லை!
+என்றாலும் இந்நாட்டு மக்கள் அந்த மொழிக்கு மதிப்புக் கொடுத்தனர் -
+கற்றுக் கொண்டனர். காரணம் என்ன?
+
+ஆங்கிலம், அரசாங்க மொழி - அமைச்சர்கள் பேசும் மொழி -
+கலெக்டர் பேசுகிறார் - கண்டக்டரும் பேசுகிறார் - ரோட்டில் பேசப்படுகிறது
+- ஓட்டலில் பேசப்படுகிறது - வீட்டில் பேசப்படுகிறது என்ற செல்வாக்கை
+அதற்கு உண்டாக்கியதால்தானே அதனை மக்கள் மதிப்புக் கொடுத்துக்
+கற்றுக்கொண்டனர். ஆங்கிலம் தெரிந்தவர்களில் பலருக்கு இன்றும் கூட
+ஷேக்ஸ்பியர் என்றால் என்ன என்றே தெரியாது.
+
+இதுபோலவேதான், இந்திமொழியில் இலக்கியச் சிறப்பு எதுவும்
+இல்லையென்ற போதிலும் - இலக்கண அமைப்புக் கிடையாது என்ற
+போதிலும், அந்த மொழி அரசாங்கத்தின் செல்வாக்கைப் பெற்றுவிட்டால்
+அதனையே மக்கள் விரும்புவர் - மதிப்பர். இதனால் தமிழ் மொழி
+தன்நிலை கெடும் - தன் செல்வாக்கை இழக்கும்.
+
+தோழர் வேதரத்னம் அவர்களின் கணக்குப்படி, பத்துலட்சம்
+தொண்டர்களும் அவர்களுடைய தலைவர்களும் சேர்த்து ஆங்கிலத்தை
+விரட்டியடிப்பதற்கு எத்துணைக் கஷ்டப்பட்டார்கள்? அவர்கள் இந்தச்
+செயற்கரிய காரியத்தைச் செய்து வெற்றி பெற்றதற்காக உலகமே
+அவர்களைப் பாராட்டிற்று. ஆயுதம் தாங்கிய ஆங்கிலேயர்களை ஆயுதம்
+இல்லாமலேயே விரட்டியடித்தார்கள். இதனைச் சாதாரண காரியம் என்று
+எந்த அறிவுகெட்டவனும் கூறமாட்டான்.
+
+ஆனால் இப்படிப்பட்டவர்கள் இன்று என்ன செய்கிறார்கள்?
+ஆங்கிலத்தை விரட்டியடித்து விட்டோம். இப்போது அந்த இடத்துக்கு
+இந்தியைக் கொண்டுவந்து விட்டோம் என்று எக்களிப்புடன் கூறுகிறார்கள்.
+பெற்ற சுதந்திரம் உங்களுக்கல்ல, எங்களுக்குத்தான் என்று தமிழ் மக்களை
+நோக்கிக் கூறுகிறார்கள். தமிழுக்கல்ல, இந்திக்குத்தான் என்று தமிழை
+நோக்கிக் கூறுகிறார்கள். தமிழில் இலக்கியம் இருந்தால் என்ன?
+இலக்கணம் இருந்தால் என்ன? கலைப்பொலிவு இருந்தால் என்ன?
+அதற்கில்லை செல்வாக்கு! இந்தியில் இலக்கியமில்லை - இலக்கணம்
+
+## Image 4: 004-b34a56ff38.png
+
+- Image: `katturaigal/kannadi_veetil/004-b34a56ff38.png`
+
+இல்லை; என்றாலும் அதற்கே செல்வாக்கு - அதிகாரபூர்வமான செல்வாக்கென்று
+ஆளவந்தவர்கள் ஆளவைத்தவர்களை நோக்கிக் கூறுகிறார்கள்.
+இது முறையா - தகுமா என்று கேட்டால், இந்தியால் தமிழுக்கு
+
+ஆபத்தில்லை - ஆபத்தென்று கூறுவது வெறும் புரளி என்று பூச்சாண்டி
+காட்டுகிறார் தோழர் வேதரத்னம் அவர்கள்.
+
+இந்தியால் தமிழுக்கு ஆபத்தில்லை என்று இன்று கூறப்படுவது
+போலவேதான் அன்றும் ஆங்கிலத்தால் தமிழுக்கு ஆபத்தில்லை என்று
+கூறப்பட்டது. ஆங்கிலம் கற்பவர்களும், தங்களுடைய ஆங்கிலக் கல்வி,
+தமிழுக்கு ஆபத்தை உண்டாக்கும் அல்லது உண்டாக்க வேண்டுமென்ற
+எண்ணத்தோடும் அதனைக் கற்கவில்லை. ஆனால், இன்று ஆங்கிலம் கற்ற
+தமிழ் மக்கள் பேசும் தமிழையும் ஆங்கிலம் கல்லாத தமிழ் மக்கள் பேசும்
+தமிழையும் ஒப்புநோக்கிப் பாருங்கள். ஆங்கிலம் கற்றவர்கள் பேசும்
+தமிழில், அவர்களையும் அறியாமல் எத்தனை ஆங்கிலச் சொற்கள் புகுந்த
+தமிழைக் கெடுத்து விடுகின்றன! ஆங்கிலம் அரசாங்கத்தின் செல்வாக்கைப்
+பெற்றிருந்த காரணத்தால், அதனைக் கல்லாதவர்கள் கூட அதற்கு மதிப்புச்
+கொடுக்கவேண்டுமென்ற அறியாமை மிகுந்த ஆர்வத்தால், அங்கும்
+இங்குமாகப் பொறுக்கி எடுத்த ஆங்கிலச் சொற்களை வைத்துக்கொண்டு
+தமிழ் மொழியிற் பேசும்போது, அவற்றை அங்கங்கே தூவித் தமிழில்
+தூய்மையைக் கெடுத்துவிடுகிறார்கள்!
+
+இந்த நிலையில், இனி இந்தியும் அரசாங்கத்தின் செல்வாக்கைப்
+பெற்றுவிட்டால் தமிழ் மொழியின் நிலை என்ன ஆகும்? தரணி ஆண்ட
+தமிழ், தனி ஒருவனால் கூடப் பேச முடியாத நிலையை அடையாதா? இந்த
+நுழைவால் தமிழுக்கு ஆபத்து ஏற்படாதா? இந்த உண்மைகளைத், தோழர்
+வேதரத்னம் அவர்கள் இப்போது அவருக்கு இருக்கும் இந்தி ஆர்வத்தால்
+ஆர அமர இருந்து ஆராய்ந்து பார்க்க முடியாதுபோனாலும், அவருடைய
+பின் சந்ததியார், தமிழ் மொழிக்கு இந்தியாலும் பிற மொழிகளாலும்
+ஏற்பட்ட ஆபத்தை எண்ணி வருந்தாமல் இருக்கமுடியாது.
+
+ஒருமொழி, பிற மொழிகளின் கலப்பால் கெட்டுவிடும் என்பது, பிற
+மொழிகளை அம் மொழியோடு கலக்கும்போது தெரியாது. காலப்
+போக்கில்தான் அதன் உண்மை புலப்படும். உதாரணம் வேண்டுமா?
+சமஸ்கிருதமும் ஆங்கிலமும் இன்று எந்த அளவில் தமிழ் மொழியில்
+
+## Image 5: 005-21b9dcda03.png
+
+- Image: `katturaigal/kannadi_veetil/005-21b9dcda03.png`
+
+கலந்து தமிழின் தகைமையைச் சிதைத்துவிட்டன என்பதைச் சிறிது
+தமிழுணர்வோடு எண்ணிப் பார்த்தால் விளங்கி விடுமே! தமிழ் என்ன
+மற்றமொழிகளைப்போல் இரவல் வாங்கிப் பிழைக்கும் மொழியா?
+இல்லாதவன் இரப்பது இயற்கை. இருப்பவன் இரப்பது இழிவு. இந்தியால்
+தமிழுக்கு ஆபத்தில்லை என்று கூறும் தோழர் ஏன் இதனை எண்ணிப்
+' பார்க்கக்கூடாது? தமிழில் சோறு இருக்கும்போது சாதத்தை ஏன் இரவல்
+வாங்க வேண்டும்? தமிழில் சந்தை, அங்காடி இருக்கும் போது
+மார்க்கட்டை ஏன் இரவல் வாங்கினோம்? இவ்வளவும் போதாதென்று
+இனிச், சாவல், பஜார் ஆகிய இந்திச் சொற்களையும் தமிழ், இரவல்
+'வாங்கவேண்டுமென்று கூறுவது முறையா என்று கேட்டால், ''அப்பா
+குதிருக்குள் இல்லை '' என்ற முறையில் இந்தியால் தமிழுக்கு ஆபத்தில்லை
+என்றா பேசுவது? இவ்வாறு ஒரு தமிழன் பேசலாமா?
+
+தமிழுக்கு ஆபத்தில்லை - அது நல்ல செல்வாக்கோடுதான்
+திகழ்கிறது என்று தோழர் வேதரத்னம் கூறுகிறாரே, இதில் ஏதாவது
+உண்மையிருக்கிறதா? எங்கே இருக்கிறது அதற்குச் செல்வாக்கு? தமிழ்
+நாட்டிலுள்ள கோயில்களில் தமிழ்மொழிக்குச் செல்வாக்கிருக்கிறதா?
+வீடுகளில் நடைபெறும் மணவினை முதலான காரியங்களில் தமிழ்
+செல்வாக்குப் பெற்றிருக்கிறதா? இதற்கெல்லாம், தோழர் வேதரத்னம்
+அவர்கள் குறிப்பிடுவதுபோல், இந்நாட்டில், ஒரு தாயோ சேயோ பேச
+முடியாத சமஸ்கிருதம் அன்றோ பயன்படுத்தப்படுகின்றது. ஏன் இந்த நிலை
+ஏற்பட்டது?
+
+இந்தி கற்றதால் அன்றோ குமர குருபரர் இங்கிருந்து காசிக்குப்
+போய்க் கம்பராமாயணத்தைத் துளசி ராமாயணமாக்கினார் என்று
+பெருமிதத்தோடு பேசிமகிழும் அன்பர் வேதரத்னம் அவர்கள், வட நாட்டில்
+இருந்துவந்த சமஸ்கிருதம், தென்னாட்டிலுள்ள கோயில்களில் குடிபுகுந்து,
+தமிழ் மொழியை அங்குக் குடிபுக விடாமல் விரட்டியடித்து விட்டதே!ஏன்?
+எப்படி? எதனால்? என்பதை எண்ணிப் பார்க்க வேண்டாமா? இது,
+தமிழுக்கு ஆபத்தில்லையா என்று உணர்ந்து பார்க்கவேண்டாமா?
+
+இனி, இலக்கியச் சிறப்பும், இலக்கண அமைப்பும், கலைச்செல்வமும்
+
+நிரம்ப உள்ள தமிழ்மொழி வழங்கும் தமிழ் நாட்டில் இவை எதுவுமற்ற
+'இந்திமொழியைக் கொண்டு வந்து நுழைப்பதை எண்ணும்போது நமக்கு
+
+## Image 6: 006-88e630e795.png
+
+- Image: `katturaigal/kannadi_veetil/006-88e630e795.png`
+
+ஒரு புராணக்கதைதான் நினைவுக்கு வருகிறது. அதாவது, நளாயினி என்ற
+பெண், தன்னுடைய தொழுநோய் பிடித்த கணவனை ஒரு கூடையில்
+வைத்துச் சுமந்துகொண்டுபோய் இன்னொரு பெண்ணிடம் விட்டாளாம்.
+இந்த முறையிலே தான் இப்போது கல்வியமைச்சரும் தோழர் வேதரத்னம்
+போன்றாரும் தொழுநோய் பிடித்த(இலக்கிய இலக்கண வளமற்ற )
+இந்தியை அரசியல் கூடைக்குள் வைத்துச் சுமந்துகொண்டு வந்து
+தமிழ்மொழியோடு சேர்க்கப் பார்க்கின்றனர். தொழுநோய், தொட்டவரை
+என்ன செய்யும்? தொட்டவரும் தொழுநோய்க்குள்ளாகத்தானே வேண்டும்!
+தமிழுக்கு இந்த நிலை ஏற்பட்டால் ஆபத்தில்லையா? அவமானம்
+இல்லையா? ஏன் இதனை இவர்கள் எண்ணிப்பார்க்கக் கூடாது?
+
+தொழுநோய் பிடித்த கணவனை, அவன் மனைவி இன்னொரு
+பெண்ணிடம் கொண்டுபோய் விட்டாள் என்ற கதை புராண(ஆரிய)
+முறைப்படி ஒருவேளை சிறந்த - நாகரிகச் செயலாக இருக்கலாம். ஆனால்
+ஒரு பெண் தன்னுடைய கணவனை இன்னொரு பெண்ணிடம்
+கொண்டுபோய் விடுவதும், அந்தக் காரியத்தை அவளே மனமொப்பிச்
+செய்வதும் தமிழர் முறைப்படி, மனத்தினால்கூட எண்ணத்தகாத ஒழுக்கம்
+கெட்ட காரியமாயிற்றே! கல்லையும் புல்லையும் கணவனாகக் கருதி, அவன்
+சொல்வதை யெல்லாம், ஒரு பெண் தன்னுடையகண்ணையும் கருத்தையும்
+மூடிக்கொண்டு பின்பற்றி நடக்க வேண்டுமென்று கூறுவது, தமிழர்
+பண்பாட்டினை அறியாதார் கூற்றாகும். எனவேதான் நளாயினியின்
+நாகரிகமற்ற செயல் போன்ற காரியத்தை நாடாள வந்தவர்கள், அதிலும்
+தமிழர் பண்பாட்டினை உணர்ந்தவர்கள் செய்யக்கூடாது - செய்ய
+வேண்டாம் என்று கூறுகின்றேன் - புனிதத் தன்மை வாய்ந்த தமிழ்
+மொழியோடு, தொழுநோய்பிடித்த இந்தியைப் பிணைத்துத் தமிழின்
+தூய்மைக்கு இழுக்குத் தேடவேண்டாம் என்று கூறுகின்றேன் - இந்தி
+நுழைவு, தமிழ்மொழிக்கு மட்டுமல்ல; தமிழ்க்கலை, தமிழ் நாகரிகம்
+ஆகியவற்றுக்கும் கேடுண்டாக்கும் என்று கூறுகின்றேன் - நளாயினி,
+தனக்குத் தவிர்க்கமுடியாத மானக்கேட்டினை உண்டாக்கியதோடு மட்டும்
+என்று விடாமல், தொழுநோய் பிடித்த தன்னுடைய கணவனை இன்னொரு
+பெண்ணிடம் கொண்டுபோய்விட்டு, அவளும் அந்தத் தொழுநோயால்
+துன்பம் அடையும்படி செய்ததுபோல், செய்ய வேண்டாமென்று இப்போது
+அந்த 'நளாயினி வேலை'யைச் செய்ய முற்பட்டிருக்கும் தோழர்
+
+## Image 7: 007-d80f7dcfad.png
+
+- Image: `katturaigal/kannadi_veetil/007-d80f7dcfad.png`
+
+வேதரத்தினம் அவர்களையும் கல்வி அமைச்சரையும் கேட்டுக்
+கொள்கிறேன்.
+
+இனித், தோழர் வேதரத்னம் அவர்கள், ''இந்தியில் இலக்கியம்
+இல்லை - இலக்கணம் இல்லை - தமிழில் இலக்கியம் இருக்கிறது -
+இலக்கணம் இருக்கிறது - என்ற போதிலும் இந்தியைத்தான் நாம்
+அனைவரும் கற்றுக்கொள்ள வேண்டும் - அதற்கே அரசாங்கச் செல்வாக்கு
+உண்டாக்கவேண்டும்'' என்று கூறுகிறார். இது எப்படியிருக்கிறதென்றால்,
+எனக்கு வாய்த்த மனைவிநல்ல அழகுள்ளவள், ஒழுக்கமுள்ளவள்தான்.
+என்றாலும் அவள்மீது எனக்குக் காதல் இல்லை. அடுத்த தெருவில் ஒருத்தி
+இருக்கிறாள். அவளுக்குக் கண் இல்லை - மூக்குச் சப்பை - காது கேளாது -
+பற்கள் பனையளவு நீளம், இருந்தாலும் அவளைத்தான் நான் விரும்பு
+கிறேன் - காதலிக்கிறேன்'' என்று கூறுவது போல் இருக்கிறது. இந்தத்
+துறையில் தோழர் வேதரத்னம் அவர்களின் உள்ளக்கிடக்கை எப்படி
+யிருந்தபோதிலும், அதுபற்றி நான் கவலையோ, வியப்போ கொள்ள
+வில்லை - கொள்வதும் முறையாகாது - அது அவருடைய தனிப்பட்ட
+பண்பு என்றும் விட்டுவிடலாம். ஆனால், தமிழ்மக்கள் அனைவருமே
+இந்தப் போக்கினைக் கொள்ளவேண்டுமென்று கூறப்படுவதை யாரும்
+ஒப்புக்கொள்ள முடியாது - கூடாது.
+
+எனவேதான், தமிழ் நாட்டைத் தமிழ்தான் ஆளவேண்டும் - இந்திக்கு
+அந்தச் செல்வாக்கு ஏற்படவிடக்கூடாது என்று கூறுகின்றேன்.
+தமிழ்நாட்டில் தமிழ்தான் அரசியல் செல்வாக்கைப் பெறவேண்டும் -
+இந்திக்கு அந்தச் செல்வாக்கு அதிலும் அரசியல் அதிகாரபூர்வமான
+செல்வாக்கு ஏற்பட்டுவிட்டால், நான்மேலே எடுத்துக்காட்டியபடி, தமிழின்
+செல்வாக்குக் குறையும் - இந்தியால் தமிழுக்கு நிச்சயம் ஆபத்து
+உண்டாகும் என்று கூறுகின்றேன். பத்தாண்டுகளுக்கு முன் இந்த நிலை
+தமிழுக்கு ஏற்பட்டு, இருவரின் உயிரைக் குடித்த இந்தி - ஆயிரத்துக்கு
+மேற்பட்டவர்களைச் சிறைக்கு அனுப்பிய இந்தி, மீண்டும் அந்தப்
+பணியினையே செய்ய முன் வந்திருக்கிறது. ''அப்படியா? மீண்டும்
+இந்தியா? அன்று ஆயிரம் என்றால், இன்று பத்தாயிரம்பேர் தயாராக
+உள்ளனர் தமிழைக் காக்க'' என்பதனை வேதரத்னம் அவர்கள் விளையாட்டாக
+எண்ணி விம்மிதமடைய வேண்டாம் என்று எச்சரிக்கை
+செய்கிறேன்.
+
+## Image 8: 008-451404f052.png
+
+- Image: `katturaigal/kannadi_veetil/008-451404f052.png`
+
+இனி, நாட்டுக்கு ஒரு பொதுமொழி வேண்டுமென்ற குளிரால்
+அவதிப்படுவோர், வேண்டுமானால், இந்திப்போர்வையால் மூடிக்
+கொள்ளட்டும். எல்லோரும் அந்தப் போர்வையை போட்டுக்கொள்ள
+வேண்டுமென்று கட்டாயப்படுத்தவேண்டாம். இந்தி கட்டாய முயற்சிக்குத்
+தோழர் வேதரத்னம் போன்றோர் பரிந்துபேசவும் வேண்டாம். தமிழறிந்த
+அறிஞர்கள் இந்தியால் தமிழுக்கு ஆபத்து உண்டாகும் என்பதை உணர்ந்து
+கூறிவிட்டனர். குறைமதியினரன்றி, மற்றை எவரும் இந்த உண்மையை
+மறுக்க முன்வரமாட்டார்கள். கள் குடிப்பவன், கள் குடிப்பதால் தீமை
+யெதுவும் ஏற்படாது என்று கூறுவதில் எவ்வளவு உண்மையிருக்குமோ,
+அவ்வளவு உண்மை, இந்திப் பிரசாரச் சபைக்குத் தலைவராய் இருக்கும்
+ஒருவர், இந்தியால் தமிழுக்கு ஆபத்தில்லை என்று கூறுவதிலும்
+இருக்கிறது. கண்ணாடி வீட்டில் இருந்துகொண்டு கல் எறிவது போல்,
+தோழர் வேதரத்னம் அவர்கள் இந்திப்பிரசாரசபையில் இருந்துகொண்டு
+இந்தியால் தமிழுக்கு ஆபத்தில்லை என்று கூறுகிறார். கண்ணாடி வீட்டுக்
+காரன் காரைவீட்டின்மீது கல் வீசினால், கண்ணாடிவீடு என்ன ஆகும்
+என்பதைத் தோழர் வேதரத்னம் அவர்கள் உணரவேண்டுகிறேன்.
+
+இங்ஙனம்,
+ஈழத்து அடிகள்,
+முன்னாள் இந்தி எதிர்ப்பு
+இரண்டாவது சர்வாதிகாரி.
+
+(திராவிட நாடு - 1.8.48)
+
+## English Translation
+
+Comrade Vedarathnam, President of the Tamil Nadu Hindi Prachar Sabha, has issued a statement attempting to rebut the opposition to Hindi. He has issued it without calmly and patiently examining why the opponents of Hindi oppose it and the grounds on which they do so. I think he was prompted to release this statement by the thought of what he would do if someone asked whether it was proper for the president of the Hindi Prachar Sabha itself to remain idle when he saw opposition to Hindi.
+
+The country needs a common language. Hindi is suited to that purpose. Hindi Prachar Sabhas should be established to spread it throughout the country, and Hindi should be taught to the people through them: under this Congress programme, Hindi propaganda has long been carried on in the country. Even so, Comrade Vedarathnam is unable to consider why the government, as though its existing troubles were not enough, should create a new trouble for itself. It is therefore amusing that he finds fault with those who oppose Hindi.
+
+Comrade Vedarathnam himself says in his statement that Hindi alone is spoken by a majority of the people of this country. Let the degree of truth in that claim remain aside. If, as he says, Hindi is the language spoken by most of the country's people, then whether the few who form the minority accept it or not, would not the language said to be spoken by that majority naturally become the common language for them too? Would that not be possible? If so, why compel them to learn it? Comrade Vedarathnam, who has "discovered" after examining many languages that Hindi alone is spoken by a majority of this country's people, could have asked the Education Minister, "Are we not here for that? Is the Hindi Prachar Sabha not here?" He could instead have advised the minister and prevented him from undertaking that needless venture and wasting public money on it. Why he abandoned that course and adopted the narrow outlook of blaming Hindi's opponents is not clear.
+
+He further says in his statement that Hindi possesses no literary distinction. I commend him for acknowledging and publishing this truth on this occasion. But when a language is forcibly imposed upon the public, people do not learn it because it has literary distinction or a grammatical structure, nor do they refuse to learn it because it lacks them. The influence acquired by that language causes people to value it.
+
+Take English, for example. English is a language containing some of the world's finest literature. Its wealth in the literary field has gained the quality of enriching the literatures of other languages, and it continues to grow. Did the people of this country respect and learn English because it possessed such distinction? Did they value it because they thought that English had a Shakespeare, a Byron and a Shelley whose works deserved to be read and enjoyed? Certainly not. Yet the people of this country valued and learned that language. Why?
+
+English was made the language of government: the language spoken by ministers; the Collector spoke it; the conductor spoke it; it was spoken on the road, in the hotel and at home. Was it not because English was given this influence that people respected and learned it? Even today, many who know English do not know what Shakespeare means.
+
+In just the same way, even if Hindi possesses no literary distinction and has no grammatical structure, once it gains the influence of government, people will prefer and respect it. Tamil will thereby lose its standing and its influence.
+
+According to Comrade Vedarathnam's reckoning, how hard did ten lakhs of volunteers and their leaders struggle to drive out the English? The whole world praised them for accomplishing and succeeding in this difficult task. They drove out armed Englishmen without themselves bearing arms. No one devoid of sense would call that an ordinary achievement.
+
+But what are such people doing today? They exultantly say, "We have driven out English; now we have brought Hindi into its place." They tell the Tamil people, "The freedom won is not for you; it is for us." They tell Tamil, "It is not for you; it is for Hindi." What if Tamil has literature? What if it has grammar? What if it has artistic splendour? It has no influence! Hindi has neither literature nor grammar, yet it alone shall have influence, official influence: this is what those who came to rule tell those who enabled them to rule. When asked whether this is proper or fitting, Comrade Vedarathnam raises a bogey, saying that Hindi poses no danger to Tamil and that any claim of danger is mere rumour.
+
+Just as it is said today that Hindi poses no danger to Tamil, it was once said that English posed no danger to Tamil. Those who learned English did not learn it with the intention that their English education should create danger for Tamil. But compare today the Tamil spoken by Tamil people who learned English with that spoken by Tamil people who did not. How many English words enter the Tamil of the English-educated without their awareness and spoil it! Because English possessed the influence of government, even those who had not learned it, driven by an ignorant eagerness to accord it respect, picked up stray English words here and there and scattered them through their Tamil speech, impairing Tamil's purity.
+
+In these circumstances, if Hindi too gains the influence of government, what will become of Tamil? Will Tamil, which once ruled the earth, not reach a state in which not even one person can speak it by itself? Will this entry not endanger Tamil? Even if Comrade Vedarathnam, because of his present enthusiasm for Hindi, cannot sit down calmly and examine these truths, his descendants will not be able to avoid grieving over the danger caused to Tamil by Hindi and other languages.
+
+One cannot see that a language is being damaged by admixture from other languages at the time those languages are mixed into it. The truth becomes apparent only with the passage of time. Do you need an example? Consider with even a little feeling for Tamil how extensively Sanskrit and English have mixed with Tamil today and impaired its character, and it will become clear. Is Tamil a language that must survive by borrowing, like other languages? It is natural for one who has nothing to beg; it is disgraceful for one who possesses riches to beg. Why should the comrade who says Hindi poses no danger to Tamil fail to consider this? When Tamil has "soru," why must it borrow "sadam"? When Tamil has "sandhai" and "angaadi," why did we borrow "market"? As though all this were not enough, if Tamil is now told to borrow the Hindi words "chawal" and "bazaar" too, and we ask whether that is proper, can one respond that Hindi poses no danger to Tamil, in the manner of saying, "Father is not inside the grain bin"? Can a Tamil speak in this way?
+
+Comrade Vedarathnam says that Tamil is in no danger and continues to enjoy good influence. Is there any truth in this? Where does Tamil possess influence? Does the Tamil language have influence in the temples of Tamil Nadu? Does Tamil enjoy influence in weddings and other ceremonies conducted in homes? As Comrade Vedarathnam himself points out, Sanskrit, which not a mother or child in this country can speak, is used for all these things. Why did this condition arise?
+
+Friend Vedarathnam proudly delights in saying that it was by learning Hindi that Kumaraguruparar travelled from here to Kashi and turned the Kamba Ramayanam into the Tulsi Ramayanam. But Sanskrit, which came from the North, entered the temples of the South and drove Tamil away, refusing to let it enter there. Should he not consider why, how and through what cause this happened? Should he not recognize whether this is a danger to Tamil?
+
+When we think of bringing Hindi, which possesses none of these things, into Tamil Nadu, where Tamil, abundant in literary distinction, grammatical structure and artistic wealth, is spoken, a mythological story comes to mind. A woman named Nalayini is said to have carried her leprosy-stricken husband in a basket and left him with another woman. In this same manner, the Education Minister and people such as Comrade Vedarathnam now carry leprous Hindi, devoid of literary and grammatical wealth, in a political basket and seek to join it to Tamil. What does leprosy do to one who touches it? Must not the person touched also become afflicted? If Tamil is brought to this condition, is it not a danger and a humiliation? Why should they not consider this?
+
+The story of a wife taking her leprous husband to another woman may, under the mythological or Aryan code, perhaps be regarded as a refined and civilized deed. But under the Tamil code, for a woman to take her husband to another woman, and willingly perform that act herself, is misconduct unthinkable even in the mind. To say that a woman must regard stone or grass as her husband and blindly follow whatever he says is the claim of those ignorant of Tamil culture.
+
+That is why I say that those who have come to govern the country, especially those who understand Tamil culture, must not and should not perform a deed like Nalayini's uncivilized act. Do not bind leprous Hindi to the sacred Tamil language and bring disgrace upon Tamil's purity. The entry of Hindi will harm not only the Tamil language but Tamil art and Tamil civilization as well. Nalayini did not stop after bringing unavoidable disgrace upon herself; by taking her leprous husband to another woman, she caused that woman too to suffer from the disease. I therefore ask Comrade Vedarathnam and the Education Minister, who have now set out to do this "work of Nalayini," not to do it.
+
+Comrade Vedarathnam then says: "Hindi has no literature and no grammar; Tamil has literature and grammar. Even so, all of us must learn Hindi, and it must be given the influence of government." This is like saying, "The wife who came to me is beautiful and virtuous, but I have no love for her. There is a woman in the next street. She has no eyes, her nose is flat, she is deaf and her teeth are as long as palm trees; nevertheless, she alone is the one I desire and love." Whatever Comrade Vedarathnam's inner inclination may be in this sphere, I neither worry nor marvel at it; indeed, it would not be proper for me to do so. It may be dismissed as his private disposition. But no one can or should accept the demand that all Tamil people adopt this attitude.
+
+That is why I say Tamil alone must rule Tamil Nadu, and Hindi must not be allowed to acquire that influence. Tamil alone must possess political influence in Tamil Nadu. If Hindi acquires that influence, particularly official political influence, Tamil's influence will diminish, as I have illustrated above, and Hindi will certainly endanger Tamil. Ten years ago, Hindi created this condition for Tamil, took two lives and sent more than a thousand people to prison. It has now come forward to do that work again. Comrade Vedarathnam should not dismiss as a game, or react with startled amazement to, the declaration: "Is that so? Hindi again? If there were a thousand then, ten thousand stand ready today to protect Tamil." I warn him against doing so.
+
+Those who suffer from the chill of wanting a common language for the country may, if they wish, wrap themselves in the blanket of Hindi. They must not compel everyone to put on that blanket. Nor should people such as Comrade Vedarathnam advocate the compulsory-Hindi effort. Scholars who know Tamil have recognized and stated that Hindi will endanger Tamil. None but people of deficient understanding will come forward to deny this truth. There is as much truth in the president of the Hindi Prachar Sabha saying that Hindi poses no danger to Tamil as there is in a drinker saying that drinking liquor causes no harm. While living in the Hindi Prachar Sabha, Comrade Vedarathnam says Hindi poses no danger to Tamil, like one who throws stones while living in a glass house. I ask Comrade Vedarathnam to realize what will happen to the glass house if its occupant throws a stone at a concrete house.
+
+Yours,
+
+Eelathu Adigal,
+
+Former second dictator of the anti-Hindi agitation.
+
+(*Dravida Nadu*, 1 August 1948)
+
+## Translator's Notes
+
+The Tamil source is a sharply polemical historical essay. Its comparisons, including the extended references to disease, gender and disability, are translated faithfully as the author's rhetoric and are not endorsements by the translator.
+
+The words "soru," "sadam," "sandhai," "angaadi," "chawal" and "bazaar" are transliterated where the argument depends on contrasting Tamil terms with Sanskrit-, English- or Hindi-derived alternatives.
+
+"Father is not inside the grain bin" renders the Tamil proverbial expression "அப்பா குதிருக்குள் இல்லை," used for a denial that inadvertently exposes the very fact being denied.
+
+The signature "second dictator" is retained literally as the historical title printed in the source for a leader of the anti-Hindi agitation.

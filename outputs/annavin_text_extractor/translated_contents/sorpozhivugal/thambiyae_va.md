@@ -1,0 +1,227 @@
+# தம்பியே வா! தானையோடு வா! / Come, Younger Brother! Come with the Host!
+
+**Tamil title:** தம்பியே வா! தானையோடு வா!  
+**English title:** Come, Younger Brother! Come with the Host!  
+**Source file:** `sorpozhivugal/thambiyae_va.md`
+
+## Source Tamil (verbatim)
+
+- Source image folder: `/Users/pugazhendhirajendran/Documents/Codex/2026-07-09/https-www-annavinpadaippugal-info/outputs/annavin_text_extractor/ocr_images/sorpozhivugal/thambiyae_va`
+- OCR language: `tam`
+- Tesseract page segmentation mode: `3`
+- OCR cleanup: `enabled`
+
+## Image 1: 001-23b66518d7.png
+
+- Image: `sorpozhivugal/thambiyae_va/001-23b66518d7.png`
+
+71
+
+“தம்பியே வா!
+தாூானையோரடு வா”
+
+19-7-1960 அன்று திருவரங்கத்தில் நடைபெற்ற இந்தி
+எதிர்ப்புக் கூட்டத்தில் அறிஞர் அண்ணா அவர்களின்
+அழைப்பு:-
+
+தோழர்களே!
+
+“இன்று நடக்கும் இக்கூட்டம் நெருக்கடியான நேரத்தில்
+மிகுந்த சிரமத்துடன் அவசியம் நடக்க வேண்டிய சூழ்நிலையில்
+தற்பொழுது நடைபெறுகிறது. இன்றைய கூட்டம்
+நடைபெறுமோ நடைபெறாதோ என்ற அச்சமும் ஆயாசமும்
+அடைந்துள்ள நிலையில் நீங்களெல்லாம் கூடி. இருக்கின்றீர்கள்;
+நானும் ஓர் அன்பர் திருமணத்தை நடத்தி வைத்துவிட்டு
+பக்கத்திலுள்ள வானொலி கட்டிடத்தை திறந்து வைக்கும்
+நிகழ்ச்சியில் கலந்து கொண்டு ஓடோ டியும் வந்துள்ளேன். வந்த
+நேரத்தில் உங்களை எல்லாம் சந்தித்துப் பேச முடியும் என்று
+நினைக்கவில்லை. காரணம் மதிப்பிற்குரிய போலீசு அதிகாரிகள்
+தடை உத்தரவு நீட்டி பேசுவதற்கு முன்னமேயே கைது செய்து
+விடுவார்கள் என்பதுதான். என்றாலும்கூட எப்படியும் தடையை
+மீறி பேசுவதென்ற முடி.வுடனேதான் வந்தேன். வந்ததும் நம்மைக்
+கைது செய்து கொட்டடியில் போட்டு பூட்டி வைப்பார்கள்
+என்பதற்கு மாறாக பேசவும் அனுமதி வழங்கி இருக்கிறார்கள்.
+அவர்களுக்கு எனது இதயப் பூர்வமான நன்றியை இந்தநேரத்தில்
+தெரிவித்துக் கொள்கிறேன். ஆனால் நான் வரும்பொழுது
+என்கூட மழையும் வந்துவிட்டது. மழை கொட்டினாலும் மனம்
+தளராது கூடி இருக்கும் உங்களிடையே எனதுரையை எப்படியும்
+கூறிவிட்டுச் செல்வதென்ற முடி வோடு வந்திருக்கிறேன்.
+
+## Image 2: 002-c5ce62e074.png
+
+- Image: `sorpozhivugal/thambiyae_va/002-c5ce62e074.png`
+
+“என்ன அண்ணாதுரை பாதுகாப்பான இடத்திலே நின்று,
+அவன் மட்டும் மழையால் பாதிக்கப்படாமல் நம்மை மட்டும்
+நனையச் சொல்கிறானே என்று உங்களில் சிலர் நினைக்கக்
+கூடுமென்று கருதித்தான் ஒலிபெருக்கிக் கருவியை கீழிறக்கி,
+நானும் கீழிறங்கி மழையில் நனைந்து கொண்டே பேச நினைத்து
+இறங்கினேன். ஆனால் என் மீது அன்பும் அக்கறையும் கொண்ட
+நீங்கள் மேடை மீதேறியே பேசுமாறு வேண்டியதால்
+பேசுகின்றேன்.
+
+“இந்நேரத்தில் நமது மதிப்பிற்குரிய நாவலர் அவர்களும்
+தம்பி சம்பத் அவர்களும் சென்னையிலே தடையை மீறி
+இருப்பார்கள் அல்லது கைது செய்யப்பட்டிருக்கலாம். அல்லது
+இங்குள்ள அதிகாரிகளைப் போலவே யூகமுள்ள போலீஸ்
+அதிகாரியாக இருந்தால் இங்கு அனுமதி அளித்ததைப் போலவே
+அங்கும் அனுமதி அளித்து பேசிக் கொண்டிருக்கக் கூடும். அப்படி
+இல்லை என்றால் நாவலர் அவர்களும் தம்பி சம்பத்தும் கைது
+செய்யப்பட்டிருந்தால், நாளை நாடெங்கும் நடைபெறும்
+கண்டனக் கூட்டங்களும் கிளர்ச்சிகளும் தடையை மீறி
+செய்யப்படும். அதற்காகவே வரும்பொழுது நான் தொலைபேசி
+மூலம் நாவலர் அவர்கட்கு செய்தி அனுப்பிவிட்டு இங்கு வந்தேன்.
+நான்கூட வரும்போதே நினைத்தேன். நாம் இங்கு பேச
+வரும்போதே மதிப்பிற்குரிய போலீஸ் அதிகாரிகள் கைது செய்து
+கொட்டடியில் போட்டு பூட்டி வைப்பார்கள், ஓரிரு நாட்களுக்கு
+ஓய்வு கிடைக்குமென்று. ஆனால், நாளை காலை அரசாங்க உந்து
+வண்டியில் ஏறி சென்னை சென்று நடக்க வேண்டிய கண்டனக்
+கூட்டங்களுக்கு ஏற்ற நடவடிக்கையை மேற்கொள்ளவே
+உத்தேசித்துள்ளேன் என்பதை உங்களுக்குத் தெரிவித்துக்
+கொள்கிறேன். ஏன் இதைச் சொல்கிறேன் என்றால், நாம்
+இப்படிப்பட்ட கூட்டங்களை அவசரப்பட்டு கூட்டவில்லை.
+மாதக்கணக்காக முயன்று, வாரக்கணக்கில் ஏற்பாடுகள் செய்து,
+அனுமதி பெற்று நாள்தோறும் நாடெங்கும் நடைபெறும்
+கூட்டங்கள் இவைகள், இப்படிப்பட்ட கூட்டங்களை நடக்கின்ற
+வேலை நிறுத்தத்தைக் காரணம் காட்டி தடை செய்ய
+முயலுகின்றார்கள். வேலை நிறுத்தத்திற்கு நமது ஆதரவு. உண்டு
+என்றாலும், இப்படிப்பட்ட கூட்டங்களுக்கும் இவ்வேலை
+நிறுத்தத்திற்கும் எவ்வித சம்பந்தமுமில்லை. இதனையறியாது
+நமது கூட்டத்தைத் தடை செய்ய இதை ஒரு காரணம்
+காட்டியாவது தடுத்துவிடலாம் என்று எண்ணி செயல்படு
+கிறார்கள். இது முறையல்ல! நம்மை எப்படியும் அடக்கி ஒடுக்கி
+விடலாம் என்றே கனவு கண்டு கொண்டிருக்கிறார்கள்.
+
+## Image 3: 003-f9ab7397e8.png
+
+- Image: `sorpozhivugal/thambiyae_va/003-f9ab7397e8.png`
+
+“பல நாட்களுக்கு முன்னமேயே நாம் கூடி முடிவெடுத்தபடி.
+நம் மக்கள் மீது திணிக்கப்படவிருக்கும் இந்தியை எதிர்த்துப்
+போராடுகின்ற களத்திலே நம்மில் எத்துணை பேர் அந்தத்
+தியாகப் பணியிலே தமது இன்னுயிரையும் ஈந்து, தாயகம் மீளப்
+பாடுபடப் போகிறார்கள் என்பதை அறிந்து போகவும், நம்
+மொழி எத்தகையது? நம்மினம் எத்தனை ஏரும் சிறப்பும் மிளிர
+பாராண்டது? இன்றைய நிலை என்ன என்பதை விளக்கவும்
+இப்படிப்பட்ட கூட்டங்களைக் கூட்டி கொள்கையை
+விளக்குகின்றோம். நாம் சொல்லுகின்ற கருத்திலே வலிவுள்ள
+காரணத்தால்தான் மக்கள் பெருமழை பெய்தாலும்
+பொறுமையோடிருந்து கேட்கிறார்கள். இப்படிக் கொட்டுகின்ற
+பெரு மழையிலேயும் கொள்கை விளக்கம் கேட்கக் கூடி. இருக்கும்
+உங்களைப் பார்த்து நான் பெருமையும் பூரிப்பும் அடைகின்றேன்.
+
+“இப்பெரு மழை நம்மை என்ன செய்யும்? சிலருக்கு
+வேண்டுமானால், ஓரிரு நாட்கள் காய்ச்சல் வரும், தலைவலி
+இருக்கலாம், ஆனால் இது காரணமாக நமக்கு வேறு ஒன்றும்
+வந்துவிடாது. இந்தி நம்மீது ஆதிக்கம் செலுத்துவதை
+அனுமதித்தால், வாழ் நாள் முழுவதும் ஏன்? பின் சந்ததியினர்
+கூட வாழ்விழந்து வளமிழந்து வாட நேரிடும்; ஆகையால்தான்
+நம்மீது இந்தியைத் திணிப்பதன் மூலம் நம்மை நிரந்தர
+அடிமையாக்க முடியுமென்று கருதுகின்றார்கள்.
+
+“ஒரு நாடு சீர்பெற்று இயங்க வேண்டுமானால் மக்கள்
+மனவளம் படைத்தவர்களாக இருக்க வேண்டும். மனவளம்
+படைத்த மக்களாக இருக்க வேண்டுமானால் அந்நாட்டில்
+கலாசாரம், பண்பாடு, நாகரிகம், சிறந்து விளங்க வேண்டும்.
+இவைகள் சிறந்து விளங்க வேண்டுமானால் அந்நாட்டில் உள்ள
+மொழி சிறந்ததாக இருக்க வேண்டும். இவை அத்தனையும்
+ஒருங்கமைந்த உயர்ந்த மொழி நம்மொழி - தமிழ் மொழி.
+அம்மொழி பல்லாயிரம் ஆண்டுகளுக்கு முன்னமேயே ரும்
+சிறப்புமுற பாராண்டது. ஆனால், இன்றைய நமது நிலை என்ன?
+இந்தியைக் கற்றே ஆக வேண்டுமென கட்டளை
+பிறப்பித்திருக்கின்றார் இந்தியத் துணைக்கண்ட முதல்வர். இதை
+அனுமதித்துத்தான் ஆக வேண்டுமா? எதிர்த்துப் போராட
+வேண்டாமா? அந்தப் போராட்டத்தில் உங்களில் எத்தனை பேர்
+அந்தத் தியாகம் மிகுந்த வீரப் போராட்டத்தில் சேர இருக்கிறீர்கள்?
+எத்தனை பேர் தியாகப் பட்டியலில் இடம் பெற்றுத்
+தனதின்னுயிரையும் தர சித்தமுள்ளவர்கள் என்பதைத் தெரிந்து
+
+## Image 4: 004-5e5a3079e8.png
+
+- Image: `sorpozhivugal/thambiyae_va/004-5e5a3079e8.png`
+
+கொள்ளத்தான் நாம் இப்படிப்பட்ட கூட்டங்களை நாள்தோறும்
+நாடெங்கும் நடத்திக்கொண்டு வருகிறோம்.
+
+“உங்களிடம் அதிக நேரம் பேசுவதற்கு இயற்கை
+இடந்தராவிட்டாலும், கூடிய விரைவில் அதாவது ஆகஸ்டு 31-ம்
+தேதி நடக்கவிருக்கும் கண்டனக் கூட்டத்தில் கூடுமானால்
+இவ்விடத்தில் பேசத்தான் போகிறேன். ஆகஸ்ட் 31-ந் தேதிக்குள்
+தமது உத்திரவை குடியரசுத் தலைவர் திரும்பப் பெறாவிட்டால்
+நமது இறுதிப் போராட்டத்தைத் துவங்க வேண்டி. இருக்கும்.
+அந்த அறப் போராட்டத்தில் ஈடுபட்டு, வரலாற்றிலே இடம்பெற
+குடும்பம் குடும்பமாக எல்லாரும் வாருங்கள். நாம் போராடுகின்ற
+அந்நேரத்தில் நம்மை கொடுமைக்குள்ளாக்கும் போலீசாரை தயவு
+செய்து பகைவராக எண்ணாதீர்கள். அவர்கள் பாவம், தங்கள்
+கடமையைச் செய்கிறார்கள். நாமும் நமது மக்களுக்கு மட்டும்
+இந்தி கூடாது என்பதற்காகப் போராட வில்லை. அவர்களுடைய
+பிள்ளைகளுக்கும், பேரன் பேத்திகளுக்கும் இந்தி கூடாது
+என்பதற்குத்தான் போராடுகிறோம். அவர்களும் உணர்கின்ற
+காலம் வரும். ஆகவே, அவர்களைப் பகைவர்களாகக் கருதாது
+போராட்டத்தில் ஈடுபடுங்கள்.
+
+“அதற்குள்ளாக உங்களில் எத்தனை பேர் அந்தத் தியாகப்
+பணியிலே ஈடுபடப் போகிறீர்கள் என்ற பட்டியலை
+தயாரியுங்கள். பட்டியல் நீளட்டும், படை பெருகட்டும்.
+இடையிலே நீங்கள் செய்ய வேண்டிய கடமை எல்லாம் செய்து
+முடித்து தயாராக இருங்கள். தாயகம் அழைக்கிறது.
+
+“குடும்பம் குடும்பமாக வாருங்கள். அண்ணனோடு தம்பியும்
+சுற்றமோடு நண்பரும் கூடி ஓடி வாருங்கள்! போராட்டக்
+களத்திற்கு! உங்களோடு வர முடியாத அளவுக்கு தள்ளாத
+வயதுடைய பாட்டியும் கூட உங்களைத் தேடி. வர வேண்டும்
+களத்திற்கு. தண்டூன்றித் தள்ளாடியவாறு உங்கள் பாட்டன்மாரும்
+பாடி வீடு நோக்கி வருகின்ற தன்மையிலே தாயகம் மீட்க
+அனைவரும் வாரீர்! வாரீர்!”
+
+## English Translation
+
+Arignar Anna's call at the anti-Hindi meeting held in Srirangam on 19 July 1960:
+
+Comrades!
+
+“Today's meeting is taking place at a critical hour, amid great difficulty and under circumstances that make it essential. All of you have assembled here in a state of anxiety and weariness, unsure whether today's meeting would take place. I, too, came running after conducting the wedding of a friend and participating in a ceremony to open the nearby radio building.
+
+“When I arrived, I did not think I would be able to meet and speak to you all. I expected the respected police officers to extend the prohibitory order and arrest me before I could speak. Even so, I came resolved to defy the prohibition and speak somehow. Instead of arresting us upon arrival and locking us in a cell, they have permitted us to speak. I convey my heartfelt thanks to them at this moment.
+
+“But when I came, the rain came with me. Although it is pouring, you have gathered here without losing heart, and I came determined to deliver my address among you before leaving.
+
+“I thought some among you might say, ‘Why does Annadurai stand in a protected place, keeping himself dry while asking only us to be drenched?’ That is why I had the microphone lowered and came down, intending to stand in the rain and speak while being drenched with you. But because you, who show me affection and concern, asked me to speak from the stage, I am doing so.
+
+“At this moment, our respected Navalar and Brother Sampath may be defying the prohibition in Madras, or they may have been arrested. If the police officer there is as sensible as the officers here, they may instead have been permitted to speak just as we have been permitted here. If not, and if Navalar and Brother Sampath have been arrested, tomorrow's protest meetings and agitations throughout the country will be conducted in defiance of the prohibition. That is why, before coming here, I sent a message to Navalar by telephone.
+
+“As I travelled here, I myself thought that the respected police officers would arrest me as soon as I arrived to speak, lock me in a cell, and give me a day or two of rest. Instead, I intend tomorrow morning to board a government vehicle, travel to Madras, and undertake the measures required for the protest meetings that must be held there.
+
+“Why do I tell you this? We did not convene such meetings in haste. These meetings take place every day throughout the country after months of effort, weeks of preparation, and the securing of permission. They are trying to prohibit them by citing the current strike as a reason. Although we support the strike, these meetings have no connection whatever with it. Ignoring that fact, they act in the hope that they can use it as some pretext to prohibit our meeting. This is improper. They keep dreaming that they can somehow suppress and subdue us.
+
+“In accordance with the decision we reached together many days ago, we conduct meetings like this to explain our policy: to discover how many among us will enter the field of struggle against the Hindi that is to be imposed upon our people, devote their very lives to that sacrificial work, and labour to redeem the homeland; and to explain the nature of our language, the dignity and distinction with which our people once governed, and our condition today.
+
+“It is because the ideas we express possess strength that the people remain patient and listen even in torrential rain. I feel pride and fulfilment when I see you assembled to hear an explanation of our principles even in this downpour.
+
+“What can this heavy rain do to us? Some may have fever or a headache for a day or two, but nothing else will happen to us because of it. If we permit Hindi to dominate us, however, not only will we suffer throughout our lives, but later generations too may lose their livelihood and prosperity and be forced to languish. That is why they imagine that by imposing Hindi upon us they can make us permanent slaves.
+
+“For a country to function well, its people must possess strength of mind. For them to possess such strength, the country's culture, refinement, and civilisation must flourish. For those things to flourish, the language of the country must be excellent. Our language, Tamil, is a noble language in which all these qualities are united. Thousands of years ago, it governed with dignity and distinction. But what is our condition today?
+
+“The Prime Minister of the Indian subcontinent has issued an order that Hindi must be learnt. Must we simply permit it? Should we not fight against it? How many among you will join that heroic and sacrificial struggle? How many are prepared to enter the roll of sacrifice and give their very lives? It is to learn this that we conduct such meetings every day throughout the country.
+
+“Although nature does not permit me to speak to you for much longer, I shall, if possible, speak at this very place at the protest meeting to be held soon, on 31 August. If the President has not withdrawn his order by 31 August, we shall have to begin our final struggle.
+
+“Come as entire families, participate in that moral struggle, and earn a place in history. When we struggle, please do not regard the police who subject us to hardship as enemies. Poor men, they are doing their duty. We are not fighting merely to prevent Hindi from being imposed upon our own people. We fight so that Hindi will not be imposed upon their children and grandchildren either. A time will come when they, too, understand. Enter the struggle without treating them as enemies.
+
+“Before then, prepare the list of how many among you will participate in that sacrificial task. Let the list grow long; let the force increase. Complete every duty you must perform in the meantime and remain prepared. The homeland calls.
+
+“Come as whole families. Let the younger brother come with the elder brother; let relatives and friends gather and run to the field of struggle. Even the grandmother too old to accompany you must come seeking you at the field. Let your grandfathers, leaning upon staffs and tottering toward life's final home, also come. Let everyone come to redeem the homeland. Come! Come!”
+
+## Translator's Notes
+
+Direct inspection of the title scan confirms “தம்பியே வா! தானையோடு வா!” The word “தானை” means an army or assembled host; the English title retains that collective martial image.
+
+The source refers to Srirangam by its Tamil name “திருவரங்கம்.” “Navalar” is retained as the honorific used for Nedunchezhiyan.
+
+The speech combines martial language with an explicit instruction not to regard police as enemies, because they are performing official duties and their descendants would also be affected. Both elements are preserved without harmonising away the tension.
+
+“அறப்போராட்டம்” is rendered as “moral struggle,” reflecting the source's presentation of the planned agitation as principled.
+
+The final description of elderly grandfathers moving toward “பாடை வீடு” or life's final home is partially unclear in OCR. The English conveys the evident image of extreme old age and approaching death without adding a specific funerary claim beyond the source.
+
+Political, historical, and linguistic assertions are translated in the speaker's voice and have not been independently verified.

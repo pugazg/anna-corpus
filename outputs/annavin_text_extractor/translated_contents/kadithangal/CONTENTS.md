@@ -1,0 +1,279 @@
+# கடிதங்கள் / Letters
+
+Total source works: 275
+
+- [1961 ஆம் ஆண்டுக்கான திட்டம் இதுதானா?](1961_kaana_thittama.md) - translated
+- [Annavin Padaippugal](aalayilla_ooril.md) - translated
+- [Annavin Padaippugal](aalinganamum.md) - translated
+- [ஆணை பிறந்தது...!](aanai_piranthathu_1.md) - translated
+- [ஆனால்... ஆகவே...!](aanal_agavae.md) - translated
+- [ஆரியம் இருக்கும் இடம்!](aariyam_irukum_idam.md) - translated
+- [ஆவடியும் காவடியும்](aavadiyum_kaavadiyum.md) - translated
+- [ஆழமான குழியாம் !](aazhamam_kuzhiyam.md) - translated
+- [அடக்குமுறை - குறள் - சிறை நிலை!](adakkumurai_kural.md) - pending
+- [அடித்தாலும், அணைத்தாலும்....!](adithalum_anaithalum.md) - pending
+- [ஏழை சொல் அம்பலம் ஏறிவிட்டது!](aezhai_soll.md) - pending
+- [ஏழ்மையால் எழில் கெட்டு. . .!](aezhmayin_ezhilkettu.md) - pending
+- [அகலிகையும் ஆச்சாரியாரும்](agalikayum_achariyarum.md) - pending
+- [அகமும் புறமும்](agamum_puramum.md) - pending
+- [Annavin Padaippugal](ainthukaal_pasu.md) - pending
+- [Annavin Padaippugal](alavukol_ethu.md) - pending
+- [Annavin Padaippugal](ambum_aeniyum.md) - pending
+- [அன்பில் அழைக்கிறார்](anbil_azhaikirar.md) - pending
+- [அங்கே பவனம் இங்கே படம்!](angae_bavanam.md) - pending
+- [Annavin Padaippugal](annamendrum_sornamendrum_1.md) - pending
+- [அன்னமென்றும் சொர்ணமென்றும் சொன்னாயே! - (2)](annamendrum_sornamendrum_2.md) - pending
+- [Annavin Padaippugal](annavin_kadithangal.md) - pending
+- [அனுபவி ராஜா!](anubavi_raja.md) - pending
+- [அப்போதே செய்த முடிவு](appothae_seitha_mudivu.md) - pending
+- [அறச்சாலை](arachalai.md) - pending
+- [அறைகூவுகிறார் அமைச்சர்!!](araikoovuhirar.md) - pending
+- [அறப்போர் நினைவுகள்](arappor_ninaivugal.md) - pending
+- [Annavin Padaippugal](arasiyal_matrum.md) - pending
+- [அரசியல் விந்தைகள். . .](arasiyal_vinthaigal.md) - pending
+- [Annavin Padaippugal](arimaa_noaku.md) - pending
+- [அறுவடையும் - அணிவகுப்பும் (1)](aruvadayum_anivaguppum_1.md) - pending
+- [Annavin Padaippugal](aruvadayum_anivaguppum_2.md) - pending
+- [அறுவடையும் - அணிவகுப்பும் (3)](aruvadayum_anivaguppum_3.md) - pending
+- [Annavin Padaippugal](aruvadayum_anivaguppum_4.md) - pending
+- [Annavin Padaippugal](atchiyalar_manappokku.md) - pending
+- ["ஆட்டம்பாம்'' ஆண்டியப்பன்](atom_bohm_aandiyappan.md) - pending
+- [அத்தர் வியாபாரம்](atthar_viyabaram.md) - pending
+- [அவர் படும் அல்லல்](avar_padum_allal.md) - pending
+- ['' ஐயா? சோறு!'' ''இதோ! நேரு! பாரு''](ayya_soaru.md) - pending
+- [Annavin Padaippugal](azhiya_selvam.md) - pending
+- [பாபுவின் பவனி](babuvin_bavani.md) - pending
+- [பயில்வான் வீட்டுக் காளை](bayilvaan_veetu_kaalai.md) - pending
+- [போஜராஜனும் காமராஜரும்](bojarajarum_kamarajarum.md) - pending
+- [கனடா பயணம் - (1)](canada_payanam_1.md) - pending
+- [கனடா பயணம் - (2)](canada_payanam_2.md) - pending
+- [Annavin Padaippugal](damaskas_muthal.md) - pending
+- [Annavin Padaippugal](delhi_kaditham.md) - pending
+- [டாக்டர்கள்! தேர்தல் முடிவு!](doctorgal_thaethal_mudivu.md) - pending
+- [எல்லாம் தருமத்துக்கு!](ellam_dharmathukku.md) - pending
+- [Annavin Padaippugal](ellorum_innattu_mannar_1.md) - pending
+- [எல்லோரும் இந்நாட்டு மன்னர் (2)](ellorum_innattu_mannar_2.md) - pending
+- [எல்லோரும் இந்நாட்டு மன்னர் (3)](ellorum_innattu_mannar_3.md) - pending
+- [Annavin Padaippugal](ellorum_innattu_mannar_4.md) - pending
+- [எல்லோரும் இந்நாட்டு மன்னர் (5)](ellorum_innattu_mannar_5.md) - pending
+- [" எங்கள் நாடு"](engal_naadu.md) - pending
+- [Annavin Padaippugal](engal_periyar.md) - pending
+- [எங்குச் சென்றாலும். . .](engu_sendralum.md) - pending
+- [Annavin Padaippugal](enna_pinaippu.md) - pending
+- [Annavin Padaippugal](ennai_vaazhavidu.md) - pending
+- [என்னால் முடிந்ததைச் செய்கிறேன்!](ennal_mudinthathai.md) - pending
+- [எரிகிற தழலில்...!](erigira_thazhalil.md) - pending
+- [எழிலோவியம்](ezhiloviyam.md) - pending
+- [எழுச்சி வெள்ளம்](ezhuchi_vellam.md) - pending
+- [கனவான் காற்று வாங்குகிறார்](ganavan_kaatru_vaangugirar.md) - pending
+- [கங்கா தீர்த்தம் - 1](ganga_theertham_1.md) - pending
+- [கங்கா தீர்த்தம் - 2](ganga_theertham_2.md) - pending
+- ['ஞோ ஞா'](gno_gna.md) - pending
+- [குரு பக்தி](gurubakthi.md) - pending
+- [குருபீடம்](gurupeedam.md) - pending
+- [ஞாயிறு போற்றுதும்!](gyayiru_potruthum.md) - pending
+- [ஹெலிகாப்டரும் இரதமும்!](helicopterum_rathamum.md) - pending
+- [இந்தி - தமிழ் மரபு அழிக்கும் செந் தீ](hindi_tamail_marabu.md) - pending
+- [இட்லர்கூட சோஷியலிசம் பேசினான்!](hitler_kooda.md) - pending
+- [இதயம் இருக்கிறதே!](idhayam_irukkirathae.md) - pending
+- [இதயம் வென்றிட. . . (1)](idhayam_vendrida_1.md) - pending
+- [இதயம் வென்றிட. . . (2)](idhayam_vendrida_2.md) - pending
+- [இதயம் வென்றிட. . . (3)](idhayam_vendrida_3.md) - pending
+- [இதயத்தில் பூத்த மலர்](idhayathil_pootha_malar.md) - pending
+- [இடியோசையில் கிடைக்காது இன்ப நாதம்](idiosayal_kidaikkathu.md) - pending
+- [இலவுகாத்த கிளி!](ilavukatha_kili.md) - pending
+- [இல்லம் இன்பப் பூங்கா](illam_inba_poonga.md) - pending
+- [இன்ப நாளிது! இதயம் பாடுது !](inba_naalithu_1.md) - pending
+- [இந்திராணி சேலை!](indhirani_saelai.md) - pending
+- ["இந்தியர்' ஆகின்றனர்!! (1)](indiyar_aahindranar_1.md) - pending
+- [' இந்தியர்' ஆகின்றனர்! (2)](indiyar_aahindranar_2.md) - pending
+- [இன்றையப் பகைவர்](indraya_pagaivar.md) - pending
+- [இனியன பல இனி!](iniyana_pala_ini.md) - pending
+- [இந்நாட்டில் வாழ்வதற்கு!](innattil_vazhvatharku.md) - pending
+- [இசைபட வாழ்வோம்](isaipada_vaazhvoam.md) - pending
+- [இது போதாதா?](ithu_pothatha.md) - pending
+- [இவனே தமிழ் மறவன்!](ivanae_tamil_maravan.md) - pending
+- [இயற்கை கொஞ்சுகிறது !](iyarkai_konjugirathu.md) - pending
+- [ஜனநாயகச் சர்வாதிகாரி!](jananayaka_sarvathikari.md) - pending
+- [காடு இது-நாடு அல்ல!](kaadu_ithu_naadalla.md) - pending
+- [காக்கும் கரங்கள்](kaakum_karangal.md) - pending
+- [காலம் இல்லை... அதிகம்!](kaalamillai_athigam.md) - pending
+- [காட்டாட்சி...](kaattatchi.md) - pending
+- [கடமை நினைவுகள். . .](kadamai_ninaivugal.md) - pending
+- [கடமையாற்றிட](kadamayatrida.md) - pending
+- [காகிதக் கப்பலில்](kagitha_kappalil.md) - pending
+- [கை வலியும் சிறையின் நிலையும்](kai_valiyum_sirai_nilayum.md) - pending
+- [கைராட்டை காவேரி (1)](kairattai_kauveri_1.md) - pending
+- [கைராட்டை காவேரி (2)](kairattai_kauveri_2.md) - pending
+- [கைதி எண் 6342](kaithi_enn_6342.md) - pending
+- [கலை உலகக் காணிக்கை](kalai_ulaga_kaanickai.md) - pending
+- [கல்லணை](kallanai.md) - pending
+- ["கனா' நிகழ்ச்சி - ஒரு எச்சரிக்கை!](kana_nigazhchi.md) - pending
+- [கணக்குத் தீர்க்கும் காலம் !](kanakku_theerkum_kalam.md) - pending
+- [கனிவும் கசப்பும் - (1)](kanivum_kasappum.md) - pending
+- [கனியும் மலரும் நீயே!](kaniyum_malarum_neeyae.md) - pending
+- [கண்ணீர்!](kanneer.md) - pending
+- [கண்ணீர் பொங்கும்....](kanneer_pongum.md) - pending
+- [கண்ணீரும் பன்னீரும்](kanneerum_panneerum.md) - pending
+- [கண்ணொளி போதும். . .](kannoli_pothum.md) - pending
+- [கருப்பு மல்லி](karuppu_malli.md) - pending
+- [கருத்தோவியம்](karuthoviyam.md) - pending
+- [கதைகள் - கருத்தளிக்க](kathaigal_karuthalikka.md) - pending
+- [கழுகும் கிளியும்](kazhugum_kiliyum.md) - pending
+- [கிளிக்குப் பச்சை பூசுவதா?](kilikku_pachai.md) - pending
+- [கிழக்கு வெளுத்திடும் வேளை](kizhakkuveluthidum_vaelai.md) - pending
+- [கோட்டை வெளியில்...](koattai_veliyil.md) - pending
+- [கொல்லிமலைச் சாரலிலே](kollimalai.md) - pending
+- [கொட்டடி எண் : 9](kottadi_enn.md) - pending
+- [குடும்ப பாசம்](kudumba_paasam.md) - pending
+- [குன்றம் பல சென்றிருந்தேன்](kundram_pala_sendrirunthaen.md) - pending
+- [குன்றெல்லாம் கேட்கிறது!](kundrellam_kaetkirathu.md) - pending
+- [குன்றின்மேலிட்ட விளக்கு](kundril_maelitta_vilakku.md) - pending
+- [குன்று குடை பிடித்துக்கொள்ளுமா?](kundru_kudai.md) - pending
+- [குருதி கலந்த மண்](kuruthi_kalantha_mann.md) - pending
+- [குற்றம் பார்க்கில் சுற்றம் இல்லை](kuttram_paarkin.md) - pending
+- [மாமியார் வீட்டில்...](maamiyar_veettil.md) - pending
+- [மேனி சிலிர்க்குது!. . .](maeni_silirkuthu.md) - pending
+- [மேற்கொண்டுள்ள மேலான பணி](maerkonda_melanapani.md) - pending
+- [மகுடி ஊதும் மகானுபாவர்கள்!](magudi_oothum.md) - pending
+- [மலர் மணம்](malar_manam.md) - pending
+- [மானே! தேனே!!](manae_thaenae.md) - pending
+- [மனிதனும் மிருகமும்](manithanum_mirugamum.md) - pending
+- [மரண அடி கொடுப்பாராம்!](marana_adi_kodupparam.md) - pending
+- [மற்றொரு கூவம்!](matroru_koovam.md) - pending
+- [மத்தாப்பூ](matthappu.md) - pending
+- [மேயர் தேர்தல் எம். ஜி. ஆர்.!](mayer_thaerthal_mgr.md) - pending
+- [மின்னல் வேக மேதாவிலாசம்!](minnal_vaega_maethavilasam.md) - pending
+- [மிரட்டல்! விரட்டல்!](mirattal_virattal.md) - pending
+- ["மிருக ஆட்சி''](miruga_aatchi.md) - pending
+- [மூலவர் மூவர் முரசொலி...](moolavar_moovar.md) - pending
+- [மூவர் முரசு](moovar_murasu.md) - pending
+- [முடியும், முயன்றால்!](mudiyum_muyandral.md) - pending
+- [முள்ளு முனையிலே...](mullu_munayilae.md) - pending
+- [முதல் பந்தி!](muthal_panthi.md) - pending
+- [முத்தான வாய் திறந்து...](mutthana_vaaithiranthu.md) - pending
+- [முயன்றால் முடியும்!](muyandral_mudiyum.md) - pending
+- [நாடகமாடிடலாம்...(1)](naadagamadidalam_1.md) - pending
+- [நாடகமாடிடலாம்...(2)](naadagamadidalam_2.md) - pending
+- [நாலும் நாலும்](naalum_naalum.md) - pending
+- [நாமாவது...!](naamaavathu.md) - pending
+- [நாநலம்](naanalam.md) - pending
+- [நாட்டு நிலை - பல நினைவுகள்](naattunilai_palaninaivugal.md) - pending
+- [நாவலர் நம் கழகக் காவலர்](naavalar_nam_kavalar.md) - pending
+- [நச்சரவு வளர்க்கின்றார்](nacharivu_seigirargal.md) - pending
+- [நல்ல தீர்ப்பு](nallatheerpu.md) - pending
+- [நல்லோரின் தீர்ப்பு!](nallorin_theerpu.md) - pending
+- [நரி பரியான கதை!](nari_pariyana_kathai.md) - pending
+- [' நெடுநல்வாடை' நின்ற பிறகு](nedunallvaadai.md) - pending
+- [நெடுஞ்செழியன் அன்றும்! இன்றும்!!](nedunchezhiyan_andrum_indrum.md) - pending
+- [நீண்ட இடைவெளிக்குப் பிறகு!.....](neenda_idaivelikku.md) - pending
+- [நெற்றிக் கண்ணைக் காட்டினாலும்...!](netrikannai_kaattinalum.md) - pending
+- [நிலவு, கழக வெற்றி, சிறைச்சாலை நிலைமைகள்](nilavu_kazhagavetri.md) - pending
+- [நினைவலைகள் - கவலைகள்!](ninaivalaigal.md) - pending
+- [ஓட்டாண்டியாக்கிவிட்டு! (1)](oattandiyakkivittu_1.md) - pending
+- [ஓட்டாண்டியாக்கிவிட்டு! (2)](oattandiyakkivittu_2.md) - pending
+- [ஓட்டுச்சாவடி போகுமுன்பு...](oattu_chavadi_pogumun.md) - pending
+- [ஒளி படைத்த கண்ணினாய்!](olipadaitha_kanninai.md) - pending
+- [ஒலியும் ஒளியும்](oliyum_oliyum.md) - pending
+- [ஒன்றாகக் கூடி, இன்பத் திராவிடம் தேடி!](ondraga_koodi.md) - pending
+- [ஒரே ஒரு பிரச்சினை... !](orae_oru_prachinai.md) - pending
+- [பால் படி எத்தனை?](paal_padi_etthanai.md) - pending
+- [" பாவி, பொல்லாதவன்..."](paavi_pollathavan.md) - pending
+- [படமாம் படம்!](padamam_padam.md) - pending
+- [படமும் பாடமும் (1)](padamum_paadamum.md) - pending
+- [படமும் பாடமும் (2)](padamum_paadamum_2.md) - pending
+- [படமும் பாடமும் (3)](padamum_paadamum_3.md) - pending
+- [படமும் பாடமும் (4)](padamum_paadamum_4.md) - pending
+- [பேரகராதி](paeragarathi.md) - pending
+- [பேசட்டும், தம்பி, பேசட்டும்](paesattum_thambi.md) - pending
+- [பகைவன் பணியலானான்](pagaivan_paniyal_1.md) - pending
+- [பண பாணம், பஞ்சு பஞ்சாக. . .](panabaanam.md) - pending
+- [பன்னீர் தெளித்தாலும். . .](panneer_thelithalum.md) - pending
+- [பறக்கும் குதிரை!](parakkum_kuthirai.md) - pending
+- [பற்று - (1)](patru_1.md) - pending
+- [பற்று - (2)](patru_2.md) - pending
+- [பட்டப் பகலில். . . ! (1)](pattapahalil.md) - pending
+- [பெரிய புள்ளிகள்](periya_pulligal.md) - pending
+- [போர்! போர்!!](poar_poar.md) - pending
+- [போலீஸ்! போலீஸ்! - 1](police_police.md) - pending
+- [பொற்காலம் காண!. . .](porkalam_kaana.md) - pending
+- [பொருத்தம் - 1](porutham.md) - pending
+- [புலித்தோலும் எலிவாலும்...](pulittholum_elivalum.md) - pending
+- [புதிய படை புறப்படுகிறது!](puthiya_padai_1.md) - pending
+- [புதிய உற்சாகம்](puthiya_urchagam.md) - pending
+- [புதுமை இன்பம்](puthumai_inbam.md) - pending
+- [புதுப் பா!](puthuppa.md) - pending
+- [இராஜ்ய சபையில் இம்முறை. . .(1)](rajya_sabayil_1.md) - pending
+- [இராஜ்ய சபையில். . .(2)](rajya_sabayil_2.md) - pending
+- [சந்தனம் அரைத்த கரம்](santhanam_araitha_karam.md) - pending
+- [சட்டம் - வழக்குமன்றத்தில்](sattam_vazhakkumandrathil.md) - pending
+- [செந்தமிழே வா!](senthamizhae_vaa.md) - pending
+- [' சிலர்' 'பலர்'](silar_palar.md) - pending
+- [சிங்கத்தை அடக்கினேன்!](singathai_adakkinaen.md) - pending
+- [சிறகு விரித்து ஆடுவதெல்லாம் மயிலாகுமா?](siraguvirithu.md) - pending
+- [சிறை அனுபவங்கள்](sirai_anubavangal.md) - pending
+- [சிறை நிர்வாகமே தனி!](sirai_nirvagamae_thani.md) - pending
+- [சிற்றன்னையின் இறுதி. . .](sitrannayin_iruthi.md) - pending
+- [சொக்கப்பனிடம் பட்ட கடன்](sokkappanidam.md) - pending
+- [சூடும் சுவையும் (1)](soodum_suvayum_1.md) - pending
+- [சூடும் சுவையும் (2)](soodum_suvayum_2.md) - pending
+- [சூடும் சுவையும் (3)](soodum_suvayum_3.md) - pending
+- [சூடும் சுவையும் (4)](soodum_suvayum_4.md) - pending
+- [சூடும் சுவையும் (5)](soodum_suvayum_5.md) - pending
+- [சுகஸ்தான் வாசி...](sugasthan_vaasi.md) - pending
+- [தடைக்கற்கள் படிக்கட்டுகளாகும்](thadaikarkal_padikarkal.md) - pending
+- [தேனில் தோய்த்த பழம்](thaenil_thoytha.md) - pending
+- [தல யாத்திரை](thala_yathirai.md) - pending
+- [தம்பி, தயார்! தயார்!](thambi_thayar.md) - pending
+- [தம்பி உடையான்!](thambi_udayan.md) - pending
+- [தமிழர் திருநாள்](thamizhar_thirunaal.md) - pending
+- [தண்டோரா சர்க்கார் - 1](thandora_sarkar_1.md) - pending
+- [தண்டோரா சர்க்கார் - 2](thandora_sarkar_2.md) - pending
+- [தண்டோரா சர்க்கார் - 3](thandora_sarkar_3.md) - pending
+- [தங்கத் திரை](thangatthirai.md) - pending
+- [தன்னை வெல்வான் தரணியை வெல்வான்!](thannai_velvan.md) - pending
+- [தீமைகளை ஒழித்துக்கட்ட உதயசூரியன்](theemaigalai_ozhithukatta.md) - pending
+- [தீ மிதித் திருவிழா!](theemithi_thiruvizha.md) - pending
+- [தீவில் தங்கியவன் கதை](theevil_thangiyavan_kathai.md) - pending
+- [தென்னகம் பொன்னகம்](thennagam_ponnagam.md) - pending
+- [திருமணம்](thirumanam.md) - pending
+- [திரும்பிப்பார்!](thirumbippar.md) - pending
+- [திரு. வி. க. கூறுகிறார்!](thiruvika_koorugirar.md) - pending
+- [தியாக வரலாறுகள்](thiyaga_varalaru.md) - pending
+- [தொழுதூர் வந்தோம்; பொழுது விடிந்தது!](thozhuthur_vanthom.md) - pending
+- [துறவி - காவியில்லை!](thuravi_kaaviyillai.md) - pending
+- [உலாவும் ஊழலும்!](ulavum_oozhalum.md) - pending
+- [உள்ளுணர்வு](ullunarvu.md) - pending
+- [உன்னைத்தான் நம்பியிருக்கிறேன்!](unnaithan_nambiyirukkiraen.md) - pending
+- [உன்னால் முடியும் - (1)](unnal_mudiyum.md) - pending
+- [உழைப்பே செல்வம் !](uzhaipae_selvam.md) - pending
+- [வாகையூர்](vaagayur.md) - pending
+- [வானுலக வீதியிலே. . .](vaanulaga_veethiyilae.md) - pending
+- [வாழ்க தமிழகம் !](vaazhga_tamilagam.md) - pending
+- [வாழு! வாழவிடு! (1)](vaazhu_vazhavidu.md) - pending
+- [வேலை அதிகம். . . நாட்கள் குறைவு.](vaelai_athigam_natkal_kuraivu.md) - pending
+- [வேலை இருக்கிறது நிரம்ப!](vaelai_irukkuthu_niramba.md) - pending
+- [வேதனை வெள்ளம்](vaethanai_vellam.md) - pending
+- [வளை ஒலி கேட்கிறதா!!](valai_oli_kaetkiratha.md) - pending
+- [வந்திடு! ஒளி தந்திடு!](vanthidu_oli_thanthidu.md) - pending
+- [வழக்கும் அரசியல் போக்கும்](vazhakkum_arasiyal_poakkum.md) - pending
+- [வீரத் தியாகி](veera_thiyagi.md) - pending
+- [வீட்டு விளக்கு!](veettu_vilakku.md) - pending
+- [வெகுண்டெழுந்தான் பிள்ளை - 1](vegundezhunthan_1.md) - pending
+- [வெகுண்டெழுந்தான் பிள்ளை - 2](vegundezhunthan_2.md) - pending
+- [வெள்ளை மாளிகையில் - 2](vellai_maaligayil.md) - pending
+- [வெள்ளை மாளிகையில் - 1](vellai_maaligayil_1.md) - pending
+- [வெள்ளை மாளிகையில் - (5)](vellai_maaligayil_5.md) - pending
+- [வெள்ளை மாளிகையில் - (6)](vellai_maaligayil_6.md) - pending
+- [வெந்த புண்ணில் வேல்](ventha_punnil_vael.md) - pending
+- [வெற்றிகள் குவிந்தன!](vetrigal_kuvinthana.md) - pending
+- [வெற்றிக்கவிதை பாடிடுவாய்!](vetrikavithai_paadiduvai.md) - pending
+- [வெற்றிபுரி செல்ல...](vetripuri_sella.md) - pending
+- [வெற்றி விழா காண.](vetrivizha_kaana.md) - pending
+- [விளக்கு அணைந்து விட்டது!](vilakku_anainthuvittathu.md) - pending
+- [விலங்கின் கதை. . .](vilangin_kathai.md) - pending
+- [விந்தை மாந்தர்கள்](vindhai_manthargal.md) - pending
+- [வினோபாவைக் கண்டேன்](vinobavai_kandaen.md) - pending
+- [விழாக் கோலம்](vizhakoalam.md) - pending
+- [விழாவும் விளக்கமும்](vizhavum_vilakkamum.md) - pending
+- ["ழ' கரமும் "ற' கரமும்](zhagaramum_ragaramum.md) - pending

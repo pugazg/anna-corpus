@@ -1,0 +1,172 @@
+# மக்களுக்கு விடுத்த வேண்டுகோள் / An Appeal to the People
+
+**Tamil title:** மக்களுக்கு விடுத்த வேண்டுகோள்  
+**English title:** An Appeal to the People  
+**Source file:** `sorpozhivugal/makkalukku_vidutha.md`
+
+## Source Tamil (verbatim)
+
+- Source image folder: `/Users/pugazhendhirajendran/Documents/Codex/2026-07-09/https-www-annavinpadaippugal-info/outputs/annavin_text_extractor/ocr_images/sorpozhivugal/makkalukku_vidutha`
+- OCR language: `tam`
+- Tesseract page segmentation mode: `3`
+- OCR cleanup: `enabled`
+
+## Image 1: 001-1890f4caac.png
+
+- Image: `sorpozhivugal/makkalukku_vidutha/001-1890f4caac.png`
+
+96
+
+மக்களுக்கு விடுத்த வேண்டுகோள்
+
+25-22-1962 அன்று தேர்தல் முடிவுகள் வெளிவந்தபிறகு
+பொதுமக்களுக்கு அறிஞர் அண்ணா அவர்கள் விடுத்த
+வேண்டுகோள் வருமாறு:-
+
+என்பால் மாறா அன்பும் கழகத்திடம் தளராத பற்றும்
+கொண்டுள்ள தோழர்களே! என் தோல்வி கேட்டும், அது போன்றே
+அதிர்ச்சி தரத்தக்க வேறு சிலரின். தோல்வி பற்றியச் செய்தி
+கேட்டும், எந்த நிலையில் நீங்கள் இருக்கிறீர்கள் என்பதை
+அறிகிறேன்.
+
+உள்ளம் உடைய இடம் கொடுக்கக்கூடாது; கண்ணீரைத்
+துடைத்துக் கொண்டு கழகக் காரியமாற்றப் புறப்படுங்கள்!
+மூச்செறிவதை நிறுத்திக்கொண்டு முன்னிலும் அதிக ஆர்வம்
+காட்டிப் பணி புரியுங்கள்!
+
+இந்தத் தேர்தலில் என்னைத் தோற்கடிக்க ஆளும்
+கட்சியினரும் அவர்தம் ஆதரவாளர்களும் என்னென்ன முன்னேற்
+பாடுகள் செய்தனர் - முறைகளைக் கையாண்டனர் - கருவிகளைப்
+பயன்படுத்தினர் என்பது நாடறிந்த உண்மையாகும்.
+
+“என் தோல்விதான் அவர்களுக்கு இன்னும் சில காலத்திற்கு
+ஆதிக்கம் செலுத்தும் வாய்ப்பு அளிக்கும் என்று கணக்குப்
+போட்டுக்கொண்டு, திட்டமிட்டுப் பணியாற்றினார்கள் - வெற்றி
+பெற்றார்கள். அதிலே அவர்கள் பெருமைப்படலாம். புதிய
+நம்பிக்கைகூட ஏற்படக்கூடும். ஆனால், அவர்களின் கணக்கு
+தவறு; என் தோல்வியுடன் கழகம் கலைந்தது என்று
+எண்ணுகிறார்களே - அதுதான் அவர்களின் தவறான கணக்கு!
+
+## Image 2: 002-1cfa0d5d17.png
+
+- Image: `sorpozhivugal/makkalukku_vidutha/002-1cfa0d5d17.png`
+
+“நான் சட்ட௫சபையிலிருந்துகொண்டு பணியாற்றுவதைத்
+தடுக்க மட்டுமே இந்தத் தோல்வி பயன்படும்! என்னைத்தானே
+தவிர, கழகத்தை அல்ல!
+
+கழகத் தோழர்கள், என் தோல்வியால் மனம் வேதனைப்
+பட்ட நிலையில் உள்ளனர் என்றாலும், என்னால் ஆறுதல்
+அளிக்கப்பட்டுச் சட்டசபை செல்கிறார்கள்; செம்மையாகச்
+செயலாற்றுவார்கள்.
+
+“அவர்களின் எண்ணத்திலும் பேச்சிலும் நான்
+இருக்கின்றேன். எனவே, பெரியதோர் நஷ்டம் கழகத்துக்கு
+ஏற்பட்டுவிடவில்லை.
+
+“அண்டுக்கு நூறு நாட்கள் கூடிடும் சட்டசபையில் நான்
+இடம் பெறாதபடி செய்துவிட்டனர்; என்றாலும், ஒவ்வொரு
+நாளும் நான் உங்களைச் சந்திக்கும் இடம் சட்டசபைகளை
+உருவாக்கும் பேரவை - அங்கு எனக்குள்ள அலுவல் - ஆகியவைகள்
+இவர்களால் தடுக்கப்பட முடியாது!
+
+“இந்தத் தோல்வியும் என்னை அந்தப் பணியிலிருந்து விலகச்
+செய்துவிடாது; மாறாக அந்தப் பணி மேலும் மும்முரமாக
+நடைபெறும்.
+
+“ஆளும் கட்சியினர் கையாண்ட முறைகள், வீசிய கருவிகள்
+எத்துணை மோசமானவைகள் என்பதைக் காட்டி, இந்தத் தோல்வி
+என் தோல்வி அல்ல என்று வாதிட நான் முற்படவில்லை; நானே
+அந்த வாதத்தைச் சரியானது என்று கொள்ளவில்லை.
+
+“மக்களை மிரட்டியும் மயக்கியும் வாக்குகள் பறிக்கப்
+பட்டன! பணம் தாராளமாகப் படை எடுத்தது - உண்மை!
+
+“நான் காஞ்சிபுரத்தில் பேசியுள்ளபடி, என்னுடன்
+வெங்கடேசப் பெருமாள் போட்டி போட முன்வந்துவிட்டார்;
+அனால் அந்த நிலைமையையும் மீறி வெற்றி கிடைத்தால்தான்,
+உண்மையான வெற்றியாகும்.
+
+“எந்தக் கருத்தைக் கொண்டோ, எதற்கு வயப்பட்டோ என்
+தொகுதி மக்கள் என்னை ஆதரிக்க மறுத்துவிட்டார்கள்.
+என்றாலும், மீண்டும் அவர்களின் நல்லெண்ணத்தையும்,
+ஆதரவையும் பெறுவதற்கே நான் பணியாற்றிவர இருக்கிறேன்.
+
+“எதையும் தாங்கும் இதயம் வேண்டும்” என்பதனை
+இந்த நேரத்திலும் நினைவுபடுத்துகிறேன்.
+
+## Image 3: 003-c050ae4386.png
+
+- Image: `sorpozhivugal/makkalukku_vidutha/003-c050ae4386.png`
+
+“என்னைத் தோற்கடிக்க வேண்டும் என்பதுடன், அளும்
+கட்சியினருக்கு என்னுடன், சட்டமன்றத்தில் பணியாற்றியவர்
+களை வீழ்த்திட வேண்டும் என்பதுதான் திட்டம்!
+
+“அதன்படியே, சட்டமன்றத்தில் அரும்பணியாற்றிய நமது
+தோழர்கள் பலரைத் தோற்கடித்து விட்டார்கள். எனினும் அதிக
+எண்ணிக்கையுடன், அரும்பணியாற்றக்கூடிய அறிவாற்றல்
+படைத்த நமது கழகத் தோழர்கள் சட்டமன்றம் செல்லுகின்றனர்.
+
+“எனவே, என் தோல்வி காரணமாகத் தி, மு. கழக
+சட்டமன்றப் பணி குந்தகப்பட்டுவிடாது - குறைந்துபோகாது!
+பல இடங்களில் நமக்குக் கிடைத்த வெற்றியால் ஏற்படக்கூடிய
+களிப்பு உணர்ச்சியை என் தோல்வி மூட்டி விட்ட கசப்பு உணர்ச்சி
+பாழாக்குவதை உணர்கிறேன்.
+
+“எனவேதான் வேண்டிக் கேட்டுக் கொள்ளுகிறேன்.
+நேரிட்டுவிட்ட தோல்விகளை மறந்துவிடுங்கள்! கண் கலங்கி
+நிற்காதீர்கள்!
+
+“வெற்றி பெற்று வருகிறது கழகம்! நாட்டு மக்களின்
+பேராதரவு வளர்ந்து வருகிறது! இது சாதாரணமானதல்ல -
+அரசியல் முக்கியத்துவம் வாய்ந்தது! இதை எண்ணி மகிழ்ச்சி
+யடையுங்கள் - பெருமைப்படுங்கள் - புதிய உற்சாகத்துடன்
+பணியாற்றுங்கள்” என்று அண்ணா அவர்கள் கேட்டுக்கொண்டார்.
+
+## English Translation
+
+The following appeal was issued by Arignar Anna to the public after the election results were announced on 25-2-1962:
+
+Comrades whose love for me remains unchanged and whose attachment to the Kazhagam never weakens! I know the state you are in after hearing of my defeat and the news of the defeat of several others that was equally shocking.
+
+Do not allow your hearts to break. Wipe away your tears and set out to perform the work of the Kazhagam! Stop sighing, display still greater enthusiasm than before, and work!
+
+The measures the ruling party and its supporters prepared, the methods they employed, and the instruments they used to defeat me in this election are truths known to the country.
+
+They calculated that my defeat would give them an opportunity to exercise domination for some more time, worked according to plan, and won. They may take pride in it. They may even acquire new confidence. But their calculation is wrong. They imagine that the Kazhagam dissolved with my defeat; that is their mistaken calculation!
+
+This defeat can only prevent me personally from working from within the Legislative Assembly. It prevents me, not the Kazhagam.
+
+Though comrades of the Kazhagam are distressed by my defeat, they go to the Assembly consoled by me, and they will perform their work ably.
+
+I am present in their thoughts and speech. Therefore, the Kazhagam has not suffered a great loss.
+
+They have prevented me from having a place in a Legislative Assembly that meets for scarcely a hundred days a year. But they cannot prevent the great assembly where I meet you every day, the assembly that creates legislatures, or the work I have there!
+
+This defeat will not make me withdraw from that work. On the contrary, that work will proceed still more vigorously.
+
+I do not seek to argue that this defeat is not my defeat by pointing out how deplorable were the methods adopted and the instruments deployed by the ruling party. I myself do not regard that argument as valid.
+
+Votes were seized by intimidating and beguiling the people. Money marched freely into battle. That is true.
+
+As I said in Kanchipuram, Venkatesa Perumal himself came forward to contest against me. But only victory achieved by overcoming even that condition would be true victory.
+
+Whatever ideas moved them or whatever influence they came under, the people of my constituency refused to support me. Even so, I shall continue to work to regain their goodwill and support.
+
+At this moment too, I remind you that “we need a heart capable of bearing anything.”
+
+The ruling party’s plan was not only to defeat me, but also to bring down those who had worked with me in the Legislature.
+
+Accordingly, they defeated many of our comrades who had rendered valuable service in the Assembly. Nevertheless, a larger number of our Kazhagam comrades, endowed with the knowledge and ability to perform excellent work, are going to the Legislature.
+
+Therefore, my defeat will neither obstruct nor diminish the D.M.K.’s legislative work. I realize that the bitterness kindled by my defeat is spoiling the joy that should arise from the victories we secured in many places.
+
+That is why I appeal to you: forget the defeats that have occurred. Do not stand with tear-filled eyes!
+
+The Kazhagam is advancing victoriously. The great support of the country’s people is growing. This is no ordinary matter; it possesses political importance. Think of it, rejoice, take pride, and work with renewed enthusiasm,” Anna appealed.
+
+## Translator's Notes
+
+The OCR date “25-22-1962” is corrected in English from direct inspection of source image `001-1890f4caac.png`, which clearly prints 25-2-1962. The Tamil OCR source remains unchanged.
+Election-related assertions and accusations are translated in Anna’s voice and are not independently verified here.

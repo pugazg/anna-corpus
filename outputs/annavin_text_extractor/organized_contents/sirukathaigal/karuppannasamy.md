@@ -1,0 +1,1 @@
+../../ocr_text_corrected/sirukathaigal/karuppannasamy.md
