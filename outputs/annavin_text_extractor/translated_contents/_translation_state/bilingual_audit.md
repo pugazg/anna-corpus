@@ -88,6 +88,7 @@ A blank image section has an explicit no-text marker or no OCR body after its im
 ### Manually Verified Recovery Holds
 
 - `katturaigal/nirubarin_nilai.md`: Printed pages 182-184 are absent after Image 8 (page 181); Image 9 is unrelated page 185 from an article on science, and Image 10 resumes only the final fragment of the reporter article. Recover the three missing pages and remove the misassigned scan before translation
+- `katturaigal/pazhaya_company.md`: Source sequence is corrupt: Image 1 is the opening of 'பழைய கம்பெனி!' about Congress and Muslim League ministries, while Images 2-11 abruptly switch to a Roosevelt obituary beginning mid-list. Recover the continuation of the first article and the missing opening of the second before separating them into canonical works.
 - `katturaigal/valarppupen.md`: The sixth and final extracted image ends mid-argument after Periyar's claimed five or six years of trust in Maniammai; recover the continuation before producing a complete translation
 - `nadagangal/avanasiyar_1.md`: 4 of 5 scan pages contain no OCR text; only image 1 classroom scene is presently recoverable
 - `nadagangal/avar_pesathathu_1.md`: 5 of 8 scan pages contain no OCR text; political conversation begins and ends mid-sentence
