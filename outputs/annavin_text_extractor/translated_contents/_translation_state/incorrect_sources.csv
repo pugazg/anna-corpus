@@ -1,0 +1,2 @@
+file,status,reason,source_path
+katturaigal/pazhaya_company.md,incorrect_source,"Images from two unrelated and incomplete articles are fused: Image 1 is 'பழைய கம்பெனி!' and Images 2-11 are a Roosevelt obituary beginning mid-list. Never translate this canonical file; recover and separate both articles first.",outputs/annavin_text_extractor/ocr_text_corrected/katturaigal/pazhaya_company.md

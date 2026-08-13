@@ -13,6 +13,7 @@ from pathlib import Path
 SCRIPT_DIR = Path(__file__).resolve().parent
 DEFAULT_INPUT = SCRIPT_DIR / "organized_contents"
 DEFAULT_OUTPUT = SCRIPT_DIR / "translated_contents"
+INCORRECT_SOURCES = DEFAULT_OUTPUT / "_translation_state" / "incorrect_sources.csv"
 
 EXCLUDED_SECTIONS = {"oviyam", "photos", "_merge_state"}
 BOILERPLATE_PATTERNS = (
@@ -28,6 +29,17 @@ BOILERPLATE_PATTERNS = (
     r"^## Image \d+:.*$",
 )
 BOILERPLATE_REGEXES = tuple(re.compile(pattern, re.I) for pattern in BOILERPLATE_PATTERNS)
+
+
+def load_incorrect_sources(path: Path = INCORRECT_SOURCES) -> dict[str, str]:
+    if not path.exists():
+        return {}
+    with path.open(encoding="utf-8-sig", newline="") as handle:
+        return {
+            row["file"]: row.get("reason", "Source explicitly marked incorrect")
+            for row in csv.DictReader(handle)
+            if row.get("file")
+        }
 
 
 def strip_frontmatter(text: str) -> str:
@@ -105,6 +117,7 @@ def main() -> int:
         for path in output_dir.rglob("*.md")
         if "_translation_state" not in path.parts and path.name != "TRANSLATION_GUIDE.md"
     }
+    incorrect_sources = load_incorrect_sources(state_dir / "incorrect_sources.csv")
     for rel_value, chosen_path in intended_files:
         rel = Path(rel_value)
         if rel.name == "index.md" or any(part in EXCLUDED_SECTIONS for part in rel.parts):
@@ -112,7 +125,11 @@ def main() -> int:
         source = Path(chosen_path) if chosen_path else input_dir / rel
         translated = output_dir / rel
         already_translated = rel.as_posix() in translated_keys
-        if already_translated:
+        if rel.as_posix() in incorrect_sources:
+            status, direction, reason, tamil_chars, latin_words = (
+                "incorrect_source", "none", incorrect_sources[rel.as_posix()], 0, 0
+            )
+        elif already_translated:
             status, direction, reason, tamil_chars, latin_words = (
                 "translated", "complete", "existing translated output", 0, 0
             )
@@ -149,6 +166,7 @@ def main() -> int:
         f"- Ready for translation: {counts['ready']}",
         f"- Already translated: {counts['translated']}",
         f"- Needs source/OCR recovery: {counts['needs_source_recovery']}",
+        f"- Incorrect sources skipped: {counts['incorrect_source']}",
         f"- Tamil to English: {sum(row['status'] == 'ready' and row['direction'] == 'tamil_to_english' for row in rows)}",
         f"- English to Tamil: {sum(row['status'] == 'ready' and row['direction'] == 'english_to_tamil' for row in rows)}",
         "",

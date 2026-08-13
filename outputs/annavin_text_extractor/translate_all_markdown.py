@@ -25,6 +25,7 @@ STATE_DIR = OUTPUT_DIR / "_translation_state"
 MANIFEST = STATE_DIR / "translation_manifest.jsonl"
 TERMS_FILE = STATE_DIR / "difficult_terms.csv"
 NO_SOURCE_FILE = STATE_DIR / "needs_source_recovery.csv"
+INCORRECT_SOURCES_FILE = STATE_DIR / "incorrect_sources.csv"
 API_URL = "https://api.openai.com/v1/responses"
 MODEL_PRICES_PER_MILLION = {
     "gpt-5.6-sol": (5.00, 30.00),
@@ -91,6 +92,17 @@ BOILERPLATE = (
     re.compile(r"^- OCR cleanup:.*$", re.I),
     re.compile(r"^- Image:.*$", re.I),
 )
+
+
+def load_incorrect_sources(path: Path = INCORRECT_SOURCES_FILE) -> dict[str, str]:
+    if not path.exists():
+        return {}
+    with path.open(encoding="utf-8-sig", newline="") as handle:
+        return {
+            row["file"]: row.get("reason", "Source explicitly marked incorrect")
+            for row in csv.DictReader(handle)
+            if row.get("file")
+        }
 
 
 def strip_frontmatter(text: str) -> tuple[dict[str, str], str]:
@@ -368,10 +380,19 @@ def render_markdown(rel: str, metadata: dict[str, str], direction: str, results:
 
 
 def write_recovery(rows: list[dict[str, str]]) -> None:
+    merged: dict[str, dict[str, str]] = {}
+    if NO_SOURCE_FILE.exists():
+        with NO_SOURCE_FILE.open(encoding="utf-8-sig", newline="") as handle:
+            merged.update(
+                (row["file"], row)
+                for row in csv.DictReader(handle)
+                if row.get("file")
+            )
+    merged.update((row["file"], row) for row in rows if row.get("file"))
     with NO_SOURCE_FILE.open("w", encoding="utf-8", newline="") as handle:
         writer = csv.DictWriter(handle, fieldnames=["file", "reason", "source_path"])
         writer.writeheader()
-        writer.writerows(rows)
+        writer.writerows(merged[key] for key in sorted(merged, key=str.casefold))
 
 
 def main() -> int:
@@ -407,6 +428,7 @@ def main() -> int:
     glossary = load_glossary()
     terms = read_terms()
     recovery: list[dict[str, str]] = []
+    incorrect_sources = load_incorrect_sources()
     counts: Counter[str] = Counter()
     processed = 0
     estimated_cost = previous_cost(args.model)
@@ -417,6 +439,10 @@ def main() -> int:
             counts["cost_guard_stopped"] += 1
             break
         rel = row["file"]
+        if rel in incorrect_sources:
+            print(f"skip incorrect source: {rel}", flush=True)
+            counts["incorrect_source"] += 1
+            continue
         source = Path(row.get("chosen_path") or INPUT_DIR / rel)
         output = OUTPUT_DIR / rel
         raw = source.read_text(encoding="utf-8", errors="replace")
@@ -481,7 +507,8 @@ def main() -> int:
         if args.limit and processed >= args.limit:
             break
 
-    write_recovery(recovery)
+    if not args.dry_run:
+        write_recovery(recovery)
     print("\nSummary", flush=True)
     for key, value in sorted(counts.items()):
         print(f"- {key}: {value}", flush=True)
