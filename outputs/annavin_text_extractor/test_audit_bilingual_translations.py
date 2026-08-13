@@ -2,6 +2,7 @@
 """Focused tests for OCR completeness detection in the bilingual audit."""
 
 import unittest
+import subprocess
 import importlib.util
 from pathlib import Path
 
@@ -36,6 +37,12 @@ Recovered text
 _No OCR text detected._
 """
         self.assertEqual(blank_ocr_pages(source), 1)
+
+    def test_manual_recovery_hold_is_reported(self):
+        subprocess.run(["python3", str(MODULE_PATH)], check=True, capture_output=True, text=True)
+        report = MODULE.REPORT.read_text(encoding="utf-8")
+        self.assertIn("### Manually Verified Recovery Holds", report)
+        self.assertIn("`katturaigal/nirubarin_nilai.md`", report)
 
 
 if __name__ == "__main__":

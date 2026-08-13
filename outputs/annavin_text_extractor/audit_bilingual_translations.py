@@ -14,6 +14,7 @@ SOURCE_MAP = ORGANIZED / "_merge_state/source_map.csv"
 REPORT = TRANSLATED / "_translation_state/bilingual_audit.md"
 STATUS_MD = TRANSLATED / "_translation_state/section_translation_status.md"
 STATUS_CSV = TRANSLATED / "_translation_state/section_translation_status.csv"
+RECOVERY_CSV = TRANSLATED / "_translation_state/needs_source_recovery.csv"
 IGNORED_SECTIONS = {"oviyam", "photos"}
 
 
@@ -61,11 +62,14 @@ def main() -> int:
     extract_tamil = load_tamil_extractor()
     with SOURCE_MAP.open(encoding="utf-8-sig", newline="") as handle:
         rows = list(csv.DictReader(handle))
+    with RECOVERY_CSV.open(encoding="utf-8-sig", newline="") as handle:
+        manual_recovery = {row["file"]: row["reason"] for row in csv.DictReader(handle)}
 
     section_counts = defaultdict(lambda: {"total": 0, "done": 0, "valid": 0})
     ocr_counts = defaultdict(lambda: {"total": 0, "done": 0, "valid": 0})
     ocr_source_gaps = defaultdict(lambda: {"works": 0, "pages": 0})
     source_gap_files = []
+    manual_gap_files = []
     issues = []
     for row in rows:
         section = row["section"] or "root"
@@ -84,6 +88,8 @@ def main() -> int:
                 ocr_source_gaps[section]["works"] += 1
                 ocr_source_gaps[section]["pages"] += blank_pages
                 source_gap_files.append((relative.as_posix(), blank_pages))
+            if relative.as_posix() in manual_recovery:
+                manual_gap_files.append((relative.as_posix(), manual_recovery[relative.as_posix()]))
         target = TRANSLATED / relative
         if not target.exists():
             continue
@@ -176,6 +182,11 @@ def main() -> int:
     ])
     if source_gap_files:
         lines.extend(f"- `{path}`: {pages} blank page(s)" for path, pages in source_gap_files)
+    else:
+        lines.append("None.")
+    lines.extend(["", "### Manually Verified Recovery Holds", ""])
+    if manual_gap_files:
+        lines.extend(f"- `{path}`: {reason}" for path, reason in manual_gap_files)
     else:
         lines.append("None.")
     lines.extend([
