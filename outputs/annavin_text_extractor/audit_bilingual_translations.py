@@ -20,7 +20,7 @@ IGNORED_SECTIONS = {"oviyam", "photos"}
 
 def blank_ocr_pages(text: str) -> int:
     """Count explicit and structurally empty OCR image sections."""
-    sections = re.split(r"(?m)^## Image \d+:[^\n]*\n", text)[1:]
+    sections = re.split(r"(?m)^#{2,6} Image \d+:[^\n]*\n", text)[1:]
     blank_count = 0
     for section in sections:
         content_lines = []

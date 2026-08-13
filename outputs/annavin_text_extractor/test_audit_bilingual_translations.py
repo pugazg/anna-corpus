@@ -38,6 +38,17 @@ _No OCR text detected._
 """
         self.assertEqual(blank_ocr_pages(source), 1)
 
+    def test_counts_blank_pages_under_nested_headings(self):
+        source = """### Image 1: one.png
+- Image: `one.png`
+_No OCR text detected._
+
+### Image 2: two.png
+- Image: `two.png`
+Recovered text
+"""
+        self.assertEqual(blank_ocr_pages(source), 1)
+
     def test_manual_recovery_hold_is_reported(self):
         subprocess.run(["python3", str(MODULE_PATH)], check=True, capture_output=True, text=True)
         report = MODULE.REPORT.read_text(encoding="utf-8")
