@@ -522,7 +522,7 @@ Total source works: 537
 - [sorpozhivugal/velanmai190359](velanmai190359.md) - translated
 - [sorpozhivugal/velanmai260358](velanmai260358.md) - translated
 - [வெள்ளச் சேதத்துக்கு அரசே பொறுப்பு](vella_saethathukku.md) - pending
-- [sorpozhivugal/velludai](velludai.md) - pending
+- [sorpozhivugal/velludai](velludai.md) - translated
 - [வெற்றி அல்லது வீரமரணம்](vetri_allathu_veera.md) - pending
 - [வெற்றி முரசு](vetri_murasu.md) - pending
 - [sorpozhivugal/vetri_veerargalukku](vetri_veerargalukku.md) - translated
