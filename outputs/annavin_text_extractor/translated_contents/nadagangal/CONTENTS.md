@@ -62,5 +62,5 @@ Total source works: 62
 - [nadagangal/sumangalipooja_1](sumangalipooja_1.md) - translated
 - [nadagangal/suyechai](suyechai.md) - pending
 - [nadagangal/vaelaikari](vaelaikari.md) - pending
-- [nadagangal/vazhakku_vapas_1](vazhakku_vapas_1.md) - pending
+- [nadagangal/vazhakku_vapas_1](vazhakku_vapas_1.md) - translated
 - [nadagangal/yar_kaetka](yar_kaetka.md) - pending

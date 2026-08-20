@@ -68,7 +68,7 @@ class IncorrectSourceGuardTest(unittest.TestCase):
         self.assertEqual(late_blank["status"], "needs_source_recovery")
         self.assertIn("1 blank image section(s)", late_blank["reason"])
         recovered = rows["nadagangal/vazhakku_vapas_1.md"]
-        self.assertEqual(recovered["status"], "ready")
+        self.assertEqual(recovered["status"], "translated")
 
     def test_batch_dry_run_skips_without_rewriting_recovery_state(self):
         recovery = STATE / "needs_source_recovery.csv"
