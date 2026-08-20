@@ -1,4 +1,10 @@
-# katturaigal/lawrance
+# லாரன்சுகள் பலரகம்! / Lawrences Are of Many Kinds!
+
+**Tamil title:** லாரன்சுகள் பலரகம்!  
+**English title:** Lawrences Are of Many Kinds!  
+**Source file:** `katturaigal/lawrance.md`
+
+## Source Tamil (verbatim)
 
 - Source image folder: `/Users/pugazhendhirajendran/Documents/Codex/2026-07-09/https-www-annavinpadaippugal-info/outputs/annavin_text_extractor/ocr_images/katturaigal/lawrance`
 - OCR language: `tam`
@@ -637,3 +643,173 @@ _ தங்குமிடங்கள் தர் தர்பார் சு
 கர்னலும் மேஜரும் சுதேச சமஸ்தானங்களில் கொலு
 வீற்றிருப்பார்கள்;
 9-3-1947
+
+## English Translation
+
+The difference in colour between green and red, or black and yellow, is easily recognized. Not only a dealer in paints but even an ordinary person can identify and name it at sight. Yet differences such as those between leaf-green and parrot-green, or orange and yellow, are not so easily understood.
+
+The differences from one Englishman to another are not like the bright, obvious contrast between green and red that even an unschooled person can grasp. They are not even as simple as the variation between orange and yellow. They are stranger still. If a good example is required, consider the colour of a peacock's neck. The longer one looks, the more shades appear: green, blue, blue mixed with green, green mixed with blue, and between them green tinged with a dim yellow. The English character presents itself in just such a multitude of colours.
+
+It is therefore difficult to discover clearly and unmistakably how one Englishman differs from another in special qualities of character. The difference between a Chinese person and an Englishman may appear as brightly as the difference between green and red. But differences of character among Englishmen themselves are hard to identify. Just as the colour of a peacock's neck cannot be described conclusively as blue, green, or yellow, the English character cannot be assigned one precise quality.
+
+This quality may exist among other peoples too, but it is present among the English on a greater scale and is more widely spread. That is why, on many occasions when they seemed certain to be convicted before the tribunals of the world, the English escaped by conducting themselves in a fashion that made even the judges exclaim, "Good heavens, this man could not have done all that!"
+
+In our own day we hear of naval commanders such as Mountbatten and see their courage and valour praised. Our hearts are startled when we read that, within the very English people distinguished by such commanders, there lived in historical times, only four or five centuries ago, Englishmen who conducted piracy with skill and daring. Yet it is true. English pirates ruled the tossing seas with bands of directionless brutes, murderers, and mercenaries. More astonishing still, after gaining dominance, gathering treasure, and returning home, they acquired honour and were respected even by the government.
+
+Their extraordinary skill and courage in piracy were praised. Some English historians even wrote with pride that, although piracy was wrong, the sea routes those pirates discovered and the countries with which they made contact were later useful for making profit by civilized methods. Why do we say this? To show that the special qualities of the English are many and resemble the neck of a peacock. They cannot be defined clearly as one particular colour.
+
+This play of colours contains a profound idea. It is the fundamental strength behind the durability of the British Empire. Because their distinctions of colour, that is, of character, cannot be clearly understood by others, many leaders of the world have remained bewildered until the end, unable to discover the true reason for British actions.
+
+Are they yielding or obstinate? Soft-hearted or iron-hearted? Selfish or altruistic? If one begins asking what motive lies behind an English action, it is impossible to find one simple cause or deliver an easy verdict. One must remain bewildered or reach the wrong conclusion. Such are their actions.
+
+Consider an amusing example. When the English came to the Indian subcontinent for trade, the Mughal government, the Bengal government, and numerous palayams existed. The English erased them so completely that their former place could scarcely be found. If one looked only at that event, one would call them destroyers of India's ancient institutions and symbols.
+
+Yet the same English who dissolved all those governments carefully preserved ruined forts, silted moats, decaying buildings, fallen walls, gardens reduced to wasteland, mutilated stone images, and many other ancient monuments. They spent money upon them and established a separate department for the purpose. The men who sent the emperor of Delhi, the ruler of Bengal, the Maratha Peshwa, the Nawab of the Carnatic, the Raja of Thanjavur, and the heads of the palayams home assumed responsibility for preserving, without destruction or damage, the monuments built by those rulers' ancestors.
+
+Why? That is their special character, their play of colours. Looking at this act alone, one might exclaim: "Ah, they are righteous protectors of ancient monuments! Though they have seized a country, they generously excavate even its buried treasures and enable us to recognize our own ancestral greatness." One would feel moved to praise them.
+
+They prohibited sati, but did not abolish untouchability. They suppressed the gangs of Thugs, but allowed the brokers of religion to grow fat. They supplied new medicines for disease, but allowed caste distinctions to grow. They prevented great native kingdoms from arising while enabling petty princes to live in splendour. They raised many cities, yet left their stinking slums unreformed.
+
+Their actions of those days produced both wonder and pain: like removing moss while demolishing the steps of the pond; placing fruit in one's hand while setting a monkey opposite; fastening an anklet upon the foot while refusing medicine for the wound visible upon the neck. Many who examined such conduct wondered, "Why did they act in this way? These deeds do not let us say firmly whether their character is good or bad." A peacock's neck does not possess only one colour; neither does their character.
+
+It is difficult, but not impossible, to identify the true reason for their actions. If every action is examined separately, compared with the others, and thoughtfully considered, the truth becomes clear. They are people who recognize circumstances and act accordingly. Their measure is not good versus evil, but whether this act or another can be done now. They do not spend much thought upon whether it is necessary or unnecessary, or whether people will accept or oppose it. They attach supreme importance to the action required at the present moment. They kept, keep, and will keep their eyes and minds fixed upon discerning the situation and performing the action suited to it.
+
+The Thugs' movements caused plunder, destroyed wealth, disturbed peace, impaired the conditions needed for trade, and reduced profit. The English therefore decided that the Thug gangs had to be suppressed then. Could they not also understand that, although religious brokers did not plunder like the Thugs, popular credulity allowed those brokers to exploit people, destroy wealth, and ruin labourers? They could. Why did they not intervene? Because the priests' occupation did not damage their own occupation. The religious brokers did not approach the gentleman in the hat. "What trouble does it cause us? Let it continue," the English decided and remained quiet.
+
+They have acted after reading the situation in this fashion on every occasion, not after turning the pages of scriptures, following words of instruction, or obeying philosophical doctrines about dharma and compassion. One consistent method appears in their conduct: action suited to circumstance. This explanation can be found only with great effort. The peacock's neck does not reveal its colour easily.
+
+Nor can one say this method is confined to India. The English have followed it everywhere they established contact.
+
+Once this truth is grasped, the difference between 1858 and 1948 becomes clear: in 1858 they struck and crushed; in 1948 they say, "We are leaving." To understand these completely contrary and astonishing actions, one must recognize their fundamental character of acting solely according to circumstances.
+
+If we regard today's action as British cowardice, the Labour Party's generosity, Attlee's affection, or Pethick-Lawrence's magnanimity, we shall deceive ourselves. It is an old method, a distinctively English method, devised with the truth they learned by studying why empires perished: act according to the situation. That alone is the cause of today's course.
+
+Many other causes can be displayed, like pointing to the crow seated upon a fallen palmyra fruit. In Pethick-Lawrence's time we hear the declaration, "We are going; we are leaving." It is useless to treat this as the product of great virtue, for the full truth will remain hidden.
+
+Many Lawrences connected with the Indian subcontinent have lived and died. Each took action suited to the conditions of his own day. There were many Lawrences, but not many fundamental aims or methods. The basic purpose was one.
+
+Today we see Pethick-Lawrence, who is liberating the Indian subcontinent. We did not see the Lawrences who worked to bring it beneath British rule. We show them not to present a picture gallery, but to explain that each Lawrence adopted action suited to the circumstances of his time.
+
+Pethick-Lawrence is one of four Lawrences prominent in British-Indian relations and belongs to our own day. Before him came John Lawrence and Henry Lawrence, and before them Stringer Lawrence.
+
+Even schoolchildren are taught that the conditions enabling the English to seize the Indian subcontinent arose in Clive's time. When Clive came to Madras as an ordinary soldier, the commander of the military unit he joined was Stringer Lawrence, head of the troops maintained by the Europeans who had established a commercial fort in Madras. Major Stringer Lawrence was praised as a warrior and as a man highly skilled in leading armies.
+
+What were the conditions in his day? It was the time of entry. Courage had not burned away in our country; it lay beneath the ash. Moreover, the English were not alone. The French too had scented profit and arrived upon the hunt. Major Stringer Lawrence therefore had to break both the native people's sense of their rights and the ambitions of the competing French. He adopted action suited to those circumstances.
+
+When factions arose, the method was to enter between them; when one rival rose against a Nawab or a Rao, to send "a man who shoots" to one side; after victory, to remind that party of British assistance, claim kinship, and obtain commercial privileges; and when the French joined one side, immediately to cultivate relations with the other. These were actions suited to circumstances in Stringer Lawrence's day.
+
+When a town splits in two, the performer celebrates. But the celebration did not end there. The performer began dancing in the costume of a merchant, and the performance grew until the merchant assumed the costume of a ruler.
+
+Major Stringer Lawrence acted according to the conditions of his day, inserted English power, and employed methods that destroyed the plans of French commanders such as Lally, who worked to introduce French domination. In those days there were no phrases such as "our Indian friends" and "an ancient and glorious nation." The questions were: Should we support Chanda Sahib or Muhammad Ali? Let the fellows fight and die; ask what money they will give us!
+
+The purpose for which Stringer Lawrence entered an internal conflict is the very purpose for which today's Lawrence has adopted a different action, the action of offering us the feast of freedom. There is a change of method between the Lawrence who hunted and the Lawrence who celebrates friendship, but no change of purpose. The objective remains to discover what conduct will increase British profit.
+
+The method of Stringer Lawrence's day served the British for a long time because internal divisions here were so numerous. Many conspiracies were made to overthrow one another, and those opportunities strengthened British power. Every petty prince desired to become an emperor. Lacking sufficient strength of his own, he sought British or French assistance. The men who came in search of gold thus discovered a land that yielded gold through this "hunt." Petty states and empires fell, and the white man's government sprouted.
+
+In 1858 revolution erupted. Some Lawrences were present then too, and they adopted action suited to that situation. The question was no longer whether to support Chanda Sahib or Muhammad Ali. It was a case of saving one's head by the grace of the Lord. The British had lived upon the pleasant belief that troops would suppress the people and that those troops were obedient to them. In 1858 it was not the people but the army itself that began the revolt. Hindu and Muslim soldiers alike rebelled.
+
+The revolt spread to many places. Senior white officers were terrified. Fire everywhere; war everywhere. Europeans faced grave danger in many places. Some wept in panic, asking why they had come. Many trapped within towns suffered attack; others suffered upon the roads while attempting to escape.
+
+With the revolt taking this form, the Lawrences of that day decided that the right course was to counterattack: Hindu or Muslim, whoever opposed British power in the Indian subcontinent had to be resisted and destroyed. They acted accordingly.
+
+During that great revolt, the brothers Henry Lawrence and John Lawrence undertook ruthlessly severe measures, conducted many attacks, and shattered the Hindu-Muslim ranks fighting for freedom. Henry Lawrence died while fighting at Lucknow. John Lawrence fought with great boldness, crushed the revolutionary armies, destroyed resistance, and worked to re-establish British rule particularly in Punjab and generally throughout northern India.
+
+In the time of these Lawrences there were no sweet words and smiles. Fiery speech and violent suppression were the chosen actions because the situation could be managed only by such methods. Bargaining, entering divisions, aiding one of two sides, sitting as advisers in royal courts, and supplying men for disturbances in return for payment were needed in Stringer Lawrence's day. In the days of Henry and John Lawrence, the required method of war was resistance and attack everywhere, extinguishing the spark of revolt and striking whoever carried it.
+
+Today's Pethick-Lawrence needs none of these methods. A new method is required. A smile is required, and there is reason for the smile. Britain has already seen the profit that had to be gained through warfare. Profit now lies neither in fighting nor in governing. The new method required in Pethick-Lawrence's day is to hand government to them, stand nearby and watch the resulting difficulties, enter again when occasion and invitation arise, and even if no such occasion occurs, establish a new relationship and obtain profit without apparent injury.
+
+The actions of the four Lawrences show that the fundamental aim is one. Today's action is therefore caused neither by fear of us, sudden affection for us, nor a sudden concern for international morality. Under today's conditions, this action is necessary for the same purpose that required many different actions before: action suited to circumstances, but in a way that does not damage the fundamental objective. That is the present policy.
+
+When members of the House of Lords asked many probing questions, Pethick-Lawrence gave an answer that offered a fine example of British character: "Do not press me to disclose too many matters. Every word spoken here will reach India!"
+
+What does that mean? There are many words that must not reach our ears. A concealed formula is required. We have explained that formula above. Had Pethick-Lawrence spoken openly, he would have said: "This new arrangement is entirely for British benefit. I am not a madman; I am a Briton. Wait and the result of my action will become clear." Pethick-Lawrence laboured greatly in the House of Lords to make them understand all this without saying it.
+
+Whenever the problem of the Indian subcontinent arose, Britain pointed to causes within India and said that all these troubles had first to be resolved.
+
+Whenever clashes arose among the great powers of the world, one government found it necessary to condemn the course of another. Britain received the greatest condemnation because it had committed the greatest number of offences in seizing countries. On every such occasion Britain replied: "Conflicts such as those between Hindus and Muslims in India must be resolved. Only then can India qualify for self-government." This refrain continued for many years.
+
+To escape it, leaders of the Indian subcontinent argued that Britain should name a date and announce, "After this date we shall not remain in India; we shall leave." Once such an announcement was made, they said, division and difference within India would disappear and unity would blossom. It took some time for this argument to gain influence in world forums, but now it has. Britain has therefore begun a new song.
+
+Britain now says: "Was it because you did not know for certain that we would leave by a specified date that you could not settle your quarrels? Why place that blame upon us? We have named a date to leave. Become gloriously united before then and devise a plan to govern your own country."
+
+This is not merely an answer to us. It is Britain's answer to the veiled observations of the great world powers. Britain wants to declare proudly in the tribunals of the world tomorrow: "We have even fixed a date to withdraw. What fault can now be found with us?"
+
+"If you withdraw, what becomes of India's defence?"
+
+"That is the responsibility of Indians, though we have a special concern for it."
+
+"Will British troops withdraw too?"
+
+"Yes, certainly."
+
+"If an enemy country attacks India, does India possess sufficient military strength to meet it?"
+
+"India is an ancient and renowned subcontinent with four hundred million capable people. The courage shown by Indian soldiers in this war was extraordinary."
+
+"Spare us the description, sir. Have the army, navy, air force, and modern weapons of war been properly organized?"
+
+"They can be organized."
+
+"What is the present position?"
+
+"You already know it."
+
+"If another country attacks under these conditions?"
+
+"It will be difficult. Freedom can be sustained only through unceasing labour."
+
+"Spare us the sermon. What will happen?"
+
+"If a great power attacks India in its present condition, it will indeed be difficult. But if India agrees to remain a member of the British Commonwealth, we shall gladly assume responsibility for India's defence."
+
+"And if it does not join the Commonwealth?"
+
+"If danger threatens India, we shall observe it sympathetically. India's danger might then become trouble for Asia and eventually turn into a world war. Since we are deeply concerned that peace and tranquillity prevail throughout the world, we must closely watch India's future."
+
+Prominent Britons of every party speak in this fashion.
+
+Thus, even while speaking of departure, they prepare a path for a new relationship. They point to the world situation and to the fact that armed strength has not yet been adequately organized in the Indian subcontinent. They tell us that a new relationship must be established, then speak of the lofty principle that it is essential to world peace and thereby silence the other great powers.
+
+Is that all? More than five hundred princes live in India: from a petty pageant of a king possessing six horses, sixty consorts, forty dancing queens, and eighty villages, all the way to the Nizam of Hyderabad. For years they have kept the land divided into two kinds, British India and princely India. That is why the office here bears the title Governor-General and Viceroy.
+
+When the British now say they are leaving, they refer to British India, not princely India. The emperors and princes will remain in their respective states, and the British have not taken leave of them.
+
+The British speak of leaving the Bangalore Cantonment; that does not prevent them from remaining in Bangalore City. They can leave Karaikudi and establish a lodging in Pudukkottai, or depart Andhra and stay in Hyderabad. They may reside and wield influence in the more than five hundred princely states of the Indian subcontinent. The statement that they will leave in 1948 in no way prevents Britain from establishing separate relations with the princely states.
+
+This does not mean that a "British camp" will exist in every princely state. Some may attempt to remain independent; Hyderabad appears to harbour such an intention. Some states may seek relations with the democratic governments to be established here, while many others may retain relations with Britain. In other words, the princely states possess the right to arrange their future as they wish. Britain will attempt to negotiate directly with them on this matter.
+
+Even in the regions from which they say they will depart, the British declare only that they will lose the right to govern, not their commercial connections. Those connections are no ordinary matter; they can yield enormous profit. The connection of government now harms the connection of trade. Measures taken by gentlemen serving as governor and governor-general for purposes of rule damage the profit of gentlemen arriving as company directors. The British have therefore decided: let us abandon the task of ruling and attend to our business, for that is where the substance lies.
+
+Napoleon once mocked the British as "a nation of shopkeepers." Truth lies embedded in that taunt. To gather profit while bearing the world's envy for ruling India and its vast subcontinent, suppressing the local resistance that cries for freedom and the abolition of foreign rule, enduring the new ill-repute created by such suppression, and attending to commerce amid all these difficulties causes expenditure to rise and revenue to fall for British imperialism. That is why the new action begins amid smoke.
+
+Sir Stafford Cripps said this week that the British can no longer remain in India. If they decide to remain, they must stay another twenty years and administer the country with more British troops and officials than at present. British soldiers would not wish to remain in India for so many years, and the parties in Britain would not consent. It is therefore best to fix a date and withdraw.
+
+In the first part of this article we explained the profit-and-loss calculation buried in those words. Government brings expense and difficulty. Abandoning government and celebrating friendship reduces expense while increasing revenue. We could accumulate statistics to explain it further, but a few general truths are enough.
+
+The British gathered great profit through major industries such as textiles and iron. Elderly Congress members will remember the platform speeches of those days: "India's nine gems are heaped up in Lancashire and Sheffield. Our wealth is plundered. The foreigner rules with his flag flying while our countryman is reduced to a loincloth." Lancashire was the city of textile mills and Sheffield the city of ironworks. Through those two industries the British grip upon India became extraordinarily strong.
+
+Government was used as an instrument to preserve those two grips. Today that grip no longer exists, so the instrument that protected it is no longer needed. After the horse has been stolen, what use is the stable? Why sweep it and keep it locked?
+
+The fortune once enjoyed by Lancashire has now passed to Birla and Bajaj. The money that once travelled to Sheffield now comes to Tata. There is therefore no need for London to preserve a political grip, and no profit in doing so. The commercial profit now obtained by those North Indian magnates depends upon peace in this country. What wonder is there if today's Lawrences think, "Why should we struggle to preserve that peace for them?" That is why they say they are going.
+
+The governors and governor-general will leave; colonels and majors will sit in splendour in the princely states.
+
+9 March 1947
+
+## Translator's Notes
+
+The title uses the surname Lawrence as a type: Stringer Lawrence, Henry Lawrence, John Lawrence, and the contemporary Secretary of State for India, Frederick Pethick-Lawrence. Anna's argument is that their methods differ with circumstances while British advantage remains the common objective.
+
+The article prints 1858 as the year of the revolt and contrasts it with the announced 1948 withdrawal. Modern historical accounts usually date the uprising from 1857; the translation preserves the article's printed chronology rather than silently revising it.
+
+`தக்கர் கூட்டம்` refers to the Thugs suppressed under British rule. The contrast with `மதத் தரகர்கள்`, "brokers of religion," is Anna's criticism that colonial intervention followed commercial convenience rather than a consistent programme of social reform.
+
+`கீழே வீழ்ந்த பனம்பழத்துக்கு மேலே உட்கார்ந்த காகம்` invokes the familiar crow-and-palmyra coincidence: unrelated causes may be credited merely because two events occur together.
+
+`பிரிட்டிஷ் சாம்ராஜ்யம்` in the defence dialogue is rendered as the British Commonwealth because the passage concerns India's proposed continuing membership and the defence relationship, while retaining the source term's imperial framing in this note.
+
+The text's names and period spellings, including Chanda Sahib, Muhammad Ali, Lally, Lucknow (`லட்சுமணபுரி`), Punjab (`பாஞ்சாலம்`), and the princely states, are rendered conservatively. Political and historical evaluations remain those made by the article.
+
+One damaged line in the princely-state discussion appears to mention British places of residence and assistance from durbar circles. Its exact wording remains uncertain in the scan; the translation does not rely on that fragment for a new factual claim and preserves the surrounding argument about direct relations with princely states.
+
+The Tamil source consists of fifteen continuous scans. Material OCR repairs restore the title, colour terms, the Thug reference, dates, the four Lawrences, Clive, damaged dialogue, princely-state passages, and the final economic argument; residual printed punctuation and period diction are retained.

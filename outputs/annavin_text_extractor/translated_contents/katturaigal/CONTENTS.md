@@ -612,7 +612,7 @@ Total source works: 1388
 - [katturaigal/latchiya_varalaru](latchiya_varalaru.md) - pending
 - [இலட்சிய வீரர்களுக்கு இரண்டு வாரம்!](latchiya_veerargalukku.md) - pending
 - [இலட்சிய வீரரின் ‘எரிமலை’ வெடித்தது!](latchiya_veerarin_erimalai.md) - pending
-- [katturaigal/lawrance](lawrance.md) - pending
+- [katturaigal/lawrance](lawrance.md) - translated
 - [பாரதவீரர்! சமரசத்தூதர்! சாணக்கியர்!](leagai_muriadikka.md) - pending
 - [லீ.ரா.](lee_ra.md) - pending
 - [லெப்டினன்டு ஜெனரல்](leftinand_general.md) - pending
