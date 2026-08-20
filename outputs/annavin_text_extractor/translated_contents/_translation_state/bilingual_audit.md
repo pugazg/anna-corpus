@@ -32,10 +32,10 @@
 | Section | Works with blank image sections | Blank pages |
 |---|---:|---:|
 | katturaigal | 0 | 0 |
-| nadagangal | 37 | 430 |
+| nadagangal | 36 | 423 |
 | sirukathaigal | 0 | 0 |
 | sorpozhivugal | 6 | 11 |
-| **All OCR-origin sections** | **43** | **441** |
+| **All OCR-origin sections** | **42** | **434** |
 
 A blank image section has an explicit no-text marker or no OCR body after its image reference. The canonical Tamil source is not translation-ready even when the scan itself may be readable.
 
@@ -76,7 +76,6 @@ A blank image section has an explicit no-text marker or no OCR body after its im
 - `nadagangal/sanmanam.md`: 11 blank page(s)
 - `nadagangal/sorgavaasal.md`: 33 blank page(s)
 - `nadagangal/suyechai.md`: 16 blank page(s)
-- `nadagangal/vazhakku_vapas_1.md`: 7 blank page(s)
 - `nadagangal/yar_kaetka.md`: 10 blank page(s)
 - `sorpozhivugal/150767.md`: 1 blank page(s)
 - `sorpozhivugal/190868.md`: 1 blank page(s)
