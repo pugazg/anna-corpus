@@ -50,6 +50,10 @@ class IncorrectSourceGuardTest(unittest.TestCase):
         row = rows["sorpozhivugal/sudhanthira_kaiyelu.md"]
         self.assertEqual(row["status"], "needs_source_recovery")
         self.assertEqual(row["direction"], "none")
+        missing_transition = rows["katturaigal/ilamayil_muthumai.md"]
+        self.assertEqual(missing_transition["status"], "needs_source_recovery")
+        self.assertEqual(missing_transition["direction"], "none")
+        self.assertIn("Images 4 and 5", missing_transition["reason"])
 
     def test_queue_holds_ocr_works_with_blank_image_sections(self):
         subprocess.run(
