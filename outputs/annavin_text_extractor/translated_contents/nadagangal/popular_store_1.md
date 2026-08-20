@@ -1,4 +1,10 @@
-# nadagangal/popular_store_1
+# பாபூலர் ஸ்டோர் / Popular Store
+
+**Tamil title:** பாபூலர் ஸ்டோர்  
+**English title:** Popular Store  
+**Source file:** `nadagangal/popular_store_1.md`
+
+## Source Tamil (verbatim)
 
 - Source image folder: `/Users/pugazhendhirajendran/Documents/Codex/2026-07-09/https-www-annavinpadaippugal-info/outputs/annavin_text_extractor/ocr_images/nadagangal/popular_store_1`
 - OCR language: `tam`
@@ -488,3 +494,265 @@
 சொல்லி அனுப்புகிறார்கள்.)
 
 1945.
+
+## English Translation
+
+Lawyer Varadaraja Iyengar and “Popular Stores” Paramasiva Iyer are friends, and with good reason. Popular Store sells everything from tooth powder to sovereigns. No one can escape without buying something from Paramasiva Iyer; he skilfully saddles them with goods on credit, then files cases against customers who fail to return. Varadaraja Iyengar has been very useful to him in this respect. The lawyer's fees have therefore been paid in Vanaja face powder, vadamalli scent and similar merchandise, making close “friendship” between them inevitable.
+
+Paramasiva Iyer buys an open plot. “A minor's suit may arise, but I shall handle it. Buy without fear,” says the lawyer, and Iyer buys it. Afterwards, Iyer decides that relying on his fertile brain is better than relying on the lawyer. He devises a scheme: build a Vinayaka temple on one side of the plot. Even if litigation follows, the townspeople will call him the virtuous man who built a temple and will not trouble him. He will turn the remaining land into a fine garden for his private use. “I shall provide the land; patrons of charity must meet the cost of the temple,” he announces, and begins collecting donations. The collection produces a fine yield. Whatever the Self-Respecters may roar, what use is it? The local orthodox circle takes immense satisfaction in boasting that more than three thousand rupees has already been received for renovating the Valpuri Vinayaka temple.
+
+One evening, Paramasiva Iyer returns to his store weary from his customary collection round. Hearing that the lawyer had called and left, he tells Kittu at the shop that he is going to the lawyer's house. He orders Kittu to take two yards of chocolate-coloured ribbon to Kamu on the way home. At the lawyer's house, Varadaraja is reclining in a chair in angry dejection after a client berated him for mishandling a case. Popular Store arrives.
+
+**Paramasiva:** I thought as much. That fellow has turned our Sundaram into a thorough Self-Respecter.
+
+**Varadaraja:** Which Sundaram?
+
+**Paramasiva:** Which Sundaram! Whom else would I mean? The flashy Sundaram from Sannidhi Street?
+
+**Varadaraja:** Stop rambling and come to the matter.
+
+**Paramasiva:** Why snap at me? Did you have a fight with His Honour in court today?
+
+**Varadaraja:** More rambling. Tell me which Sundaram.
+
+**Paramasiva:** Our Sundaram Chetty.
+
+**Varadaraja:** What happened to him?
+
+**Paramasiva:** Ruined! I pleaded with him about our temple and asked him to give some substantial donation. “It isn't for me; it is the Lord's work,” I said. Do you know what he asked? “Good heavens, sir! Have you no other work? Existing temples are not enough, so you want another? Bats fly about inside the old temple. Why do we need this new one?”
+
+**Varadaraja:** Sundaram asked that?
+
+**Paramasiva:** Yes! I was stunned. Last week, remember how he spoke about Ramasami Naicker? And today...
+
+**Varadaraja:** Did he finally refuse to give anything?
+
+**Paramasiva:** I began to feel he might. You should hear him: the mind itself is the temple, good intention the worship, service the consecration. “Serve the living gods, sir. Forgetting them and pouring money into a temple earns no merit.” He has become a dyed-in-the-wool Self-Respecter.
+
+**Varadaraja:** Sundaram speaks Self-Respect doctrine? That fool cannot string four words together.
+
+**Paramasiva:** Him? Once released, words pour out in a torrent.
+
+**Varadaraja:** Has he truly become a Self-Respecter?
+
+**Paramasiva:** Yes. Who imagined Sundaram would become one? I never dreamed it.
+
+(The lawyer's wife Vatsala joins the conversation.)
+
+**Vatsala:** I heard the word “dream.” Who had a dream?
+
+**Paramasiva:** (With a foolish look.) Why, I did.
+
+**Vatsala:** What sort? A good dream or a bad one?
+
+**Varadaraja:** Go inside. Are there separate good and bad dreams? If food is not digested, sleep is disturbed; that causes dreams.
+
+**Vatsala:** A fine explanation! Yesterday I ate only a wood-apple-sized portion, yet had a terrifying dream.
+
+**Paramasiva:** Did your husband appear in it?
+
+**Varadaraja:** Am I some terrifying apparition? I am playing Arjuna in the Bar Association drama!
+
+**Vatsala:** Would his familiar face frighten me? Garudazhvar came in my dream.
+
+**Paramasiva:** And then?
+
+**Vatsala:** He wept, “Alas!”
+
+**Varadaraja:** Did you wipe his eyes? Foolish woman, here to tell your dream!
+
+**Paramasiva:** Let her speak. You are a great sinner and never treat women properly. Men and women are equal.
+
+**Varadaraja:** Very well, dear lady. Tell the whole dream.
+
+**Vatsala:** I will not. Would you believe me?
+
+**Paramasiva:** Tell us, Vatsu. Ignore him; he too has become a Self-Respecter like Sundaram Chetty.
+
+**Varadaraja:** Does everyone look like a Self-Respecter to you?
+
+**Vatsala:** What was wrong in what he said? You spoke like one yourself: there are no dreams, only disturbance caused by indigestion. Is that not Self-Respect talk?
+
+**Paramasiva:** Splendid, Vatsu! A direct hit!
+
+**Varadaraja:** You alone would praise that foolish remark.
+
+**Vatsala:** Answer without anger: are dreams false?
+
+**Varadaraja:** Beyond doubt.
+
+**Vatsala:** Then Sita's dream about Rama, and Andal seeing Krishna in her dream...?
+
+**Varadaraja:** Stories written for devotion.
+
+**Vatsala:** Stories?
+
+**Paramasiva:** Wretch! Have you too become a Self-Respecter?
+
+**Varadaraja:** Why join her quarrel? If a story says Ravana had ten heads, is it literally true?
+
+**Vatsala:** Is the Ramayana false too?
+
+**Paramasiva:** Everything is false, then: our Puranas, religion and scriptures! Satisfied? Wretch, you too have become a Self-Respecter.
+
+**Varadaraja:** Let me be a sinner; you are the very embodiment of merit. Enough. I do not know how to roam about pretending to build temples and dig tanks.
+
+**Paramasiva:** Do not pour out words without measure. This is an unlucky day for me. You speak of me so disrespectfully. I shall remember it.
+
+**Vatsala:** He spoke hastily; in his heart...
+
+**Paramasiva:** Vatsu, I am leaving. It would be sinful even to look upon his face again.
+
+**Varadaraja:** Go then, you who have discovered the essence of sin and merit.
+
+**Paramasiva:** I am going. I was wrong to remain until you told me to leave. I too possess some self-respect!
+
+(He leaves angrily. The lawyer falls asleep in his chair.)
+
+Parvathi from the neighbouring street comes looking for Vatsala, and they talk in the inner room. Parvathi has been made president of the local Association of Orthodox Women, which opposes Hindu law reform. Their conversation concerns this matter.
+
+**Parvathi:** Vatsu, home and chores are always there. Could you not spare half an hour to visit? Yesterday's meeting was excellent; you missed it.
+
+**Vatsala:** I heard some Yamunabai presided.
+
+**Parvathi:** Do you know who she is? The wife of Nandalal Seth, the jewellery merchant.
+
+**Vatsala:** Say she is a Marwari.
+
+**Parvathi:** Yes, and what of it?
+
+**Vatsala:** Whatever you say, whether Marwari or low-caste woman, I dislike bringing her here, touching her and speaking with her. You have all become Self-Respecters who see no caste.
+
+**Parvathi:** Is “Marwari” the name of an inferior caste? Nothing of the kind. If she joins our party, she gives our resolution influence with the government. That is why we included her. Does that elevate her caste?
+
+**Vatsala:** What resolution did you pass?
+
+**Parvathi:** That the proposed Hindu law reform is incompatible with our religion and custom, and that the Association of Orthodox Women condemns it.
+
+**Vatsala:** I do not like that.
+
+**Parvathi:** Why? Do you say it does not matter if our religion is destroyed?
+
+**Vatsala:** Yes, if the new reform gives women like us freedom to own property, should we ourselves oppose it? Would that not be like an elephant throwing earth upon its own head?
+
+**Parvathi:** Vatsu! You speak like a Self-Respecter.
+
+**Vatsala:** If saying that women should own property as men do is Self-Respect, so be it.
+
+**Parvathi:** What else could it be called?
+
+**Vatsala:** I do not know all those labels. Reforming the law seems right to me. Call it whatever you wish.
+
+**Parvathi:** I suspected from the beginning that you would speak like a Self-Respecter. I was right. I am leaving.
+
+(Parvathi leaves angrily.)
+
+As Parvathi enters her house, her husband, Subramania Gurukkal, who has waited a long time and grown weary, becomes angry.
+
+**Subramania:** Everything has become a kingdom of women. Parashakti, where have you been so late?
+
+**Parvathi:** On work.
+
+**Subramania:** What work?
+
+**Parvathi:** Association business. I went to Vatsala's house. Why rage like Durvasa?
+
+**Subramania:** Forgive me! You are a great leader now, with meeting and club and everything else. A true Self-Respecter!
+
+(He angrily throws down his key ring and goes outside. Nandalal Seth approaches at the street corner and greets Gurukkal.)
+
+**Nandalal:** Ram, Ram! I came to discuss something. Our Yamunabai knows nothing. Your wife Parvathi takes my wife around with her. I became angry, but my wife asks, “When the Iyer lady invites me, why should I not go?”
+
+**Gurukkal:** What is wrong in going? They speak at meetings.
+
+**Nandalal:** Our Yamuna does not speak. Your wife speaks, while my wife spends our household money. Two hundred rupees gone! When I ask why, she says, “The Iyer lady held a meeting and made me leader; I gave the money for that.”
+
+**Gurukkal:** Two hundred rupees? Remarkable.
+
+**Nandalal:** Why should we suffer useless expense? The woman goes out and the money goes too. Both are wrong.
+
+**Gurukkal:** What is wrong in a woman going out? We attend to our affairs and they to theirs. They too have freedom.
+
+**Nandalal:** Ram, Ram! We do not want such freedom. You speak Self-Respect doctrine; we have no liking for Self-Respect.
+
+(Nandalal leaves.)
+
+Paramasiva Iyer, exhausted by his quarrel with the lawyer, is reclining at home when Nandalal arrives. The Seth asks him to settle a debt. Already angry, the Popular Store proprietor finds his request irritating.
+
+**Paramasiva:** Welcome, Seth. I told you I would settle your debt next month. Why prowl like a cat that has littered?
+
+**Nandalal:** Never mind that, Store Iyer. We gave you our household money and come to your house to ask for it. I need it urgently.
+
+**Paramasiva:** For what?
+
+**Nandalal:** To have my money. What else am I saying?
+
+**Paramasiva:** I cannot pay now.
+
+**Nandalal:** What did you say? What did you say?
+
+**Paramasiva:** Do not shout here. There is no money now. Collect it however you can and go.
+
+**Nandalal:** Do not make my stomach burn. Why quarrel instead of returning what you borrowed?
+
+**Paramasiva:** Whose stomach burns? Are you not a Marwari who takes interest upon interest, exploits the poor and bundles up our country's money to carry it away? Does your stomach burn? Do I not know the robbery you conduct here?
+
+**Nandalal:** Sir, you speak too much. I warn you.
+
+**Paramasiva:** What will you do if I speak? We must drive the entire Marwari crowd out of our country before doing anything else. Who does not know how much this country has suffered from them?
+
+**Nandalal:** Whom have we harmed?
+
+**Paramasiva:** Whom? You ruin the whole town. It is not your fault; as Ramasami Naicker says, a law should have kept you from entering this country at all.
+
+**Nandalal:** They will do it. They certainly will. Do not merely listen to Self-Respect talk and repeat it, sir.
+
+(Saying he will return after Iyer's anger subsides, Nandalal leaves. At the street corner he meets Paramasiva Iyer's clerk Chidambaram Pillai and pours out his grief.)
+
+**Nandalal:** Pillai, sugar should be placed in your mouth. You warned me to be careful with that Brahmin, and you were right.
+
+**Chidambaram:** What happened, Seth?
+
+**Nandalal:** When I asked for my money, that Brahmin told me to get lost and go to court.
+
+**Chidambaram:** I warned you at first. You desired the interest; now you suffer.
+
+**Nandalal:** Pillai, I have learned my lesson about Brahmin cunning. The saying that a Brahmin is a deadly destroyer is absolutely right. No caste possesses the arrogance of these Iyers.
+
+**Chidambaram:** Seth, you speak like a Self-Respecter! I have some work; I shall see you later.
+
+(Chidambaram laughs and goes to Paramasiva Iyer's house.)
+
+**Paramasiva:** Why stand like a tree? What time is it? Where have you been so long?
+
+**Chidambaram:** On shop business.
+
+**Paramasiva:** Shop business? Chidambaram, you have become a scoundrel. You speak insolently, without the least respect. How could it be otherwise...?
+
+**Chidambaram:** I did nothing wrong, yet you pour out “scoundrel” and “rogue.”
+
+**Paramasiva:** Oh, your pride is hurt? Why would it not be? You are a Self-Respecter, are you not?
+
+**Chidambaram:** What if I am a Self-Respecter, and what if I am not? See whether I do your work properly and leave it at that.
+
+**Paramasiva:** You donkey!
+
+(He raises his hand to strike. The angry Chidambaram glares.)
+
+**Chidambaram:** Why stop? Try hitting me! You called me a Self-Respecter; yes, I am one. Why stand there? The Marwari is destroying your honour over there, but you display your prowess against me here. Get out!
+
+(Neighbours intervene, calm Chidambaram and send him away.)
+
+*1945*
+
+## Translator's Notes
+
+The title retains the shop's English commercial name, “Popular Store,” as printed in Tamil.
+
+“சுயமரியாதை” and its colloquial derivatives are translated as “Self-Respect” and “Self-Respecter,” referring to the Self-Respect movement. These words were systematically corrupted in the OCR and were restored from context and the scans before translation.
+
+The dialogue deliberately uses socially marked Brahmin Tamil and a stylized Marwari Tamil register. The English preserves differences in tone and viewpoint without imitating pronunciation or treating OCR distortions as dialect.
+
+The “Hindu law reform” discussion concerns proposed property rights for women. The source predates the post-independence Hindu Code legislation and does not identify a specific bill by number.
+
+The play reproduces caste and community slurs as part of its satire of hypocrisy: characters condemn prejudice when inconvenient to themselves and deploy it when withholding money or authority. Their remarks are not normalized into the narrator's voice.

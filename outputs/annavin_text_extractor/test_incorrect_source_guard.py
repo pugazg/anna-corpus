@@ -70,7 +70,7 @@ class IncorrectSourceGuardTest(unittest.TestCase):
         recovered = rows["nadagangal/vazhakku_vapas_1.md"]
         self.assertEqual(recovered["status"], "translated")
         recovered_pending = rows["nadagangal/popular_store_1.md"]
-        self.assertEqual(recovered_pending["status"], "ready")
+        self.assertEqual(recovered_pending["status"], "translated")
 
     def test_batch_dry_run_skips_without_rewriting_recovery_state(self):
         recovery = STATE / "needs_source_recovery.csv"
