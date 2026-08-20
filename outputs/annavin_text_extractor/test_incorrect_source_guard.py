@@ -64,11 +64,13 @@ class IncorrectSourceGuardTest(unittest.TestCase):
         self.assertEqual(row["status"], "needs_source_recovery")
         self.assertEqual(row["direction"], "none")
         self.assertIn("6 blank image section(s)", row["reason"])
-        late_blank = rows["nadagangal/popular_store_1.md"]
+        late_blank = rows["sorpozhivugal/150767.md"]
         self.assertEqual(late_blank["status"], "needs_source_recovery")
         self.assertIn("1 blank image section(s)", late_blank["reason"])
         recovered = rows["nadagangal/vazhakku_vapas_1.md"]
         self.assertEqual(recovered["status"], "translated")
+        recovered_pending = rows["nadagangal/popular_store_1.md"]
+        self.assertEqual(recovered_pending["status"], "ready")
 
     def test_batch_dry_run_skips_without_rewriting_recovery_state(self):
         recovery = STATE / "needs_source_recovery.csv"
