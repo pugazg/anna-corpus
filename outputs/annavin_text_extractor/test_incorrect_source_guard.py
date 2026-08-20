@@ -51,6 +51,23 @@ class IncorrectSourceGuardTest(unittest.TestCase):
         self.assertEqual(row["status"], "needs_source_recovery")
         self.assertEqual(row["direction"], "none")
 
+    def test_queue_holds_ocr_works_with_blank_image_sections(self):
+        subprocess.run(
+            ["python3", str(BASE / "prepare_translation_queue.py"), "--inspect-content"],
+            check=True,
+            capture_output=True,
+            text=True,
+        )
+        with (STATE / "translation_queue.csv").open(encoding="utf-8-sig", newline="") as handle:
+            rows = {row["file"]: row for row in csv.DictReader(handle)}
+        row = rows["nadagangal/vazhakku_vapas_1.md"]
+        self.assertEqual(row["status"], "needs_source_recovery")
+        self.assertEqual(row["direction"], "none")
+        self.assertIn("7 blank image section(s)", row["reason"])
+        late_blank = rows["nadagangal/popular_store_1.md"]
+        self.assertEqual(late_blank["status"], "needs_source_recovery")
+        self.assertIn("1 blank image section(s)", late_blank["reason"])
+
     def test_batch_dry_run_skips_without_rewriting_recovery_state(self):
         recovery = STATE / "needs_source_recovery.csv"
         before = recovery.read_bytes()

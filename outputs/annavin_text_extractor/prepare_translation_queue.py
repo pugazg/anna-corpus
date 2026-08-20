@@ -66,17 +66,45 @@ def meaningful_text(text: str) -> str:
     return "\n".join(kept)
 
 
+def blank_ocr_pages(text: str) -> int:
+    """Count OCR image sections whose page body is absent."""
+    sections = re.split(r"(?m)^#{2,6} Image \d+:[^\n]*\n", text)[1:]
+    blank_count = 0
+    for section in sections:
+        content = [
+            line.strip()
+            for line in section.splitlines()
+            if line.strip() and not line.strip().startswith("- Image:")
+        ]
+        if not content or all(
+            line in {"_No OCR text detected._", "No OCR text detected.", "[No text recognized]"}
+            for line in content
+        ):
+            blank_count += 1
+    return blank_count
+
+
 def classify(source: Path, already_translated: bool) -> tuple[str, str, str, int, int]:
     # Classification only needs enough text to distinguish content from an
     # empty/navigation page; long novels are read fully only during translation.
     with source.open("r", encoding="utf-8", errors="replace") as handle:
-        text = handle.read(8192)
+        is_ocr_source = any(part.startswith("ocr_text") for part in source.parts)
+        text = handle.read() if is_ocr_source else handle.read(8192)
     body = meaningful_text(text)
     tamil_chars = len(re.findall(r"[\u0B80-\u0BFF]", body))
     latin_words = len(re.findall(r"[A-Za-z]{2,}", body))
 
     if already_translated:
         return "translated", "complete", "existing translated output", tamil_chars, latin_words
+    missing_pages = blank_ocr_pages(text)
+    if missing_pages:
+        return (
+            "needs_source_recovery",
+            "none",
+            f"OCR source contains {missing_pages} blank image section(s)",
+            tamil_chars,
+            latin_words,
+        )
     if "_No OCR text detected._" in text and tamil_chars < 40:
         return "needs_source_recovery", "undetermined", "OCR detected no usable text", tamil_chars, latin_words
     if tamil_chars < 40:
