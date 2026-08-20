@@ -6,6 +6,7 @@ from pathlib import Path
 BASE = Path(__file__).resolve().parent
 SOURCE_MAP = BASE / "organized_contents/_merge_state/source_map.csv"
 OUTPUT = BASE / "translated_contents"
+INCORRECT_SOURCES = OUTPUT / "_translation_state/incorrect_sources.csv"
 
 SECTION_TITLES = {
     "english": "English / ஆங்கிலம்",
@@ -31,8 +32,20 @@ def display_title(path: Path) -> str:
     return path.stem.replace("_", " ")
 
 
+def load_incorrect_sources() -> set[str]:
+    if not INCORRECT_SOURCES.exists():
+        return set()
+    with INCORRECT_SOURCES.open(encoding="utf-8-sig", newline="") as handle:
+        return {
+            row["file"]
+            for row in csv.DictReader(handle)
+            if row.get("status") == "incorrect_source"
+        }
+
+
 def main() -> None:
     grouped = defaultdict(list)
+    incorrect_sources = load_incorrect_sources()
     with SOURCE_MAP.open(encoding="utf-8-sig", newline="") as handle:
         for row in csv.DictReader(handle):
             grouped[row["section"]].append(row)
@@ -47,7 +60,10 @@ def main() -> None:
             source = BASE / "organized_contents" / rel
             label = display_title(source)
             target = rel.name
-            mark = "translated" if (folder / target).exists() else "pending"
+            if rel.as_posix() in incorrect_sources:
+                mark = "incorrect source - skipped"
+            else:
+                mark = "translated" if (folder / target).exists() else "pending"
             lines.append(f"- [{label}]({target}) - {mark}")
         (folder / "CONTENTS.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
 

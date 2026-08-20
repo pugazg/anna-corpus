@@ -6,7 +6,7 @@
 |---|---:|---:|---:|---:|
 | english | 1 | 1 | 1 | 0 |
 | kadithangal | 275 | 8 | 8 | 267 |
-| katturaigal | 1388 | 513 | 513 | 875 |
+| katturaigal | 1388 | 514 | 514 | 874 |
 | kavithaigal | 77 | 77 | 77 | 0 |
 | Kurunavalgal | 25 | 0 | 0 | 25 |
 | nadagangal | 62 | 24 | 24 | 38 |
@@ -15,17 +15,17 @@
 | root | 5 | 5 | 5 | 0 |
 | sirukathaigal | 109 | 108 | 108 | 1 |
 | sorpozhivugal | 537 | 174 | 174 | 363 |
-| **All included sections** | **2511** | **936** | **936** | **1575** |
+| **All included sections** | **2511** | **937** | **937** | **1574** |
 
 ## OCR-Origin Translation Progress
 
 | Section | OCR target | Completed | Bilingual with source retained | Pending |
 |---|---:|---:|---:|---:|
-| katturaigal | 552 | 512 | 512 | 40 |
+| katturaigal | 552 | 513 | 513 | 39 |
 | nadagangal | 61 | 24 | 24 | 37 |
 | sirukathaigal | 108 | 108 | 108 | 0 |
 | sorpozhivugal | 241 | 174 | 174 | 67 |
-| **All OCR-origin sections** | **962** | **818** | **818** | **144** |
+| **All OCR-origin sections** | **962** | **819** | **819** | **143** |
 
 ## OCR Source Recovery Status
 
@@ -84,6 +84,7 @@ A blank image section has an explicit no-text marker or no OCR body after its im
 
 ### Manually Verified Recovery Holds
 
+- `katturaigal/ilamayil_muthumai.md`: At least one page is absent between Images 4 and 5: Image 4 ends mid-sentence at 'பண்டிதருக்கோ, இயற்கைக்கு ஏற்றபடி', while Image 5 begins abruptly with 'கோடானுகோடி ஏழைமக்கள்'. The live webpage exposes the same broken 15-image sequence. Recover the intervening discussion of Jayaprakash Narayan before translation
 - `katturaigal/nirubarin_nilai.md`: Printed pages 182-184 are absent after Image 8 (page 181); Image 9 is unrelated page 185 from an article on science, and Image 10 resumes only the final fragment of the reporter article. Recover the three missing pages and remove the misassigned scan before translation
 - `katturaigal/valarppupen.md`: The sixth and final extracted image ends mid-argument after Periyar's claimed five or six years of trust in Maniammai; recover the continuation before producing a complete translation
 - `nadagangal/avanasiyar_1.md`: 4 of 5 scan pages contain no OCR text; only image 1 classroom scene is presently recoverable

@@ -603,7 +603,7 @@ Total source works: 1388
 - [குறிப்புகள் 1](kurippugal_14_12_47.md) - pending
 - [குறிப்புகள் 2](kurippugal_19_10_47.md) - pending
 - [katturaigal/kutrala_neer](kutrala_neer.md) - translated
-- [katturaigal/kutram_sol](kutram_sol.md) - pending
+- [katturaigal/kutram_sol](kutram_sol.md) - translated
 - [katturaigal/kutrathoorar](kutrathoorar.md) - translated
 - [குற்றவாளி - கூண்டில் இல்லை!](kuttravaali_koondlil_illai.md) - pending
 - [குட்டு வெளிப்படுகிறது](kuttu_velippadugirathu.md) - pending
@@ -896,7 +896,7 @@ Total source works: 1388
 - [பழம், வீழ்ந்தது!](pazham_vizhunthathu.md) - pending
 - [பழமும் பலனும்!](pazhamum_palanum.md) - pending
 - [katturaigal/pazhaya_agar](pazhaya_agar.md) - translated
-- [katturaigal/pazhaya_company](pazhaya_company.md) - pending
+- [katturaigal/pazhaya_company](pazhaya_company.md) - incorrect source - skipped
 - [பழைய பாதை!](pazhaya_paathai.md) - pending
 - [katturaigal/penninam](penninam.md) - translated
 - [பேரறிஞர் அண்ணா அவர்கள் விடுத்த அறிக்கை](perarignar_anna_vidutha_arikkai.md) - pending
@@ -1067,8 +1067,8 @@ Total source works: 1388
 - [SIGNIFICANCE OF "SIX MONTHS"](significance_of_six_monts.md) - pending
 - [சிலம்புதந்த ‘திருநாடு’ ‘திருவோடு’ ஏந்துவதா?](silambuthantha.md) - pending
 - [katturaigal/silanthiyum](silanthiyum.md) - translated
-- [katturaigal/singam_sirunari_1](singam_sirunari_1.md) - pending
-- [முகப்பு | எழுத்து | பேச்சு | புகைப்படம் | ஓவியம் | தொடர்பு](singam_sirunari_2.md) - pending
+- [katturaigal/singam_sirunari_1](singam_sirunari_1.md) - incorrect source - skipped
+- [முகப்பு | எழுத்து | பேச்சு | புகைப்படம் | ஓவியம் | தொடர்பு](singam_sirunari_2.md) - incorrect source - skipped
 - [சிங்காரச் சிறை](singara_chirai.md) - pending
 - [சிங்கத்தின் பங்கம்!](singathin_bangam.md) - pending
 - [சின்னான் சினிமா பார்க்கிறான்](sinnan_sinima_paarkiran.md) - pending

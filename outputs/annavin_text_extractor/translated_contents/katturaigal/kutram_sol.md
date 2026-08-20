@@ -1,4 +1,10 @@
-# katturaigal/kutram_sol
+# குற்றம் சொல்கிறார்கள்! / They Find Fault!
+
+**Tamil title:** குற்றம் சொல்கிறார்கள்!  
+**English title:** They Find Fault!  
+**Source file:** `katturaigal/kutram_sol.md`
+
+## Source Tamil (verbatim)
 
 - Source image folder: `/Users/pugazhendhirajendran/Documents/Codex/2026-07-09/https-www-annavinpadaippugal-info/outputs/annavin_text_extractor/ocr_images/katturaigal/kutram_sol`
 - OCR language: `tam`
@@ -668,3 +674,263 @@
 குறை கூறுவோனை, நீ யார்? என்று கேட்கிறாயே - அரசியலா இது?
 
 (திராவிட நாடு - 11.2.51)
+
+## English Translation
+
+Congress is the nation!
+
+The nation is Congress!
+
+* * *
+
+Only when Congress rule is established will the people obtain a life of well-being.
+
+* * *
+
+Congress, which redeemed the country, alone possesses both the ability and the right to govern it.
+
+* * *
+
+Congress is the Ganges! Even if sewer water flows into it, the Congress Ganges will not be polluted. On the contrary, the sewer water itself will become pure.
+
+* * *
+
+Congress alone is a holy church beyond the reach of selfishness, corruption, and struggles for office.
+
+* * *
+
+Congress alone can establish good government in the country and do everything the people need.
+
+* * *
+
+This was how proudly and exuberantly they spoke and sang its praises.
+
+Corruption, struggles for office, jealousy, and hostility might erupt in every other party, they said, but such diseases could never enter Congress, because Congress was a sacred institution. They beat their chests and proclaimed it. They roared that their Congress was an organisation that could not be shaken. That was then!
+
+Today they ask:
+
+Does Congress still exist, or is it dead?
+
+Congress has fallen apart.
+
+Congress is dissolving.
+
+Should Congress be disbanded, or should it be carried on?
+
+Will Congress survive, or will it simply die?
+
+Congress needs an infusion of new blood.
+
+That is how they speak today.
+
+The leaders meet frequently to diagnose the fate of Congress. Each leader prescribes a different "treatment," and a quarrel breaks out among the doctors themselves. Every attempt to cure Congress produces a new complication and a new split. There is no sign of Congress recovering.
+
+Then, a triumphant roar; today, a cry of grief! Then, a proud stride; today, a stagger.
+
+Then, with hearts and faces blooming, they sang: "Hear us, hear us, behold the mighty power of Congress! Bobbili has joined Congress; Pithapuram has entered Congress; Vadapathimangalam has come over; the Dalavai family too has joined; Ilanji has arrived!" Today they resemble a sick man wheezing and coughing, his voice trembling as he broods and yearns over one thing after another.
+
+They now lament that Congress is a sacred institution but that newly arriving self-seekers have ruined that great institution, made it fall apart, and brought it to its final stage.
+
+As long as Congress was engaged in struggle, they say, it was full of discipline and unity. Once the struggle ended, divisions and differences multiplied.
+
+* * *
+
+Congressmen whose sacrifices had once astonished the public have now used those very sacrifices as grounds for demanding posts and privileges, bringing the organisation into disrepute.
+
+* * *
+
+Only a few people can become ministers or enter the legislature in Congress's name. Not every Congressman can obtain office. Congressmen who fail to understand this, and who withdraw, languish, and display hostility because they did not receive a post, have caused the Congress organisation to decay.
+
+* * *
+
+The great leaders have become occupied with the responsibility of administering the country. Congress therefore lacks leaders capable of running the organisation with strength, and the organisation is deteriorating.
+
+The thousands of workers once involved in Congress have seen a handful of Congress leaders installed in office. They have grown weary and disgusted and abandoned service to the country. The "life" Congress once possessed has consequently ebbed away.
+
+* * *
+
+The great leaders who secured office in Congress's name and now run the government have severed their contact both with the public and with Congress workers. Congress has therefore become an organisation hated by its workers and by the general public.
+
+* * *
+
+Circling ministers' mansions and government offices to obtain permits and licences has become the daily occupation of most Congressmen.
+
+* * *
+
+Congressmen generally regard the present government as their "harvest."
+
+* * *
+
+Many within Congress circles speak in this fashion. Anger, indignation, grief, and agitation: all these different emotions sound through their speeches. Some speak openly and furiously. Others struggle to hide the anguish in their hearts and merely expose themselves to humiliation.
+
+Still others withdraw, saying that nothing can be done. A spirited few bind themselves by a vow to remove the stain, but stand bewildered when the binding cord tightens only around their own wrists and achieves nothing else. Some leave Congress and declare that they will serve their towns according to Congress's true principles. Others say they will do the same work while remaining inside Congress.
+
+Thus the number of doctors keeps increasing while the patient's condition steadily worsens.
+
+"If the condition of Congress continues like this, we shall meet the same fate as Chiang in China," Kripalani declared at the meeting of the All India Congress Committee in Ahmedabad.
+
+There, the great leaders blamed and lectured the ordinary leaders. The ordinary leaders did not remain silent; they blamed the great leaders in return. The meeting showed not only that the condition of the family as a whole had gone awry, but also that bitterness and distress had grown between the elders and the younger men.
+
+Now that the matter had become so public, would the townspeople refrain from mockery? The magazine fashioned from that anxiety wrote that "the enemies may make merry."
+
+Apart from the radiance of Jawaharlal Nehru's fame, Congress today seems to possess no other source of light. That is why he appeared at the Ahmedabad meeting as a teacher imparting wisdom to everyone, and spoke with complete bluntness.
+
+* * *
+
+Congressmen have forgotten the ideals of Congress. They occupy themselves with trivial matters and idle chatter.
+
+These were Nehru's forceful accusations. Unconcerned about whom he might anger, and apparently certain that no man there would dare oppose him, Jawaharlal declared: "The Gandhi cap is not what matters. The brain is what matters; those are the people I want."
+
+His disgust with the conduct of Congressmen had reached that degree. Those assembled there appear to have been so frightened by the sharp crack of his whip that they could not answer him.
+
+The great man says that people with brains are needed and that displaying a Gandhi cap is not enough. What can the "little ones" do? Perhaps they grieved at the thought that even the life now available to them existed only through the grace of the great Nehru.
+
+Though he lacked the courage to answer directly, Kripalani delivered an indirect rebuke: "Do not speak too much, Nehru! Chiang of China also treated even his colleagues with such contempt. Remember what happened to that Chinese leader."
+
+When the country gained freedom, the people expected a new social and economic order. British rule did not harm the country merely by carrying wealth overseas through salaries and trade. Its greater evil was the creation of an order in which exploiters and schemers could dominate, an order in which parasites flourished. If the public is to benefit from the new government, this exploitative order, in which men of luxury tear apart and plunder the people's intelligence and labour, must be abolished. That is the meaning of the song, "We shall behold a new world."
+
+Some resent any attempt to change this existing order; others hesitate. One group will not alter the present order that inflicts suffering. Another insists that it must be changed.
+
+Speaking with emotion that day, Kripalani said, "Those intent on preserving the present order exactly as it is have taken shelter beneath the shadow of power."
+
+In other words, he says that those protecting an order of schemers and exploiters now occupy positions of authority. Put plainly, his speech means: "Nehru, you have made room for schemers and exploiters!"
+
+He did not stop there. "If we leave the present order untouched," he said, "we shall suffer the same fate that befell Kerensky in Russia and Chiang in China."
+
+Until now, only opposition parties angered by the course of Congress and the conduct of its leaders had issued warnings of this kind. At Ahmedabad, Acharya Kripalani himself sounded the alarm in Nehru's presence!
+
+Everyone insisted that Congress must be purified. No one explained how. What could the poor men say? Who was to blame whom?
+
+Congress has become like an aged lady longing for her vanished beauty. Nehru insisted that it must regain its former lustre and strength. He did not say how. Nor did they investigate why the old lustre and strength had disappeared. It was not because they did not know, but because they feared how much such an inquiry would expose.
+
+Nehru suggested that new blood must be infused into Congress if it was to revive. Yet they refused to consider what had corrupted the old blood.
+
+Nehru said that young people must be induced to join Congress. No one considered what programme could attract the young or earn their confidence.
+
+One member offered a proposal that, though not substantial, possessed a certain attraction. It is not enough, he said, for us to call ourselves friends of the poor; we must demonstrate it in practice. On obtaining office, we drowned ourselves in pomp. We must abandon it and lead simple lives. President Babu Rajendra and Prime Minister Jawahar should therefore leave the palaces they now occupy, live in huts, and govern from there. Only then, he said, would affection and attachment arise, endure, and grow among ordinary people.
+
+So many proposals, and none unanimous: one proposal after another. On only one matter did a common view exist there: Congress had deteriorated and was continuing to deteriorate. The people were dissatisfied with Congress rule; the great leaders were dissatisfied with the Congress organisation; the ordinary leaders were dissatisfied with the great leaders; Congress workers were dissatisfied with their leaders. Those whose discontent can be cured through propaganda are a different matter!
+
+Congress is in the condition described by the proverb: split open a fig, and every bit of it is rotten.
+
+Yet, it seems, we must not point out any fault. If we do, they will cut out our tongues!
+
+Many people find fault. Their reasons are many, their purposes are many, and the matters they cite are numerous.
+
+Whatever a critic's purpose may be, the finest response, and the one adopted by honourable people, is to demonstrate that what he identifies as defective is not in fact defective and thereby make him bow his head in shame.
+
+Good character alone is insufficient. One must possess the knowledge and ability to explain every detail of the matter being criticised. More important still, the critic must actually be speaking deceitfully: concealing what exists, alleging what does not exist, or distorting what is there. Only then can people of character and ability make the critic bow his head in shame by placing the truth before the public.
+
+Take an example. Suppose the rulers were supplying sixteen ounces, while a habitual critic declared that the wretched government gave only ten. The people themselves would not listen to such an enormous lie. Even if some did listen for whatever reason, a decent man would need only say, "Come to the ration shop, man, and see whether it is ten or sixteen." The critic could no longer show his face before the public.
+
+Suppose someone alleged that more than half the tax collected from the people was spent on the military. If the real position allowed an honourable man to produce the government budget and say, "No, look here, we spend less than one-tenth on the military," he could make the critic hang his head in shame.
+
+Even a gifted painter needs a brush and pots of colour to paint a picture. Likewise, however much character and ability people possess, the actual circumstances must support them. Otherwise those qualities are of no use.
+
+Today the matters cited by critics are true. Consequently, even people of character and ability cannot give them a dignified answer.
+
+Recognising this, upright men fall silent and tacticians offer a piece of advice and move on. But is everyone like them? Some fly into a rage. When a man tries to husk a coconut with a blunt knife, loses patience, and throws the knife down, he behaves as though the knife bore him a grudge and refused to perform the task. In the same way, when no "evidence" exists to prove that the identified defect is not a defect, anger arises. They abandon the subject that was raised and leap upon the person who raised it, mistakenly imagining that the people too will forget the issue and become absorbed in concern about the individual.
+
+The people's concern is entirely with the matter under discussion. What they eagerly await is the honourable man's refutation of the critic's claim.
+
+If critics occupy themselves with personal attacks, responding with accusations against them may help silence them to some extent. But what is being discussed here is the country's condition and its problems. What is the answer? Where is it? Why is there none? This wave rises ceaselessly in the people's hearts. Hiding the issue and attacking the person is futile. The people will not enjoy it for long.
+
+There is another method for those conscious of their duty to act. Without worrying about the critics, and without wasting time rebutting or evading them, they can devote their full attention to removing the defects that have been identified. This method is better than slapping critics across the face, twisting their ears, and knocking them on the head.
+
+"Only nine ounces of food! Shrunken bellies are the fruit of your rule!" If that is the criticism, raise the ration to twelve ounces. Those three ounces will make the critic sit quietly in a corner.
+
+This requires the capacity to act, the right to think independently, and the intelligence expressed in the maxim: consider before undertaking a deed, but once undertaken, do not pause to reconsider. One must also possess the complete right to carry through what one has decided without obstruction.
+
+* * *
+
+"Do not destroy the arrangements of antiquity. Do not pass laws that topple tradition. Do not make laws and schemes that shock the people's religious sentiments. Death and destruction will occur, Congress will earn a bad name, and the people will not support Congress in the next election. I warned you, I warned you!" Thus speaks Tiruvannamalai Annamalaiyar in the legislature. Whenever the Congress government attempts ordinary reforms such as granting women equal rights or bringing the financial activities of religious institutions under government supervision, Annamalaiyar and many like him do not merely criticise or condemn the course. They issue warnings and curses. "Is this the rule of men in khadi?" they demand in fury, abusing it without the slightest mercy or restraint.
+
+These men are not placed on the list of "critics." Even if they are included, they are not condemned as we are, although their tongues revile Congress without restraint.
+
+Whenever Congress or the Congress government does something they dislike, Vikatan and Kalki draw cartoons in ridicule and attack it through editorials. Yet they are not put on the list of critics, and not a single scorching word is flung at them.
+
+In accordance with the proverb that the man who labours for the whole town becomes the mendicant at the Pillaiyar temple, anger boils over only when we identify and state a fault.
+
+Kripalani tours town after town wielding his whip: Congress has deteriorated; Congress rule has ruined the country. They receive his lashes and refuse even to open their mouths to cry. But when we speak, rage rises in waves. Why? Our words enter the people's minds more deeply and firmly than their denunciations of Congress. Those men can be won over whenever required. We cannot be reconciled with coaxing words; only repression could attempt to eradicate us. Therefore, whenever we speak about the condition of Congress and the disorder of Congress rule, they come charging with teeth clenched!
+
+What further evidence do the people require to understand the condition of Congress beyond the lament its own members raised at Ahmedabad? When they sit down to eat, is not the stench that churns the lower belly enough to reveal the quality of these rulers?
+
+The thousand and eight ordeals that people endure every day amply demonstrate the quality of the government. What stronger condemnation of this rule is needed than deaths from starvation?
+
+"Shoot! Am I living now? What can death do to me? Shoot!" An elderly weaver said this to the police in Salem only a few days ago. What more is needed to reveal the state of the people's minds?
+
+Criticism produces anger. A petty desire arises to suppress critics with verbal blows and stones. A campaign capable of producing a new renaissance in the Tamil language and public life is therefore being conducted!
+
+A Mannarsami, it is said, learned that the fragrant jasmine garden belonged to his rival. To soothe his resentment, he found a heap of filth and flung it by the armful into the garden, thinking it would ruin the fragrance. Instead, what he threw became manure. In the same fashion they pour down showers of abuse.
+
+The ranks of the critics have grown and grown, until Kripalani can sit opposite Nehru and warn, "Chiang's fate will be ours!"
+
+* * *
+
+Pointing out an existing defect may distress the weak-minded. Strong people, however, attempt to remove the defects described; they do not chase the person who mentions them. Pursuit would achieve nothing. After Ahmedabad, after Nasik! At Nasik itself, Tandon, who went there to preside, said that the issue was now whether Congress would live or die. At Ahmedabad they assembled to give the Congress patient its final injection. They found neither an injection nor a medicine whose nature they understood! In such a condition, is it sensible to boast that no other work will be done until the critics have been thrown face down?
+
+The defects grow, grow, and keep growing! What benefit can come from raging at those who describe them while ignoring that "mountain" and refusing to remove the defects?
+
+If profit falls by even a drop, the capitalist condemns the Congress government. They immediately try to discover how to delight him. They do not rage at him. Later he celebrates "Gandhi Jayanti," and a minister joins him to perform the noble service of stressing the necessity of cooperation between capital and labour.
+
+The orthodox believer abuses the Congress government for touching religion. They show him "parental affection." They do not say, "You obsolete relic! Your time is over." They do not condemn him.
+
+They court Sir C. P., who was imperialism's cherished child for as long as imperial rule endured, even when he speaks critically.
+
+Why does criticism from anyone else fail to provoke the anger that appears only when we criticise? Because our condemnation makes their position unsteady. Terror! That is why they have adopted the new course of "let us go about slandering them."
+
+On one side they strike through the law!
+
+What will any of this achieve? Defects continue to multiply. The people experience daily the suffering inflicted by this government. How will they suppress that inner anguish? By vilifying us? Vilifying us will end like the tale of the creature that meddled with the wedge and trapped itself.
+
+"Who are these people to criticise?" has become a stale and wearisome refrain.
+
+These men all served the white ruler. Are they to criticise us? What right have they?
+
+Were not all these men followers of Bobbili and Pithapuram? Are they to find fault with us?
+
+That is how they speak. Do they speak? They abuse!
+
+They say that self-interest is our nature, and that this is why we supported white imperialism and sang praises to the moneybags.
+
+If self-interest were truly our aim, we would praise and fan these men who have now become rulers and make a living from it. We might obtain a ration shop, a bus permit, a panchayat membership, a yarn quota, or something of the sort. We would surely have proclaimed Congress and passed our days that way. Instead, we oppose a Congress that lives with its flag flying high. We oppose it although we know its friendship brings profit and enmity with it brings blows from the baton. Would we expose ourselves to hardship in this fashion if profit were our purpose? Could we not have sung the devotional refrain, "We shall extol and worship you," and secured its rewards? Have not many others done precisely that?
+
+They taunt us as slaves of Bobbili and Pithapuram. Yet Congress, which admitted those very Bobbilis, would hardly refuse us if we sought admission. It has admitted all the Mannarsamis! Nehru's demand, "The cap is not enough, sir! Tell me whether there is a brain inside!" means, does it not, that so many empty heads have joined Congress? Why, then, did we not join? If profit were our objective and servility our nature, would we not have joined Congress, that hunting ground for profit? Those who repeat the stale refrain do not consider this. Nor do they realise that the people will consider it.
+
+Whoever we may be, we possess the right to live in this country, and each of us contributes some measure of tax to the money spent on its administration. In a democracy, everyone who pays taxes to sustain a government has the right to say how it should function and the right to correct and change it. These worthy gentlemen do not bestow that right as a gift. Democracy grants it. Our tax money too is supplied to administer the country. We therefore possess the undeniable right to say how it must be governed.
+
+Do we declare that, because we were servants of white imperialism, we shall use only coins bearing Queen Victoria's head? Could we make such a declaration? We pay taxes to the government that now exists. We therefore have the right to explain how that government should function, where its defects lie, and where its merits lie.
+
+The singers of the stale refrain do not recognise this. "Who are these people to criticise us?" they ask. Who are they? They are the people of this country. They pay the taxes with which this country's government functions. They therefore possess the right to criticise it.
+
+Do you not collect taxes from us? We pour them into your hands; that is why we express our view about the conduct of this government. Do you remember that we supported imperialism only when we criticise you? When we pay our taxes, do you never remember from whom you receive them? Exempt us without collecting tax, and we shall remain silent about how the government is run and about its merits and faults. Is that possible?
+
+Forgetting even this alphabet of politics, they speak like schoolchildren in a ball field: "He is the boy who called me out; will I give you the slate?" They say, "These are imperialist servants; are they to criticise us?"
+
+If you wish, grieve instead that Congress rule is so ugly that even former servants of imperialism condemn it! You ask the critic, "Who are you?" Is this politics?
+
+(Dravida Nadu, 11 February 1951)
+
+## Translator's Notes
+
+The source's opening comparison of Congress to the Ganges is ironic: it repeats claims of institutional purity that the remainder of the article dismantles.
+
+Bobbili, Pithapuram, Vadapathimangalam, the Dalavai family, and Ilanji refer to landed or elite political figures and houses whose entry into Congress had formerly been celebrated. Their names are retained rather than generalized.
+
+"Chiang" refers to Chiang Kai-shek. Kripalani's paired comparisons invoke Chiang's defeat in China and Alexander Kerensky's displacement in Russia as warnings to Nehru and Congress.
+
+The Gandhi-cap quotation is translated by sense. The printed Tamil uses the colloquial plural form `அப்படிப்பட்டவாள்`.
+
+The ration examples use the historical ounce measure. The argument contrasts hypothetical sixteen- and ten-ounce claims, then the real criticism of a nine-ounce ration with a proposed increase to twelve.
+
+`அத்திப் பழத்தைப் புட்டால் அத்தணையும் சொத்தை` means that splitting open a fig reveals rot throughout; it describes decay at every level of Congress.
+
+`ஊருக்கிளைத்தவன் பிள்ளையார் கோயில் ஆண்டி` is a proverb about one who labours for the town but is left as a temple mendicant; the translation preserves its point in context.
+
+`பத்தாம் பசலி` is a dismissive expression for an obsolete or hopelessly old-fashioned person, not a literal agricultural reference here.
+
+`ஆப்பை அசைக்கும் கதை` alludes to the familiar wedge-pulling fable in which reckless meddling traps and injures the meddler. The implied agent is not named in the printed sentence and has not been supplied in the translation.
+
+`பாடாவதிப் பல்லவி` denotes a tiresome, stale refrain repeated without thought.
+
+The Tamil source was reconciled against the complete 17-image scan sequence. Corrections were limited to visually supported OCR errors, broken joins, and scan debris; historically printed diction and spellings were retained.

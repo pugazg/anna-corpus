@@ -31,6 +31,19 @@ class IncorrectSourceGuardTest(unittest.TestCase):
         self.assertEqual(rows["katturaigal/pazhaya_company.md"]["status"], "incorrect_source")
         self.assertEqual(rows["katturaigal/pazhaya_company.md"]["direction"], "none")
 
+    def test_contents_marks_pazhaya_company_incorrect(self):
+        subprocess.run(
+            ["python3", str(BASE / "generate_section_contents.py")],
+            check=True,
+            capture_output=True,
+            text=True,
+        )
+        contents = (BASE / "translated_contents/katturaigal/CONTENTS.md").read_text(
+            encoding="utf-8"
+        )
+        line = next(line for line in contents.splitlines() if "pazhaya_company.md" in line)
+        self.assertIn("incorrect source - skipped", line)
+
     def test_permanent_incorrect_sources_are_not_recovery_candidates(self):
         with (STATE / "incorrect_sources.csv").open(encoding="utf-8-sig", newline="") as handle:
             incorrect = {row["file"] for row in csv.DictReader(handle)}
