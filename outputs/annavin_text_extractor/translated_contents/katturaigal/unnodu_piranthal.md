@@ -1,4 +1,10 @@
-# katturaigal/unnodu_piranthal
+# உன்னோடு பிறந்ததனால்! / Because I Was Born Alongside You!
+
+**Tamil title:** உன்னோடு பிறந்ததனால்!  
+**English title:** Because I Was Born Alongside You!  
+**Source file:** `katturaigal/unnodu_piranthal.md`
+
+## Source Tamil (verbatim)
 
 - Source image folder: `/Users/pugazhendhirajendran/Documents/Codex/2026-07-09/https-www-annavinpadaippugal-info/outputs/annavin_text_extractor/ocr_images/katturaigal/unnodu_piranthal`
 - OCR language: `tam`
@@ -738,3 +744,177 @@ _ மக்களின் நல்வாழ்வும், நிர்வா
 அண்ணாதுரை
 
 (7-2-65 - காஞ்சி)
+
+## English Translation
+
+Son of Tamil! Son of Tamil! You who arose from a people who lived with their heads held high; you who belong to a tradition that lived to the admiration of the world! Why, O victorious one, were you born upon this soil in these times? Could you not have been born somewhere else: amid icy rocks, in a country made mostly of desert, or in a place without historical distinction? You came and were born here only to suffer under degradation, accept misery and writhe in pain, and be tormented by the treachery of hard-hearted men engaged in acts that rob you of self-respect, the sweetest of all possessions. Why were you born here?
+
+Is it not because you were born in delightful Tamil Nadu that consciousness of language, thirst for rights, and zeal for self-respect sprouted and grew within you, giving you thoughts rich in colour and character? Is it not because you were born among the Tamil people who once lived in incomparable harmony that emotion surges through you? You studied epics telling how your forebears marched to the battlefield singing war songs, breaking barriers and crushing enemies, and returned victorious. You learned a language so rich in skill that scholars acknowledge it to be peerless. You learned the literature fashioned in that language by the wise and absorbed the noble ideas it gives.
+
+Because you received these things, a firmness arose in your gait, a light in your gaze, and an awakening in your speech. Is it not for this reason that you can proclaim: “I will lose anything, but I will not surrender my rights. I will welcome anyone, support them, and befriend them. I will stand by the principle that every place is my town and everyone my kin. But I will submit to no one and become no one’s slave”?
+
+Because you attained this state, a frenzied horde has set out to subdue, repress, destroy, and annihilate you; to roar and pounce; to beat and crush you; to heap blame upon you and dig pits beneath you; to block your path and divert your gaze; to break your arms and spill your blood; to slash and stab and attack with spears. Such things torment the body. Alas, people who fire arrows of words that torment your consciousness, speak degrading language, fabricate charges, and conceal what exists have also surrounded you.
+
+You stand like a spotted deer trapped among wide-mouthed wolves. Son of Tamil! All this has come because you developed one aspiration: “I am a son of Tamil; Tamil is my language; I will not permit that language to be debased.” See what suffering this passion brings you, into how many rings of opposition it throws you to struggle! The ignorant, those naturally able to prosper by sacrificing everything, those who ruin what is near them, and those who show evil paths sharpen their respective weapons and drive them into your body and heart.
+
+They pierce your broad chest and remain embedded there; blood flows. Descendant of those who lived to the admiration of the world! You refuse to lose your courage, while worthless men try to disgrace that courage even by cutting you down. As a python coils around a body and tightens until life is extinguished, every instrument possessed by the state is directed against you to destroy your consciousness. What will you do, my sovereign? War drum of the Tamil people who refuse to fall! Why has this condition befallen you?
+
+You raise the cry, “My language!” You say that your language is sweet, ancient, gentle, and refined. For that reason, insults are thrown at you. Your pictures are displayed, along with accounts of the savage methods used by those who came to torment you. When people read of these things, not only their hearts but even the hearts of those accustomed to saying, “What does it matter to us whatever happens?” melted like wax in a fire. We wrung our hands and wiped our eyes. What could we do?
+
+They went in column after column; they were taken away and dragged away: those who dared stand firm with love for their mother tongue. Across Tamil Nadu, this hunt began at midnight on the twenty-fifth and continued for three or four days. People everywhere were thrown into prison.
+
+Navalar? In prison!
+
+Mathi? In prison!
+
+Karunanidhi? In prison!
+
+Anbazhagan? In prison!
+
+Sezhiyan? Prison for him too!
+
+C. P. Chitrarasu, ill and emaciated? In prison!
+
+Manoharan? Prison for him too!
+
+Why continue asking question after question? Everyone who dared resist Hindi domination out of devotion to language and thirst for rights, including the jewels among students, was in prison. If thousands suffered because of this condition, the measure and varieties of anguish endured by those outside cannot be expressed in words.
+
+On 26 January, Hindi was to become the official language. Understanding that they had chosen Republic Day to enthrone a Hindi that would ruin our people, you languished with a grieving heart while merely carrying life within you. Would the learned people of the world not ask, today and in the future: “Did you utter even one word of opposition? Did you express one small protest? Did you show your inner anguish and your suffering to your own people and to the world?”
+
+With that thought, we resolved to express our protest and grief by flying black flags and wearing black emblems. We announced this decision properly. What did the Government do? Did it offer kind counsel? Did it seek to summon us for discussion? No! No! It set loose hired hands and thugs who ranted that they would beat and smash us, tear down and burn our flags, create riots and disperse us, attack and chase us, and cast us into the flames.
+
+The ministers charged with safeguarding peace, order, tranquillity, rights, property, and life from harm listened again and again to these violent speeches with delight overflowing across their faces. This verbal drumbeat, sustained for more than ten days, was music to the ministers. The men crowed and brandished clubs. They sang, “A flag when it flies; at other times, a stick.” They boasted that whatever they did to those displaying grief, not even a fly or an ant would swarm against them.
+
+“We have obtained a guarantee of that. Even the police will not interfere. Therefore this day belongs to us!” they shouted, leapt, raged, and ranted. Things that had lain bent rose upright with the help of this atmosphere; things that had withered sprang up singing. Courage overflowed because, it was said, they had been assured that the police would not arrest them. Was that not enough? A distinctive cry filled every street. Knives and daggers were in their hands, even firebrands. “Seize! Strike! Kick! Climb! Pull! Cut! Give! Burn!” These were the operational commands of the force.
+
+On Republic Day, even a jungle realm could not have witnessed violence like that which occurred. They endured it. They were attacked and scarred. “Motherland! Mother tongue! Are these sufferings for you? For your sake I shall accept not only these but still more cruelties. Those who do not know your worth and those who have been incited commit all manner of acts. Let them do so and depart. They do not understand the evil and injustice in what they do. One day they themselves will realize it; their hearts will burn; truth will shine; today’s enemies will become tomorrow’s friends.” Thinking thus, our people endured.
+
+But two young men in Madras and one elsewhere, three in all, declared: “We will no longer remain bearing this degraded condition. We will no longer walk upon this soil into which Hindi domination has been forced,” and ended their own lives. Yes, unjust deaths; acts of self-immolation that split the hearts of all who heard of them.
+
+Not only people here, but Lal Bahadur in the distance, Americans much farther away, and others too heard the news, grieved, and felt their hearts convulse. Our ministers? Would they, who are no ordinary men, weep? They conduct an inquiry! Why? How? You might say compassion would arise in anyone. Yes, compassion arises in anyone who possesses a heart. But our ministers have sold their hearts for a fine price. Why would they weep?
+
+They did not weep. Instead, they mocked. Men gave their precious lives to protect Tamil and end Hindi domination, and that became an object of ridicule to the honourable ministers. The people’s hearts writhed and melted. Thousands saw and trembled. Mothers saw, and their eyes became pools. The ministers drove away the emotions called compassion and tenderness and stood erect. The country sobbed at the sight of those who entered the flames and would have felt ashamed at ministers who stood without compassion, reflecting: “Did we not enable these people to become ministers?”
+
+Whether they possess enough sound knowledge to enrich the country, subtle intelligence to sustain the people, or new understanding to expand industry need not concern us greatly. But we cannot find even a feeling of compassion in them. What a wonder! What a calamity! Are there truly such beings? People would have grieved, and in the next moment thought: “Did we make such people our rulers? Were we the ones who committed that mistake?”
+
+They would have felt ashamed at that thought, with pain and shame stabbing their sides.
+
+The Kazhagam members repeatedly explained that their mourning was intended not to disrupt Republic Day celebrations but solely to oppose Hindi domination. Even after explanations were offered in many forms, the Chief Minister of the state raged, hurled harsh words, and showed that he had acquired the courage to conduct a lawless rule.
+
+He “proclaimed” in public meetings and in the legislature: “We will not permit black flags to fly. We will not permit meetings of protest.”
+
+In his capacity as Leader of the Opposition in the legislature, Karunanidhi asked whether black flags and protest meetings were to be banned.
+
+“We will impose no ban. What will happen will become known on that day,” the Chief Minister replied with swagger. He also announced the lofty and cultured principle: “The police will provide no protection to those who conduct protest meetings.”
+
+What meaning can this have? It was incense offered to the idea that attacks and riots could be carried out and anything done without police intervention.
+
+I asked whether the method adopted by the Chief Minister was righteous politics. I now learn that he intends to answer, at the proper time and place, the many questions I raised.
+
+Amid so much suffering and provocation, Kazhagam comrades performed their duty. When their efforts were disrupted and black flags flying at their homes were torn down, they restrained the anger and indignation that would naturally arise. This gave some men the courage to make a commotion and engage in violence; they may have rejoiced while our comrades’ hearts writhed. That was merely the emotion of the moment, a petty joy.
+
+By enduring it, Kazhagam members earned the lasting reputation of possessing inner strength: the capacity not to lose heart, and the responsibility and patience not to enter into retaliation amid provocative opposition. Iron acquires greater useful strength only after it is heated red-hot in fire and struck repeatedly with a hammer until fashioned into many tools. It is neither degrading nor regrettable that the Kazhagam should develop its capacity to endure. This good quality prepares it for the future and increases its usefulness.
+
+Until today, opponents have not succeeded in their effort to provoke us with degrading language and divert us from our virtuous path. The more we endured their abuse, the more the people came forward to show us sympathy and offer support. One wonders why our opponents adopt a savage method that produces no enduring benefit and yields only a moment’s frenzied pleasure. It is because they lack clarity of thought, cannot understand the signs of the age, and cannot calculate the outcome.
+
+Their opposition has not obstructed our growth. As Navalar has said, their degrading methods serve as manure for the flourishing growth of Kazhagam work. We know that even the producers of this manure are changed frequently. When the old stock finds no buyers, people are prepared to manufacture fresh stock while it is still “hot.” This provokes laughter, not anger.
+
+I therefore offer consolation and gratitude to the Kazhagam comrades, supporters, and members of the public who were attacked and troubled by the shameful harm ignited by the Chief Minister’s swaggering speech. Anyone who studies the situation properly will understand that the fire of hatred he kindled did not burn Kazhagam members to ashes. Instead, it ignited a great fire in the hearts of the public, particularly intellectuals. This is a tremendous victory.
+
+Until 25 January, opposition to Hindi was described as a problem of the DMK. From that day onward, it became a public problem. We knew that this stage had inevitably to arrive, and its arrival gives us new hope and joy.
+
+People used to say that only a few uninformed persons, enemies of Congress, opponents of independence, reactionaries, and disappointed politicians opposed Hindi because they could find no other cause. Those who set out to chase and beat Kazhagam members and students have themselves shattered that claim. Men without the wisdom to perceive consequences imagined the blow had fallen upon us. It fell instead upon the prevailing indifference towards opposition to Hindi, and shattered that indifference into pieces.
+
+The anti-Hindi ranks have expanded in a manner worthy of wonder and praise and now march with a new awakening. Grieving that blood had to be shed and cruelty endured, I cried in anguish: “Son of Tamil, why were you born here?” Wrong! Wrong! A very great wrong! The blood that was shed was not wasted. The bullets and baton blows were not endured in vain.
+
+Petty-minded men planned to scatter the anti-Hindi ranks, but new and spirited formations arose from everywhere. We have read the story of a bear that tried to break a beehive to suck its honey, only for swarms of bees to fly out and sting it until it writhed. Today the Chief Minister adopted the guise of a man with a bristling moustache, rolling eyes, and threatening speech. What did he see? He saw all Tamil Nadu rise in battle array.
+
+He set out to attack Kazhagam members. What happened? People asked: “Why, Chief Minister, do you pounce upon the Kazhagam? Its members are not the only opponents of Hindi. They oppose it not merely for themselves but on behalf of the country. Are they alone in opposition? We oppose it too! We too! Do you brandish armour, whirl a sword, and beat a verbal war drum to crush the anti-Hindi movement? Destroying the Kazhagam will not suffice. We are here; we exist throughout the country. Hindi can gain its throne only after all of us have been shot down.”
+
+We had waited a long time to witness this condition. At times anxiety had gnawed at our minds that even hope might perish. Yet we came forward to resist the cruelty of making Hindi sovereign on Republic Day. One day earlier, the Chief Minister spoke with “magnanimity,” saying mourning should not be observed on the twenty-sixth alone but might be held on the twenty-fifth or twenty-seventh. Students therefore decided to mourn on the twenty-fifth, wearing black emblems, carrying black flags, and holding protest meetings.
+
+How many cruelties followed! Baton charges and gunfire in so many places; one student shot dead; many seriously wounded; terror. The result of enduring all this is that opposition to Hindi has become a cry heard everywhere.
+
+The Indian Express asks: “Even if the DMK, which strongly resists the imposition of Hindi, is set aside, how can the many thousands who display the same opposition be ignored?” This is not merely a newspaper’s question; it is the question raised by the country.
+
+The Chief Minister possesses the power to abuse the Kazhagam, try to suppress it, and cast stains upon it. But the entire country is resisting. Will he suppress all its people? Will he destroy everyone with degrading language? He must have read the tale of the king who raised his hand towards the sea and ordered it to halt. Old stories return to his memory now; surely the story of King Canute will also command his attention.
+
+Black flags, symbols of resistance, were cut down and burned even when flown at private homes. We endured as much as we could. But can the feeling of opposition be destroyed merely by removing or destroying its symbols? People of clear understanding say that destroying symbols cannot destroy feeling. History shows that the feeling not only survives but grows tenfold. Does the Chief Minister not know this? Has he forgotten?
+
+A gale is the enemy of a small oil lamp, but the ally of a great fire. Those who desire darkness can extinguish a household lamp, but can they rub out a forest fire with their hands? The Kazhagam can be harassed. There are Sections 151, 144, and 147, the Defence Act, and many other measures. There are police and tear-gas shells, said to lie scattered in college hostels. There are bullets. A heroic student bared his chest, died, and earned undying fame. But will the Chief Minister oppose the entire country? He cannot!
+
+Setting out to crush our strength, what does the Chief Minister find? He finds a country possessed of strength that cannot be suppressed and transformed into a camp of opposition to Hindi.
+
+At least at this moment, the Chief Minister ought to have remembered Pattinathar’s verse: “One’s own deed burns oneself; the rice-cake burns the house.”
+
+What events occurred in so many places across the country, events that bring tears merely upon being heard! Was not the spear of repression hurled at students with such force that even its sharp point should have grown blunt?
+
+The Chief Minister tried to blame the students and tarnish the purity of their actions. He achieved victory, yes, a great victory: those who wave white yak-tail fans and receive silver coins praised his “heroic valour.” But what of the country? The Indian Express wrote as though depicting the heart of the people:
+
+“At the outset, the student demonstrations were peaceful. Everything would have remained peaceful if a few mischief-makers had not intervened and provoked anger. These cruelties would not have flared up if hooligans standing with knives and clubs before the district Congress office in Madurai had not attacked the student procession.”
+
+With the exception of journals that earn money by reading out congratulatory addresses to the rulers, every journal that has established and followed a discipline of refusing to support futile opposition, disorder, or emotional frenzy has strongly condemned both the Congress Government’s action against the Kazhagam’s day of mourning and the police repression unleashed to crush the student uprising. They have not stopped with arguing clearly that the agitation was just. They have warned that it will continue, that repression cannot destroy it, and that amending the Constitution is the proper, the sole, and the righteous way to resolve the question of opposition to Hindi.
+
+No previous issue in the country has received such unanimous opinion. This issue alone has gathered support that crosses party barriers. It has become clear that opposition to Hindi is a public question capable of affecting the country’s future, the people’s welfare, the character of administration, and the nature of education.
+
+At first, love of language moved some; a thirst for rights moved others; responsible concern that administration must not deteriorate moved some; fear that intellectual vision might be lost moved still others. Thus notable groups formed around concern for each aspect of the problem. From one side came the cry that Tamil would perish, Tamils would be ruined, and self-respect destroyed. From another came the warning that administration, stability, and thought would deteriorate. From yet another came the fear that unity would be damaged and partiality increase. In this way, many different emotions arose.
+
+Ministers hoped these feelings would collide and destroy one another, and tried to make them clash. Entirely contrary to their expectation, all these emotions, formerly considered mutually opposed, have today joined and intertwined into one great uprising.
+
+This new formation is not something even the greatest autocrat can ignore. It will not stand with folded hands and closed mouth in servitude to the rulers; it has attained the stature to issue commands. It is the opposition front created by the people, not a political-party front formed through jealousy. It is a great march, a battle formation, assembled by people thinking of the future.
+
+The way for this battle formation was opened because tears burst from your eyes, blood from your body, and pain from your heart. Therefore, son of Tamil, I asked why you were born in a Tamil Nadu that unleashes cruelties and makes you flounder. That was wrong, a very great wrong. Because you were born in Tamil Nadu in these times and accepted so many sufferings, opposition to Hindi has acquired a mighty form before which every ruler must bow.
+
+A piece of coal pressed underground for ages, they say, one day becomes a diamond. Today the diamond shines!
+
+Son of Tamil! You accepted suffering and heard people ask who would even look up and notice you. Today, not merely those who love Tamil but everyone concerned with the common welfare, everyone devoted to democratic culture, and countless warriors in the field of education stand arrayed together.
+
+Ministers talk among themselves and speak about one another: what would happen if this man were present; what would happen if that man’s speech were heard; such is their talk.
+
+Lal Bahadur was shocked by the news of the self-immolations. A situation arose in which the Hindi question was discussed in American newspapers and at the United Nations. More than all this, Dinamani has stated what may happen if the Government fails to read the signs of the times, abandon its obstinacy, and act appropriately on the Hindi question:
+
+“A condition will arise in which it is not the DMK that demands separation; the Hindi proponents themselves will be demanding it. We are not prepared to put the matter more plainly, more explicitly, or more starkly than this.”
+
+People speak of killing two mangoes with one stone; that is playful childhood talk. Have you considered what has happened today? One stone was thrown at you, but it left a scar not upon your body alone: it marked the hearts of all the people of the town. A petty insult was hurled at you; today there is scarcely a word that has not been used to condemn the conduct of these rulers.
+
+Son of Tamil! It was right that you were born here. Only you could accept this burden. The result has been goodwill in the hearts of the country’s people.
+
+They attacked you, yes. They burned the flag, true. But have you seen the ranks now assembled to show sympathy for you? When we see this, does not joy overflow at the thought that we paid only a small price for it?
+
+The world of newspapers, the student world, circles of advocates, and circles of doctors: from how many places have sympathy, goodwill, firmness, and awakening arisen!
+
+“Opposition to Hindi? Fie! Spit! It has gone flat!” Did the Chief Minister not speak thus? Even we worried that such complacent arrogance filled the minds of the rulers. But have you seen the new and mighty form now assumed by the anti-Hindi movement they said had gone flat?
+
+The people are not deaf. Their eyes are not swollen shut; only some in power are so afflicted. Our appeal has entered the people’s ears. They have seen our work and taken us into their hearts. The people possess hearts. Seeing the suffering we undertake for their welfare, sympathy and compassion have indeed arisen within them.
+
+Today the people are speaking. Opposition to Hindi has become the people’s problem.
+
+Son of Tamil! They attacked you, but not only advocates and editors, and not only Tamils, have spoken in sympathy. Andhras, Kannadigas, and Malayalis show sympathy; Bengal too displays affection. Good people everywhere express sympathy and firmly declare that Hindi domination must not be allowed.
+
+Previously our ears ached from hearing: “The minister has given advice; what more is needed? The minister has explained; why further opposition? The minister has given an assurance; what remains to fear?”
+
+Now comes the chapter in which ministers are advised; the stage at which contradictions in ministerial speeches are exposed; the mockery that their assurances possess neither salt nor savour, neither life nor meaning; and a united, determined call that the Constitution must be amended.
+
+For four or five days, the rulers conducted their hunt. What did they obtain? Condemnation across the country and rebuke from good people.
+
+The emperors of Rome imagined the cross was meant for Jesus alone. Listen to what Christians say: Jesus rose again; it was the Roman Empire that died and perished.
+
+They began with the plan that opposition and destruction, slashing and stabbing, fire and evil, would fall upon the Kazhagam. Today what has been cut down and consumed by the flames is the rulers’ conduct and arrogance.
+
+Blessed and flourishing son who has bestowed all this upon us! Is it not because you were born in Tamil Nadu in these times that all this has been gained? You are going to win final victory for us. What deficiency can you have, son of Tamil, when the whole country stands united?
+
+I asked, “Why were you born, son of Tamil?” I have realized that error. Thinking again and again that I too was born here alongside you, I rejoice and gain new awakening.
+
+Your elder brother,
+
+Annadurai
+
+(Kanchi, 7 February 1965)
+
+## Translator's Notes
+
+The 21 scans form one continuous signed letter and end with “அண்ணன், அண்ணாதுரை” and the printed citation “7-2-65 - காஞ்சி.” The printed article number is 58, although the OCR initially read it as 28.
+
+“தமிழ் மகனே” is retained throughout as “Son of Tamil” to preserve Anna’s direct, familial address. “யாதும் ஊரே யாவரும் கேளிர்” is rendered by its sense, “every place is my town and everyone my kin,” while its classical origin is recorded here.
+
+The newspaper quotation on Images 18–19 is preserved as a quotation. The scan reads “இந்திக்காரர்கள்தாம் பிரிவினையைக் கோருகிறார்கள்,” meaning that insistence by Hindi proponents would itself create the separatist condition.

@@ -1236,7 +1236,7 @@ Total source works: 1388
 - [உலக்கை தாசர்!](ulakkai_thaasar.md) - pending
 - [katturaigal/ulla_uram](ulla_uram.md) - translated
 - [உண்ணாவிரத மகிமை](unnaviratha_mahimai.md) - pending
-- [katturaigal/unnodu_piranthal](unnodu_piranthal.md) - pending
+- [katturaigal/unnodu_piranthal](unnodu_piranthal.md) - translated
 - [உப்புத்தொழிலாளர் போராட்டம்](uppu_thozhilalar.md) - pending
 - [katturaigal/urchagam_vaen](urchagam_vaen.md) - translated
 - [katturaigal/urimai_murasoli](urimai_murasoli.md) - translated
