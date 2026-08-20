@@ -1208,7 +1208,7 @@ Total source works: 1388
 - [தூண்டுகிறார்!](thoondugirar.md) - pending
 - [தூங்கியா விட்டார்கள்!](thoongiyaevittargal.md) - pending
 - [katturaigal/thoothukudi](thoothukudi.md) - translated
-- [katturaigal/thoothukudi_maanadu](thoothukudi_maanadu.md) - pending
+- [katturaigal/thoothukudi_maanadu](thoothukudi_maanadu.md) - translated
 - [தூது நீ சொல்லி வாராய்!](thoothunee_sollivarai.md) - pending
 - [katturaigal/thoppiyai](thoppiyai.md) - translated
 - [THOSE 'PULLS'](those_pulls.md) - pending

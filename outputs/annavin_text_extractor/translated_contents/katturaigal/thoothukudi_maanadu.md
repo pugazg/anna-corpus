@@ -1,4 +1,10 @@
-# katturaigal/thoothukudi_maanadu
+# தூத்துக்குடி மாநாடு! / The Thoothukudi Conference!
+
+**Tamil title:** தூத்துக்குடி மாநாடு!  
+**English title:** The Thoothukudi Conference!  
+**Source file:** `katturaigal/thoothukudi_maanadu.md`
+
+## Source Tamil (verbatim)
 
 - Source image folder: `/Users/pugazhendhirajendran/Documents/Codex/2026-07-09/https-www-annavinpadaippugal-info/outputs/annavin_text_extractor/ocr_images/katturaigal/thoothukudi_maanadu`
 - OCR language: `tam`
@@ -628,3 +634,199 @@
 தொடங்குவோம். வாழ்க திராவிடம்!!!
 
 (திராவிட நாடு - 2.5.48)
+
+## English Translation
+
+Maharajas are driving cars!
+
+Kings are bowing their heads!
+
+Envoys are singing praises!
+
+Diplomats are performing penance for an interview!
+
+Capitalists are offering compliments!
+
+Foreign powers are celebrating friendship.
+
+Pandit Nehru arrived in Kashmir. At the airport, the Maharaja of Kashmir welcomed and entertained him, seated him in his own motorcar, and drove the car himself to the palace.
+
+The Maharaja of Kashmir drives a car! For whom?
+
+For that very Pandit Nehru to whom he had once issued the arrogant order: “We refuse you permission to enter our princely state. Therefore, as soon as you see this warning, you must leave our kingdom.”
+
+The man who witnessed and rejoiced in this scene was Sheikh Abdullah, who had led a revolution against monarchy in that same princely state of Kashmir, had been cast into prison, and had been accused of committing “lawlessness.” The king who had issued the prohibition now takes Nehru, formerly barred from entering the state, in his motorcar to a banquet at the palace!
+
+When Patel comes in procession, ten or twelve “rajas” accompany him, crying ceremonial homage.
+
+Sardar Patel delights the very rajas who once shouted, “Seize Patel,” by placing crowns upon their heads.
+
+Yes! These marvellous scenes fill the heart with joy. They show that the influence of our party has reached its summit. Emperors and kings kneel before our leaders! Congress friends have obtained the opportunity to say with elation and pride that the life of every ruler of a princely state rests at the point of Nehru’s pen. It is natural that they should rejoice. But once the subtle truth is discovered, bewilderment will increase and joy will fade.
+
+As long as white imperialism remained, these kings conducted their durbars by offering incense, lamps, and sacred food to the British masters. Now, by the same ritual of worship, they have turned revolutionaries into their new friends. To them, this new worship and their former worship of the foreigners have produced the same result: preserving their domination. Their profit has not diminished. Their position has not declined in any way from what it was before. The durbar continues: formerly through the favour of the British masters, and now through the favour of Congress leaders! They have changed the instrument; the purpose has not changed.
+
+Likewise, capitalists maintained their domination until now by claiming that they were helping the “war for national liberation” and performing the noble task of preventing foreigners from carrying out plunder. Today, they strengthen that domination by spreading talk of increasing production.
+
+Representatives of the great powers display every variety of smile and sing praises in order to secure commercial concessions and agreements.
+
+America, which has divided the world into two camps and seeks to preserve its domination by hurling both the atom bomb and the money bomb, sings a wondrous love song in the Delhi durbar!
+
+Congress has reached the summit. It has attained a position from which it can proclaim its influence to the world without doubt. It rules the country; it has even made crowned kings into children who run before it. It commands the navy, directs the army, and directs the air force. There is no higher place left to reach!
+
+Not only has the Congress Party reached the highest position a party can attain; because no other party has arisen to rival it with equal strength, it has also acquired a monopolistic hereditary claim. Congress is a Churchill without an Attlee!
+
+We are not political fools who underestimate its position. Nor do we wish to conceal the instruments the party holds in order not to lose the place it occupies today.
+
+Within the country and abroad, Congress possesses powerful propaganda machines and people skilled in operating them.
+
+In financial strength, one might say that only the political parties of America stand above the Congress here; such is its wealth.
+
+Many educated and cultivated people who wish to occupy some office under present conditions have become guards and servants of that party.
+
+The Vedantist Radhakrishnan, the scientist Raman, and Sir C. P., defender of the Vedas, serve as its priests.
+
+Ambedkar, Shanmukham, Bhabha, Matthai, and Mukherjee do not hesitate to lend their abilities by sitting within the machinery of government created by that party. They answer whenever they are called.
+
+The radio is in its hands! The newspapers employ their talents in the “great task” of garlanding and delighting the party. It is natural to suppose that Congress can use these instruments to preserve the summit it has attained. When a warrior has a sharp sword and a strong shield, he thinks there is nothing to fear. But what if his sight is impaired? The sword may remain sharp, but he will not wield it correctly. The shield may remain strong, but he will be unable to see from which direction the attack comes. Parties have reached supreme heights in this condition before; as a consequence, their hearts have also decayed. When the heart decays, many forms of military strength become useless.
+
+The admirers who exult in the present eminence of Congress refuse to notice this very subtlety. Its heart is decaying!
+
+Congress, having attained this eminent position, has assumed responsibility for governing. The people, who served in many ways with attachment and affection for this powerful party, therefore have the right to demand that it devise a way to end their suffering. They are asking, and will continue to ask. They will begin to ask in a louder voice. They will advise it to put its strength to use for their well-being. They will warn that its power will fall if it neglects their welfare. In anger, they will declare that they will destroy that power. History is a collection of events in which an enraged people has brought down even those who wielded the sceptre.
+
+An exalted position produces thoughts of pleasure and the arrogance that asks, “Who can equal us?” But when it cannot accomplish even one thing for the people’s welfare, it also makes the people ask why such an exalted position should exist. Once that thought grows strong, nothing can stand before the people’s power. A party seated upon the throne of government does not easily perceive this truth.
+
+Nor are signs absent that the heart is decaying. Congress has gained the lofty status of ruling and sent representatives throughout the world to spread its fame; yet when one observes events within the country, they give no pleasure even to the rulers.
+
+The Kashmir conflict has not ended. The story taken to arbitration has ended like the tale of climbing a tamarind tree in search of a jackfruit.
+
+The Hyderabad problem grows day by day.
+
+Relations with Pakistan alternate between friendship and hostility, appearing and withering in turn.
+
+Friendship with Burma has reached the point of deliberating whether rights and possessions can be protected by submitting petitions.
+
+The affliction that arose in Africa has not disappeared even though a struggle was conducted under the leadership of Mahatma Gandhi’s son.
+
+There is a shortage of food, and clothing is in the same plight! There is money but no commodity. There are factories, but few working days. There is a sea, but no ship!
+
+On one side are coronations and processions, greetings for royal dignitaries, compliments for capitalists, and banquets with representatives of the great powers.
+
+On the other are detention without trial, attacks upon newspapers, laws of repression, Section 144, baton charges, tear-gas shells, and gunfire; storms of strikes, violence in the fields, highway robbery, binding and beating, arson, murder, and plunder. All this!
+
+On one side is a condition in which honey flows; on the other, one like the sting of a scorpion.
+
+Shanmukham, who once fought them, is guardian of the finances! Ambedkar, who says Congress will perish within a few years, is guardian of the law! A condition has arisen in which this is tolerated. Is that all? They are compelled to appoint as “advocates” those Gopalaswamis who mocked civil disobedience and satyagraha as childishness. During British imperial rule, they had argued that the Viceroy possessed special powers and had used their legal expertise to imprison Congress leaders.
+
+Now those Alladis are needed in the Constituent Assembly! Kripalani condemns; Jayaprakash sets up a separate shop; Sarat Chandra girds himself for battle; and the Frontier Gandhi declares that he wants none of this trouble. Such a condition has arisen.
+
+Workers are beset by hardship. The hearts of peasants are broken. Radicals are cast into the fire of repression.
+
+These are no ordinary signs.
+
+Even if these things might be forgotten, or people might be made to forget them by the strength of propaganda, one event that people here and throughout the province cannot forget is that the death of the noble Gandhi occurred under the rule of the party that had attained the summit.
+
+It is accumulated strength, not growing strength! It is the summit, but not a secure position! It is a party raised by the support of the people, but not one engaged in work capable of making that support endure.
+
+If popular support is to endure, the friendship of kings, the loyalty of capitalists, and the cooperation of the Matthais ought not to have been considered desirable.
+
+Yet the course of Congress today has gone so far that it dares to describe even the lofty ideal of socialism as a farce.
+
+The situation has deteriorated to the point at which Nehru speaks before the Tatas of the need for a profit motive.
+
+Military expenditure is like that of a nation arrayed for war. The Central Government’s revenue is Rs. 250 crores, and half of it, Rs. 125 crores, goes on the armed forces! Those who rule are preachers of nonviolence, the very people who used to say that once they came to power they would abolish ruinous military expenditure entirely.
+
+Foreign envoys exchange endearments here, but what happens in practice? Each country sells food to India at three times the price at which it sells the same food at home! The “Lights of Asia” are compelled to buy at this unjust price.
+
+After interest payments and salary expenses are also deducted, only Rs. 80 crores remain. With this alone, roads must be built across this vast subcontinent, education spread, disease prevented, and the people’s welfare protected. The income is Rs. 250 crores; of this, 170 goes to explosives and personnel, leaving only Rs. 80 crores for the people’s welfare!
+
+Surely joy must overflow in the people’s hearts!
+
+This condition generally affects India. Since our country, Dravidam, has been bound to the Indian landmass, it affects us too. Dravidian blood is shed and money poured out upon the mountain slopes of Kashmir.
+
+Alongside this general condition there is a particular one. Our province has been forced to look towards Delhi in supplication for everything. Because the ruling party is Congress and its seat of leadership and its stage-managers are in the North, the system and course of government allow the North to manipulate the South. From food and clothing to quarrels within the ministry, petitions go only to Delhi. The Constituent Assembly has framed a scheme that strengthens this condition further.
+
+Under the pretext of requiring a powerful Central Government, the powers of the provinces have been seized.
+
+This is the political condition. The economic condition is worse still! The North is the developed country; the South, the backward village! There is no way to correct this condition, and no way to prevent northern domination, except by attaining the status of a separate country.
+
+We know friends who ask: what does it matter whether an industry is northern or southern; are capitalists not the same whether they live above or below the Vindhyas? If all industries were owned by the Government, that argument would possess some relevance. But socialism is now being scorned and reviled, while new propaganda strength is being given to capitalism. The lives of many crores of people have been mortgaged to ten families in the North. Those ten families, making British and American capitalists their partners, are creating a new economic imperialism.
+
+Thus Dravidam is brought under the domination of the North, where indigenous capitalists allied with foreign capitalists exercise power, and is turned into a market for northern goods and a merely agricultural country.
+
+No one concerned with the people’s advancement can desire this condition.
+
+“What madness is this talk of North and South? Is the country to be divided still further?” Those who speak thus today are Congress leaders. Because they regard themselves as the ruling party, remember that their party has reached the summit, and trust that they possess the instruments of domination, they dare to deny truth and drive away justice. They refuse even to engage in honest argument.
+
+Their denials and opposition will change in accordance with the inevitable change in their party’s position.
+
+That is why the Dravidar Kazhagam continues, with firmness and confidence, to reject and oppose this powerful party. It knows that eminence is not permanent, that the course of government is unsound, and that the people’s hearts are becoming nests of anxiety. Though it has not even touched the threshold of the legislature, the Dravidar Kazhagam confidently spreads its principles and plans throughout the country. That confidence has not been in vain. Behold the great Dravidian people gathering at Thoothukudi with enthusiasm and faith!
+
+This is a party lacking even the support of a single English daily; a party led by an elder who never saw a college; a party that dared antagonize the money chests; a party that has continued its work without trembling despite torrents of blame; a party that recruits people while frankly saying there will be no title or office and that it cannot promise even a place in a panchayat court; a party that drove out political opportunists; a party that, when invited affectionately by palace dwellers, rejected that lac palace which intoxicates people and murders principles and said the shade of a banyan tree was enough; a party that freed itself from the embrace of minor princes who, through their peculiar talents, win even the affection of today’s rulers.
+
+It is the party that, when Tamil scholars learned in anthathi, asaval, venba, and other forms wondered whether anything could be done, enabled more than a thousand men and women to go to prison opposing compulsory Hindi; the party that awakened a fallen Tamil land; the party that brought into its ranks countless youths who once mocked, “What does your party possess?”; the party that stands in the dreams of Vaidyanathas and the thoughts of Sankaracharyas and says, “Listen, the age is speaking! Deceit will no longer prevail, behold!”
+
+It is a party fortunate enough to have “advocates” even within Congress; the foremost enemy of priestly rule, the grip of antiquity, religious arrogance, caste pride, and superstition; the first party to throw a bomb upon the fortress of orthodoxy; a party like the echo of the Tamil heart; a party that has grown into an exclamation mark; a party that casts aside immediate reward and nourishes a revolution within the mind; a party spreading even through hamlets; a party that makes universities its camps and trains the ranks of the rationalist army.
+
+It is a party that supports honest government even when political opponents establish it; a party that refuses to respect political gambling; a party that has inherited the tradition of Socrates; a party that grows without perishing through adventure; a party that implants in every sincere heart, whatever its political affiliation, the resolve to see a new society; a party that has laboured and continues to labour with faith that truth will triumph, never losing heart even when garlands of abuse such as “traitor,” “office-mad,” and “slave” were bestowed upon it.
+
+That party gathers at Thoothukudi to call upon the people: come and remove Dravidam’s sorrow; unite to wipe away its degradation; work to obtain a new life.
+
+The growth of the Dravidar Kazhagam is displayed neither to hunt votes nor to run for office. It is displayed to show the country one truth: when principles are lofty and enthusiasm and faith profound, thousands upon thousands of young people will join a party with no political profit, even if they are mocked as “political orphans,” struck by words and stones, and offered an open “gateway to heaven” leading to a comfortable political life.
+
+No one can dismiss as unnecessary our explanation of national liberation and of the people’s advancement; no courageous person can say it is impossible. This confidence is the strength of our army. Its victories are great: the Madras conference, with Periyar in prison; the Tiruvarur conference, which opened the way to a Dravidian consciousness; the Salem conference, which found the courage to remove office-holders; the Tiruchirappalli conference, proud to make Periyar permanent leader; and now Thoothukudi, a sublime picture formed by tireless labour.
+
+The lofty duty of making the world recognize this achievement is ours. It is not the rotten business of measuring one another’s strength among ourselves. This conference is a noble effort to make all the people of the country accept the purity of the Dravidar Kazhagam’s purpose. Today the Dravidar Kazhagam has grown strongly in the Madras Presidency. The days when it was dismissed as the noise made by one or two individuals in scattered places have gone. Its principles have spread across the province, and its influence and strength have grown. Today it stands as a party with nearly three hundred branches and no fewer than fifty thousand members.
+
+This growing force will naturally arouse envy and wonder among members of other parties. At a time when political parties possessing money, press combinations, publicity abroad, enormous support at home, and all the attributes and strength of political organizations are losing influence and esteem among ordinary people, the Dravidar Kazhagam, without any of those advantages, has succeeded in turning the country’s attention towards its principles. Through unceasing propaganda, it has won a measure of success.
+
+Meetings held in hamlets have yielded greater benefit. After the Salem conference, title- and office-holders ceased clinging to our party like leeches. Yet the very condition expressed by the declaration, “We have no holders of titles and offices among us,” became a testimonial that won us the people’s esteem.
+
+The party lost the tacticians who construct ministries. It gained the cooperation of countless students. The village tours of students have produced greater benefit than the ceremonial entries of ministers into towns.
+
+More journals propagating Dravidar Kazhagam principles have appeared than ever before. The speaking platform and the strength of the written word have become the Kazhagam’s own. From Salem to Thoothukudi, even though the road was filled with stones and thorns, the progress of the journey has been remarkable. To the surprise of those who began the journey, the Kazhagam has grown and its principles have spread further than they imagined. Just as a cultivator rejoices upon gathering and surveying his harvest, the provincial conference at Thoothukudi will reveal the party’s growth and the extent of the influence it has gained among the people.
+
+Periyar, leader of the Kazhagam, has been chosen to preside over the Thoothukudi conference. Periyar has changed from being an individual leader into a movement. It cannot be said that only the Dravidar Kazhagam follows his principles. If one looks carefully, the Congress from which he thought he had withdrawn is itself moving towards him. The very principles for which Periyar left Congress have today become the official principles of the Congress ministry.
+
+Periyar’s voice now comes not from one place alone but from many directions. In Omandur Ramasamy Reddiar’s victory as Premier and in the answers given by ministers in the legislature, we hear Periyar’s voice. His voice is growing stronger. He created a shock in the stagnant thought of Tamil Nadu. The many waves produced by that shock have now created many voices within many political parties. The waves arose from one place; their branches have produced a great revolution in social thought and fostered another party in southern politics to the point that it can be called the opposition to Congress. Periyar, who won this victory, presides over the Thoothukudi conference.
+
+While Periyar’s ranks have grown, the strength of the Congress organization that serves as the governing party has declined. The trust and respect the people placed in it have faded. Although Congress has held office for ten months, its promise that all suffering would disappear and happiness abound everywhere has not been fulfilled. When people saw that the expected benefits had not arrived, they lost faith in Congress. They have therefore turned their attention to another party to show them the way. In the South, the party that fought in the opposing ranks against Congress was the Dravidar Kazhagam. Its principles have spread upon the ground created by this loss of faith in Congress.
+
+The Government’s repression was directed at the Dravidar Kazhagam, which functions outside the legislature as the opposition to the Government. The Central Government disbanded political volunteer corps of various communal organizations. Following this, the Madras Government tried to abolish the black-shirt emblem associated with the Dravidar Kazhagam. This marked the beginning of the conflict between the Kazhagam and the Government. The ban not only widened the distance between them; it also produced the expectation that the Government’s full repression might fall upon the Kazhagam, its newspapers, and its other institutions.
+
+If repression is unleashed, will the people accept it ordinarily, or will they stand on the side of the Dravidar Kazhagam? The rulers will ask themselves this question before unleashing repression. The Thoothukudi conference assembles in a manner intended to show the rulers the influence the party has acquired among the people. It will also help party members themselves assess their party’s strength and the power of its propaganda to attract public attention.
+
+The Thoothukudi conference must serve as an example of Dravidam’s awakening and resurgence. It must make rulers, townspeople, villagers, and the world understand the vital problem confronting the great Dravidian people.
+
+It must fulfil the duty of extending a hand to people distressed that under Congress rule they have “seen things never before discovered.”
+
+It must avert the danger that has arisen even to the socialist ideal.
+
+It must determine our role in the various struggles for the liberation of working people and show the way forward.
+
+In religion, society, culture, and intellectual life generally, it must ascertain how much support the new paths we advocate are receiving even within Congress circles regarded as our political opponents. The conference must seek a way to gain more of their support and bring them to work with us once they recognize that our aim rests upon the path of righteousness.
+
+May this conference help establish an effective method of propaganda that makes the country understand the greatness of science, the excellence of rationalism, and the elevation of socialism. The Thoothukudi conference takes place at a time when all parties in the country, indeed across the Indian subcontinent, need new programmes and new positions. Keeping the world and conditions in this subcontinent firmly in mind, we must use this precious affection and enthusiasm to devise a programme of work that does not injure our fundamental principles. Once that high purpose is planted in our hearts, all thought of petty quarrels will disappear.
+
+For twenty-five years, we have spread reformist principles in this country. We grew without regard for the opposition of the wealthy, the neglect and hostility of other political parties, or the blackout imposed by the press. We took possession of the Justice Party, expelled the “great men” within it, and fought on three fronts with economic equality, an autonomous Dravida Nadu, and a society without distinctions as our aims.
+
+At the Salem conference, the party became the people’s own. Under Periyar’s leadership, fifty thousand Dravidians thundered: “We have no electoral objective. We do not want office. Those who desire such things may leave!” The office-mad and the bearers of titles fled in fear. A new awakening arose; the blackout proved useless. In every corner there was talk of the Dravidar Kazhagam. Even where there was no complete support, the old neglect had vanished. People began respectfully asking us, “What do you say about this? How is that right?” Their attention turned towards us.
+
+There are Kazhagam branches and reading rooms in even the smallest villages. Reformist plays alone can now be staged successfully. No one can easily conceal this awakening.
+
+What a change there has been in just four or five years! We no longer see people standing up to argue for antiquity. The attention of scholars has shifted from local temple legends and other mythological epics towards the Tirukkural and Sangam literature.
+
+What does it mean when youths, college students, and the general public all say that only the Self-Respecter’s writing and speech are attractive and good? It means that the principles he states no longer provoke anger as they once did. They appear correct. Yet because people lack the strength of mind to adopt and practise them, and lack the courage to say openly that all the principles are right, they merely say, more generally, that the speech and writing are good. After twenty-five years, our principles have touched the people’s hearts.
+
+The fragrance of rationalism has spread through literary associations that were once the private domain of lovers of antiquity. Our principles have begun to give fragrance to every play.
+
+Let us rejoice as we count the victories we have won. But keeping in view the victories still to be achieved, and taking as our support the enthusiasm Thoothukudi gives us, let us continue our journey towards the ideal. Long live Dravidam!
+
+(Dravida Nadu, 2 May 1948)
+
+## Translator's Notes
+
+The 17 scans form one continuous article and end with the printed citation “திராவிட நாடு - 2.5.48.” The printed heading carries the article number 35, though the OCR initially read it as 32.
+
+The article uses “திராவிடம்” as a political-geographical name and “திராவிடப் பெருங்குடி மக்கள்” as a collective political description. They are rendered as “Dravidam” and “the great Dravidian people” rather than being silently recast in modern constitutional terms.
+
+“பராக்குக் கூறுதல்” refers to ceremonial acclamation before royalty; “தூபதீப நைவேத்தியம்” is a sequence of ritual offerings used satirically for political homage; and “ஏகபோக மிராசுப் பாத்தியதை” describes a monopolistic hereditary claim.
