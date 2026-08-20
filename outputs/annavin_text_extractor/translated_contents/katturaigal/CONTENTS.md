@@ -1091,7 +1091,7 @@ Total source works: 1388
 - [சிவபூஜையில் கரடி!](sivapoojayil_karadi.md) - pending
 - [ஸ்லட் நதிக்கரையில்!](slet_nathikkarayil.md) - pending
 - [சூட்சமம் இதுதான்!](sootchumam_ithuthan.md) - pending
-- [katturaigal/sorgathil_naragam](sorgathil_naragam.md) - pending
+- [katturaigal/sorgathil_naragam](sorgathil_naragam.md) - translated
 - [katturaigal/sorgavasal](sorgavasal.md) - translated
 - [katturaigal/sothanayil_vetri](sothanayil_vetri.md) - translated
 - [SOUL OF NATION](soul_of_nation.md) - pending
