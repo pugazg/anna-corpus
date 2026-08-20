@@ -115,6 +115,7 @@ A blank image section has an explicit no-text marker or no OCR body after its im
 - `sirukathaigal/rajapart.md`: 14 of 16 scan pages contain no OCR text; recover images 2-4 and 6-9 in part 1 plus images 1-3 and 5-7 in part 2 before translation
 - `sirukathaigal/sollathathu.md`: 9 of 13 scan pages contain no OCR text; recover images 1, 5-10, and 12 before translation
 - `sorpozhivugal/060767.md`: Recover the damaged closing lines of Image 7 in Anna's distinction between fringe actors and responsible party leadership
+- `sorpozhivugal/110667.md`: The four-part 1967-68 revised-budget speech contains pervasive dropped lines, numeral substitutions and mixed-script corruption across its 54 numbered paragraphs, beginning on Part 1 Image 1 and continuing through the closing page. Re-OCR every scan with Tamil and English models and reconcile all fiscal figures, English administrative terms and paragraph transitions before translation.
 - `sorpozhivugal/130767.md`: Re-OCR embedded English in Images 2-3 and 6-7, recover damaged Image 6 lines, and obtain continuation after Anna begins proposing a simple resolution
 - `sorpozhivugal/170868.md`: Passage between Images 3 and 4 is absent after the current-year total begins with Rs. 2 crore; grant numbers and the Cauvery irrigation work also need scan verification
 - `sorpozhivugal/180767.md`: Recover all of Image 3, damaged Images 6-7 transition, embedded English intervention on Image 8, and continuation of Anna's final reply to Vinayakam
