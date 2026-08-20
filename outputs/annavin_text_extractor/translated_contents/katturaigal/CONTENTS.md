@@ -904,7 +904,7 @@ Total source works: 1388
 - [katturaigal/periya_idathu_thiru](periya_idathu_thiru.md) - translated
 - [katturaigal/periyapuranaputhayal](periyapuranaputhayal.md) - pending
 - [பெரியார் - ஆச்சாரியார் சந்திப்பு!](periyar_achariyar_santhippu.md) - pending
-- [katturaigal/periyar_namakku](periyar_namakku.md) - pending
+- [katturaigal/periyar_namakku](periyar_namakku.md) - translated
 - [katturaigal/periyarum_pirarum](periyarum_pirarum.md) - translated
 - [katturaigal/pernathath](pernathath.md) - translated
 - [katturaigal/perumaikuriya_para](perumaikuriya_para.md) - translated
