@@ -121,6 +121,7 @@ A blank image section has an explicit no-text marker or no OCR body after its im
 - `sorpozhivugal/170868.md`: Passage between Images 3 and 4 is absent after the current-year total begins with Rs. 2 crore; grant numbers and the Cauvery irrigation work also need scan verification
 - `sorpozhivugal/180767.md`: Recover all of Image 3, damaged Images 6-7 transition, embedded English intervention on Image 8, and continuation of Anna's final reply to Vinayakam
 - `sorpozhivugal/180767_2.md`: Image 3 contains no OCR text; historic Tamil Nadu naming speech has a middle gap
+- `sorpozhivugal/200268.md`: The combined two-part 20 February 1968 Governor's Address debate is incomplete and heavily corrupted. Part 1 Image 15 and Part 2 Images 4 and 15 have no OCR text; long speaker exchanges in Part 1 Images 3-5 and Part 2 Images 14-16 are largely unreadable. Re-OCR all 36 scans with Tamil and English models, restore the missing pages, and reconcile every speaker intervention before translation.
 - `sorpozhivugal/260368.md`: Recover short damaged line clusters at the beginnings of Images 3, 5 and 6, including the office held by Minister Govindasamy
 - `sorpozhivugal/270368.md`: Short line clusters at the beginnings of Images 3 and 5 are damaged; verify the oil-lamp wording and the English loan phrase rendered as breathing space
 - `sorpozhivugal/271167.md`: Image 5 closing lines are severely garbled after the electricity-tariff sentence; recover from a clearer scan or the 27 November 1967 Assembly record
@@ -129,6 +130,7 @@ A blank image section has an explicit no-text marker or no OCR body after its im
 - `sorpozhivugal/amaichar160361.md`: Recover damaged Salem court-case lines, election-fund transitions, corporate-contributor discussion, and the end of the proposal that Ministers resign before elections
 - `sorpozhivugal/maedai_paechu.md`: Verify the exact Kalamegam comic-horse measure in Image 5 and the printed year in the heading
 - `sorpozhivugal/nadagathil_oru.md`: Opening survey of the T. K. S. troupe's historical and literary plays is cut off between Images 1 and 2; recover the missing page or passage
+- `sorpozhivugal/nithi080358.md`: The canonical two-part 8 March 1958 budget debate includes all 39 scans, but at least 12 pages contain dense numeral/glyph substitution and dropped lines, especially Part 1 Images 3, 10 and 13 and Part 2 Images 3, 6-10, 13-14 and 16-17. Re-OCR all scans with Tamil and English models and reconcile the Nehru quotation, financial figures, speaker exchanges and damaged closing argument page by page before translation.
 - `sorpozhivugal/nithi300460.md`: Recover the English title of the Salem-iron reference book on Image 2 and damaged passages at the ends of Images 4 and 6
 - `sorpozhivugal/nithi_othukka260757.md`: Verify damaged header date and bill year, and recover the illegible embedded English phrase in Rajagopalachari's quoted comparison on Image 5
 - `sorpozhivugal/poar_murasu_kotti.md`: Recover the passage between Images 5 and 6 concerning Nehru's language assurance and obtain the continuation after the final unfinished readiness appeal
