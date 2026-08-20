@@ -1266,7 +1266,7 @@ Total source works: 1388
 - [வடநாட்டு கவர்னர் வருகை!](vadanattu_governer.md) - pending
 - [katturaigal/vaeguthae](vaeguthae.md) - translated
 - [வேல் பாய்ந்த வேழம்!](vael_paayntha_vezham.md) - pending
-- [katturaigal/vaelai_kodungal](vaelai_kodungal.md) - pending
+- [katturaigal/vaelai_kodungal](vaelai_kodungal.md) - translated
 - [வேண்டாம் விபரீதம்!](vaendam_vibareetham.md) - pending
 - [katturaigal/vaendave_vaendam](vaendave_vaendam.md) - translated
 - [வேண்டுகோள்!](vaendukoal.md) - pending
