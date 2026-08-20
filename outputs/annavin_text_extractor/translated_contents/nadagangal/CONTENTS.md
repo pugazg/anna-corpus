@@ -25,7 +25,7 @@ Total source works: 62
 - [nadagangal/gandhi_jayanthi_1](gandhi_jayanthi_1.md) - pending
 - [nadagangal/ilangogin_sabatham_1](ilangogin_sabatham_1.md) - pending
 - [nadagangal/inba_oli](inba_oli.md) - pending
-- [nadagangal/irakkam_oru_1](irakkam_oru_1.md) - pending
+- [nadagangal/irakkam_oru_1](irakkam_oru_1.md) - translated
 - [nadagangal/jananayaga_1](jananayaga_1.md) - pending
 - [nadagangal/kaasurar_1](kaasurar_1.md) - pending
 - [nadagangal/kadhal_jothi](kadhal_jothi.md) - pending
