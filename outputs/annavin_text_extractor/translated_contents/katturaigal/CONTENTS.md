@@ -862,7 +862,7 @@ Total source works: 1388
 - [பல்கலைக்கழகத்தில் பஜனை](palkalaikazhakathil_bajanai.md) - pending
 - [katturaigal/pallakku_boomi](pallakku_boomi.md) - translated
 - [katturaigal/palliyarayil_param](palliyarayil_param.md) - translated
-- [katturaigal/pamba_ramayan](pamba_ramayan.md) - pending
+- [katturaigal/pamba_ramayan](pamba_ramayan.md) - translated
 - [katturaigal/panabanam](panabanam.md) - translated
 - [katturaigal/panathottam](panathottam.md) - translated
 - [பாஞ்சாலியும் பாரதத்தாயும்](panchaliyum_barathathayum.md) - pending

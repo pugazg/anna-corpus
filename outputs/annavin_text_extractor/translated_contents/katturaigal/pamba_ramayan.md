@@ -1,4 +1,10 @@
-# katturaigal/pamba_ramayan
+# பம்ப இராமாயணம்! / Pampa Ramayana!
+
+**Tamil title:** பம்ப இராமாயணம்!  
+**English title:** Pampa Ramayana!  
+**Source file:** `katturaigal/pamba_ramayan.md`
+
+## Source Tamil (verbatim)
 
 - Source image folder: `/Users/pugazhendhirajendran/Documents/Codex/2026-07-09/https-www-annavinpadaippugal-info/outputs/annavin_text_extractor/ocr_images/katturaigal/pamba_ramayan`
 - OCR language: `tam`
@@ -986,3 +992,297 @@
 (22-10-44 திராவிட நாடு)
 
 254
+
+## English Translation
+
+To those comrades itching to ask, "Was attacking the Kamba Ramayana not enough? Are you now drawing a caricature called the Pampa Ramayana? Have you no other work?" I offer an explanation at the outset. This is no joke, nor the product of idleness. It is a statement of fact. Just as a work called the Kamba Ramayana exists, so does the Pampa Ramayana. The author of the former is Kamban; the author of this work is Pampa. The former was a Tamil; the latter a Kannada poet. Both composed the story of Rama, but their narratives take different courses. The Pampa Ramayana is therefore not our caricature, not a reprint or repaired version of an old book, but an account of what actually exists. Its sole purpose is to remedy the fact that many people do not know of it. The preface is over; now for the story.
+
+The moment people hear "Ramayana," they recall such episodes as Bharata's coronation, the burning of Lanka, Vibhishana's surrender, Hanuman's growing tail, and the severing of the demoness's nose. Because Valmiki drew the story and Kamban expounded it, these alone are what our people know of Rama's tale. Lacking inquiry, they do not know how many different Ramayanas and how many texts exist. Do we need further proof that our people, who trust only Kamban's line about not knowing how far Pandharipuram lies, have very little experience in research?
+
+Had they possessed an investigative outlook, the statement that the Rama story was invented to serve Aryan domination would not immediately have provoked anger, hatred, confusion, and babble in so many. I have heard some exclaim with genuine heartache: "My Rama! Moon of the Solar race! Sita-Rama! Kodanda-Rama! Dasaratha-Rama! How can anyone find fault with him? Must these ears hear it?"
+
+Their great anger does not arise merely from ignorance. A person who truly knows will not rage; the anger of one who knows nothing subsides in half a moment. Between these two kinds stands another group. They know a little, but do not know that any knowledge beyond what they possess exists in the world. The anger of these comrades who both know and do not know surges like the sea, and their words are bitter poison. Yet I do not become angry with them. Why?
+
+"Kannan! Look, the ticket inspector is coming. Watch me play a trick on him. I shall make everyone in the carriage split their sides laughing. Whatever he asks, you alone must say that you know nothing."
+
+While travelling on a moving train, Sadasivam said this to his friend Kannan before a moderately attractive woman who sat reclining nearby. He wished to display his cleverness and win her smile as his reward. Kannan assumed, as I have just described, that Sadasivam intended some joke with the ticket inspector. The two young men took turns admiring the woman whenever the other was not looking. No devotee of Kamban was in the carriage; had one been present, he might have rejoiced that the poet had known a thousand years ago the grandeur of eyes meeting eyes.
+
+The ticket inspector asked each traveller for a ticket, marked it, and returned it. Kannan too handed over his ticket. Then this happened.
+
+"Sir, show me your ticket!" The tone was official.
+
+"I did not buy a ticket, sir," replied Sadasivam, with a touch of humility.
+
+"You did not buy one? What, sir? Why not?"
+
+"I did not buy one, sir. I have no money." As he spoke, Sadasivam rose like a frightened man and scratched his head.
+
+"Do not play games like this, sir. Take out the ticket."
+
+"I have no ticket, sir."
+
+"Are you telling the truth?"
+
+"Yes, sir! Would I lie?"
+
+"Very well, pay six rupees and three annas."
+
+"I have no money, sir!"
+
+"Hey! What a thorough troublemaker you are. Take out the money. Look at you: strongly built, hair neatly cropped, wearing a polo-collar shirt. How many fellows have set out like this! No ticket, no money, yet sitting here like a great gentleman. Come along!"
+
+"What can I do, sir? Hard times; no cash in hand..."
+
+"If you have no cash, go and steal somewhere."
+
+"Is the policeman the only one involved? Do you think I too will let you go?"
+
+Without the least smile, Sadasivam acted just as a fare-dodger would stare about in alarm. Kannan thought of saying several things, then fell silent. People in the carriage began speaking in different ways.
+
+"Have you seen what the times have come to?" asked a Vedic scholar who had long suffered from the smell of cigarette smoke curling from Sadasivam's mouth.
+
+"Men bound for the funeral pyre climb into trains like this and torment our lives," said Parvatham, a widow whose name I assign from her appearance.
+
+"Who knows, sir? Such a time may come even to us," said a peace-loving sage.
+
+The ticket inspector's hand moved toward Sadasivam's neck. The face of the beauty who had delighted Sadasivam's eyes became sorrowful. Kannan trembled.
+
+"Sir! Take your hand away," Sadasivam said with a new firmness. The flower-like woman smiled. Kannan rejoiced. The ticket inspector was startled.
+
+"Why, sir? Is this what your rules say?"
+
+"What is this talk of rules? Get up respectfully."
+
+"You too must behave respectfully. Do you know what you must do if I have not bought a ticket? File a case. Is that not all the rule says? Is that not the law? Instead, you lay hands on my neck. If you perform so much before an educated man like me, what would you do to an ignorant villager?"
+
+"Some people show their prowess only against voiceless creatures," Parvatham said, having changed her mind.
+
+"Whatever the case, one must not lay hands on a man's neck. People will naturally become angry," interpreted the Vedic scholar.
+
+"It must have been a poisonous moment. The ticket officer is not really a bad fellow, and this gentleman is also a good man," said the lover of compromise.
+
+"Sir, I too am an officer. I said I had no ticket only to see how railway officers behave. Whatever happens, one needs patience, not anger."
+
+Sadasivam said this calmly and put his hand into his shirt pocket.
+
+"I knew it, grandmother! Did I not say at once that he had a ticket and was only playing? See, I was right," one flower-like woman told Parvatham.
+
+Meanwhile fear drained the radiance from Sadasivam's face. His limbs began to tremble. The ticket was not in his shirt pocket!
+
+"Kannan! The ticket is missing," he said in agitation, searching every part of his inner and outer shirts. There was no ticket. The inspector had calmed down somewhat after Sadasivam's rapid speech and the support offered by the other travellers. Sadasivam's bewilderment now stirred the smouldering fire. The inspector stood glaring at him. Sadasivam became a pitiful figure.
+
+"Sir! I cannot find the ticket. I truly was joking until now. I bought a ticket and put it in my shirt pocket. I do not know where it has gone, sir!" Grief changed the very melody and emotion of his speech.
+
+A music lover quoted the song, "What magic made the secretly buried shell disappear? Great sage, I do not know." A lover of suspicion asked Sadasivam, "What sort of joke is this? Where could a ticket kept in a shirt pocket go?"
+
+"It seems to have grown legs. Such is the Kali age," the Vedic scholar remarked, winking at the inspector.
+
+"Your Highness, Maharaja Rajashri! Kindly present your ticket." Remembering Sadasivam's demand for respectful treatment, the inspector mocked him with elaborate courtesy.
+
+"Sir! Sir! I am telling the truth. I bought a ticket; it has been lost."
+
+"You are a great trickster! First you said you had no ticket. When I questioned you firmly, you argued that you did have one. Now you try to deceive me by saying it has been lost."
+
+This time the inspector's hand flew still more forcefully toward Sadasivam's neck.
+
+"Kannan! Tell him, tell him, my friend," Sadasivam pleaded.
+
+"I know nothing!" Kannan answered, exactly as Sadasivam had instructed him.
+
+A station! The train stopped. The ticket inspector took Sadasivam down. Kannan was forced to alight too. A small crowd gathered and a great commotion arose. The train departed. Sadasivam, who had behaved foolishly while feasting his eyes on the young woman, was caught in an uproar on the platform. The ticket he had bought had become caught in his handkerchief, remained for a long time beneath his foot, and then, as no one claimed it, lay under a bench!
+
+Though he possessed a ticket, Sadasivam began his joke by acting as though he had not bought one. In the end, despite having bought it, he had to suffer the ordeal reserved for one who had not. The reason was that he belonged to the class that both knows and does not know. He knew that he held a ticket and was putting on an act, but did not know that it had slipped from his hand and fallen. Sadasivam exists not only on a moving train, but everywhere. Nor is he alone. Seven out of ten in this country are such men. These friends who both know and do not know are the ones who rage against those who analyse epics such as the Ramayana.
+
+They know only one Rama: God, an avatar, a portion of Hari! They imagine that what they know about Rama constitutes all knowledge. They must learn that others have understood Rama in many different ways. I believe the Pampa Ramayana will grant them this new awareness.
+
+The extended preface too is over. Now hear the story.
+
+Valmiki and Kamban portrayed Ravana as a demon, made Rama divine, reduced Hanuman to a devotee, turned Sita into the goddess Sridevi, transformed Vibhishana into an Alvar, and made the Ramayana a sacred tale whose recitation earns merit. Temple drums resound; support for Aryanism continues as its consequence even today.
+
+The Pampa Ramayana is not of that kind. Ravana, Mandodari's husband, is a great warrior who rules Lanka in boundless happiness. Vibhishana is his affectionate younger brother, not one who betrays him and receives wages from Kakutstha. The Vibhishana whom Pampa first portrays is a man of courage who undertakes a difficult mission to save his elder brother's life.
+
+Ravana has a sister, but her name is not Surpanakha. She is Chandravati. She is not a woman who wanders lustfully through the forest, infatuated with Rama and Lakshmana, and has her limbs mutilated. She is the crowned queen of Khara, ruler of a place called Patala Lanka. Shambuka is her son.
+
+In the Pampa Ramayana, Ravana's family is portrayed as distinguished by unity, affection, valour, prosperity, wealth, and excellence. It is not Kamban's picture of an elder brother blinded by frenzy, a sister wandering in lust, and a younger brother who betrays them. Friends whose mental prejudice clouds their reason should impress this difference upon their minds.
+
+The portrayal of Ravana as a demon with a traitor and a rogue among his own siblings is Valmiki's ideologically shaped imagination. His text was drawn to tell "believers" that God's blessing rested upon Aryan imperialism. The Lankan ruler's family therefore had to be portrayed in a manner suited to that purpose. Because Kamban wrote his text from an Aryan source and wished to become a servant of Hari, he followed the Aryan poet's footsteps beautifully here.
+
+Texts are written to establish and propagate their authors' respective principles. A common person who does not understand this believes that because Kamban told the story in captivating poetry, events must necessarily have happened exactly as he related them. Scholars, meanwhile, have become men obliged to graze in the farms of such common people.
+
+Pampa had no need to write for Aryanism and therefore no need to degrade Ravana. Ravana, shown as a murderer in Kamban's text, assumes another form in Pampa's poetry. Intelligent readers will understand both that the tale is imaginative and that those who handled it used it as an instrument to emphasise their own ideas. Those who know will stop, explain, and examine such fictions, reject what should be rejected, retain what should be retained, and benefit. Those ignorant of this method say that Rama's name is sugar candy, and delight in throwing stones at researchers.
+
+Kamban wrote his Ramayana with Valmiki as his source. Some people of fast but faulty discernment may already have concluded that Pampa rewrote that Ramayana differently merely to mock it, and that he must have been an ancient Self-Respecter. Here is another explanation for them.
+
+Just as Valmiki's text was Kamban's source, Pampa too had a source text. This was not Pampa's unaided invention; like Kamban, he composed his work by adapting an earlier text. Ravishena is honoured by Jains as highly as Valmiki is by Aryans. Pampa's Ramayana took Ravishena's Ramacharita as its source.
+
+Valmiki composed Rama's tale to sustain Aryanism and shaped it to suit that aim. The Jain elder Ravishena composed the Rama story without such a doctrine of racial domination. Pampa adapted his work. He therefore did not degrade Ravana or turn him into a meaningless "demon." He did not give him twenty massive shoulders, make him lust after Lakshmi, or portray him as a debauched wanderer.
+
+We have thus far seen the king of Lanka presented by Valmiki and Kamban. With attention, let us now see the king who emerges in Pampa's portrayal. Let us enter the court of Lanka's ruler.
+
+The ruler of Lanka sits in state. There are none of the fire-eyed, fanged, cruel beings shown by Kamban. The scene is ordered as the court of a mighty king ought to be. Nor is Vibhishana an Alvar who has ripened in devotion and divine service, learned righteousness, tried to restrain his elder brother, and then declared that he would no longer stand before a brother who had taken Sita, that great fire, before surrendering elsewhere. He is simply the loving younger brother of a powerful king. Mandodari is in court, as are the chief ministers. At that moment an astrologer arrives.
+
+"Ruler of Lanka! Your kingdom and you will face danger from the son of the king of Ayodhya and the daughter of the king of Mithila," says the astrologer.
+
+"Who are the prince and princess who can endanger me? What are their names, and where are they?"
+
+The astrologer replies, "They have yet to be born and grow up; only later will they bring you grave danger."
+
+The ruler of Lanka must have laughed, and those in court with him must have laughed. Vibhishana says, "A woman and a man are to endanger my elder brother, the son born in Ayodhya and the daughter in Mithila? The grave danger arises only if they are born. Why not prevent their birth? Whichever king of Ayodhya is to father the bull who will harm my brother, I shall kill that king himself. If the king dies, where is the son, and where is the danger to Lanka's emperor? I shall likewise cause a corpse to fall in Mithila."
+
+When the astrologer comes, the kings of Ayodhya and Mithila have no children; they are not even married!
+
+As the younger brother sets out to help his elder, Narada enters the story, just as he enters every story.
+
+"Traveller of the three worlds! It is my good fortune that you have come to see this servant."
+
+"Well, Dasaratha, I hurried here because I wished to see you. Will I ever see you again? I shall not have that blessing."
+
+"Swami! Great sage! What dreadful words are these?"
+
+"King, when you hear that Dasaratha has died, will that not be even more dreadful? The thought exhausts me now."
+
+"Narada! What are you saying?"
+
+"King, I see you now for the last time."
+
+"Why? What danger will befall you? Will you not return to Ayodhya?"
+
+"I shall return to Ayodhya, but you will not be here, king!"
+
+"What? What!"
+
+"Dasaratha, how can I tell you? My heart chokes!"
+
+"Tell me, Swami! My mind is in turmoil."
+
+"King! To kill you..."
+
+"Who is setting out, Swami? Indra? Chandra? Who? Tell me."
+
+"Not they. Had one of them set out, I myself would have stopped him. The younger brother of Lanka's ruler, the heroic Vibhishana, is coming to kill you. An astrologer apparently said that a son born to you would kill Ravana. To save his elder brother, Vibhishana is coming to kill you."
+
+If a Rationalist Dramatic Society were to stage the Pampa Ramayana, it would present a conversation like this between Dasaratha and Narada. Narada informs both Dasaratha and Janaka of Vibhishana's vow. He also tells them how to escape.
+
+Accordingly, Dasaratha and Janaka install lifelike statues of themselves in their palaces, assume disguises, and leave their countries. Vibhishana destroys the statues, believes Dasaratha and Janaka to be dead, and returns to Lanka. Such is the Pampa Ramayana.
+
+While Dasaratha travels through many lands in disguise, Kaikeyini's swayamvara is held at a place called Kandaka Mangalapuram. He goes there and captures her heart. The maiden casts the garland; the kings who came for the swayamvara draw their swords. The wedding pavilion becomes a battlefield, the bridegroom proves a great warrior, and the wife becomes his charioteer. Dasaratha wins through the valour of the spear-eyed woman. Delighted, he grants Kaikeyi a boon. She accepts it on condition that she may claim it whenever she chooses, and Dasaratha marries her.
+
+Dasaratha returns with Kaikeyi to Ayodhya and rules. He marries several other beauties. Rama, Lakshmana, Bharata, and Shatrughna are born.
+
+Janaka, who too had wandered in disguise, eventually reaches Mithila and marries a maiden named Videhi. A daughter called Sita and a son called Prabhamandalan are born to Janaka. Let Janaki and her brother Prabhamandalan remain as two infants in a cradle at Mithila while we visit another realm.
+
+There is a realm called Rathanupura-Chakravala-puram. Its ruler has no child. Even people who need an heir only for their title are tormented by sorrow when they have no son. Would the ruler of a realm with such a long name be free of grief if he were childless? The king's mind became a furnace. A Vidyadhara wished to dispel his sorrow. Vidyadharas fly like wingless aircraft. One day this Vidyadhara travelled through the sky to Mithila.
+
+Meanwhile the infants had grown into moving stars, not acting stars, and were playing in a pleasure garden at Mithila. The Vidyadhara picked up Prabhamandalan, flew through the auspicious path, deposited the child at Rathanupura, and returned home when his task was done.
+
+The grieving king danced with joy. "My eye! My jewel! My sugar candy!" he cooed over the child. Prabhamandalan became prince of Rathanupura. The son of Mithila's king acquired a kingdom without a battle.
+
+Janaka sank into profound grief at the loss of his son. While he was immersed in sorrow, he heard the war drums of a people called the Kiratas. His mind became confused and he marched to meet the invading army. He sent a messenger to Dasaratha asking for assistance. Rama and Lakshmana came to Mithila, defeated the Kiratas, and helped Janaka.
+
+Sita's childhood had passed; she had reached the age of beauty. What else could arise in Sita toward Rama, who had fought like a lion, but love? Janaka decided that this tiger in battle was a fitting match for the flowering vine. He agreed to marry Sita to Rama. Do not sing the wedding benediction yet. The story continues, and Narada arrives.
+
+Prabhamandalan strolls in a garden at Rathanupura. Bored with the flowers he sees every day, he encounters something portrayed in a picture: not a flower, but a flower-faced woman. You know what follows. How would the rationalist dramatic company I desire make Prabhamandalan speak in this scene?
+
+"A matchless beauty unseen even in epic poetry! Are you merely a painting or are you real? Picture, machine that whirls my thoughts! Who are you? What country's maiden? Whose daughter?"
+
+Prabhamandalan would speak words of love, sing, dance in delight, and declare: "I shall marry no one but her. If she is not mine, I shall become a corpse. Love, love; where love is absent, there is death!"
+
+The king hears that Prabhamandalan has fallen in love with a portrait. "Wherever the maiden who captured my son's heart may live, she shall become my daughter-in-law," he resolves. Neither he nor his son knows that Narada painted the portrait, threw it into the beautiful garden, and kindled the desire. Do you know all of it? The portrait that powerfully stirred love in Prabhamandalan's heart is Sita's likeness. The elder brother has fallen in love with his younger sister.
+
+With Sita's image rooted in his heart, Prabhamandalan becomes mad with love. He does not know that Sita is his own sibling. Had he known that they slept together as infants in the same cradle, he would not agree to make Sita his beloved in the bedchamber. He knows she resembles a golden idol; he does not know she is his sister. Love, after all, is said to have no eyes.
+
+"Maharaja Janaka, welcome, welcome!"
+
+"King, why have you summoned me with such urgency?"
+
+"There is a reason. You will rejoice when I tell you."
+
+"Great happiness! What is the matter?"
+
+"Maharaja Janaka, my palace needs a lamp."
+
+"A lamp?"
+
+"Yes, a sacred lamp."
+
+"This is strange. I do not understand what you mean by a lamp."
+
+"I shall make it clear. What is the lamp of a household?"
+
+"A virtuous woman, a wife."
+
+"You are wise. Yes, a wife. My palace needs a beautiful lamp. The fortunate woman who becomes Prabhamandalan's wife will be the sacred lamp of my palace."
+
+"Yes, king, that is true."
+
+"Give Sita, who shines as Mithila's jewel, to be the sacred lamp of my palace..."
+
+"King, what can I do?"
+
+"Do not worry about how you can live apart from her. Sita may stay there for six months and here for six months."
+
+"No, no! That is not what I meant."
+
+"Do you wonder whether Prabhamandalan intends to marry Sita? I summoned you only after my son consented."
+
+"King, forgive me. I have promised Sita to another."
+
+"You gave your word before knowing my purpose. Give it to me now. You surely know that one who cannot alter his course does not know how to rule the earth."
+
+"Arrangements have been made to give Sita to Rama."
+
+"So many arrangements undergo changes."
+
+"Rama helped me when I faced great danger."
+
+"Was Sita to be his prize? Janaka! It is neither proper nor customary for kings to regard their daughters as gifts."
+
+"He entered the battlefield for me before he ever saw Sita."
+
+"Before he saw Sita, Prabhamandalan had entered a dream of love."
+
+"The fault..."
+
+"Belongs to youth. Further talk is useless. King, will you consent to give your daughter to my son or not? Do you want my kinship or my enmity?"
+
+"With a black cobra on one side and a deep pit on the other, what am I to do?"
+
+"An intelligent man throws the black cobra into the pit."
+
+"King, I cannot change the word I have given without cause..."
+
+"Prabhamandalan's love has tamed my anger like a snake shut in a box. Very well, Janaka. Let us establish a trial: can that hero whom you praise break a Vidyadhara bow in our possession? If he breaks the bow, Sita shall go to Rama."
+
+"As the king wishes."
+
+After this scene comes the breaking of the bow, followed by Rama's marriage to Sita. If it were staged as a drama, this is the course Pampa's story would take.
+
+Sita and Rama become wife and husband and live happily in Ayodhya. Dasaratha decides to crown Rama. Kaikeyi claims her boon, asking for the kingdom for her son Bharata and the forest for Rama. Rama goes into forest exile with Lakshmana and Sita.
+
+We said that Shambuka, son of Ravana's sister Sundaravati, lives in Patala Lanka. For twelve years he performs severe penance to obtain a magic sword. Lakshmana, who has entered the forest, kills Shambuka and seizes the magic sword.
+
+Shambuka's father Khara fights his son's killer. Ravana comes to assist Khara and sees Sita. Overcome by desire, and acting on the advice of a forest deity, he blows a conch to draw Rama away from Sita, captures her, and carries her to Lanka.
+
+The war between Rama and Ravana follows. Prabhamandalan then learns that Sita is his own sibling and supports Rama. The kings Sugriva and Hanuman also aid him. Ravana is killed, Sita is rescued from captivity, and Rama returns to Ayodhya and crowns himself. Thus the Pampa Ramayana ends.
+
+Pampa portrays Vibhishana first as a warrior. Amid the troubles that occur, he brings Narada forward and makes him stand at their centre. Viewed according to the course of the Pampa Ramayana, the story of Rama and Ravana differs in many respects from the Kamba Ramayana recited today. Still other Ramayanas tell it in still other ways.
+
+Yet this story, invented in different forms by many people, is called the scripture leading to salvation, a work fit for worship in the centre of the home, and our sacred history. Read and reflect upon this summary of the Pampa Ramayana, and then say whether the world of research can refrain from laughing in scorn at those who both know and do not know.
+
+(Dravida Nadu, 22 October 1944)
+
+## Translator's Notes
+
+The title refers to Pampa, the Kannada Jain poet traditionally associated with a Ramayana adaptation. It is not a comic alteration of Kamban's name, a misunderstanding the article explicitly anticipates.
+
+The railway anecdote is an extended analogy: Sadasivam possesses partial knowledge but mistakes it for complete knowledge, just as readers familiar only with one Ramayana assume that version exhausts the tradition.
+
+`சு.ம.` abbreviates `சுயமரியாதை`, the Self-Respect movement. Anna jokingly anticipates readers who might imagine Pampa as an ancient Self-Respecter merely because his narrative differs from Valmiki's.
+
+The source names Ravishena and his `இராமசரிதம்` as Pampa's Jain source. Historical spellings and the article's characterization are retained; this note does not independently adjudicate modern textual scholarship about the Paumacariya or later Kannada adaptations.
+
+`இரதநூபுரசக்கரவாளபுரம்` is a long place-name printed in the source. It is transliterated as Rathanupura-Chakravala-puram rather than silently replaced with a modern normalized form.
+
+The ticket inspector's demand `6-3-0` is an amount in the pre-decimal rupee-anna-pie notation; it is rendered as six rupees and three annas for readability, with the zero-pie component omitted.
+
+The Tamil source was reconciled against all eleven two-column scan pages. Corrections restore column order, names, dropped words, and obvious OCR debris while retaining printed period diction, colloquial dialogue, and argumentative tone.
