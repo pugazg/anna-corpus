@@ -16,14 +16,14 @@ Inventory source: `organized_contents/_merge_state/source_map.csv`
 | paettigal | 0 | 0 | 0 | 0 | 26 | 26 | 26 | 0 | 26 | 26 | 26 | 0 |
 | root | 0 | 0 | 0 | 0 | 5 | 5 | 5 | 0 | 5 | 5 | 5 | 0 |
 | sirukathaigal | 108 | 108 | 108 | 0 | 1 | 0 | 0 | 1 | 109 | 108 | 108 | 1 |
-| sorpozhivugal | 241 | 176 | 176 | 65 | 296 | 0 | 0 | 296 | 537 | 176 | 176 | 361 |
-| **All included categories** | **962** | **837** | **837** | **125** | **1549** | **118** | **118** | **1431** | **2511** | **955** | **955** | **1556** |
+| sorpozhivugal | 241 | 177 | 177 | 64 | 296 | 0 | 0 | 296 | 537 | 177 | 177 | 360 |
+| **All included categories** | **962** | **838** | **838** | **124** | **1549** | **118** | **118** | **1431** | **2511** | **956** | **956** | **1555** |
 
 ## Verification
 
-- All 955 completed files are bilingual and retain their organized source text exactly.
+- All 956 completed files are bilingual and retain their organized source text exactly.
 - `Source retained` is an automated fidelity check; it does not claim character-by-character comparison against every scan.
 - Bilingual or source-retention issues: 0.
-- OCR-origin progress: 837 of 962 files translated (87.0%).
+- OCR-origin progress: 838 of 962 files translated (87.1%).
 - HTML-origin progress: 118 of 1549 files translated (7.6%).
-- Overall progress: 955 of 2511 files translated (38.0%).
+- Overall progress: 956 of 2511 files translated (38.1%).

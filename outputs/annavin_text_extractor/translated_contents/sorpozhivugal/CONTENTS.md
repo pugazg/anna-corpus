@@ -467,7 +467,7 @@ Total source works: 537
 - [தி.மு.க. பற்றி குசராத்தி ஏடு தந்த செய்தி](thimuka_patri_gujarath.md) - pending
 - [sorpozhivugal/thimuka_pothu](thimuka_pothu.md) - translated
 - [sorpozhivugal/thimuka_thaer_sira](thimuka_thaer_sira.md) - translated
-- [sorpozhivugal/thimuka_thuvak](thimuka_thuvak.md) - pending
+- [sorpozhivugal/thimuka_thuvak](thimuka_thuvak.md) - translated
 - [தி.மு.கழகம் நமது குலக்கொடி](thimukazhagam_namathu_kulakkodi.md) - pending
 - [தி.மு.கழகத்தினர் ஆதரிப்பர்!](thimukazhagathinar_aatharippar.md) - pending
 - [தி.மு.கழகத்தின் ஒரே செல்வம் தோழமைதான்](thimukazhathin_orae_selvam.md) - pending

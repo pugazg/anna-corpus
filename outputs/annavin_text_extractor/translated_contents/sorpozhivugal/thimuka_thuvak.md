@@ -1,4 +1,10 @@
-# sorpozhivugal/thimuka_thuvak
+# தி. மு. க. துவக்க விழாவில் / At the Inaugural Meeting of the DMK
+
+**Tamil title:** தி. மு. க. துவக்க விழாவில்
+**English title:** At the Inaugural Meeting of the DMK
+**Source file:** `sorpozhivugal/thimuka_thuvak.md`
+
+## Source Tamil (verbatim)
 
 - Source image folder: `/Users/pugazhendhirajendran/Documents/Codex/2026-07-09/https-www-annavinpadaippugal-info/outputs/annavin_text_extractor/ocr_images/sorpozhivugal/thimuka_thuvak`
 - OCR language: `tam`
@@ -662,3 +668,147 @@
 உங்கள் வழியே சர்க்காரை எதிர்த்துச் சிறைச்சாலை செல்லத்தான்
 வேண்டுகோள் விடுக்கிறோம். துவக்க நாளாகிய இன்றே! இன்றே”
 என்று கூறி முடித்தார்.
+
+## English Translation
+
+This is Scholar Anna's speech at the inaugural meeting of the Dravida Munnetra Kazhagam, held on the evening of 17 September 1949 at Robinson Park, Royapuram, Madras.
+
+Comrades!
+
+We have assembled after many days. This meeting is intended to explain our objective. The rain is falling heavily, the crowd that has come is immense, and many people are to speak. Comrades have arrived from many districts, people engaged in important work for the movement, and all of them are to address you. With heavy rain and many speakers, this is indeed a difficult situation. An unrelenting downpour, a limitless gathering; mothers are suffering, and you remain standing in the rain. It is difficult, yet you manage.
+
+For some time the Kazhagam's work in the country lay inactive in just such a condition of difficulty. We corrected that situation. The Dravida Munnetra Kazhagam has arisen; a new organization has now been formed. This meeting is to explain why an organization bearing that name arose and for what purpose it was established.
+
+## Am I the Cause of This Situation?
+
+Some will say I alone caused this situation and this arrangement. I am speaking now, you are listening, and heavy rain is falling. What do you think? Am I responsible for it? Did I invite or summon the rain? No. Just as I am not responsible for the rain, I am not responsible for the stagnation and inactivity that arose in the Kazhagam, yet people will blame me. Members of the public and mothers who attended will say, “Why did I go to that Annadurai meeting? There was nothing but rain. I became thoroughly soaked and stood listening with water dripping from me.”
+
+What did I do? The leader departed from policy and from the path of reason. I sincerely believed it was wrong and felt it should not happen. Was it a crime to think so? I stated my view with reasons. I expressed my pain. Was expressing it a crime? Is stating a principle a crime? Tell me, comrades.
+
+It was not I alone. Many comrades like me, many mothers, many branches, working people, labour comrades, and people in every hamlet and village said, “This arrangement must not take place; abandon this talk of marriage.”
+
+When I heard of Periyar's marriage, I wept and became weary with distress. More than that, I communicated my thought that I would stand aside. My disposition and temperament reject difference, division, bitterness, and conflict as wrong. I therefore decided that, as far as I was concerned, the magnanimous course was to withdraw from party work.
+
+Many comrades like me did not merely refuse to accept Periyar's course and marriage arrangement; they condemned it, cried out, and pleaded in anguish that it should not happen.
+
+Was it a crime for me to state that which I sincerely regarded as harmful, knew to be wrong, and even ordinary people agreed was contrary to reason?
+
+Periyar offered his explanation: “It is my private matter; those opposing it are selfish people and a conspiratorial group.” The wound in people's minds did not heal. They said they would not work with such a leader. He did not listen. They waited for him to withdraw, but he did not. The overwhelming majority who could no longer work with him, including leading figures of the Kazhagam, met, deliberated, and reached a decision. That decision is the birth of the Dravida Munnetra Kazhagam. It is not a rival Kazhagam.
+
+The Dravida Munnetra Kazhagam has arisen not in competition with the Dravidar Kazhagam, but upon the same path of principle and upon the Dravidar Kazhagam's fundamental policies. There is no change or conflict in fundamental principles and ideas. Reform in the social sphere, reform in the economic sphere, the goal of equality, and political liberation from northern imperialism are the doctrines of the Dravida Munnetra Kazhagam.
+
+The Dravidar Kazhagam was established to serve a particular good and society: to free the poor and humble from their lowly condition, make a path of life for those without means to live, abolish want and cruelty, and create an order in which all are one community. Standing upon the path of those principles and never neglecting that objective, the Dravida Munnetra Kazhagam will labour for the same arrangement.
+
+We did not withdraw and leave because we disliked the principles or possessed crooked minds. We wanted the principles, and wanted them conducted properly for the welfare of the country and its people. We avoided a clash and abandoned the attempt to seize the Kazhagam solely out of magnanimity. Moreover, the leader himself has said he trusts no one and can trust no one.
+
+He has accused the true volunteers who built the party and Kazhagam through their labour—the young people who ruined their own lives in its service—of being idlers, a childish group incapable of action, and people who do not know how to work.
+
+If the head of a family constantly tells one son, “You are lazy, unfit for work, and useless,” what becomes of the son? Will not the heart of a genuinely hardworking son break? More than that, will not a son with some judgement and self-respect leave home, pursue an occupation, strengthen his position, and call his father to say: “Look, Father! You called me useless, unfit for work, and lazy. Look at my ability. You gave us no opportunity to act; you carried every responsibility yourself and continually abused us in irritation. Look at our work—its skill and success.” Will he not say and show this?
+
+It is false and contrary to truth to say that I had profound differences with Periyar or disliked him. My association with him began in 1934. I had then sat the BA Honours examination and did not yet know the result. A youth conference was held at Tiruppur near Coimbatore. Periyar and I first met there, and I developed attachment and affection for him. I greatly liked his reformist ideas.
+
+Periyar asked, “What are you doing?” I said, “I am studying; I have taken my examination.” He asked, “Are you going to seek a government post?” I answered, “No, I do not wish to take a post. I wish to enter public life.” From that day he became my leader and I became his adopted son. In public life, from that day until now, I have remained an adopted child, including to his family. Even now that connection between us has not disappeared. Why, his elder brother's son Sampath is now my adopted son. I associated with Periyar for fourteen years and have been in public life for fourteen years.
+
+In all those years, he is the only leader I have known, recognized, and seen. I have never worked under another leader and have never wished to; nor will I. For this very reason, we have not appointed a president even for the Dravida Munnetra Kazhagam, and I do not now consider one necessary.
+
+I state this with the utmost clarity: the Dravida Munnetra Kazhagam is in no way opposed to the Dravidar Kazhagam and has no opposing objective. The principle is one and the doctrine is one. Most who were there are now here. It is like members of a family residing upon a separate farm because they dislike the family head's conduct. We possess not the slightest hostility.
+
+Just as the rain falling during this meeting causes some discomfort, an occasional drizzle may arise between us in the form of words. Do not be troubled. Even that may come from the other side.
+
+Periyar forgot us, neglected us, called us useless, spoke and acted in ways that wounded us, and continues to do so. We do not wish to fight or clash with him further, because we regard that as lacking wisdom.
+
+What sudden gain would come from condemning his conduct, either to me or to the friends standing with me? None. Do I not know what various people will say? I know. Some will abuse and denounce me in many ways for criticizing Periyar. I know a group will mock the man praised as a scholar until yesterday by asking today, “What does he know?” Those who praised the film story I wrote in many ways will sarcastically ask, “What is in it?” Those who until yesterday found my *Kambarasam* sweet will now call it stale fermented gruel.
+
+I spoke in English on the radio about Bharati long ago under the title “Bharati, the People's Poet.” They praised me then: “Ah, look at our Anna; he portrays the true Bharati.” Today they will denounce me: “Look at the fellow attending a Bharati festival and becoming Congress's good boy.” I know all this will come and some will do it. Knowing it, a sense of duty and human decency nevertheless made me say Periyar's marriage was improper.
+
+I voluntarily vacated my place and left. Had I wished, I could have remained there with every title. Was my position there ordinary or easily obtained? No. If he occupied the place of a god, was I not the priest? If he was the *thambiran*, was I not the commanding *thambiran*? If he was the leader, was I not praised and celebrated as the commander?
+
+Am I mad, that I would ruin all these titles and this fame? Am I possessed, that I would destroy my comfortable life in the Kazhagam through empty boasting? Or have I submitted some application to the Kumararaja seeking another job after leaving this one? I have not. What benefit would I gain by condemning him? Think about it for a moment.
+
+It is said that I held views contrary to Periyar. Although I differed on a few matters and differences existed for a long time, I did not worry about them. I cooperated as far as possible. When I could not, I stood aside with the greatest dignity. My attitude was that the Kazhagam would proceed according to Periyar's way during his lifetime and that we could decide what to do afterward.
+
+When some comrades heard about the marriage, they became extremely angry and agitated. They trembled with emotion and wished to take immediate action. Comrade S. Gurusami played the leading role among them. He told me: “Anna, we must not remain quiet. We must immediately hold a meeting of condemnation in Madras. Arrange it; I myself will preside and conduct it.” He raised that heroic cry. I was the one who stopped it. I calmed him, saying we should not react in anger, that we should issue an appeal and wait to see the result.
+
+Those who witnessed the Thoothukudi conference later had to witness the Erode conference too. What did at least some people in the country say after the Thoothukudi conference? “Annadurai did not attend. He is finished—not merely in the Kazhagam; he has no public life left. His public life has set.” It was reportedly even said that if he came out separately, his life itself would end.
+
+That condition changed very quickly. In Periyar's own town of Erode, Periyar himself arranged a great conference under my leadership. Would this address of welcome fail to catch his eye at a moment when he needed consolation? I, whom he treated affectionately, am no longer there. Turn around and Sampath is absent. Go to Kumbakonam and Kudanthai K. K. Neelamegam is not there to welcome him. In Tiruchi there is no Parankusam; in Madurai no Muthu; Virudhunagar Asaithambi, Thoothukudi Neethimanickam, S. V. K. Sami—none of them can be seen. Kovilpatti Vallimuthu, Pethampalayam Palanisami, and Natarajan, Govindasami, and all the others in Madras have left Periyar. What labour and determination these people possessed. Can Periyar avoid longing for those who are no longer with him? That longing must come. Will he then be happy?
+
+He may act and display happiness before others. Many tell me I act well. That is a small part of what I learned from Ayya, Periyar. Ayya can act very well as though he were happy. In truth, happiness will not exist and cannot exist. No person with a human heart could feel it.
+
+We have begun work in the Dravida Munnetra Kazhagam. They say I am very lazy and cannot labour like Periyar. I agree that I cannot work as he does. Why? He possesses the strength to work and sufficient means. I do not possess all his means or power. More than that, I believe working as Periyar does is wrong, unnecessary, and contrary to democracy.
+
+I hold that it is wrong for one person alone to carry every responsibility and that it is a duty to give others opportunity and facilities. Consider whether the charge of laziness suits me. For eight years I have conducted the weekly *Dravida Nadu*, running it alone from Kanchi. Is that the product of laziness? Except for one or two pages, I write everything in that journal. Is that laziness? *Maalai Mani* operates in Madras and *Dravida Nadu* in Kanchi. *Maalai Mani* is a daily, and I serve as editor of both. Is that laziness?
+
+Along the way I have written several rationalist propaganda plays. Is that laziness? I have acted in some of those plays. Is that laziness? I have written stories for two films. Is that laziness? Another ten or fifteen books have been published. Between all this, I have travelled repeatedly to propaganda meetings. Is that laziness? The answer is plainly no.
+
+Why do I say this? To show that I am not lazy, that I possess the ability and strength to accomplish work. I certainly possess skill, knowledge, capacity, and enthusiasm. Comrade Gurusami recently examined youth and age and wrote at length about the ability of old men. Am I a schoolboy still leaping about? No. I have reached forty, an age combining a young man's energy with an elder's patience and practical judgement. A man who has crossed forty but remains below fifty is in the decade said to lie between youth and old age. Periyar formed his Self-Respect doctrine in that very decade, between forty and fifty. I too can act, methodically and according to necessity.
+
+Another reason is alleged: that I oppose the marriage arrangement from self-interest. What interest of mine suffered while I was in the Dravidar Kazhagam? None. Did Periyar ever forbid me to write plays? No. If I were selfish, what did I lose by remaining there? Nothing. At times I may have disliked the leader's course or found his view unacceptable and unsuitable. Even then I cooperated as far as possible. Occasionally I stood aside delicately and magnanimously. For a time I even embraced political renunciation. Today I am denounced without cause. I do not mind; he is the very man who praised us yesterday.
+
+Even now a scene runs before my mind's eye. I was working in the *Viduthalai* office at Erode. I wrote an editorial about the Madras Corporation titled “The Great Men of Ripon Building.” That evening, while I was walking on the top floor of Periyar's three-storeyed house in Erode, Periyar climbed all three flights with difficulty, patted me on the back, and praised me warmly: “Annadurai, your editorial was very good; I am extremely pleased.”
+
+I replied: “Why climb all this way with such difficulty merely for that? You could have told me without trouble when you came downstairs for your meal.” Periyar said: “It appeared good to me and I wished to say so immediately. I am not accustomed to praising others, so I came and told you at once.” That one incident is enough for me.
+
+Even if he scolds me for the rest of my life, it does not matter; he scolds only after having praised me. I am better off than those who have been scolded from beginning to end and still remain there. I calculated profit and loss: his praise was greater and his condemnation small. That is why I do not worry about his scolding.
+
+The Coimbatore conference was the occasion when I openly expressed a little dissatisfaction to him. I asked: “What was the secret you discussed when you met Achariyar at Tiruvannamalai? Tell us openly.” I did not initially wish even to ask this, but events in the country compelled me. Many who met me mocked: “When he came before, you carried black flags in protest and went to prison. Now why is your leader meeting him secretly at Tiruvannamalai?” The situation had become ridiculous.
+
+To clarify it, when I next met Periyar at that conference I asked what secret had been discussed at Tiruvannamalai. I did not stop there. I also said that if revealing what had happened appeared harmful to the country and its people, there was no need to disclose it and he should not. I made clear that I was not compelling him to speak.
+
+When Periyar spoke at Coimbatore, he said he was about to undertake some intense plan and would first sacrifice himself. Hearing this frightened me. Why should he sacrifice himself? He must not, I thought. But when I recently heard the manner of his speech at Tiruchi, my earlier fear disappeared. Periyar said there: “I wish to live at least another ten years. It is for that purpose that, under the name of marriage, I arranged a companion for my life.”
+
+May he live well. Let him live ten years or twenty; like the old man of China, the elder of Burma, and the great man of Turkey. Let him live to the age of 125, as Gandhi wished to do. Let him see with his own eyes the great work of the Dravida Munnetra Kazhagam. Let him rejoice to see us fulfil his principles and programme. If there is error, let him correct it; if our path is wrong, let him point it out.
+
+Whether it is the Dravidar Kazhagam or the Dravida Munnetra Kazhagam, though the formations are different, the principle and doctrine are one and the programme is not different. That condition must endure. It must fall like a hammer upon the citadel of orthodoxy and northern imperialism, which trumpet that the army has split into two. If the two Kazhagams attack northern imperialism from two directions, destroy the forest of orthodoxy, and create gardens of equality, the flowers, vegetables, and fruits blooming there will all signify the Dravidian awakening and flowering.
+
+Both gardens are needed; they need not and must not be hostile to one another. Whichever one flowers, the garland will belong to the Dravidian people. We require that good thought. We must have no fence-jumpers who cross into the other garden at midnight and destroy its beds.
+
+As the dark sky brightens after the rain stops, today the new Kazhagam has been formed and its workers have set out with the speed of progress, without conflict.
+
+Spreading the principles is our first duty. We must utterly discard feelings of hostility.
+
+One may ask: “You speak so much against difference, division, and conflict. Why could you not work from within the old organization? Why withdraw and form another party?” The question is fair. We explained that even when the person who errs is the leader, an error remains an error. We have reached a condition in which we cannot work with him. A great burden has accumulated: the degrading statement that no one can be trusted, the accusation that we are useless, the denunciations and abuse. It is impossible to bear these and work with him. We therefore withdrew magnanimously and work in another organization to fulfil the ideal.
+
+By nature I prefer to reduce my workload as much as possible. Yet such a person has withdrawn and begun serving through another party. Why? My friends and most who played important roles in the Kazhagam had grown so weary of public life that they were close to abandoning it altogether. Matters had reached a point where cartoons could portray the Dravidar Kazhagam as destroying itself. To prevent that condition, the Dravida Munnetra Kazhagam now proceeds separately and intensely along the same path Periyar laid down.
+
+My attachment and affection for him still have not vanished or released me. I ask you, comrades: what is important to us, the ideal or Periyar? We decided that the ideal is necessary, not Periyar. With that, the problem ended. Before our eyes now stand Delhi imperialism, fascism that ruins the people, and antiquity waiting to spring from concealment. These are what must be abolished.
+
+We shall not rest until antiquity and fascism are defeated. We shall work and see a worthwhile result. A time will come when Periyar's heart is glad and he says, “The fellows are not bad; they are doing useful work.”
+
+I did not attend the Thoothukudi conference. A written question reached Periyar asking, “Why has Anna not come?” He dismissively replied: “Why has Muthan not come? Why has Murugan not come? Next you will ask why M. S. Subbulakshmi and Sundarambal have not come.” Yet at the later Erode conference, circumstances changed enough for him to say, “Anna has come; I shall hand him the key to the box.” He said he gave me the key, but it fitted no lock and was therefore useful for nothing.
+
+Nevertheless, just as Thoothukudi changed into Erode, let us work with the conviction and enthusiasm that today's condition too will change. Let us continue the campaign for sound knowledge that we have conducted in the country. We shall fight fascism, antiquity, and the forces ruining the nation.
+
+Today Section 144 orders abound. Books are confiscated; demands for security deposits from presses neither cease nor diminish. Only yesterday, police showered questions about my book *History of the Ideal*: “What is that? What is this?” The government imagines it may do anything to Dravidian people labouring to abolish Delhi's fascist domination and to rationalists seeking liberation from antiquity's grip. It confiscates one book after another and continually applies repression.
+
+Very soon the Dravida Munnetra Kazhagam will make its response visible in this matter. The government-confiscated books will be sold openly in China Bazaar. We shall hear volunteers announcing prices: “*History of the Ideal*, six annas; *Ravana Kaviyam*, six rupees; *Arya Mayai*, six annas; Asaithambi's book, four annas.” By the time the authorities think they have located the books, they will have been sold. The printed cover may say *History of the Ideal* while sheets of paper lie inside; yet the seller will announce *History of the Ideal*. In this manner all confiscated books will be sold.
+
+The government is also banning our movement's plays, another improper act. The first banned play was the revolutionary poet Bharathidasan's *Hiranyan, or the Peerless Hero*.
+
+I ask and plead with the leading members of the Dravida Munnetra Kazhagam: their principal and first task must be to devise plans to stage this play before the public in place after place.
+
+We need not foster hostility, make room for our opponents, and become fools. As I mentioned earlier, how boldly and happily did *Kalki* magazine write that there was no party opposing Congress: the Hindu Mahasabha had no work; Communists were rioters; Socialists would not win; the Dravidar Kazhagam would destroy itself. My friend, that prediction rests upon anger and is the offspring of desire. Abandon it. The tree has not died; a grafted sapling has emerged from it, and it cannot be cut away.
+
+When I started *Dravida Nadu*, I spoke at a meeting in Kudanthai. A written question asked me: “When *Kudi Arasu* exists, why are you starting *Dravida Nadu*?” I answered: “*Kudi Arasu* exists. *Dravida Nadu* has sprouted in Kanchipuram to express the same idea and spread the same principle.”
+
+The Dravida Munnetra Kazhagam is such a grafted sapling. The soil is abundant—the same earth. Many stand ready to irrigate it, prepare the ground, and form its beds. The day must come when the grafted sapling flowers, bears fruit, and hangs heavy with it. A grafted sapling is not hostile to the mango tree. It is not contrary to the Dravidar Kazhagam; it possesses the same idea.
+
+We have no money. People reportedly say, “What money do these fellows have? They will shout for a few days and then become quiet. What can they do without money?” At the same time, I am denounced for earning money by writing film stories and acting in plays. Seeing these two kinds of talk genuinely pleases me. We possess no money but have a way to conduct the party. Whether the allegation about my earnings is true or false, accepting it gives us courage that we can follow that path, earn money, and conduct the party.
+
+Money is only an instrument; it is not indispensable to every undertaking. There need be no compulsion that every task requires it. Through our labour and determination, we can eliminate or reduce many monetary needs.
+
+Most importantly, the Dravida Munnetra Kazhagam must form a vanguard to fight the government's suppression of freedom of writing and speech. I welcome Socialist comrades to participate. I call upon Communists to cooperate.
+
+Let us fight with the cry: “Do not seize freedom of speech. Do not obstruct freedom of writing. Do not confiscate books.”
+
+“Periyar! We who gained training and maturity from you appeal to follow your path by opposing the government and going to prison. On this very day of inauguration—today itself, today!”
+
+With these words, he concluded.
+
+## Translator's Notes
+
+The title uses the historical abbreviation `தி. மு. க.` for the Dravida Munnetra Kazhagam. `சுவீகாரப் புத்திரன்` means an adopted son and expresses Anna's political and familial closeness to Periyar here. `கம்பரசம்` is retained as the title of Anna's critical literary work. The speech's account of the split and the marriage is translated as Anna's stated position, without editorial endorsement.
+
+`கட்டளைத் தம்பிரான்` is a monastic-administrative title used humorously in Anna's hierarchy of god, priest, and commander; it is retained by transliteration. `அரசியல் துறவறம்` is translated as “political renunciation,” preserving Anna's metaphor of temporary withdrawal from public activity. Personal and newspaper names are transliterated conservatively from the scan.
+
+`வைதீகபுரி` is rendered as the “citadel of orthodoxy,” preserving the personified political image. The paired garden and `ஒட்டுமாஞ்செடி` metaphors describe the two Kazhagams as separate growths from the same ideological stock. One faint sentence on scan 14 about the contents placed inside a banned book's printed cover remains textually uncertain; the translation preserves only its secure practical meaning and the uncertainty is recorded separately.

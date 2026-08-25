@@ -156,6 +156,51 @@
         }
       ],
       "tokenCorrections": []
+    },
+    "sorpozhivugal/thimuka_thuvak.md": {
+      "phraseCorrections": [
+        {
+          "wrong": "17-9-19492 அன்று",
+          "right": "17-9-1949 அன்று",
+          "reason": "scan 1 clearly prints 17-9-1949 with no trailing footnote digit"
+        },
+        {
+          "wrong": "தி. மு. ௧. துவக்க",
+          "right": "தி. மு. க. துவக்க",
+          "reason": "scan 1 clearly prints the abbreviation தி. மு. க."
+        },
+        {
+          "wrong": "என்னைப் பெரியார் திருமணத்தைத் தகாதது\n\nஎனது இடத்தைக்",
+          "right": "என்னைப் பெரியார் திருமணத்தைத் தகாதது என்று கூறிட வைத்தன.\n\nஎனது இடத்தைக்",
+          "reason": "scan 6 contains the dropped ending என்று கூறிட வைத்தன"
+        },
+        {
+          "wrong": "[9374ஆம் அண்டில்தான்",
+          "right": "1934ஆம் ஆண்டில்தான்",
+          "reason": "scan 4 clearly prints 1934ஆம் ஆண்டில்தான்"
+        },
+        {
+          "wrong": "பகிங்கரமாக விற்பனை",
+          "right": "பகிரங்கமாக விற்பனை",
+          "reason": "scan 13 clearly prints பகிரங்கமாக"
+        },
+        {
+          "wrong": "பமைமைப் பிடியினின்றும்",
+          "right": "பழமைப் பிடியினின்றும்",
+          "reason": "scan 13 clearly prints பழமைப்"
+        },
+        {
+          "wrong": "ஓவ்வொரு புத்தகமாகப்",
+          "right": "ஒவ்வொரு புத்தகமாகப்",
+          "reason": "scan 13 clearly prints ஒவ்வொரு"
+        },
+        {
+          "wrong": "“பேச்சுிரிமையைப் பழிக்காதே, எழுத்துரிமையைத்",
+          "right": "“பேச்சுரிமையைப் பறிக்காதே, எழுத்துரிமையைத்",
+          "reason": "scan 15 clearly prints பேச்சுரிமையைப் பறிக்காதே"
+        }
+      ],
+      "tokenCorrections": []
     }
   }
 }
