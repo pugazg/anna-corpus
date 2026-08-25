@@ -1,4 +1,10 @@
-# katturaigal/panditharin_perurai
+# பண்டிதரின் பேருரை! / The Pandit’s Great Address!
+
+**Tamil title:** பண்டிதரின் பேருரை!  
+**English title:** The Pandit’s Great Address!  
+**Source file:** `katturaigal/panditharin_perurai.md`
+
+## Source Tamil (verbatim)
 
 - Source image folder: `/Users/pugazhendhirajendran/Documents/Codex/2026-07-09/https-www-annavinpadaippugal-info/outputs/annavin_text_extractor/ocr_images/katturaigal/panditharin_perurai`
 - OCR language: `tam`
@@ -750,3 +756,303 @@ of authority, even though they might be congressmen.”
 மனப்பண்பையும் மிக நன்றாக அறிந்திருக்கும் காரணத்தாலேதான்,
 பண்டிதர் இந்த உயர்தரமான உண்மையை உரைத்தார். அவருக்கு நமது
 நன்றி.
+
+## English Translation
+
+“Do you know how closely they watched, the women?” the king of comedy asked me.
+
+He asked as soon as we returned home after the *Kinthanar* kalakshepam. “Yes, the mothers watched very closely,” I said. It was true that Kinthanar’s story, its idea, and the manner in which he narrated it captivated the listeners. That was why I said they had paid close attention.
+
+“To what?” my friend asked.
+
+I gave no answer. What answer could I give?
+
+“To this!” he said, pointing to the diamond necklace he wore. We all laughed. He explained that all those ladies had watched not the story but that diamond necklace with the keenest attention. We laughed until we doubled over.
+
+“Yes, brother!” several others agreed.
+
+% % %
+
+Pandit Jawaharlal Nehru came to Madras last week, stayed for three days, and delivered several important speeches. As I wondered whether those who attended the meetings had looked merely at the diamond necklace or followed the story and benefited from it, that incident of four years ago returned to mind. I read the newspapers and asked many who had attended: what in the Pandit’s visit was distinctive, important, captivating, and useful to the people’s future welfare?
+
+It became evident that many had behaved like people looking at the diamond necklace.
+
+The size of the gathering and the scale of the jubilation were the special features many mentioned.
+
+Some spoke of how he fondled a child and occasionally grew angry. Others noted his lash at the League and his whipping of the Nizam.
+
+Yet Nehru’s Madras speech contained one truly distinctive matter worthy of public attention and a place in political literature. Most seem not to have noticed it.
+
+The Pandit’s great Madras address explained many truths, new but necessary, to everyone in general and especially to members of his own party.
+
+Many who lost themselves in the festival spectacle forgot that distinction. We do more than praise it. We regard it as strengthening medicine that every public worker with a weary heart should absorb to gain courage.
+
+The affection Madras showed Pandit Nehru was immense in extent and exalted in quality. We regard the portion of his address that we consider distinctive as a fitting gift from him in return for the magnificent reception the people gave him.
+
+Like fruit hidden among leaves, this distinction lies concealed among the many portions of his address that readily delighted most minds. Our purpose is to bring it to public attention.
+
+The Pandit spoke that day about many questions surging through the people’s minds. That is not the distinctive point.
+
+He stressed the necessity of democratic government. Here lies the distinction.
+
+He explained that people must carefully examine the rulers’ plans, expose defects where they exist, propose alternatives, and thereby serve the country.
+
+He warned that if nobody remained to point out faults, or if the people lost the capacity to discover them, genuine democracy could not grow. There would be no good government, and those who came to rule would become arrogant.
+
+He said all this before a gathering of several hundred thousand. An inquiry into how many hundreds actually noticed that principle would be interesting.
+
+“You went to the Jawaharlal meeting, did you not?”
+
+“Yes. Good heavens, what a gathering! An ocean of humanity.”
+
+“I was unlucky. I tried so hard but could not come. Some urgent work.”
+
+“I tell you truly, not seeing such a sight...”
+
+“Why increase my pain? I already said briefly that I was unlucky.”
+
+This is how one who attended and another prevented by work would converse.
+
+There was joy in seeing him and joy in seeing the crowd that came to see him: a festival of darshan. That would naturally be the first and dominant feeling.
+
+He had participated in a country’s freedom struggle. Over many years, his life had contained many incidents capable of creating affection and attachment among the public. He had spent a large part of his life in prison and was now the nation’s prime minister. When such a Pandit Nehru visited Madras after nearly ten years, the desire to see him was bound to arise in hundreds of thousands.
+
+During the ten years in which he had not visited Madras, he had nevertheless appeared daily before the public eye.
+
+“The Pandit met the Maharaja of Bharatpur today.”
+
+“The Maharaja of Kashmir welcomed Nehru at the airport.”
+
+“The Pandit spoke for two hours in Calcutta.”
+
+Every day the newspapers reported his work and noble qualities.
+
+Thus he remained constantly before the people’s mind, even though the people of Madras had not seen him for ten years. It was therefore natural that Madras should resemble a festival of darshan. But the people used those three days only to rejoice at seeing him and delight in recounting stories about him. They did not use them to grasp the rare truths in his address.
+
+Ask those who attended. Most people are inclined to regard great leaders as holy men and seeing them as a blessing. We have already given the conversation of two such people.
+
+Let us now see how politically minded people who listen to leaders’ speeches thought and spoke after the festival.
+
+“Splendid! Nehru gave them a proper dose.”
+
+“A dose? It was a whipping!”
+
+“Sparks of fire flew from Nehru’s speech.”
+
+“My whole body began to boil.”
+
+That is how enthusiasts spoke.
+
+Those fond of a little detail said:
+
+“Nehru spoke clearly and decisively to the Muslim League.”
+
+“He spoke firmly about Hyderabad too.”
+
+“He even hinted that the two were two ends of the same problem.”
+
+Some said Nehru had scorched the Communists. Others said he had vowed to cut off the tail of communalists. Still others said the Pandit had declared that provincial mania must not be tolerated and would be resisted and eradicated with all their strength.
+
+People noticed and relished these “attacks”: he condemned this, scorched the Communists, and lashed provincial mania. But did they notice or relish what the Pandit said about democratic principle to the same degree? It is very doubtful. It was just like the Kinthanar incident.
+
+Even among those who noticed, would many reflect on why the Pandit spoke so extensively about democratic doctrine and what thoughts must have moved through his mind? Again, we must say it is highly doubtful.
+
+Among the many published pictures of Pandit Jawahar’s visit, we ask those capable of learning from an image to study closely the photograph of Nehru standing to one side of the stage, holding the pole, as he looks upon the vast crowd. Study it not now, but after another week.
+
+It is a picture that reveals the true Jawahar’s heart.
+
+What an immense crowd! What enthusiasm! What affection and attachment! Is all this not a picture of the people’s deep confidence that we and our associates possess the power to do definite good for this country and will do it? How much the people expect, the Pandit thinks as he sees the floodlike crowd before him.
+
+He recognizes that the spectacle gives not only the people’s enthusiasm, happiness, and emotional awakening, but also the fear that their expectations must be fulfilled and that the immense responsibility for fulfilling them falls upon us.
+
+% % %
+
+Somasundaram opened a box. Bundles of currency notes lay inside.
+
+Paranthaman, watching beside him, was delighted. “Somu, how much?” he asked.
+
+“Half a lakh,” Somu replied sadly.
+
+“Why do you speak sadly?” asked Paranthaman, who did not understand the details.
+
+“Fool! This is a loan I obtained from the bank by mortgaging my lands. It is a burden I assume in my life. With it, the business I begin must prosper and earn a profit; I must repay this debt, remove the load placed upon my chest, and gain peace. How could this sum give me only delight and not fear and anxiety?” Somasundaram explained.
+
+In a democracy, receiving the public’s great support resembles the loan Somasundaram received. It is a cause not only for joy but also for worry and agitation.
+
+Pandit Jawahar, who understands political subtleties and the public mind, knows this well. Those absorbed in the festival of darshan do not.
+
+An ordinary person seeing such a spectacle would feel only joy: “Ah, nobody else possesses influence like ours; how fortunate we are!” But the Pandit did not think that way. The scene stirred thoughts about democratic government in his mind, and that is why he spoke about democratic doctrine at the meeting.
+
+Do not worship me, expect limitless things from me, and then go away, he said. Do not imagine your duty ends with praising, welcoming, and entertaining me. Do not place the entire burden upon me by assuming I shall complete every task. This is the age of popular government, the days of democracy. You must think and act accordingly. That is your duty, and there is more.
+
+Look at the photograph now. His very appearance shows him speaking these words.
+
+His remarks on Kashmir, Hyderabad, the League, and the Communists were his comments on particular events. When those events end in one way or another, the need for those comments will also end; they will no longer be required. His speech on democracy is not of that kind. It is a rare idea that belongs in political literature, enduring and important. Yet this important speech is precisely what most people first forget. Those who excitedly recount, “The Pandit said this and spoke that way,” do not say, “The Pandit spoke thus about democracy, and this is what it means.” They will not.
+
+We believe the country should take two principal benefits from the Pandit’s present visit: his observations on democracy, and the seed of science he planted at Karaikudi.
+
+Most people will not notice the Pandit’s speech about democracy, although the form of government conducted by those same people is called democracy.
+
+In these days immediately following the freedom struggle, people speak of scenes from the field and the extraordinary courage displayed by commanders and soldiers. Democratic consciousness, and the examination of leaders and their programmes according to that doctrine, will not arise easily. Most will possess a disposition toward worship. Only a few can remember democratic doctrine and bring it to the country’s attention.
+
+Those few will be vilified. If, confronted by abuse and humiliation, they say, “Why should we alone endure this needless trouble?” and remain quiet, fascism will march triumphantly inside. The burden and suffering will then fall upon the very majority who ignored democratic principle. By deciding to remain silent, the few might gain comfort and even a residence in Paris, Ankara, Rome, Milan, or elsewhere. Yet some speak and act against the ideas and programme of an immensely influential party despite knowing this. Why? For the very democracy the Pandit says must blossom.
+
+Differences of opinion, an inquiring mind, and the exposure of faults require not courage alone but some spirit of sacrifice. To find fault in the ideas and programme of an influential party like Congress requires courage and sacrifice in very great measure. Submission to that court, or at least outward acceptance of its dominance, offers abundant rewards: conversation with Truman, dinner with Stalin, movement through Paris, an ambassadorship in Baghdad, and much else. Resistance brings not only ridicule and condemnation but imprisonment, deportation, house arrest, and blows severe enough to break the ribs. Some nevertheless come forward to condemn the conduct of that court because they value the democratic doctrine the Pandit wishes to see.
+
+“It is a dangerous thing to put a few people in authority and to idolize them, as you sometimes idolize me. I want to warn you that it is a dangerous thing, because it is bad not only to the individual who is idolized this way, but you also get into wrong habits. You tend to make that person function, shall I say in an autocratic manner. You tend to create possible an oligarchy of such individuals....”
+
+Making a selected few objects of worship is dangerous.
+
+It harms not only the person worshipped. You too acquire bad habits, and you make that person behave arrogantly.
+
+This is the essence of the Pandit’s English speech.
+
+We would say that this frank speech further enhances the distinction he already possesses.
+
+Frauds who wish to live in democracy’s name would seek public esteem and influence only to turn that influence into a magic powder, cast it over the people, make them devotees, and leave them incapable of independent thought and action. We rejoice greatly to hear that the Pandit spoke in direct opposition to that tendency.
+
+He knows well the disasters that occurred in several countries during his own lifetime after a few people were worshipped, placed upon pedestals, and allowed to act as they pleased. Therefore, he instructed the very people who came to worship him and warned them that this dangerous tendency produces harm and that the method itself is wrong.
+
+“Without criticism, strong criticism and the pointing out of the error of their ways, people in authority often go wrong. They get swollen headed. They get complacent. They think everything they do is right and everything else is wrong.”
+
+This is another portion of the Pandit’s explanation.
+
+Unless the faults in rulers’ methods are identified and stated, they may go astray. They will dare to imagine that everything they do is right and everything else wrong.
+
+The essence of the Pandit’s speech is given above.
+
+All this was a fitting warning about ordinary political parties. The Pandit apparently feared, however, that people might think no such method was needed for the sacred church called Congress and its leaders. He therefore made the point explicit:
+
+“That is a dangerous habit of all those who get into positions of authority, even though they might be congressmen.”
+
+He says that this dangerous disposition commonly comes to those who attain authority, even if they are Congressmen. The English passages quoted here appeared in the *Indian Express* on 26 July 1948.
+
+The doctrine that the king is God’s representative and cannot err, and that even when he does the people possess no authority to question him, was the foolishness of monarchy. Those seeking freedom suffered greatly to break it. Republics were born, but uncrowned kings arose within them. It has come to be said and believed that refuting their words, doubting their conduct, or seeking to amend their programmes provokes not God’s curse but the public’s anger. The Pandit explained how dangerous this is.
+
+This important part of his great address will disappear most easily and rapidly from most people’s attention. Such is human nature. Therefore, a few people must be prepared to endure any trouble and come forward whenever defects exist in the rulers’ conduct or purposes.
+
+We have engaged in that difficult work.
+
+Whatever slight doubt remained about whether our work was right and necessary has vanished through the Pandit’s explicit speech. Yes, we labour for the democracy he wishes to see blossom. Even if that work is doubted and those in authority persecute us, we shall think that our bodies and lives have become manure for the noble crop of popular government described by the Pandit, and fulfil our duty with joy.
+
+This world has known noble people who stated the truth amid barbarians and suffered cruelties at which one trembles even to speak. Our days are not of that kind. Therefore, even if speaking truth causes harm, it must be less than the cruelty many endured in earlier times. We can perform the task not only joyfully but with some courage. Every public worker should fix the Pandit’s words in the mind and labour accordingly.
+
+Under monarchy, even a minister could not condemn the king’s vanity if he wished to retain his office.
+
+The crowned ruler could command: “Drive into the forest the fool who criticizes the king!”
+
+In democratic times, a ruler cannot ask, “Who is this arrogant man who criticizes me?”
+
+That is the advantage of our age.
+
+Yet rulers in democratic times employ a stratagem to destroy that advantage. They heap accusations upon those who expose defects in their programmes, stir the public’s anger, and prevent those defects from becoming known.
+
+“He is a traitor. Do not believe him! He is a reactionary. Do not listen! He is a communalist!” There are many such accusations. This method destroys political opponents by imposing whatever labels will provoke public anger, resentment, contempt, and fury. It is a young viper lying beneath the name of democracy. Many have died from its bite. Yet fear of it cannot make silence in the face of truth a noble quality or a service that gives life to the people.
+
+Congress, with its powerful means of propaganda, can very easily accuse our efforts to develop democracy of being a conspiracy to overthrow the government. Our Congress friends possess extensive experience in doing so.
+
+What would they have told the Pandit, who spoke so clearly and emphatically about the necessity of democratic doctrine, regarding our policy, programme, and propaganda?
+
+“Naked communalists.”
+
+“An atheist crowd.”
+
+“Haters of Brahmins.”
+
+“People who would partition the country.”
+
+“Provincial maniacs.”
+
+Would they not have worshipfully recited just such labels? Once these accusations are imposed, can the public avoid doubting our work? But if we ask whether fear of their accusations and of those who believe them should prevent us from doing our duty, the Pandit says that such a course is dangerous. Therefore, the work must be done.
+
+Let us grant even that the public may form mistaken ideas and suspect us. The Pandit himself considers it wrong when regions unnaturally joined within the Indian landmass, contrary to their cultural pattern, wish to gain separate government and flourish.
+
+We do not see him treating it as the inhabitants’ desire for liberation. He calls it provincial mania and says it must be eradicated.
+
+There must be no mania, certainly, whether provincial or of any other kind. But a sacred land that for many centuries, until a hundred and fifty years ago, existed as an independent state and developed a character of its own should not now live prostrating itself toward Delhi. To possess full strength and splendour, it must shine as a country with political sovereignty. It should live in friendship and mutually supportive companionship with the other regions of the Indian landmass. Within itself, it should possess social, religious, and economic systems suited to its people’s character. When we say that this is why Dravida Nadu must belong to the Dravidians, will the Pandit, who pleads so strongly for democracy, call it provincial mania?
+
+He ought to say: “Very well, explain to the people the benefits of a separate state. My associates and I shall explain that it is wrong, that India must remain one country, and that the central government must hold supreme authority. Let us see whose case the people accept. If you can, persuade them to support your programme.”
+
+Are *The Hindu* and *Swadesamitran* mere scraps of paper?
+
+Are the thundering Congress leaders ordinary men?
+
+Why should they not eagerly say that they can demonstrate the error in our programme and that there is no need to gag Dravidar Kazhagam for this purpose?
+
+Instead, is it honest or democratic doctrine to accuse us of communalist frenzy, provincial mania, or atheist speech?
+
+And does it stop with accusation? “Dissolve the Kazhagam. Issue prohibition orders. Throw its leaders in prison. Suppress newspapers. Stop plays. Seize books.” Is this how rulers should behave? If they do, from where will the democracy the Pandit wishes to see arise?
+
+The tears and blood of sincere workers persecuted for speaking truth by rulers and by those roused at their instigation must flow as water to nourish the crop of democracy.
+
+The Pandit stressed democracy’s character and necessity. We describe the hardships faced by those who follow that path, not to make friends leave it, but to emphasize that although the path is hard, the work is important.
+
+If Dravidar Kazhagam’s programme is mere madness, let the propaganda-rich Congress explain that to the people.
+
+It is neither beautiful nor righteous to impose accusations and seek to destroy Dravidar Kazhagam through repression. Nor will it succeed.
+
+What the Pandit condemns as “provincial mania” is not limited to our country.
+
+The extent to which that “feeling” appears under present conditions is not its full extent.
+
+For various reasons, its full measure remains concealed.
+
+It is not only extensive but continues to grow and will inevitably grow.
+
+The spring festival of freedom will obstruct that growth for a while.
+
+For a time, it will also be checked by the influence of leaders who suffered losses in conducting the freedom struggle and thereby won immense public support.
+
+But the growth will not stop. Every measure taken to “eradicate” it will fertilize rather than destroy it.
+
+Leaders in high places are not unaware of this truth.
+
+One source of their confidence is the belief that their present influence can eliminate the feeling at one stroke. Another is the belief that this influence will endure for a long time.
+
+The future will demonstrate that both beliefs are wrong.
+
+In our own time, we have seen dictators’ influence collapse. We are also watching how even democratic leaders’ influence, though it withstands many storms of public opposition, does not last forever. In a democracy, people expecting extraordinary benefits give leaders support and thereby create influence. But if those expected benefits do not arrive in significant measure, that influence collapses far more quickly than the time required to build it.
+
+The former Egyptian prime minister Nahas Pasha once filled the newspapers. His walk, dress, bearing, speech, breath, and everything else were offered to the people as a great feast through the press.
+
+In the conversations of statesmen across many European countries, some reference to Nahas Pasha was inevitable. He was praised as the emblem of Egyptian nationalism, the heroic drumbeat of liberation, the friend of youth, and the conqueror of students’ hearts. They sang his glory. This was neither idle nor causeless nor merely a publicity stratagem. Nahas Pasha truly possessed immense public support.
+
+But now?
+
+Nahas Pasha has been removed from the newspapers’ editorial throne, and the public has set out to worship another leader.
+
+Why?
+
+That is democracy’s “secret”!
+
+To the world, the Chinese leader Chiang Kai-shek appeared as the noble man who came to save China. His ability and zeal in China’s war of liberation, and the hardships and losses he endured, genuinely deserved the country’s esteem in extent and manner.
+
+Yet today?
+
+Opposition to Chiang Kai-shek has moved beyond speech and writing to bombs and poison gas. It is no longer a party quarrel; it is now a battlefield.
+
+Why?
+
+Chiang failed to judge correctly how long the public’s “worshipful feeling” would last. He imagined it would endure: “The people will dislike this action. Nevertheless, they possess extraordinary affection for me. They see the scars of my sacrifice and worship me. Even when I err, therefore, they will tolerate it, forget it, and forgive it.” That mistaken calculation has brought him to the battlefield.
+
+Those who come forward to continue a task can labour only with confidence that it can be completed readily and victory attained.
+
+The influence Congress leaders possess today is sufficient to destroy any opposition through ridicule alone. The people expect much from Congress. Although confidence has begun to waver here and there, most people remain devotees who worship them, disciples who offer gifts, and poets who sing their praise. Since Congress has gained the opportunity to govern, the number of worshippers is increasing, and their “types” are becoming more varied.
+
+Alagappa carries ritual articles upon a golden platter for worship. The young Raja of Pithapuram follows. In Travancore, one known as a diwan gives a feast. Vultures coo like parrots; wolves frolic like lapdogs; ornamental dolls hold ceremonial betel boxes. Such “types” now occupy the front row among those assembling to worship.
+
+How much sincere affection can exist in that worship may be judged to some degree from the presence of these types in the front row.
+
+Worship is a dangerous practice in a democratic age.
+
+If we say this, people may suppose we speak from party jealousy. But this was the address of the great scholar who himself was an object of worship. This is the distinctive truth in his great address. Yet when I ask whether it entered the people’s minds, the incident mentioned at the beginning returns to me. Many will not have noticed it. The Pandit uttered this truth of the highest order because he knows the histories of many countries and the nature of the public mind exceedingly well. We owe him our thanks.
+
+## Translator's Notes
+
+Images 1–19 form the canonical article. Image 20 is the separate complete article “தாயகம்!” dated 1 August 1948 and is excluded. The scan sequence for “பண்டிதரின் பேருரை!” carries no printed publication date.
+
+The three English passages quoted from Nehru’s address were restored verbatim from scans 10–12 after OCR rendered them as unusable mixed-character strings. The source identifies the *Indian Express* of 26 July 1948 as their printed reference.
+
+“ஆராதனை” and “பூஜை” are translated as worship or idolization according to context. Anna deliberately uses religious vocabulary to criticize political hero worship.
+
+“மாகாணப் பித்து” is rendered as “provincial mania,” retaining Nehru’s polemical label and Anna’s repeated challenge to it. “திராவிடநாடு திராவிடருக்கு” is retained by meaning as “Dravida Nadu must belong to the Dravidians.”

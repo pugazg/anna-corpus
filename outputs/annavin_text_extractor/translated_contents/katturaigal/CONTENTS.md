@@ -868,7 +868,7 @@ Total source works: 1388
 - [பாஞ்சாலியும் பாரதத்தாயும்](panchaliyum_barathathayum.md) - pending
 - [பண்டித நேருவின் கண்முன்!](panditha_nehruvin_kanmun.md) - pending
 - [katturaigal/pandithar_maraivu](pandithar_maraivu.md) - translated
-- [katturaigal/panditharin_perurai](panditharin_perurai.md) - pending
+- [katturaigal/panditharin_perurai](panditharin_perurai.md) - translated
 - [katturaigal/panditharukku_vaendu](panditharukku_vaendu.md) - translated
 - [பாண்டியன் - படுகொலை](pandiyan_padukolai.md) - pending
 - [“பஞ்சாபி – சுபா“](panjabi_subha.md) - pending
