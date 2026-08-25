@@ -1,4 +1,10 @@
-# katturaigal/vaanulaga_veethi
+# வானுலக வீதியிலே வால் நட்சத்திரம் / A Comet in the Streets of the Heavens
+
+**Tamil title:** வானுலக வீதியிலே வால் நட்சத்திரம்  
+**English title:** A Comet in the Streets of the Heavens  
+**Source file:** `katturaigal/vaanulaga_veethi.md`
+
+## Source Tamil (verbatim)
 
 - Source image folder: `/Users/pugazhendhirajendran/Documents/Codex/2026-07-09/https-www-annavinpadaippugal-info/outputs/annavin_text_extractor/ocr_images/katturaigal/vaanulaga_veethi`
 - OCR language: `tam`
@@ -719,3 +725,187 @@ _ நிலை பெற்றிருக்கும் இந்நாளி�
 இருந்தால், முக்காடிட்டுத் திரிய வேண்டுமே, முணுமுணுப்பாளர்கள்.
 
 (28.11.48 திராவிட நாடு இதழில் வெளி வந்தது)
+
+## English Translation
+
+A comet! For many days a comet has been visible, and people have been watching it. Many have seen it; many have not. Neither those who saw it nor those who heard about it from others became greatly agitated or frightened.
+
+People merely ask one another quite casually, “They say a comet is visible. Have you seen it?” No one cries out in terror, “Oh no! A comet!”
+
+Nor have the gurus proclaimed, “A comet has appeared! Great people! Jewels among devotees! A terrible calamity is about to befall the world. Therefore, perform ablutions and worship at once and make donations so that the Lord's gracious glance may fall upon us.” Instead, a report comes from the Kodaikanal observatory: the comet is moving in a certain direction; we are observing it; we have photographed it.
+
+They have photographed a comet in our country!
+
+What a startling transformation!
+
+The stories and fancies current here about the sun, moon, stars, and the rest have become practically recognized as fit only for the poet. The rituals associated with those stories have been understood to possess no power. The Kodaikanal observatory, administered by the rulers, has photographed the comet!
+
+Sky and earth, air and sea, water and fire were made into gods. Divine sports were imagined for every god and goddess and turned into poetry, while men of the “inner eye” and makers of sweetness supplied them. To a people who believe these to be indestructible truths and unalterable verdicts, what momentous news it is that even a comet has been captured in a photograph!
+
+Twenty or thirty years ago, if someone had said that a comet could be photographed, no one in this country would have believed it. If told that even tailless stars could be studied, the listener would have asked, “Are you making fun of me?” In our grandfathers' time, no one would believe even today's fundamental truth. If you had said that the earth goes round the sun, Grandfather would have opened his toothless mouth and asked, “Boy! Are you playing games with me?”
+
+Yet in such a country, within a single generation, truths that took at least ten generations of labour to discover in other lands have become commonplace.
+
+Our generation may be called exceptionally fortunate in this regard.
+
+For our grandfather, the truth was that the sun revolved. Our father wondered whether it was the sun or the earth that revolved. We mock the fact that there are still intellectual voids who think the sun goes round us. Our son, or his son, may attain the ability to travel to the realm of the moon and return! Transformation has occurred with such magnitude and speed.
+
+There was a time when the news that a comet had appeared struck terror not only here but in every country of the world. This was not merely in some remote age: even in 1910, the sight of a comet caused uncontrollable fear among many in Europe. Somehow, that fear has now subsided.
+
+If a comet has been photographed even here, where the almanac still rules, need one describe the condition of other lands where knowledge rules?
+
+The comet's structure and nature, the journey it has undertaken, and the path along which it moves were discovered not by men of the “inner eye” but by men with the eye of science. Even now, it was neither the Sankaracharya nor a Tambiran, nor the bearers of their holy feet, who told us the course of the comet. It was researchers. And those who captured it in a photograph did so neither through the glory of sacred ash, the greatness of holy basil, a fast for the Goddess, nor Hanuman's divine power. Scientists who belong neither to our religion nor our country used clarity of thought, skill in research, and suitable instruments at the Kodaikanal observatory to take the photograph.
+
+“They have taken a picture, have they? A picture! What use is that?” the leading figures of devotional singing may be inclined to ask.
+
+This research helps dispel fear, remove the fabricated tales surrounding the comet, and thereby clear a path for the growth of knowledge.
+
+Those who picture Vaikuntha and Kailasa will naturally be angry when they hear of those who photograph comets. For as the achievements of scientific vision grow, the livelihood of those spectres who pass their days spinning tales of all that they supposedly saw with the “inner eye” will be ruined.
+
+They photograph the moon, photograph the spots on the sun, and cause rain to fall. As people hear more and more of such things, can even the most uncultivated person fail to experience at least a little stirring of the mind?
+
+At first he will not believe it. Then he will be startled. After that he will marvel. Then he will begin asking questions. Whom will he ask? Those who today claim to represent the men of the “inner eye.” “Sir! How are these fellows able to do all this?” he will ask. If the answer is, “All that, Kuppa, is the evil age of Kali!” will he be satisfied? For a few days he may even be content with that. But a day is coming when he will ask angrily:
+
+“Go away, sir! Everything you say is a mass of lies! They take pictures and show the truth plainly and brightly. You merely sing all manner of things in a language no one understands and pour out endless stories. You cannot prove a single one of them. Nothing you say agrees with reality. He presses a button on a little box and it sings! He hands me a tube and says, ‘Look at the sky,’ and everything becomes clearly visible. Whatever the matter, you only say, ‘Bring the fee, fall at my feet, believe what I tell you.’ You cannot prove even one thing. How can I believe you? Why should I?”
+
+This will happen in our own day.
+
+We may see that good day sooner than we expect, if only a small force of stout-hearted seekers of knowledge among us conducts a campaign of reason to free the people from the grip of cheats who claim the authority of “representatives of the inner-eyed” and turn ordinary minds into repositories of superstition; if only fundamental scientific truths are explained so ordinary people can understand them.
+
+On one side, through books, songs, performances, and the clamour of gurus, ordinary people continually receive tales of Goddess Earth, Narada singing as he passes along the streets of heaven, a serpent swallowing the moon, Indra acquiring a thousand eyes, Chitragupta ceaselessly keeping accounts, Sakti and Siva dancing, and countless other such fancies. They are compelled to believe them.
+
+At the same time, on another side, people are conducting investigations of the lunar sphere, explaining sunspots, photographing comets, and carrying out many other studies of the heavens.
+
+Instead of leaving ordinary people trapped between these two forces and making them suffer, if a campaign of knowledge brought scientific truths within the understanding even of villagers, their minds would very rapidly grow fertile.
+
+Is not the country today in the grip of a legislature that discusses the “news” of people who went to bathe in the sea to rid themselves of the affliction of an eclipse and were sent to heaven by sharks there? For now, it can go only as far as photographing a comet. The day on which the scientific truths connected with it are explained to the people is yet to dawn. This photograph announces that coming day.
+
+Neither the rulers nor the party on which they depend have the inclination to tell the people the history of comets or scientific truths about the heavens in general. Yet none among them can dare reject or deny the truths stated by scientists.
+
+How can a chief minister who travels by aeroplane reject and cast aside the very science through which the “aeroplane” became available?
+
+Likewise, how can a man who observes a vow of silence for Krittika go among ordinary people and explain scientific truth? If he did, he would have to deny many beliefs that he himself accepts through habit and fear. Scientific truth about the heavens contradicts the fancy that gods dwell in the sky and that it is the abode of God. Can observers of the Ekadasi fast explain this? Seven worlds above and seven below! My Lord Sri Vishnu dwells in Vaikuntha, with Kailasa, where Siva resides with Parvati, beside it. Science completely rejects what the inner-eyed have declared. How can those who think merit may be gained by drinking holy basil water find the courage to say so?
+
+These people enjoy the benefits of science while at the same time fostering ordinary people's beliefs and participating in them.
+
+If this strange conduct changes and a state of sincere faith in science arises, we may see a new flowering in people's minds sooner than we expect.
+
+When meeting ordinary people, these men vigorously support the old. When they must move through the world of knowledge, they take and enjoy the benefits it provides. These people of “two forms” feel no shame about their conduct.
+
+They lack the courage either to fight innovation and drive science away, or to abandon the old that science has disproved. They stand open-mouthed when they see the wonders of science and become long-winded when speaking of antiquity. They take great pleasure in being new Kovalan figures who maintain Madhavi and Kannagi in the same home. Like men who mount a tiger to go hunting mice, these curiosities board an aeroplane to attend a Vittal bhajan. They ask the Kodaikanal researchers to collect and send information about the comet, while also speaking on the radio about the glory of the Varalakshmi fast.
+
+Some are genuinely doubtful, bewildered, and confused. “What the scientist says does seem right, but I am afraid to abandon all our ancestral wisdom,” this confusion gnaws at them. As it does, self-interest intervenes. Yielding to it, they think, “What does it matter to us? Let us become good boys to both camps; let hostility arise from neither. We shall accept the telescope the scientist gives us and wear the holy basil garland the traditionalist gives us.”
+
+These “intellectuals” do not reflect that, in due course, both sides will begin to distrust them; neither side will believe in the purity of their hearts; and this neither-one-thing-nor-the-other existence will finally be mocked by both.
+
+Only after the “assault of knowledge” became powerful did they concede even this much. There was a time when falsehood was obstinately upheld as truth and those who dared speak the truth were tortured.
+
+Many stories were woven around forms of nature that appeared often or remained permanently. Comets do not appear frequently, and so there are no Puranic tales declaring that a comet is a strip of cloth in Parvati's matted hair or an arrow of light that shoots out from Siva's forehead-eye and subsides.
+
+Perhaps someone serving antiquity from behind the smoke-screen of being a “renaissance writer,” using a pen name such as Patanjali, Parasara, or Revathi, may now arise and attempt to write such a tale.
+
+In earlier times, people saw comets, were terror-stricken, and fell into turmoil.
+
+When a comet appeared in 1882, many feared that the earth itself would be destroyed. They sold their houses, lands, and possessions and took shelter in churches, determined that if they must die, they would die in the presence of God. The comet came and vanished; the world was not destroyed. Their thoughts then turned not to the Virgin or the church, but to the houses, cattle, and valuables they had sold cheaply, and they grieved, we are told, in Europe.
+
+In former times, the appearance of a comet meant that disaster had arrived.
+
+Church bells would ring. Rosaries would be in great demand. People would give alms and charity. They would plead with priests to forgive their sins. Believing that the comet would do no harm so long as the church bells continued ringing, they would worship without interruption.
+
+From very ancient times the comet had frightened the world's people to this extent. Yet science advanced without fear and has now photographed this “terror-maker” for us.
+
+The men of the inner eye said, “Look there, a comet! The wrath of God! A sign that destruction approaches.” The men with the eye of science say, “Like the planets, a comet revolves around the sun. Its path has the form of an elongated hen's egg. Do not fear! There are not merely one or two comets, nor one or two thousand, in the solar system. There are more than a hundred thousand. Each travels in a different orbit. Each takes a different length of time to complete one journey and return. Some comets circle the sun in three and a half years; others take a million years to complete their circuit.”
+
+Scientists present evidence and research for these conclusions and explain how they proceeded step by step to discover this truth.
+
+At first, no one understood where a comet began, where it went, how it disappeared, or what its nature was.
+
+Comets appeared while the Chinese, Jerusalem, Greek, and Roman empires shone in splendour. Researchers have supplied the learned world with studies of comets that appeared on many occasions: in 48 BCE; in 69, 79, 451, 455, 1000, 1076, 1456, 1892, and 1910 CE; and at many other times.
+
+Whenever they appeared, some kind of destruction had occurred in the world: an emperor's death, a great flood, a great fire, an invasion, or the collapse of an empire. Because research into the heavens in general, not merely into comets, had not yet developed, people connected these events with the comet's appearance and believed the latter had caused the former.
+
+Did such “disasters” never occur in years when no comet appeared? The scientist asked himself. We too may ask. Subhas Babu disappeared: what comet arose? Gandhi died: did a comet appear? Jinnah died: was there a comet? Aung San died without a comet appearing! The British Empire dissolved, not because a comet appeared. Hitler's rule, Mussolini's rule, and the Japanese military regime were all destroyed, not because a tailed star appeared in the heavens but because aeroplanes flew through the sky in great numbers and rained down bombs.
+
+Many events that shook people's minds occurred without a comet appearing. The scientist therefore said, “There is no connection between a comet and disaster. Do not fear!”
+
+Aristotle said that a comet was smoke emitted from the earth. He was indeed a scholar, but did people remain idle merely because he had said so? No. They thought, “That was the extent of his knowledge; let us investigate.” The Roman thinker Seneca went one step further and said that it would be possible to predict in advance when a comet would return.
+
+The man who studied a comet scientifically was Halley. He said that the comet which appeared in 1682 would circle the sun and reappear after seventy-six years. In accordance with his prediction, it returned in 1759.
+
+Halley said, “The comet seen in 1682 has this nature. Watch for it: it will appear again in 1759.” No one believed him, and he died. Yet the comet appeared in 1759 just as he had said. People marvelled at his knowledge and honoured science. They named it Halley's Comet.
+
+Thereafter, detailed studies of comets continued to appear.
+
+Halley's Comet did not merely appear once in 1682, travel for seventy-six years around the sun, and return in 1759. Researchers discovered that it repeatedly returns after that fixed interval.
+
+Halley's Comet appeared in 1910. They have recorded that it will return in 1986.
+
+To scientific eyes, a comet presents an extraordinarily enchanting sight. It is said to display many colours and a dazzling brilliance. Emerging from dark space, it travels around the sun. A comet's head may measure from 30,000 to 150,000 miles across, while the tails of some comets extend for twenty crore miles.
+
+A comet travels many hundreds of millions of miles from the sun before turning back.
+
+The comet that appeared in 1811 must travel four thousand crore miles from the sun before returning. It takes three thousand years to complete that journey and begin another. In other words, this comet will appear again in the year 4811!
+
+A comet consists of matter much lighter than air.
+
+Evidence exists for all these scientific truths.
+
+Photographs have also been preserved.
+
+We ask you to compare the visions seen by those with the “inner eye” with what those possessing the scientific eye see today.
+
+The inner-eyed made people cry, “Alas!” by calling it *Dhumaketu*, the portentous comet.
+
+Scientists make people exclaim, “Ah!” in wonder, and show them the photograph as well.
+
+As scientific observers discover and explain every truth about comets, ordinary stars, and outer space, it becomes perfectly plain that many visions of the “inner-eyed” were fantasies. The claim that gods roam the streets of heaven, that the stars are jasmine flowers in their celestial garden, and innumerable other fabricated tales were once treated and believed as religious truths, words of wisdom, and sacred teachings.
+
+Such strange tales about outer space were believed not in one country alone, but in many lands.
+
+Chinese myth-makers regarded comets as diplomatic envoys of the government of the upper world. They imagined that, just as the earth contained many countries, the celestial world too consisted of many states; that every earthly country had a representative in heaven; and that the fate of each earthly land was decided there. In the celestial sphere, the planets were kings, the stars ministers, and comets political envoys! This is not the belief held in China today. It was a religious truth accepted when China lay under the dominance of those with the “inner eye.” Unlike the traditionalists who threaten that we must still believe such things today, no one in China or elsewhere now issues such threats. Many ancient fancies existed and bewildered people until the light of knowledge shone.
+
+In those days, people came forward to sacrifice even their lives to protect religions that allowed not the slightest place for purity or truth. They tortured anyone who harboured even a small doubt, while claiming to know the will of God. Yet today those religions have faded and died.
+
+People's minds have matured to the point that the very idea that belief in God must rest upon fanciful tales is mocked in the world of knowledge. The belief that a deity must possess strange forms and perform grotesque acts has been defeated. Researchers call the old imaginary tales the babblings of humanity's childhood.
+
+Clouds moving through the sky, glittering stars, and the moon pouring down light awaken all manner of thoughts in a child's mind. The child says many things in its infant speech. The condition was the same during the childhood of human society.
+
+A mother delights in her child's babbling. But if, after becoming a young man, he still asks, “Catch the moon-uncle for me!” can she be pleased? She will be bewildered and think some confusion has seized his mind. The same applies to human society. Today it has reached the vigorous stage of youth. If we continue telling and believing childhood tales and fantasies, structure our faith upon them, call such a life theism, and threaten that questioning it is sinful, can thinking people feel happy? 
+
+Is it enough to offer the excuse that men of the inner eye, saints, and incarnate beings said these things? Is it enough to abuse a questioner as a villain and an evil soul?
+
+Those with the scientific eye do more than discover and declare truths. They call to those who say, “We descend from the lineage of the inner-eyed”: “Traditionalist! Come to the meteorological observatory! I will show you the beautiful light of nature!” Can the traditionalist show them even one head of the thousand-headed Adisesha? Never mind showing it to us, for we are ordinary beings. Should not the great intellectuals, men of wisdom, experts in Vedic study, and interpreters of the Upanishads, those embodiments of Brahman who tell any gullible person, “Hey! Your tongue will rot! Your mouth will decay! At the hour of destruction, the mind turns perverse!” challenge the scientific observers to debate before the world? Their clamour ends at the edge of the temple tank!
+
+The government meteorological observatory stands at Kodaikanal and is maintained at great expense. Should they not go there, taking all four Vedas, the Puranas, and the epics along for support? Should they not issue a challenge and ask, “Hey! What is that long iron tube?”
+
+“It is a telescope,” the scientist will say.
+
+If they immediately open their books, that very word will not be there. They must then ask fiercely, “What scope? Say it again!” The scientist will repeat clearly, “This is a telescope. Through it I study the heavens.” Then, if they possess courage, let them search through that telescope and identify at least one thing: Narada or Nandi, Narada's tambura or Nandi's drum, the leg of Kamadhenu, the tail of the sacred bull, or Rambha's sari. Let us see them find and show it!
+
+These “exalted people” believe that their loud voices, ravings, bluster, and threats are sufficient to refute truths discovered and stated through scientific research. They must understand that other parts of the world have passed beyond the stories and fantasies they still repeat. “Men of the inner eye” of the kind they describe existed in many countries when ordinary minds had not yet blossomed. Today, scientific observers have begun announcing truth to the world. Truths beyond even the thought and imagination of the inner-eyed have been discovered.
+
+When scientists presented new truths, hostility smouldered in many lands, cruelty danced, and repression ran rampant. They were stoned, blinded, had their tongues cut out, were exiled, burned, and impaled.
+
+Scientific truths triumphed only because some noble people endured every kind of suffering and remained resolved to speak the truth.
+
+When we read of the hardships scientists suffered and the cruelty religious partisans inflicted upon them; when we learn that those who wielded the rod to inflict such cruelty were allied with men holding prayer beads; when we learn that the very people for whose welfare scientists discovered and stated new truths came forward to torture them; then the abuse that these traditionalists and their followers heap upon us for attacking the conditions, morals, doctrines, and fantasies found in the Puranas and epics seems equivalent to a shower of flowers. Such were the immense labours scientists endured until only a century ago.
+
+Even during an age when scientists appeared in succession and worked continuously, the arrogance of religious authorities remained swollen until a century ago. In our country, where the age of ritual priests has not yet ended, there is therefore no reason to be bewildered or surprised by the hardships and dangers facing a person who explains scientific truths, or by the insults and accusations placed upon him. Kandan, who drives his cattle to the field, still firmly believes that the buffalo is the vehicle ridden by Yama. What wonder is there that a traditionalist rules him? What wonder is there that the traditionalist and that dull mind join together to hurl stones and words at the man who states a new truth?
+
+“What did he say? What did that scoundrel say? Did he tell the people that the world is round? Did he beat his chest and proclaim it? Seize the fool and drag him here!” Thus the priests shouted and raged. They enacted cruel laws in Europe in earlier times. But final victory did not belong to the noisy and arrogant. It went to the virtuous who endured, to the idealists who shed their blood.
+
+Today everyone in the world studies matters directly contrary to what was recorded in the sacred books of every religion formed in the earliest ages: the world, the origin of the world, the sea, air, water, fire, the heavens, the earth, and all the many forms of nature. That study is what constitutes education. The “truths” stated by men of the inner eye now hide within devotional halls and can find no place except among the traditionalist, the bell-ringing ritualist, the dull-witted man, and Mannarsami. If the murmurers possessed even the smallest concern or the least trace of self-respect on seeing this magnificent victory, they ought to go about with their faces veiled.
+
+(Published in *Dravida Nadu*, 28 November 1948.)
+
+## Translator's Notes
+
+The title's `வானுலக வீதி` is rendered literally as “streets of the heavens,” preserving the essay's recurring image of a populated celestial thoroughfare rather than replacing it with the neutral “outer space.” `வால் நட்சத்திரம்` is rendered as “comet,” while `வால்வெள்ளி` is rendered literally as “tailed star” where the rhetoric benefits from that image.
+
+The essay contrasts the claimed `ஞானக்கண்` (“inner eye” or spiritual vision) with the `விஞ்ஞானக் கண்` (“scientific eye”). Those recurring expressions are translated consistently to preserve Anna's wordplay.
+
+Period religious and colloquial terms include `மடிசஞ்சி` (a derisive term for an orthodox traditionalist), `சவுண்டி` (a ritual or funeral priest, used polemically), `பாத்யதை` (authority or entitlement), and `லவலேசம்` (the slightest trace). Their force is rendered contextually without silently modernizing the Tamil source.
+
+The source gives historical astronomical dates and measurements as printed, including the predicted 1986 return of Halley's Comet and the year 4811 for the comet observed in 1811. These have been retained rather than independently normalized.
+
+The image set contains 25 files, but images 7 and 8 are duplicate captures of the printed pages already represented by images 5 and 6. The corrected Tamil source therefore retains 23 unique printed pages. Image 25, omitted by the original OCR output, was visually recovered from the scan and supplies the concluding sentence and publication citation.

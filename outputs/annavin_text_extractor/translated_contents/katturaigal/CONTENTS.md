@@ -1256,7 +1256,7 @@ Total source works: 1388
 - [வாலாஜா தி.மு.க. தோழர்களுக்கு!](vaalaja_thimuka.md) - pending
 - [வாலாஜா தோழர்களுக்கு!](vaalaja_thozhargalukku.md) - pending
 - [வாலாட்டம்!](vaalattam.md) - pending
-- [katturaigal/vaanulaga_veethi](vaanulaga_veethi.md) - pending
+- [katturaigal/vaanulaga_veethi](vaanulaga_veethi.md) - translated
 - [katturaigal/vaarsu](vaarsu.md) - translated
 - [வார்தா முனிவர் யாகம் செய்தால்...!](vaartha_munivar.md) - pending
 - [katturaigal/vaayai_moodi](vaayai_moodi.md) - translated
