@@ -6,7 +6,7 @@
 |---|---:|---:|---:|---:|
 | english | 1 | 1 | 1 | 0 |
 | kadithangal | 275 | 8 | 8 | 267 |
-| katturaigal | 1388 | 536 | 536 | 852 |
+| katturaigal | 1388 | 537 | 537 | 851 |
 | kavithaigal | 77 | 77 | 77 | 0 |
 | Kurunavalgal | 25 | 0 | 0 | 25 |
 | nadagangal | 62 | 24 | 24 | 38 |
@@ -15,17 +15,17 @@
 | root | 5 | 5 | 5 | 0 |
 | sirukathaigal | 109 | 108 | 108 | 1 |
 | sorpozhivugal | 537 | 180 | 180 | 357 |
-| **All included sections** | **2511** | **965** | **965** | **1546** |
+| **All included sections** | **2511** | **966** | **966** | **1545** |
 
 ## OCR-Origin Translation Progress
 
 | Section | OCR target | Completed | Bilingual with source retained | Pending |
 |---|---:|---:|---:|---:|
-| katturaigal | 552 | 535 | 535 | 17 |
+| katturaigal | 552 | 536 | 536 | 16 |
 | nadagangal | 61 | 24 | 24 | 37 |
 | sirukathaigal | 108 | 108 | 108 | 0 |
 | sorpozhivugal | 241 | 180 | 180 | 61 |
-| **All OCR-origin sections** | **962** | **847** | **847** | **115** |
+| **All OCR-origin sections** | **962** | **848** | **848** | **114** |
 
 ## OCR Source Recovery Status
 
@@ -86,6 +86,7 @@ A blank image section has an explicit no-text marker or no OCR body after its im
 
 - `katturaigal/ilamayil_muthumai.md`: At least one page is absent between Images 4 and 5: Image 4 ends mid-sentence at 'பண்டிதருக்கோ, இயற்கைக்கு ஏற்றபடி', while Image 5 begins abruptly with 'கோடானுகோடி ஏழைமக்கள்'. The live webpage exposes the same broken 15-image sequence. Recover the intervening discussion of Jayaprakash Narayan before translation
 - `katturaigal/nirubarin_nilai.md`: Printed pages 182-184 are absent after Image 8 (page 181); Image 9 is unrelated page 185 from an article on science, and Image 10 resumes only the final fragment of the reporter article. Recover the three missing pages and remove the misassigned scan before translation
+- `katturaigal/udan_piranthar_1.md`: The 19-scan OCR source ends immediately after the killing of Tiberius Gracchus although the title promises two brothers. The complete four-part HTML counterpart exists at Kurunavalgal/udanpiranthar_iruvar.md and continues through Gaius Gracchus and the conclusion. Reconcile the OCR opening against the scans, then recover and merge Parts 2-4 from that counterpart before translating.
 - `katturaigal/valarppupen.md`: The sixth and final extracted image ends mid-argument after Periyar's claimed five or six years of trust in Maniammai; recover the continuation before producing a complete translation
 - `nadagangal/avanasiyar_1.md`: 4 of 5 scan pages contain no OCR text; only image 1 classroom scene is presently recoverable
 - `nadagangal/avar_pesathathu_1.md`: 5 of 8 scan pages contain no OCR text; political conversation begins and ends mid-sentence

@@ -1,178 +1,148 @@
 file,type,wrong,right,count,reason
-katturaigal/vetkapadugirom_1.md,phrase,"2௫. பெட்கப்படுகிறோம்! -
-வேதனைப் படுகிறோம்! இல்லை;
-விரட்டப்பாடுகிறோம்!","28. வெட்கப்படுகிறோம்! -
-வேதனைப் படுகிறோம்! இல்லை;
-விரட்டப்படுகிறோம்!",1,part 1 scan 1 clearly prints the complete title
-katturaigal/vetkapadugirom_1.md,phrase,இந்த ஆண்டு அவர். திருமண,இந்த ஆண்டு அவர் திருமண,1,part 1 scan 1 contains no full stop after அவர்
-katturaigal/vetkapadugirom_1.md,phrase,கொள்ளவும் திட்டமிட்டுக் காட்டினார். ப,கொள்ளவும் திட்டமிட்டுக் காட்டினார்.,1,part 1 scan 4 contains no trailing ப
-katturaigal/vetkapadugirom_1.md,phrase,"விட்டன; என்பதை. எடுத்துக்
-காட்டி, அந்தக் கட்டளைகளை மீறுங்கள்,.. வாழ்க்கைக்குப்","விட்டன, என்பதை எடுத்துக்
-காட்டி, அந்தக் கட்டளைகளை மீறுங்கள், வாழ்க்கைக்குப்",1,part 1 scan 5 confirms the punctuation and contains no OCR dots
-katturaigal/vetkapadugirom_1.md,phrase,வாழ்க்கைப் பிரச்னையிலே. அவர்,வாழ்க்கைப் பிரச்னையிலே அவர்,1,part 1 scan 5 contains no full stop after பிரச்னையிலே
-katturaigal/vetkapadugirom_1.md,phrase,ஊரே மாநிற்று,ஊரே மாறிற்று,1,part 1 scan 5 clearly prints மாறிற்று
-katturaigal/vetkapadugirom_1.md,phrase,"கிழவர்கள்"" கலங்கினர்",கிழவர்கள் கலங்கினர்,1,part 1 scan 5 contains no quotation mark after கிழவர்கள்
-katturaigal/vetkapadugirom_1.md,phrase,வேறு எந்தக். காரணம்,வேறு எந்தக் காரணம்,1,part 1 scan 6 contains no full stop
-katturaigal/vetkapadugirom_1.md,phrase,தன்மான இயக்கம். தழைத்திருக்கும்,தன்மான இயக்கம் தழைத்திருக்கும்,1,part 1 scan 6 contains no full stop
-katturaigal/vetkapadugirom_1.md,phrase,"தொலைந்தால்,தும்பு அறுந்ததாக இதாவது
-விதவையாக","தொலைந்தால், தும்பு அறுந்ததாக (அதாவது
-விதவையாக",1,part 1 scan 7 clearly prints the parenthetical அதாவது
-katturaigal/vetkapadugirom_1.md,phrase,பச்சைக் -கொடிபோல,பச்சைக் கொடிபோல,1,part 1 scan 7 contains no hyphen
-katturaigal/vetkapadugirom_1.md,phrase,"உங்கள் - தவைருக்குத்
-திருமணமாமே","உங்கள் தலைவருக்குத்
-திருமணமாமே",1,part 1 scan 7 clearly prints உங்கள் தலைவருக்குத்
-katturaigal/vetkapadugirom_1.md,phrase,"திருமணமாமே!!"" என்று. கேட்கும்","திருமணமாமே!!"" என்று கேட்கும்",1,part 1 scan 7 contains no full stop after என்று
-katturaigal/vetkapadugirom_1.md,phrase,"ஒருகாலை
-வீட்டிலும் இன்னொரு . காலைச்","ஒருகாலை
-வீட்டிலும் இன்னொரு காலைச்",1,part 1 scan 8 contains no full stop
-katturaigal/vetkapadugirom_1.md,phrase,அழுகிறப்டி,அழுகிறபடி,1,part 1 scan 8 clearly prints அழுகிறபடி
-katturaigal/vetkapadugirom_1.md,phrase,கிறார்களே. ்,கிறார்களே.,1,part 1 scan 8 contains no trailing OCR glyph
-katturaigal/vetkapadugirom_1.md,phrase,ஊரிலே. நடைபெறும்,ஊரிலே நடைபெறும்,1,part 1 scan 8 contains no full stop
-katturaigal/vetkapadugirom_1.md,phrase,"தலைவர்,துற விக்கோலத்தில்","தலைவர், துறவிக்கோலத்தில்",1,part 1 scan 8 clearly prints துறவிக்கோலத்தில்
-katturaigal/vetkapadugirom_1.md,phrase,"என்ன, எங்கே
-உங்கள் பிரச்சார யோக்கியதை :- என்ன","என்ன, எங்கே
-உங்கள் பிரச்சார யோக்கியதை - என்ன",1,part 1 scan 8 confirms the wording and dash
-katturaigal/vetkapadugirom_1.md,phrase,எப்படி. இந்த அக்ரமத்தை,எப்படி இந்த அக்ரமத்தை,1,part 1 scan 8 contains no full stop
-katturaigal/vetkapadugirom_1.md,phrase,தக்க. ஆபாசத்தை,தக்க ஆபாசத்தை,1,part 1 scan 8 contains no full stop
-katturaigal/vetkapadugirom_1.md,phrase,நம்மால் தாங்கிக் கொள்ள மூடியவில்லை,நம்மால் தாங்கிக் கொள்ள முடியவில்லை,1,part 1 scan 9 clearly prints முடியவில்லை
-katturaigal/vetkapadugirom_1.md,phrase,அவமானம். தரும்,அவமானம் தரும்,1,part 1 scan 10 contains no full stop
-katturaigal/vetkapadugirom_1.md,phrase,இந்த. வளர்ச்சி,இந்த வளர்ச்சி,1,part 1 scan 10 contains no full stop
-katturaigal/vetkapadugirom_1.md,phrase,உலகின் மூன் தலைகாட்ட மூடியாத,உலகின் முன் தலைகாட்ட முடியாத,1,part 1 scan 10 clearly prints முன் and முடியாத
-katturaigal/vetkapadugirom_1.md,phrase,தாயை மாங்கள் கண்டதில்லை,தாயை நாங்கள் கண்டதில்லை,1,part 1 scan 11 clearly prints நாங்கள்
-katturaigal/vetkapadugirom_1.md,phrase,தேடி தருகிறீர்,தேடித் தருகிறீர்,1,part 1 scan 11 clearly prints தேடித்
-katturaigal/vetkapadugirom_1.md,phrase,எப்படித். தாங்குவோம்,எப்படித் தாங்குவோம்,1,part 1 scan 11 contains no full stop
-katturaigal/vetkapadugirom_1.md,phrase,மறுக்கமூடியாதே,மறுக்க முடியாதே,1,part 1 scan 11 clearly prints மறுக்க முடியாதே
-katturaigal/vetkapadugirom_1.md,phrase,துடைக்க மூடியாத கறை,துடைக்க முடியாத கறை,1,part 1 scan 11 clearly prints முடியாத
-katturaigal/vetkapadugirom_1.md,phrase,மறுக்க மூடியாதே,மறுக்க முடியாதே,1,part 1 scan 11 clearly prints மறுக்க முடியாதே
-katturaigal/vetkapadugirom_1.md,phrase,துடைத்தப்படி,துடைத்தபடி,1,part 1 scan 11 clearly prints துடைத்தபடி
-katturaigal/vetkapadugirom_1.md,phrase,பேச்சு - ட்... ஏற்க மறுக்கிறார்,பேச்சு - எதையும் ஏற்க மறுக்கிறார்,1,part 1 scan 11 clearly prints எதையும் ஏற்க மறுக்கிறார்
-katturaigal/vetkapadugirom_1.md,phrase,காட்டியத் தன்மை,காட்டிய தன்மை,1,part 1 scan 12 clearly prints காட்டிய தன்மை
-katturaigal/vetkapadugirom_1.md,phrase,ஒரு. 'மாது',ஒரு 'மாது',1,part 1 scan 12 contains no full stop
-katturaigal/vetkapadugirom_1.md,phrase,உடலைப்பாதுகாக்க,உடலைப் பாதுகாக்க,1,part 1 scan 12 clearly separates உடலைப் பாதுகாக்க
-katturaigal/vetkapadugirom_1.md,phrase,"பெரியாருக்கு, மகனோ, மகளோ இல்லை இ
-மணியம்மையாரின்","பெரியாருக்கு, மகனோ, மகளோ இல்லை.
-மணியம்மையாரின்",1,part 1 scan 12 ends the sentence after இல்லை and contains no stray இ
-katturaigal/vetkapadugirom_1.md,phrase,"தொண்டு
-புரிய ஆனால்அண்ணன் உண்டு","தொண்டு
-புரிய அண்ணன் உண்டு",1,part 1 scan 12 clearly prints புரிய அண்ணன்
-katturaigal/vetkapadugirom_1.md,phrase,குமாரிகள் முவர்,குமாரிகள் மூவர்,1,part 1 scan 12 clearly prints மூவர்
-katturaigal/vetkapadugirom_1.md,phrase,"வேற்றுக் குடும்பத்துப் பெண்வந்து ,
-சேருமுன்பு","வேற்றுக் குடும்பத்துப் பெண் வந்து
-சேருமுன்பு",1,part 1 scan 12 clearly prints பெண் வந்து
-katturaigal/vetkapadugirom_1.md,phrase,திராவிடர்கள் மூதலிலே,திராவிடர்கள் முதலிலே,1,part 1 scan 13 clearly prints முதலிலே
-katturaigal/vetkapadugirom_1.md,phrase,"இந்தத் த்
-
-டம்
-
-ரமண விஷயமாக",இந்தத் திருமண விஷயமாக,1,part 1 scan 15 clearly prints இந்தத் திருமண விஷயமாக; OCR dropped the middle of the phrase
-katturaigal/vetkapadugirom_1.md,phrase,வணக்கஞ் சொல்லு” என்று . கூறினர்,வணக்கஞ் சொல்லு” என்று கூறினர்,1,part 1 scan 14 contains no full stop after என்று
-katturaigal/vetkapadugirom_1.md,phrase,வந்திருந்தாரே சொன்னாரா” என்று. முன்னாள்,வந்திருந்தாரே சொன்னாரா” என்று முன்னாள்,1,part 1 scan 15 contains no full stop after என்று
-katturaigal/vetkapadugirom_1.md,phrase,“ஐயோ. நான் அறியேனே,“ஐயோ நான் அறியேனே,1,part 1 scan 15 contains no full stop after ஐயோ
-katturaigal/vetkapadugirom_1.md,phrase,போவதாகக். கூறிவிட்டு,போவதாகக் கூறிவிட்டு,1,part 1 scan 17 contains no full stop
-katturaigal/vetkapadugirom_1.md,phrase,முடிவு செய்தனர் : - .முதற் தூதுக் கோஷ்டி,முடிவு செய்தனர் - முதற் தூதுக் கோஷ்டி,1,part 1 scan 17 confirms the dash and contains no OCR dot
-katturaigal/vetkapadugirom_1.md,phrase,விளக்கம் -. சமாதானம்,விளக்கம் - சமாதானம்,1,part 1 scan 17 contains no OCR dot
-katturaigal/vetkapadugirom_1.md,phrase,சென்னைத் . திராவிட . கழக,சென்னைத் திராவிட கழக,1,part 1 scan 17 contains no inserted full stops
-katturaigal/vetkapadugirom_2.md,phrase,தமது மூடிவை,தமது முடிவை,1,part 2 scan 1 clearly prints முடிவை
-katturaigal/vetkapadugirom_2.md,phrase,"அவருக்கு. அனுப்பப்
-பட்டன","அவருக்கு அனுப்பப்
-பட்டன",1,part 2 scan 1 contains no full stop
-katturaigal/vetkapadugirom_2.md,phrase,"
-ன்
-சென்னை மாவட்ட","
-சென்னை மாவட்ட",1,"part 2 scan 1 contains an ornament, not the letter ன்"
-katturaigal/vetkapadugirom_2.md,phrase,காலை 56-30,காலை 6-30,1,part 2 scan 1 clearly prints 6-30
-katturaigal/vetkapadugirom_2.md,phrase,மவண்ட்ரோட்,மவுண்ட்ரோட்,1,part 2 scan 1 clearly prints மவுண்ட்ரோட்
-katturaigal/vetkapadugirom_2.md,phrase,". பிரமுகர்களும், நிர்வாக உறுப்பினர்களும். வந்திருந்தனர். .","பிரமுகர்களும், நிர்வாக உறுப்பினர்களும் வந்திருந்தனர்.",1,part 2 scan 1 contains no OCR punctuation artifacts
-katturaigal/vetkapadugirom_2.md,phrase,ஆர்.டி.அரசு:,"ஆர்.டி. அரசு,",1,part 2 scan 2 clearly prints the name and comma
-katturaigal/vetkapadugirom_2.md,phrase,பி.ள். ராமலிங்கம்,பி.எல். ராமலிங்கம்,1,part 2 scan 2 clearly prints பி.எல்.
-katturaigal/vetkapadugirom_2.md,phrase,"(பி.ஏ.
-ஆனர்ஸ்!. சத்யவாணி","(பி.ஏ.
-ஆனர்ஸ்), சத்யவாணி",1,part 2 scan 2 clearly closes the parenthesis after ஆனர்ஸ்
-katturaigal/vetkapadugirom_2.md,phrase,சிவி.ராஜன்,சி.வி. ராஜன்,1,part 2 scan 2 clearly prints the initials separately
-katturaigal/vetkapadugirom_2.md,phrase,க.அலின்,க. அலின்,1,part 2 scan 2 confirms the name spacing
-katturaigal/vetkapadugirom_2.md,phrase,ஏ!.சி.  பாலசுந்தரன்,ஏ.சி. பாலசுந்தரன்,1,part 2 scan 2 contains no exclamation mark
-katturaigal/vetkapadugirom_2.md,phrase,டி.௪. சித்தார்த்தன்,டி.எ. சித்தார்த்தன்,1,part 2 scan 2 clearly prints டி.எ.
-katturaigal/vetkapadugirom_2.md,phrase,வல்லி.துரைராசன்,வல்லி. துரைராசன்,1,part 2 scan 2 confirms the name spacing
-katturaigal/vetkapadugirom_2.md,phrase,"“சொ.
-கொ.முத்துக்குமாரசாமி","சொ.
-கொ. முத்துக்குமாரசாமி",1,part 2 scan 2 contains no opening quotation mark
-katturaigal/vetkapadugirom_2.md,phrase,சி.டிடி அரசு,சி.டி.டி. அரசு,1,part 2 scan 2 clearly prints சி.டி.டி.
-katturaigal/vetkapadugirom_2.md,phrase,பாவலர்: அப்துல்காதர்,பாவலர் அப்துல்காதர்,1,part 2 scan 2 contains no colon
-katturaigal/vetkapadugirom_2.md,phrase,"கே.௪.மணி ""ஆகியோரின்",கே.எ. மணி ஆகியோரின்,1,part 2 scan 2 clearly prints கே.எ. மணி and contains no quotation mark
-katturaigal/vetkapadugirom_2.md,phrase,இதை. உடனே,இதை உடனே,1,part 2 scan 3 contains no full stop
-katturaigal/vetkapadugirom_2.md,phrase,"3, மேற்படி",3. மேற்படி,1,part 2 scan 3 prints item number 3 with a full stop
-katturaigal/vetkapadugirom_2.md,phrase,"
-வ
-சீஜி௩
-
-இவைகளுக்குப்","
-இவைகளுக்குப்",1,"part 2 scan 4 has an ornament, not text"
-katturaigal/vetkapadugirom_2.md,phrase,திருமண ஏற்பாட்டுக்குப் . பெரியார்,திருமண ஏற்பாட்டுக்குப் பெரியார்,1,part 2 scan 4 contains no full stop
-katturaigal/vetkapadugirom_2.md,phrase,செயல்: அல்ல,செயல் அல்ல,1,part 2 scan 4 contains no colon
-katturaigal/vetkapadugirom_2.md,phrase,பதைத்துக் கட்கும்,பதைத்துக் கேட்கும்,1,part 2 scan 5 clearly prints கேட்கும்
-katturaigal/vetkapadugirom_2.md,phrase,காரணமற்று. என்றா,காரணமற்று என்றா,1,part 2 scan 5 contains no full stop
-katturaigal/vetkapadugirom_2.md,phrase,சட்டப்பூர்வமாக. என்,சட்டப்பூர்வமாக என்,1,part 2 scan 5 contains no full stop
-katturaigal/vetkapadugirom_2.md,phrase,தகாத மூறையினால்,தகாத முறையினால்,1,part 2 scan 5 clearly prints முறையினால்
-katturaigal/vetkapadugirom_2.md,phrase,யாருக்கும் இயக்கத்தை - நடத்திச்,யாருக்கும் இயக்கத்தை நடத்திச்,1,part 2 scan 6 contains no dash
-katturaigal/vetkapadugirom_2.md,phrase,எந்த மூறையில்,எந்த முறையில்,1,part 2 scan 6 clearly prints முறையில்
-katturaigal/vetkapadugirom_2.md,phrase,பொறுக்க மூடியாத,பொறுக்க முடியாத,1,part 2 scan 7 clearly prints முடியாத
-katturaigal/vetkapadugirom_2.md,phrase,"பெரியார், கூறினாராம்",பெரியார் கூறினாராம்,1,part 2 scan 7 contains no comma
-katturaigal/vetkapadugirom_2.md,phrase,காலம் மூதற்கொண்டு,காலம் முதற்கொண்டு,1,part 2 scan 8 clearly prints முதற்கொண்டு
-katturaigal/vetkapadugirom_2.md,phrase,வார்சு மூறை,வார்சு முறை,1,part 2 scan 8 clearly prints முறை
-katturaigal/vetkapadugirom_2.md,phrase,"எந்தக்
-காலத்து மூறை","எந்தக்
-காலத்து முறை",1,part 2 scan 8 clearly prints முறை
-katturaigal/vetkapadugirom_2.md,phrase,யார் செய்யும் ஏற்பாடு. எந்தக்,யார் செய்யும் ஏற்பாடு? எந்தக்,1,part 2 scan 8 clearly prints a question mark
-katturaigal/vetkapadugirom_2.md,phrase,வேலை நடப்பதை பாருங்கள்,வேலை நடப்பதைப் பாருங்கள்,1,part 2 scan 8 clearly prints நடப்பதைப்
-katturaigal/vetkapadugirom_2.md,phrase,"
-ப “எனக்கு வாரிசாக","
-“எனக்கு வாரிசாக",1,part 2 scan 9 contains no stray ப
-katturaigal/vetkapadugirom_2.md,phrase,இந்தக். கருத்துக்களைப்,இந்தக் கருத்துக்களைப்,1,part 2 scan 10 contains no full stop
-katturaigal/vetkapadugirom_2.md,phrase,“ஏதோ. இவர் மேல்,“ஏதோ இவர் மேல்,1,part 2 scan 10 contains no full stop
-katturaigal/vetkapadugirom_2.md,phrase,நம்ப வேண்டும்? ப,நம்ப வேண்டும்?,1,part 2 scan 10 contains no trailing ப
-katturaigal/vetkapadugirom_2.md,phrase,நாம். இதுவரை,நாம் இதுவரை,1,part 2 scan 11 contains no full stop
-katturaigal/vetkapadugirom_2.md,phrase,பதிவுத் .திருமணம்,பதிவுத் திருமணம்,1,part 2 scan 11 contains no full stop
-katturaigal/vetkapadugirom_2.md,phrase,"இந்
-நிலையில்",இந்நிலையில்,1,part 2 scan 11 prints இந்நிலையில் as one word
-katturaigal/vetkapadugirom_2.md,phrase,கேட்டு அழுது கொண்டிருப்பவர்களுக்கு. மேலும்,கேட்டு அழுது கொண்டிருப்பவர்களுக்கு மேலும்,1,part 2 scan 11 contains no full stop
-katturaigal/vetkapadugirom_2.md,phrase,வேதனையை எட்டியது,வேதனையை ஊட்டியது,1,part 2 scan 11 clearly prints வேதனையை ஊட்டியது
-katturaigal/vetkapadugirom_2.md,phrase,"கோட்டையி
-லிருந்து",கோட்டையிலிருந்து,1,part 2 scan 11 prints the word continuously across OCR line noise
-katturaigal/vetkapadugirom_2.md,phrase,"பாடு
-பட்டதின்",பாடுபட்டதின்,1,part 2 scan 11 prints பாடுபட்டதின் as one word
-katturaigal/vetkapadugirom_2.md,phrase,"
-93
-சீத
-பெரியார் விளக்கம்","
-பெரியார் விளக்கம்",1,"part 2 scan 12 has an ornament, not the OCR text 93 சீத"
-katturaigal/vetkapadugirom_2.md,phrase,"நடவடிக்கை
-களுக்கும்",நடவடிக்கைகளுக்கும்,1,part 2 scan 12 prints நடவடிக்கைகளுக்கும் as one word
-katturaigal/vetkapadugirom_2.md,phrase,௪. பாலசுந்தரம்,சு. பாலசுந்தரம்,1,part 2 scan 13 clearly prints சு.
-katturaigal/vetkapadugirom_2.md,phrase,பா.” கோவிந்தராசன்,பா. கோவிந்தராசன்,1,part 2 scan 13 contains no quotation mark
-katturaigal/vetkapadugirom_2.md,phrase,௭. ஜெயராமன்,எ. ஜெயராமன்,1,part 2 scan 13 clearly prints எ.
-katturaigal/vetkapadugirom_2.md,phrase,மூ. மதுரை,மு. மதுரை,1,part 2 scan 13 clearly prints மு.
-katturaigal/vetkapadugirom_2.md,phrase,௭.எஸ். ராமன்,எ.எஸ். ராமன்,1,part 2 scan 13 clearly prints எ.எஸ்.
-katturaigal/vetkapadugirom_2.md,phrase,கி: பக்தவச்சலம்,கி. பக்தவச்சலம்,1,part 2 scan 13 prints a full stop after the initial
-katturaigal/vetkapadugirom_2.md,phrase,சொ.அ௮.அ. பால்ராஜி,சொ.அ.அ. பால்ராஜி,1,part 2 scan 13 clearly prints சொ.அ.அ.
-katturaigal/vetkapadugirom_2.md,phrase,கா சொக்கலிங்கம். கே. கண்ணபிரான்,"கா. சொக்கலிங்கம், கே. கண்ணபிரான்",1,part 2 scan 13 confirms the initials and comma
-katturaigal/vetkapadugirom_2.md,phrase,ஏ. சங்கரன். சி. கணேசன்,"ஏ. சங்கரன், சி. கணேசன்",1,part 2 scan 13 separates the names with a comma
-katturaigal/vetkapadugirom_2.md,phrase,என்.வி நடராசன்,என்.வி. நடராசன்,1,part 2 scan 13 clearly prints என்.வி.
-katturaigal/vetkapadugirom_2.md,phrase,"
-ட
-ச
-
-நாங்கள்","
-நாங்கள்",1,"part 2 scan 13 has an ornament, not the letters ட ச"
-katturaigal/vetkapadugirom_2.md,phrase,கழக்திலே,கழகத்திலே,1,part 2 scan 14 clearly prints கழகத்திலே
-katturaigal/vetkapadugirom_2.md,phrase,"பணியாற்றுவ
-தில்லை",பணியாற்றுவதில்லை,1,part 2 scan 14 prints பணியாற்றுவதில்லை as one word
-katturaigal/vetkapadugirom_2.md,phrase,"தலைமைய
-ஏற்கமாட்டோம்","தலைமையை
-ஏற்கமாட்டோம்",1,part 2 scan 15 clearly prints தலைமையை
-katturaigal/vetkapadugirom_2.md,phrase,இதைவிட உருவான முறையிலே நம்மால். இயக்கத்தை,இதைவிட உருவான முறையிலே நம்மால் இயக்கத்தை,1,part 2 scan 16 contains no full stop
-katturaigal/vetkapadugirom_2.md,phrase,உம்மூடன்,உம்முடன்,1,part 2 scan 16 clearly prints உம்முடன்
-katturaigal/vetkapadugirom_2.md,phrase,"தடுமாற்றத்திற்கு இடமளிக்கா
-தீர்கள்",தடுமாற்றத்திற்கு இடமளிக்காதீர்கள்,1,part 2 scan 16 prints இடமளிக்காதீர்கள் as one word
-katturaigal/vetkapadugirom_2.md,phrase,"தீர்மானி
-யுங்கள்",தீர்மானியுங்கள்,1,part 2 scan 17 prints தீர்மானியுங்கள் as one word
-katturaigal/vetkapadugirom_2.md,phrase,(திராவிட நாடு - 37.49),(திராவிட நாடு - 3.7.49),1,part 2 scan 17 clearly prints the publication date 3.7.49
+katturaigal/nangal_kattada.md,phrase,1 0. நாங்கள் கட்டடமில்லாத கல்லூரி !,10. நாங்கள் கட்டடமில்லாத கல்லூரி!,1,scan 1 clearly prints the numbered title
+katturaigal/nangal_kattada.md,phrase,ஏற்படணே்டும்,ஏற்படவேண்டும்,1,scan 1 clearly prints ஏற்படவேண்டும்
+katturaigal/nangal_kattada.md,phrase,"இடங்
+்... கொடுக்காது.","இடங்
+கொடுக்காது.",1,scan 1 has no OCR glyphs before கொடுக்காது
+katturaigal/nangal_kattada.md,phrase,துடைநடுங்கிகள்,தொடைநடுங்கிகள்,1,scan 2 clearly prints தொடைநடுங்கிகள்
+katturaigal/nangal_kattada.md,phrase,ஓமந்தாூராருக்கு எச்சரிக்கை விடுத்து ௮ச்சடிக்கப்பட்டுள்ள,ஓமந்தூராருக்கு எச்சரிக்கை விடுத்து அச்சடிக்கப்பட்டுள்ள,1,scan 2 confirms both readings
+katturaigal/nangal_kattada.md,phrase,அவருடையு சிந்தனைக்கே,அவருடைய சிந்தனைக்கே,1,scan 2 clearly prints அவருடைய
+katturaigal/nangal_kattada.md,phrase,"கம்பிகளைப்
+__ பிடித்து","கம்பிகளைப்
+பிடித்து",1,scan 3 has no underscore ornament
+katturaigal/nangal_kattada.md,phrase,"கல
+கலத்துப்போகிறது",கலகலத்துப்போகிறது,1,scan 3 prints the word continuously
+katturaigal/nangal_kattada.md,phrase,"பார்த்திராதவனு
+மல்ல",பார்த்திராதவனுமல்ல,1,scan 4 prints the word continuously
+katturaigal/nangal_kattada.md,phrase,கருத்துக் கேற்றபடி . காரியங்களைச்,கருத்துக்கேற்றபடி காரியங்களைச்,1,scan 4 has neither a split nor a full stop
+katturaigal/nangal_kattada.md,phrase,"புறக்கணித்துவிட்டது என்பதை .
+வேதனையோடு","புறக்கணித்துவிட்டது என்பதை
+வேதனையோடு",1,scan 4 has no full stop after என்பதை
+katturaigal/nangal_kattada.md,phrase,சாதகமாக்கித தேர்தல் குதாட்டத்திலே,சாதகமாக்கித் தேர்தல் சூதாட்டத்திலே,1,scan 4 clearly prints சாதகமாக்கித் தேர்தல் சூதாட்டத்திலே
+katturaigal/nangal_kattada.md,phrase,உழவரா்களைப்,உழவர்களைப்,1,scan 4 clearly prints உழவர்களைப்
+katturaigal/nangal_kattada.md,phrase,வாழ்க்கைத் தரத்தைப் (5/2112876 07 (///2) உயாத்தப்,வாழ்க்கைத் தரத்தைப் (Standard of life) உயர்த்தப்,1,scan 6 clearly preserves the English phrase and உயர்த்தப்
+katturaigal/nangal_kattada.md,phrase,"விவசாயம் ஒன்றையே
+தம்பி வாழ","விவசாயம் ஒன்றையே
+நம்பி வாழ",1,scan 6 clearly prints நம்பி வாழ
+katturaigal/nangal_kattada.md,phrase,முன்னாள் முதலமைச்சா்,முன்னாள் முதலமைச்சர்,1,scan 6 confirms the standard ர் glyph
+katturaigal/nangal_kattada.md,phrase,"விவசாரிகளுக்கென்ற அமைப்புள்ள சங்கங்கள் அவசியம்
+. தேவை, அதிலும் கட்சிச் சார்பற்ற, விவாயிகளின் வேதனைகளைப் போக்க:
+பாடுபடும் சங்கடங்கள் மிக மிகத் தேவை அதிலும், தன்னலமற்ற.","விவசாயிகளுக்கென்ற அமைப்புள்ள சங்கங்கள் அவசியம்
+தேவை, அதிலும் கட்சிச் சார்பற்ற, விவசாயிகளின் வேதனைகளைப் போக்கப்
+பாடுபடும் சங்கங்கள் மிக மிகத் தேவை; அதிலும், தன்னலமற்ற",1,"scan 6 restores விவசாயிகள், சங்கங்கள் and the printed punctuation"
+katturaigal/nangal_kattada.md,phrase,விரும்புகிறேன் ்,விரும்புகிறேன்.,1,scan 6 ends the sentence with a full stop
+katturaigal/nangal_kattada.md,phrase,கொண்டே விவசாகளுக்குப்,கொண்டே விவசாயிகளுக்குப்,1,scan 7 clearly prints விவசாயிகளுக்குப்
+katturaigal/nangal_kattada.md,phrase,"வேதனையை உணராக அரசியல்
+வாதிகளைவிட","வேதனையை உணராத அரசியல்
+வாதிகளைவிட",1,scan 7 clearly prints உணராத
+katturaigal/nangal_kattada.md,phrase,துயர் துடைகக,துயர் துடைக்க,1,scan 7 clearly prints துடைக்க
+katturaigal/nangal_kattada.md,phrase,கொள்ளாதோரில்லை/,கொள்ளாதோரில்லை!,1,scan 7 ends the sentence with an exclamation mark
+katturaigal/nangal_kattada.md,phrase,எங்களாலான. உதவி,எங்களாலான உதவி,1,scan 8 has no full stop between the words
+katturaigal/nangal_kattada.md,phrase,"
+, பழைமையை","
+பழைமையை",1,scan 8 has no leading comma
+katturaigal/nangal_kattada.md,phrase,"இழந்த பெருமையை
+காம் பெற","இழந்த பெருமையை
+நாம் பெற",1,scan 8 clearly prints நாம் பெற
+katturaigal/nangal_kattada.md,phrase,நமது பதம் முறையும்,நமது வாழ்க்கை முறையும்,1,scan 9 clearly prints நமது வாழ்க்கை முறையும்
+katturaigal/nangal_kattada.md,phrase,தோளிலே. மண்வெட்டி,தோளிலே மண்வெட்டி,1,scan 9 has no full stop after தோளிலே
+katturaigal/nangal_kattada.md,phrase,"அறிந்திருக் .
+கிறானேயொழிய",அறிந்திருக்கிறானேயொழிய,1,scan 9 prints the word continuously
+katturaigal/nangal_kattada.md,phrase,எமது நோக்கம் கடவுளை மறுக்கவும்,எமது நோக்கம். கடவுளை மறுக்கவும்,1,scan 9 has a full stop after நோக்கம்
+katturaigal/nangal_kattada.md,phrase,ஒளி - ஓலி,ஒளி - ஒலி,1,scan 10 clearly prints ஒலி
+katturaigal/nangal_kattada.md,phrase,"நன்மையைத்
+தீரும் மின்சாரம்","நன்மையைத்
+தரும் மின்சாரம்",1,scan 10 clearly prints தரும்
+katturaigal/nangal_kattada.md,phrase,"கல்வியைத்
+தீருவது","கல்வியைத்
+தருவது",1,scan 10 clearly prints தருவது
+katturaigal/nangal_kattada.md,phrase,முடியாத - எனவேதான்,முடியாது - எனவேதான்,1,scan 10 clearly prints முடியாது
+katturaigal/nangal_kattada.md,phrase,அதைப்பற்றி௮க்கறை,அதைப்பற்றி அக்கறை,1,scan 10 has a word boundary and Tamil அ
+katturaigal/nangal_kattada.md,phrase,கோபுரம் ஓன்று,கோபுரம் ஒன்று,1,scan 11 clearly prints ஒன்று
+katturaigal/nangal_kattada.md,phrase,"என்ன கோயில், ௮ங்கேயிருக்கும்","என்ன கோயில், அங்கேயிருக்கும்",1,scan 11 uses Tamil அ
+katturaigal/nangal_kattada.md,phrase,"ஏன் ட்ட
+கலப்பையிடம்","ஏன் இயந்திரக்
+கலப்பையிடம்",1,scan 11 clearly prints இயந்திரக் கலப்பையிடம்
+katturaigal/nangal_kattada.md,phrase,அதே சிராமவாசியைக்,அதே கிராமவாசியைக்,1,scan 11 clearly prints கிராமவாசியைக்
+katturaigal/nangal_kattada.md,phrase,தெரியுமா?ஈ,தெரியுமா?,1,scan 12 has no trailing OCR glyph
+katturaigal/nangal_kattada.md,phrase,கிராமக் கண் காட்சிகள்,கிராமக் கண்காட்சிகள்,1,scan 12 prints கண்காட்சிகள் continuously
+katturaigal/nangal_kattada.md,phrase,"மிக
+். மிகப்பலன்தரும்","மிக
+மிகப்பலன்தரும்",1,scan 12 has no OCR glyphs between repeated மிக
+katturaigal/nangal_kattada.md,phrase,"கருத்துக்
+களையெல்லாம்",கருத்துக்களையெல்லாம்,1,scan 13 prints the word continuously
+katturaigal/nangal_kattada.md,phrase,மடுவுக்குமூள்ள,மடுவுக்குமுள்ள,1,scan 14 clearly prints மடுவுக்குமுள்ள
+katturaigal/nangal_kattada.md,phrase,பாடுபடணேடும்,பாடுபடவேண்டும்,1,scan 14 clearly prints பாடுபடவேண்டும்
+katturaigal/nangal_kattada.md,phrase,"புதுத்
+தென்போடு, ஐயகோஷத்தோடு","புதுத்
+தெம்போடு, ஜயகோஷத்தோடு",1,scan 14 clearly prints தெம்போடு and ஜயகோஷத்தோடு
+katturaigal/nangal_kattada.md,phrase,ஓரே இடத்தில்,ஒரே இடத்தில்,1,scan 15 clearly prints ஒரே
+katturaigal/nangal_kattada.md,phrase,விவசாய மூன்னேற்றம்,விவசாய முன்னேற்றம்,1,scan 15 clearly prints முன்னேற்றம்
+katturaigal/nangal_kattada.md,phrase,பொறுப்பு இருப்பதால் நிஎ:3 அதிகம் படைத்தோரின்,பொறுப்பு இருப்பதால் நிலம் அதிகம் படைத்தோரின்,1,scan 15 clearly prints நிலம் அதிகம் படைத்தோரின்
+katturaigal/nangal_kattada.md,phrase,"தலை தூக்கித் தாண்டவ
+மாடிற்று",தலை தூக்கித் தாண்டவமாடிற்று,1,scan 15 prints the verb continuously
+katturaigal/nangal_kattada.md,phrase,தீப்பந்தம் ௮ங்கே,தீப்பந்தம் அங்கே,1,scan 16 uses Tamil அ
+katturaigal/nangal_kattada.md,phrase,வலியுறுத்தகிறேன்,வலியுறுத்துகிறேன்,1,scan 16 clearly prints வலியுறுத்துகிறேன்
+katturaigal/nangal_kattada.md,phrase,பேசவார்?,பேசுவார்?,1,scan 16 clearly prints பேசுவார்
+katturaigal/nangal_kattada.md,phrase,வேதனையோடு பேசினார் முந்நாள்,வேதனையோடு பேசினார் முன்னாள்,1,scan 16 clearly prints முன்னாள்
+katturaigal/nangal_kattada.md,phrase,"என்பதைப் -
+யல்லவா",என்பதையல்லவா,1,scan 16 prints என்பதையல்லவா continuously
+katturaigal/nangal_kattada.md,phrase,விவசாயி சிந்தும் வியரவை,விவசாயி சிந்தும் வியர்வை,1,scan 16 clearly prints வியர்வை
+katturaigal/nangal_kattada.md,phrase,"உழைப்புச'சக்தியைத் தர
+எவ்வளவுகஷ்டநஷ்டமடைந்திருப்பர் விவசாயிமக்கள்","உழைப்புச் சக்தியைத் தர
+எவ்வளவு கஷ்டநஷ்டமடைந்திருப்பர் விவசாயி மக்கள்",1,scan 17 restores the word boundaries and apostrophe-free சக்தி
+katturaigal/nangal_kattada.md,phrase,புள்ளிவிவரம் பெற. விவசாயிகள்,புள்ளிவிவரம் பெற விவசாயிகள்,1,scan 17 has no full stop after பெற
+katturaigal/nangal_kattada.md,phrase,ஒ௫வேளை மாஸ்கோவுக்குப்,ஒருவேளை மாஸ்கோவுக்குப்,1,scan 17 clearly prints ஒருவேளை with no Tamil numeral
+katturaigal/nangal_kattada.md,phrase,"நின்றுகொண்டி
+ரப்பதைக்",நின்றுகொண்டிருப்பதைக்,1,scan 17 clearly prints நின்றுகொண்டிருப்பதைக்
+katturaigal/nangal_kattada.md,phrase,"இருக்கிறது”
+் என்றாராம்","இருக்கிறது'
+என்றாராம்",1,scan 17 closes the quotation without a stray OCR glyph
+katturaigal/nangal_kattada.md,phrase,கவலை யேற்படக்,கவலை ஏற்படக்,1,scan 17 clearly prints கவலை ஏற்படக்
+katturaigal/nangal_kattada.md,phrase,"கஷ்ட
+தஷ்டப்பட்டிருப்பர்","கஷ்ட
+நஷ்டப்பட்டிருப்பர்",1,scan 18 clearly prints நஷ்டப்பட்டிருப்பர்
+katturaigal/nangal_kattada.md,phrase,"
+. சாதாரணமாக","
+சாதாரணமாக",1,scan 18 has no leading full stop
+katturaigal/nangal_kattada.md,phrase,நாம். முூன்னேறவில்லையே,நாம் முன்னேறவில்லையே,1,scan 18 clearly prints நாம் முன்னேறவில்லையே
+katturaigal/nangal_kattada.md,phrase,பதைத்கிறோம்,பதைக்கிறோம்,1,scan 18 clearly prints பதைக்கிறோம்
+katturaigal/nangal_kattada.md,phrase,சங்கராச்சரியார்,சங்கராச்சாரியார்,1,scan 18 clearly prints சங்கராச்சாரியார்
+katturaigal/nangal_kattada.md,phrase,"மோகனாஸ்திரம்
+௮க்னியாஸ்திரம்","மோகனாஸ்திரம்
+அக்னியாஸ்திரம்",1,scan 19 uses Tamil அ
+katturaigal/nangal_kattada.md,phrase,எதிலும் உஎண்டு,எதிலும் உண்டு,1,scan 19 clearly prints உண்டு
+katturaigal/nangal_kattada.md,phrase,"அதிகப் பயன்
+ச்ரீப்்றயா 1௭6௦17 42011 821471 பெற்று வருகிறோம். நாம் இது,","அதிகப் பயன்
+Minimum Labour Maximum Benefit பெற்று வருகிறோம். நாம் இது,",1,scan 20 clearly preserves the English phrase Minimum Labour Maximum Benefit
+katturaigal/nangal_kattada.md,phrase,போயிருக்அிறார்கள்,போயிருக்கிறார்கள்,1,scan 20 clearly prints போயிருக்கிறார்கள்
+katturaigal/nangal_kattada.md,phrase,சொல்லமாட்டாள் உங்களுக்கு,சொல்லமாட்டான் உங்களுக்கு,1,scan 20 clearly prints சொல்லமாட்டான்
+katturaigal/nangal_kattada.md,phrase,"இப்படிப்பட்டவர்களா, விஞ்ஞானிகள். இல்லையே/","இப்படிப்பட்டவர்களா, விஞ்ஞானிகள். இல்லையே!",1,scan 21 ends the sentence with an exclamation mark
+katturaigal/nangal_kattada.md,phrase,என்று நினைக்கிறீர்கள் 2,என்று நினைக்கிறீர்கள்?,1,scan 21 ends the question with a question mark
+katturaigal/nangal_kattada.md,phrase,"தலைக்குக் கொஞ்சம் .
+எண்ணெய்!","தலைக்குக் கொஞ்சம்
+எண்ணெய்!",1,scan 21 has no full stop after கொஞ்சம்
+katturaigal/nangal_kattada.md,phrase,மனைவிமானமுடன்,மனைவி மானமுடன்,1,scan 21 has a word boundary between மனைவி and மானமுடன்
+katturaigal/nangal_kattada.md,phrase,அவனுக்கு நாகரிகமான ஆடை],அவனுக்கு நாகரிகமான ஆடை!,1,scan 21 ends the phrase with an exclamation mark
+katturaigal/nangal_kattada.md,phrase,வாழ்க்கைக் காகச்,வாழ்க்கைக்காகச்,1,scan 21 prints வாழ்க்கைக்காகச் continuously
+katturaigal/nangal_kattada.md,phrase,கஷ்டப்பட நேர்நீததுண்டு,கஷ்டப்பட நேர்ந்ததுண்டு,1,scan 22 clearly prints நேர்ந்ததுண்டு
+katturaigal/nangal_kattada.md,phrase,"கொண்டோமே
+தீவிர","கொண்டோமே
+தவிர",1,scan 22 clearly prints தவிர
+katturaigal/nangal_kattada.md,phrase,"என்று , நாங்கள்","என்று, நாங்கள்",1,scan 22 has no space before the comma
+katturaigal/nangal_kattada.md,phrase,'ஓம்ற்தூரார் காலத்திலுமா....?,'ஓமந்தூரார் காலத்திலுமா....?',1,scan 22 clearly prints ஓமந்தூரார் and closes the quotation
+katturaigal/nangal_kattada.md,phrase,கேட்டோமே தீவிர,கேட்டோமே தவிர,1,scan 22 clearly prints தவிர
+katturaigal/nangal_kattada.md,phrase,"கூறிக்
+். கொள்வதோடு","கூறிக்
+கொள்வதோடு",1,scan 22 has no stray OCR glyphs before கொள்வதோடு
+katturaigal/nangal_kattada.md,phrase,"ஏற்க,அவரே","ஏற்க, அவரே",1,scan 7 has a space after the comma
+katturaigal/nangal_kattada.md,phrase,ஐயுற இட மேற்படக் கூடும்,ஐயுற இடம் ஏற்படக் கூடும்,1,scan 7 clearly prints இடம் ஏற்படக்
+katturaigal/nangal_kattada.md,phrase,மாறவேண்டு மென்கிறோம்,மாறவேண்டுமென்கிறோம்,1,scan 9 prints the word as one lexical unit across type spacing
+katturaigal/nangal_kattada.md,phrase,"என்பது, :
+அல்ல எமது நோக்கம்","என்பது,
+அல்ல எமது நோக்கம்",1,scan 9 has no colon after என்பது
+katturaigal/nangal_kattada.md,phrase,ஓலிபெருக்கி,ஒலிபெருக்கி,2,scans 18 and 20 clearly print short-vowel ஒலிபெருக்கி
+katturaigal/nangal_kattada.md,phrase,"மேல்சபையில்.
+பேசியபோது","மேல்சபையில்
+பேசியபோது",1,scan 16 has no full stop between மேல்சபையில் and பேசியபோது
+katturaigal/nangal_kattada.md,phrase,ஆகியவைகளை மட்டும் ௮ல்ல,ஆகியவைகளை மட்டும் அல்ல,1,scan 6 uses Tamil அ in அல்ல

@@ -792,7 +792,7 @@ Total source works: 1388
 - [katturaigal/nanbargal_kaetpatharkku05](nanbargal_kaetpatharkku05.md) - translated
 - [katturaigal/nandri_170357](nandri_170357.md) - translated
 - [katturaigal/nandriyum_varav](nandriyum_varav.md) - translated
-- [katturaigal/nangal_kattada](nangal_kattada.md) - pending
+- [katturaigal/nangal_kattada](nangal_kattada.md) - translated
 - [katturaigal/nangu_naatkal](nangu_naatkal.md) - translated
 - [நன்னிலம் நண்பருக்கு!](nannilam_nanbarukku.md) - pending
 - [நரி பரியாகும் படலம்!](nari_pariyagum.md) - pending

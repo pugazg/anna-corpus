@@ -1330,6 +1330,466 @@
         }
       ],
       "tokenCorrections": []
+    },
+    "katturaigal/nangal_kattada.md": {
+      "phraseCorrections": [
+        {
+          "wrong": "1 0. நாங்கள் கட்டடமில்லாத கல்லூரி !",
+          "right": "10. நாங்கள் கட்டடமில்லாத கல்லூரி!",
+          "reason": "scan 1 clearly prints the numbered title"
+        },
+        {
+          "wrong": "ஏற்படணே்டும்",
+          "right": "ஏற்படவேண்டும்",
+          "reason": "scan 1 clearly prints ஏற்படவேண்டும்"
+        },
+        {
+          "wrong": "இடங்\n்... கொடுக்காது.",
+          "right": "இடங்\nகொடுக்காது.",
+          "reason": "scan 1 has no OCR glyphs before கொடுக்காது"
+        },
+        {
+          "wrong": "துடைநடுங்கிகள்",
+          "right": "தொடைநடுங்கிகள்",
+          "reason": "scan 2 clearly prints தொடைநடுங்கிகள்"
+        },
+        {
+          "wrong": "ஓமந்தாூராருக்கு எச்சரிக்கை விடுத்து ௮ச்சடிக்கப்பட்டுள்ள",
+          "right": "ஓமந்தூராருக்கு எச்சரிக்கை விடுத்து அச்சடிக்கப்பட்டுள்ள",
+          "reason": "scan 2 confirms both readings"
+        },
+        {
+          "wrong": "அவருடையு சிந்தனைக்கே",
+          "right": "அவருடைய சிந்தனைக்கே",
+          "reason": "scan 2 clearly prints அவருடைய"
+        },
+        {
+          "wrong": "கம்பிகளைப்\n__ பிடித்து",
+          "right": "கம்பிகளைப்\nபிடித்து",
+          "reason": "scan 3 has no underscore ornament"
+        },
+        {
+          "wrong": "கல\nகலத்துப்போகிறது",
+          "right": "கலகலத்துப்போகிறது",
+          "reason": "scan 3 prints the word continuously"
+        },
+        {
+          "wrong": "பார்த்திராதவனு\nமல்ல",
+          "right": "பார்த்திராதவனுமல்ல",
+          "reason": "scan 4 prints the word continuously"
+        },
+        {
+          "wrong": "கருத்துக் கேற்றபடி . காரியங்களைச்",
+          "right": "கருத்துக்கேற்றபடி காரியங்களைச்",
+          "reason": "scan 4 has neither a split nor a full stop"
+        },
+        {
+          "wrong": "புறக்கணித்துவிட்டது என்பதை .\nவேதனையோடு",
+          "right": "புறக்கணித்துவிட்டது என்பதை\nவேதனையோடு",
+          "reason": "scan 4 has no full stop after என்பதை"
+        },
+        {
+          "wrong": "சாதகமாக்கித தேர்தல் குதாட்டத்திலே",
+          "right": "சாதகமாக்கித் தேர்தல் சூதாட்டத்திலே",
+          "reason": "scan 4 clearly prints சாதகமாக்கித் தேர்தல் சூதாட்டத்திலே"
+        },
+        {
+          "wrong": "உழவரா்களைப்",
+          "right": "உழவர்களைப்",
+          "reason": "scan 4 clearly prints உழவர்களைப்"
+        },
+        {
+          "wrong": "வாழ்க்கைத் தரத்தைப் (5/2112876 07 (///2) உயாத்தப்",
+          "right": "வாழ்க்கைத் தரத்தைப் (Standard of life) உயர்த்தப்",
+          "reason": "scan 6 clearly preserves the English phrase and உயர்த்தப்"
+        },
+        {
+          "wrong": "விவசாயம் ஒன்றையே\nதம்பி வாழ",
+          "right": "விவசாயம் ஒன்றையே\nநம்பி வாழ",
+          "reason": "scan 6 clearly prints நம்பி வாழ"
+        },
+        {
+          "wrong": "முன்னாள் முதலமைச்சா்",
+          "right": "முன்னாள் முதலமைச்சர்",
+          "reason": "scan 6 confirms the standard ர் glyph"
+        },
+        {
+          "wrong": "விவசாரிகளுக்கென்ற அமைப்புள்ள சங்கங்கள் அவசியம்\n. தேவை, அதிலும் கட்சிச் சார்பற்ற, விவாயிகளின் வேதனைகளைப் போக்க:\nபாடுபடும் சங்கடங்கள் மிக மிகத் தேவை அதிலும், தன்னலமற்ற.",
+          "right": "விவசாயிகளுக்கென்ற அமைப்புள்ள சங்கங்கள் அவசியம்\nதேவை, அதிலும் கட்சிச் சார்பற்ற, விவசாயிகளின் வேதனைகளைப் போக்கப்\nபாடுபடும் சங்கங்கள் மிக மிகத் தேவை; அதிலும், தன்னலமற்ற",
+          "reason": "scan 6 restores விவசாயிகள், சங்கங்கள் and the printed punctuation"
+        },
+        {
+          "wrong": "விரும்புகிறேன் ்",
+          "right": "விரும்புகிறேன்.",
+          "reason": "scan 6 ends the sentence with a full stop"
+        },
+        {
+          "wrong": "கொண்டே விவசாகளுக்குப்",
+          "right": "கொண்டே விவசாயிகளுக்குப்",
+          "reason": "scan 7 clearly prints விவசாயிகளுக்குப்"
+        },
+        {
+          "wrong": "வேதனையை உணராக அரசியல்\nவாதிகளைவிட",
+          "right": "வேதனையை உணராத அரசியல்\nவாதிகளைவிட",
+          "reason": "scan 7 clearly prints உணராத"
+        },
+        {
+          "wrong": "துயர் துடைகக",
+          "right": "துயர் துடைக்க",
+          "reason": "scan 7 clearly prints துடைக்க"
+        },
+        {
+          "wrong": "கொள்ளாதோரில்லை/",
+          "right": "கொள்ளாதோரில்லை!",
+          "reason": "scan 7 ends the sentence with an exclamation mark"
+        },
+        {
+          "wrong": "எங்களாலான. உதவி",
+          "right": "எங்களாலான உதவி",
+          "reason": "scan 8 has no full stop between the words"
+        },
+        {
+          "wrong": "\n, பழைமையை",
+          "right": "\nபழைமையை",
+          "reason": "scan 8 has no leading comma"
+        },
+        {
+          "wrong": "இழந்த பெருமையை\nகாம் பெற",
+          "right": "இழந்த பெருமையை\nநாம் பெற",
+          "reason": "scan 8 clearly prints நாம் பெற"
+        },
+        {
+          "wrong": "நமது பதம் முறையும்",
+          "right": "நமது வாழ்க்கை முறையும்",
+          "reason": "scan 9 clearly prints நமது வாழ்க்கை முறையும்"
+        },
+        {
+          "wrong": "தோளிலே. மண்வெட்டி",
+          "right": "தோளிலே மண்வெட்டி",
+          "reason": "scan 9 has no full stop after தோளிலே"
+        },
+        {
+          "wrong": "அறிந்திருக் .\nகிறானேயொழிய",
+          "right": "அறிந்திருக்கிறானேயொழிய",
+          "reason": "scan 9 prints the word continuously"
+        },
+        {
+          "wrong": "எமது நோக்கம் கடவுளை மறுக்கவும்",
+          "right": "எமது நோக்கம். கடவுளை மறுக்கவும்",
+          "reason": "scan 9 has a full stop after நோக்கம்"
+        },
+        {
+          "wrong": "ஒளி - ஓலி",
+          "right": "ஒளி - ஒலி",
+          "reason": "scan 10 clearly prints ஒலி"
+        },
+        {
+          "wrong": "நன்மையைத்\nதீரும் மின்சாரம்",
+          "right": "நன்மையைத்\nதரும் மின்சாரம்",
+          "reason": "scan 10 clearly prints தரும்"
+        },
+        {
+          "wrong": "கல்வியைத்\nதீருவது",
+          "right": "கல்வியைத்\nதருவது",
+          "reason": "scan 10 clearly prints தருவது"
+        },
+        {
+          "wrong": "முடியாத - எனவேதான்",
+          "right": "முடியாது - எனவேதான்",
+          "reason": "scan 10 clearly prints முடியாது"
+        },
+        {
+          "wrong": "அதைப்பற்றி௮க்கறை",
+          "right": "அதைப்பற்றி அக்கறை",
+          "reason": "scan 10 has a word boundary and Tamil அ"
+        },
+        {
+          "wrong": "கோபுரம் ஓன்று",
+          "right": "கோபுரம் ஒன்று",
+          "reason": "scan 11 clearly prints ஒன்று"
+        },
+        {
+          "wrong": "என்ன கோயில், ௮ங்கேயிருக்கும்",
+          "right": "என்ன கோயில், அங்கேயிருக்கும்",
+          "reason": "scan 11 uses Tamil அ"
+        },
+        {
+          "wrong": "ஏன் ட்ட\nகலப்பையிடம்",
+          "right": "ஏன் இயந்திரக்\nகலப்பையிடம்",
+          "reason": "scan 11 clearly prints இயந்திரக் கலப்பையிடம்"
+        },
+        {
+          "wrong": "அதே சிராமவாசியைக்",
+          "right": "அதே கிராமவாசியைக்",
+          "reason": "scan 11 clearly prints கிராமவாசியைக்"
+        },
+        {
+          "wrong": "\nநீகி. -,94",
+          "right": "",
+          "reason": "scan 11 footer is a page imprint, not article text"
+        },
+        {
+          "wrong": "தெரியுமா?ஈ",
+          "right": "தெரியுமா?",
+          "reason": "scan 12 has no trailing OCR glyph"
+        },
+        {
+          "wrong": "கிராமக் கண் காட்சிகள்",
+          "right": "கிராமக் கண்காட்சிகள்",
+          "reason": "scan 12 prints கண்காட்சிகள் continuously"
+        },
+        {
+          "wrong": "மிக\n். மிகப்பலன்தரும்",
+          "right": "மிக\nமிகப்பலன்தரும்",
+          "reason": "scan 12 has no OCR glyphs between repeated மிக"
+        },
+        {
+          "wrong": "கருத்துக்\nகளையெல்லாம்",
+          "right": "கருத்துக்களையெல்லாம்",
+          "reason": "scan 13 prints the word continuously"
+        },
+        {
+          "wrong": "மடுவுக்குமூள்ள",
+          "right": "மடுவுக்குமுள்ள",
+          "reason": "scan 14 clearly prints மடுவுக்குமுள்ள"
+        },
+        {
+          "wrong": "பாடுபடணேடும்",
+          "right": "பாடுபடவேண்டும்",
+          "reason": "scan 14 clearly prints பாடுபடவேண்டும்"
+        },
+        {
+          "wrong": "புதுத்\nதென்போடு, ஐயகோஷத்தோடு",
+          "right": "புதுத்\nதெம்போடு, ஜயகோஷத்தோடு",
+          "reason": "scan 14 clearly prints தெம்போடு and ஜயகோஷத்தோடு"
+        },
+        {
+          "wrong": "ஓரே இடத்தில்",
+          "right": "ஒரே இடத்தில்",
+          "reason": "scan 15 clearly prints ஒரே"
+        },
+        {
+          "wrong": "விவசாய மூன்னேற்றம்",
+          "right": "விவசாய முன்னேற்றம்",
+          "reason": "scan 15 clearly prints முன்னேற்றம்"
+        },
+        {
+          "wrong": "பொறுப்பு இருப்பதால் நிஎ:3 அதிகம் படைத்தோரின்",
+          "right": "பொறுப்பு இருப்பதால் நிலம் அதிகம் படைத்தோரின்",
+          "reason": "scan 15 clearly prints நிலம் அதிகம் படைத்தோரின்"
+        },
+        {
+          "wrong": "தலை தூக்கித் தாண்டவ\nமாடிற்று",
+          "right": "தலை தூக்கித் தாண்டவமாடிற்று",
+          "reason": "scan 15 prints the verb continuously"
+        },
+        {
+          "wrong": "தீப்பந்தம் ௮ங்கே",
+          "right": "தீப்பந்தம் அங்கே",
+          "reason": "scan 16 uses Tamil அ"
+        },
+        {
+          "wrong": "வலியுறுத்தகிறேன்",
+          "right": "வலியுறுத்துகிறேன்",
+          "reason": "scan 16 clearly prints வலியுறுத்துகிறேன்"
+        },
+        {
+          "wrong": "பேசவார்?",
+          "right": "பேசுவார்?",
+          "reason": "scan 16 clearly prints பேசுவார்"
+        },
+        {
+          "wrong": "வேதனையோடு பேசினார் முந்நாள்",
+          "right": "வேதனையோடு பேசினார் முன்னாள்",
+          "reason": "scan 16 clearly prints முன்னாள்"
+        },
+        {
+          "wrong": "என்பதைப் -\nயல்லவா",
+          "right": "என்பதையல்லவா",
+          "reason": "scan 16 prints என்பதையல்லவா continuously"
+        },
+        {
+          "wrong": "விவசாயி சிந்தும் வியரவை",
+          "right": "விவசாயி சிந்தும் வியர்வை",
+          "reason": "scan 16 clearly prints வியர்வை"
+        },
+        {
+          "wrong": "உழைப்புச'சக்தியைத் தர\nஎவ்வளவுகஷ்டநஷ்டமடைந்திருப்பர் விவசாயிமக்கள்",
+          "right": "உழைப்புச் சக்தியைத் தர\nஎவ்வளவு கஷ்டநஷ்டமடைந்திருப்பர் விவசாயி மக்கள்",
+          "reason": "scan 17 restores the word boundaries and apostrophe-free சக்தி"
+        },
+        {
+          "wrong": "புள்ளிவிவரம் பெற. விவசாயிகள்",
+          "right": "புள்ளிவிவரம் பெற விவசாயிகள்",
+          "reason": "scan 17 has no full stop after பெற"
+        },
+        {
+          "wrong": "ஒ௫வேளை மாஸ்கோவுக்குப்",
+          "right": "ஒருவேளை மாஸ்கோவுக்குப்",
+          "reason": "scan 17 clearly prints ஒருவேளை with no Tamil numeral"
+        },
+        {
+          "wrong": "நின்றுகொண்டி\nரப்பதைக்",
+          "right": "நின்றுகொண்டிருப்பதைக்",
+          "reason": "scan 17 clearly prints நின்றுகொண்டிருப்பதைக்"
+        },
+        {
+          "wrong": "இருக்கிறது”\n் என்றாராம்",
+          "right": "இருக்கிறது'\nஎன்றாராம்",
+          "reason": "scan 17 closes the quotation without a stray OCR glyph"
+        },
+        {
+          "wrong": "கவலை யேற்படக்",
+          "right": "கவலை ஏற்படக்",
+          "reason": "scan 17 clearly prints கவலை ஏற்படக்"
+        },
+        {
+          "wrong": "கஷ்ட\nதஷ்டப்பட்டிருப்பர்",
+          "right": "கஷ்ட\nநஷ்டப்பட்டிருப்பர்",
+          "reason": "scan 18 clearly prints நஷ்டப்பட்டிருப்பர்"
+        },
+        {
+          "wrong": "\n. சாதாரணமாக",
+          "right": "\nசாதாரணமாக",
+          "reason": "scan 18 has no leading full stop"
+        },
+        {
+          "wrong": "நாம். முூன்னேறவில்லையே",
+          "right": "நாம் முன்னேறவில்லையே",
+          "reason": "scan 18 clearly prints நாம் முன்னேறவில்லையே"
+        },
+        {
+          "wrong": "பதைத்கிறோம்",
+          "right": "பதைக்கிறோம்",
+          "reason": "scan 18 clearly prints பதைக்கிறோம்"
+        },
+        {
+          "wrong": "சங்கராச்சரியார்",
+          "right": "சங்கராச்சாரியார்",
+          "reason": "scan 18 clearly prints சங்கராச்சாரியார்"
+        },
+        {
+          "wrong": "மோகனாஸ்திரம்\n௮க்னியாஸ்திரம்",
+          "right": "மோகனாஸ்திரம்\nஅக்னியாஸ்திரம்",
+          "reason": "scan 19 uses Tamil அ"
+        },
+        {
+          "wrong": "எதிலும் உஎண்டு",
+          "right": "எதிலும் உண்டு",
+          "reason": "scan 19 clearly prints உண்டு"
+        },
+        {
+          "wrong": "அதிகப் பயன்\nச்ரீப்்றயா 1௭6௦17 42011 821471 பெற்று வருகிறோம். நாம் இது,",
+          "right": "அதிகப் பயன்\nMinimum Labour Maximum Benefit பெற்று வருகிறோம். நாம் இது,",
+          "reason": "scan 20 clearly preserves the English phrase Minimum Labour Maximum Benefit"
+        },
+        {
+          "wrong": "போயிருக்அிறார்கள்",
+          "right": "போயிருக்கிறார்கள்",
+          "reason": "scan 20 clearly prints போயிருக்கிறார்கள்"
+        },
+        {
+          "wrong": "சொல்லமாட்டாள் உங்களுக்கு",
+          "right": "சொல்லமாட்டான் உங்களுக்கு",
+          "reason": "scan 20 clearly prints சொல்லமாட்டான்"
+        },
+        {
+          "wrong": "இப்படிப்பட்டவர்களா, விஞ்ஞானிகள். இல்லையே/",
+          "right": "இப்படிப்பட்டவர்களா, விஞ்ஞானிகள். இல்லையே!",
+          "reason": "scan 21 ends the sentence with an exclamation mark"
+        },
+        {
+          "wrong": "என்று நினைக்கிறீர்கள் 2",
+          "right": "என்று நினைக்கிறீர்கள்?",
+          "reason": "scan 21 ends the question with a question mark"
+        },
+        {
+          "wrong": "தலைக்குக் கொஞ்சம் .\nஎண்ணெய்!",
+          "right": "தலைக்குக் கொஞ்சம்\nஎண்ணெய்!",
+          "reason": "scan 21 has no full stop after கொஞ்சம்"
+        },
+        {
+          "wrong": "மனைவிமானமுடன்",
+          "right": "மனைவி மானமுடன்",
+          "reason": "scan 21 has a word boundary between மனைவி and மானமுடன்"
+        },
+        {
+          "wrong": "அவனுக்கு நாகரிகமான ஆடை]",
+          "right": "அவனுக்கு நாகரிகமான ஆடை!",
+          "reason": "scan 21 ends the phrase with an exclamation mark"
+        },
+        {
+          "wrong": "வாழ்க்கைக் காகச்",
+          "right": "வாழ்க்கைக்காகச்",
+          "reason": "scan 21 prints வாழ்க்கைக்காகச் continuously"
+        },
+        {
+          "wrong": "கஷ்டப்பட நேர்நீததுண்டு",
+          "right": "கஷ்டப்பட நேர்ந்ததுண்டு",
+          "reason": "scan 22 clearly prints நேர்ந்ததுண்டு"
+        },
+        {
+          "wrong": "கொண்டோமே\nதீவிர",
+          "right": "கொண்டோமே\nதவிர",
+          "reason": "scan 22 clearly prints தவிர"
+        },
+        {
+          "wrong": "என்று , நாங்கள்",
+          "right": "என்று, நாங்கள்",
+          "reason": "scan 22 has no space before the comma"
+        },
+        {
+          "wrong": "'ஓம்ற்தூரார் காலத்திலுமா....?",
+          "right": "'ஓமந்தூரார் காலத்திலுமா....?'",
+          "reason": "scan 22 clearly prints ஓமந்தூரார் and closes the quotation"
+        },
+        {
+          "wrong": "கேட்டோமே தீவிர",
+          "right": "கேட்டோமே தவிர",
+          "reason": "scan 22 clearly prints தவிர"
+        },
+        {
+          "wrong": "கூறிக்\n். கொள்வதோடு",
+          "right": "கூறிக்\nகொள்வதோடு",
+          "reason": "scan 22 has no stray OCR glyphs before கொள்வதோடு"
+        },
+        {
+          "wrong": "ஏற்க,அவரே",
+          "right": "ஏற்க, அவரே",
+          "reason": "scan 7 has a space after the comma"
+        },
+        {
+          "wrong": "ஐயுற இட மேற்படக் கூடும்",
+          "right": "ஐயுற இடம் ஏற்படக் கூடும்",
+          "reason": "scan 7 clearly prints இடம் ஏற்படக்"
+        },
+        {
+          "wrong": "மாறவேண்டு மென்கிறோம்",
+          "right": "மாறவேண்டுமென்கிறோம்",
+          "reason": "scan 9 prints the word as one lexical unit across type spacing"
+        },
+        {
+          "wrong": "என்பது, :\nஅல்ல எமது நோக்கம்",
+          "right": "என்பது,\nஅல்ல எமது நோக்கம்",
+          "reason": "scan 9 has no colon after என்பது"
+        },
+        {
+          "wrong": "ஓலிபெருக்கி",
+          "right": "ஒலிபெருக்கி",
+          "reason": "scans 18 and 20 clearly print short-vowel ஒலிபெருக்கி"
+        },
+        {
+          "wrong": "மேல்சபையில்.\nபேசியபோது",
+          "right": "மேல்சபையில்\nபேசியபோது",
+          "reason": "scan 16 has no full stop between மேல்சபையில் and பேசியபோது"
+        },
+        {
+          "wrong": "ஆகியவைகளை மட்டும் ௮ல்ல",
+          "right": "ஆகியவைகளை மட்டும் அல்ல",
+          "reason": "scan 6 uses Tamil அ in அல்ல"
+        }
+      ],
+      "tokenCorrections": []
     }
   }
 }
