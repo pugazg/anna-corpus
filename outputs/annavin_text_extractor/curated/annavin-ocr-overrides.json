@@ -51,6 +51,26 @@
         }
       ],
       "tokenCorrections": []
+    },
+    "sorpozhivugal/thee_paravattum_2_1.md": {
+      "phraseCorrections": [
+        {
+          "wrong": "த பரவட்டும்/-1]",
+          "right": "தீ பரவட்டும்! - II",
+          "reason": "scan 1 clearly prints the title தீ பரவட்டும்! - II"
+        },
+        {
+          "wrong": "14-3-43 மாலை ௨௦0 மாணிக்குச்",
+          "right": "14-3-43 மாலை 6-00 மணிக்குச்",
+          "reason": "scan 1 clearly prints the date and time as 14-3-43 மாலை 6-00 மணிக்குச்"
+        },
+        {
+          "wrong": "3. உயார்திரு அண்ணாதுரை அவர்கள் பேச்சு",
+          "right": "5. உயர்திரு அண்ணாதுரை அவர்கள் பேச்சு",
+          "reason": "scan 2 clearly prints section number 5 and உயர்திரு"
+        }
+      ],
+      "tokenCorrections": []
     }
   }
 }

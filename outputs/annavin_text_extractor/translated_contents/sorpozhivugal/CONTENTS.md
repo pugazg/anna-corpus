@@ -457,7 +457,7 @@ Total source works: 537
 - [sorpozhivugal/thazhtha200358](thazhtha200358.md) - translated
 - [sorpozhivugal/the_role_of](the_role_of.md) - translated
 - [sorpozhivugal/thee_paravattum_1](thee_paravattum_1.md) - pending
-- [sorpozhivugal/thee_paravattum_2_1](thee_paravattum_2_1.md) - pending
+- [sorpozhivugal/thee_paravattum_2_1](thee_paravattum_2_1.md) - translated
 - [sorpozhivugal/theendamai](theendamai.md) - translated
 - [தெளிவில்லாத அரசியல் பணி நாட்டுக்கு நாசம் விளைவிக்கும்!](thelivillatha_arasiyal_pani.md) - pending
 - [தெரிந்தது என்ன? தெரியாதது என்ன?](therinthathu_enna.md) - pending

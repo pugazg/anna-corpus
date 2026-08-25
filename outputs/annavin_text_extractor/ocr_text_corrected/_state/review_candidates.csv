@@ -1,3 +1,5 @@
 file,line,token,issue,context
-katturaigal/puratchi_kanda.md,152,எல்வா்று,invalid_tamil_sequence,மறிறவர்களுந்தான் எல்வா்று சருதிப்பார்சதர்கக் இருக்க
-katturaigal/puratchi_kanda.md,338,முயற்சியூுடைய,invalid_tamil_sequence,என்றுதான் சொல்லவேண்டும். முயற்சியூுடைய மனிதனுக்கு
+sorpozhivugal/thee_paravattum_2_1.md,2,II,latin_in_tamil_line,தீ பரவட்டும்! - II
+sorpozhivugal/thee_paravattum_2_1.md,12,தோழா்,invalid_tamil_sequence,சேலம் கல்லூரித் தலைமைப் பேராசிரியர் தோழா் ஏ. இராம
+sorpozhivugal/thee_paravattum_2_1.md,340,கும்பிடுகின்றனரா்,invalid_tamil_sequence,இராமனுக்கும் கோயில் கட்டிக் கும்பிடுகின்றனரா்? வீர உணர்ச்சி
+sorpozhivugal/thee_paravattum_2_1.md,362,கும்பிட்டவரா்,invalid_tamil_sequence,பரதனுக்குக் கோயில் கட்டிக் கும்பிட்டவரா் யாராவது உண்ட..ர?

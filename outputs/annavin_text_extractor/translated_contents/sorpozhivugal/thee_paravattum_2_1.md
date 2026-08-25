@@ -1,4 +1,10 @@
-# sorpozhivugal/thee_paravattum_2_1
+# தீ பரவட்டும்! - II / Let the Fire Spread! - II
+
+**Tamil title:** தீ பரவட்டும்! - II
+**English title:** Let the Fire Spread! - II
+**Source file:** `sorpozhivugal/thee_paravattum_2_1.md`
+
+## Source Tamil (verbatim)
 
 - Source image folder: `/Users/pugazhendhirajendran/Documents/Codex/2026-07-09/https-www-annavinpadaippugal-info/outputs/annavin_text_extractor/ocr_images/sorpozhivugal/thee_paravattum_2_1`
 - OCR language: `tam`
@@ -1250,3 +1256,267 @@
 
 இருவர் சொற்பொழிவுகளையும் கேட்டு இன்புற்ற நீங்கள்
 மிக்க பயன் பெற்றீர்கள் என்பதைக் கூறி, முடிக்கிறேன்.
+
+## English Translation
+
+On 14 March 1943 at 6:00 in the evening, a verbal debate was held before a large gathering in the Devanga School Hall at Sevvaipettai, Salem, on whether the *Kamba Ramayanam* and the *Periya Puranam* should or should not be abolished.
+
+C. N. Annadurai, editor of *Dravida Nadu*, argued that those works should be abolished. Professor Navalar S. Somasundara Bharati delivered the address opposing their abolition. Comrade A. Ramasamy, principal of Salem College, presided.
+
+The debate was conducted in a public manner without affiliation to any political party or association, and its course was highly dignified.
+
+## Presidential Address
+
+Comrade A. Ramasamy, who presided, spoke as follows:
+
+“Mothers and friends! Today all of us have a rare feast. Two leaders of Tamil Nadu are going to speak on whether the *Kamba Ramayanam* and the *Periya Puranam* should or should not be abolished. Both leaders are intellectuals engaged in public service. Only those who know nothing would not know them. Their debate will therefore be tasteful, useful, and of an elevated character. I ask you to listen to both addresses without dislike or partiality. At the end I shall state my own view. First, I invite Comrade Annadurai to speak.”
+
+## Address by Annadurai
+
+Mr President and comrades! The chairman said that two leaders had come here today. What has come here is one leader and one of his followers. Nor do I regard what is about to take place as a verbal battle. I am a follower of Leader Bharatiar. Today's event is simply that I shall show him the thought that grew from the seed of feeling he scattered.
+
+When I received the affectionate invitation saying that this event would take place in Salem and that I must attend, I saw two reports in the newspapers. One was an announcement that a conference for the protection of literature would shortly be held in Salem. I also saw a warning that our agitation to abolish the Puranas was a “sin.” I know Bharatiar would not regard our action as sinful. I know the view he holds of sin and merit.
+
+The other report concerned a swift American envoy who complained in Britain that Russia had not uttered a word about the aid America had sent it. This gave propagandists seeking to create division among the Allied nations an opportunity. I feared that Aryan print propaganda might similarly use this debate to create division between Bharatiar and the Self-Respecters.
+
+But in the same newspaper I then saw a report that Moscow Radio had listed the assistance Russia received from America and had thereby defeated the propaganda effort. In the same manner, I declare today that I have not forgotten the assistance, strength, and awakening that Tamils, Tamil Nadu, and all who possess self-awareness received from Leader Bharatiar. I also state that if Aryans attempt to create division between us, they will be deceived. I affirm that we cannot be separated.
+
+I know that the knitted brow, boiling blood, throbbing heart, and bristling moustache that fought compulsory Hindi will not today come to Aryanism's aid. Thus today's debate will be conducted not only in an elevated manner but also in a spirit of friendship.
+
+We Self-Respecters have been saying that the *Kamba Ramayanam* and the *Periya Puranam* must be abolished. We show sufficient reasons. These books are imaginary tales and instruments for introducing the Aryan path. They are used to exalt Aryans and degrade and enslave Tamils. We who care about Tamil principles, life, and self-government therefore say: because these books ruin Tamil life, ethics, government, and honour, we shall abolish them and cast them into the fire. Bharatiar has come to say that we must not. Yet we acquired this very feeling by listening to the counsel of people such as him.
+
+Tamils are a distinct people. For ages they lived with culture, lived in a manner praised by the world, and discovered treasures of art. The subcontinent called India contains many peoples, each with its own arts. The Tamil people possess an art of their own. Aryan and Dravidian arts had flourished separately and distinctly, each with its own character. Their coming to be mixed resulted in great harm. The *Kamba Ramayanam* and the *Periya Puranam* are precisely such works of mixed art.
+
+I said that Tamils possess their own art. The Sangam works reveal that artistic wealth. Tamils once possessed a distinct art, a distinct way of life, and self-government. We firmly believe that they later declined, lost their self-respect, and lost their government because they raised above their heads a mixed art containing Aryan inventions such as the *Kamba Ramayanam* and the *Periya Puranam*. You know that various scholars have described the *Ramayana* itself as an artistic conflict between Aryans and Dravidians and have produced evidence for that view.
+
+The books that destroyed the distinctive excellence of Tamils must therefore be abolished. We must affirm and obtain recognition that the Tamil is a distinct people, possesses a distinct character and art, and demands self-government. This is the proper path for Tamils to recover the self-respect and self-rule they have lost.
+
+Within two years, Muslims have strengthened their agitation for a separate country. We see no benefit from Tamil efforts or reform agitations, because Aryanism continually damages and disrupts the Self-Respecters' reform work. Muslims gained such strength and demanded a separate state within two years because they already possessed their own art and principles, and lived knowing that the ethics and art of those called Hindus were different and did not belong to them.
+
+Tamils, by contrast, have treated the Aryan path and art as their own and mixed Aryan inventions into Tamil art. Consequently, they have reached a state in which they cannot fight for their distinct rights, self-respect, or self-government. Tamils can live with self-respect only if, like Muslims, they honour their own art and reject the art of another people. That is why we say the *Kamba Ramayanam* and *Periya Puranam*, books that teach the Aryan path, must be burned.
+
+Pandits ask: “Show us the canto and verse in the *Kamba Ramayanam* where Tamils are degraded and Aryans exalted. Read it aloud; we shall listen.” We have never said that one particular verse in the *Kamba Ramayanam* degrades the Tamil and elevates the Aryan. Nor is that necessary. That is not the research in which we are engaged.
+
+What we say is that the ideas of the *Kamba Ramayanam*, and the principles people adopt in their lives after learning it, have produced consequences by which Aryans rise and Tamils decline, Aryans exercise dominance and Tamils become slaves. We say that Tamils no longer need works producing consequences of this kind. We ask why a people possessing an unmixed and distinct Tamil art should retain an art through which imagination and the Aryan path wind their way.
+
+It is therefore improper to demand, “Read the poem, divide its words, and expound its meaning.” Our questions are these: because the people knew these books, what ideas did they acquire? What was their effect? What condition has the Tamil reached today as their result? In a country where ninety out of every hundred people are illiterate, is it right to impress upon their minds books that serve the elevation and dominance of another people? Can a mind steeped in another people's art acquire an awakening of its own people? Can it demand communal honour or obtain self-government? I ask you to consider these questions. Self-Respecters fighting for Tamil self-respect and self-government therefore declare that they will burn the books obstructing that effort.
+
+The *Ramayana* is the supreme work of the Vaishnavites, and the *Periya Puranam* explains the devotion of Siva's followers. Tamil people who follow the two paths called Saivism and Vaishnavism respectively regard the *Periya Puranam* and *Kamba Ramayanam* as their religious books. Vaishnavism and Saivism are two branches of the Hindu path. Tamils are not Hindus; Tamils possess their own principles. Yet by embracing these two paths, Tamils have come to regard themselves as Hindus.
+
+By abandoning their own way, adopting Hinduism, the Aryan way, and considering themselves Hindus, Tamils forgot that they were a distinct people. They thought themselves merely one section among Hindus and lost their self-respect and self-government. The *Kamba Ramayanam* and *Periya Puranam* serve this process.
+
+Our plan is therefore to burn these works as a demonstration and awaken the people: “Tamils, these are religious books for Hindus, not for Tamils. Tamils possess principles and art of their own.” Through that awakening, we seek to obtain self-government for Tamils. We say that Tamils do not need the *Kamba Ramayanam* and *Periya Puranam*, the books of two branches of the Aryan religion called Hinduism. They contain obscenities and Aryan inventions, and help spread the Aryan path. The Aryan path can bring Tamils only harm. To awaken Tamils, Aryanism must be abolished; that is why we say these books that nourish Aryanism must be burned.
+
+The *Kamba Ramayanam* is the tale of Rama. Rama is one of the ten incarnations, and the ten incarnations are the divine sport of Mahavishnu. The *Kamba Ramayanam* helped Tamils accept Vaishnavism as their own by causing Rama to be worshipped as a god. It helps Tamils worship Rama as a deity and regard him as one of the ten incarnations. Tamils recite the *Kamba Ramayanam*, believe in the ten incarnations taught by Aryan religions, worship Rama as one of them, and become enslaved to Aryanism.
+
+In the Tamil's own principles there is no god who takes incarnations. Tamils today believe in incarnations and divine sports and act accordingly because they have revered and read the *Kamba Ramayanam*, which recounts the sport of Rama's incarnation. If the Tamil is to return to his own path, the sphere of reason, he must abolish the Rama story that introduces Aryanism. That is why we say the *Kamba Ramayanam* must be burned.
+
+The *Periya Puranam* likewise causes Tamils to follow the Aryan system of varnashrama without alteration. Everyone knows how stories such as Siruthondar turning his child into meat and Iyarpagai sending away his wife ruin rational thought.
+
+Some say reconciliation can be found in the *Periya Puranam*. They say the stories of Siva's devotees teach that even a Pulayan who flays cattle and eats their flesh may attain liberation if he becomes a devotee, and that by recounting the lives of such devotees the *Periya Puranam* teaches equality. I ask what the word “even” in the phrase “even a Pulayan” reveals.
+
+The *Periya Puranam* does not teach the reformist lesson that caste systems must disappear. Its lesson is that high and low exist in caste, but even a man born in a low community may attain liberation and greatness through devotion. What benefit can this teaching, that one degraded by caste may rise through devotion, offer an agitation seeking the abolition of castes and equality among people?
+
+The *Periya Puranam* contains not only caste but varnashrama's rule assigning one occupation to each community. The Vaisya conducts trade, the Vellala ploughs, the potter makes clay vessels, the washerman continues washing clothes, and the Adi-Dravidian continues serving the landlord as a bonded labourer. Like the Wardha Scheme, the Aryan arrangement of hereditary occupations appears throughout the *Periya Puranam*. Thiruneelakantar's house contains only clay vessels. The washerman may be a devotee, but he still performs only his hereditary work of washing clothes.
+
+A reader of the *Periya Puranam* may therefore think: let many castes remain; if each community has its occupation, let us continue doing that work; through devotion anyone may attain greatness whatever the community of birth. But no one can learn from the *Periya Puranam* that caste distinctions must end and varnashrama must go. What we need today is a feeling for equality and courage to reverse the decline caused by Aryanism. Not only does the *Periya Puranam* fail to serve that need, it perpetuates caste degradation and Aryan systems in the name of devotion.
+
+Nandanar lived by ploughing and performing bonded labour. Saivites say that he was placed in the fire, obtained Brahmin form, and merged into Siva's radiance. Such histories teach that because Nandan was born an Adi-Dravidian he performed bonded labour, that this was the proper order, and that even God did not change it. This cannot benefit Tamil self-respect.
+
+Poets say these works contain artistic charm and that it will be lost. We are not fighting art or engaged in abolishing art. I trust no pandit will say Tamil art begins and ends with the *Kamba Ramayanam*. Everyone knows that before mixed art and rare false inventions entered, the Tamil developed a distinct art during the periods of the First, Middle, and Last Sangams. We have not set out to destroy Tamil works such as the *Tolkappiyam* or delightful art such as the *Silappathikaram*.
+
+If Aryan works such as the *Kamba Ramayanam* and *Periya Puranam*, which prevent ordinary people from knowing and benefiting from those Tamil works, disappear, the Tamil will begin to study and honour Tamil art. A revolution will arise in the world of art.
+
+Artistic revolutions and changes in art have occurred in many countries. I do not now speak of the difference between art under the Tsars and art under socialism, for Russia underwent a revolution that turned society upside down; one could say artistic revolution was merely its consequence. I point instead to Britain, which saw many changes in art without terrifying revolutions. There are vast differences among the art of Chaucer's age, Shakespeare's age, Bunyan's *Pilgrim's Progress*, and the art of Burns, who taught equality among people.
+
+Nowhere else in the world has one people accepted as its own an art written to proclaim another people's superiority. Only here, although Tamils possessed their own art ages ago, has another people's art been placed first. People know and honour the *Kamba Ramayanam*, composed only about seven hundred years ago, more than the works of the First and Middle Sangams. The reason is that the Aryan path within it enslaved the Tamil people.
+
+The *Kamba Ramayanam* makes extensive use of figures, ornaments, and similes found in Sangam literature. The *Kural* has been skilfully woven into it. What pandits describe as the poetic flavour of Kamban's epic is not Kamban's private property; it is a flavour given by Sangam literature. We do not ask that this source be lost. We reject the work because that flavour was used for an Aryan invention and because the invention's consequences are harmful.
+
+Let pandits use the artistic subtlety given by Sangam literature to create new works suited to the age and containing ideas useful to Tamil rights. We shall honour them. Leader Bharatiar can compose poetry with a flavour like Kamban's; let him do so. We welcome artistic growth of that kind. In truth, however, the *Kamba Ramayanam* does not serve such growth.
+
+Nor can one say that ninety percent of ordinary people honour the *Kamba Ramayanam* after appreciating its artistic subtlety. When they hear its name, what arises in their minds is not artistic excellence but the feeling that Rama is one of the ten incarnations and that reading his divine sport grants heaven. By feeding that feeling, the *Kamba Ramayanam* causes Tamils to decline and Aryans to rise.
+
+Consider one example. Self-Respecters conduct reform propaganda among Tamils: “Do not fall at a Brahmin's feet, give him a fee, and lose both honour and wealth. Do not accept that he is high by caste and you are low. Do not believe in another world, hand your property to the Brahmin broker, and elevate him.” The same people then listen devotionally to a discourse on the *Kamba Ramayanam*. They hear that before Rama, one of Mahavishnu's ten incarnations, took Sita with him into the forest, he gave gifts to Brahmins.
+
+They consequently think: “The incarnation of God himself gave gifts to Brahmins, performed ancestral rites, and observed rituals. We too must therefore give to Brahmins and must not change upon hearing Self-Respect propaganda.” Before leaving for the forest, could Rama not have sent his wealth to Mithila, given it to the poor and simple people of Ayodhya, entrusted it to the devoted Bharata, or taken it for travelling expenses? Why did he give it to Brahmins? At what moment? At the very moment his coronation had been stopped and he was leaving for the forest. Even then the Brahmin profited. We see the Brahmin similarly profit at the moment of loss for the Tamil who lives by reading this story.
+
+We speak of rights and equality. According to the *Ramayana*, the Tamil Sambuka loses his head. What lesson does this teach?
+
+Could Kamban not at least have rewritten such things in his work? Does the *Kamba Ramayanam* exist merely to make clear that this is the story of the Aryan king Rama? Does it not recount the greatness of an incarnation, one of the ten incarnations taught by the Aryan path?
+
+No one would dare describe every event in the *Kamba Ramayanam* as an example of its moral teaching. They would not call Rama's killing of Valin from concealment or the rolling of Sambuka's severed head high morality. They point instead to certain other things as noble conduct. Ancient Tamil works speak of many Tamils who possessed such virtues. Why are their names unknown to the people today? Why do Tamils fail to honour the Tamil heroes portrayed in ancient works, yet build temples to the Aryan Rama and worship him?
+
+Does anyone seeking heroic feeling today invoke the name of Cheran Senguttuvan, who marched to the Himalayas and defeated the Aryans? No. Whatever the desired feeling, people utter “Rama! Rama!” Before the age of the *Kamba Ramayanam*, many Tamil mothers were celebrated in Tamil Nadu as queens of chastity; we read of them in Sangam literature. Even today, however, when our women are blessed, they are told to be like Sita. No one blesses them by naming the Tamil women found in Sangam works. Why?
+
+Even if we take the *Ramayana* itself, Bharata plainly possessed higher moral qualities than Rama. When Rama learned that the kingdom was not his and belonged to Bharata, he nevertheless consented to Dasaratha's plan to crown him and was willing to rule. Agreeing to enjoy what does not belong to oneself is not moral conduct. Bharata, by contrast, gave even the kingdom that rightfully belonged to him to his elder brother. He declared that he had no desire to rule and showed how lightly he regarded royal enjoyment by saying, “Rama, give me your sandals; let them govern.”
+
+Has anyone ever built a temple and worshipped Bharata, a man of such elevated conduct? Does anyone cry “Bharata! Bharata!” as people cry “Rama! Rama!”? If the *Kamba Ramayanam* had been written only to explain high morality and to make people worship those of noble conduct, why is Rama the object of worship while Bharata remains merely an Alvar?
+
+Rama's temples arose because the *Kamba Ramayanam* was written to proclaim the glory of his incarnation. Because Kamban wrote the Rama story for that purpose, Tamils forgot Senguttuvan, who marched to the Himalayas and triumphed, and Rajendra, who travelled as far as Burma and won fame. They became slaves to Aryanism, which declares the son of Ayodhya's king an incarnation of God. We call upon people to cast Aryan books into the fire precisely to end this slavery.
+
+Tamils came to accept the Rama story as the glory of an incarnation because Kamban used his poetic ability for an Aryan invention. He fashioned Aryan characters into virtuous figures and made them repositories of qualities Tamils would respect, honour, and worship. That is why we condemn the *Kamba Ramayanam*.
+
+Kamban wrote in an age when the distinct characters and ethnic identities of Aryan and Tamil had been forgotten, when both peoples were considered one, and when Tamils had strayed from their own principles and adopted the Aryan path. At that time there was no concern for an Aryan-Dravidian ethnic awakening, and no feeling that mixing Aryan art into Tamil art would destroy Tamil art and Tamil conditions. The poet Kamban therefore took whatever the people of his age considered right and whomever they worshipped, and incorporated all of it into his work.
+
+Today, however, the agitation distinguishing Aryan and Tamil has been strengthened. This is an age with a movement demanding the removal of Aryan domination and the recovery of Tamil self-respect and self-government. In such an age, treating as sacred scripture a poem from a period that considered Aryans and Tamils no different will destroy ethnic awakening and liberation. Tamils who wish to cut away Aryan dominance therefore have no need for the *Kamba Ramayanam*, which commands them to worship the Aryan Rama.
+
+Some say the story and its Aryan ideas were not made by Kamban: he merely turned into epic poetry what already existed and what the people regarded as right. Very well. That argument may serve to protect Kamban from blame. But even if the *Kamba Ramayanam* accorded with the ideas of Kamban's age, how can Tamils accept it today when contemporary thought is directly opposed to those ideas?
+
+I would praise more highly a poet who does not merely repeat the thought of his age, but compares it with the thought of earlier periods and with ideas arising from his own intelligence. If anything the people of his age believe appears wrong to him, he should correct it and courageously present a new idea in his work to guide the people along a good path. I would call him a first-rate poet.
+
+Kamban possessed a treasury of words. The Sangam flavour displayed in his poetry shows how thoroughly he knew Tamil literature. A man of such ability could have understood both Tamil principles and the fact that the beliefs held by Tamils of his period fostered Aryanism. He could therefore have written a work that spread Tamil principles among the people. He did not do so; he sang the Rama story. He followed the path taken by the people and did not show a distinct path. In my view, a good poet ought to have done that.
+
+Kamban adopted the thought of his age, and it produced the present decline of Tamils. Tamils now need awakening and liberation. To obtain them, works of Aryan invention must be abolished. The *Kamba Ramayanam* and *Periya Puranam* cause Tamils to believe and accept Aryan inventions. We therefore say these books must be abolished so that Tamils may gain freedom and courage.
+
+To this day many intellectuals and researchers have said the *Ramayana* is a story of Aryan-Dravidian conflict and that Ravana was a Dravidian. Some now argue with evidence that Ravana was an Aryan and that the Vanaras were forest dwellers rather than Tamils. According to the geography of the *Ramayana* period, Tamilakam and Aryan land are identified as two regions. The area inhabited by those called Vanaras lay below the Vindhyas and extended toward the Godavari. Aryans or other peoples did not live there; Tamils did. Thus, whether examined through internal or external evidence, “Vanaras,” as many scholars have said, refers to Tamils. The same research supports the conclusion that Lanka's king was a Dravidian.
+
+Historians have identified the period of the *Ramayana* with appropriate evidence. They say Aryans then ruled small kingdoms in the north. They do not say, and there is no evidence, that an Aryan ruled part of Tamilakam or became king of an island across the sea beyond Tamilakam. Even if, merely for argument, we accept Ravana as an Aryan, must the history of two Aryans become the Tamil's art and literature, and even a book that teaches religion? Is this not enough to show that the Tamil lacks self-respect?
+
+Have scholars' attempts to remove the obscene portions of the *Ramayana* and offer new interpretations been effective? In his book *Dasaratha's Fault and Kaikeyi's Virtue*, Leader Bharatiar used his intellectual ability to explain beautifully that Dasaratha was wrong to attempt Rama's coronation and that Rama's consent was a moral failing. He showed that the reviled Kaikeyi was virtuous and the praised Dasaratha deficient, and published a rare work of research.
+
+How many devotees of Rama accepted it and corrected their opinion of Kaikeyi? How many preachers of the *Kamba Ramayanam* and performers of Rama dramas changed their views according to Bharatiar's irrefutable research? No one seeks such truths in the story of Rama's incarnation. Their thought is only that they should recite it, worship Rama, and attain salvation. That strengthens Aryanism and harms Tamils. It is precisely because these books create such thought and produce a degraded condition that we say they must be cast into the fire.
+
+## Address by Professor Somasundara Bharatiar
+
+Mr President, ladies, and great Tamil people!
+
+When friends told me they had arranged a discussion on whether the *Kamba Ramayanam* should be burned and asked me to participate, I declined. I refused three times. Finally, they compelled me to come. The question whether to burn the *Kamba Ramayanam* or preserve and honour it first arose at the Tirukazhukundram conference. This matter cannot be decided in one day; it requires thought. My view is that it does not require a battle of arguments. Though I pleaded not to take part in this discussion, they did not release me.
+
+You have now listened for two hours to a beautiful address. He craftily called me a leader. The Self-Respect Movement has only one leader, Periyar; the others may be called his associates, not leaders. Just as the Congress has one Gandhi, the Self-Respect Movement should have Periyar alone as its leader.
+
+You have long understood my position. The speaker did not proceed by the method of debate; he delivered an emotion-filled oration and captured your minds. I do not suppose that by speaking now I can change them. Nor do I intend to repudiate him. I know that if a vote were taken now I would certainly receive not one vote. If I make any mistake in speaking, therefore, do not be angry with me. The people deserving punishment are not I, but friends such as Sithaiyan who compelled me to come.
+
+Friend Sithaiyan did not tell me that today's argument would include the *Periya Puranam*. I shall therefore not speak about it. Had I known, I would have read it and examined it thoroughly before coming. One lesson from my many years as a lawyer is that, whatever case I conduct, I first consider every reason the opposing party may offer, seek an answer to each, and only then search for evidence supporting my own side. I followed that method and considered all the reasons advanced by those who say the *Kamba Ramayanam* must be burned. To the extent I have studied it, I see no necessity to burn it.
+
+The speaker explained my position to some extent. Whatever Aryans do to cause hardship to Tamils, I shall oppose it. In every Tamil struggle for self-respect I shall stand first in the front rank. Because I oppose burning the *Kamba Ramayanam*, the speaker did not say Bharati had become an Aryan slave. He continued to include me with his own people and gave me a certificate. If you believe Friend Annadurai's speech, you will not dare regard me as an ally of Aryans. If you do regard me that way, it follows that you have no faith in Annadurai's words.
+
+The determination not to become enslaved to Aryans arose in me forty years ago, before the Self-Respect Movement existed. I shall tell you what happened when I was married at fourteen. My wedding took place in a village of the Ettayapuram estate where modern feeling could scarcely spread. I possessed orthodox religious feeling and was a good Saivite, though not in the sense in which Saivism exists today. My path of Siva is different; I do not accept the Saivism preached by today's Saivite pandits. Truth itself is Siva to me.
+
+They said my wedding would be performed by Brahmins. I rejected such a wedding. The Saivite Agamas describe Brahmins as Chandalas and say they must not enter a temple beyond the flagstaff, for their entry would cause pollution. I therefore said I would not marry through such Chandalas. My family travelled to Tirunelveli and Madurai and consulted pandits. Even the Tirunelveli pandits gave no proper answer. Those in Madurai said, “What the boy says is true; that is indeed what the Agama states.” My wedding was then performed by Saivite priests.
+
+I held that purpose from childhood. It did not come to me from the Self-Respect Movement or Annadurai. From then until today I have laboured for Tamils to acquire self-respect. Saivite pandits call Bharati an atheist. Self-Respecters may now say I have become enslaved to Aryanism. If they wish to write that Bharati has been defeated, I am ready even now to sign that statement three times. I cannot recall a single battle fought for Tamil self-respect in which I did not participate.
+
+Because he did not speak as I expected, I could not use the evidence I had brought. Congressmen believe whatever one Mahatma says is right; members of the Self-Respect Movement accept whatever one Periyar says as right. I am neither a Mahatma nor a Periyar. I am an ordinary Tamil. Must I destroy the little respect still remaining to me by saying the *Kamba Ramayanam* should not be burned? If you have resolved to burn it, my words cannot stop you. Listen to what I say without anger. Accept it if it appears right. Otherwise dismiss it by saying Bharati has grown old and said something or other.
+
+Even Aryans now know that Aryan domination can no longer be established in Tamil Nadu. During the anti-Hindi struggle, we saw that Aryans could not suppress Tamil resistance. C. R. once said, “The Buddha failed and the Jina failed; can this Bharati destroy Aryanism?” I was pleased to hear friends report that he later said something different: “Had I known this accursed Hindi would meet such opposition, I would never have touched it.”
+
+Two groups say the *Kamba Ramayanam* must not be burned. One says it is a great religious text. The other says it is excellent poetry. I say it is not right to burn a great poem; that is not the Tamil way. I will come forward to serve an effort to burn away obscene ideas. But how can burning a book destroy an obscene idea?
+
+The speaker said the *Kamba Ramayanam* contains the doctrine of ten incarnations, deifies Rama, and is Vaishnavite. Did Kamban create all of this? The poet used beliefs held by Tamils of his age. Because of that, must we lose a fine poem? Neither Vaishnavism nor Aryanism was created by Kamban. The defects in the ideas of the *Kamba Ramayanam* must be explained gradually to the people and their knowledge developed. Rama's killing of Valin, his execution of Sambuka, and his willingness to obtain a kingdom to which he had no right are wrong; tell the people so.
+
+I have learned that patient work explaining an opponent's ideas until people themselves regard them as obscene and laugh at them yields the greatest benefit. I have opposed Aryans wherever opposition was needed. Those who celebrate the *Kamba Ramayanam* are Tamils; Aryans still regard Valmiki's *Ramayana* as the special one. Burning the *Kamba Ramayanam* would therefore anger Tamils and create division among them.
+
+If a rabid dog leaps upon and bites us, can we bite the dog in return? Every religion is fanaticism. I fear that if Self-Respecters dare burn the *Kamba Ramayanam*, religious fanatics will resist and begin burning those who burned the book. I therefore say: do not perform an act that provokes such opposition.
+
+The speaker said the *Ramayana* teaches Aryan religion. Why fear that the Tamil will become corrupt and perish merely by reading another religion's thought? Do we not read Christian books? Are Shakespeare's works not full of Christian philosophy?
+
+Is obscenity found only in the *Ramayana*? Is burning it enough? Is there no obscenity in the *Mahabharata*? A proverb says, “Do not read the *Mahabharata* at home; read it in some monastery,” because it contains obscenity women at home could not endure hearing. Draupadi is said to be wife to five men, yet Tamil people shamelessly send their women to her temple. Not content with dancing among many women, Krishna made his own aunt his wife. Should that *Mahabharata* not be burned? Is it enough to burn only the *Ramayana*?
+
+They say the *Ramayana* contains an Aryan story. In the *Bhagavata*, Krishna says, “I am god to all living creatures; the Brahmin is god to me.” Should it not be burned? Should the *Nalayira Divya Prabandham* not be burned? I would say the Puranas of Saivite pandits contain more obscenity than Vaishnavite books. I do not accept stories such as Iyarpagai and Siruthondar as the path of Siva; my path is different. Even so, instead of burning the *Periya Puranam*, more research like that published by the Eelam ascetic should appear. Explain the obscenities to the people and kindle the flame of knowledge; do not kindle anger.
+
+I have read much English literature; Friend Annadurai may have read even more. In what I have read, I have found no literary hero with more virtue and fewer defects than Rama. Though Rama's nature contains some faults, his virtues are more numerous. In Kamban's portrait of Rama, excellence outweighs error.
+
+I have researched and read both the *Kamba Ramayanam* and Sangam literature as deeply as any Tamil pandit. The *Kamba Ramayanam* is a flower that blossomed from earlier literature. My friend said I could write poetry like Kamban. Why have I not done so? I cannot. In the whole world I have seen no poet as great as Kamban. If asked whether I wanted Kamban or Tamil Nadu, I would say I wanted Kamban and did not want Tamil Nadu.
+
+Periyar told me: “I have not read the *Kamba Ramayanam*. Those who have say it contains degradation of Tamils.” I replied: “Trust me when I tell you there is nothing of that kind in it.” Periyar's work is great and has greatly benefited Tamils. My view, however, is that no act should be undertaken that angers Tamils.
+
+Annadurai says Rama gave gifts to Brahmins. What can I do? Even now, the women in my house pour away the money I earn by giving it to Brahmins. I cannot stop them. Annadurai seems not to have such difficulty! What use is it to blame Aryans for everything? If our Tamil people are deceived, what benefit comes from blaming only the Aryan? Is it not the Tamil who must acquire awareness?
+
+After labouring for Tamils for forty years, I stand today wondering whether the Tamil will ever obtain liberation and whether my work has failed. Mothers may be angry, but I shall say it. A friend remarked: “What liberation can the Tamil have? If all Tamil men died one midnight and Englishmen married Tamil women, perhaps their descendants might obtain liberation.” My principle is not merely that the Tamil must not be enslaved to the Aryan; no human should be enslaved even to God.
+
+Should we reject Rama's story because Rama was an Aryan? Could there not be even one good Aryan? If there is a good man, what is wrong with reading his story?
+
+Even the god Vishnu does not belong to Aryans. It is said that Aryans took a Tamil god and distorted him. Sangam works, for example, refer to the Tamil deity Kannan. He did not have many wives; he had one beloved, Nappinnai, and theirs was divine love. Aryans turned that Tamil Kannan into Krishna and made him obscene.
+
+Some even say Rama was a Dravidian, though I do not insist upon it. Kamban skilfully corrected Valmiki's obscenities and made the story worthy of Tamil respect. Valmiki said Rama broke a bow and married Sita. Knowing Tamils would not honour that, Kamban beautifully caused the two to meet and fall in love. Valmiki wrote that during intercourse Ahalya felt pride that Indra himself had sought her. Knowing Tamils would reject this, Kamban wrote that Ahalya erred without recognizing Indra's deceit.
+
+How can it be said that Ravana was a Tamil? My friend says so, but where does the *Kamba Ramayanam* state it? People listen to English-educated scholars, saying Father Heras or one person or another said it, and lose their judgement. Sangam verse defines Tamil Nadu's boundary, with the Kumari river as its southern limit. Ravana is said to have lived hundreds of leagues beyond it, across the sea upon an island. It may have been near Madagascar or elsewhere; it was not Tamil Nadu. Is Ravana to be called Tamil solely because he was the king of southern Lanka? People may ask how a Brahmin crossed the sea and reached Lanka. Long ago a white man settled on an island near Australia, married indigenous women, and became king. Would we ask how a white man went there and became king?
+
+Is the Tamil ashamed to call himself Tamil, that he must shrug his shoulders crying “Dravidian, Dravidian”? Where is the name Dravidian in Sangam literature? They spoke the Aryan expression “Self-Respect” repeatedly and have only now begun using the Tamil expression *thanmanam*.
+
+While Annadurai spoke you frequently applauded, approving and rejoicing in his words. Even if you do not applaud me likewise, at least keep your minds open. Do not behave like someone unable to cure a disease who administers poison and kills the patient: unable to remove Aryanism, do not degrade Tamils themselves and destroy Tamil art. Educate the people. Explain Aryan obscenity. That is the proper path.
+
+Professor Bharatiar completed his reply and immediately departed, saying it was time for his train.
+
+## Annadurai's Reply
+
+“Comrades! As I said at the outset, you will have understood that Bharatiar and I agree about the objective of the struggle and that he holds a different view only about its method. Apart from this difference, Bharatiar expressed no contrary opinion on whether Aryan domination should exist or whether Aryanism is suitable for Tamils. He did not say that the *Ramayana* contains no obscenities or moral defects. He said: explain them to the people and increase their knowledge, but do not burn the books, for religious fanatics would burn the Self-Respecters themselves.
+
+“Once Tamils become conscious of themselves and rise, Aryans will be unable to suppress that opposition. Let Leader Bharatiar, who fears they will dare cast us into the fire, rest at Pasumalai. We shall burn those books and go to him saying, ‘We have reduced the Aryan books to ashes; here we are.’ I assure you I shall come. Aryans now fear that the fire we kindle may surround both Aryanism and the places where it dwells.
+
+“Let poets have fame, tranquillity, and peace. Let opposition, hardship, and loss fall upon us Self-Respecters. We shall endure every trouble and fight Aryanism. If people such as Bharatiar dislike our intense method of struggle, let them stand aside. At least in their leisure, however, let them explain to the people the obscenities and Aryan ideas found in those books.
+
+“Bharatiar devoted most of his address to supporting what we say; only at the end did he speak a few words in anger. He has the right to be angry with us and condemn us. The anger of young men usually kindles anger in me as well; the anger of an elderly person ordinarily awakens only sympathy in me.
+
+“Bharatiar advised us: ‘I will not lose Kamban. Kamban is the world's greatest poet. Do not provoke popular anger and opposition by burning the book and bring suffering upon yourselves. Explain the matter to the people gradually.’ Out of his attachment to Kamban, he was even prepared to cast aside the Sangam works. This shows the strength of that attachment. I shall now show that this was not his earlier view.
+
+“In this very speech he said: ‘For forty years I have worked to impart knowledge to Tamils and opposed Aryanism. Today I stand bewildered, feeling that my endeavour and labour have been wasted and that I have failed.’ Bharatiar has himself said that he failed after using for forty years the gradual method of explaining matters to people. How can we accept his advice that we should use that same method? I would say his labour was wasted precisely because the method of explaining matters little by little, talking until people laughed at Aryanism, did not strike at the root. If we are to abolish Aryanism, we must therefore work intensely without fearing opposition.
+
+“What we propose today is not extraordinarily radical. Twenty years ago, at a conference in Kerala held in the presence of Pandit Madan Mohan Malaviya, some people cried, ‘Victory to Rama!’ The radicals answered, ‘Victory to Ravana!’ Malaviya was utterly startled.
+
+“Bharatiar said Ravana was a Brahmin. Without offering evidence, he said the island of Lanka was not connected to the place defined as the boundary of Tamil Nadu but was an island many leagues beyond it. Historians and literary scholars tell us that in the period assigned to the *Ramayana*, Aryans had established a few small kingdoms in northern India. There is no evidence that Aryans then lived in Tamil Nadu, nearby, or on the islands. Scholars of the earth say that long ago there existed a landmass called Lemuria and that a deluge reduced it and destroyed the old boundaries of Tamilakam. There is therefore no reason to regard the place called Lanka as Aryan country. To dismiss all research published thus far and call Ravana a Brahmin without internal or external evidence is meaningless.
+
+“Likewise, we say that Kamban's skill in portraying Aryan characters attractively is precisely what harmed Tamils. Is there any substance in replying, ‘Is that not Kamban's genius?’ It was because Kamban exalted Aryans in this way that Tamils forgot their own art, their unmixed Tamil art. They do not honour Tamil heroes or Tamil women of chastity.
+
+“When I asked whether Tamils should read a book saying Rama bestowed gifts upon Brahmins, Bharatiar replied that women in his own house give gifts to Aryan Brahmins and that he cannot stop them. What kind of answer is this? Perhaps, seeing him continually read the *Kamba Ramayanam*, his household believes it should behave as the book directs and therefore gives gifts to Brahmins. If Bharatiar condemns the *Kamba Ramayanam*, they too may change their ways.
+
+“Bharatiar says the actions of Aryans and the manner in which they are exalted should be explained so that listeners laugh, and that this is the proper method. If we merely continue talking in that fashion, Aryans too will sit beside us and laugh; nothing will be accomplished.
+
+“I think Bharatiar, exhausted by fighting Aryanism, now speaks a philosophy of despair. He asks whether a Tamil will be corrupted by reading the books of another religion. The Tamil does not read the *Kamba Ramayanam* as another religion's book. He reverently recites it as a religious book made for himself and thereby embraces Aryanism. When the Tamil has his own art and his own path, why should he carry Aryan art and religion upon his head? We heard no answer to that. Nor is it an answer to ask, ‘Is burning this alone sufficient? There are many others.’
+
+“It is dangerous to argue through analogies. Bharatiar offered one: burning the *Ramayana*, he said, is like poisoning and killing patients instead of curing them with medicine. I too can offer an analogy. If internal medicine cannot dissolve a swelling on the body, surgery is one method. Similarly, after trying the counsel and propaganda of people such as Bharatiar as internal medicine for Tamil people afflicted by the Aryan disease, Self-Respecters now adopt the stronger method of casting Aryan books into the fire.
+
+“Professor Bharatiar, who today argued that no art surpasses the *Kamba Ramayanam*, presided over the North Arcot regional Tamil conference held at Tiruvathipuram in the first week of March 1938. In that address he said: ‘Tamils possessed their own unmixed artistic refinement, faultless linguistic excellence, and incomparable literary richness.’ That is what I said today. When did Tamils possess this unmixed Tamil art? Listen to what Bharatiar said then:
+
+“‘Even before Ashoka published his ideas in stone inscriptions, even before Jesus Christ revealed truths to the people.’ Thus Bharatiar said Tamils possessed their own art before Kamban's age, and he explained what that art was.
+
+“He then said: ‘The great grammatical work called the *Tolkappiyam*, which appeared about 2,500 years ago, is a great work revealing the ancient distinction of the Tamil language.’ Today he says, ‘I will lose Tamil Nadu, but I will not lose Kamban.’ He further said then: ‘Literatures that arose before recorded history spread without limit, embraced many fields of art, and regarded many peoples as equals.’ He supplied a list of Tamil arts; note that the *Kamba Ramayanam* was absent. Bharatiar's list was this: Valluvar's sky-renowned *Kural*; the *Kalithogai*, rich in the inner theme; the *Kurunthogai*; the *Kurunaru*; the *Purananuru*, which expounds the external theme; and Ilango's richly endowed *Silappathikaram*. These show that the ancient Tamil people possessed the capacity to discover, investigate, and explain new things.
+
+“Why did Tamils, who possessed so many arts of their own, later adopt an alien art? Bharatiar then answered that they developed a taste for the sour flavour of Sanskrit. What harm followed? He said: ‘Developing a taste for the sour flavour of Sanskrit, they consumed it excessively and began satisfying their hunger for knowledge with it. It bewildered their intellect, impaired the well-being created by that intellect, and weakened them. They therefore lost the composure needed to direct thought along new paths and create artistic treasures filled with novelty and progress.
+
+“‘They composed insipid poems, empty books with tastes contrary to nature, and books of falsehood, and so ruined their intelligence.’
+
+“Bharatiar then explained that Tamils harmed themselves by mixing Aryan imaginative art with their own distinct art. The feeling he developed through that explanation is what now moves us to agitate for the removal and burning of such Aryan art. Yet today he opposes it.
+
+“Bharatiar said then: ‘Before the Puranic age, in the [damaged century number] CE, Tamil people who had savoured sweetness in pure Tamil embraced objects of two castes and seized upon mixed literary matter like people travelling with a crowd born to many castes, thereby damaging the excellence of classical Tamil.
+
+“‘Obscene false tales, false codes of conduct, and literary and grammatical works incompatible with the Tamil way arose. They ruined the natural intelligence of Tamils and brought them to destruction, even making them forget that they were Tamil.’ To explain this further, Bharatiar said: ‘The western people called Romans did not abandon the distinction of their language; they adopted what was good in the language and art of the Greeks who entered their society, and prospered.
+
+“‘Tamils after the Sangam age did not examine the linguistic and artistic merits of Sanskrit, sift them through their reason, and select what was good. They entered without restraint into the language, art, and civilization of the northerners, became intoxicated by them, and performed the acts responsible for this age and this degraded condition.’
+
+“To remove this age's degraded condition, it is right to remove the Aryan art created in that earlier age. We call for burning Aryan books so that such a disposition may arise among the people. Bharatiar said only that he disliked this method and proposed gradual explanation instead. But he himself says he has tried that same method for forty years and gained only a sense of failure; it follows that his method is not sound.
+
+“I therefore declare that Self-Respecters have emerged from this debate with greater determination than before and will carry out the plan to burn Aryan books. I offer my gratitude to the comrades who arranged this valuable discussion.”
+
+## Chairman's Concluding Remarks
+
+“Friends! You have heard both fine addresses. At a similar meeting held in Madras, the person who presided offered no concluding remarks. I shall not do likewise; I will state my opinion in conclusion.
+
+“Both speakers said Aryan domination should not exist and that the inventions found in the *Ramayana* and similar works are unacceptable. One said they should be burned; the other said the matter should be explained gradually to the people. They therefore have no fundamental difference of opinion. Only if such a difference existed would there be any need for me to decide between them.
+
+“Will burning a book destroy Aryanism? It will not. Yet burning the books is not without benefit. They say they will burn them as a demonstration so that new awareness and new ideas may spread among the people. They have adopted it as a method of condemning Aryan inventions, and burning will indeed serve that purpose. Just as burning foreign cloth was a method of condemning the use of foreign goods, burning these books is one method of condemning an alien art. My opinion, however, is that they should not burn the books at once. While continuing to announce, ‘Here, we shall burn them; we are going to burn them,’ they should spend a few more days performing this work of explanation.
+
+“It almost appears that Annadurai and Bharatiar had agreed beforehand to speak this way: Annadurai saying, ‘I demand that Aryan books be burned and condemn them,’ and Bharatiar saying, ‘I demand that they not be burned while exposing their obscenities.’ Bharatiar did not refute anything central to Annadurai's argument.
+
+“In Madras, Comrade Sethu Pillai said Ravana was an Aryan. Bharatiar shares that view. They argued that because Ravana sang the Sama, he must have been an Aryan. Ravana sang the Sama Veda; for that very reason I say he was a Tamil. You will ask how. In the age of the *Ramayana*, the Aryan Vedas did not exist as books under the four names Rig, Sama, Yajur, and Atharvana. There was one Veda. It was only in Vyasa's age that it was divided and compiled as separate Vedas. In Ravana's age there was no Aryan Veda called Sama. What he sang was Tamil. Tamils then possessed four *marais*, and one of them was called Sama. Ravana, a Tamil, sang that Tamil *marai* called Sama in the Tamil language. That evidence is sufficient to show he was Tamil.
+
+“For argument's sake, let us suppose Ravana was an Aryan. Rama was an Aryan and Ravana was an Aryan. Must the history of two Aryans be the Tamil's art? Should the Tamil possess no art about Tamils? Bharatiar fought saying that if Hindi, an Aryan language, entered, Tamil would be ruined. Should he not lead this struggle by saying that the presence of the *Ramayana*, an Aryan art, ruins Tamil art?
+
+“Bharatiar said Periyar had not read the *Kamba Ramayanam* and that it contained no obscenity. I have read the *Kamba Ramayanam*. I tell you that it contains many obscenities.
+
+“Siva supposedly had five heads, and Brahma too supposedly had five. One day, mistaking Brahma for Siva, Parvati sat beside him and caressed him. Because Brahma had five heads, Parvati could not recognize who he was. But did Brahma not know the visitor was Parvati? Did he remain quiet? He returned her affection. Siva suddenly arrived and became angry. Saying, ‘Brahma! Is it not because you have five heads that this obscenity occurred?’ he supposedly twisted off one of Brahma's heads as one twists a cashew fruit from its stem. Kamban did not omit even this obscenity.
+
+“You have greatly benefited from hearing both addresses. With that observation, I conclude.”
+
+## Translator's Notes
+
+`சொற்போர்` is translated as “verbal debate” rather than literal “war of words” in the event description, while the friendly contest implied by the term is retained in the speeches. `காய்தல் உவத்தலின்றி` means listening without aversion or favour. The footnote identifies the compulsory-Hindi struggle as the first language agitation of 1938-39.
+
+`புலையனேனும்` is central to Anna's grammatical argument: the inclusive particle `உம்` (“even”) leaves the caste hierarchy intact while offering devotional elevation within it. `வார்தாத் திட்டம்` refers to the Wardha Basic Education Scheme and its association with hereditary craft instruction. `தட்சணை` is rendered as a ritual fee or offering to a Brahmin.
+
+`ஆழ்வார்` is retained as “Alvar,” but Anna uses it contrastively here: Bharata remains a revered subordinate figure while Rama becomes a temple deity. `அகச்சான்று / புறச்சான்று` are rendered as internal and external evidence. Bharatiar's title `தசரதன் குறையும், கைகேயி நிறையும்` is translated literally as *Dasaratha's Fault and Kaikeyi's Virtue*.
+
+Bharatiar distinguishes `debate` from an emotion-filled `oration`, using the English loanwords in Tamil. His statement preferring Kamban to Tamil Nadu is translated without mitigation because Annadurai directly answers it later. The source footnote identifies the Eelam ascetic as a later associate editor of Anna's *Dravida Nadu*; its printed year appears damaged in OCR and is not used in the translation.
+
+The damaged source does not preserve the century number in Bharatiar's quoted phrase `கி. பி. -ம் நூற்றாண்டு`; the translation marks that lacuna rather than guessing. `விரக்தி வேதாந்தம்` is rendered contextually as “a philosophy of despair.” The chairman's argument about `சாமம்` distinguishes the Sanskrit Sama Veda from what he calls one of the four ancient Tamil `மறைகள்`; it is retained as his historical claim without editorial endorsement.
