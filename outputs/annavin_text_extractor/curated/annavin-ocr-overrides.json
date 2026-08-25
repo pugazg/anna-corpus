@@ -951,6 +951,16 @@
         }
       ],
       "tokenCorrections": []
+    },
+    "katturaigal/kalvi_kazhagam_2.md": {
+      "phraseCorrections": [
+        {
+          "wrong": "அறிவுப்பணியில் ஆர்வம் காட்டவேண்டும் என்று கேட்டுக்\nகொண்டு, என்னை இந்த விழாவுக்கு வரச் செய்த நண்பர்களுக்கு",
+          "right": "அறிவுப்பணியில் ஆர்வம் காட்டவேண்டும் என்று கேட்டுக்\nகொண்டு, என்னை இந்த விழாவுக்கு வரச் செய்த நண்பர்களுக்கு\n\n### Image 12: 012-0eeec472e4.png\n\n- Image: `katturaigal/kalvi_kazhagam_2/012-0eeec472e4.png`\n\nஎன் நன்றியறிதலைக் கூறி இந்தப் பள்ளிக்கூடக் கட்டிடத்தைத்\nதிறந்துவைக்கிறேன்.\n\n(18.7.48 திராவிட நாடு இதழில் வெளிவந்தது)",
+          "reason": "part 2 scan 12 contains the omitted ending, thanks, opening declaration and 18 July 1948 Dravida Nadu publication credit"
+        }
+      ],
+      "tokenCorrections": []
     }
   }
 }
