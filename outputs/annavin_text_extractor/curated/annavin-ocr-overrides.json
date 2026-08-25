@@ -952,8 +952,248 @@
       ],
       "tokenCorrections": []
     },
+    "katturaigal/kalvi_kazhagam_1.md": {
+      "phraseCorrections": [
+        {
+          "wrong": "இராசிபுரக்கைச் சார்ந்த",
+          "right": "இராசிபுரத்தைச் சார்ந்த",
+          "reason": "part 1 scan 1 clearly prints இராசிபுரத்தைச் சார்ந்த"
+        },
+        {
+          "wrong": "உருவான. செயல் எதேனும்",
+          "right": "உருவான செயல் ஏதேனும்",
+          "reason": "part 1 scan 2 clearly prints உருவான செயல் ஏதேனும்"
+        },
+        {
+          "wrong": "ரூபாய் செவில்",
+          "right": "ரூபாய் செலவில்",
+          "reason": "part 1 scan 2 clearly prints செலவில்"
+        },
+        {
+          "wrong": "அதை ஜில்லா '",
+          "right": "அதை ஜில்லா",
+          "reason": "part 1 scan 2 contains no quotation mark after ஜில்லா"
+        },
+        {
+          "wrong": "பள் ளிச்சிறார்களுக்கு",
+          "right": "பள்ளிச்சிறார்களுக்கு",
+          "reason": "part 1 scan 2 prints பள்ளிச்சிறார்களுக்கு as one word"
+        },
+        {
+          "wrong": "கல்லூரித்\" தலைவர்",
+          "right": "கல்லூரித் தலைவர்",
+          "reason": "part 1 scan 3 contains no quotation mark after கல்லூரித்"
+        },
+        {
+          "wrong": "உருவப்: படத்தை",
+          "right": "உருவப் படத்தை",
+          "reason": "part 1 scan 3 contains no colon after உருவப்"
+        },
+        {
+          "wrong": "கிடைக்கழுடியாது:",
+          "right": "கிடைக்கமுடியாது:",
+          "reason": "part 1 scan 3 clearly prints கிடைக்கமுடியாது"
+        },
+        {
+          "wrong": "தேசிப மொழி",
+          "right": "தேசீய மொழி",
+          "reason": "part 1 scan 4 clearly prints தேசீய மொழி"
+        },
+        {
+          "wrong": "பாரத்தைத் தாங்க முயுமா?",
+          "right": "பாரத்தைத் தாங்க முடியுமா?",
+          "reason": "part 1 scan 5 clearly prints முடியுமா"
+        },
+        {
+          "wrong": "இருப்பத்தைந்து ஆண்டுகளாக",
+          "right": "இருபத்தைந்து ஆண்டுகளாக",
+          "reason": "part 1 scan 5 clearly prints இருபத்தைந்து"
+        },
+        {
+          "wrong": "ஆட்சியை நடத்தக்கூவுபவர்களிடம்",
+          "right": "ஆட்சியை நடத்தக்கூடியவர்களிடம்",
+          "reason": "part 1 scan 5 clearly prints நடத்தக்கூடியவர்களிடம்"
+        },
+        {
+          "wrong": "இவ்விதமான. பள்ளிக்கூடங்களில்",
+          "right": "இவ்விதமான பள்ளிக்கூடங்களில்",
+          "reason": "part 1 scan 6 contains no full stop after இவ்விதமான"
+        },
+        {
+          "wrong": "விழாவாற்ற மந்திமார்கிளை",
+          "right": "விழாவாற்ற மந்திரிமார்களை",
+          "reason": "part 1 scan 6 clearly prints மந்திரிமார்களை"
+        },
+        {
+          "wrong": "துணிவான. காரியமாகும்,",
+          "right": "துணிவான காரியமாகும்,",
+          "reason": "part 1 scan 6 contains no full stop after துணிவான"
+        },
+        {
+          "wrong": "ஒரளவுக்குச் சலிப்பு",
+          "right": "ஓரளவுக்குச் சலிப்பு",
+          "reason": "part 1 scan 6 clearly prints ஓரளவுக்கு"
+        },
+        {
+          "wrong": "அதிமாகக்",
+          "right": "அதிகமாகக்",
+          "reason": "part 1 scan 6 clearly prints அதிகமாகக்"
+        },
+        {
+          "wrong": "உள்ளம் நோவதுமான் நிலையில்",
+          "right": "உள்ளம் நோவதுமான நிலையில்",
+          "reason": "part 1 scan 7 clearly prints நோவதுமான"
+        },
+        {
+          "wrong": "அந்தப் பாபனும் சொந்தத்துக்காக",
+          "right": "அந்தப் பயனும் சொந்தத்துக்காக",
+          "reason": "part 1 scan 8 clearly prints அந்தப் பயனும்"
+        },
+        {
+          "wrong": "சூதுவாதும் சுபநலமும் அற்றவர்",
+          "right": "சூதுவாதும் சுயநலமும் அற்றவர்",
+          "reason": "part 1 scan 9 clearly prints சுயநலமும்"
+        },
+        {
+          "wrong": "நாம் எதிர்பார்க்கக்\nகூடிபது.",
+          "right": "நாம் எதிர்பார்க்கக்\nகூடியது.",
+          "reason": "part 1 scan 9 clearly prints கூடியது"
+        },
+        {
+          "wrong": "தேவப பணத்தைக்",
+          "right": "தேவப் பணத்தைக்",
+          "reason": "part 1 scan 11 clearly prints தேவப் பணத்தைக்"
+        },
+        {
+          "wrong": "தாண்டவயூர்த்தி",
+          "right": "தாண்டவமூர்த்தி",
+          "reason": "part 1 scan 12 clearly prints தாண்டவமூர்த்தி"
+        },
+        {
+          "wrong": "தங்கத்தால் செய்த ஒடுகள்",
+          "right": "தங்கத்தால் செய்த ஓடுகள்",
+          "reason": "part 1 scan 12 clearly prints ஓடுகள்"
+        },
+        {
+          "wrong": "கேட்டுப் பொறுவோம்.",
+          "right": "கேட்டுப் பெறுவோம்.",
+          "reason": "part 1 scan 12 clearly prints பெறுவோம்"
+        },
+        {
+          "wrong": "அந்தப் பணம் படிப்புக்கு வந்துசோ பக்குவமாக",
+          "right": "அந்தப் பணம் படிப்புக்கு வந்துசேர பக்குவமாக",
+          "reason": "part 1 scan 13 clearly prints வந்துசேர"
+        },
+        {
+          "wrong": "கருஊலத்தை விடுவித்து",
+          "right": "கருவூலத்தை விடுவித்து",
+          "reason": "part 1 scan 13 clearly prints கருவூலத்தை"
+        },
+        {
+          "wrong": "எற்றுக் கொள்ளத் துபாரா!",
+          "right": "ஏற்றுக் கொள்ளத் தயாரா!",
+          "reason": "part 1 scan 13 clearly prints ஏற்றுக் கொள்ளத் தயாரா"
+        },
+        {
+          "wrong": "மனுச்செய்து கொள்கிறார்",
+          "right": "மனுச் செய்து கொள்கிறார்",
+          "reason": "part 1 scan 13 clearly prints மனுச் செய்து"
+        },
+        {
+          "wrong": "இருதபத்தின்",
+          "right": "இருதயத்தின்",
+          "reason": "part 1 scan 14 clearly prints இருதயத்தின்"
+        },
+        {
+          "wrong": "தருமம் ஏன் செய்ப வேண்டும்",
+          "right": "தருமம் ஏன் செய்ய வேண்டும்",
+          "reason": "part 1 scan 15 clearly prints செய்ய வேண்டும்"
+        },
+        {
+          "wrong": "புண்பம்தரும் என்பதுதான்",
+          "right": "புண்யம் தரும் என்பதுதான்",
+          "reason": "part 1 scan 15 clearly prints புண்யம் தரும்"
+        }
+      ],
+      "tokenCorrections": []
+    },
     "katturaigal/kalvi_kazhagam_2.md": {
       "phraseCorrections": [
+        {
+          "wrong": "எண்ண\nவேண்டமே!",
+          "right": "எண்ண\nவேண்டுமே!",
+          "reason": "part 2 scan 1 clearly prints வேண்டுமே"
+        },
+        {
+          "wrong": "ஆபிரம் ஐந்நூறு",
+          "right": "ஆயிரம் ஐந்நூறு",
+          "reason": "part 2 scan 2 clearly prints ஆயிரம்"
+        },
+        {
+          "wrong": "பிராயணச் செலவு",
+          "right": "பிரயாணச் செலவு",
+          "reason": "part 2 scan 2 clearly prints பிரயாணச்"
+        },
+        {
+          "wrong": "எற்படும் செலவு",
+          "right": "ஏற்படும் செலவு",
+          "reason": "part 2 scan 2 clearly prints ஏற்படும்"
+        },
+        {
+          "wrong": "அம்பாள் கரியமாயிற்றே",
+          "right": "அம்பாள் காரியமாயிற்றே",
+          "reason": "part 2 scan 3 clearly prints காரியமாயிற்றே"
+        },
+        {
+          "wrong": "நமது ஊளர் காமாட்சியம்மனுக்கு",
+          "right": "நமது ஊர் காமாட்சியம்மனுக்கு",
+          "reason": "part 2 scan 4 clearly prints நமது ஊர்"
+        },
+        {
+          "wrong": "செல்ல\nமுடிபுமா",
+          "right": "செல்ல\nமுடியுமா",
+          "reason": "part 2 scan 4 clearly prints முடியுமா"
+        },
+        {
+          "wrong": "கண்டுப்பிடித்துக் கொடுத்துள்ள",
+          "right": "கண்டுபிடித்துக் கொடுத்துள்ள",
+          "reason": "part 2 scan 6 clearly prints கண்டுபிடித்துக்"
+        },
+        {
+          "wrong": "தூளாசிக்\nகிடக்கும்.",
+          "right": "தூளாகிக்\nகிடக்கும்.",
+          "reason": "part 2 scan 7 clearly prints தூளாகிக்"
+        },
+        {
+          "wrong": "இங்கு வந்திருப்ப வருமான நண்பர்",
+          "right": "இங்கு வந்திருப்பவருமான நண்பர்",
+          "reason": "part 2 scan 8 prints வந்திருப்பவருமான as one word"
+        },
+        {
+          "wrong": "எண்ணங்களை றிந்து\nஅறிந்ததால்",
+          "right": "எண்ணங்களை அறிந்து\nஅறிந்ததால்",
+          "reason": "part 2 scan 9 clearly prints எண்ணங்களை அறிந்து"
+        },
+        {
+          "wrong": "கல்வி1மட்டும்",
+          "right": "கல்வி மட்டும்",
+          "reason": "part 2 scan 10 contains no numeral between கல்வி and மட்டும்"
+        },
+        {
+          "wrong": "வேண்டும்\n௪ வெறும் எழுத்தறிவிப்புப்",
+          "right": "வேண்டும்\n- வெறும் எழுத்தறிவிப்புப்",
+          "reason": "part 2 scan 10 prints a dash before வெறும்"
+        },
+        {
+          "wrong": "அறிவுத் .தாகம்",
+          "right": "அறிவுத் தாகம்",
+          "reason": "part 2 scan 11 contains no full stop between அறிவுத் and தாகம்"
+        },
+        {
+          "wrong": "இந்தக் கிராமத்தில், பெரிய :\nபள்ளிக்கூடம்",
+          "right": "இந்தக் கிராமத்தில், பெரிய\nபள்ளிக்கூடம்",
+          "reason": "part 2 scan 11 contains no colon after பெரிய"
+        },
         {
           "wrong": "அறிவுப்பணியில் ஆர்வம் காட்டவேண்டும் என்று கேட்டுக்\nகொண்டு, என்னை இந்த விழாவுக்கு வரச் செய்த நண்பர்களுக்கு",
           "right": "அறிவுப்பணியில் ஆர்வம் காட்டவேண்டும் என்று கேட்டுக்\nகொண்டு, என்னை இந்த விழாவுக்கு வரச் செய்த நண்பர்களுக்கு\n\n### Image 12: 012-0eeec472e4.png\n\n- Image: `katturaigal/kalvi_kazhagam_2/012-0eeec472e4.png`\n\nஎன் நன்றியறிதலைக் கூறி இந்தப் பள்ளிக்கூடக் கட்டிடத்தைத்\nதிறந்துவைக்கிறேன்.\n\n(18.7.48 திராவிட நாடு இதழில் வெளிவந்தது)",

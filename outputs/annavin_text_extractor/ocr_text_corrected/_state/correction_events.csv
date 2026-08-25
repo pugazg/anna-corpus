@@ -1,4 +1,65 @@
 file,type,wrong,right,count,reason
+katturaigal/kalvi_kazhagam_1.md,phrase,இராசிபுரக்கைச் சார்ந்த,இராசிபுரத்தைச் சார்ந்த,1,part 1 scan 1 clearly prints இராசிபுரத்தைச் சார்ந்த
+katturaigal/kalvi_kazhagam_1.md,phrase,உருவான. செயல் எதேனும்,உருவான செயல் ஏதேனும்,1,part 1 scan 2 clearly prints உருவான செயல் ஏதேனும்
+katturaigal/kalvi_kazhagam_1.md,phrase,ரூபாய் செவில்,ரூபாய் செலவில்,1,part 1 scan 2 clearly prints செலவில்
+katturaigal/kalvi_kazhagam_1.md,phrase,அதை ஜில்லா ',அதை ஜில்லா,1,part 1 scan 2 contains no quotation mark after ஜில்லா
+katturaigal/kalvi_kazhagam_1.md,phrase,பள் ளிச்சிறார்களுக்கு,பள்ளிச்சிறார்களுக்கு,1,part 1 scan 2 prints பள்ளிச்சிறார்களுக்கு as one word
+katturaigal/kalvi_kazhagam_1.md,phrase,"கல்லூரித்"" தலைவர்",கல்லூரித் தலைவர்,1,part 1 scan 3 contains no quotation mark after கல்லூரித்
+katturaigal/kalvi_kazhagam_1.md,phrase,உருவப்: படத்தை,உருவப் படத்தை,1,part 1 scan 3 contains no colon after உருவப்
+katturaigal/kalvi_kazhagam_1.md,phrase,கிடைக்கழுடியாது:,கிடைக்கமுடியாது:,1,part 1 scan 3 clearly prints கிடைக்கமுடியாது
+katturaigal/kalvi_kazhagam_1.md,phrase,தேசிப மொழி,தேசீய மொழி,1,part 1 scan 4 clearly prints தேசீய மொழி
+katturaigal/kalvi_kazhagam_1.md,phrase,பாரத்தைத் தாங்க முயுமா?,பாரத்தைத் தாங்க முடியுமா?,1,part 1 scan 5 clearly prints முடியுமா
+katturaigal/kalvi_kazhagam_1.md,phrase,இருப்பத்தைந்து ஆண்டுகளாக,இருபத்தைந்து ஆண்டுகளாக,1,part 1 scan 5 clearly prints இருபத்தைந்து
+katturaigal/kalvi_kazhagam_1.md,phrase,ஆட்சியை நடத்தக்கூவுபவர்களிடம்,ஆட்சியை நடத்தக்கூடியவர்களிடம்,1,part 1 scan 5 clearly prints நடத்தக்கூடியவர்களிடம்
+katturaigal/kalvi_kazhagam_1.md,phrase,இவ்விதமான. பள்ளிக்கூடங்களில்,இவ்விதமான பள்ளிக்கூடங்களில்,1,part 1 scan 6 contains no full stop after இவ்விதமான
+katturaigal/kalvi_kazhagam_1.md,phrase,விழாவாற்ற மந்திமார்கிளை,விழாவாற்ற மந்திரிமார்களை,1,part 1 scan 6 clearly prints மந்திரிமார்களை
+katturaigal/kalvi_kazhagam_1.md,phrase,"துணிவான. காரியமாகும்,","துணிவான காரியமாகும்,",1,part 1 scan 6 contains no full stop after துணிவான
+katturaigal/kalvi_kazhagam_1.md,phrase,ஒரளவுக்குச் சலிப்பு,ஓரளவுக்குச் சலிப்பு,1,part 1 scan 6 clearly prints ஓரளவுக்கு
+katturaigal/kalvi_kazhagam_1.md,phrase,அதிமாகக்,அதிகமாகக்,1,part 1 scan 6 clearly prints அதிகமாகக்
+katturaigal/kalvi_kazhagam_1.md,phrase,உள்ளம் நோவதுமான் நிலையில்,உள்ளம் நோவதுமான நிலையில்,1,part 1 scan 7 clearly prints நோவதுமான
+katturaigal/kalvi_kazhagam_1.md,phrase,அந்தப் பாபனும் சொந்தத்துக்காக,அந்தப் பயனும் சொந்தத்துக்காக,1,part 1 scan 8 clearly prints அந்தப் பயனும்
+katturaigal/kalvi_kazhagam_1.md,phrase,சூதுவாதும் சுபநலமும் அற்றவர்,சூதுவாதும் சுயநலமும் அற்றவர்,1,part 1 scan 9 clearly prints சுயநலமும்
+katturaigal/kalvi_kazhagam_1.md,phrase,"நாம் எதிர்பார்க்கக்
+கூடிபது.","நாம் எதிர்பார்க்கக்
+கூடியது.",1,part 1 scan 9 clearly prints கூடியது
+katturaigal/kalvi_kazhagam_1.md,phrase,தேவப பணத்தைக்,தேவப் பணத்தைக்,1,part 1 scan 11 clearly prints தேவப் பணத்தைக்
+katturaigal/kalvi_kazhagam_1.md,phrase,தாண்டவயூர்த்தி,தாண்டவமூர்த்தி,1,part 1 scan 12 clearly prints தாண்டவமூர்த்தி
+katturaigal/kalvi_kazhagam_1.md,phrase,தங்கத்தால் செய்த ஒடுகள்,தங்கத்தால் செய்த ஓடுகள்,1,part 1 scan 12 clearly prints ஓடுகள்
+katturaigal/kalvi_kazhagam_1.md,phrase,கேட்டுப் பொறுவோம்.,கேட்டுப் பெறுவோம்.,1,part 1 scan 12 clearly prints பெறுவோம்
+katturaigal/kalvi_kazhagam_1.md,phrase,அந்தப் பணம் படிப்புக்கு வந்துசோ பக்குவமாக,அந்தப் பணம் படிப்புக்கு வந்துசேர பக்குவமாக,1,part 1 scan 13 clearly prints வந்துசேர
+katturaigal/kalvi_kazhagam_1.md,phrase,கருஊலத்தை விடுவித்து,கருவூலத்தை விடுவித்து,1,part 1 scan 13 clearly prints கருவூலத்தை
+katturaigal/kalvi_kazhagam_1.md,phrase,எற்றுக் கொள்ளத் துபாரா!,ஏற்றுக் கொள்ளத் தயாரா!,1,part 1 scan 13 clearly prints ஏற்றுக் கொள்ளத் தயாரா
+katturaigal/kalvi_kazhagam_1.md,phrase,மனுச்செய்து கொள்கிறார்,மனுச் செய்து கொள்கிறார்,2,part 1 scan 13 clearly prints மனுச் செய்து
+katturaigal/kalvi_kazhagam_1.md,phrase,இருதபத்தின்,இருதயத்தின்,1,part 1 scan 14 clearly prints இருதயத்தின்
+katturaigal/kalvi_kazhagam_1.md,phrase,தருமம் ஏன் செய்ப வேண்டும்,தருமம் ஏன் செய்ய வேண்டும்,1,part 1 scan 15 clearly prints செய்ய வேண்டும்
+katturaigal/kalvi_kazhagam_1.md,phrase,புண்பம்தரும் என்பதுதான்,புண்யம் தரும் என்பதுதான்,1,part 1 scan 15 clearly prints புண்யம் தரும்
+katturaigal/kalvi_kazhagam_2.md,phrase,"எண்ண
+வேண்டமே!","எண்ண
+வேண்டுமே!",1,part 2 scan 1 clearly prints வேண்டுமே
+katturaigal/kalvi_kazhagam_2.md,phrase,ஆபிரம் ஐந்நூறு,ஆயிரம் ஐந்நூறு,1,part 2 scan 2 clearly prints ஆயிரம்
+katturaigal/kalvi_kazhagam_2.md,phrase,பிராயணச் செலவு,பிரயாணச் செலவு,1,part 2 scan 2 clearly prints பிரயாணச்
+katturaigal/kalvi_kazhagam_2.md,phrase,எற்படும் செலவு,ஏற்படும் செலவு,1,part 2 scan 2 clearly prints ஏற்படும்
+katturaigal/kalvi_kazhagam_2.md,phrase,அம்பாள் கரியமாயிற்றே,அம்பாள் காரியமாயிற்றே,1,part 2 scan 3 clearly prints காரியமாயிற்றே
+katturaigal/kalvi_kazhagam_2.md,phrase,நமது ஊளர் காமாட்சியம்மனுக்கு,நமது ஊர் காமாட்சியம்மனுக்கு,1,part 2 scan 4 clearly prints நமது ஊர்
+katturaigal/kalvi_kazhagam_2.md,phrase,"செல்ல
+முடிபுமா","செல்ல
+முடியுமா",1,part 2 scan 4 clearly prints முடியுமா
+katturaigal/kalvi_kazhagam_2.md,phrase,கண்டுப்பிடித்துக் கொடுத்துள்ள,கண்டுபிடித்துக் கொடுத்துள்ள,1,part 2 scan 6 clearly prints கண்டுபிடித்துக்
+katturaigal/kalvi_kazhagam_2.md,phrase,"தூளாசிக்
+கிடக்கும்.","தூளாகிக்
+கிடக்கும்.",1,part 2 scan 7 clearly prints தூளாகிக்
+katturaigal/kalvi_kazhagam_2.md,phrase,இங்கு வந்திருப்ப வருமான நண்பர்,இங்கு வந்திருப்பவருமான நண்பர்,1,part 2 scan 8 prints வந்திருப்பவருமான as one word
+katturaigal/kalvi_kazhagam_2.md,phrase,"எண்ணங்களை றிந்து
+அறிந்ததால்","எண்ணங்களை அறிந்து
+அறிந்ததால்",1,part 2 scan 9 clearly prints எண்ணங்களை அறிந்து
+katturaigal/kalvi_kazhagam_2.md,phrase,கல்வி1மட்டும்,கல்வி மட்டும்,1,part 2 scan 10 contains no numeral between கல்வி and மட்டும்
+katturaigal/kalvi_kazhagam_2.md,phrase,"வேண்டும்
+௪ வெறும் எழுத்தறிவிப்புப்","வேண்டும்
+- வெறும் எழுத்தறிவிப்புப்",1,part 2 scan 10 prints a dash before வெறும்
+katturaigal/kalvi_kazhagam_2.md,phrase,அறிவுத் .தாகம்,அறிவுத் தாகம்,1,part 2 scan 11 contains no full stop between அறிவுத் and தாகம்
+katturaigal/kalvi_kazhagam_2.md,phrase,"இந்தக் கிராமத்தில், பெரிய :
+பள்ளிக்கூடம்","இந்தக் கிராமத்தில், பெரிய
+பள்ளிக்கூடம்",1,part 2 scan 11 contains no colon after பெரிய
 katturaigal/kalvi_kazhagam_2.md,phrase,"அறிவுப்பணியில் ஆர்வம் காட்டவேண்டும் என்று கேட்டுக்
 கொண்டு, என்னை இந்த விழாவுக்கு வரச் செய்த நண்பர்களுக்கு","அறிவுப்பணியில் ஆர்வம் காட்டவேண்டும் என்று கேட்டுக்
 கொண்டு, என்னை இந்த விழாவுக்கு வரச் செய்த நண்பர்களுக்கு

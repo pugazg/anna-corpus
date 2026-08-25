@@ -514,7 +514,7 @@ Total source works: 1388
 - [கல்கத்தாவில் சமூக சீர்திருத்த இயக்கம்!](kalkathavil_oru_samuga.md) - pending
 - [katturaigal/kallakkudi_ara](kallakkudi_ara.md) - translated
 - [கல்லறை கண்டு கலங்காதீர்](kallarai_kandu_kalangatheer.md) - pending
-- [katturaigal/kalvi_kazhagam](kalvi_kazhagam.md) - pending
+- [katturaigal/kalvi_kazhagam](kalvi_kazhagam.md) - translated
 - [katturaigal/kalyana](kalyana.md) - translated
 - [katturaigal/kamarajar_sambavam](kamarajar_sambavam.md) - translated
 - [காமராஜர் சிந்தும் கண்ணீர்!](kamarajar_sinthum_kanneer.md) - pending
