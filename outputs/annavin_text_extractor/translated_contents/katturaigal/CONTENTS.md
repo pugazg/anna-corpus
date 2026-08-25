@@ -402,7 +402,7 @@ Total source works: 1388
 - [இந்திய எதேச்சாதிகாரம்!](indhiya_ethaechathikaram.md) - pending
 - [இந்திய சர்க்கார் இரண்டு ஓடங்களில் கால் வைக்கிறது!](indhiya_sarkar_irandu.md) - pending
 - [இந்து இட்லரிசம்!](indhu_hitlarism.md) - pending
-- [katturaigal/indhumathamum](indhumathamum.md) - pending
+- [katturaigal/indhumathamum](indhumathamum.md) - translated
 - [தணலில் தங்கமாயிற்று லீக்](indraya_leag_nilaimai.md) - pending
 - [katturaigal/indraya_nirvagam](indraya_nirvagam.md) - translated
 - [இங்கே பாரீர்!](ingae_paareer.md) - pending
