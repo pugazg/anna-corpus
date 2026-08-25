@@ -935,7 +935,7 @@ Total source works: 1388
 - [பொங்கலோ பொங்கல்!](pongalo_pongal.md) - pending
 - [பொங்குக இன்பம்!](ponguga_inbam.md) - pending
 - [பொங்குக புதுமை!](ponguga_puthumai.md) - pending
-- [katturaigal/ponnoli](ponnoli.md) - pending
+- [katturaigal/ponnoli](ponnoli.md) - translated
 - [katturaigal/poongatru](poongatru.md) - translated
 - [பூங்காவில் புலவர்](poongavil_pulavar.md) - pending
 - [பொறுப்பு நமதே!](poruppu_namathae.md) - pending

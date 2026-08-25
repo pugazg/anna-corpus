@@ -1,4 +1,10 @@
-# katturaigal/ponnoli
+# பொன்னொளி / Golden Light
+
+**Tamil title:** பொன்னொளி  
+**English title:** Golden Light  
+**Source file:** `katturaigal/ponnoli.md`
+
+## Source Tamil (verbatim)
 
 - Source image folder: `/Users/pugazhendhirajendran/Documents/Codex/2026-07-09/https-www-annavinpadaippugal-info/outputs/annavin_text_extractor/ocr_images/katturaigal/ponnoli`
 - OCR language: `tam`
@@ -739,3 +745,187 @@
 செயல்மூலம்!
 
 (திராவிட நாடு - 14.1.53)
+
+## English Translation
+
+“Buddhism is once again gaining lustre here. Look: the Ashoka Chakra is the emblem of our government! That is no meaningless act,” Sir Radhakrishnan said at Kanchi, before a distinguished assembly of Buddhist elders.
+
+Researchers had discovered memorial relics of Sariputta and Mahamoggallana, the Buddha's chief disciples. A separate building was erected at Kanchi, the relics were reverently honoured as sacred objects, and a holy festival was held. Pandit Jawaharlal spoke. Eminent visitors from many countries spoke. Hearing Dr Radhakrishnan on that occasion would have delighted not only Buddhists but every thinking person who esteems Buddhism's virtues. How firmly and joyfully he spoke, making happiness well up in his listeners' minds! “Buddhism is once again gaining lustre here,” he said. Not content with a general statement, he offered proof: “The Ashoka Chakra is the emblem of our rulers. Look!” His speech must truly have given Buddhists new hope. But...!
+
+A festival was held. Joy-giving words were spoken. That cannot be denied. Yet is Buddhist splendour really visible as the Doctor claimed? Do the people see it? Are they allowed to see it? The very name of the man who spoke so delightfully is Radhakrishnan! Is Buddhist splendour visible? No. If that light existed in this country today, would the people suffer such degradation? Its present absence is painful, but never mind that. When we ask whether efforts are being made to see that light again, it becomes clear not only that no effort is being made, but that the very intention has not begun to sprout. Does not that truth fill the heart with anguish? Hearing the Doctor say, in these circumstances, that Buddhist splendour is reappearing leaves one unsure whether to laugh or sigh. The Doctor is an eminent man, yet he says something contrary to a truth known even to the most ordinary people. Darkness has engulfed us, and the Doctor says, “Behold the full moon!” Sanatana orthodoxy sounds its trumpet, while he declares that the righteous path given by the Sakya has become our path. What is the actual condition?
+
+We do not say that those assembled at the holy festival lacked devotion to the Buddha or respect for Buddhism. They praised, celebrated, and bowed. Yes, the festival took place. But did they inwardly realize that the country needs Buddhist radiance? Did they pledge to work so that its benefits might be gained? No.
+
+When the Somnath temple is restored, people say its greatness is beyond words. At the Kumbh Mela they say this is the finest means of washing away sin. On Vinayaka Chaturthi they sing that the elephant-faced god alone will protect the world. During Durga Puja they sing of the Mother's greatness with melting hearts. Likewise, because the Kanchi festival concerned Buddhism, they showered praise upon Buddhism as the holy path. But did they undertake any effort to spread once more the new, precious, radiant ideas Buddhism actually gave? The Doctor will refuse to answer. Among close friends, he will say, “I spoke in the manner appropriate to the place and occasion.” Will he come forward to explain to the people the condition the country once attained through Buddhism? He will have no time. If someone else offers that explanation, will he at least reward him with a smile? No reward is needed; will he merely refrain from opposing him? No, certainly not. He will unfailingly oppose him. At festivals they praise, venerate, become ecstatic, and make others ecstatic. This is true not only of Dr Radhakrishnan but of many “intellectuals” generally. Why? Why indeed? What loss do they suffer? What difficulty is there in offering a couple of courteous words of praise at a Buddhist festival? Once uttered, what loss can result? But if praising Buddhism must be followed by sustained labour to secure its virtues for the country, there will be difficulty and loss. If those who delivered the eulogies possessed such an aim, we could joyfully cry and dance that the nation had advanced and the people were about to gain a new life. That is not their purpose. “A festival is taking place; let us say four pleasant words. What do we lose?” That is their purpose.
+
+Buddhism laid out a new path.
+
+It explained that humanity could not attain its proper greatness by following the old path.
+
+It warned that the priestly path was a scheme by deceivers to ensnare innocent hearts.
+
+It showed that the caste system so forcefully built and protected by adherents of the old religion would shatter society, and proclaimed the truth that humanity is one.
+
+Buddhism rejected sacrificial rites and condemned the caste that claimed a hereditary licence to perform them.
+
+It taught the country and the world that misleading gurus surrounded by blindly ignorant disciples did not constitute a good path to knowing the Lord.
+
+Do we see that new method and radiance today? How many people even desire to see it? Everyone knows that the “golden light” introduced through Buddhism was once again engulfed by the “darkness” of the old order. Yet the Doctor says, “The Ashoka Chakra is our emblem!” This is not merely a conscious falsehood; those words are a spear thrust into an open wound.
+
+The beating of drums, chanting of refrains, eating cooked food as consecrated offerings, wearing disguises, cultivating divisions, calling journeys pilgrimages, and examining lineage cannot save humanity. Only by purifying the mind and abandoning binding desires can humankind be redeemed: this was the Buddha's new teaching.
+
+None of the old noise has diminished; it grows louder. No disguise has been removed; new costumed figures continually appear. Empty, clamorous festivals, eating until the ribs bulge, and futile races show no sign of ending. Yet the Vedantin says Buddhist splendour is visible again and points doubters to the Ashoka Chakra as evidence. What brazenness! And not merely brazenness: what confidence that anything may be said to these people in any manner!
+
+They say Buddhist radiance is visible here once more.
+
+Look and see whether it is. Place before your mind's eye any one of the scenes visible in the country today.
+
+Set aside the petty antics of small-minded people: the witless man carrying a kavadi, the idler rolling in the street, the ignorant person eating leftovers, and the “great souls” circling a tree. Do not even look at them; they are ordinary folk.
+
+Set aside too the educated coward who consults an almanac and the lover of antiquity who looks for omens even after joining the army. They deserve pity.
+
+Look instead at Babu Rajendra Prasad, President of the Republic, the hero who raised a national storm in Bihar.
+
+Everyone, including his opponents, knows his intellectual ability and does not question his integrity. He is a gentle man.
+
+His courage in the freedom struggle was immense; the hardships and losses he endured were prodigious. He was gold refined in the sacrificial fire of Gandhism. No one denies these things.
+
+Members of every party say that he avoids quarrels and violence and knows neither intrigue nor deceit. Bring such a Babu Rajendra Prasad before your mind's eye.
+
+There he sits in state in Rashtrapati Bhavan, one of the world's astonishing palaces, in Delhi where emperors and battlefield heroes once moved. We do not call that a crime. We do not taunt him by recalling Gandhi's statement that India's head of state should live in a hut. We do not mock Babu for residing in Rashtrapati Bhavan. He sits in that splendid palace as the uncrowned king of the Indian subcontinent.
+
+There, the American ambassador shakes his hand.
+
+Here comes a Norwegian goodwill delegation. Babu shakes their hands and welcomes them.
+
+Here is a bill passed by the Parliament of the Indian subcontinent. His signature is required to raise it to the status of “law,” and Babu's hand takes up the pen.
+
+That is the Maharaja of Baroda; this is the ruler of Jaipur; here is the Governor of Bombay; this man is a military commander. They shake Babu's hand and receive honour and pleasure.
+
+That hand has shaken the hands of emperors, minor rulers, and those entrusted with governing within the country. It bears the responsibility and opportunity to guide the lives of more than thirty crore people. Yet in the land where the Kanchi festival took place, at the sacred city of Kashi, that hand washed the feet of two hundred Brahmins! Can you see the scene? Two hundred “Brahmins” sit upon silver seats. The uncrowned ruler of thirty crore people arrives and beholds the earth-gods. The warrior who never bowed his head before the frenzied white empire lowers it before priests seated upon silver platforms. More than that, with the hand that governs, the hand that has “honoured” members of the world's governing assemblies, he washes the feet of two hundred wearers of the sacred thread! To each of the priestly men who granted him this honour, he is said to have given an eleven-rupee fee. When did this occur? In our own day, when the desire for rights and equality is visible even in tiny villages. A good man who rules the nation washed their feet because they were Brahmins. Amid his countless official duties, while dignitaries from many countries waited to meet him, he found time to wash two hundred sacred feet with devotional care. He even gave a fee for the merit thus bestowed upon him. Can you see the scene? Unknown Brahmins sit upon silver seats, while Babu Rajendra Prasad, whose name belongs to world history, washes their feet. Crowds gather to see the noble leader of the national freedom struggle!
+
+He, meanwhile, washes Brahmin feet to remove sin, acquire merit, and receive God's grace. Outside, the people joyfully shout, “Victory! Victory! Victory!” Babu says, “Swami! Swami!” in devotional ecstasy. Senior officials count, one, two, three, all the way to two hundred. He has come from Rashtrapati Bhavan. Two hundred wearers of the sacred thread wait for him in the palace of the Maharaja of Kashi. They came from the riverbank and will return to the pond's edge, but he washes their “feet.” He was the man who challenged the white rulers in heroic fury, asking what it mattered if they possessed cannon, rifles, and aristocratic privilege. The priests possess nothing but darbha grass, yet he washes their feet in the belief that only then can he become worthy of God's grace. And Dr Radhakrishnan says Buddhist splendour is visible once more!
+
+Can you see it, friends? Congress friends whose eyes and minds have not failed, can you see the state of the country? Which foreigner photographed this? In what countries are people looking at it? What are they saying among themselves? Here the Doctor says, “Look at the Ashoka Chakra!” The Ashoka Chakra is merely the emblem. The government's highest official does not merely serve the Aryans; he washes their feet and seeks salvation. When Babu Rajendra washed their feet, not only those two hundred Brahmins but every Brahmin across the Indian subcontinent must have walked with chest thrust forward. If they say that Aryan dharma shines beautifully again and priestly religion is splendidly radiant, rationalists will feel pain, but they cannot deny it. While the country remains in this condition, Dr Radhakrishnan declares at a holy festival that Buddhist splendour is visible.
+
+In days before an intellectual revolution, when town, forest, house, and garden lay close together; when heroes possessed no weapons beyond sword and spear; when schools stood beneath trees and hermitages amid flower gardens; when people and kings believed that opposition brought a thunderbolt and touch brought incineration; when men performed the Putrakameshti sacrifice to continue their lineage; when everyone believed that nothing lay outside the Vedas and nothing elsewhere equalled what lay within them, it was no wonder that kings bowed before Aryan gurus and rulers waited to wash their feet in pursuit of salvation. There is no point marveling at the distinction enjoyed by Vasishtha, Vyasa, Kanva, Atri, Kakabhattar, and others. Such was the age.
+
+But today research has flowered beyond compare. Travelling to London, Paris, New York, or Moscow has become as ordinary as visiting a ball field or pleasure grove. In these swiftly advancing days, forest hermitages have disappeared and Brahmins have been driven to work in warehouses to fill their wretched stomachs. Priestly dress and conduct have become objects of ridicule in modern lands. Among the priestly caste, those who have forgotten the Sandhyavandanam and adopted the practical doctrine that “the whole world is a matter of combination” as superior to the four Vedas are multiplying. In a land that produced heroes unafraid of rifles, martyrs who mounted the gallows, volunteers who entered prison, leaders who turned the oil press, and men of courage who waged a righteous struggle to recover the country, the President came seeking us on pilgrimage. Driven by the belief that seeing us fulfils the purpose of birth and that washing our feet washes away his sins, he seated us upon silver pedestals so the world might know that we are the superior ones, gave us fees, and made our dominance known to the world. Is that not true greatness? Rashtrapati Babu Rajendra Prasad did this!
+
+Kings are said to have fallen at Vasishtha's feet. Was that any great distinction? In these days when all sorts of people proclaim that the world has awakened, the guardian of vast Bharat Varsha, the President elected by more than thirty crore people, washed their feet. Is this not a distinction difficult to obtain? Will not the world marvel? When a crowned ruler in Bharat Varsha once fell before the feet of a matted-haired ascetic, puppet kings everywhere bowed at gurus' feet; that was the prevailing order. But after Buddha and revolutionary renewers of thought; after those who overthrew governments and heroes who empowered mendicants; after Voltaire, Rousseau, Lincoln, Luther, Marx, Lenin, Kemal, Sun Yat-sen, and the rest displayed their abilities, a man worthy of inscription on the roll of world heroes washes our feet. Can any greater distinction be found here or anywhere? Can you hear the orthodox man ask this? This is the condition. This is the country. This is the conduct of its great leader. Yet the festival speech declared that Buddhist radiance had begun to reappear!
+
+Buddhism was an intellectual storm raised against such meaningless divisions of clan, and against practices that nourished caste arrogance.
+
+Buddhism was the rational path that explained that the Vedic religion which manipulated governments would destroy the very dignity of humankind.
+
+It conducted a campaign of knowledge that left adherents of the Vedic order floundering, instilled new understanding at a level ordinary people could accept, and did not fail to explain the qualities required for human advancement. Yet even as we watch, there is no shortage of destitute people whose flesh melts away until they become skeletons and die.
+
+Suffering beside pleasure; poverty beside wealth; starving mendicants beside palaces; military camps beside halls of peaceful instruction; beside the preacher who calls the world illusion stands a sword-bearing commander who has conquered many regions to increase the brilliance of a jewelled crown. So it was, and no one even asked whether such a condition was right.
+
+No rain? Let us perform a rite to Varuna. Must an enemy be defeated? Let us conduct another sacrifice, slaughtering goats and cows and, at important moments, even human beings. The gurus promised special benefit, and the sceptre-bearing ruler obeyed them. Such was the age.
+
+A ray of light tore through the curtain of that age and emerged in the city of Kapilavastu.
+
+From within the very palace that served as a fortress of Aryan religion arose the light of knowledge that would abolish it.
+
+A man strong and courageous enough to oppose the Aryan religion that manipulated royal dynasties emerged from that same royal line.
+
+The new light, Buddhism, arose from a place adherents of the Aryan religion could never have expected.
+
+He was merely one among countless “kings” supposedly born to royalty through the fruit of past merit and living through Brahmin blessings.
+
+Like other rulers he offered wealth and affection to Aryanism. Aryanism could never have imagined that he would make an incomparable offering to the revolution of knowledge by giving Siddhartha.
+
+The king must have rejoiced, believing that a son had been born to him solely through the power of Aryan blessings. What did he know? The smiling child in the golden cradle was destined to raise a tremendous storm in the realm of human thought.
+
+People merely rejoiced that a prince had been born. How could they know that a teacher of a new path had arrived?
+
+Nurses and servants in the palace fondled and praised him; the king and his queen celebrated with delight; Siddhartha grew.
+
+The Aryans too believed that a new prince was growing up to bow before them.
+
+Like every prince, he married. His wife was a golden portrait that spoke. Joy overflowed, and a child was born. What more was needed? Golden bonds had been fastened securely. No one knew the Buddha existed within Siddhartha; everyone saw only a future king.
+
+But his eyes began to see the human being.
+
+The human being trapped in poverty.
+
+The human being embraced by death.
+
+Siddhartha saw these sights and slowly lost his smile.
+
+“Is this what it means to be human?” he asked in bewilderment. “What else? You thought the human condition meant a flower-faced woman, the wine-like pleasure she gives, a babbling child, a fragrant garden, a smiling palace, and a government that grants power. But the human being is exceedingly frail and can be caught in the cruel grips of sorrow, disease, and death,” said the Buddha within him.
+
+“Why?” Siddhartha asked fearfully. “No one has asked this question before,” said the Buddha. Siddhartha replied, “I must obtain an answer. Without it, the turmoil in my mind will not subside.” “Do you want the answer? Seek, and you will find,” said the Buddha. He began to search. Palace, beautiful wife, and beloved child could not stop him. He searched in forests and beside forest streams, in severe austerity and among gurus. There was no place he did not seek, no method he did not try. Siddhartha found no answer, and his anguish increased. “Why do you wander everywhere, leaving the place where it can be found?” mocked the one within him. “Where is it?” Siddhartha asked. “It is within you, within your own heart,” replied the indweller. A smile appeared. Great wisdom was found.
+
+Siddhartha became the Buddha. The pride and hostility of petty minds lacked the power even to touch him. Thousands upon thousands gathered to hear his teaching. The forests through which he moved became countries. The place where he stayed became sacred. His words revealed a new path.
+
+Had Siddhartha become king, worn a crown, and entered other kingdoms with military force, swords, spears, elephants, horses, men, arrows, intrigues, and other weapons would have attacked him. If he won, defeated kings would have reviled him through jealousy. If he lost, the victorious ruler would have chased and beaten him.
+
+But here comes the Buddha, and kings go forward to welcome him. He looks upon them; they rejoice, counting themselves blessed. Many governments come forward to carry out his commands. Many rulers become his servants. A new empire has been formed without war or smoke, through love and virtue.
+
+“Reviler of the Vedas,” orthodox gurus mutter with hatred, but only softly.
+
+Some Aryan gurus try to drag him into controversy and clamorous quarrel. “Can you state the beginning and end of the universe? Can you explain the condition of life after death? Have you the power to know the secret of the One without beginning, middle, or end?” they thunder. He smiles. “My duty is to express how the people of this world may live in purity,” he says. Crooked minds grow weary because he refuses to be caught in their whirlpool. Meanwhile, he conquers government after government and advances to the beat of drums.
+
+He utterly condemns the Vedas, sacrifice, caste, and division.
+
+He condemns as foolish and cruel the sacrificial system that wanders the forest, gathers dry grass, lights a fire, kills God's creatures and casts them into it, chants mantras, and claims thereby to redeem the people. Aryanism gasps for breath.
+
+“Atheist!” they revile him, but not loudly, for the people of the country stand massed on the Buddha's side.
+
+The rulers face a new dilemma. The people are enchanted by a new great teacher, and he reveals a new path. That path rejects the doctrines proclaimed by priestly leaders. Those leaders are the rulers' hereditary gurus, and there is also the fear that a government without the power of their blessing will be destroyed by God. The kings stand bewildered, not knowing what to do.
+
+They cannot ignore Buddhism, for the people increasingly fall under its influence. Nor can they completely despise and cast away the old Brahmin religion, which remains the state faith in many regions. Such is the kings' dilemma.
+
+The leaders of the Aryan religion lack the power to oppose and destroy Buddhism, which captivates the people's minds and thereby confounds rulers and conquers region after region. They tried ignoring it, without success. They called him a sorcerer who bewitched the people, but to no effect. They reviled him as a denouncer of the Vedas and an atheist, again without result. They feared that the Buddha, with compassion flowing from his eyes, would bring the whole world under his rule.
+
+Could they not draw near and ruin what they could not oppose and destroy? This thought arose in the frightened Aryan leaders' minds and gave them new hope. They did not obstruct praise of the Buddha, festivals for hearing his teaching, or other such events. Let them occur freely, they said. He is a man of grace; his path of love was not unknown to the ancient sages; that noble man merely explains the truths of the Upanishads in a new manner.
+
+This approach greatly pleased the kings who had been distressed by their dilemma.
+
+Without abandoning the old religion or insulting the new one, they adopted the attitude that every religion was acceptable. They praised the Buddha's golden sayings and the ancient sayings of venerable sages. They built temples for the old gods and Buddhist monasteries for followers of the new path. Seeing the rulers offer support, the Aryan gurus too rejoiced. They planned to endure for a while rather than oppose the new storm capable of shaking their dominance, and to resume their hunt for supremacy after its force diminished. Like a leopard hiding in thick scrub at the sound of the hunter's drum, or a snake retreating into its hole on hearing people approach, the Aryan religion hid from Buddhism as it arose with new force and swept in every direction.
+
+Siva and Vishnu temples remained as before. Long-haired, rosary-bearing gurus remained everywhere, including royal courts. Festivals continued as usual. But the people no longer possessed their former enthusiasm for them; their minds had settled wholly upon the Buddha's new path.
+
+Buddhism called to the people, particularly those kept low in society by caste, and gave them hope that a path to liberation existed. The old religion had said: ordinary people like us can receive divine grace only by going to the wilderness and practising harsh austerities; only those who know the Vedas and Agamas can obtain sacred grace; liberation comes only through sacrifice; only the blessings of the earth-gods bring happiness here and hereafter. Because these things lay beyond them, the great mass of the country's people believed that liberation and deliverance could be secured only by some guru, and became like a herd going wherever its shepherd led. The Buddha showed a new path. No Veda is needed; no sacrifice need be performed; no penance is required. One need not stand upon a needle point, beneath sun hot enough to melt the skull, in water or a pit of fire, upside down, or upon a bed of thorns. Purity of mind is needed for limitless joy. One must live a good life. “This is something you can do,” he said, instilling courage and self-confidence.
+
+Aryanism attributed every condition to karma from a previous birth: one man being king while another begged for food; one possessing a golden body while another bore wounds in which worms writhed; one rolling in wealth while another withered in poverty. All this, it said, was a predetermined plan, a verdict already delivered, an arrangement established by God. It must not be changed or resisted; one must not even feel anguish at seeing it. To do so would bring further sin, and the sinner would have to carry those bundles of guilt to hell and perish.
+
+Buddhism gave confidence that people could attain supreme happiness by observing morality, removing desire, and following the noble way of love.
+
+It addressed the problems of people's lives not in the language of the gods, but in the people's own tongue.
+
+The discipline, elevated character, loving conduct, and ethical teaching of Buddhists brought the people to a position where they could break Aryan bonds. Frightened Aryanism retreated into a corner and went about with its face veiled. Then it began flattering Buddhism. Concealing the fire of jealousy in its heart, it pretended to accept Buddhism's golden sayings and to reform the practices of the Aryan religion accordingly. But whenever an opportunity arose, it provoked disturbances and created clashes. Some adopted Buddhism with treacherous intent and began harming it from within. Even Nalanda University was set ablaze by evildoers. After the Buddha, this destructive method gained new strength. Religious disguises were used once more to delude the people. Kings too were found; wars and conflicts arose. The method of drawing close in order to destroy began bringing Aryanism success. “The storm has subsided; we can emerge,” they said. Disorder and confusion grew, and Aryanism again set out to rule.
+
+Meaningless stories and bewildering events easily alter the minds of those without clarity. This condition greatly benefited Aryanism.
+
+Aryanism very skilfully made art, a form of propaganda that softens the heart, into its instrument.
+
+They did not insult the Buddha; instead, they praised him. To what extent? To the point of making him one among their own gods. In what manner? They said that the Buddha's teaching and that of the ancient rishis were fundamentally one, and therefore there was no need to abandon the ancestral Aryan religion in order to celebrate Buddhism.
+
+Aryanism's instruments of propaganda were art, song, performance, and story. These easily planted Aryan ideas in people's minds. Sculpture became a long-term plan for making those ideas live in the popular imagination.
+
+Slowly, deceit prevailed and innocent hearts became its victims. Buddhism sought refuge among holy people and shone abroad. In the land of its birth, Aryanism again became the state religion and embraced the ordinary people. They spoke as though praising the Buddha by calling him an incarnation of Mahavishnu. “During his incarnation as the Buddha, Lord Mahavishnu performed these great acts. O multitudes of devotees, listen to the divine sports the Lord performed in his incarnations as Rama and Krishna,” they said. The people fell.
+
+In this manner they ruined the great benefit, new knowledge, new light, and golden ray that the masses of this country might have received through Buddhism, and pushed the people back into the mud of Sanatana orthodoxy. Ordinary people believed the mud gave off the fragrance of sandalwood and were enchanted. It took many centuries for even a measure of awakening to arise. By repeatedly hearing the words of the world's great thinkers and rationalists, people slowly began to reform in our day. Aryanism springs up furiously and attacks. This is the condition; such is the country.
+
+The conspiracy becomes clear to anyone who studies history carefully and thinks. They prevented Buddhism from becoming the country's religion; employed all their power to burn it away; suppressed it through hidden and open presence, courteous speech, and internal conflict. Once they became confident that Buddhism could no longer spread through the country on a scale capable of uprooting Aryanism, they began acting cunningly so their hatred of that same Buddhism would not be visible, and even offered praise. Aryanism continues to live. Caste exists, and scholars who defend caste wander about and speak as far away as America. Superstition exists. Clever men still boldly tell the dull-witted, “This is a treasure given by our ancestors; can we lose it?” Fabricated tales are epics; useless acts are sacred observances; festivals support idlers. Everything remains, together with the courage to defend it all. Otherwise, would Babu Rajendra have washed the feet of two hundred Brahmins without any sense of outrage appearing in the country? As though washing feet in Kashi were not enough, Rajendra is coming to Rameswaram too, and the gurus are keeping their feet ready. The country is in this condition, while the Doctor says Buddhist splendour is visible.
+
+Imagine a man who kills a child, throws it into a pond, then brings its earring to the grieving mother and says, “Even now, when I think of your precious child leaping and playing while wearing this, my heart feels ready to burst.” Not even in a story could such a sinner be found. Yet they prevented Buddhism from spreading, blinded people's minds so they could not see the golden light it brought, and now deliver eulogies declaring, “Buddhism is a holy path; its splendour is visible here once more.”
+
+If Buddhist splendour is truly to be seen in the country and Buddhism's golden light is once again to become visible to the people, the eyes of popular understanding must be opened. Whatever name the wickedness that corrupts thought assumes and however high it has climbed, men of courage must come forward to destroy it. The elevated words spoken by people such as Dr Radhakrishnan at festivals in Kanchi cannot secure that golden light. The hands of rationalists who have received that light and donned the armour of struggle must be strengthened. What will your hand do? Will it perform the courageous task of tearing apart the Aryan curtain of darkness so that the people may truly understand the Buddha's golden words? Or will it wash priests' feet as Babu Rajendra did? Do not be angry at the question, friends. Do not be angry. What is needed is a lesson, through action!
+
+(Published in *Dravida Nadu*, 14 January 1953.)
+
+## Translator's Notes
+
+`பொன்னொளி` is rendered as “Golden Light,” preserving the essay's recurring contrast between Buddhist illumination and `ஆரிய அந்தகாரம்`, the “Aryan curtain of darkness.”
+
+The essay refers to the enshrinement of relics associated with Sariputta and Mahamoggallana at Kanchi and to a speech by Dr S. Radhakrishnan. Personal names and the Buddhist disciples' conventional Pali forms are used in English.
+
+`பூதேவர்`, `பூசுரர்`, and `முப்புரியினர்` are polemical references to Brahmins or wearers of the sacred thread. They are rendered contextually rather than as literal “gods upon earth.” `அன்னக்காவடி` refers derisively to a destitute food-seeking mendicant.
+
+The source uses `ஆரியம்`, `ஆரிய மார்க்கம்`, and `சனாதனம்` as the author's political and religious categories. They are translated as Aryanism, the Aryan religion, and Sanatana orthodoxy without treating those claims as independent historical findings.
+
+The printed essay identifies Rajendra Prasad's ritual washing of two hundred Brahmins' feet and contrasts it with the Ashoka Chakra as the national emblem. Historical assertions and the list of reformers are retained as the author's argument; obvious OCR damage to names, title number 36, and the publication date 14.1.53 was corrected against the scans.
