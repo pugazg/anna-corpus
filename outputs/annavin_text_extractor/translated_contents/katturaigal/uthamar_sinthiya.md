@@ -1,4 +1,10 @@
-# katturaigal/uthamar_sinthiya
+# உத்தமர் சிந்திய இரத்தம் / The Blood Shed by the Noble One
+
+**Tamil title:** உத்தமர் சிந்திய இரத்தம்  
+**English title:** The Blood Shed by the Noble One  
+**Source file:** `katturaigal/uthamar_sinthiya.md`
+
+## Source Tamil (verbatim)
 
 - Source image folder: `/Users/pugazhendhirajendran/Documents/Codex/2026-07-09/https-www-annavinpadaippugal-info/outputs/annavin_text_extractor/ocr_images/katturaigal/uthamar_sinthiya`
 - OCR language: `tam`
@@ -782,3 +788,233 @@
 கறைகளே உள்ளன.
 
 (8.2.48 திராவிட நாடு இதழில் வெளி வந்தது)
+
+## English Translation
+
+“This great warrior will bring imperishable fame to Greece. Through his prowess, the glory of Greece will spread throughout the world. What a fearless heart! Disregarding hunger and thirst, unshaken by any danger encountered on the battlefield, he fought fiercely and won. This hero will certainly bring unique distinction to our motherland.”
+
+The people of Athens spoke with delight about the mighty warrior's strength of arm. “It was through that hero that I escaped with my life. When danger surrounded me, that powerful friend saved me,” praised Alcibiades.
+
+“He saved me too! I too would have died had he not come forward to help me at the right moment,” Xenophon also said in praise.
+
+“When the army broke ranks and fled, when defeat pursued our forces, he stood without losing resolve and joyfully fulfilled his duty,” another warrior praised him. Not once but three times he displayed his valour on the battlefield. Ancient Greece, which honoured courage, praised the great warrior and believed and declared that he would win undying fame and establish the greatness of his homeland throughout the world by the strength of his shoulders.
+
+He did win imperishable fame! He did establish the greatness of his homeland in the world, but not, as many expected, at the point of the sword. He did it through wisdom. He became a sculptor of thought!
+
+Socrates' father was a sculptor. The son of the man who carved art in stone devoted himself to the greater art of engraving excellence in the minds of people. He achieved great success. So long as thinkers are honoured in the world, he cannot be forgotten; such was the fame he acquired.
+
+It was an age when Greece was the abode of warriors. Service in the army was one of the duties owed to the nation. In accordance with that custom, Socrates served in the army and shed blood for his homeland. Those who witnessed his skill in war and his firmness of heart on the battlefield marvelled and predicted that he would become an incomparable and renowned commander in Greece.
+
+Socrates did not merely become a man of Greek renown as they expected. He earned the name of a noble man of the world. Nor was Greece alone the place where he raised an army: he raised one throughout the world. It did not serve only during his lifetime; even today his army continues its work, an army of knowledge that drives away ignorance!
+
+* * *
+
+Poison in the cup!
+
+The man ready to drink it is the wise one!
+
+The place is a prison. The crime?
+
+Merely helping knowledge to grow!
+
+Was that a crime? Without shame, they said it was.
+
+* * *
+
+Wine! Women! The arrogant in their mansions!
+
+They were the ones who gave poison to the wise man. They were the rulers. They did not want the people to gain knowledge. How could they? People with understanding would not tolerate their arrogance. Therefore there must be no knowledge: feed poison to the man who fed people knowledge. Those destroyers who bore the title of rulers poisoned and killed the eloquent teacher.
+
+He was in prison; they were in ornate mansions.
+
+In his hand was a cup of poison; on his face, a smile.
+
+In their hands were goblets of wine; in their minds, fear. They knew that their deed was unjust and unlawful. Yet they dared to commit that evil because of their frenzy for dominance, just as the traitor Godse boldly killed the pure one.
+
+By boasting of lineage, committing disgraceful acts, fawning and grinning, seeking the company of serving women, giving bribes, consorting with beauties, displaying brute force, betraying their companions, and obtaining the support of those who ruled the city, these wretches had gained their dominance. Unwilling to lose it and fearing the moment when knowledge might spread and people might undermine their power, they ordered the world's peerless wise man to drink poison and die.
+
+They wandered through mansions and flower gardens amid splendour that made observers marvel. Garments, food, and drink were brought from many parts of the world; gold-plated chariots, with horses leaping upon them; servants who ran at a summons; women to fondle and sport with!
+
+Was that all? Victories in war and many honours earned from them; garlands and tributes in the royal assembly; feasts, ceremonies, amusements, and pageantry! They lived amid such glitter. Yet the people did not admire them. They rejoiced in an old man, praised him, and began to follow him.
+
+Was not that alone enough to kindle the anger of the wealthy? They did not understand that people value a small diamond; what use is it for a massive rock to grow jealous? People delight in seeing a spotted deer leap and play; they do not come forward joyfully to watch a tiger pounce. Who needs a tall-growing *odiyam* tree? In the same way, people refused to honour the wealthy men who lived glittering lives and came forward instead to honour and praise an old man.
+
+He was an ordinary man. He was not one who remained inside a mansion and refused to see the people. He went of his own accord to meet them in market streets, by roadsides, and in marketplaces. He did not wear a knitted brow; his nature was to mingle closely with people.
+
+When people saw the wealthy, those men appeared somehow unlike themselves, almost creatures of another form. Their bodies possessed a certain sheen, their speech a swagger, and their commands a severity. So the people hated them. This old man was not like that. He was one among them. He mingled with them and came forward insistently to speak. Was it worthless talk? No, no. His were wise words needed for life.
+
+He was a good man, so the people showed him affection. He became worthy of their love. The fanatics of dominance decided that this alone was reason enough to attack him.
+
+Some among them held honoured places not merely in the royal assembly but also in temples. The “gods” obeyed their word! A flower they touched became sacred; their speech possessed divine power.
+
+For a long time the priestly class had deceived ordinary people in such ways and lived upon them. Their prayer beads had acquired influence strong enough to threaten the sceptre and the sword. That influence began to decline because of this old man. When the rays of his wisdom dispersed the fog in people's minds, the true forms of those who lived in glitter and those who carried prayer beads became visible to the people's eyes of knowledge. “Oh! Is this all their story amounts to?” the people began to ask.
+
+The fools called the clarity he brought a great crime and gave the spotless great man a cup of poison. He neither refused to drink nor lost his composure. “We have removed the poison that destroys the people's understanding. Even if I now drink poison and die, it does not matter,” he thought. He drank the poison and died.
+
+The cruel men who had accused that aged scholar crowed in triumph. “He is gone. Our influence will never again disappear,” the madmen thought. They did not understand that before dying he had entered the minds of countless people and that killing him was therefore an act without meaning or benefit.
+
+Nevertheless, they committed that deed so that their pride and luxury might endure. Those did not endure. What endured were the noble ideas of the eloquent man who drank poison.
+
+“We are heroes of the battlefield, yet we possess no influence in our own country,” some said jealously.
+
+“The gods come running when we call, yet we possess less influence than that ordinary fellow,” others said angrily.
+
+“Very well, if we merely go on talking like this...” Some cruel man began to incite them.
+
+“We must somehow destroy the old man's influence,” said a fanatic of power.
+
+“Our courage, valour, influence, and rank cannot bring victory in this affair,” said the courtly grandees. The temple cat mocked them: “When even our magical incantations are useless, what can the furnishings of your mansions accomplish?” A fox-like man said, “His influence cannot be destroyed. If it must be destroyed, he himself must be eliminated.”
+
+“How?” the conspirators asked eagerly.
+
+“There is a way,” said the deceiver, and found it. This old man is an atheist: a single accusation!
+
+Before a council of five hundred, the envious Meletus placed this charge upon the noble man who had reached the limits of knowledge. “By the riverbank, at temple entrances, in market streets, and elsewhere, this base man meets the young men of our country, speaks to them boldly, beguiles their minds, insults and questions our honoured religious teachings, our forms of worship, and the gods we worship, mocks and condemns them, and spreads atheism.” Before that court of justice, Meletus spoke like a divinely eloquent advocate arguing on God's behalf.
+
+Yet in another portion of the same argument in which he said Socrates spread atheism, Meletus also claimed that this fellow instructed people to worship a new god. Did the council reflect that these two accusations contradicted one another? No. Jealousy had enveloped them. They had resolved to do him harm.
+
+* * *
+
+“Was it not through him that we learned the advancement of knowledge?”
+
+“He is the noble man who gave us the wealth of thought.”
+
+“He told us to examine everything, not to leap to sudden conclusions, and not to be mesmerised simply because someone had said something. He was the loving man who opened our eyes of knowledge.”
+
+“With his subtle questions he dispelled our delusion that we knew everything and gave us discerning knowledge. Is such a wise man to be slandered in this fashion?”
+
+“Are they to destroy the man who destroyed ignorance? This is unlawful! Cruel! Unjust!”
+
+The young men spoke in anguish, denounced the accusers, and wept.
+
+The arrogant men laughed. “The fellows are agitated! Let them be agitated and keep wailing! They are so infatuated with him. How would they ever respect us? After his death we can bring these young bulls under our control,” they thought, swollen with pride.
+
+The belief that they had won and defeated the wise man, and the hope that they could re-establish their influence, brought them joy. Yet whenever there appeared before their mind's eye the image of the thinker who remained untroubled even when those great sinners ordered him to drink poison, their happiness vanished and shame and anguish arose. They sought intoxication to dispel those feelings, but could not.
+
+In that council, 220 people said Socrates was not guilty and 281 said that he was. Only a very small number constituted the majority vote. When they remembered this, the arrogant men seemed to hear someone laughing mockingly in their ears. After accusing him at length of being an atheist, a reviler of the Vedas, an enemy of established rites and observances, an illusionist, one who bewildered minds, and one who sowed revolution among the young, after summoning the law of the land, religion, and its guardians to their aid and exerting themselves greatly, they obtained a majority of only sixty votes! “How much support that mendicant must have possessed!” they thought, and even their arrogance shrank back in fear. Still, they consoled themselves that they had somehow secured a victory and brought Socrates down.
+
+Valour on one side and art on the other: Greece took pride in possessing these two ornaments. In the days of Socrates, Greece began to seek a new ornament, clarity of knowledge and a spirit of inquiry.
+
+It was an age in which there began to arise the thought that religion, forms of worship, images deemed worthy of veneration, the priests empowered to guard them, and the commands those priests issued should all be investigated. It was a time when the idea and method of understanding before believing, and of seeking meaning in everything, began to take their first steps.
+
+Socrates, who had won victories in war, plunged vigorously into this new battle. Until the very moment when he was caught in the grasp of death, he did not end this inquiry. Anyone who considers the circumstances will feel his hair stand on end. Even in prison, after fanatics had conspired to sentence him to drink poison, this sculptor of thought continued his work among those who came to see him. He had already drunk the poison and was pacing before them. Some friends stood without even wiping their tear-filled eyes. Pacing back and forth, that noble man continued his work even then.
+
+“Alas, great scholar! How can our hearts consent to lose you? How can we agree to bury you?” his friends cried. Even then Socrates performed his rare service in the realm of knowledge. Looking at his sobbing friend, he asked, “What did you say? Bury me? Who told you that? Friend, is it proper to speak without understanding the meaning? Look at me here. Is it me you are going to bury? Me? Me? Friend, what does that word denote, the life or the body?”
+
+After presenting this fine analysis, he smiled and said, “Do not say, ‘We are burying Socrates.’ That is wrong. Say, ‘We are burying Socrates' body.’ That is meaningful speech.” Within him the poison was doing its work, but even at that moment the wise man did not fail to do his own.
+
+“Members of this court! Even if, after hearing the case brought against me and reaching a judgment, you consent to pardon me so that this old man may escape, I will again continue this same work.” It was that noble man who spoke thus before those hard-hearted men with staring eyes.
+
+When Meletus accused him and brought him, according to Greek custom, before a court of 501 members, Socrates said, “I am more than seventy years old. This is the first time I have been brought before a court.” Such an aged man! The rare work he had performed until then was to enable the townspeople to recognise the true form of those reputed to know everything, to be able to explain anything, and even to discern the Lord's will. Through conversations, not even formal lectures, but through questions and answers, he enabled people to understand and mock the fact that such men were actually cheats, dupes, or ignoramuses.
+
+He founded no college or academy, composed no philosophical volumes, and wrote no poetry. He wandered through the town, investigated the nature of true knowledge, and made others recognise the necessity of that investigation. That was his work. Yet what a condition this work produced in Athens!
+
+“There comes that mendicant! Come, let us go away. Otherwise he will ask some question, make us stumble, expose us as fools, and the young bulls will clap and laugh,” they would say and run. Who were they? Great scholars, masters of scripture, authors of epics, and religious teachers!
+
+Socrates explained this before the court.
+
+“Meletus accuses me of performing some kind of magic. That is false. I know nothing of the sort. But I approach those who have won reputations as experts by claiming to know various things, and I speak to them about the subjects they profess to know. During the conversation it becomes clear that they possess no true knowledge precisely in the field in which they claim mastery. I point this out. The young men standing nearby and listening laugh. Their laughter inflames the anger of those experts. This is all that happened, and nothing more,” he said.
+
+He casually said that this was all that happened. But was that not enough to make a revolution? The young men laughed at the ignorance of those who called themselves men of mature wisdom. Was that laughter ordinary? Was it not the voice of revolution?
+
+A cry of “Tiger! Tiger!” is heard. Many flee the place in fear. One brave man alone approaches without fear, stands close, observes, then leads back one of those who fled and shows him something. If that man exclaims, “Oh! Is this it? Is this all?” and laughs, is that laughter ordinary?
+
+“He is laughing! We run in fear, but he laughs. Why?” the fugitives will wonder.
+
+“Why did you laugh?” some will ask him.
+
+“This? Friends...” Before he can finish, he laughs again. Their curiosity grows and they ask, “What exactly is the reason for your laughter?” Struggling to control himself, he says, “Do you know the truth about the tiger we imagined and fled from in fear? It is not a tiger; it is a calf covered with a tiger skin!”
+
+“Is that so? Is it true?” the fugitives ask and stop. The older man casts away the hide, brings the calf before them, and mockingly says, “Here is the tiger.” What will the situation then become? Some of those who fled will pull its tail, some twist its ears, and some examine the tiger skin. Nor is that all. Will they not search for the man who wrapped the calf in a tiger skin, called it a tiger, and caused the panic? Would that be an ordinary situation? What would happen if they caught him?
+
+Such was the laughter Socrates caused in the market streets of Greece.
+
+How could Meletus state this truth? Instead, he accused Socrates of being an atheist.
+
+“I have exposed the ignorance of many people, and for that they are angry with me. How can they state the true reason? It would be shameful. So they say Socrates is an atheist who corrupts the ancient order of Greece. That is the secret,” Socrates said. He explained the excellence of his work and emphasised how greatly the country needed it.
+
+“A powerful lion lies asleep, unaware of its own strength. A fly bites and awakens it. Likewise, I rouse the powerful people of Athens from the sleep of ignorance in which they lie submerged. It is easy to crush the fly. But will another fly come to wake the sleeping lion? You must consider that. If you do, you will not crush me,” he pleaded.
+
+“Why do I wander in this way? Could I not display my ability, obtain a place in the royal assembly, and live with wealth and comfort?
+
+“Why do I instead renounce those things, remain in the garb of a mendicant, and continue this work knowing that it will bring the anger of the powerful upon me?
+
+“What profit do I gain from it?” he asked.
+
+“My devotion to God is firmer than that possessed by those who accuse me of atheism,” he said plainly.
+
+The more clearly he spoke, the firmer became the resolve of those who had arrived determined to punish him somehow. They thought it extremely dangerous to let him go. Socrates' knowledge had produced such fear in their hearts. “He presents before us honest and irrefutable reasons without the slightest confusion and without any concern for the consequences. If such a man continues speaking among the people, our condition will certainly become wretched,” they thought, and declared Socrates guilty.
+
+“He must receive the death penalty,” said Meletus. Some others spoke with apparent compassion: “Let Socrates request and receive some other punishment.”
+
+Did Socrates make use of their compassion? No. Would he allow the advancement of knowledge to be subjected to their contempt?
+
+“Do you say that I may myself propose a fitting punishment?” Socrates asked.
+
+“Yes!” came the arrogant reply in the court.
+
+Socrates' friends watched eagerly to see what he would say.
+
+He might ask them not to impose death but imprisonment, exile, or a fine. Any of these would be less cruel than death. His friends therefore stood with their hearts pounding. If he sought and received the punishment of exile, Socrates would suffer no want: many states such as Thessaly were waiting to welcome him, and many friends were prepared to dedicate all their property to him. Socrates knew all this. What punishment did he ask them to impose?
+
+“The Greek government customarily grants a stipend to the skilled charioteer, the brave horseman, and the man who displays great valour on the battlefield, both to honour their abilities and to enable them to continue those tasks without interruption. Grant a stipend to this good teacher too, whose work gives people true welfare and clarity of knowledge and makes them conscious of their duties. Give me the means to perform this work for the rest of my life. That is the punishment you should give me.”
+
+What must the minds of the judges have been like when Socrates spoke thus!
+
+They had charged that he committed a crime, corrupted young minds, and undermined old beliefs, and had decided to sentence him to death. Yet they had softened, thinking, “Poor man, he is old and more than seventy. Why should he undergo death at this age? Let him survive,” and had invited him to request another punishment. Without respecting their gesture or showing the least agitation, he asked for a stipend! “How obstinate is this old man!” they thought.
+
+They imposed the death sentence upon Socrates, deciding that he should be killed by giving him a poisoned drink. Poison for the eloquent teacher who had given the young men of Greece words filled with knowledge every day! But Socrates did not tremble. With a smiling face he addressed them:
+
+“You have sentenced me to death. You gain no great advantage from it. I am an old man; my end is drawing near. Even without this sentence I would naturally die soon. By condemning me to death, you seek great blame. I am no sage, but future generations will condemn your deed. Then they will call me a sage and revile you as sinners who killed one. This is the blame you are seeking.
+
+“Do you indulge the vain hope that by killing me you can escape me? Madness! The thoughts I have sown and the method I have employed are imperishable. While I am alive, others have not adopted this method. After my death, many will come forward to continue my work and pursue it with still greater intensity. You cannot defeat them. By killing me, who spreads knowledge, you cannot kill knowledge. People of Athens, you cannot escape Socrates!” Thus spoke the warrior who refused to surrender even an atom of the dignity of knowledge.
+
+Two drops of tears, a voice trembling slightly, one pitiful glance: these would have been enough to save him had he wished. “He spoke bravely, but the moment we mentioned death he shed tears, and we showed him mercy,” they would later have boasted. A stain would have entered world history. By remaining steadfast to the end, that noble man bound a crimson page into the record of world history, colouring it with his blood.
+
+“I will not be bewildered at the sight of death. I do not know what condition awaits people after death. Why should I fear what I do not know? I shall do my duty without fear of death,” he said.
+
+The death sentence had been imposed, yet the thinker calmly conducted an inquiry into death before those who had condemned him, like a warrior on the battlefield who pulls an enemy's arrow from his chest and examines its sharpness, its construction, and the manner in which it was shot.
+
+“Why should death be regarded as suffering? What occurs in death? One may believe that soul and body are both destroyed and nothing remains in the end. If so, what suffering can death cause? Only if something remains can that surviving part think of the destroyed part and grieve.
+
+“Or one may accept the other view: that in death only the body perishes while the soul survives and goes to the upper world. Even then, why fear death or regard it as suffering? What bitterness is there in going to the upper world, meeting one's ancestors, speaking with them, and living among them? Is that not an honour? How can it be suffering?”
+
+“Apart from these two views there is no other concerning death. Whichever of the two is correct, there is no need to fear death or regard it as suffering.”
+
+Thus he delivered a discourse of inquiry to the destroyers who had resolved to give him poison.
+
+He maintained this firmness until the end. Before the death sentence was carried out, he remained in prison for a month. Every day was devoted to inquiry with his friends. Until the final moment he continued offering a feast of knowledge. His country's traitors gave him poison in return!
+
+Yes! What the callous give those who labour to reform the world is poison. The eloquent man who drank it said:
+
+“Before now, ordinary people, driven by anger and ignorance, have tortured many good men. I too shall fall prey to the people's ignorance. After me, many more will sacrifice their lives for righteousness. This is certain.”
+
+He gave this counsel 2,400 years ago, when selfish conspirators in Greece incited people steeped in superstition and caused a great scholar to be killed with poison.
+
+In our own time, when we witnessed the death of another noble one, we saw that his words were true.
+
+At least in the days of Socrates the ordinary people had gained enough understanding that a conspirator like Meletus could kill the eloquent teacher only by having poison administered to him.
+
+In our time, clarity among the people has increased many times beyond what existed 2,400 years ago. The people did not fail to honour the departed noble man. In that earlier age, there was enough fog in people's minds for Meletus to arouse their anger. Today the condition is different. Though he knew that the people honoured that noble man, the sinner Godse deliberately committed murder, driven by fanaticism, madness, and animal savagery.
+
+The thought that a nation's people permitted an eloquent teacher to be poisoned because of the intrigue of a few deceivers brings both anguish and shame. In the present atrocity, the people were ready to shower flowers when one criminal came forward to fire a bullet into the noble man's chest. Thinking of it brings not only shame and anguish but also the despairing question: do we live in a country, or is this a forest?
+
+Poison then! A gun today! Meletus then! Godse today! Unless this savage method is uprooted, in what respect can we claim to be superior to the animals of the forest?
+
+The death of the noble man must at least provoke this thought in us. Only then will his blood not have been shed in vain. He lived a very simple life. He did not even propose a revolutionary programme to abolish every old belief and custom at one stroke. He sought to introduce fresh purity and usefulness into every system, to make every religion an instrument for people's advancement, and to remove the corruptions that had accumulated within Hinduism. He said that the righteous course was to create conditions in which people could live peacefully and with human rights, whatever their religion or caste. Is a man to be killed for saying this?
+
+The thought makes one's heart tremble. Yet more: when some adopt such savage action even against his gentle method, what will happen when the nation must undertake sweeping changes, revolutionary programmes, and reforms that bring forest kings and privileged classes under control? Such measures must occur if self-rule is to become good government. If today's savage tendency remains when those acts are attempted, will not more Godses arise? Wiping away their tears, the people of the country must think deeply about what is to be done.
+
+Jayaprakash Narayan, the leader of the Socialist Party, has said, “For a long time, within the society shaped by the Hindu religion, a conflict has been taking place between progressive and reactionary forces.” In that conflict the reactionary force, drunk with domination, fired bullets into the noble man's chest. This struggle has occurred not only within Hinduism but in many societies throughout the world. Noble people have been killed by Godses. If the world is to rise and the people prosper, the progressive path alone must be followed. The bloodstains shed by noble people are the signposts upon that path.
+
+(Published in *Dravida Nadu*, 8 February 1948.)
+
+## Translator's Notes
+
+The Greek names are rendered in their conventional English forms: Socrates, Alcibiades, Xenophon, and Meletus. The source's `ஒதியம்` is retained descriptively as the odiyam tree because the botanical identification is not essential to the comparison and remains uncertain.
+
+The source compares the laughter produced by Socratic questioning to exposing a calf disguised in a tiger skin. `ஆண்டி` is translated as “mendicant” in keeping with the source's contrast between Socrates' poverty and elite rank.
+
+The essay moves deliberately from Socrates' execution to Mahatma Gandhi's assassination by Nathuram Godse, treating both as attacks by reactionary power upon reforming knowledge. `உத்தமர்` is therefore rendered consistently as “the noble one,” while contextual references identify Socrates or Gandhi.
+
+The source reports a 220-to-281 verdict and describes the difference rhetorically as sixty votes; both figures are retained exactly as printed. Historical terms such as `சனாதன முறை`, `ஐதீகம்`, `சத்புருஷர்`, and `சமதர்மக் கட்சி` are rendered contextually as ancient order, traditional belief, good men, and Socialist Party.

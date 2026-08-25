@@ -1247,7 +1247,7 @@ Total source works: 1388
 - [katturaigal/uruvana_seyal](uruvana_seyal.md) - translated
 - ["உஷார்"](ushaar.md) - pending
 - [உதைக்கும் காலுக்கு..!](uthaikkum_kaalukku.md) - pending
-- [katturaigal/uthamar_sinthiya](uthamar_sinthiya.md) - pending
+- [katturaigal/uthamar_sinthiya](uthamar_sinthiya.md) - translated
 - [katturaigal/uthamarai_izhanthom](uthamarai_izhanthom.md) - translated
 - [உழைப்பாளிக்கே உலகம் உரியது](uzhaippalikkae_ulagam.md) - pending
 - [katturaigal/vaadagai_vandi](vaadagai_vandi.md) - translated
