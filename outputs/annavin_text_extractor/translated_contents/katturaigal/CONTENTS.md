@@ -621,7 +621,7 @@ Total source works: 1388
 - [லண்டனில் லெனின்](londonil_lenin.md) - pending
 - [Lord 'Lux' Lashes All (1)](lord_lux.md) - pending
 - [katturaigal/maahana_manavar](maahana_manavar.md) - translated
-- [katturaigal/maaji_kadavul](maaji_kadavul.md) - pending
+- [katturaigal/maaji_kadavul](maaji_kadavul.md) - translated
 - [மாநாடு முடிந்தது!](maanadu_mudinthathu.md) - pending
 - [மானமும் மனையும்!](maanamum_manaiyum.md) - pending
 - [மாணவர் மாநாட்டில் பேரறிஞர் அண்ணா](maanavar_maanattil.md) - pending

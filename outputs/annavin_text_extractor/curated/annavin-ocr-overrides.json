@@ -426,6 +426,51 @@
         }
       ],
       "tokenCorrections": []
+    },
+    "katturaigal/maaji_kadavul.md": {
+      "phraseCorrections": [
+        {
+          "wrong": "டையகோராஸ்\n(11420௭88)",
+          "right": "டையகோராஸ்\n(Diagoras)",
+          "reason": "scan 3 clearly prints the English name Diagoras"
+        },
+        {
+          "wrong": "தான் பிறந்த (146108) மீலாஸ்",
+          "right": "தான் பிறந்த (Melos) மீலாஸ்",
+          "reason": "scan 4 clearly prints the English place name Melos"
+        },
+        {
+          "wrong": "சாக்ரட்டீஸ் குற்றவாவி என்று தீர்ப்புக் கூறினவர்கள் 287.",
+          "right": "சாக்ரட்டீஸ் குற்றவாளி என்று தீர்ப்புக் கூறினவர்கள் 281.",
+          "reason": "scan 5 clearly prints குற்றவாளி and 281"
+        },
+        {
+          "wrong": "சாக்ரட்டீஸ் குற்றவாளி அல்லன் என்று கூறினவர்கள் 250.",
+          "right": "சாக்ரட்டீஸ் குற்றவாளி அல்லன் என்று கூறினவர்கள் 220.",
+          "reason": "scan 5 clearly prints 220, consistent with 501 total and the following 61-vote majority"
+        },
+        {
+          "wrong": "ஜுாவஸ் அவனைத் தண்டித்தார்",
+          "right": "ஜூவஸ் அவனைத் தண்டித்தார்",
+          "reason": "scan 2 clearly prints ஜூவஸ்"
+        },
+        {
+          "wrong": "ஹெொர்மிஸ் (114888)",
+          "right": "ஹெர்மிஸ் (114888)",
+          "reason": "scan 15 clearly prints ஹெர்மிஸ்"
+        },
+        {
+          "wrong": "ஜுூவசுக்குத் தம்பி",
+          "right": "ஜூவசுக்குத் தம்பி",
+          "reason": "scan 17 clearly prints ஜூவசுக்குத்"
+        },
+        {
+          "wrong": "ஜுூவஸ், இந்தக் கடவுளின்",
+          "right": "ஜூவஸ், இந்தக் கடவுளின்",
+          "reason": "scan 17 clearly prints ஜூவஸ்"
+        }
+      ],
+      "tokenCorrections": []
     }
   }
 }

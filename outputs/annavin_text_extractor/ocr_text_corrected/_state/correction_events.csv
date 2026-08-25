@@ -1,30 +1,11 @@
 file,type,wrong,right,count,reason
-katturaigal/santhana_sapra.md,phrase,4. சந்தான சப்ரமஞ்சம்/,4. சந்தான சப்ரமஞ்சம்!,1,scan 1 clearly prints the numbered title and exclamation mark
-katturaigal/santhana_sapra.md,phrase,"இலண்டன்
-7779","இலண்டன்
-1779",1,scan 2 clearly prints London 1779
-katturaigal/santhana_sapra.md,phrase,"கிரேக்க நாடு மக்கள் மனதைக் கப்பிக் கொண்டி ருந்த
-ளை லில் ஓட்டிட முனைந்தது; பிற நாட்டவரின்
-ஸ் முத ஓடிட மே
-
-## Image 12","கிரேக்க நாடு மக்கள் மனதைக் கப்பிக் கொண்டிருந்த
-இருளை முதலில் ஓட்டிட முனைந்தது; பிற நாட்டவரின்
-
-## Image 12",1,scan 11 clearly prints the complete page-ending transition from Greece to Rome
-katturaigal/santhana_sapra.md,phrase,விளக்க ஏடே இட்டச்செய்தது 7847ல்!,விளக்க ஏடே தீட்டச்செய்தது 1847ல்!,1,scan 20 clearly prints தீட்டச்செய்தது 1847ல்
-katturaigal/santhana_sapra.md,phrase,"ந. (4
-சது
-
-ம்ளிக்கும், :-: செட் ன் ந்தை பிறக்கும்.
-
-வ்விதம் ஓர் விளம்பரம்","சந்தான சப்ரமஞ்ச கூடத்தில் சயனிக்க வாருங்கள்! நிச்சயம்
-கருத்தரிக்கும் - சொரூபமான குழந்தை பிறக்கும்.
-
-இவ்விதம் ஓர் விளம்பரம்",1,scan 23 clearly prints the complete bold advertisement
-katturaigal/santhana_sapra.md,phrase,"ஆரோக்கிய அலயம் என்பது அதற்குப் பெயர்;
-அங்குதான் இந்த மகிமை வாய்ந்த கட்டில். 7779ல்!","ஆரோக்கிய ஆலயம் என்பது அதற்குப் பெயர்;
-அங்குதான் இந்த மகிமை வாய்ந்த கட்டில். 1779ல்!",1,scan 23 clearly prints ஆரோக்கிய ஆலயம் and 1779ல்
-katturaigal/santhana_sapra.md,phrase,'சாண்டேோ' மாதிரி,'சாண்டோ' மாதிரி,1,the scan 5-6 page join clearly prints சாண்டோ
-katturaigal/santhana_sapra.md,phrase,கொடுத்து வைத்திருக்கிறார்களேோ,கொடுத்து வைத்திருக்கிறார்களோ,1,scan 6 clearly prints வைத்திருக்கிறார்களோ
-katturaigal/santhana_sapra.md,phrase,கோொள்ளப்பட்டுள்ளனரோ,கொள்ளப்பட்டுள்ளனரோ,1,the scan 11-12 page join clearly prints கொள்ளப்பட்டுள்ளனரோ
-katturaigal/santhana_sapra.md,phrase,(பொங்கல் மலர் - 14-1-26 - திராவிட நாடு),(பொங்கல் மலர் - 14-1-56 - திராவிட நாடு),1,scan 25 clearly prints the publication date 14-1-56
+katturaigal/maaji_kadavul.md,phrase,"டையகோராஸ்
+(11420௭88)","டையகோராஸ்
+(Diagoras)",1,scan 3 clearly prints the English name Diagoras
+katturaigal/maaji_kadavul.md,phrase,தான் பிறந்த (146108) மீலாஸ்,தான் பிறந்த (Melos) மீலாஸ்,1,scan 4 clearly prints the English place name Melos
+katturaigal/maaji_kadavul.md,phrase,சாக்ரட்டீஸ் குற்றவாவி என்று தீர்ப்புக் கூறினவர்கள் 287.,சாக்ரட்டீஸ் குற்றவாளி என்று தீர்ப்புக் கூறினவர்கள் 281.,1,scan 5 clearly prints குற்றவாளி and 281
+katturaigal/maaji_kadavul.md,phrase,சாக்ரட்டீஸ் குற்றவாளி அல்லன் என்று கூறினவர்கள் 250.,சாக்ரட்டீஸ் குற்றவாளி அல்லன் என்று கூறினவர்கள் 220.,1,"scan 5 clearly prints 220, consistent with 501 total and the following 61-vote majority"
+katturaigal/maaji_kadavul.md,phrase,ஜுாவஸ் அவனைத் தண்டித்தார்,ஜூவஸ் அவனைத் தண்டித்தார்,1,scan 2 clearly prints ஜூவஸ்
+katturaigal/maaji_kadavul.md,phrase,ஹெொர்மிஸ் (114888),ஹெர்மிஸ் (114888),1,scan 15 clearly prints ஹெர்மிஸ்
+katturaigal/maaji_kadavul.md,phrase,ஜுூவசுக்குத் தம்பி,ஜூவசுக்குத் தம்பி,1,scan 17 clearly prints ஜூவசுக்குத்
+katturaigal/maaji_kadavul.md,phrase,"ஜுூவஸ், இந்தக் கடவுளின்","ஜூவஸ், இந்தக் கடவுளின்",1,scan 17 clearly prints ஜூவஸ்

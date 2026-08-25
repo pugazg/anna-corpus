@@ -1,4 +1,10 @@
-# katturaigal/maaji_kadavul
+# மாஜி கடவுள்கள் / Former Gods
+
+**Tamil title:** மாஜி கடவுள்கள்
+**English title:** Former Gods
+**Source file:** `katturaigal/maaji_kadavul.md`
+
+## Source Tamil (verbatim)
 
 - Source image folder: `/Users/pugazhendhirajendran/Documents/Codex/2026-07-09/https-www-annavinpadaippugal-info/outputs/annavin_text_extractor/ocr_images/katturaigal/maaji_kadavul`
 - OCR language: `tam`
@@ -841,3 +847,321 @@
 உருவமற்றவன் என்ற உண்மை துலங்கலாயிற்று.
 
 17-11-1946
+
+## English Translation
+
+“Can lust run in torrents through the audience hall of God? People, do you know what became of your supreme god Zeus? Do you know the fate of his wife, his lawful wife Hera? Do you know the sinful deed committed by a devotee who had attained salvation? Do you not say that only one who masters lust, anger, and the other passions receives God's grace, and that worship is performed for that purpose? You who immerse yourselves in devotion and speak of sin and merit, do you know what a devotee did after reaching heaven, the world of the gods, and God's own presence? Is not the divine presence the abode of purity? Is not the supreme god the one who removes the three impurities? I shall tell you of the outrage committed in that divine presence, where even a sensualist ought to realise the impermanence of the body. Listen without agitation.
+
+“People! The king of the land of the Lapiths went to heaven. If he reached the divine world, must he not have been virtuous, free of lust and anger, and guiltless of sin? That is how Ixion, for that was the king's name, received God's grace, a blessing not available to everyone. He entered the house of Zeus. What did he do? What should he have done? He should have worshipped with feeling, crying, ‘Lord! Peerless one! You who showed me grace!’ Instead, Ixion forgot God. He cast lustful eyes upon the god's consort, the goddess Hera whom you worship as mother of the world. Driven by the lust overflowing in his heart, he even approached her.
+
+“Zeus later punished him. Have you heard, people? One who gained salvation through devotion dared, in God's own house, to make the Lord's consort, Hera, mother of the world and object of public worship, his mistress. What do you make of your god's family affairs? How did desire enter the mind of one who entered the divine world through purity? How did a man daring to commit so degraded an act in God's own house become worthy of divine grace?
+
+“Is there any consistency in this? Tell me. Can such obscene stories be told about a god said to be beyond the reach of the human mind? Should you believe them to be sacred tales? Is this how God is to be understood? Leave aside the goddess and the character of a man whose devotion was supposedly mature enough to win salvation. Consider your supreme god Zeus, for whom you build sky-high temples and conduct many festivals.
+
+“Zeus is the supreme god. What did he do? He drove away his father, seized power, lawlessly mounted his father's throne, and became a god after sharing a little authority with the younger brothers who assisted his conspiracy. He took his own sister as wife. By your own stories, Zeus was consumed by lust for power, conspiracy, deceit, intrigue, and personal pleasure. Yet he is your god! Are these the marks of divinity? Must tormenting one's father and marrying one's sister be the holy sport of the compassionate Lord?
+
+“You recount these things without shame as God's divine play, but grow angry and say I insult God when I point them out. Answer calmly: can this be the character of God? You tell stories of his innumerable lustful adventures. What goodness or morality can arise from a god of such character? Would the world not mock you if it knew this was your god? Would scholars respect you? Is wandering in lust a doctrine of divinity? How disgraceful, ignorant, and grotesque! What dreadful forms stand in the temples, and what distorted acts you perform before them! Would a god demand human sacrifice? Would he possess four heads, ten hands, and many faces? Is this how the Lord would exist? Is this religion? Is this reason? Must the country's great wealth be squandered upon it? Shame! What degradation and fraud!”
+
+In fifth-century BCE Greece, the scholar Diagoras thundered in this way against obscenities conducted in God's name and against the stories scoundrels had invented about the gods, hoping to bring reason to the people. His counsel aroused anger rather than enlightenment.
+
+“What insolence! What hardened arrogance! The sinner reviles our gods. Will his tongue not rot? He will enter an irredeemable hell,” people said angrily. They did not acquire the clarity to recognise that everything the scholar said was undeniable truth.
+
+Without such clarity, they clamoured for Diagoras, who had kindled the light of knowledge, to be destroyed. The town split over the effort to eliminate a good man who spoke truth. Diagoras had to flee his birthplace, Melos, and take refuge in Corinth. Such was the fate around 500 BCE of a scholar who condemned false tales spread in God's name. He went to impart knowledge and suffered at the hands of an enraged people.
+
+Yet he was the victor. How can a fugitive be praised as victorious? Diagoras did fear for his life and flee his town. That is true. He possessed fear; that too is true. But he won. To understand that, we must observe his heirs.
+
+Diagoras fled Melos for Corinth and died there. Yet he later walked again through the markets of Greece. The Greeks had to say once more, “Here is another man saying what the fugitive Diagoras said.” Diagoras reappeared in a form combining rationalism with fear. Later fear disappeared, and we see a form joining rationalism with endurance. That noble form was Socrates.
+
+Socrates too attacked petty belief, condemned deeds conducted in God's name, and urged people to look with the eye of knowledge and see the obscenity of the deities enthroned in temples. Diagoras and Socrates were both commanders of rationalism, but at different stages. The former was nearly defeated and driven away. Socrates was not driven away, did not flee in fear, and did not submit: he was killed.
+
+In Greece itself, rationalism first saw the hostility of its neighbours and ran into hiding. In Socrates' day that hostility remained, and the hostility of the rulers arose too. But he did not leave his town; he surrendered his life there. This means rationalism had grown stronger between the ages of Diagoras and Socrates. At first the world saw merely someone willing to speak rationally. In Socrates' time it saw a man willing not only to speak but to endure loss and suffering and give his life for rationalism.
+
+At first, in the age of Diagoras, the people said, “They babble that this is wrong and that is wrong; beat the offenders and they will submit.” When Diagoras fled to Corinth they probably rejoiced: “See the spectacle! The scoundrel who spoke recklessly and abused our gods has run with his heels striking his back. Fear seized that loudmouth, and he cared only to survive.”
+
+What would the same people have said in the time of Socrates? Even those who cursed him for insulting their gods must have been stunned when they heard that he calmly drank deadly poison in prison, treating life as a trifle for his principles. They would not merely have thought, “Our enemy is gone; there is nothing to fear.” They would have feared a man prepared to lose even his life and found themselves unable to speak.
+
+It may be said that on the day Socrates became a corpse, rationalism acquired a new stature, power, and value. The whole town had driven out Diagoras. In Socrates' day the town contained two parties: rationalism had found a place for itself. One section gathered to speak for it and lend support.
+
+The court that debated whether Socrates was guilty contained 501 people. Those who declared him guilty numbered 281; those who said he was not guilty numbered 220. Rationalism had gained strength almost equal to the authority of antiquity. The old force had only 61 more men. After Socrates died, the balance of strength reversed. Even during his life there was no longer the condition that had forced Diagoras to flee: 220 of 501 had come forward to defend rationalism.
+
+What does this mean? At first the whole town was hostile; later half the town joined rationalism. Who won? A section of the army assembled by antiquity had passed to rationalism, which once possessed no army at all.
+
+Like Diagoras, Socrates condemned the divine spectacle before which the Greeks blindly worshipped and danced. The accusation against Socrates was precisely that he corrupted youth by calling the gods worshipped by the Greeks false deities.
+
+“Before me, the anger and ignorance of townspeople have tormented many good men. I too become a victim of popular anger. After me many others will have to be sacrificed,” Socrates said. When he died, rationalism was stronger than before. Though people's minds had not completely changed, the conviction took root that rationalists would not stop their work for fear of death. The blood of martyrs watered it.
+
+As this “ablution” was repeatedly performed for knowledge, the ritual ablutions of the “gods” established in ancient times, enthroned in temples, and fattening priests began to diminish. People who had discussed divine exploits began discussing the history of rationalists shedding blood. As that discussion grew, temple priests began to sleep.
+
+Jesus created the condition in which they had to summon all their gods together and fight, not by killing them but by himself being crucified. Jesus was crucified five hundred years after Socrates drank poison. Jesus hung upon the cross, but who died? The old gods, the assembly of deities that had long tormented ordinary people.
+
+Countless minor gods who sat splendidly in temples created by sculptors were forgotten and became former gods.
+
+The worship and sacrifices they had long received stopped. Hereditary priestly communities lost their work.
+
+When people lacking intellectual clarity destroyed those who dared spread knowledge, they abused them: “You sinner, do you revile our gods? What precious deities they are! Fool, what do you know of their power? Do you know how many beautiful hymns praise them? Are divine epics not artistic treasures and temples not creations of sculptors? Do you condemn these, unrighteous man?” Thus they drove Diagoras from his town and killed Socrates.
+
+What was the result? The gods on whose behalf those people dared destroy scholars no longer exist. All those magnificent gods once worshipped by crores in Babylon, Greece, Rome, Egypt, China, and many other ancient lands are worshipped no more. There are no temples or ceremonial drums for them. If you visit the countries where those deities once lived and ask to see them, no one can show them to you.
+
+In Greece, which killed Socrates, there are now people who defend and honour him. But the gods he was poisoned for insulting no longer exist there. If asked, “Did such gods really exist? Did you celebrate in this manner? Were stories of God so obscene?” the people would answer with embarrassment: “In days without enlightenment, when darkness and ignorance prevailed and we were uncivilised, we spoke of many gods, gods with many forms, gods with mothers, fathers, children, mistresses, and families. We wrote epics and built temples. When knowledge arose, we understood that all those gods were meaningless imagination.” The poison Socrates drank killed a multitude of gods.
+
+As people's reason brightened, countless gods became former gods. Only a few can be named, while some have vanished so completely that even their names are unknown.
+
+Before Socrates died and before noble people shed blood for rationalism, Greece and Rome, Norway and Sweden, China and Egypt, every country possessed diverse assemblies of gods just as our country does today. They too had Puranas and epics, divine exploits and sacred sports. Just as people here become angry and suspicious when rationalism is expressed and antiquity criticised, and torment rationalists as atheists when they ask whether stories of God can be so obscene and say God is one and formless, the same occurred in all those countries.
+
+The difference is that their doctrine of God became clear centuries ago, while here ideas inherited from ancient days have not yet diminished.
+
+Our people should know that many “gods” who once inhabited temples abroad, ruled magnificently, were praised by poets, painters, and priests as supremely powerful, and made crowned kings and heroes capable of subduing raging elephants bow before them have now become former gods in those countries. Gods for whom crores spent crores building temples are now former gods.
+
+The people there did not thereby become corrupt, confused, or destroyed. Their art, poetry, sculpture, and painting did not perish, nor did they become atheists. Ignorance disappeared and true knowledge arose. The evil of temples serving as thrones of desire and caves of priests ended. People now live with the true doctrine that God is the abode of purity, one and formless, the source of all that is sublime.
+
+They too once had counterparts of our Mari, Manmatha, forest spirits, crow-mounted god, Vayu, and Varuna. They had Puranas and epics like ours, with stories describing the gods' erotic play. Today they dismiss them as games of the ignorant and live on, while we remain enslaved to foreigners and tormented by poverty.
+
+It is impossible and unnecessary to give full details of every former god. I mention only a few once regarded as protectors of kingdoms and praised by epic poets, so that you may understand the direction of the world. Here are the “former gods.” Look:
+
+**Apollo**
+
+One of the important Greek gods. As Surya is regarded here, Apollo was regarded and worshipped there.
+
+**Abaddon**
+
+Guardian of hell. He examines whether arrivals bear the mark of the Lord's signet upon their faces. If not, he casts them into the abyss to be tortured.
+
+**Aeolus**
+
+The Greek Vayu, god of wind. He separates good and bad winds and gives them in leather bags, with corresponding consequences.
+
+**Aphrodite**
+
+The Greek goddess of beauty. Greeks believed beauty came through her grace. Aphrodite was mother of Cupid, the Greek Manmatha who discharged arrows of love. A god named Ares desired Aphrodite, misbehaved, and was humiliated.
+
+**Ares**
+
+The Greek god of war, who greatly delighted in fighting. When he once desired Aphrodite and behaved improperly, the other gods discovered it, mocked him, and brought him shame.
+
+**Artemis**
+
+Like Apollo, an important Greek deity. Artemis was a virgin and protected livestock.
+
+**Bacchus**
+
+A god who travelled in a chariot drawn by tigers and presided over intoxicating drink. He was a son of Zeus.
+
+**Balder**
+
+The Norwegian sun god, praised as handsome and wise. Balder was the child of Odin and Frigg. The tale says Loki, the mischievous god, killed him.
+
+**Bellona**
+
+Mars was the Roman god of war, and Bellona was also a war deity. Some called her Mars's wife, others his sister, and still others his daughter. Carrying a torch, she supposedly attended to the work of war.
+
+**Bootes**
+
+One of the Greek gods, said to have invented the plough and therefore worshipped as god of agriculture.
+
+**Boreas**
+
+Worshipped as god of the north wind.
+
+**Bragi**
+
+The Norwegian god of poetry, son of Odin and Frigg. This aged god with a long white beard was believed to welcome into heaven those who died in war.
+
+**Clytie**
+
+A goddess who loved Apollo. When Apollo abandoned her, she wasted away and finally became a sunflower.
+
+**Lugh**
+
+A god worshipped in Ireland, that country's sun god.
+
+**Cupid**
+
+The Roman Manmatha, whose work was to shoot arrows of love. Romans depicted him as a child with bow and arrows and eyes covered by cloth.
+
+**Cybele**
+
+A deity worshipped in northern Asia with tremendous dancing and singing. People conducted splendid rites, drank, and revelled to please Cybele, whom they regarded as deity of natural beauty.
+
+**Diana**
+
+Romans worshipped Diana as the giver of light. Here the moon is a male god; there the moon was female, and a virgin. Diana delighted in hunting continually with her companions. Her temple at Ephesus was one of the wonders of the world.
+
+**Dionysia**
+
+As Bacchus presided over intoxicating drinks for Romans, Dionysia did so for Greeks. Worship consisted of drinking to frenzy and dancing. Her birth was a curious tale: her mother died while pregnant, so Dionysia was removed from the womb and Zeus kept and raised the child in his thigh.
+
+**The Three Sisters**
+
+Here the story says Brahma writes fate. In Greece fate was woven and cut into pieces. Three female deities worked busily at it: Clotho, Lachesis, and Atropos. One spun, another wove, and the third cut off pieces, and the Greeks worshipped them in the belief that human lives were woven and sent down in this manner.
+
+**Faunus**
+
+As Saturn existed in Greece like our Sani, his grandson Faunus was celebrated and worshipped in Latium as protector of fields and herds.
+
+**Fides**
+
+Romans made faithfulness to one's word into a deity named Fides, built a separate temple for her, and conducted festivals.
+
+**Flora**
+
+Goddess of gardens and mother of flowers, worshipped by Romans.
+
+**Freyr**
+
+God of the forests of Norway and Sweden, worshipped as the giver of light, rain, peace, prosperity, and every good thing.
+
+**Frigg**
+
+A Norwegian deity corresponding to the earth goddess of our Puranas, taken in marriage by Odin.
+
+**Gad**
+
+A deity worshipped by Babylonians as the goddess of fortune.
+
+**Demeter**
+
+Celebrated and worshipped by Greeks as mother of every living being on earth and in the upper world.
+
+**Ganymede**
+
+Zeus saw and desired the handsome mortal youth Ganymede, made him a god, and kept him nearby. Ganymede thereafter served Zeus by pouring his drink.
+
+**Hathor**
+
+Worshipped by Egyptians as queen of the divine world.
+
+**Hebe**
+
+Beautiful daughter of Zeus and herself worshipped as a goddess. When the Greek hero Hercules died and reached heaven, he married Hebe.
+
+**Hecate**
+
+A mighty three-headed Greek goddess wielding authority over earth, heaven, and hell and commanding innumerable spirits.
+
+**Heimdall**
+
+One of the Norwegian gods, guardian of heaven's gate, where the rainbow formed a bridge. A radiant god whose ears could supposedly hear even the sound of grass sprouting. Heimdall frequently fought the harmful god Loki, and in the end they killed one another: both gods died.
+
+**Hel**
+
+A Norwegian goddess, daughter of the harmful Loki and ruler of death.
+
+**Hera**
+
+Hera was the sister of Zeus, the merciful god, and Zeus married his own sister. Zeus's love for mortals filled Hera with jealousy and anger, and she tormented his children.
+
+**Hermes**
+
+The Greek equivalent of our Narada, born to Zeus through the goddess Maia. Greek tales made him messenger of the gods and a cunning deity, wearing a winged cap and sandals.
+
+**Hesperides**
+
+Divine maidens appointed to guard the golden apples given as dowry when Hera married Zeus. Greeks worshipped them too.
+
+**Hygieia**
+
+Worshipped by Greeks as goddess of health. Depicted as a virgin holding a cup from which a serpent drinks.
+
+**Hymen**
+
+The Greek god of marriage, a son of Apollo.
+
+**Isis**
+
+One of Egypt's principal deities, both sister and wife of Osiris. Their son was Horus. The three formed Egypt's divine triad.
+
+**Janus**
+
+An important Italian god with two heads, one face looking toward the past and the other toward the future. His temple opened only during war and remained closed at other times.
+
+**Juno**
+
+A Roman deity and wife of Jupiter, worshipped as protectress of married women.
+
+**Jupiter**
+
+The chief Roman god, whose wife was Juno.
+
+**Mars**
+
+Worshipped by Romans as god of war.
+
+**Mercury**
+
+The Roman equivalent of Narada, born to Jupiter and Maia. Messenger of the gods, protector of merchants, and conductor of dead souls to the upper world.
+
+**Odin**
+
+Chief god of Norway and Sweden. His consort was Frigg and his two sons were Balder and Thor. Victory and wisdom were among his qualities.
+
+**Pluto**
+
+One of the Greek gods, younger brother of Zeus and lord of hell.
+
+**Plutus**
+
+The Greek Kubera. Zeus blinded this god so that he would distribute wealth without favour or partiality.
+
+**Asclepius**
+
+Son of Apollo and god of medicine, holding a staff encircled by a serpent.
+
+**Pomona**
+
+A goddess worshipped by Romans so that fruits would flourish in their gardens.
+
+**Proteus**
+
+Greek sea god with power to foretell the future. He suddenly changed form; an oracle given during transformation would fail, while one given in his natural form would come true.
+
+**Ra**
+
+An important Egyptian god, that country's sun deity.
+
+**Rhea**
+
+Mother of the Greek gods Zeus, Pluto, Hera, and others.
+
+**Venus**
+
+Worshipped by Romans as goddess of love.
+
+**Vesta**
+
+Worshipped in Rome as household goddess, with a shrine in every home.
+
+**Vulcan**
+
+The Roman god of fire, who made Jupiter's weapon of thunder and lightning.
+
+**The Goddess of Crete**
+
+Crete possessed a deity in the form of a serpent maiden.
+
+**Zeus**
+
+The supreme god of the Greeks, enthroned in heaven holding a thunderbolt like a battle-axe and praised as god of gods. Born to Cronus and Rhea, Zeus rebelled against his father with his brothers and sisters, seized power, allocated certain worlds and powers to his brothers, married his own sister, and, according to Greek doctrine, continues protecting the world.
+
+In countries where countless more gods once occupied temples, conditions have now changed completely. All those gods praised by poets like Kalidasa and Kamban are former gods today. Just as our people believe in their gods now, people in those countries once believed that the gods who have since become former gods possessed many weapons and extraordinary miraculous power. Many Puranas spread and strengthened that faith, and those were revered as sacred tales. Today they are old stories.
+
+Thinkers courageously explained that religion was one thing and tales invented while people's minds were stained another. They endured the cruelty of a bewildered public. People once believed, just as they do here, that a Puranic expounder possessed divine essence, a Puranic poet was divinely inspired, a priest was God's messenger, and criticising them was a terrible sin. If anyone courageously condemned these things, people beat, tortured, burned, and tormented them. As a result of the service of those who endured such cruelty, centres of knowledge now stand there in their thousands and the people have advanced. Thousands of gods once manifest as sacred forms have become former gods.
+
+It is no easy task, nor one everyone can perform, to declare false deities whom people have long worshipped with fear and devotion. It requires a different kind of courage. Mounted upon the wild horse of ignorance and carrying the spear of cruelty, people charge in crowds, shouting, “The scoundrel insults God. We shall kill him and feed his body to crows and vultures!” A few revolutionary heroes laboured within this terrifying environment, ready for whatever might come.
+
+Revolution against the authority of a lord or king can itself cost one's life. It is no ordinary task to oppose the countless gods long lodged in people's minds; the tales invented about them; the festivals and rites conducted according to those tales; and the priestly crowd living from them. Only one without attachment to life can undertake such work.
+
+The war required to spread new knowledge resembles standing alone in open ground to fight an illusionist inside a powerful fortress. Within are guards, manpower, abundant weapons, protective walls, and a surrounding moat. To oppose such entrenched authority alone from an exposed field is extremely difficult.
+
+Yet only because a few came forward and entered that struggle did the flat world become round; notions of a many-headed deity, a god demanding many sacrifices, and an assembly of gods sporting with goddesses change; and the truth begin to shine that God is one and formless.
+
+17 November 1946
+
+## Translator's Notes
+
+The translation preserves all twenty scan sections, the complete Diagoras and Socrates argument, every entry in the printed catalogue of former gods, the closing comparison with India, and the dated ending.
+
+மாஜி is a period loanword meaning a former office-holder or one who once held a position; “former gods” preserves Anna's repeated rhetorical contrast between deities once enthroned and those no longer worshipped.
+
+Names in the catalogue are rendered by their standard English forms where the Tamil text clearly identifies them. The printed Tamil forms and corrupted OCR remnants of some parenthetical English glosses remain visible without alteration in the verbatim source block. The catalogue occasionally assigns Roman or Greek identities differently from modern reference works; the translation preserves the article's claims rather than silently rewriting them.
+
+Eight scan-backed OCR corrections were applied before translation: Diagoras and Melos, the Socrates vote corrected to 281 against 220, and four malformed Zeus or Hermes forms. The correctly restored mixed-script parentheticals `(Diagoras)` and `(Melos)` remain listed by the OCR review tool because they are genuine English text within Tamil lines, not unresolved errors.
