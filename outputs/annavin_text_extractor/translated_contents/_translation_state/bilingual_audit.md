@@ -14,8 +14,8 @@
 | paettigal | 26 | 26 | 26 | 0 |
 | root | 5 | 5 | 5 | 0 |
 | sirukathaigal | 109 | 108 | 108 | 1 |
-| sorpozhivugal | 537 | 177 | 177 | 360 |
-| **All included sections** | **2511** | **956** | **956** | **1555** |
+| sorpozhivugal | 537 | 178 | 178 | 359 |
+| **All included sections** | **2511** | **957** | **957** | **1554** |
 
 ## OCR-Origin Translation Progress
 
@@ -24,8 +24,8 @@
 | katturaigal | 552 | 529 | 529 | 23 |
 | nadagangal | 61 | 24 | 24 | 37 |
 | sirukathaigal | 108 | 108 | 108 | 0 |
-| sorpozhivugal | 241 | 177 | 177 | 64 |
-| **All OCR-origin sections** | **962** | **838** | **838** | **124** |
+| sorpozhivugal | 241 | 178 | 178 | 63 |
+| **All OCR-origin sections** | **962** | **839** | **839** | **123** |
 
 ## OCR Source Recovery Status
 
@@ -139,6 +139,7 @@ A blank image section has an explicit no-text marker or no OCR body after its im
 - `sorpozhivugal/nithi080358.md`: The canonical two-part 8 March 1958 budget debate includes all 39 scans, but at least 12 pages contain dense numeral/glyph substitution and dropped lines, especially Part 1 Images 3, 10 and 13 and Part 2 Images 3, 6-10, 13-14 and 16-17. Re-OCR all scans with Tamil and English models and reconcile the Nehru quotation, financial figures, speaker exchanges and damaged closing argument page by page before translation.
 - `sorpozhivugal/nithi300460.md`: Recover the English title of the Salem-iron reference book on Image 2 and damaged passages at the ends of Images 4 and 6
 - `sorpozhivugal/nithi_othukka260757.md`: Verify damaged header date and bill year, and recover the illegible embedded English phrase in Rajagopalachari's quoted comparison on Image 5
+- `sorpozhivugal/poar_murasu_1.md`: The available 17-scan 1948 War Drum speech is incomplete: Image 17 ends mid-sentence in the section titled வீரர் வழிவந்த இனம், after introducing how a six-sensed human controls five-sensed animals. The HTML page contains no body text and no continuation scan or companion file is present. Locate and transcribe the continuation before translation.
 - `sorpozhivugal/poar_murasu_kotti.md`: Recover the passage between Images 5 and 6 concerning Nehru's language assurance and obtain the continuation after the final unfinished readiness appeal
 - `sorpozhivugal/satta_11_03_1958.md`: Speech begins mid-argument, loses material between Images 4 and 5, and ends mid-question; recover the complete 11 March 1958 Assembly language debate and verify Article 344
 - `sorpozhivugal/sudhanthira_kaiyelu.md`: All 14 handwritten manuscript images are effectively unreadable in the current OCR; one page reports no text and the remaining output is overwhelmingly disconnected glyphs, so the speech must be re-transcribed from the scans before faithful translation

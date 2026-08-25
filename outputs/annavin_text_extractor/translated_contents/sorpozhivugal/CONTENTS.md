@@ -94,7 +94,7 @@ Total source works: 537
 - [sorpozhivugal/annavin_thalaimai](annavin_thalaimai.md) - pending
 - [அந்நிய ஆதிக்கத்திற்கு இடம் கொடோம்](anniya_aathikathukku.md) - pending
 - [‘அனுமதி மறுக்கப்படுமானால் ஊர்வலம் எடுக்க அனுமதி அளிக்கிறேன்‘](anumathi_marukkapadamal.md) - pending
-- [sorpozhivugal/ara_nilaya](ara_nilaya.md) - pending
+- [sorpozhivugal/ara_nilaya](ara_nilaya.md) - translated
 - [அறப்போரில் ஈடுபட தி.மு.க. தயங்காது!](arapporil_eedupada_thimuka.md) - pending
 - [அறப்போருக்கு ஆயத்தமாவீர்!](arapporukku_aayathamaveer.md) - pending
 - [‘அரசியல்வாதிக்கு இருக்கும் உரிமை தொழிலாளிக்கு இல்லையா?](arasiyalvathikku_irukkum.md) - pending

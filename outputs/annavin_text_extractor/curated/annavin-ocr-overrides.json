@@ -157,6 +157,51 @@
       ],
       "tokenCorrections": []
     },
+    "sorpozhivugal/ara_nilaya.md": {
+      "phraseCorrections": [
+        {
+          "wrong": "ஒரு கோயிலிலே\n272 தீவட்டிகளும்",
+          "right": "ஒரு கோயிலிலே\n27 தீவட்டிகளும்",
+          "reason": "scan 5 clearly prints 27 தீவட்டிகளும்"
+        },
+        {
+          "wrong": "அதே பணத்தைக் கொண்டு 35000-ரூபாய்க்கு\nசரக்கு எடுத்து",
+          "right": "அதே பணத்தைக் கொண்டு 5000-ரூபாய்க்கு\nசரக்கு எடுத்து",
+          "reason": "scan 10 clearly prints 5000-ரூபாய்க்கு"
+        },
+        {
+          "wrong": "ஒரு கடையிலே 115 வயதுடைய\nபையன் தேவை",
+          "right": "ஒரு கடையிலே 15 வயதுடைய\nபையன் தேவை",
+          "reason": "scan 12 clearly prints 15 வயதுடைய"
+        },
+        {
+          "wrong": "ஆகஸ்ட் 75-அம் தேதிக்குப் பிறகும்",
+          "right": "ஆகஸ்ட் 15-ஆம் தேதிக்குப் பிறகும்",
+          "reason": "scan 12 clearly prints ஆகஸ்ட் 15-ஆம் தேதிக்குப் பிறகும்"
+        },
+        {
+          "wrong": "எத்திரங்கள் வடித்திடுவீரே!",
+          "right": "எந்திரங்கள் வடித்திடுவீரே!",
+          "reason": "scan 12 clearly prints எந்திரங்கள்"
+        },
+        {
+          "wrong": "ஒவ்வொரு தழையாகக் கிள்ளிக் &ழே போட்டுக்",
+          "right": "ஒவ்வொரு தழையாகக் கிள்ளிக் கீழே போட்டுக்",
+          "reason": "scan 17 clearly prints கீழே"
+        },
+        {
+          "wrong": "அவர் உயிரைத் தொடாதே! அவா்",
+          "right": "அவர் உயிரைத் தொடாதே! அவர்",
+          "reason": "scan 17 clearly prints அவர்"
+        },
+        {
+          "wrong": "ழே கிள்ளிப் போட்ட தழையினால்",
+          "right": "கீழே கிள்ளிப் போட்ட தழையினால்",
+          "reason": "scan 17 clearly prints கீழே"
+        }
+      ],
+      "tokenCorrections": []
+    },
     "sorpozhivugal/thimuka_thuvak.md": {
       "phraseCorrections": [
         {
