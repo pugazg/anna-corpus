@@ -1289,7 +1289,7 @@ Total source works: 1388
 - [katturaigal/vanambadi_para](vanambadi_para.md) - translated
 - [வந்தார்! தந்தார்!](vantha_vanthar.md) - pending
 - [வந்தேனே! நானே!!](vanthaene_nanae.md) - pending
-- [katturaigal/vanthathu_vibathu](vanthathu_vibathu.md) - pending
+- [katturaigal/vanthathu_vibathu](vanthathu_vibathu.md) - translated
 - [வரலாற்றில் இடம் பெறும் வைபவம்!](varalatril_idamperum.md) - pending
 - [வரப்போகுதய்யே...!](varappoguthayyae.md) - pending
 - [வரட்டுமே வள்ளலார்!](varattumae_vallalar.md) - pending

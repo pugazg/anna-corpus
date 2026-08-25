@@ -1,4 +1,10 @@
-# katturaigal/vanthathu_vibathu
+# வந்தது விபத்து - வழி தேடுங்கள் / Calamity Has Struck: Find a Way
+
+**Tamil title:** வந்தது விபத்து - வழி தேடுங்கள்  
+**English title:** Calamity Has Struck: Find a Way  
+**Source file:** `katturaigal/vanthathu_vibathu.md`
+
+## Source Tamil (verbatim)
 
 - Source image folder: `/Users/pugazhendhirajendran/Documents/Codex/2026-07-09/https-www-annavinpadaippugal-info/outputs/annavin_text_extractor/ocr_images/katturaigal/vanthathu_vibathu`
 - OCR language: `tam`
@@ -784,3 +790,285 @@ _ பாராட்டினார் என்றும் - இவ்வி�
 விரைவில்.
 
 (30.7.50 திராவிட நாடு இதழில் வெளி வந்தது)
+
+## English Translation
+
+Are we to permit domination to continue?
+
+Is the labourer to waste away while one section alone prospers?
+
+Do not break the dam; the flood will overflow its banks.
+
+A time of tremendous trial has dawned for the Dravidian people.
+
+The treasury that the early leaders of Dravidian society obtained for it through immense effort has been plundered.
+
+As a result of Manu’s social law, imposed many centuries ago, Dravidian society had sunk to a low position and become the servant of dominant groups in every sphere, lying helpless and mute. Great leaders were distressed to see a people who had ruled countries, mastered the sea, cultivated the three forms of Tamil, and lived in cities of valour caught in the perverse conspiracy of worthless men and cast into the abyss called caste; stripped of self-confidence and self-respect and deprived of intellectual vision.
+
+After prolonged thought, those leaders devised a rare plan to awaken the fallen society. It was implemented in the country and was producing the desired results. That plan has now been shattered.
+
+In a case brought on behalf of two students by Alladi Krishnaswami Ayyar, a leading architect of the Constitution, and the advocate V. V. Srinivasa Iyengar, the judges of the Madras High Court have ruled that the Communal G.O., the system of representation by community, is invalid under the new Constitution of India.
+
+The Communal G.O. was a law framed with the social structure of the Madras Presidency in view so that social justice might prevail there.
+
+The new Indian constitutional scheme was framed in Delhi by Congress autocrats who occupied the seat of power after the departure of the British.
+
+Under that Delhi law, the Madras Government’s scheme has been declared unlawful.
+
+There were three judges: Chief Justice Rajamannar and Justices Viswanatha Sastri and Somasundaram.
+
+Their judgment concerns the law. That was their responsibility and duty. We must say nothing against them; nor is there any need.
+
+If one is compelled to accept a system of arithmetic in which eight plus eight equals ten, one cannot establish the truth that four plus four equals eight.
+
+Once it is accepted that a rupee contains only twelve annas, one must accept only six annas for half a rupee.
+
+Likewise, after India was treated as a single country, power concentrated in the Central Government, and provincial governments reduced to the status of ordinary panchayat boards, the lawful power arose to declare the Madras Government’s Communal G.O. illegal.
+
+It is under this new law that the beneficial Communal G.O., won through toil, is being dragged to the grave.
+
+A river of tears flows through the country, but the law speaks sternly.
+
+When we said Delhi would manipulate Madras in precisely this fashion, people winked and curled their lips. The judgment has now left foolishness dripping from all their faces.
+
+Within Brahmin society, the obstinacy of those possessed by a frenzy for communal domination has triumphed. In accordance with resolutions of Brahmin conferences, the position today permits the champions of communal domination to revel. The efforts conducted for many years by The Hindu, Swadesamitran, Dinamani, and many other communalist journals have reached their conclusion. The noses of those who struggled and argued for communal justice have been cut off.
+
+The future has become terrifying.
+
+A dangerous road, a dark hour, and the lamp extinguished: this is our present condition.
+
+It is a defeat for the Madras Government; a humiliating defeat for Dravidian society; and a cause for shame to the virtuous men who preached conciliation and said, “Do not denounce the Brahmin.”
+
+Mockery and condemnation have reached even the grave of Thyagaraya.
+
+All the suffering has gone to waste. The fortress that was built has been demolished. Henceforth the dominant community will strengthen its grip under the name of “merit.”
+
+The Dravidian community, which won many victories in the struggle for equal rights begun on its behalf by the white-robed leader, the valiant Thyagaraya, has today suffered a painful defeat that makes it shed tears of blood.
+
+The law states categorically that no one may be denied admission to education on grounds of “caste.”
+
+This, they say, is breadth of vision, democratic culture, the mark of the new India, and the doctrine of Rama Rajya!
+
+The hearts of honest people tremble merely to contemplate the result.
+
+The Communal G.O. has been annulled. Henceforth there will be no rule limiting how many Brahmin students may enter colleges. Anyone, it is said, will be admitted according to the qualification called “marks.”
+
+Under this arrangement, educational institutions will fill with one community, the Brahmin community. Other communities, pushed into the background by the caste system, must languish outside without college places because they did not obtain equally high “marks.”
+
+Those who used to speak with envy and irritation, “What do they lack, sir? The Communal G.O. is always there to lift them up,” now have hearts and faces blooming like fresh red lotuses. It is a festival day for the champions of communal domination and a day of pain for the great Dravidian people.
+
+“What is your boy doing?” asks a friend. “He has joined the B.A. class,” replies the father with pride. The first B.A. in his entire family is taking shape. That is the fruit of the Communal G.O.
+
+In future, the answer to “What is he doing?” will be: “He drives a tram,” or “He works as a foreman at the harbour. He did not get into college; a ‘Brahmin boy’ with higher marks gained admission.”
+
+Merely anticipating the bewilderment that will enter Dravidian households when schools open next year makes the heart shudder.
+
+Calamity has struck! Social justice has perished.
+
+To those who mock us, saying, “Why make so much fuss about the Brahmins, who are such a tiny minority, you fool, you madman?”; to those who attack us with Section 153 and decorate themselves with titles such as “patriot” and “Indian,” we ask: have you seen what has happened?
+
+The system that existed in the province for thirty years, supported by numerous ministers, including Congress ministers, and victorious in the legislature, has fallen through the work of self-seekers within that small community. What do the conciliators say now? What do the fools say who proudly relied upon numbers and asked who could do anything to them? The Communal G.O. has been adjudged unlawful.
+
+Ministers argued that concessions to this community were just because it stood in the background amid adverse circumstances. The law replied: “I know nothing of that. The Communal G.O. is illegal.”
+
+The judges did what the law permitted and required them to do.
+
+As a result, champions of communal domination will use this judgment to destroy social justice and establish the absolute rule of a minority. The old condition that existed before the Justice Party, Brahmin domination, is returning.
+
+Nowhere else is there a social structure as cruel as the one in this country.
+
+Here, the caste system shattered the people and made a minority the dominant power.
+
+In Western countries, a minority party sometimes exercises dictatorship through violence. Later it falls under the attack of democracy.
+
+Here, however, a minority community uses ancient texts and superstition as weapons, brings the majority society into decline, and exercises dictatorship.
+
+Our leaders had restrained and suppressed this cruelty. The Delhi law has cut the bonds that held it and declared: “Go! Go! Seek prey to satisfy your hunger.”
+
+The eyes of every responsible person now ask what non-Brahmin society is to do. If communal autocracy triumphs, the majority community will become enslaved on every front. A terrifying crack will inevitably appear in the social structure. Jealousy that had lain hidden and dim will embark upon a new hunt, and social peace itself may be harmed.
+
+The day must come when leaders in Congress circles turn towards Dravidian leaders and sound the conch of danger.
+
+The self-seekers of the minority community who rejoice at the destruction of the Justice Party’s scheme are sowing deeds whose fruit they will see within this very generation. Hostility will arise among communities, producing anguish in the people’s minds. The signs are already beginning to appear.
+
+Ekalavya’s “thumb” has been exacted. Ekalavya, deprived of his thumb, may remain silent, but will the society into which he was born remain silent?
+
+Immediate profit cools the heads of the dominant group, which does not realize what a vast future danger it has inaugurated.
+
+With incense, lamps, and sacred offerings, it summons villainy that cannot be controlled. Before the glow of victory fades, it will see Cheran Senguttuvan everywhere, even dressed in khadi.
+
+They break the dam without knowing what the flood will do.
+
+They have given us abundant work. We had sincerely hoped to forget this problem and had allowed the non-Brahmin question to recede into the background. They now compel us to bring the case once again before the people’s forum.
+
+The law of the people’s forum is different.
+
+It rests upon social justice. We shall win there, and this judgment will make us organize the necessary ranks swiftly.
+
+Pleasant conversation may now be heard: “What a clever deed, Sarasu! Did you see these ministers stare in bewilderment?”
+
+Another anguished voice has begun to say: “Why study uselessly, you stout fellow? What college place will remain for you?”
+
+The ministers can manipulate the legislature, persuade the Governor to be gracious, strike labour leaders on the head and force them to sit down, and subject the Dravidian movement to repression. They possess the power to do all this and more. But when a few people from the minority community work against them, the ministers are reduced to helpless incompetents.
+
+Many speak in distress: “Must we see the ministers in such a state? They possess the title ‘minister,’ but we see no power to protect the communal scheme.”
+
+Some mockingly say that the roaring national lions have turned into mice and rabbits before this attack by varnashrama.
+
+Such talk will grow further.
+
+The ministers strongly supported the Communal G.O. inside and outside the legislature. The responsibility for ensuring that it is not destroyed therefore belongs to them. Forgetting that responsibility is not honourable; trying to evade it is not courageous; asking helplessly what can be done is not intelligent. With firm hearts, the ministers must find a way to change this condition.
+
+At least now, after thunderbolt upon thunderbolt has fallen, they must come forward to tell the people who the communalists are and what communalism is, and to speak the truth.
+
+They must explain how easily the new Constitution throws aside the schemes of provincial government.
+
+They must unashamedly expose Delhi’s domination and the domination of those such as Alladi who share and participate in it.
+
+They must show that the provincial Government has been reduced to the status of a panchayat board.
+
+They must make Delhi understand that they are prepared to accept every hardship and loss for the honour of the province, the people’s future, and communal justice.
+
+These ministers must acquire the courage to cast away office. The country expects all this from them and tells them not to surrender their self-respect. What will they do?
+
+A word to the victors. This victory will certainly taste sweet at first, but its full consequences will become known only later.
+
+Do not delude yourselves that people will merely marvel, “Are these not the greatest of heroes, who dragged the provincial Government and its ministers into combat and made them bite the dust?” The country will also think and say: “How dangerous are those few people in this minority community, who possess the cunning to defeat even men of such power!”
+
+People will say that this is how communal domination has been imposed not merely today or yesterday, but for generations and under many forms of government. We do not know how many lakhs of warriors that discussion will draw into the field.
+
+The victors will see the present conduct, former position, instinct for domination, and every device their community uses to obtain power discussed before the public forum.
+
+The “sacred service” performed by Alladi and Srinivasa Iyengar will bring Manu, Mandhata, Patanjali, and Chanakya back into public memory. The reconciliation gradually developing among the country’s communities will be ruined. This is good neither for the country nor for the community now exulting that it has won a fine victory.
+
+When self-seekers within that minority society swagger about proclaiming victory, one recalls a tiger wandering beside the bushes with blood dripping from its mouth after devouring a spotted deer.
+
+There is one staff, and two people ask for it. One has carried a heavy load along a rough road in fierce heat; exhausted, with aching legs, he cannot continue without a walking stick. The other is taking a leisurely stroll and merely thinks the staff would look decorative and confer status. To which of the two should the staff be given?
+
+A consumptive patient has medicine from the doctor. His pain will end only if he takes it, and the powder must be mixed with honey. Another man, holding fruit received at a temple, asks for honey because he wishes to dip the fruit in it and enjoy its taste. To whom will a clear-minded person who possesses honey give it?
+
+Honourable people whose eyes and judgment remain sound irrigate the withering crop, straighten the bent life, and extend a hand to those whose condition has been disrupted.
+
+People who understand human dignity say that the pot of gruel must go to the man belching from hunger, and the medicinal tablet to the man suffering from acid indigestion.
+
+A dark place needs lamplight; those struggling in distressed lives need assistance.
+
+Good rulers must ascertain the people’s conditions, determine the particular deficiencies affecting each group, study which methods will remove them, and take the necessary measures. When inequality among a country’s people is so great that it could disrupt the social structure itself, devising methods to establish a balanced condition is the duty of good government. That is the benefit the people ought to receive from rule.
+
+Justice does not mean protecting the wolf from being killed by the hunter. Justice and fairness mean protecting the sheep from being killed by the wolf.
+
+No one possessing both intelligence and compassion would watch the strong turn the weak into servants and say that it depends upon each person’s ability. If those who speak thus become rulers, the country becomes a jungle.
+
+That our country is marked by enormous social inequality is not debatable; it is a fact known to the world.
+
+Why the inequality arose and who created it are not matters that we must newly teach the people. It is a secret known throughout the country, a disgrace at which the world claps and laughs.
+
+No one can deny that this inequality has filled society with pain, hatred, jealousy, resentment, competition, and conflict.
+
+There is no use concealing that society lies like a rumbling volcano.
+
+Differences between community and community, both in material position and in thought, are great enough to destabilize the social structure. No one will dare deny this.
+
+The claims that it is each person’s karmic fruit, that Brahma wrote it long ago, and that God caused one man to be born into a high caste have become old tales. People have come forward to think and speak about why and how he rose, and how much harm that “elevation” causes.
+
+This awakening produced the consciousness of a right to establish a new justice in society. An intelligent declaration arose: “We too were born to live. We too are citizens of this country. We are inferior to no one, and we must regard no one else as inferior.”
+
+In educational institutions, the sphere of government employment, local councils, and every useful office, one community exercised a monopolistic hereditary right. Why? How did such a condition develop? People had to speak as follows: “There goes teacher Rangaswami Ayyar. Look, advocate Varadachariar! See Dr. Rangachariar’s Rolls-Royce! Collector Kalyanarama Ayyar, auditor Ananthachariar, tahsildar Sundararaja Iyengar!”
+
+The sphere of government employment had become the exclusive hereditary preserve of one community. In every field and every avenue yielding advancement and benefit in life, a single community had accumulated. Yet the community exercising such monopoly was not the majority but a minority: three persons in every hundred.
+
+Clarity was needed merely to understand this condition.
+
+It took a long time to break the superstition that this community was a “higher caste,” a “caste born to rule,” created in that form by God himself.
+
+To destroy this superstition, many people had to accept the insult “atheist” and the accusation of hating religion. They did not hesitate, and victory was not denied them. The people came to recognize the truth that regarding one community as superior by birth, born to rule, sprung from Brahma’s face, and composed of gods upon earth was foolishness, and inducing such belief was cruelty.
+
+Having realized it, they asked with eyes emitting the fire of rights: “Is one small community to enjoy such enormous benefit while a vast community labours, gains no reward, and declines? Is this righteous or proper? Can rulers permit it?” At first only a few asked; later many more; finally the majority of the country began asking.
+
+News used to arrive in this fashion: Alladi Ayyar said there was no doctor as capable as Rangachariar; Ariyakudi Iyengar listened; Kasturi Ayyar wrote of it in his newspaper; Justice Sadasiva Ayyar read the article and went to Venkataramana Ayyar’s house, where he rejoiced to hear Kittappa Ayyar’s musical knowledge compared with that of violinist Krishnayya. How the hearts of informed people must have seethed!
+
+A country becomes prosperous and is protected through the labour, courage, and sacrifice of its people. The people pay the taxes that enable its government to function. What justice is there in the majority of those who provide the labour the country needs and the revenue government requires surrendering every field to a minority and remaining mere labourers?
+
+Are we to fight, labour, and pay taxes, while they live well, exercise authority, and obtain educational facilities? They are very few; we are very many. Are they to dominate and we to become slaves? Why? Does this painful absurdity exist anywhere else? Would any other country leave such a system unbroken?
+
+“Those with eyes, see! Those with ears, listen! Those with mouths, speak! Warriors, awaken! Lovers of freedom, fight for your rights!” This cry came to be heard in every direction.
+
+The dominant groups became afraid. They lamented that the slave had acquired the ability and courage to question the master, that the elephant had felt with its trunk and discovered where the goad was kept. Their old claim, “We were created by God as a superior caste,” had become useless. They began singing a new refrain.
+
+“Who says no? You too may study, pass, obtain degrees, and work as doctors, engineers, advocates, collectors, teachers, and auditors. Who prevents you?” said those who had inscribed their names upon the list of intellectuals.
+
+The majority accepted the challenge. Its attention turned towards education. But educational institutions lay there as the fortress of that small community.
+
+Teachers said: “Your tongue ought to be burned with sacred grass, you dullard,” and, “Why do you need learning and a degree? Perform your father’s work; that is proper.”
+
+Parents spoke in abject tones: “Two letters of schooling are enough to look after the family. Go to some petty shop and earn four or eight annas.”
+
+Struggling in this environment revealed another truth: to obtain a decent position in the country and a rightful share of government employment, communal justice and opportunity must first be secured in education. The Justice Party emphasized this elementary justice and won. Its scheme was the Communal G.O.
+
+It was a plan created for social justice: to prevent communal autocracy, abolish monopolistic hereditary privilege, end minority domination, and give the majority a new life.
+
+Representation by community.
+
+Under this system, admission to colleges and appointments to offices proceeded according to communal representation.
+
+As a result of this method of communal justice, the intellectual eyes of non-Brahmins, the country’s majority, were opened. A consciousness of rights developed; an avenue into government employment appeared; and a measure of advancement became possible.
+
+At least some members of non-Brahmin society gained the position of being called B.A., M.A., magistrate, tahsildar, inspector, registrar, engineer, professor, or officer.
+
+The foundations were repaired so that a grove might be created in a society turned into a desert. Fear that the social structure would collapse diminished. The terror and affliction that had tormented the majority were reduced to some extent. Members of the majority could walk with heads held high, acquire self-respect, and move with rights.
+
+From the majority community that had lain like a desert arose intellectuals whose achievements amazed observers. Victory came in every field. The world learned that the majority had remained degraded because it had been denied opportunity, not because it utterly lacked intellectual capacity and ability.
+
+Those engaged in the rights movement rejoiced. Like a gem cleansed of stain, the majority community began to shine. It could beat its chest and declare that merit, intelligence, and ability were not hereditary property belonging to one community alone.
+
+Exclusive hereditary privilege began to disappear. The condition described by “The whole world is Brahmin-dominated” changed. It became possible to say that tahsildar Theerthagiri Mudaliar welcomed Collector Kalyanarama Ayyar, Dr. Annamalai Pillai operated upon advocate Varadachariar, and auditor Sundararama Ayyar praised teacher Arumainayagam.
+
+The dominant groups could not tolerate this.
+
+From the beginning of the communal system until the day they destroyed it, they fought against it by many means.
+
+The communalists have won. To exercise communal autocracy, they used “merit” as their weapon of cunning.
+
+The communal system preserved the social structure, partly ended communal autocracy, and provided communal justice. It helped the majority, who paid most of the taxes and shed blood to defend the country, obtain some educational opportunity and the right to public employment. For it were employed Thyagaraya’s sacrifice, Nair’s subtle intelligence, Panagal’s administrative capacity, Natesan’s intellectual power, and Muthiah’s order. Countless young lions worked for it.
+
+That system helped place Kamaraj in Congress, Kumarasami Raja in the ministry, Lakshmanaswami in medicine, Ethiraj in the legal profession, Rajamannar in the High Court, Patro in the Police Department, Shanmukham among financial experts, and Arcot Ramasamy Mudaliar in the international assembly of scholars. That communal system has now become unlawful.
+
+Our provincial ministers repeatedly declared with courage that the communal system could not be altered, because altering it would foster social injustice and communal autocracy, and that they would never abandon it regardless of opposition. It has now been adjudged invalid.
+
+Certain self-interested conspirators vowed to abolish the communal system and worked towards that end. They have won.
+
+For thirty years, enlightened people throughout the country spoke repeatedly and gathered support. That communal system has now been made unlawful.
+
+The ministers made their intelligence a fortress for it. Nevertheless, using the law, the champions of communal autocracy have broken the system.
+
+Ministers, what will you do? Will you fight to protect social justice, or wander in search of alleys and loopholes? Comrades who speak of equal rights, the conditions now exist for minority autocracy to rear its head and dance again. What will you do?
+
+Noble Omandurar! Roaring Kamaraj! Gopalar, who spoke with the beat of drums! Bhaktavatsalam, who speaks without kindling enmity! Courageous Kumarasami! Honest men! Leaders of the country! Attend to the situation. What is the programme for the future?
+
+The Communal G.O. is unlawful. That is the judgment.
+
+What will you do?
+
+A judgment delivered according to law must be accepted; it is improper to blame it.
+
+Yes, the law is correct. But under this new condition, what is to become of society?
+
+“Everything will once again become Brahmin-dominated.” That is the result. Is it right? Will you permit it? If you possess neither knowledge nor ability, neither compassion nor righteousness, neither courage nor character, at least declare that openly.
+
+Let the rulers tell us: “Non-Brahmins, you can no longer obtain ‘places’ in schools as you once did. You will find no place in government employment. Therefore secure places in such ‘fields’ as cutting timber, breaking stones, sweeping refuse, grazing cattle, driving carts, carrying bundles, and pulling oil presses. You cannot obtain ‘places’ in other fields, and we too are incapable of changing the condition.”
+
+Let them at least say this. We shall shed tears upon Thyagaraya’s grave and set out for the battlefield of rights, to regain through righteous struggle the rights we have lost.
+
+The rulers’ plan must appear quickly. Great people of the country, state your opinion clearly. Calamity has struck! Social justice has perished! Henceforth everything will be Brahmin-dominated.
+
+Yes! Yes! What is the way to change this painful condition? Leaders, assemble, deliberate, and frame an effective plan. The youth of the country stand ready to participate and sacrifice in a righteous struggle that establishes justice. Show the way, quickly.
+
+(Published in Dravida Nadu, 30 July 1950)
+
+## Translator's Notes
+
+The canonical article is complete on Images 1–24 and ends with the printed citation “30.7.50 திராவிட நாடு இதழில் வெளி வந்தது.” Image 25 belongs to a different article ending “3.12.50” and is excluded.
+
+“கம்யூனல் ஜி.ஒ.” is retained as “Communal G.O.” because it names the Madras Presidency’s historical communal-representation order. “வகுப்பு நீதி” and “வகுப்புவாரி பிரதிநிதித்துவம்” are rendered as “communal justice” and “representation by community” in their period political sense, not in the modern colloquial sense of communal hostility.
+
+“ஏகலைவன்” invokes Ekalavya’s severed thumb as an image of opportunity deliberately denied. “சேரன் செங்குட்டுவன்” represents the resurgence of Tamil resistance, including from within khadi-clad Congress circles.
