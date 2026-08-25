@@ -1340,7 +1340,7 @@ Total source works: 1388
 - [katturaigal/vetkama](vetkama.md) - translated
 - [katturaigal/vetkapada_vaendum](vetkapada_vaendum.md) - translated
 - [வெட்கப்படாமல் வேறென்ன செய்வது?](vetkapadamal_vaerenna.md) - pending
-- [katturaigal/vetkapadugirom](vetkapadugirom.md) - pending
+- [katturaigal/vetkapadugirom](vetkapadugirom.md) - translated
 - [வெட்கப்படுகின்றோம்](vetkappaduhindrom.md) - pending
 - [வெற்றிச்சிந்து](vetri_chithu.md) - pending
 - [வெற்றி விழா!](vetri_vizha.md) - pending
