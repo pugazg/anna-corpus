@@ -14,8 +14,8 @@
 | paettigal | 26 | 26 | 26 | 0 |
 | root | 5 | 5 | 5 | 0 |
 | sirukathaigal | 109 | 108 | 108 | 1 |
-| sorpozhivugal | 537 | 175 | 175 | 362 |
-| **All included sections** | **2511** | **954** | **954** | **1557** |
+| sorpozhivugal | 537 | 176 | 176 | 361 |
+| **All included sections** | **2511** | **955** | **955** | **1556** |
 
 ## OCR-Origin Translation Progress
 
@@ -24,8 +24,8 @@
 | katturaigal | 552 | 529 | 529 | 23 |
 | nadagangal | 61 | 24 | 24 | 37 |
 | sirukathaigal | 108 | 108 | 108 | 0 |
-| sorpozhivugal | 241 | 175 | 175 | 66 |
-| **All OCR-origin sections** | **962** | **836** | **836** | **126** |
+| sorpozhivugal | 241 | 176 | 176 | 65 |
+| **All OCR-origin sections** | **962** | **837** | **837** | **125** |
 
 ## OCR Source Recovery Status
 
@@ -131,6 +131,7 @@ A blank image section has an explicit no-text marker or no OCR body after its im
 - `sorpozhivugal/amaichar160361.md`: Recover damaged Salem court-case lines, election-fund transitions, corporate-contributor discussion, and the end of the proposal that Ministers resign before elections
 - `sorpozhivugal/maedai_paechu.md`: Verify the exact Kalamegam comic-horse measure in Image 5 and the printed year in the heading
 - `sorpozhivugal/nadagathil_oru.md`: Opening survey of the T. K. S. troupe's historical and literary plays is cut off between Images 1 and 2; recover the missing page or passage
+- `sorpozhivugal/nila_ucha290861.md`: The 15-page 29 August 1961 land-ceiling bill speech has extensive dropped Tamil and mixed-script corruption. The English select-committee statement on Image 2, Article 26 quotation and Uttar Pradesh judgment on Images 7-8, exemption discussion on Images 4-6, and multiple page joins cannot be translated faithfully from the current OCR. Re-OCR all scans with Tamil and English models and reconcile the constitutional clauses and case citation before translation.
 - `sorpozhivugal/nithi080358.md`: The canonical two-part 8 March 1958 budget debate includes all 39 scans, but at least 12 pages contain dense numeral/glyph substitution and dropped lines, especially Part 1 Images 3, 10 and 13 and Part 2 Images 3, 6-10, 13-14 and 16-17. Re-OCR all scans with Tamil and English models and reconcile the Nehru quotation, financial figures, speaker exchanges and damaged closing argument page by page before translation.
 - `sorpozhivugal/nithi300460.md`: Recover the English title of the Salem-iron reference book on Image 2 and damaged passages at the ends of Images 4 and 6
 - `sorpozhivugal/nithi_othukka260757.md`: Verify damaged header date and bill year, and recover the illegible embedded English phrase in Rajagopalachari's quoted comparison on Image 5

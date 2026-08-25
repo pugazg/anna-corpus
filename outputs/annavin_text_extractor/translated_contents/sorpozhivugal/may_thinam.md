@@ -1,4 +1,10 @@
-# sorpozhivugal/may_thinam
+# மே தினம் / May Day
+
+**Tamil title:** மே தினம்
+**English title:** May Day
+**Source file:** `sorpozhivugal/may_thinam.md`
+
+## Source Tamil (verbatim)
 
 - Source image folder: `/Users/pugazhendhirajendran/Documents/Codex/2026-07-09/https-www-annavinpadaippugal-info/outputs/annavin_text_extractor/ocr_images/sorpozhivugal/may_thinam`
 - OCR language: `tam`
@@ -664,3 +670,173 @@
 ஆட்டத்துக்கு அல்ல; வட. நாட்டு முதலாளித்துவத்துக்கு அல்ல;
 உழைக்கும் உத்தமர்களாகிய திராவிடர்க்கே என்று கூறுகிறோம்.
 மே.தினத்தன்று. பாட்டாளிகளுக்கு. நாம் கூறும் செய்தி இதுதான்.
+
+## English Translation
+
+This is a speech delivered by Scholar Anna at the May Day celebration of the Ponmalai Dravidian Youth Association on 1 May 1946.
+
+Among people accustomed for generations to holding a festival every month—the Garuda service in Vaikasi, the sacred bathing ceremony in Aani, the Pooram festival in Aadi, Avittam in Aavani, the Saturday festival in Purattasi, Deepavali in Aippasi, the festival of lamps in Karthigai, Thiruvathirai in Margazhi, Poosam in Thai, Magam in Maasi, Uthiram in Panguni, and the full moon in Chithirai—we have now set out to celebrate May Day. If we tell them that the May festival is a festival that gives life to the people of the earth, they will not readily believe us; they will be astonished. Only the section of our people that has learned to think understands the importance of May Day. The rest still participate, family by family, in the various festivals I have just named.
+
+I am pleased that the Ponmalai Dravidian Youth Association has come forward to celebrate May Day. Our friends are observing it in several other towns as well. I trust the Dravidar Kazhagam will issue an official announcement and arrange to celebrate May Day throughout Tamil Nadu next year.
+
+The moment May Day is mentioned, the government grows suspicious. When the public gathers for any cause or festival, today's rulers become suspicious and troubled. I am not surprised by this tendency; such is the government's nature. Yet even some friends within our party entertain a doubt. Why should we observe May Day? Is it not a festival for Communists? What concern is it of ours? This is a mistaken view.
+
+May Day is not the Communist Party's exclusive hereditary property. Nor did it arise after the Communist Party came to power. The May festival was not first observed in Russia. May Day is celebrated everywhere on earth. At this very hour, it is being celebrated with great splendour in many cities of the world. Stalin may be speaking in Moscow; leaders in every such capital will be observing May Day. Festivals called Revolution Day and Red Army Day are celebrated magnificently in Russia, but they belong only there. Other countries regard them as festivals peculiar to Soviet Russia. May Day, however, has become so renowned that people everywhere on earth claim the day as their own festival. It is therefore wrong to regard May Day as a Communist festival and suppose that the Dravidar Kazhagam need not celebrate it.
+
+May Day is the festival of the working people's liberation. No country forms its boundary. Workers celebrate it for life, liberation, and rights. May Day sets forth the plan of eight hours of work each day, eight hours of joyful life with one's family, and eight hours of rest. This plan is necessary if the worker is to acquire a new life. Labouring until exhausted and broken, working without respite, and never tasting life's pleasures are now the worker's fate. The worker thereby becomes the embodiment of sorrow, is enslaved, and regards life as a great burden.
+
+Those who wished to change this condition championed the eight-hour working day. To press that demand, they arranged an annual celebration on the first day of May. Soviet Russia did not exist when this festival began; Tsarist Russia did. Nor was Russia the place where the celebration first took place with splendour: it was America.
+
+Every party committed to labouring for the workers' liberation may therefore observe May Day. For the Dravidar Kazhagam it is not merely a duty but a right, because the Kazhagam has made service for a new life for the poor and humble its programme. It has explained that the Dravidian people are themselves a working people. Dravidian culture emphasizes living by one's labour. Sitting beside a sacrificial fire, deceiving the town by displaying sacrificial smoke, issuing passes to the world of salvation, making a living by chanting the Vedas, and surviving through divination are wholly contrary to Dravidian culture. These are marks of Aryan culture.
+
+Dravidian culture gives dignity to agriculture and labour.
+
+Aryan custom declares that neither is suitable work for the upper classes.
+
+The Dravidian's eyes turn toward the point of the plough, the depths of the sea, paths through the forest, and the condition of the country. The eyes of Aryans who claim the “eye of wisdom” turn instead toward Sathyaloka, Atala, Sutala, Taratala, and the nether worlds.
+
+Thus, whether judged by cultural practice, by the way of life shown in our history, or by our present condition, we are workers. We therefore possess a greater right than others to celebrate this May Day dedicated to the workers' liberation. Moreover, many leaders of parties that celebrate May Day as Moscow Day or Red Army Day have never crossed Kasi. Periyar, leader of our Dravidar Kazhagam, walked the streets of Moscow and saw Soviet grandeur directly. Because he was a socialist, he suffered government harassment. We have furnished security for our newspapers and had our books confiscated. For these reasons, we of the Self-Respect Movement were thinking about May Day in years when no other party did.
+
+The first party to celebrate May Day in Tamil Nadu was the Self-Respect Party.
+
+That is why I say we should celebrate May Day with rightful pride and delight. We need not imagine it is somehow the Communist Party's “copyright.”
+
+In 1889, the International Socialist Congress met in Paris and resolved that the first day of May should be observed as the liberation day of the world's working people. Since then, May Day has been celebrated in every country as a festival of workers' liberation.
+
+Even under the Tsar's cruel rule, May Day continued to be observed as a great festival in Russia. Despite terrifying repression, people never failed to mark it with processions, leaflets, and public meetings. This was an age when not only police batons but soldiers' bullets struck those celebrating.
+
+The great hero Lenin transformed May Day into the workers' liberation festival. He made it a day that sang the martial glory of their struggle to remove their grievances and win their rights. Through that revolutionary's efforts, May Day celebrations in Russia became training grounds for the great revolution that would abolish Tsarist rule.
+
+Russian workers made the May festival a camp school where they could acquire hearts unafraid of cruelty, courage that would not submit before savage repression, and a bearing that would not bend before tormenting autocracy.
+
+On May Day in 1912, four hundred thousand workers went on strike.
+
+Four hundred thousand! Consider what an immense multitude that is, and you will understand that May Day's greatness. Picture four hundred thousand workers assembled for their lives, liberation, and rights. The Tsar and his military might were indeed powerful. But what could the Tsar's state and armed forces do before four hundred thousand labourers standing resolutely and waging a struggle for rights?
+
+The 1912 May Day celebration helped workers recognize their power—their collective strength—and gain conviction through that recognition.
+
+Two years later, on May Day in 1914, five hundred thousand workers marched.
+
+After Tsarist rule was abolished and workers sounded the drum of victory, May Day was celebrated freely and magnificently in 1917. Although it is now observed every year throughout the world, the joyful manner in which Russia celebrates it has a distinction of its own. People in many fields of work display their abilities to demonstrate the Soviet system to the world. Scenes revealing Soviet Russia's power and prosperity appear that day. The army parades; aircraft circle overhead; college students march in delight. What joyous spectacle! One might say Russia has no festival equal to May Day, so full is it of happiness. The speeches of Soviet leaders explain the Soviet Union's distinction to the world.
+
+This year too the festival was celebrated splendidly as usual. Marshal Budyonny delivered the address.
+
+Does not the thought now spread everywhere that America, threatening the world with the atom bomb and the money bomb and preparing a new imperialism, may begin another war? Is it not openly evident that America's gaze falls particularly upon Soviet Russia? That is why the Soviet leaders who spoke at this year's May festival condemned the tendency to create another war. They also made the parade of new tank formations one of the celebration's special events, demonstrating that if war nevertheless became unavoidable, the Soviet Union would meet it.
+
+An immense gathering assembled in Moscow. Marshal Budyonny came to the festival mounted on horseback.
+
+“Russia struggles for a peace capable of lasting. It wishes to cooperate with other nations. It demands equal rights. All Soviet people wholeheartedly support the Soviet government's foreign policy,” he proclaimed.
+
+That is to say, they used this year's May Day to explain the Soviet Union's place in the present world situation and the kind of course required.
+
+In the same way, during the war against the Nazis, May Day was used to declare the Soviet determination that Nazism must be destroyed.
+
+“Hunger! Starvation! Not enough food! Political disorder must end and republican government must prevail!” With these slogans, fifty thousand workers celebrated May Day in Hamburg.
+
+In Spain, May Day became the cry for abolishing Franco's regime.
+
+In Paris on May Day, they proclaimed that wages must rise, prices must not oppress the people, and the turmoil in Indochina must end.
+
+Thus every year May Day is used to discuss each country's particular problems and generally to insist upon popular liberation and the well-being of workers. It is an opportunity for people to gather and consider the forms of servitude imposed upon them, the methods by which those bonds may be broken, and the path by which the people may obtain a full life; it is an opportunity to gain resolve and raise the cry of rights. We of the Dravidar Kazhagam are therefore obliged on May Day to consider Dravida Nadu's distinctive problems: what forms the chains enslaving Dravidians take and what methods must be used to remove them.
+
+When other parties celebrate May Day, they generally emphasize economic causes alone. They regard a defect in the economic machinery as the cause of people's poverty and suffering. A defect in that machinery certainly is a cause of their suffering. The machine must be broken and a new one that does not reduce human life to an animal condition must be built. The Dravidar Kazhagam has never denied this.
+
+But why was such machinery of exploitation created? How, and by whom? Why did the people permit it? Why do they still endure it? By saying what are the exploiters able to keep suffering people deluded and suppressed? The Dravidar Kazhagam brings questions of this kind before the people's forum. Other parties do not present them, whether from fear, indifference, lack of time, or some other cause. We believe that unless people think about these matters and an intellectual revolution results from that thought, an economic revolution alone cannot yield a new life. This is our deep conviction. That is why our propaganda makes the reason for human enslavement, and the means by which that enslavement must be removed, a central concern.
+
+Recognizing the necessity of removing the chains within the mind, we perform work like that done in Europe by great thinkers such as Voltaire and Rousseau for an intellectual revolution.
+
+If we reflect generally, the need for this work becomes clear. Are the world's hardships—poverty, disease, the cruelty of unemployment, the worker's suffering, and so forth—caused by a lack of resources sufficient for everyone to live happily? The answer is no. Researchers have used statistics to show that if everyone worked an average of two hours a day, the wealth supplied by nature would permit everyone to eat fully and live. Nature possesses such abundance, and workers possess the power to turn it into useful goods for the people. Yet so much misery has had to be endured—not only here but everywhere, not only today but for ages.
+
+Was this true only in the age of ordinary people like us? It was so in the ages of the greatest warriors and emperors; in the days of masters of yoga and sacrifice, crowned authorities on Veda and Vedanta, Alvars and Nayanmars, possessors of the eight supernatural powers, those who summoned Hari and Hara, and people called knowers of the self. Even then this problem existed. A vast multitude suffered in the grip of want and insufficiency while a small group remained submerged in wealth and pleasure.
+
+For a long time people endured this. Believing themselves powerless, they stood bewildered. They waited anxiously for someone to propose a means of change. They struggled to escape hardship by whatever shortcut they could find. They cut one another down and did all manner of things to solve the problem. No conclusion has yet been reached.
+
+Why has humanity not solved it? Can we say humanity lacks intelligence? Humanity has even learned to fly and has enclosed the whole earth within a pocket-sized radio. Yet human intelligence has still not enabled everyone to live without hunger, starvation, and famine. The cause is not a famine of intelligence. Fear implanted within humanity ruins the wellspring of its intelligence; that is why the human mind remains tossed about.
+
+When people suffered, religious advocates prevented their eyes and thought from running toward the true causes of their hardship. They redirected them toward Kailasa, Vaikuntha, Kakutstha, Kali, prayer beads, the *udukku* drum, and many other objects and practices. Humanity became like a vessel that had lost its bearings and consequently failed in its attempts to change its condition.
+
+I shall give an example. Suppose a labour union is fighting for higher wages or a bonus, and the agitation grows strong. Hearing Friend Jeevanandam's heroic cry, the worker becomes excited. The meeting ends and he returns home. What situation awaits him there?
+
+Wife: “There isn't even work today. Where have you been wandering? It is already ten o'clock!”
+
+Worker: “Foolish woman! There was a meeting today.”
+
+Wife: “There is one every day. What did they say?”
+
+Worker: “Well, Ponniamma, by Ponniamma's grace that employer's mind must change and he must show mercy to the poor.”
+
+That will be the conversation.
+
+Marx's philosophy, Lenin's slogan, and the October Revolution are all on the platform. At home they speak of Ponniamma's merit and the employer's heart softening. This is not merely the worker's wife's frame of mind. The worker himself becomes more absorbed in the *Vinayagar Agaval*, divining by the lamp, worship at the Saturn temple, and the astrologer's words than in Jeeva's voice, Joshi's report, or Communist agitation.
+
+This outlook has fostered the habit of endurance and the weary thought, “What can we accomplish?” On May Day, we of the Dravidar Kazhagam emphasize a vital part of the workers' problem that others fail to notice: the work of changing this outlook.
+
+Anyone who explains the doctrine of the bourgeoisie, or capitalism, will say that it is a system of exploitation and a way of living upon another's labour. What we call Aryanism is this same condition: an exploitative system not in the name of industry but in the name of religion, caste, and antiquity.
+
+When the proletarian, the worker, is mentioned, the image before us is that of a poor man worn and broken by labour, distressed to see others seize his work, unable to change it, and sitting bewildered with his head in his hands. The Dravidian presents that very image. Considering the condition of our country, we therefore say “Aryan” in place of “bourgeois” and “Dravidian” in place of “proletarian.” What we call the Aryan–Dravidian struggle here is class struggle.
+
+Those who resent us in the belief that we waste time upon the fictions “Dravidian” and “Aryan” and spread deadly poison must consider this calmly. The culture called Aryanism gives no respect to labour. It is a system for seizing goods from labourers by tempting or frightening them and then living in comfort. It enables a small group to live upon the labour of the majority. In different ages and countries this exploiting group has appeared under different names: in ancient Greece it was called the master; in Rome, the patrician; in Britain, the lords; in France, the wealthy; in Japan, the samurai. We point to this same system here as Aryanism. No one need suppose we are engaged in idle work or spreading poison.
+
+The Dravidian has been worn down and sits bewildered with his head in his hands. Three forces seize his labour from three directions. The Englishman became the ruler and carried away wealth. The Aryan became lord of the temple and took away its riches. The northerner became lord of commerce and continues to carry the goods away. What fate can befall the Dravidian who permitted all this? He grieves and stands bewildered.
+
+The object of the Dravidar Kazhagam is to bring a new life to this great Dravidian people. How is it to be done? Ask the Aryan, “You are carrying away the bundle while I languish here,” and what answer will come?
+
+“Are you the only one, Muthu? Has this not been the practice since your great-grandfather's time? Is this not custom, fate, scripture, Veda, and divine command? Are you not obedient to God, a great devotee? Can you violate this divine command?” That is how he will speak.
+
+What can the bewildered Dravidian say? Let a Congressman, Communist, or anyone else speak on his behalf. There is no language available except that of Self-Respect:
+
+“You are a great fraud. You do not labour and your body does not wither. You refuse to touch the plough. In the factory you will be an officer but never a worker. You say God did not create you to labour but created you as a high caste. You entice me by speaking of salvation and frighten me by speaking of hell. I was a fool and suffered until now without recognizing the trickster's words. Here I awaken. I shall no longer permit this exploitation.” Is this not how he must speak?
+
+The Dravidar Kazhagam produces this outlook among workers. It turns eyes that looked toward Kailasa toward Karl Marx. Likewise, what will the Englishman answer when questioned? What did he say? He said there was no unity among us. The Dravidar Kazhagam asks the people why there is none and explains the path to unity.
+
+Question the northerner and he speaks of “nationalism,” coats himself in the fiction that India is one, and casts a spell. The Dravidar Kazhagam tells him: “We no longer need this disguise. Dravida Nadu is for Dravidians. We shall no longer permit your exploitative work here.” Thus all of this has meaning and necessity. Because others have neglected these matters, our responsibility to explain them has become greater.
+
+I therefore wish May Day to become an official festival of the Dravidar Kazhagam from next year. We must remove the desire and fear implanted in the afflicted Dravidian in the name of religion. That is why we demonstrate how ridiculous the religion in which the Dravidian believes has become. We satirize it, but we speak from the side of justice.
+
+Christians speak of Jesus being crucified and shedding blood for us. Compare the feeling this can awaken in their minds with what arises in Dravidian minds when they are told, “Our god Gopala Krishna stole the garments of the cowherd women while they played in the water—and played his flute.” We thereby show how religion here has been made a farce.
+
+All this is for the workers' redemption, not to establish a competing religion. When we conduct May Day, more than when others do, we can and must explain that old social bonds constructed the exploiting economic machine.
+
+Congress will not do this; its programme is to breathe new life into the glory of antiquity.
+
+Communists will not do it; they believe propaganda that might alarm the people is not proper.
+
+We must do it, and we have been doing it. The need is greater today than before, because the political situation is now changing fundamentally.
+
+British imperialism says it will leave the country and has even fixed the date.
+
+“Nationalism” shines in its full splendour. Asaf Ali is in America, Krishna Menon in Belgium, Devadas in Britain: envoys travel in every direction. Having conducted government with the strength of the press, nationalism has now acquired official power as well. It has ascended the seat of government with the appearance and vigour of victory. Its strength is great enough for victory to become intoxication. It therefore tramples others' agitations beneath its feet without the slightest concern, says that trampling was right, and makes the people say so too.
+
+National government everywhere; workers' agitation everywhere. And the fate of those who agitate? Vellore prison. Life underground. Prohibitory orders. A regime of enforced silence.
+
+The national rulers are reportedly saying, “The Communist matter has been settled one way or another. Now we need only attend to the Blackshirts.” Are they speaking? Fascism is speaking. Authority is speaking. Arrogance is speaking. I say it is the force of destruction that makes arrogance speak.
+
+Let them attend to us freely. On this May Day, the festival of workers' liberation, I say on behalf of my party: let the government give us its full attention. Let it also draw up plans to build new prisons. Poor people, they too must have aspirations. Even if they cannot build dams, universities, factories, new roads, and fine bridges, let them at least satisfy their desire by building new prisons in which to confine us. The Dravidar Kazhagam is ready.
+
+It is better to throw us into prison than to surround us with the barbed wire called Section 144 and make us move within it. Before doing so, however, they should consider whether history contains any great power that suppressed an agitation by imprisoning its participants. Fascism's first blow will indeed be terrifying, but its fall will come at an unexpected moment. It will collapse suddenly.
+
+“See how it fell with a crash—
+
+the rule of the Tsar!”
+
+So said the poet. We have read it, and those who possess the authority to rule us have read it too.
+
+Because they possess both propaganda power and official power, whenever a strike occurs the rulers become the employers' favoured children and suppress the workers. Batons, tear gas, gunfire—everything is used against labour. The Communists were caught wholesale; Congress Narayanasamy met the same fate. Muthusamy Vallatharasu sounds the nationalist drum, and he too receives the affectionate invitation, “Come to prison.” Why? Because they spoke somewhat loudly for agricultural workers' rights.
+
+Nationalism asks them: “If you possess a loud voice, should you not travel everywhere condemning the black-and-red shirts? Why speak in support of the agricultural worker?” We do not know what they thought while in prison. One thing, however, is clear: democratic feeling cannot be abolished through repression. For that democratic feeling to arise and grow strong, the heart requires courage and the capacity for honesty. There must be a desire to break away from antiquity's grip.
+
+That is why we say an intellectual revolution must occur. May Day's message is the message of the workers' liberation. That liberation does not belong to the economic sphere alone; liberation is needed in the intellectual sphere as well. It is unnecessary to argue that one must be abandoned or belittled for the other. Both are needed. The Dravidar Kazhagam possesses both aims.
+
+On this May Day, celebrated throughout the world as the workers' liberation day, we say, “Dravida Nadu is for Dravidians.” This resembles the slogan, “The world is for the workers.” Only the watchword differs; the objective is one.
+
+The world belongs to workers, not idlers; not those who fatten themselves by consuming another's labour; not those who live by exploitation; not capitalism. Yes, it is in that same sense that we say Dravida Nadu belongs to Dravidians, not Aryans; not the play of religious brokers who came here as dependants and made us kneel; not northern capitalism; but the noble Dravidians who labour.
+
+This is the message we give workers on May Day.
+
+## Translator's Notes
+
+The editorial footnote says the Dravidar Kazhagam was the first to take up May Day and that Anna later published this rare speech in a special *Dravida Nadu* issue and as a book. `மிராசுப் பாத்யதை` is a period legal idiom for exclusive hereditary entitlement. `பரணி பாடும் நாள்` invokes the Tamil martial genre celebrating victory and is rendered contextually rather than flattened into ordinary praise.
+
+The scan prints `பணக்குண்டு`, literally “money bomb,” as Anna's parallel to the atom bomb in his critique of American power. `அறிவுத்துறைப் புரட்சி` is consistently rendered as “intellectual revolution,” meaning liberation of thought from implanted religious fear. `பூர்ஷுவா / புரோலோடேரியன்` are retained through their standard English political equivalents “bourgeois / proletarian,” while Anna's explicit Aryan–Dravidian analogy is preserved as his argument.
+
+`சுயமரியாதை பாஷை` is translated as “the language of Self-Respect”: Anna means the only political vocabulary capable, in his argument, of directly challenging religiously sanctioned exploitation. `கப்சிப் தர்பார்` denotes rule that enforces silence and is rendered contextually. The scan clearly prints `144`, referring to the prohibitory-order provision then commonly invoked against public assembly. The closing contrast between `உழைப்பாளிகள்` and `உலுத்தர்கள்` is preserved as workers versus idlers.

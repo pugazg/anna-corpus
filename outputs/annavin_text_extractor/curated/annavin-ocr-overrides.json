@@ -71,6 +71,91 @@
         }
       ],
       "tokenCorrections": []
+    },
+    "sorpozhivugal/may_thinam.md": {
+      "phraseCorrections": [
+        {
+          "wrong": "மமே தினம்",
+          "right": "மே தினம்",
+          "reason": "scan 1 clearly prints the title மே தினம்"
+        },
+        {
+          "wrong": "“ஞானக்கண்”“ணினரான",
+          "right": "“ஞானக்கண்ணினரான",
+          "reason": "scan 3 prints the word continuously"
+        },
+        {
+          "wrong": "சத்பலோகம், அதல, சுதல",
+          "right": "சத்தியலோகம், அதல, சுதல",
+          "reason": "scan 3 clearly prints சத்தியலோகம்"
+        },
+        {
+          "wrong": "புரட்சிக்கு பயிற்திகளாக",
+          "right": "புரட்சிக்கு பயிற்சிகளாக",
+          "reason": "scan 4 clearly prints பயிற்சிகளாக"
+        },
+        {
+          "wrong": "மே விழாவைப் பாசறைப் பள்ளியாஈக்கிக் கொண்டனர்",
+          "right": "மே விழாவைப் பாசறைப் பள்ளியாக்கிக் கொண்டனர்",
+          "reason": "scan 4 clearly prints பள்ளியாக்கிக்"
+        },
+        {
+          "wrong": "கூட்டுச் சத்தியை",
+          "right": "கூட்டுச் சக்தியை",
+          "reason": "scan 5 clearly prints கூட்டுச் சக்தியை"
+        },
+        {
+          "wrong": "“திலையாக நிற்கக்கூடிய சமாதானத்துக்காக",
+          "right": "“நிலையாக நிற்கக்கூடிய சமாதானத்துக்காக",
+          "reason": "scan 6 clearly prints நிலையாக"
+        },
+        {
+          "wrong": "சமய உரிமை கோருகிறது",
+          "right": "சம உரிமை கோருகிறது",
+          "reason": "scan 6 clearly prints சம உரிமை"
+        },
+        {
+          "wrong": "ஹாம்பாக்\n(118000௦010) நகரிலே",
+          "right": "ஹாம்பர்க் (Hamburg) நகரிலே",
+          "reason": "scan 6 prints ஹாம்பர்க் (Hamburg)"
+        },
+        {
+          "wrong": "விநாயகரகவலிலே",
+          "right": "விநாயகர் அகவலிலே",
+          "reason": "scan 10 prints the title விநாயகரகவல்; spacing restored for readability"
+        },
+        {
+          "wrong": "ஆதிநாட்களில் கரீசல், மாஸ்டர்",
+          "right": "ஆதிநாட்களில் கிரீசில், மாஸ்டர்",
+          "reason": "scan 10-11 join clearly reads கிரீசில்"
+        },
+        {
+          "wrong": "சுயமரியாதை பரஷை",
+          "right": "சுயமரியாதை பாஷை",
+          "reason": "scan 11 clearly prints பாஷை"
+        },
+        {
+          "wrong": "சர்க்கார் தாராளமாகக் தவனிக்கட்டும்",
+          "right": "சர்க்கார் தாராளமாகக் கவனிக்கட்டும்",
+          "reason": "scan 13 clearly prints கவனிக்கட்டும்"
+        },
+        {
+          "wrong": "744 என்ற முள்வேலி",
+          "right": "144 என்ற முள்வேலி",
+          "reason": "scan 14 clearly prints 144"
+        },
+        {
+          "wrong": "திராவிட நாடு திாராவிடருக்கே",
+          "right": "திராவிட நாடு திராவிடருக்கே",
+          "reason": "scan 15 clearly prints திராவிடருக்கே"
+        },
+        {
+          "wrong": "உலுத்தர்களுக்கு...௮ல்ல!",
+          "right": "உலுத்தர்களுக்கு அல்ல!",
+          "reason": "scan 15 clearly prints உலுத்தர்களுக்கு அல்ல"
+        }
+      ],
+      "tokenCorrections": []
     }
   }
 }

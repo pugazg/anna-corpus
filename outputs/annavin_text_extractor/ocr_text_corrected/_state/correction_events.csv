@@ -1,4 +1,18 @@
 file,type,wrong,right,count,reason
-sorpozhivugal/thee_paravattum_2_1.md,phrase,த பரவட்டும்/-1],தீ பரவட்டும்! - II,1,scan 1 clearly prints the title தீ பரவட்டும்! - II
-sorpozhivugal/thee_paravattum_2_1.md,phrase,14-3-43 மாலை ௨௦0 மாணிக்குச்,14-3-43 மாலை 6-00 மணிக்குச்,1,scan 1 clearly prints the date and time as 14-3-43 மாலை 6-00 மணிக்குச்
-sorpozhivugal/thee_paravattum_2_1.md,phrase,3. உயார்திரு அண்ணாதுரை அவர்கள் பேச்சு,5. உயர்திரு அண்ணாதுரை அவர்கள் பேச்சு,1,scan 2 clearly prints section number 5 and உயர்திரு
+sorpozhivugal/may_thinam.md,phrase,மமே தினம்,மே தினம்,1,scan 1 clearly prints the title மே தினம்
+sorpozhivugal/may_thinam.md,phrase,“ஞானக்கண்”“ணினரான,“ஞானக்கண்ணினரான,1,scan 3 prints the word continuously
+sorpozhivugal/may_thinam.md,phrase,"சத்பலோகம், அதல, சுதல","சத்தியலோகம், அதல, சுதல",1,scan 3 clearly prints சத்தியலோகம்
+sorpozhivugal/may_thinam.md,phrase,புரட்சிக்கு பயிற்திகளாக,புரட்சிக்கு பயிற்சிகளாக,1,scan 4 clearly prints பயிற்சிகளாக
+sorpozhivugal/may_thinam.md,phrase,மே விழாவைப் பாசறைப் பள்ளியாஈக்கிக் கொண்டனர்,மே விழாவைப் பாசறைப் பள்ளியாக்கிக் கொண்டனர்,1,scan 4 clearly prints பள்ளியாக்கிக்
+sorpozhivugal/may_thinam.md,phrase,கூட்டுச் சத்தியை,கூட்டுச் சக்தியை,1,scan 5 clearly prints கூட்டுச் சக்தியை
+sorpozhivugal/may_thinam.md,phrase,“திலையாக நிற்கக்கூடிய சமாதானத்துக்காக,“நிலையாக நிற்கக்கூடிய சமாதானத்துக்காக,1,scan 6 clearly prints நிலையாக
+sorpozhivugal/may_thinam.md,phrase,சமய உரிமை கோருகிறது,சம உரிமை கோருகிறது,1,scan 6 clearly prints சம உரிமை
+sorpozhivugal/may_thinam.md,phrase,"ஹாம்பாக்
+(118000௦010) நகரிலே",ஹாம்பர்க் (Hamburg) நகரிலே,1,scan 6 prints ஹாம்பர்க் (Hamburg)
+sorpozhivugal/may_thinam.md,phrase,விநாயகரகவலிலே,விநாயகர் அகவலிலே,1,scan 10 prints the title விநாயகரகவல்; spacing restored for readability
+sorpozhivugal/may_thinam.md,phrase,"ஆதிநாட்களில் கரீசல், மாஸ்டர்","ஆதிநாட்களில் கிரீசில், மாஸ்டர்",1,scan 10-11 join clearly reads கிரீசில்
+sorpozhivugal/may_thinam.md,phrase,சுயமரியாதை பரஷை,சுயமரியாதை பாஷை,1,scan 11 clearly prints பாஷை
+sorpozhivugal/may_thinam.md,phrase,சர்க்கார் தாராளமாகக் தவனிக்கட்டும்,சர்க்கார் தாராளமாகக் கவனிக்கட்டும்,1,scan 13 clearly prints கவனிக்கட்டும்
+sorpozhivugal/may_thinam.md,phrase,744 என்ற முள்வேலி,144 என்ற முள்வேலி,1,scan 14 clearly prints 144
+sorpozhivugal/may_thinam.md,phrase,திராவிட நாடு திாராவிடருக்கே,திராவிட நாடு திராவிடருக்கே,1,scan 15 clearly prints திராவிடருக்கே
+sorpozhivugal/may_thinam.md,phrase,உலுத்தர்களுக்கு...௮ல்ல!,உலுத்தர்களுக்கு அல்ல!,1,scan 15 clearly prints உலுத்தர்களுக்கு அல்ல

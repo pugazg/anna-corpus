@@ -236,7 +236,7 @@ Total source works: 537
 - [மனித குரலுக்கு மதிப்பளியுங்கள்](manitha_kuralukku_mathippaliyungal.md) - pending
 - [மந்திரியால் பயன் என்ன?](manthiriyal_payan_enna.md) - pending
 - [மறுமலர்ச்சி](marumalarchi.md) - pending
-- [sorpozhivugal/may_thinam](may_thinam.md) - pending
+- [sorpozhivugal/may_thinam](may_thinam.md) - translated
 - [மீண்டும் ஆதிக்கம் பெறவிடுவது](meendum_aathikkam_peraviduvathu.md) - pending
 - [மிரட்டல்களுக்கு அஞ்சிக் கொள்கைகளைக் கைவிடமாட்டோம்!](mirattalgaluku_anji.md) - pending
 - [sorpozhivugal/moondravath111161](moondravath111161.md) - pending
