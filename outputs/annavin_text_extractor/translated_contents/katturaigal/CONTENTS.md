@@ -226,7 +226,7 @@ Total source works: 1388
 - [பகிரங்க விசாரணை வேண்டும்!](bagiranga_visaranai.md) - pending
 - [katturaigal/bajagovindam](bajagovindam.md) - translated
 - [katturaigal/balae_aal](balae_aal.md) - translated
-- [katturaigal/balapadam](balapadam.md) - pending
+- [katturaigal/balapadam](balapadam.md) - translated
 - [katturaigal/bali](bali.md) - translated
 - [பலி பீடம்!](bali_peedam.md) - pending
 - [பலி பீடத்திலே!](bali_peedathilae.md) - pending

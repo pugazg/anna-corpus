@@ -1,4 +1,10 @@
-# katturaigal/balapadam
+# பாலபாடம் அறியாத பக்தவத்சலம்! / Bhaktavatsalam Who Has Not Learnt Even the Elementary Lesson!
+
+**Tamil title:** பாலபாடம் அறியாத பக்தவத்சலம்!  
+**English title:** Bhaktavatsalam Who Has Not Learnt Even the Elementary Lesson!  
+**Source file:** `katturaigal/balapadam.md`
+
+## Source Tamil (verbatim)
 
 - Source image folder: `/Users/pugazhendhirajendran/Documents/Codex/2026-07-09/https-www-annavinpadaippugal-info/outputs/annavin_text_extractor/ocr_images/katturaigal/balapadam`
 - OCR language: `tam`
@@ -679,3 +685,229 @@
 முடியுமென்று நம்புகிறோம்.
 
 (திராவிட நாடு - 29.8.48)
+
+## English Translation
+
+Tamil is one thing and Aryanism another; Tamil art is one thing and Aryan art another. This is the lesson history teaches. Even those excessively attached to Aryan art cannot deny that Tamil art possesses a distinctive character wholly different from Aryan art.
+
+Yet some among the Tamil people forget their unadulterated artistic excellence, their faultless linguistic wealth, and their incomparable literary distinction. They think they must preserve the office they have obtained even at the cost of submitting to Aryanism, and they offer their inherited nature and culture as the price of that office. This is not merely truly regrettable; the conduct of such people makes us bow our heads in shame.
+
+In the North, Tagores and Boses arose and worked on the world stage, regarding it as their duty to bring prosperity and eminence to Bengal, the land of their birth, through their extraordinary ability.
+
+Nehrus and Patels bring distinction to Hindustan.
+
+But what are the Bhaktavatsalams and Avinashilingams doing here?
+
+“Sanskrit is our ancient language. The South has no distinct art of its own. All India has only one culture; there are no different cultures,” they say.
+
+From where do they say this? Do they speak from a farm, a cotton field, or the ashram of a Paramahamsa? No, no! They say it while occupying responsible offices and claiming that they hold those offices precisely to benefit the Tamil language, the Tamil people, and Tamil Nadu.
+
+The people of the North, however, long rendered even the service required by the ordinary branches of art in their northern language. Their country’s religion and politics drove them to labour ever harder in that service instead of letting them remain idle. Before long, the consciousness awakened by many selfless people enabled them to know themselves and undertake work suited to the advancement of their own language and art. They rapidly created great literary treasures and sought distinction for Sanskrit language and art.
+
+Here, by contrast, our people have entered the language, art, and civilization of those northerners without limit, rule, or restraint. Intoxicated by them, they continue committing the very degrading acts responsible for our present low condition.
+
+When we observe this conduct, we begin to wonder whether they too descend from the Aryans! The Public Works Minister says that “Sanskrit is our ancient language” and that we must learn it. He thereby fortifies the crooked mischief of certain axe handles who shamelessly claim that everything now found in Tamil came only from Sanskrit.
+
+Should we marvel or feel ashamed at the deeply embedded and pitiable condition in which a Tamil, contrary to nature and reason, lacks the character and rational sense to know his own Tamil art and appreciate its greatness?
+
+Through Aryan art and Aryan intrusion, arrangements were made that transformed the Tamil people from a single people into mutually isolated and divided groups. One Tamil was made to regard another as alien to him, damaging the unity of the Tamil people. Yet those who rule the country today cannot grasp even this truth.
+
+Even Aryan Brahmins living in Tamil Nadu have abandoned Sanskrit, their Aryan language, and use Tamil itself as their mother tongue. Nevertheless, they plainly regard Tamil as not their mother tongue and consider themselves indebted to Sanskrit, which has fallen out of use and died. But some “Tamil people” like Comrade Bhaktavatsalam are ashamed even to say that Tamil is their mother tongue and our ancient language. Instead, they reveal their ignorance by declaring, “Sanskrit is our ancient language.”
+
+Do not imagine that such ignorant people have appeared in Tamil Nadu only today. For nearly a thousand years, distinctly Tamil works such as the Tolkappiyam and the Tirukkural, eminent in the history of Tamil art, have been corrupted in many ways by Aryans who arrived in the intervening period and by Tamils caught in the Aryan net.
+
+They disfigured these works in many ways and fashioned blatant false commentaries, preventing the pure art and civilization of the Tamil people from becoming clear.
+
+Without the least hesitation or shame, they asserted that every aphorism of the Tolkappiyam and every verse of the Tirukkural expressed some “noble” Aryan textual idea or doctrine.
+
+Who does not know that all the learning of commentators such as Nachinarkkiniyar was employed to slaughter Tamil art and Tamil civilization?
+
+His elaborate commentaries on the Tolkappiyam and the Tirukkural were a deception fashioned so that later generations would imagine there was no independent Tamil art. This has already caused incurable pain in the minds of the Tamil people. As though thrusting a spear into a festering wound, Bhaktavatsalam, who has never so much as opened the Tolkappiyam or the Tirukkural, now declares, “Sanskrit is our ancient language.” He relies solely on the arrogance of office and has mortgaged even his little knowledge to Aryanism. Only when we consider this do the true causes of the destruction of Tamil Nadu and its arts and civilization become apparent.
+
+That is why Tamil people rich in knowledge of Tamil have reached the position that they must no longer remain idle. Disregarding every opposition, they must accept responsibility for safeguarding their art and civilization and make that work their duty. We hope that those who babble, with their awareness confused and the truth forgotten, that North and South possess one culture will at least now understand this.
+
+The way speakers of other languages now look upon us causes every Tamil, diminished in natural dignity and artistic beauty, to suffer from a wound that will not heal. Every Tamil mind and body also trembles at the thought that the admixture of northern art may weaken and waste away the art of Tamil Nadu.
+
+In the land of his birth, a Tamil still remains a “Pariah.” His greatness has been destroyed. He has no place in the social order. Even his capacity to protect himself from falling still lower has been taken away.
+
+In the present cabinet, of which Comrade Bhaktavatsalam is a member, there is a law saying that a “Pariah” may enter a temple. Yet Bhaktavatsalam regards a Tamil labouring on his farm as a Pariah and speaks to him only after making him stand a furlong away.
+
+The entire life of a Tamil rejected as a “Pariah” is arranged so that he must labour in servitude to one section described as “high,” sweep its streets, and be tormented like a slave. Even if the minister lacks the knowledge to understand why, how, when, by whom, and for what purpose this condition was created, he has somehow understood that North and South have only one culture! Can any self-respecting living being contemplate that without lowering his head in shame?
+
+Those Tamils who regard themselves as elevated seek only to have themselves respected at least as Sat-Shudras within the Shudra caste, the lowest of the four castes prescribed by the Aryans. They do not ask why, through what cause, or by whom they were made Shudras. Not only do they fail to consider this; they have also been thoroughly taught that everything belonging to the Tamil, including his language, art, literature, and social life, stands only through Aryan assistance.
+
+For more than twenty years, the Self-Respect Movement has worked to change the condition that brought about the Tamil people’s fall.
+
+Its objective is first to calm the fever caused by consuming the bad food of northern-language art and then to remove the poison of mixed-language art.
+
+The Self-Respect Movement has arisen and grown in a manner that astonishes all who see or hear of it. Twenty years ago, nobody would have imagined that so progressive a movement could arise in Tamil Nadu.
+
+The aim of today’s rulers is somehow to eradicate this movement and destroy the language, art, and civilization of the Tamil people.
+
+Many stood bewildered, unable to answer the questions raised by our movement. Some abused and mocked it. Yet thousands of young people joined. Its enemies were shaken. Many rushed forward, each trying to precede the other in accepting several of our principles. Without money or influence, the movement confronted the swagger of its enemies, the demonstrations of mischief-makers, the resistance of capitalists, the frenzy of their overseers, and the silencing efforts of the orthodox. Within a short time it secured an honoured place in history and society.
+
+We know that today’s government acts in a manner intended to suppress that movement and perpetuate capitalist arrogance, orthodox cruelty, the deceit of varnashrama, and the destructive work of Aryan art in Tamil Nadu.
+
+The Dravidians, the land’s ancient people, once stood at a summit of distinctive excellence wholly different from the North in civilization, language, politics, society, and art. From that elevated condition, we became walking corpses after contact with the Aryans. Aryan art was spread here so aggressively that we feared it might deprive Tamil art of the ability to stand independently. Many Bhaktavatsalams and Avinashilingams abetted this even then; many Kamarajars and Sardar Vedarathinams supported them.
+
+In the past, Aryan language and art, cloaked in orthodoxy, weakened the place of Tamil language and Tamil art in Tamil Nadu. As though that were not enough, today an unexpected new enemy has been brought in beneath the cloak of nationalism.
+
+This new enemy does not stop with the poisonous stream called compulsory Hindi. The poison called Aryan art has been mixed into it in abundance. That is why even Tamils such as Comrade Bhaktavatsalam have reached the point of declaring, openly and without shame, that Sanskrit is our ancient language and that North and South have one culture. Otherwise, could a Tamil forget that his mother tongue, Tamil, is older than Sanskrit and say, “Sanskrit is our ancient language”? Think about it.
+
+We are now certain that Comrade Bhaktavatsalam, who says North and South possess the same culture, does not even know what culture means.
+
+The language of Tamil Nadu is one thing;
+
+the language of the North is another.
+
+Therefore, in language, North and South can never be one in art. Nor have they ever been so.
+
+North and South do not follow the same customs in the food they eat or the clothing they wear.
+
+The North has one manner of wearing ornaments; Tamil Nadu another.
+
+The South has its forms of music and dance; the North has others.
+
+The customs and habits of South and North differ.
+
+The northerner eats roti; the southerner eats rice.
+
+Why say more? Northerners and southerners possess appearances whose differing qualities and attributes can be distinguished at sight. Place one northerner and one southerner together, and even Comrade Bhaktavatsalam, who claims their cultures are identical, can point them out and say, “He is a northerner; this man is a southerner.” Their distinct appearances themselves reveal that the peoples of the two regions possess different cultures.
+
+People such as Comrade Bhaktavatsalam ought at least to learn the elementary lesson about art. Otherwise, Aryan art and Tamil art will look identical to them. The reason is that they dislike Tamil art, greatly prefer Aryan art, associate with it, and have placed themselves in a condition of servitude to it.
+
+It would be impossible for such people to read works of artistic research written by learned scholars and understand the differences in art described there or why those differences arose. Most of those who wield political power today neither know nor wish to conduct politics with knowledge and experience as their aids.
+
+Therefore, we wish to give an illustration that even the minister can readily understand and thereby make him recognize that Aryan art and Tamil art differ. Our illustration comes from *History of the Indian Nation*, the textbook prescribed in 1948 for fifth-standard pupils:
+
+“The Dravidians were sturdily built. They excelled in truthfulness and courage. It appears that they lived first in hills and forests and later spread into plains and along the seacoast. After reaching the plains, agriculture became their chief occupation.
+
+“There is a class of Tamil works called the Sangam texts. They describe the civilization of the Tamils who lived two thousand years ago. There were many kings in the Sangam age. Fine cities, forts, rivers, and canals existed even then. Like the original Dravidians, the people of the Sangam age were very fond of warfare. They erected stones for warriors who died in battle and offered worship to them.
+
+“The Dravidians later lived in concord with the class called Aryans who entered their country.
+
+“Nevertheless, the Dravidians never lost their distinctive character.”
+
+These are the facts that book states about the Dravidians. Nor is that all. On page 30, it gives further facts about their distinctive nature. We reproduce those too:
+
+“The history of South India is distinct. Its civilization and the course of its history are distinct.
+
+“Long before the birth of Christ, Tamilakam possessed prosperity and distinction. Even northern emperors such as Ashoka and Samudragupta were unable to bring it under their control.
+
+“Most people worshipped the Hindu gods Shiva and Vishnu. Many also followed Buddhism, Jainism, and other religions. Elders learned in sacred texts spread throughout the land and propagated religious doctrines.”
+
+The same book also explains the Aryans. We reproduce that passage:
+
+“The Aryans had broad foreheads and long noses. Their teeth were set inward. The foreheads and noses of the Dravidians were broader than those of the Aryans. The Dravidians were dark in complexion. The Aryans were taller than the Dravidians. When they entered India, the Aryans tended sheep, cattle, and horses. They used the language called Sanskrit.
+
+“From the very beginning, the Aryans possessed advanced religious ideas. The Veda is the foundational text of their religion. It was later divided into four parts called Rig, Yajur, Sama, and Atharvana. The Veda is the Aryans’ oldest text. It is also the foundation of the Hindu religion.
+
+“They ate meat and drank the juice of the creeper called soma.
+
+“As their civilization matured, they composed many texts on dharma, grammar, puranas, and epics. The Ramayana and the Bharata are epics. When the Aryans entered North India, many peoples lived there, including the Dravidians. The Aryans spread throughout North India by defeating them, driving some elsewhere, subjugating others, and joining with still others. They called those they subjugated ‘Dasyus.’ Many Dravidians came to the southern lands. The Veda is of great use in learning about the ancient life, customs, and principles of the Aryans. Their wealth consisted chiefly of sheep and cattle.”
+
+That is what the book says.
+
+If even this explanation cannot make our respected Public Works Minister understand that northern art and southern art differ, we ourselves do not know how we could provide a clearer one. Still, there is another way.
+
+We do not know whether our Public Works Minister has children. Let us nevertheless suppose that he has many sons and daughters, with one son studying in the fifth standard. If a conversation about Aryans and Dravidians took place between that pupil and his father, the Public Works Minister, it would proceed as follows.
+
+**Minister:** North and South have one culture.
+
+**Son:** The history book I study says the North has one culture and the South another.
+
+**Minister:** Which history book do you study?
+
+**Son:** The history book approved by you and your fellow ministers has been prescribed as my textbook.
+
+**Minister:** Is such a thing written in that book?
+
+**Son:** Yes, Father. Look here. It says:
+
+“The Dravidians later lived in concord with the class called Aryans who entered their country.
+
+“Nevertheless, the Dravidians never lost their distinctive character.”
+
+**Minister:** Does it not say that Aryans and Dravidians lived together in concord?
+
+**Son:** It says more than that. It also says, “Nevertheless, the Dravidians never lost their distinctive character.” What does that mean, Father?
+
+**Minister:** What meaning did your teacher give it?
+
+**Son:** Our teacher explained that although the Aryans who came from the North and the Dravidians of the South lived together, the Dravidians safeguarded their distinctive language, art, civilization, customs, and habits without allowing them to merge with Aryan language, art, civilization, customs, and habits.
+
+**Minister:** Is your teacher a Tamil or an Aiyar?
+
+**Son:** Why do you ask that question, Father? Did you not say that no distinction exists between Aryan and Dravidian?
+
+**Minister:** Although there is no distinction now, some people still separate Aryans from Dravidians. I wondered whether one of them was your teacher, for only such a person would give that explanation.
+
+**Son:** Our history teacher is an Aiyar.
+
+**Minister:** Did an Aiyar give such an explanation?
+
+**Son:** Whether he were an Aiyar or God himself, he could give only this explanation. If he said that the passage meant something else, he could not escape from us pupils whose intelligence is developing.
+
+**Minister:** I do not understand anything you are saying!
+
+**Son:** How could you understand, Father? You say Aryans and Dravidians have become one without even being able to grasp the differences between Aryan and Dravidian art written in our history book!
+
+**Minister:** Even if it was so in history, there is no Aryan-Dravidian distinction in practice.
+
+**Son:** Would history record something that did not exist in practice? Look here. It says, “The history of South India is distinct. Its civilization and the course of its history are distinct,” and then provides an explanation that strongly reinforces what it said before.
+
+**Minister:** Is that how it is written? Perhaps that really is the truth. Otherwise, history books would never write such things.
+
+**Son:** If that is so, Father, why did you say the other day that South and North possess one culture?
+
+**Minister:** That? I spoke that day at the late Sivaswami Aiyar School. Because most of those who welcomed me and assembled there were Brahmins, I spoke in that manner so as not to hurt their feelings.
+
+**Son:** May one conceal the conclusions established by history merely to avoid displeasing a few individuals?
+
+**Minister:** Who reads history nowadays? Ordinary people regard, and will continue to regard, whatever ministers like us say as history.
+
+**Son:** When you say “ordinary people,” do you mean pupils like us who study, people untouched by education, or both groups together?
+
+**Minister:** Most of those who placed us in ministerial office are people untouched by education. Besides, are not ninety people out of every hundred in this country uneducated?
+
+**Son:** Then for what purpose should pupils like us use the knowledge acquired through education? What you say appears to mean that people have no need for education at all.
+
+This is how a fifth-standard pupil can ask questions to resolve his doubts. He cannot yet ask more broadly or more fully about the facts stated in the history book. Pupils who complete the fifth standard and move into higher classes will not stop with these questions. Only in the higher classes will they acquire the ability to investigate and understand the historical truths learnt in the fifth standard. Many doubts will then arise. They will not end their inquiry merely by recognizing that Aryans and Dravidians differed in art, civilization, customs, and habits.
+
+They will investigate the truth of the statement in the fifth-standard history book that “long before the birth of Christ, Tamilakam possessed prosperity and distinction, and even northern emperors such as Ashoka and Samudragupta were unable to bring it under their control.”
+
+Even Comrade Bhaktavatsalam can understand what thoughts that inquiry would produce in them. Those pupils can make the matter that clear. If a majority of this country’s pupils acquired such understanding, people like Comrade Bhaktavatsalam would be unable to set foot even on the threshold of ministerial office, let alone become ministers.
+
+As the pupils advance in their studies, the facts found in their fifth-standard history book will continue to clarify many important matters. They will examine the truth of the statement that “most Dravidians worshipped the Hindu gods Shiva and Vishnu.” A fifth-standard pupil may not have understood its implications, because the writers did not present the history in a manner that made them clear to those pupils. Their understanding may have stopped with the idea that Shiva and Vishnu were Dravidian gods.
+
+Pupils who progress beyond the fifth standard, however, will not stop there. They will compare the statement that “elders learned in sacred texts spread throughout the country and propagated religious doctrines” with the statement that “from the very beginning, the Aryans possessed advanced religious ideas.” From that comparison they will readily understand that the Dravidians originally had no system of divine worship; that such a system belonged to the Aryans; and that Aryan elders learned in sacred texts travelled throughout the South and spread religious doctrines.
+
+Nor is that all. They will compare the fifth-standard history book’s statement that “the Veda is the foundational text of the Aryans’ religion; it is also the foundation of Hinduism” with the statement that “most Dravidians worshipped the Hindu gods Shiva and Vishnu.” They will then understand without the slightest doubt that what is called Hinduism is the Aryans’ religion, not that of the Dravidians.
+
+When these pupils recall the history they studied in the fifth standard, many more truths will become clear. Within that history itself, they will find evidence that Dravidian civilization and Aryan civilization differ. They can infer that the Sangam texts are the sources for Dravidian civilization, while the Vedas beginning with the Rig are the sources for Aryan civilization.
+
+The history book says, “There is a class of Tamil works called the Sangam texts. They describe the civilization of the Tamils who lived two thousand years ago.” It also says, “The Veda is of great use in learning about the customs and principles of the Aryans.” By comparing these statements, pupils can recognize that distinct Tamil texts described Dravidian civilization and distinct Sanskrit texts described Aryan civilization. Once that understanding grows, they will have the opportunity to recognize the separate cultural differences between South and North.
+
+The pupils can also understand that the Dravidians lived with abundant wealth in very ancient times, while the Aryans possessed no comparable wealth. The same history book says, “The Dravidians had fine cities, forts, rivers, and canals even then,” and “the wealth of the Aryans consisted chiefly of sheep and cattle.”
+
+To explain still more clearly, the history book says that when Aryans from the North sought to subdue and enslave the Dravidians living there, Dravidians unwilling to accept it came to the South. It states:
+
+“When the Aryans entered North India, many peoples lived there, including the Dravidians. The Aryans spread throughout North India by defeating them, driving some elsewhere, subjugating others, and joining with still others. They called those they subjugated ‘Dasyus.’ Many Dravidians came to the South.”
+
+Consider for yourselves the conclusion intelligent pupils in the higher classes may draw from this. They will understand that those who came to this southern land were not the Dravidians driven out, subjugated, or absorbed by the Aryans, but those who refused to endure or accept the cruelties of the northern Aryans. Escaping their grasp, those Dravidians came south and preserved their distinctive character and culture. Their descendants are the people who live today in the South under the name Dravidians. Thus they will understand beyond doubt that northern culture and southern culture differ.
+
+Some might mistakenly suppose that the Brahmins now living in the South, who do not call themselves Dravidians, also belong to the Dravidians said to have come from the North in that period. It is our duty to correct that mistake as well. The history book itself states that only after the Dravidians had settled in the South and many years had passed did a few Aryans come from the North and settle here. Even today, we see with our own eyes that those few continue to call themselves Aryans.
+
+We therefore trust that the explanations given above will enable even people such as Comrade Bhaktavatsalam, who have not learnt so much as the elementary lesson, to understand the distinct cultural systems of South and North.
+
+(Published in Dravida Nadu, 29 August 1948)
+
+## Translator's Notes
+
+The source is continuous across all 18 scans. The first scan carries the complete Tamil title, and the final scan carries the printed citation “திராவிட நாடு - 29.8.48.”
+
+“பாலபாடம்” is rendered as “elementary lesson,” preserving Anna’s contrast between a fifth-standard textbook and the minister’s claimed ignorance. “மராமத்திலாகா மந்திரியார்” is the period Tamil designation for the Public Works Minister.
+
+The caste words “பறையன்,” “சூத்திரர்,” and “சற்சூத்திரர்” occur in Anna’s historical-political argument. The first is retained in quotation marks where the source marks the imposed label; the latter terms are transliterated as Shudra and Sat-Shudra rather than softened.
+
+The excerpts from “இந்து தேச சரித்திரம்” are translated as quotations from the source article. Their historical claims are preserved as Anna quoted and interpreted them; translation does not independently endorse those claims.
