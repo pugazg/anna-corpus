@@ -1,4 +1,10 @@
-# katturaigal/samanyama
+# சாமான்யமா! / Is It Such a Simple Matter!
+
+**Tamil title:** சாமான்யமா!  
+**English title:** Is It Such a Simple Matter!  
+**Source file:** `katturaigal/samanyama.md`
+
+## Source Tamil (verbatim)
 
 - Source image folder: `/Users/pugazhendhirajendran/Documents/Codex/2026-07-09/https-www-annavinpadaippugal-info/outputs/annavin_text_extractor/ocr_images/katturaigal/samanyama`
 - OCR language: `tam`
@@ -754,3 +760,176 @@
 கலக்கும் போது பொறுப்புள்வர்களின் சார்பிலும், முன்னெச்
 சரிக்கையுடையவர்களின் கூட்டுறவிலும் செல்ல வேண்டிய
 தவசியமென்றும் தெரிவிக்க விரும்புகிறோம்.”
+
+## English Translation
+
+You may have heard the song:
+
+> A mendicant in a flower garden,
+> For four-and-twenty months,
+> Pleaded with the potter,
+> And brought home a clay pot;
+> Dancing and dancing around it,
+> The mendicant smashed it!
+
+Who can be blamed here? Was not the mendicant's fault that, delighted merely to have obtained the pot, he danced around it? Why stir river water into mud and then grow weary? Why loosen the wedge and later weep over the severed tail? Why punch a stone and then cry that the hand hurts? Why did the elders say, “Think before you undertake an act; to think after undertaking it is folly”? Should not those who read all manner of things, utter all manner of words, and swell with pride know that the harvest accords with the seed? We warned them beforehand: “Gentlemen, do not indulge in boastfulness; trouble alone grows within its heat.” Did those turncoats listen? “Should we listen to what these fellows say? What of our education, degrees, culture, and magnificence?” they thought. They trumpeted that no one here equalled them, and later they lamented. The troubles caused by deficient judgement are many. Even with intelligence, knowing how to direct it is a distinct skill. Those who lack that skill are of no use to anything.
+
+Kamban, who proceeded to describe the prosperity of Kosala, said:
+
+> There was no generosity,
+> For there was no poverty;
+> There was no valour,
+> For there were no opposing foes;
+> There was no truth,
+> For there was no speech of falsehood;
+> There was no ignorance,
+> For manifold learning prevailed.
+
+Friends, do not ask, “What do you know of Kamban's poetry? And even if you do, is this a verse repaired by the connoisseur T. K. Chidambaranatha?” Pandithamani M. Kathiresan Chettiar of Mahibalanpatti, the eminent professor who presided over the Kamban conference in Madras, intended to quote it in his address but could not deliver it. Many newspapers later printed the speech. Thus the verse was quoted by a Pandithamani, not by an ordinary man. Kamban said, in effect, that there was no charity because there was no poverty, and no courage because there were no enemies. In like manner, let us say:
+
+> There was no peace there,
+> For there was no inspiring zeal;
+> There was no sweetness,
+> For there was no power to attract;
+> There was no patience,
+> For there were no men of greatness;
+> There was no culture,
+> For there was no habit of it.
+
+Yes. Neither the substance nor manner of the speeches inspired enthusiasm; therefore peace did not prevail at the meeting and disorder did not diminish. There was no sweetness in the speeches because the speakers lacked the ability to win over even opponents. Since the magnanimity that lends dignity to an assembly was absent, the people lost patience. An event conducted by people unaccustomed to cultured conduct could not display culture. The Kamban conference held at Gokhale Hall in Madras on the evening of the sixteenth sank into confusion for precisely the reason stated above. Our verse may be defective, for we are not poets; but our explanation of the cause will not be defective, for we have considered it calmly and at length.
+
+Both endeavours nevertheless require courage of heart and integrity. One must understand the situation and measure one's strength. A battle can be fought only according to the nature of the field, and victory can be gained only according to the nature of the idea. Pandithamani Kathiresan Chettiar appears to have forgotten this amid that day's disorder. He is reported to have said, “I am ready for a war of words, but I have passed the age for wrestling.” That is true. Yet age should not be considered only in relation to wrestling. This is not the age for anyone, even Kamban, to wage such a battle. Times have changed. This is not an age for planting an impaling stake, for a god to dictate the opening line, or for a manuscript to run toward its reader. This is the age of reason. Seeing the disturbance that day, Pandithamani realized and stated that his age for wrestling had passed. If he likewise sees the speed of the age, the people's eagerness for rational thought, and the spread everywhere of the habit of asking “Why?” and “For what?”, he will realize that the age has passed not merely for wrestling but for seeking support for the Puranas. It is not yet too late to recognize this.
+
+Awareness of the Aryan-Dravidian distinction has grown strong throughout the land. The idea has spread that Dravidian life became a cremation ground precisely because this country became Aryanism's hunting ground. Hearts are resolved to secure national liberation at any cost. The cry has arisen: “Shall a fox rule in a tiger's forest?” Tamils have recognized that the poison called Aryanism is injected into their hearts beneath coatings such as artistic wealth, epic delight, and literary flavour. They say that an artistic revolution must be made; the younger world supports it; the strength required to accomplish it is growing; and the Aryan class is aware of this growth. That awareness sometimes moves about as a lament and at other times as revolt. Had our Pandithamanis understood all this, they would not have boasted, “Can there be a group that condemns the Kamba Ramayanam while we remain silent? We shall hurl manuscripts, pierce them with arrows of scholarship, and destroy them with impassioned speech.” They might instead have understood the situation, acted with foresight, and become heroes who made art serve the age.
+
+Had they done so, our hearts would have rejoiced. Such great men need not care about our inner state; they need not give it any importance. But outwardly the scene at Gokhale Hall would not have been what it was. Cries would have rung from the hall to the agraharam: “Welcome, great men who have used learning for national liberation! Long live Kathiresan, who reshaped art into a tool for raising the Tamil people! Welcome, noble leaders who wield knowledge as a weapon to destroy Aryan fraud!” The bull released into the riotous arena would have been subdued and joy would have prevailed. But what occurred? Noise, distress, thunder, riot, confusion, blows, rustling, anxiety, and agitation. The time for discourse became a waste of time. This is the result of failing to understand the age; there is no other cause.
+
+“Oh! My darling! Kamalam! Kamalam! Sir, have you seen my child Kamalam? A beautiful five-year-old child, have you seen her?” a woman cries and asks. From corner after corner comes the reply, “No.” Then someone says, “Are not chariot festivals a feast for thieves? Should this foolish woman have brought her child covered in jewellery? Some thief must have lured the child away to steal the ornaments. Let the jewels go, but will he leave the child alive, or twist her neck and kill her? Who knows?” Some say this. Parents cherish and praise their little ones, kiss their smiling mouths, delight in their babbling and tiny steps. But when they adorn them with jewellery and take them into a great crowd in the middle of the street, a thief may show the child a piece of palm sugar, separate it from its mother, take it to a secluded place, and remove its ornaments. If the child remains quiet, he may let it live; if it begins to cry, he may turn it into a corpse.
+
+Aryanism likewise shows our noble Tamil people the palm sugar called art and separates them from their companions in self-respect. It strips away the many ornaments they possess: strength, prosperity, truthfulness, purity, courage, compassion, generosity, and greatness of character. It allows those thick-skinned people who consider speech and breath themselves a grave fault to wander about, but if anyone understands the trick and raises a voice to ask why, it destroys him, that is, strips him of influence. Those who know Aryanism's conduct from that day to this will understand what we say. The fate of our connoisseurs resembles that of a jewelled child tempted to follow a thief's palm sugar and then deprived of its ornaments.
+
+“Look at our Chettiar of Mahibalanpatti. What immense wisdom he possesses! He has extraordinary devotion to ritual and observance. Not the slightest trace of caste hatred exists in him. Has he not received the title Mahamahopadhyaya, just like our U. V. Swaminatha Iyer?” Through such honeyed speech Aryanism has toppled countless Kathiresans. That is why comrades who desire a new world have warned: “The smile of the maiden called Aryanism is a spark; her embrace is a path to destruction; her dalliance leads to the dwelling place of death. Reject that relationship. Stand at a distance. Danger! Beware!” If one remains deaf to the warning, endless trouble naturally follows. What can be done?
+
+Pandithamani had presided over many literary conferences in Madras, where numerous scholars spoke. Kalithogai, Kurunthogai, Purananuru, and Akananuru conferences and many others were convened to explain to the people that old manuscripts contained useful delight. Not one stumbled into confusion; there were no “opponents.” Many regarded the melodious words of the Mahibalanpatti scholar as a source of happiness. Self-Respecters were abused as people without ears, villains without artistic sense, brutes ignorant of the sugarcane of imagination, and by many other harsh expressions. Yet no one could claim that they created disorder at those conferences or bore anger toward Kathiresan.
+
+Only the Kamban conference ended in confusion. It was not because Kathiresan presided or because the Kamba Ramayanam was an old epic. Muslims do not oppose “Vande Mataram” because the song belongs to the Treta Yuga. Though it arose in modern times, they oppose it because its music is shaped to demean the Muslim community. Likewise, it is improper to say that the riot at the Kamban conference resulted from anger against Kathiresan or fury toward an old epic. It occurred because the Kamba Ramayanam serves as an instrument for demeaning the Dravidian people and subjecting them to Aryans, and because the conviction has grown that such books must be condemned if the Dravidian people are to rise.
+
+There is a saying that the weakest man in the village becomes the mendicant at the Pillaiyar temple. In the same way, Aryan journals described the opposition among conference-goers as the rowdy conduct of Self-Respecters and the rampage of “Self-Respect bears,” and declared that Self-Respecters alone caused the confusion. Accustomed to hearing malicious slander, members of the Self-Respect movement find this neither new nor unbearable. They will not value the speech of those who have pawned their intelligence to Aryanism or feel hurt by it. Indeed, Self-Respecters bear no anger even toward the mindless followers of Aryanism; they feel only pity.
+
+Had the conference been filled mostly with multitudes of devotees who melt and weep on merely hearing poetry; servants who continue listening to tales of Kanda's divine sport and chanting “Kartikeya! Glorious Spear! Muruga! Lord of Palani!” even after the proverb spread that such a lie was not found even in the Kanda Purana; and trembling people who believe it is forbidden to ask whether a tale about God accords with reason, and that such inquiry itself is atheism, the gathering would have ended auspiciously with the song “Raghupati Raghava Raja Ram.” But knowledge has spread today. Where can one find a crowd of dupes who believe everything and delight in comic tales? Among the public present that day, a majority were angered by convening a conference for the Kamba Ramayanam, by the manner in which the organizers conducted it, by the character of the speeches, and by the actions of some eminent men. The confusion was the consequence. This can be explained from the very writings of the journalists who seized the occasion to abuse Self-Respecters indiscriminately.
+
+Those writings struggle pitiably to explain both that a few people caused disorder without reason and that mighty heroes overcame it. Let the supposed heroes wear the title “hero of heroes,” victory garlands, warrior's ornaments, and anklets, claiming the honour of having subdued great opposition. We do not care. But consider whether it is even slightly consistent to say, on one hand, that this was merely the rowdy conduct of a few Self-Respecters, and on the other that it was enormous, uncontrollable disorder that altered the situation so greatly that leaders had to return home under police protection, only then to say that the conference proceeded magnificently. Writing such incompatible accounts invites the laughter of thinking people, though it will not surprise minds shaped by the Puranas.
+
+They say Adisesha bears the universe; that Vishnu reclines upon the same Adisesha in the Ocean of Milk; and that Adisesha exists as a ring upon Parvati's little finger, though Parvati is not beneath the sea but forms half of Siva upon Mount Kailasa. That is Purana! Ask whether these tales of Adisesha agree with one another. The descriptions drafted by the “reporters” are just like them.
+
+Midday, burning sand, a long walk, a pleasant journey. What would you think of a person who applied all four descriptions to one event? You would surely say, “What a cosmic liar! If someone walks swiftly across burning sand at midday, how can that be a pleasant journey? He shamelessly calls a man tormented by heat and pain happy. Whatever the speaker says, where has the listener's reason gone?”
+
+Now hear another example: broad daylight, a wooden voice, rhythm without order, a divine musical feast. If someone wrote a review of a concert using all four descriptions, what would you say? If a man sings in daylight with bad rhythm and bad voice, without the fragrance of musical sweetness, it resembles a donkey's bray, not song. Would you not ask, “He calls this divine music. What arrogance! Do you see how greatly he tries to deceive us?” Now read the headlines published by Aryan papers concerning the Kamban conference:
+
+> Self-Respecters riot at Kamban festival; microphones and transmitter smashed.
+
+> Meeting proceeds peacefully and magnificently.
+
+These are headlines in *Swadesamitran*. What do you say? Could you utter such incompatible statements without embarrassment? Microphones and a transmitter were smashed, yet *Mitran* awards the meeting the title “peaceful and magnificent.” What peace! What beautiful magnificence! A one-eyed man is named Thousand-Eyes; a one-legged man, Lord of the Dance; and this gathering, a meeting conducted peacefully and magnificently.
+
+Not only the headlines: read the reporters' sentences about the proceedings, and the beauty of that peace and the wonder of its splendour become clear. Here is the sacred utterance of *Dinamani*:
+
+> Self-Respect bears enter and create a disturbance.
+
+That is one headline. We genuinely pity this reporter. See how innocent the man is. Had he ever seen either a Self-Respecter or a bear, would he have written “Self-Respect bears”? Hear more from the *Dinamani* reporter:
+
+> The microphone toppled, the loudspeaker broke, and chairs flew.
+
+Those are the headings. The friend continues:
+
+> About a dozen persons calling themselves Self-Respecters caused an enormous disturbance for an hour and allowed nothing to proceed. Chairs flew on the stage. The loudspeaker broke and rolled away. The microphone installed by All India Radio to broadcast the conference proceedings was smashed. Flower garlands were whirled over heads and flung away. Books and palm-leaf manuscripts intended as prizes were thrown. Crowning all this, one among them delivered a speech.
+
+Did the reporter stop there? Having written that a Self-Respecter speaking on the stage crowned the disturbance, he placed a crown upon his own splendid writing with the following:
+
+> Amid all this disturbance, the calm displayed by the assembled people visibly demonstrated their devotion to Kamban.
+
+What patience those people possessed! Microphone toppled, transmitter smashed, some onstage slapped across the face, yet the vast crowd supposedly ignored everything, paid no attention to the disturbance by a dozen Self-Respecters, and lost itself in the feast of Kamban!
+
+The revolutionary poet Bharathidasan says, “That part is what amazes me, girl.” We may say the same of this passage by the reporter. Do you believe that a vast crowd would remain calm while a dozen people created such disorder? Either statues must have been placed in that hall, or the people must have watched happily, thinking the Kamban conference deserved this fate and that the right thing was occurring; or the conference dignitaries must already have behaved in a manner that aroused popular resentment, causing the audience to remain without moving even a little finger and think that wrongdoers would suffer for their wrongdoing. Is this not natural?
+
+To keep the deception from being exposed and to settle upon the claim that a few Self-Respecters caused the disorder, the *Dinamani* reporter wrote as though those seated at the meeting were statues.
+
+“Gokhale Hall began beautifully, like the hall of a temple,” writes the reporter. We do not know why what began with auspicious music ended inauspiciously.
+
+“Sri Kathiresan Chettiar rose to deliver his presidential address. He could hardly have spoken a few words when confusion began. A few people shouted, ‘Aryan slave Kathiresan Chettiar, answer our question!’ and climbed upon the stage.
+
+“A short man who came forward threw a chair and broke the microphone. Its head flew away like a stone. The reporter's head escaped through the Lord's grace.
+
+“The same man struck the loudspeaker and knocked it down. He whirled the garland over his head and threw it. Then he scattered the books and palm-leaf manuscripts intended as prizes. He seized a manuscript wrapped in silk and tore it. He tried to strike Sri Kathiresan Chettiar. But those onstage caught him.
+
+“Another young man mounted the stage and declared, ‘The Kamba Ramayanam must be burned.’ People shouted ‘Sit down!’ He refused. Shouts of ‘Aryan slave Kathiresan, answer us, or step down!’ grew louder. Some shouted ‘Kamban perish!’ and ‘Kamba Ramayanam perish!’”
+
+The same man struck the loudspeaker and knocked it down, whirled a garland over his head and threw it, and smashed earthen vessels with a crash. Meanwhile, some people from the audience climbed onto the stage and sat down. With great difficulty, the alleged troublemakers were removed from the stage.
+
+Have you noticed the subtlety? The reporter draws a delicate curtain. Some people supposedly shouted for answers. What questions? Who asked them, and when? The reporter says nothing. The truth is that members of the Madras Self-Respect Association distributed two printed question sheets at the conference.
+
+They demanded answers to those questions. No answer came, and so cries demanding one arose. Why could the assembled masters of every art not answer questions from Self-Respecters who supposedly could not even read and write? Mahamahopadhyayas and guardians of the garden of literature sat enthroned in that lavishly decorated hall. Why did they not answer even the ordinary questions of Self-Respecters ignorant of epic literature? Would this not have irritated the public? Even a devotee of Kamban might have emerged from his enchantment and begun to doubt: what wonder is this? Why do these great scholars struggle and stammer when asked to answer Self-Respect questions? Self-Respecters supposedly lack the scholarship to formulate questions capable of silencing such eminent pandits. Does this not show that the story contains obscenity for which no answer can be given? Would people not think, “Why hold a festival for such a tale?”
+
+It appears that at this moment Pandithamani Kathiresan said, “I have passed the age for wrestling, but I am ready for a war of words.” Some of his former students, after reading this statement in the newspapers, are said to have written asking him to name the date and place for that verbal contest: “I am ready; are you?” Let us wait and see that war of words too.
+
+According to the reporter, there were only a dozen men. Do you know the result of their disturbance? In the same reporter's account, the president could not read his speech. T. P. Meenakshisundaram took it and read. Did he finish? No. His voice reportedly failed, while the disorder would not stop. Is it a small matter for his voice to fail? The reporter says that T. P. Meenakshisundaram Pillai began reading in his majestic voice. When that majestic voice became hoarse, T. S. Nataraja Pillai took the text.
+
+A magnificent conference, do you doubt it? In that enormous audience, supposedly calm and lost in devotion to Kamban while a dozen opponents made trouble, the great scholar Kathiresan became too bewildered to read his presidential speech. T. P. Meenakshisundaram, possessor of a majestic voice, attempted it and sat down when he could not continue. Then T. S. Nataraja Pillai, the Chingleput district organizer of the National Front, finished reading it. Did peace reign then? Not at all. The same reporter says confusion continued. R. P. Sethu Pillai began his flood of words, and there was confusion again. The Pillai offered a heroic declaration; revolt began; he sat down; enormous disorder followed; police were summoned; and confusion resumed. Yet “peaceful” and “magnificent” are the adjectives bestowed upon that meeting. Look at the reporter's generosity. Is it not like calling a broom made of lamp wicks a white royal fan?
+
+The *Dinamani* reporter's verbal picture ends at its summit with the president leaving under police protection. Friends, this is the conference that supposedly proceeded magnificently. It was peaceful; the people lay bound by devotion to Kamban. Yes, do not forget that!
+
+*Bharata Devi* relates some other wonders. Read them too:
+
+> Though some people had arrived determined to prevent the Kamban conference from taking place, the conference proceeded magnificently at Gokhale Hall without regard for any of the disturbances.
+
+Did the *Bharata Devi* reporter stop there? No. Could he leave without giving evidence that the conference was magnificent? He writes:
+
+> Some people on the stage were slapped across the face. The broadcasting apparatus was knocked down.
+
+What does this tell us? That people angered by what was being said were present in great numbers.
+
+Then Comrade T. P. Meenakshisundaram spoke, and “the shouting grew still louder,” writes the reporter. He also writes, “Many people stood up.” This is what is called a “peaceful” meeting.
+
+The man who knocked down the broadcasting equipment sat upon the stage and tried to draw those nearby into a fight. Anger surged among them, and slaps landed across cheeks. Everyone onstage rose.
+
+A short wrestling match took place among some people a little distance to the left. The sub-inspector shouted at them; they did not submit, and the noise did not cease. Later, when Sri Sethu Pillai spoke, the sub-inspector shouted a threatening warning. “The disorder in the gathering did not stop.” After writing all this, *Bharata Devi* says, “We congratulate the Kamban Festival Association for bringing the conference to a magnificent conclusion.” *Bharata Devi* too records that the president was sent home under police protection. Friends, this was the conference supposedly conducted peacefully and magnificently by Kamban devotees who ignored the disturbance!
+
+The report continues:
+
+> At intervals, mischief-makers shouted “Aryans perish!” One man climbed the stage and attempted to strike the president, Sri Kathiresan Chettiar, but those onstage prevented it. Finally, the meeting proceeded peacefully and magnificently.
+
+> Unable to speak standing, the president completed his introduction and began speaking while seated. From one corner arose the cry, “Aryan slave Kathiresan, answer us or step down!”
+
+> The cry steadily grew. A minority began creating disorder while loudly shouting, “Aryan slavery perish! Kathiresan perish!”
+
+> At this stage T. P. Meenakshisundaram Pillai began saying a few words to establish peace, but the mischief-makers' rampage increased. A youth suddenly mounted the stage and danced as though possessed. He knocked down broadcasting apparatus, glass tumblers, books, and other objects, threw chairs, overturned the table and its contents before the president, and attempted to strike him. Those onstage seized and restrained the youth. He struggled free and descended. As a result of this disturbance, two microphones and a transmitter were broken. Fruit, books, and flowers rained upon the heads of reporters seated in front.
+
+> T. P. Meenakshisundaram Pillai vowed that however much disorder occurred, he would conduct the day's meeting as planned, and began reading the president's address himself. The confusion did not stop. Sri Sethu Pillai then said, “Let shouting occur on one side. Bharati said there is no fear even if the sky falls upon one's head. Whatever anyone does, I am not afraid.” The shouting grew. Sethu Pillai sat briefly, then rose and spoke without regarding anyone. When he said, “Kamban saw North India as Tamil country,” the disorder intensified. Two youths pushed others aside and climbed the stage. The police came, subdued them, and made them sit on the stage.
+
+Within a few minutes of sitting down, thick words passed between the youth who had attempted to strike the president and some people onstage. He drew a man beside him into a quarrel. The other man's anger rose, and the sound of a sharp slap was heard. Those onstage rose in confusion, and the two men who had climbed up were brought down. At the same time, elsewhere in the gathering, people came to blows and wrestled. The outcome was unknown. This is what appears in *Swadesamitran*.
+
+Those who examine this closely will perceive something subtle. When Kathiresan said he was ready for verbal battle, when those onstage seized the youth who had climbed up, when T. P. Meenakshisundaram displayed his majestic voice, and when R. P. Sethu Pillai said, “I fear nothing,” the confusion, revolt, and shouting all increased. Even those with a little clarity can understand that, in a meeting already scented with disorder, speakers pour oil upon a burning fire and loosen the wedge when they display heroic fury, boastfulness, empty bravado, challenges to forced combat, the attitude that no one surpasses them, and claims that they are heroes among heroes, fearless lions who will conduct the gathering successfully however events unfold. Such conduct gives ritual sanction to tumult.
+
+That day's incident beautifully demonstrates what happens when people gather who do not understand the country's present course, cannot discern the conference-goers' state of mind, cannot identify a manner of speech capable of turning the audience toward them, and do not know that boasting to conceal cowardice produces no benefit. They knew how to decorate the hall like a temple, turn on electric lights while sunlight still shone, place coconuts and fruit as offerings before a palm-leaf manuscript, but not how to take the pulse and discover what disposition predominated in the audience. That is why so many “magnificent” events occurred. T. K. Chidambaranatha Mudaliar and the editor of *Kalki* are said to have risen and left from amid the gathering. One can only wonder why others lacked even this much foresight.
+
+Why so much disorder? Could a dozen people accomplish it? Reporters wrote that commotion occurred in every corner. Could a dozen people do all this? There was no confusion when Sir P. T. Rajan inaugurated the conference. Why? The manner of his speech was not such as to breed revolt. But when Diwan Bahadur T. M. Narayanaswami Pillai welcomed the delegates, the conference leaders themselves sowed the seed of disorder. What was it? One of the leaders onstage struck a youth who handed in a written question. Who forgot the situation and, without imagining the consequence, hit the young man who submitted the question sheet? An editorial in *Liberator* states that the assailant was a government employee. What is his name? Why should a case not be brought against him? The generosity characteristic of a Self-Respecter keeps us from answering the many questions asked about this.
+
+Chettinad is Kathiresan's country. *Kumaran*, published from Karaikudi in that region, explained the cause of the disorder and offered Kathiresan some advice:
+
+> A group has been saying that books such as the Kamba Ramayanam should be abolished. Such statements have been made for many years.
+
+> Pandithamani had brought a beautifully written presidential address. Yet reports say that before beginning to read it, he made some introductory remarks. We do not know what he said. We must infer that those words produced intense anger among some people. A group burned the Manusmriti. They demanded that the Kamba Ramayanam be burned, and later that the Periya Puranam be added. Pandithamani said nothing when the Manusmriti was burned; he said nothing when they demanded the burning of the Kamba Ramayanam. Only when the Periya Puranam was included did he attempt to issue a statement. He said it was wrong to burn all three “literary works.” His mind even permitted him to call the Manusmriti literature. It appears that his earlier speeches, together with that day's remarks, ignited the anger of the party advocating burning.
+
+> Judged by their qualifications, he need not have gone to Madras, presided over the Kamban festival, and suffered humiliation. If he went, he could have gone with suitable arrangements. Even a person of little knowledge could foresee that such a situation might arise. It is regrettable that Pandithamani had not even one friend in Madras able to tell him this truth in advance. Members of the party advocating burning exist in the hundreds of towns where Kamban festivals have taken place, yet no such cruelty occurred there. When Pandithamani participates in such meetings convened in Madras and elsewhere, we wish to state that he must go under the responsibility of accountable persons and in the company of those possessing foresight.
+
+## Translator's Notes
+
+The title `சாமான்யமா!` is a recurring rhetorical question in the essay and is rendered as “Is It Such a Simple Matter!” rather than the flatter “Is It Ordinary?”
+
+`சு.ம.க்கள்` abbreviates `சுயமரியாதைக்காரர்கள்`, members or supporters of the Self-Respect movement. It is expanded as “Self-Respecters” in English. The newspaper phrase `சுயமரியாதைக் கரடிகள்` is translated literally as “Self-Respect bears” because Anna's response depends upon mocking that label.
+
+Names are rendered as Pandithamani M. Kathiresan Chettiar, T. P. Meenakshisundaram Pillai, R. P. Sethu Pillai, T. S. Nataraja Pillai, Sir P. T. Rajan, T. M. Narayanaswami Pillai, T. K. Chidambaranatha Mudaliar, and Bharathidasan. Several were materially damaged in OCR and were reconciled against the scans and context.
+
+The essay quotes or paraphrases reports from *Swadesamitran*, *Dinamani*, *Bharata Devi*, *Liberator*, and *Kumaran*. Contradictions and repetitions in those accounts are intentionally retained because they are the subject of Anna's critique.
+
+The eighteen scans form a continuous work from the title through the closing *Kumaran* quotation. No publication date or separate printed citation appears on the final scan; none has been supplied conjecturally.

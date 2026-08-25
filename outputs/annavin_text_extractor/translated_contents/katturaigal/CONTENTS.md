@@ -1018,7 +1018,7 @@ Total source works: 1388
 - [சேலம் வாரீர்!](salem_vaareer.md) - pending
 - [சேலம் வழி காட்டும்!](salem_vazhikaattum.md) - pending
 - [சமதர்ம வெற்றி!](samadharma_vetri.md) - pending
-- [katturaigal/samanyama](samanyama.md) - pending
+- [katturaigal/samanyama](samanyama.md) - translated
 - [“சமாதி“ புலம்பும்!](samathi_pulambum.md) - pending
 - [katturaigal/samaya_vila](samaya_vila.md) - translated
 - [katturaigal/samayasancheevi](samayasancheevi.md) - translated
