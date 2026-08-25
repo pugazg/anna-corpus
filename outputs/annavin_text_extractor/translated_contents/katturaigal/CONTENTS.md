@@ -1027,7 +1027,7 @@ Total source works: 1388
 - [சங்க காலத்தில்](sanga_kaalathil.md) - pending
 - [சங்கராச்சாரி பதவி தற்கொலை!](sankarachari_pathavi_tharkolai.md) - pending
 - [சந்தேகமில்லை! சந்தேகமில்லை!](santhaegamillai.md) - pending
-- [katturaigal/santhana_sapra](santhana_sapra.md) - pending
+- [katturaigal/santhana_sapra](santhana_sapra.md) - translated
 - [சந்தான சப்ரமஞ்சம்!](santhana_sapramanjam.md) - pending
 - [katturaigal/santharpas](santharpas.md) - translated
 - [சாந்திஸ்தான்!](santhisthan.md) - pending
