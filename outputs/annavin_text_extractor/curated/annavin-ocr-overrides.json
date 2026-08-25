@@ -471,6 +471,96 @@
         }
       ],
       "tokenCorrections": []
+    },
+    "katturaigal/athen_nattil_1.md": {
+      "phraseCorrections": [
+        {
+          "wrong": "“அுனிடஸ்! கேலி செய்யாதே.",
+          "right": "“அனிடஸ்! கேலி செய்யாதே.",
+          "reason": "scan 2 clearly prints அனிடஸ்"
+        },
+        {
+          "wrong": "பாபுமானால், என்ன செய்வது",
+          "right": "பாயுமானால், என்ன செய்வது",
+          "reason": "the scan 2-3 page join clearly prints பாயுமானால்"
+        },
+        {
+          "wrong": "“பாட்டி ! அவருக்கு வயது ரகக்.",
+          "right": "“பாட்டி ! அவருக்கு வயது எவ்வளவு?",
+          "reason": "scan 6 clearly prints the complete question வயது எவ்வளவு?"
+        },
+        {
+          "wrong": "“பரரய்யா நீர் பைத்யக்காரராக இருக்கிறீர்",
+          "right": "“பாரய்யா நீர் பைத்யக்காரராக இருக்கிறீர்",
+          "reason": "scan 9 clearly prints பாரய்யா"
+        },
+        {
+          "wrong": "என்று கேட்டான் அணிடஸ்.",
+          "right": "என்று கேட்டான் அனிடஸ்.",
+          "reason": "scan 9 clearly identifies அனிடஸ்"
+        },
+        {
+          "wrong": "- இனிடஸ்\nகேட்டான்.",
+          "right": "- அனிடஸ்\nகேட்டான்.",
+          "reason": "scan 8 clearly prints அனிடஸ்"
+        },
+        {
+          "wrong": "நபவஞ்சகர்களான மெலிடசையும்",
+          "right": "நயவஞ்சகர்களான மெலிடசையும்",
+          "reason": "scan 14 clearly prints நயவஞ்சகர்களான"
+        },
+        {
+          "wrong": "“மெலிடஸ்! அணிடஸ்! பிடி!",
+          "right": "“மெலிடஸ்! அனிடஸ்! பிடி!",
+          "reason": "scan 13 clearly prints அனிடஸ் in the crowd's cry"
+        }
+      ],
+      "tokenCorrections": []
+    },
+    "katturaigal/athen_nattil_2.md": {
+      "phraseCorrections": [
+        {
+          "wrong": "பயந்த சுபநலக்காரருடன்",
+          "right": "பயந்த சுயநலக்காரருடன்",
+          "reason": "scan part 2 Image 2 clearly prints சுயநலக்காரருடன்"
+        },
+        {
+          "wrong": "தயவர், இருவறைபும், கொன்றனர்.",
+          "right": "தீயவர், இருவரையும், கொன்றனர்.",
+          "reason": "scan part 2 Image 2 clearly prints தீயவர், இருவரையும்"
+        },
+        {
+          "wrong": "மெய்ஞ்ஞானம் போதித்த சுக்ரடீஸ்மீது",
+          "right": "மெய்ஞ்ஞானம் போதித்த சாக்ரடீஸ்மீது",
+          "reason": "scan part 2 Image 4 clearly prints சாக்ரடீஸ்மீது"
+        },
+        {
+          "wrong": "பித்தராகும்படிபான நிலைமை",
+          "right": "பித்தராகும்படியான நிலைமை",
+          "reason": "scan part 2 Image 7 clearly prints படியான"
+        },
+        {
+          "wrong": "பழிக்குப்பழி கொடடா",
+          "right": "பழிக்குப்பழி கூடாது",
+          "reason": "scan part 2 Image 8 clearly prints கூடாது"
+        },
+        {
+          "wrong": "இடர் நிறைந்து இருககிறது",
+          "right": "இடர் நிறைந்து இருக்கிறது",
+          "reason": "scan part 2 Image 9 clearly prints இருக்கிறது"
+        },
+        {
+          "wrong": "பண்டித ஐவஹர் கூறுவதுபோல",
+          "right": "பண்டித ஜவஹர் கூறுவதுபோல",
+          "reason": "scan part 2 Image 10 clearly prints ஜவஹர்"
+        },
+        {
+          "wrong": "தாரளமாக இடமும் வாய்ப்பும்",
+          "right": "தாராளமாக இடமும் வாய்ப்பும்",
+          "reason": "scan part 2 Image 11 clearly prints தாராளமாக"
+        }
+      ],
+      "tokenCorrections": []
     }
   }
 }

@@ -177,7 +177,7 @@ Total source works: 1388
 - [katturaigal/ashraf](ashraf.md) - translated
 - [katturaigal/athae_idathil](athae_idathil.md) - translated
 - [அதையும் பார் - இதையும் பார்](athayumpar_ithayumpar.md) - pending
-- [katturaigal/athen_nattil](athen_nattil.md) - pending
+- [katturaigal/athen_nattil](athen_nattil.md) - translated
 - [katturaigal/athisaya_nayanar](athisaya_nayanar.md) - translated
 - [katturaigal/athisayamalla](athisayamalla.md) - translated
 - [அதோ, நமது லட்சிய பூமி!](atho_namathu_latchiya_boomi.md) - pending

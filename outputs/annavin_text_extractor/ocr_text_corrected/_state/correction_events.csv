@@ -1,11 +1,19 @@
 file,type,wrong,right,count,reason
-katturaigal/maaji_kadavul.md,phrase,"டையகோராஸ்
-(11420௭88)","டையகோராஸ்
-(Diagoras)",1,scan 3 clearly prints the English name Diagoras
-katturaigal/maaji_kadavul.md,phrase,தான் பிறந்த (146108) மீலாஸ்,தான் பிறந்த (Melos) மீலாஸ்,1,scan 4 clearly prints the English place name Melos
-katturaigal/maaji_kadavul.md,phrase,சாக்ரட்டீஸ் குற்றவாவி என்று தீர்ப்புக் கூறினவர்கள் 287.,சாக்ரட்டீஸ் குற்றவாளி என்று தீர்ப்புக் கூறினவர்கள் 281.,1,scan 5 clearly prints குற்றவாளி and 281
-katturaigal/maaji_kadavul.md,phrase,சாக்ரட்டீஸ் குற்றவாளி அல்லன் என்று கூறினவர்கள் 250.,சாக்ரட்டீஸ் குற்றவாளி அல்லன் என்று கூறினவர்கள் 220.,1,"scan 5 clearly prints 220, consistent with 501 total and the following 61-vote majority"
-katturaigal/maaji_kadavul.md,phrase,ஜுாவஸ் அவனைத் தண்டித்தார்,ஜூவஸ் அவனைத் தண்டித்தார்,1,scan 2 clearly prints ஜூவஸ்
-katturaigal/maaji_kadavul.md,phrase,ஹெொர்மிஸ் (114888),ஹெர்மிஸ் (114888),1,scan 15 clearly prints ஹெர்மிஸ்
-katturaigal/maaji_kadavul.md,phrase,ஜுூவசுக்குத் தம்பி,ஜூவசுக்குத் தம்பி,1,scan 17 clearly prints ஜூவசுக்குத்
-katturaigal/maaji_kadavul.md,phrase,"ஜுூவஸ், இந்தக் கடவுளின்","ஜூவஸ், இந்தக் கடவுளின்",1,scan 17 clearly prints ஜூவஸ்
+katturaigal/athen_nattil_1.md,phrase,“அுனிடஸ்! கேலி செய்யாதே.,“அனிடஸ்! கேலி செய்யாதே.,1,scan 2 clearly prints அனிடஸ்
+katturaigal/athen_nattil_1.md,phrase,"பாபுமானால், என்ன செய்வது","பாயுமானால், என்ன செய்வது",1,the scan 2-3 page join clearly prints பாயுமானால்
+katturaigal/athen_nattil_1.md,phrase,“பாட்டி ! அவருக்கு வயது ரகக்.,“பாட்டி ! அவருக்கு வயது எவ்வளவு?,1,scan 6 clearly prints the complete question வயது எவ்வளவு?
+katturaigal/athen_nattil_1.md,phrase,“பரரய்யா நீர் பைத்யக்காரராக இருக்கிறீர்,“பாரய்யா நீர் பைத்யக்காரராக இருக்கிறீர்,1,scan 9 clearly prints பாரய்யா
+katturaigal/athen_nattil_1.md,phrase,"- இனிடஸ்
+கேட்டான்.","- அனிடஸ்
+கேட்டான்.",1,scan 8 clearly prints அனிடஸ்
+katturaigal/athen_nattil_1.md,phrase,நபவஞ்சகர்களான மெலிடசையும்,நயவஞ்சகர்களான மெலிடசையும்,1,scan 14 clearly prints நயவஞ்சகர்களான
+katturaigal/athen_nattil_1.md,phrase,“மெலிடஸ்! அணிடஸ்! பிடி!,“மெலிடஸ்! அனிடஸ்! பிடி!,1,scan 13 clearly prints அனிடஸ் in the crowd's cry
+katturaigal/athen_nattil_2.md,phrase,பயந்த சுபநலக்காரருடன்,பயந்த சுயநலக்காரருடன்,1,scan part 2 Image 2 clearly prints சுயநலக்காரருடன்
+katturaigal/athen_nattil_2.md,phrase,"தயவர், இருவறைபும், கொன்றனர்.","தீயவர், இருவரையும், கொன்றனர்.",1,"scan part 2 Image 2 clearly prints தீயவர், இருவரையும்"
+katturaigal/athen_nattil_2.md,phrase,மெய்ஞ்ஞானம் போதித்த சுக்ரடீஸ்மீது,மெய்ஞ்ஞானம் போதித்த சாக்ரடீஸ்மீது,1,scan part 2 Image 4 clearly prints சாக்ரடீஸ்மீது
+katturaigal/athen_nattil_2.md,phrase,பித்தராகும்படிபான நிலைமை,பித்தராகும்படியான நிலைமை,1,scan part 2 Image 7 clearly prints படியான
+katturaigal/athen_nattil_2.md,phrase,பழிக்குப்பழி கொடடா,பழிக்குப்பழி கூடாது,1,scan part 2 Image 8 clearly prints கூடாது
+katturaigal/athen_nattil_2.md,phrase,இடர் நிறைந்து இருககிறது,இடர் நிறைந்து இருக்கிறது,1,scan part 2 Image 9 clearly prints இருக்கிறது
+katturaigal/athen_nattil_2.md,phrase,பண்டித ஐவஹர் கூறுவதுபோல,பண்டித ஜவஹர் கூறுவதுபோல,1,scan part 2 Image 10 clearly prints ஜவஹர்
+katturaigal/athen_nattil_2.md,phrase,தாரளமாக இடமும் வாய்ப்பும்,தாராளமாக இடமும் வாய்ப்பும்,1,scan part 2 Image 11 clearly prints தாராளமாக
+katturaigal/athen_nattil_2.md,token,ஆனால,ஆனால்,1,known_missing_final_pullied_l
