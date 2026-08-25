@@ -989,7 +989,7 @@ Total source works: 1388
 - [ராம ராஜ்யம்](raama_rajyam.md) - pending
 - [ராதாவுக்குத் தடை](radhavukku_thadai.md) - pending
 - [katturaigal/raja_annama](raja_annama.md) - translated
-- [katturaigal/raja_sir](raja_sir.md) - pending
+- [katturaigal/raja_sir](raja_sir.md) - translated
 - [RAMBLER'S RHYTHM(1)](ramblers_rhythm.md) - pending
 - [katturaigal/rashya_sirikirathu](rashya_sirikirathu.md) - translated
 - [ரஷிய தினம்](rashya_thinam.md) - pending

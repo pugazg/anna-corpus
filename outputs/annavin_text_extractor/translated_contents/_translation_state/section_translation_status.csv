@@ -1,7 +1,7 @@
 section,ocr_total,ocr_translated,ocr_verified,ocr_pending,html_total,html_translated,html_verified,html_pending,total,translated,verified,pending
 english,0,0,0,0,1,1,1,0,1,1,1,0
 kadithangal,0,0,0,0,275,8,8,267,275,8,8,267
-katturaigal,552,532,532,20,836,1,1,835,1388,533,533,855
+katturaigal,552,533,533,19,836,1,1,835,1388,534,534,854
 kavithaigal,0,0,0,0,77,77,77,0,77,77,77,0
 Kurunavalgal,0,0,0,0,25,0,0,25,25,0,0,25
 nadagangal,61,24,24,37,1,0,0,1,62,24,24,38
@@ -10,4 +10,4 @@ paettigal,0,0,0,0,26,26,26,0,26,26,26,0
 root,0,0,0,0,5,5,5,0,5,5,5,0
 sirukathaigal,108,108,108,0,1,0,0,1,109,108,108,1
 sorpozhivugal,241,180,180,61,296,0,0,296,537,180,180,357
-ALL_INCLUDED,962,844,844,118,1549,118,118,1431,2511,962,962,1549
+ALL_INCLUDED,962,845,845,117,1549,118,118,1431,2511,963,963,1548
