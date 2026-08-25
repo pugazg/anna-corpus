@@ -968,7 +968,7 @@ Total source works: 1388
 - [katturaigal/puranakala_panjam](puranakala_panjam.md) - translated
 - [புராணம் போதைதரும் லேகியம்](puranam_bothaitharum_laehiyam.md) - pending
 - [katturaigal/puranama](puranama.md) - translated
-- [katturaigal/puratchi_kanda](puratchi_kanda.md) - pending
+- [katturaigal/puratchi_kanda](puratchi_kanda.md) - translated
 - [புரட்சியும் மருட்சியும்](puratchiyum_marutchiyum.md) - pending
 - [புரியாத கோளாறு!](puriyatha_kolaru.md) - pending
 - [புரியவில்லை!](puriyavillai.md) - pending

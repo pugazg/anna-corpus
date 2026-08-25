@@ -1,4 +1,10 @@
-# katturaigal/puratchi_kanda
+# புரட்சி கண்ட பூமி / The Land That Witnessed Revolution
+
+**Tamil title:** புரட்சி கண்ட பூமி  
+**English title:** The Land That Witnessed Revolution  
+**Source file:** `katturaigal/puratchi_kanda.md`
+
+## Source Tamil (verbatim)
 
 - Source image folder: `/Users/pugazhendhirajendran/Documents/Codex/2026-07-09/https-www-annavinpadaippugal-info/outputs/annavin_text_extractor/ocr_images/katturaigal/puratchi_kanda`
 - OCR language: `tam`
@@ -934,3 +940,219 @@ $
 பட்டார்.
 
 ள்
+
+## English Translation
+
+## France
+
+Revolution, revolution! Revolution in writing, revolution in thought, revolution in everything! This is a country distinguished by the many intellectuals who arose and bestowed the light of knowledge upon its people. It was the first country to drive out an arrogant ruler who declared that governing the earth without respecting the people was his duty, immersed himself in sensual revelry, ruled without understanding public opinion, and inflicted many torments upon his subjects. Despite all this, the country has never enjoyed a stable government. One cannot say that a ministry will remain in office for even twenty-four consecutive hours. It was once among the great powers. After this war, however, not only has its economy collapsed, but there is no assurance that it will quickly raise its head again. Yet however much its strength has diminished, we see no decline in its imperialist frenzy. It still dreams that it can forever exercise dominion in Asia.
+
+There is confusion at home. Ministries repeatedly fall like bubbles upon water. The struggle among the parties grows stronger day by day. Although they do not differ in the ideal from which they arose, we find many parties there. No single party possesses enough influence to form a ministry by itself. The Communists cannot do it; the Socialists are in the same position. There is scarcely any need to speak of the other parties.
+
+The freedom fighter de Gaulle has reappeared in the political arena. He speaks of the need for a strong government. A strong government is indeed necessary. But for what will that strength be used? To give the people a life, or to suppress their struggle for liberation? This must be determined in advance. When we consider de Gaulle's course and the Catholics who give him strong support, there is little reason to believe that placing greater power in de Gaulle's hands would produce desirable results. The dollar supports him too! Confusion at home; turmoil in the countries caught in its grip; a low standard of living; increasing unemployment; and competition for power among politicians: in this condition, France, once admired by the world, appears today as a disordered land. It is a pitiable matter.
+
+## Italy
+
+The dream of the great hero Mazzini was given form by Cavour, friend of the peasant, and Garibaldi, the soldier. Merely winning freedom for a country does not automatically bring good government. The people must know their rights. They must possess the noble disposition to come forward collectively and secure their own needs, the education required for this, and the self-confidence expressed in the words, “We can do it ourselves.” Without these, establishing a good system of government is impossible.
+
+If fluent speakers, men with resonant voices, those who understand the strength and weakness of the people's minds, those trained to perform according to circumstance, and those intent on enlarging their selfish interests obtain the opportunity to ascend the seat of government, then even if they have the people's consent, we shall see them shatter their earlier promises rather than fulfil them. The words spoken at the beginning to attract the people's attention and obtain their love and support, and then to seize the authority that rightfully belonged to them, were words of deception, not promises offered with an intention to fulfil them.
+
+The brute Mussolini was the honourable gentleman who demonstrated this political morality thoroughly in practice. He began by speaking socialism and ended as a dictatorial scoundrel. His dream of a Roman Empire failed to awaken in him the pure desire that the people of Rome should enjoy a decent life. The Pope, protected by Mussolini's assurances, behaved as though he did not see Mussolini's atrocities. Mussolini did not behold his empire. But even many years later, prosperity has not arisen in the country; the people suffer many hardships, for he departed after closing the paths of progress. Italy today presents the sight of a burned house.
+
+The hostility between the Communists and the Social Democrats is in a condition to confer the splendour of governing the country upon a third party: the extremely reactionary and undesirable Catholic party. The Vatican will bring no prosperity. It will, however, offer sermons in abundance, until the ears grow numb, instructing the poor to endure their poverty patiently. That will neither end hunger nor lighten the burden.
+
+## The Fascist War
+
+It is an amusing yet painful spectacle that countries bearing the name of great powers should bless the growth of fascism, even after studying the harm the fascist demon inflicted upon the world, witnessing it, and then experiencing it themselves. The fascist Franco did not obtain the right to govern Spain through the wishes of the Spanish people. Franco's office was alms bestowed jointly by Hitler and Mussolini.
+
+When the Spanish people awakened, King Alfonso abdicated. Before republican government had taken root deeply enough, Franco, the enemy of the people, grazed upon the crop of democracy and satisfied his hunger. During the recent war he behaved like a cat perched upon a wall. The democratic governments watched him without closing their eyes then. Today American diplomats exchange pleasantries with him. We need not be surprised if Franco's voice is heard in the United Nations in the future.
+
+## Kemal's Land
+
+History shows that enmity from the past survives to some degree not only in the present but even into the future, however strenuous the attempt to make people forget it. The Ottoman Empire was broken up; the territorial ruler who was also a religious leader was driven out; ancient customs and observances were altered; a new order was created; and Kemal established democratic government and made Turkey one of the civilized countries. Yet the hostility that grew from Turkey's conflict with Russia under the Tsars still smoulders within.
+
+Though government by wealth has arisen, religious government has vanished, and democracy has blossomed, we do not see breadth of mind prevail. Small matters that ought to be settled through discussion are instead approached through reliance upon military power, while permanent armies guard both countries' frontiers. This shows that more time must pass before human qualities flourish. Consequently, although Turkey has lost the reproachful name “the sick man,” it remains even today an ailing state unable to satisfy all the people's needs. That is a matter for regret.
+
+## The Setting Sun
+
+British experts taught naval science; French experts prepared the army; America fashioned the teacher and the farmer; Germany trained the physician. Then the Asian sun that had submitted to all of them set.
+
+The leaders are not people content merely to boast that the king is Maheswara. They possess clear intelligence capable of shaping the future according to a changing world, and they display the human quality of treating the people with respect. There are no heroes there who mix pompous terror into empty words. Thus Britain, though it has declined, continues toward victory without relinquishing the elevated place it has always sought for itself in world affairs.
+
+When we see the astonishing wonder by which long-standing hostility disappears in a moment, attachment and affection increase after enmity has vanished, and the mouths of former critics sing praises day after day, how could we, or anyone else, fail to reflect upon the ability of the leaders who created this situation?
+
+Whatever the reason, one cannot say that Britain's foreign policy has departed from its old course. The celebrated British method of creating confusion upon confusion and then laying out a crooked path has not changed even today. Its relationship with America and the Soviet Union's distrust may deny Britain the opportunity to follow another method in this sphere. Or its own advantage may restrain Britain from adopting a new course. Whatever the cause, there appears to be not a drop of difference in this regard between Foreign Minister Comrade Bevin and the wartime prime minister Churchill. That leaders of two opposing doctrines remain united and speak with one voice only in foreign affairs is a riddle others cannot understand. Time alone must pronounce how this will change.
+
+Nevertheless, in Britain's case the pronouncements of the experts have proved false. Britain has not perished; it shines as before. The smell of imperialism has diminished a little in intensity. Several more years must pass before a complete transformation occurs.
+
+In today's world, socialism is the sole path by which any country can obtain a new life. The future of the people is bound up with the fallen empire becoming a land of social justice.
+
+## Dollar Imperialism
+
+Dollar imperialism traps other countries in its grip without sending an army, seizing their governments, or flying its flag. It speaks to hungry people in ruined lands with tenderness that could melt stone, treats national leaders with gracious hospitality, declares elegantly that it has no concern for its own advantage, advertises a desire to enrich other countries just as it enriches its own, gives them money, and in return disrupts their freedom. This is America's admirable scheme.
+
+Although the arrogance of Chiang and his wife was the fundamental cause of the Chinese people's ruin, no one can forget that it was the American dollar that obtained influence for the couple, kept them upon the throne, and continued to protect them. America spoke of supplying Asian countries with many instruments for industrial development and of the need for each country to prepare a perfectly clear industrial plan. Once the plans had been drawn up, it ended three years of effort with the single statement that aid could not be given, and came to preach: “Trade with Japan and prosper.” This is the lesson America learned from China's fall.
+
+Though Japan is no longer under the domination of that country's capitalists and has introduced a new political system, everyone knows that it is the American dollar that directs everyone there. America knows that trade conducted through Japan will yield it greater profit than direct American trade. Production can be made less costly in Japan because the standard of living there is so much lower than in America.
+
+If unemployment arose among Japanese already distressed by defeat, would not their pain turn into bitterness and lead them to seek another system capable of giving them a life? Would not common ownership flatten every method of obstruction and obtain the opportunity to rule the land? America has resolved to bury communism before attending to any other task. How, then, could it tolerate China becoming communist and neighbouring Japan turning red as well?
+
+America therefore needs to make Japan industrially prosperous and win the affection of the Japanese people. To oppose the Soviet Union, Japan must become a country with a first-rate military establishment. That is impossible without industrial strength. Thus America shows concern for Japan's development and advises Asian countries to expand their trade with it. Even when a man who has starved for many days knows that fine-looking food contains poison, will not the cruelty of hunger drive him to eat it? Asian countries that possess the harmful purpose of developing industry in a form serving the profit hunt of a few people cannot easily disregard America's admirable counsel.
+
+This is America's course in Asia. Its position is the same in Europe. Its aim there is not to improve the people's lives. America's cherished work is to prevent the Soviet system or Soviet authority from spreading and to secure its own dominance. America feels revulsion toward Soviet life and political organization, and distrusts Soviet promises. It has therefore set itself to preventing Soviet influence from extending farther across Europe. Dollar imperialism has spread throughout the world today. In some places the dollar has taken deep root; in others it survives as a surface coating.
+
+## Paradise on Earth
+
+There is no poverty there. The cruelty of unemployment has not raised its head. There are neither multitudes broken by labour nor idlers who consume what others produce, spend wastefully, and live in luxury. The country has acquired both the ability to reshape nature sufficiently to meet the people's needs and the scientific development required to do so.
+
+The entire honour of destroying Hitler's savagery in the war belongs to that country. It bore the whole strength of the Nazi military and defeated it. That victory was not merely a cause for rejoicing; it was also an event that brought immense suffering. The Soviet Union sustained enormous material damage, and countless factories were levelled. Rebuilding all this is no easy undertaking. Besides the hardship and loss involved in reconstruction, the Soviet Union bears responsibility for an uncertain future. There is also the fear that one unprepared step along a mistaken path would certainly ignite another world war. The Soviet Union's responsibility today is therefore many times greater than it was during the war.
+
+During the war, the Soviet Union's windows were opened slightly, enough for the outside world to observe its way of life with delight. When the war ended, those windows closed again. It is consequently natural that governments around the world should fear whether the closed hand contains poison or wholesome food. Whatever the reason for it, governments unable to know what occurs behind the iron curtain now view Soviet conduct with suspicion, distort it, and seek support for themselves.
+
+The affair of Marshal Tito appears to testify on behalf of those suspicious governments. A fear has arisen even among friends of the Soviet Union: after countries turn red, is it impossible for disputes between individual nations to end and for the lofty principle of a common human identity to prevail? Such doubt is reasonable. It is easy to consecrate those who think this way with names such as counter-revolutionaries, lackeys of imperialism, and fascist fanatics. That is not a method of resolving an honest doubt. We know these are words in the Communist dictionary used for denouncing sceptics. What is needed is explanation, not abuse.
+
+Even when shortcomings are alleged, it is largely true that the Soviet Union does not possess shortcomings of the kind found in other countries. There may be faults in practice; there is no defect in the fundamental system. Depending upon the country's condition and the effects of earlier events, measures may be either strict or lenient, and that is not something to be condemned. Whatever else may be said, there is not a drop of doubt that the Soviet Union is a paradise upon earth. Because the European part of the Soviet Union is especially important, only that region has been shown in the map.
+
+## The Fire He Lit
+
+Twice within thirty years war came because one or two great powers sought to divide the world among themselves. Germany found no place for itself wherever it looked. Even the few small pieces of territory it had retained were divided among the victorious powers after the First World War as compensation for their losses. Through the Treaty of Versailles, the great powers bequeathed labour and poverty to the defeated country while making everything its people produced their own.
+
+The pain of defeat on one side, the harm inflicted in the name of a treaty on another, and the disappointment of finding no place in the existing world on yet another transformed an ordinary man into a dictator. The ruined life imposed by the victorious powers in a spirit of revenge and disregard for humanity destroyed the middle classes. Hitler appeared to people wasting away in search of a livelihood as an incarnate saviour who would give them life. They fell because they knew no other course. Young people fell under the spell of his speeches. By stirring up fear of the Soviet Union and proclaiming that he would stop the spread of communism, Hitler obtained American support and British cooperation. The fire he lit spared no one and burned even him.
+
+The Japanese had a mentality inclined toward worship. Yet within fifty years they acquired modern industrial skill that made the whole world tremble. They advanced in a manner that frightened countries which had excelled in machine civilization long before them. This must be called a wonder of the first order. The Japanese established that nothing is difficult for a person who strives. They demonstrated the depth of human ability in a way that put white people to shame.
+
+Though they did not know our Sanatana system, a belief in high and low birth once existed among them in some form. They had greatly valued and followed reactionary notions such as prohibitions against crossing the sea and associating with foreigners. They cast all of them away in an instant. The feudal system disappeared, and they adopted parliamentary government. But they adopted only the form, not its fundamental principle; they discarded the juice and clung firmly to the pulp. Ministers not answerable to the people, military commanders obeying the emperor, powerful industrial empires, and dull-minded people dancing as those forces directed were all elements incompatible with parliamentary government.
+
+Their native country was small. Nearby territories were claimed as possessions by white powers. The population increased year after year; there was nothing at home with which to feed it, and volcanoes continually threatened them. They possessed the intelligence to multiply machinery and abundant energetic people capable of increasing production. But was that enough? They needed raw materials and markets in which to sell the products created by their labour, and no path was available. White people who had arrived fifty years before them had spread everywhere.
+
+With no path appearing, necessity remaining unresolved, and accumulated anger unabated, Japan came to enslave Korea, turn Manchuria into Manchukuo, wage war against Russia, and provoke conflict with China. Japan began competing with America and Britain in every world market. It was compelled to price its goods below theirs. Japanese workers consequently had to labour longer hours, eat only half a stomachful, and reduce other essential needs. Commercial competition dawned upon the battlefield.
+
+Today Japan's topknot is caught in America's hand. Japan is being constructed not merely as a factory but also as a first-rate military base. America is turning it into a camp for war. History's conclusion is that Japan's internal structure, its opposition to imperial domination, and the surrounding circumstances carried it along the road to war. History itself identifies all those who deserved punishment. That lesson was hidden: several Japanese wartime ministers were hanged and many others imprisoned. The journal thunders that this was an atrocity, not human justice. The power that commands others establishes this killing as justice and right conduct. Even in the twentieth century, might becomes right.
+
+Japan's rise and fall are a warning to Asian countries. Through its fall, Japan teaches us to sever imperialist relationships completely and cast away the capitalist system.
+
+## A Just Verdict
+
+An aircraft is being prepared so that Chiang and his wife may seek refuge abroad. They forgot the people, failed to wipe away their grief, shot down emaciated bodies writhing helplessly, rolled in luxury, gained status through power obtained for them by others, secured offices for relatives and friends, and ruled the land. Six years ago the American president welcomed Madame Chiang at the airport with many honours. Now, even after she went to seek him where he was staying, that country's leader reportedly sent word telling her merely to sit for a few minutes. Those dismissive words teach the rare lesson that the lady's beauty and ability alone are not enough to command American arms.
+
+At the same time, General Chiang declared in China, before the statue of Sun Yat-sen, that he would kill himself if China fell. Neither the lady's appeal nor his oath possessed the power to soften Truman's heart.
+
+The war proceeds intensely. Chiang's armies surrender one after another. The tactical claim that the advancing flood could be stopped by a dam called peace has also failed. The commander of the victorious army has proclaimed Chiang and his wife war criminals, and the order “Arrest them if they are seen” has been issued. This is the verdict of the Chinese people. The people have delivered such verdicts many times against rulers who forgot them.
+
+## The Spark of Freedom
+
+For the past three years, sparks of freedom have flown from a small island. The wisdom to behave respectfully has still not arisen in that petty imperial power. Even after seeing mortar and pestle alike fly through the air, this cotton-light empire has gained no clarity of thought. It dreams that exploitation can continue as before.
+
+During the Japanese invasion, this empire forgot both the people and its exploitation and fled. After many hardships and losses, the country freed itself and established republican government. Yet the empire lacks even a drop of the honest feeling that it would be improper and ugly to desire to enslave that country again. We cannot expect from it even the shameful thought that ought to arise: “We abandoned them in danger and ran away; how can we show our face to them again?”
+
+When Hitler seized its own country, how much did its heart suffer? How much anger surged within at the very thought of life in slavery? How firmly did it resolve to recover its lost freedom at any cost? Are the people of Java not the same? They are not mere dolls. Dutch imperialism ought to have reflected that wisdom lay in freeing them and rendered justice without requiring intervention by others. Instead, it attempts to destroy an independent government with guns. That is extraordinary indeed.
+
+We trust that the Asian Relations Conference being convened in India for Java's freedom will secure that freedom. We desire that it should succeed and not end as merely one more device for obtaining publicity.
+
+**Date:** 14.01.1949
+
+## We Are Ashamed, We Suffer; No, We Are Being Driven Away
+
+Last year we celebrated splendidly the seventy-first birthday of our leader Periyar.
+
+This year he invites us to witness his wedding ceremony; no, he informs us of it.
+
+For the past five or six years, Mrs Maniammai has devoted herself to the sacred service of caring for Periyar's health. She is twenty-six years old. She must now undertake the service of becoming Periyar's wife.
+
+For the past week, their application for a registered marriage has been displayed at the registration office in Madras. Many have seen it and been stunned.
+
+Periyar is seventy-two. Maniammai is twenty-six. Their registered marriage is to take place.
+
+Periyar himself referred to this in a statement published in *Viduthalai* on 28 June 1949: “I understand that to those who love me and care for my welfare, this may appear somewhat revolutionary and startling; it may cause fear that the movement itself will perish; and it may even appear a grave error capable of bringing me a bad name and disgrace.”
+
+His statement indicates that anger and bitterness alone will result. But these are not the only consequences of this news. Tears are flowing from thousands upon thousands of comrades in the movement whose hearts are pure.
+
+Whether he expected these tears or intends to value them is another matter. Never before have young people with hearts unmoved by anything shed tears upon hearing such news. Nor is it possible to identify a comparable event among the happenings of the world.
+
+Those who once walked with heads held high as emissaries of self-respect and warriors of liberation now wipe away streaming tears and move about with faltering feet and wringing hands, fearing who may see them and what mockery may be made. Even a heart of stone would melt at the sight.
+
+Marriage is a personal matter. Even marrying in old age is a personal matter. If an individual, or someone who is merely the leader of a political party, married in old age, hearing of it might startle us, provoke ridicule, or arouse anger. It would not bring tears. Today, however, tears flow in torrents at the news of Periyar's marriage.
+
+We did not regard him merely as the leader of a political party. Every member of the movement accepted him as the head of their family and the guide to their life, showing him a degree of respect and affection shown to no other movement leader. To our eyes, he had appeared as the great man who would restore our honour and the mighty warrior who fought to rescue us from the slavery that had tormented us for ages.
+
+His glance gave us joy. His word was law to us. The path he laid down appeared to us as the road to liberation. We followed him almost as devotees followed incarnate beings.
+
+The reason was our heartfelt belief that he possessed a distinctive character and quality absent in every other leader. As he grew older, he seemed unconcerned with personal life, family, or his own comfort. Like an ascetic, he wandered day and night, laboured with extraordinary effort, and endured distress and suffering so that we might live. We therefore swelled with pride and stood proudly convinced that he fully deserved the name Periyar and that no one else was like him.
+
+He told us everything others had not told us and explained what no one else had explained. He showed us a plan by which we could understand ourselves and preserve our honour. He did not speak merely of politics. He spoke of life, of resolving life's difficulties, and of the means by which new changes could be introduced into life.
+
+He showed that doctrines said to have been pronounced by ascetics and recipients of divine grace had made our lives contrary to human nature. He delivered heroic speeches calling upon us to defy those commands and establish a new but sacred ideal for life.
+
+The aspect of life's problems upon which he spoke with greatest distinction and clarity was marriage. No other leader spoke as he did to break the superstitious customs embedded in marriage, abolish the wickedness that reduced women to instruments, and restrain men's cruelty.
+
+It did not stop with speeches. The whole country changed; our hearts changed; even the schemes the rishis had devised and left behind changed. We rejoiced, took pride, and grew confident. When he condemned mismatched marriages, old men trembled and young women rejoiced.
+
+On thousands of platforms he thundered: if lust-maddened men in old age induced young women to consent to marriage by tempting them with property and comfort, or by citing any other reason, could young men concerned with honour and righteous anger permit such a marriage to occur? He infused all of us with fresh vigour.
+
+On thousands of platforms he condemned the cruelty of seeking a wife on the ground that one had no child and therefore no heir to one's property. He proclaimed that mismatched marriage was a great curse upon the country. He mocked everyone from Dasaratha of old to the old men of today seeking rejuvenating elixirs.
+
+Wherever self-respect had flourished, if a mismatched marriage was to occur in any house for any reason, public feeling rose so intensely that police protection had to be sought. Even those who had already entered mismatched marriages were struck by shame and pain.
+
+There was no town that had not heard him say: “Old men like me should not even think of marriage. If such a thought somehow arises, let him marry some forty- or fifty-year-old child whose tali has been cut, that is, a widow, and get it over with. But should he marry a woman like a tender green creeper, a woman of the age and maturity to discover life's pleasures? Let him produce a thousand reasons. Even then, what man with honour would call that marriage right? Who would consent to it?”
+
+When the person who imparted such counsel marries a twenty-six-year-old woman by registration at the age of seventy-two, what position remains for us except to offer our tears?
+
+The question, “Well, Dravidar Kazhagam! Is your leader getting married?” pierces the heart like a sharp arrow.
+
+They mock us: “This is a reform movement. Look here at its reform: marriage between seventy-two and twenty-six!” The heart bursts upon hearing it.
+
+They jeer, “A staff in the groom's hand and a black shirt for the bride!”
+
+They rebuke us, “Advice is only for the rest of the town!”
+
+The marketplace claps and laughs: “Periyar, who used to say, ‘What is there for me? I am past seventy, with one foot at home and the other in the cremation ground. There is no one to weep when I die and no one for me to die weeping over,’ is getting married!”
+
+People speak as though lashing us with a whip: “O unsurpassed heroes who condemn the injustices of the town! Supreme warriors who drive away social degradation! Elders who wage the great struggle for women's liberation! Honourable men who condemned mismatched marriage! Your leader, in the guise of an ascetic and at a tottering age, is marrying a young woman. What becomes of your doctrine? Where is your fitness to conduct propaganda? What do you say to this? How do you tolerate this atrocity, this injustice, this repulsive obscenity?” They speak this way now and will continue to do so.
+
+What shall we do? What explanation shall we offer? How shall we heal the wound in the heart and preserve our honour? When we think of these questions, grief erupts in greater measure than the sorrow caused by the death of a mother, father, wife, child, elder or younger brother, or any other close relative. We cry and continue to cry. This article itself is written amid tears.
+
+A mismatched marriage! The mismatched marriage of a revered leader! No attack by an enemy and no action by the government has ever bewildered our comrades as this has today.
+
+We have faced many crises and many dangers. We cannot withstand this catastrophe. We cannot, cannot, certainly cannot.
+
+He has smeared soot upon our faces and cut off our noses. Since hearing the news, we have sat in a corner and wept.
+
+We are ashamed to face others. We suffer in solitude.
+
+Each tries to wipe away the other's tears. We writhe because the scorpion of grief has stung the heart. How sharply and passionately have we condemned those who dared enter mismatched marriages!
+
+Now our leader treats us, our feelings, our principles, and the movement with utter indifference, and casually announces that at the age of seventy-two he will marry. He declares that he will turn us into walking corpses. He has told us, in effect: “Become objects of the country's laughter, bow your heads in shame; what is that to me?”
+
+Alas, what a great assault! What a humiliating act! Was it for this that we rose so high? Did we grow to this extent only to accept this blame and degradation?
+
+What a condition is ours; what a fate! Where is our refuge? What future have we? Great darkness lies ahead, mockers surround us, and we stand between them. Great pain fills the heart, water fills the eyes, and the hands and feet tremble. This is what we have become. Was our growth for this?
+
+Leader who made us what we are, should all this labour serve only to subject us to such a fate? What wrong did we commit against you that you should render us unable to show our faces before the world? We walked along the path you showed us. Is this our reward?
+
+Whenever you ordered us to advance against the storm, we showed our assent not in words but in deeds. Is this the reward for that?
+
+We have never seen a mother bite off the nose of a child that came to kiss her, Father. What wrong have we done? Why do you commit this unworthy act and cut away our self-respect?
+
+What offence did we commit? Why do you obtain for us an undying disgrace? How shall we endure this destruction?
+
+Even if a thousand reasons are offered and ingenious explanations given, seventy-two and twenty-six cannot be denied. It cannot be concealed that this is a mismatched marriage.
+
+It cannot be denied that when you, the great champion of reform, do this, it becomes a stain that even time cannot erase. Why do you do it? Why do you expose us to ridicule?
+
+These are the questions thousands upon thousands of young people ask as they stand wiping away their tears. These are the questions thousands upon thousands of young people will ask until one day their hearts cease to beat.
+
+None of us imagined, even in a dream, that this mismatched marriage might occur. Periyar's appearance, age, speech, and the quality he displayed of seeming detached from life gave us no reason to think so. And what kind of woman is involved?
+
+Maniammai came to the movement five or six years ago to attend to such matters as protecting Periyar's life and health, providing suitable food and medicine, and arranging comfort during travel. Her town is Vellore. Her father was Kanagasabai Mudaliar, who was also devoted to the movement. He died; Maniammai's education ceased; she set out to serve Periyar.
+
+*[The available scan sequence ends here, in the middle of the article.]*
+
+## Translator's Notes
+
+The printed sequence moves directly from the opening discussion of France into the heading `இத்தாலி`. “Kemal's Land” denotes Turkey after Mustafa Kemal Atatürk's reforms. `அஸ்தமித்த சூரியன்` is retained as the metaphorical heading “The Setting Sun,” referring to Britain and the decline of empire.
+
+`பொதுவுடைமை` is rendered contextually as “communism” or “common ownership.” `பூலோக சொர்க்கம்` is translated literally as “Paradise on Earth.” The source's references to the “iron curtain” and Marshal Tito place this section in the immediate post-war political setting.
+
+The heading `அவன் வைத்த தீ` is translated as “The Fire He Lit.” The printed text passes from Hitler's Germany into Japan without a separate heading, and that transition is retained within the same section. `நல்ல தீர்ப்பு!` is rendered as “A Just Verdict,” and `உரிமைக் கனல்` as “The Spark of Freedom.” The source uses `ஜாவா` for the Indonesian republican struggle against Dutch rule.
+
+The scan confirms the figures as Periyar's seventy-first birthday celebration in the preceding year, Periyar aged seventy-two, and Maniammai aged twenty-six. It also confirms the cited *Viduthalai* date as 28.06.1949. Several OCR lines misread these numerals as 77, 78, 28, or 29. The available twenty-first scan ends abruptly after Maniammai sets out to serve Periyar; no conclusion or continuation is present in this canonical source bundle.

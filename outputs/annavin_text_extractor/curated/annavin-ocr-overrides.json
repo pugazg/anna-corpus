@@ -21,6 +21,36 @@
           "reason": "OCR read ந்த as நீ in scanned text"
         }
       ]
+    },
+    "katturaigal/puratchi_kanda.md": {
+      "phraseCorrections": [
+        {
+          "wrong": "பரட்௪, புரட்2/ எழுத்திலே புரட்! எண்ணத்திலே புரட்)",
+          "right": "புரட்சி, புரட்சி! எழுத்திலே புரட்சி! எண்ணத்திலே புரட்சி!",
+          "reason": "verified against scan 1"
+        },
+        {
+          "wrong": "சென்ற ஆண்டு நாம் ந.மது தலைவர் பெரியாரின் 77-வது",
+          "right": "சென்ற ஆண்டு நாம் நமது தலைவர் பெரியாரின் 71-வது",
+          "reason": "scan 14 clearly prints 71-வது"
+        },
+        {
+          "wrong": "ப மணியம்மைக்கு வயது 28.",
+          "right": "மணியம்மைக்கு வயது 26.",
+          "reason": "scan 14 clearly prints 26"
+        },
+        {
+          "wrong": "பெரியாரே 28-6-29 விடுதலையில்",
+          "right": "பெரியாரே 28-6-49 விடுதலையில்",
+          "reason": "scan 14 clearly prints 28-6-49"
+        },
+        {
+          "wrong": "நமது தலைவர், 78-ஆம்\nவயதிலே",
+          "right": "நமது தலைவர், 72-ஆம்\nவயதிலே",
+          "reason": "scan 20 and the article context identify Periyar as 72"
+        }
+      ],
+      "tokenCorrections": []
     }
   }
 }
