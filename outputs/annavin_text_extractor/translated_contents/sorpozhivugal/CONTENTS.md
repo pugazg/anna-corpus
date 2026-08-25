@@ -443,7 +443,7 @@ Total source works: 537
 - [தலைப்பு இல்லா நாடாகத் தமிழ்நாடு திகழ்வதா?](thalaippu_illai.md) - pending
 - [sorpozhivugal/thambiyae_va](thambiyae_va.md) - translated
 - [தம்பியைப் பறிகொடுத்து கலங்குகிறேன்](thambiyai_parikoduthu.md) - pending
-- [sorpozhivugal/thambiyudayan](thambiyudayan.md) - pending
+- [sorpozhivugal/thambiyudayan](thambiyudayan.md) - translated
 - [தமிழ் இனம் வாழ்ந்தால்தான் தமிழ் மொழி வளரும்](thamizh_inam_vazhnthalthan.md) - pending
 - [தமிழ்த் தலைவர்கள் காட்டுமிராண்டிகளா?](thamizh_thalaivarhal_kattumirandihala.md) - pending
 - [sorpozhivugal/thamizhagathirku](thamizhagathirku.md) - translated

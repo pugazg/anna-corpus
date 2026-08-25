@@ -276,6 +276,101 @@
         }
       ],
       "tokenCorrections": []
+    },
+    "sorpozhivugal/thambiyudayan.md": {
+      "phraseCorrections": [
+        {
+          "wrong": "என்பதிலேயும்\nயைமில்லை.",
+          "right": "என்பதிலேயும்\nஐயமில்லை.",
+          "reason": "scan 1 clearly prints ஐயமில்லை"
+        },
+        {
+          "wrong": "வியந்து பாராட்டினார்கள் என் அ நான்",
+          "right": "வியந்து பாராட்டினார்கள் என்று நான்",
+          "reason": "the scan 1-2 page join clearly reads என்று நான்"
+        },
+        {
+          "wrong": "ம. பொ. ௪. யும்",
+          "right": "ம. பொ. சி. யும்",
+          "reason": "scan 8 clearly prints the initials ம. பொ. சி."
+        },
+        {
+          "wrong": "ம. பொ. ௪ி.",
+          "right": "ம. பொ. சி.",
+          "reason": "scan 7 clearly prints the initials ம. பொ. சி."
+        },
+        {
+          "wrong": "தாக்குதலுக்கு அளாகிறார்கள்",
+          "right": "தாக்குதலுக்கு ஆளாகிறார்கள்",
+          "reason": "scan 9 clearly prints ஆளாகிறார்கள்"
+        },
+        {
+          "wrong": "அச்சரியக்குறியாக மாறியவுடன்",
+          "right": "ஆச்சரியக்குறியாக மாறியவுடன்",
+          "reason": "scan 9 clearly prints ஆச்சரியக்குறியாக"
+        },
+        {
+          "wrong": "2றுபடியும் எங்களை",
+          "right": "மறுபடியும் எங்களை",
+          "reason": "scan 9 clearly prints மறுபடியும்"
+        },
+        {
+          "wrong": "என்று அறித்து கொள்ள",
+          "right": "என்று அறிந்து கொள்ள",
+          "reason": "scan 10 clearly prints அறிந்து கொள்ள"
+        },
+        {
+          "wrong": "எனியோர்கள் இந்தக் கழகத்தை",
+          "right": "எளியோர்கள் இந்தக் கழகத்தை",
+          "reason": "scan 15 clearly prints எளியோர்கள்"
+        },
+        {
+          "wrong": "வெற்றிகரமான மூறையில்",
+          "right": "வெற்றிகரமான முறையில்",
+          "reason": "scan 18 clearly prints முறையில்"
+        },
+        {
+          "wrong": "கழகத் தோழர்கள் அகிய அனைவரும்",
+          "right": "கழகத் தோழர்கள் ஆகிய அனைவரும்",
+          "reason": "scan 18 clearly prints ஆகிய"
+        },
+        {
+          "wrong": "சரிகை வேட்டி வாங்கித் கொடுத்து",
+          "right": "சரிகை வேட்டி வாங்கிக் கொடுத்து",
+          "reason": "scan 18 clearly prints வாங்கிக் கொடுத்து"
+        },
+        {
+          "wrong": "நமக்கும் அல்லவா வெல்வெட் சட்டை பேட்டார்தள்/",
+          "right": "நமக்கும் அல்லவா வெல்வெட் சட்டை போட்டார்கள்!",
+          "reason": "scan 19 clearly prints the complete exclamation"
+        },
+        {
+          "wrong": "ஒரு தீந்தையினால்",
+          "right": "ஒரு தந்தையினால்",
+          "reason": "scan 19 clearly prints தந்தையினால்"
+        },
+        {
+          "wrong": "தீந்தையினால் அப்படி.",
+          "right": "தந்தையினால் அப்படி",
+          "reason": "scan 19 clearly prints தந்தையினால் அப்படி without an intervening full stop"
+        },
+        {
+          "wrong": "அவரது உடலில் ஏந்த விதமான",
+          "right": "அவரது உடலில் எந்த விதமான",
+          "reason": "scan 19 clearly prints எந்த விதமான"
+        },
+        {
+          "wrong": "முத்திரையைப் பொரறிக்கத்தக்க",
+          "right": "முத்திரையைப் பொறிக்கத்தக்க",
+          "reason": "scan 19 clearly prints பொறிக்கத்தக்க"
+        },
+        {
+          "wrong": "பல மூறை எடுத்துச்",
+          "right": "பல முறை எடுத்துச்",
+          "reason": "scan 20 clearly prints பல முறை"
+        }
+      ],
+      "tokenCorrections": []
     }
   }
 }

@@ -1,6 +1,20 @@
 file,type,wrong,right,count,reason
-sorpozhivugal/manila_avai.md,phrase,"(நன்றி: திர. ம. நடராசன் - தமிழ் ௮ரசி பதிப்பகம், சென்னை - /8.)","(நன்றி: திரு. ம. நடராசன் - தமிழ் அரசி பதிப்பகம், சென்னை - 18.)",1,"scan 1 clearly prints திரு., தமிழ் அரசி and page 18"
-sorpozhivugal/manila_avai.md,phrase,178 கோடி ரூபாய் வருமான வரி,118 கோடி ரூபாய் வருமான வரி,1,scan 5 repeats 118 கோடி in both references
-sorpozhivugal/manila_avai.md,phrase,"கவனிக்காவி.'்ூூ ல், கேரளம்","கவனிக்காவிட்டால், கேரளம்",1,scan 12 clearly prints கவனிக்காவிட்டால்
-sorpozhivugal/manila_avai.md,phrase,வசுூலிக்கப்படாமல்,வசூலிக்கப்படாமல்,1,scan 5 clearly prints வசூலிக்கப்படாமல்
-sorpozhivugal/manila_avai.md,phrase,முூள்போல இருக்கும் என்கிறார்,முள்போல இருக்கும் என்கிறார்,1,scan 12 clearly prints முள்போல
+sorpozhivugal/thambiyudayan.md,phrase,"என்பதிலேயும்
+யைமில்லை.","என்பதிலேயும்
+ஐயமில்லை.",1,scan 1 clearly prints ஐயமில்லை
+sorpozhivugal/thambiyudayan.md,phrase,வியந்து பாராட்டினார்கள் என் அ நான்,வியந்து பாராட்டினார்கள் என்று நான்,1,the scan 1-2 page join clearly reads என்று நான்
+sorpozhivugal/thambiyudayan.md,phrase,ம. பொ. ௪. யும்,ம. பொ. சி. யும்,1,scan 8 clearly prints the initials ம. பொ. சி.
+sorpozhivugal/thambiyudayan.md,phrase,ம. பொ. ௪ி.,ம. பொ. சி.,1,scan 7 clearly prints the initials ம. பொ. சி.
+sorpozhivugal/thambiyudayan.md,phrase,தாக்குதலுக்கு அளாகிறார்கள்,தாக்குதலுக்கு ஆளாகிறார்கள்,1,scan 9 clearly prints ஆளாகிறார்கள்
+sorpozhivugal/thambiyudayan.md,phrase,அச்சரியக்குறியாக மாறியவுடன்,ஆச்சரியக்குறியாக மாறியவுடன்,1,scan 9 clearly prints ஆச்சரியக்குறியாக
+sorpozhivugal/thambiyudayan.md,phrase,2றுபடியும் எங்களை,மறுபடியும் எங்களை,1,scan 9 clearly prints மறுபடியும்
+sorpozhivugal/thambiyudayan.md,phrase,என்று அறித்து கொள்ள,என்று அறிந்து கொள்ள,1,scan 10 clearly prints அறிந்து கொள்ள
+sorpozhivugal/thambiyudayan.md,phrase,எனியோர்கள் இந்தக் கழகத்தை,எளியோர்கள் இந்தக் கழகத்தை,1,scan 15 clearly prints எளியோர்கள்
+sorpozhivugal/thambiyudayan.md,phrase,வெற்றிகரமான மூறையில்,வெற்றிகரமான முறையில்,1,scan 18 clearly prints முறையில்
+sorpozhivugal/thambiyudayan.md,phrase,கழகத் தோழர்கள் அகிய அனைவரும்,கழகத் தோழர்கள் ஆகிய அனைவரும்,1,scan 18 clearly prints ஆகிய
+sorpozhivugal/thambiyudayan.md,phrase,சரிகை வேட்டி வாங்கித் கொடுத்து,சரிகை வேட்டி வாங்கிக் கொடுத்து,1,scan 18 clearly prints வாங்கிக் கொடுத்து
+sorpozhivugal/thambiyudayan.md,phrase,நமக்கும் அல்லவா வெல்வெட் சட்டை பேட்டார்தள்/,நமக்கும் அல்லவா வெல்வெட் சட்டை போட்டார்கள்!,1,scan 19 clearly prints the complete exclamation
+sorpozhivugal/thambiyudayan.md,phrase,தீந்தையினால் அப்படி.,தந்தையினால் அப்படி,1,scan 19 clearly prints தந்தையினால் அப்படி without an intervening full stop
+sorpozhivugal/thambiyudayan.md,phrase,அவரது உடலில் ஏந்த விதமான,அவரது உடலில் எந்த விதமான,1,scan 19 clearly prints எந்த விதமான
+sorpozhivugal/thambiyudayan.md,phrase,முத்திரையைப் பொரறிக்கத்தக்க,முத்திரையைப் பொறிக்கத்தக்க,1,scan 19 clearly prints பொறிக்கத்தக்க
+sorpozhivugal/thambiyudayan.md,phrase,பல மூறை எடுத்துச்,பல முறை எடுத்துச்,1,scan 20 clearly prints பல முறை
