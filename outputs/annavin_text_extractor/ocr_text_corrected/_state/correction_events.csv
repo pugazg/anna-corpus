@@ -1,15 +1,6 @@
 file,type,wrong,right,count,reason
-sorpozhivugal/ara_nilaya.md,phrase,"ஒரு கோயிலிலே
-272 தீவட்டிகளும்","ஒரு கோயிலிலே
-27 தீவட்டிகளும்",1,scan 5 clearly prints 27 தீவட்டிகளும்
-sorpozhivugal/ara_nilaya.md,phrase,"அதே பணத்தைக் கொண்டு 35000-ரூபாய்க்கு
-சரக்கு எடுத்து","அதே பணத்தைக் கொண்டு 5000-ரூபாய்க்கு
-சரக்கு எடுத்து",1,scan 10 clearly prints 5000-ரூபாய்க்கு
-sorpozhivugal/ara_nilaya.md,phrase,"ஒரு கடையிலே 115 வயதுடைய
-பையன் தேவை","ஒரு கடையிலே 15 வயதுடைய
-பையன் தேவை",1,scan 12 clearly prints 15 வயதுடைய
-sorpozhivugal/ara_nilaya.md,phrase,ஆகஸ்ட் 75-அம் தேதிக்குப் பிறகும்,ஆகஸ்ட் 15-ஆம் தேதிக்குப் பிறகும்,1,scan 12 clearly prints ஆகஸ்ட் 15-ஆம் தேதிக்குப் பிறகும்
-sorpozhivugal/ara_nilaya.md,phrase,எத்திரங்கள் வடித்திடுவீரே!,எந்திரங்கள் வடித்திடுவீரே!,1,scan 12 clearly prints எந்திரங்கள்
-sorpozhivugal/ara_nilaya.md,phrase,ஒவ்வொரு தழையாகக் கிள்ளிக் &ழே போட்டுக்,ஒவ்வொரு தழையாகக் கிள்ளிக் கீழே போட்டுக்,1,scan 17 clearly prints கீழே
-sorpozhivugal/ara_nilaya.md,phrase,அவர் உயிரைத் தொடாதே! அவா்,அவர் உயிரைத் தொடாதே! அவர்,1,scan 17 clearly prints அவர்
-sorpozhivugal/ara_nilaya.md,phrase,ழே கிள்ளிப் போட்ட தழையினால்,கீழே கிள்ளிப் போட்ட தழையினால்,1,scan 17 clearly prints கீழே
+sorpozhivugal/manila_avai.md,phrase,"(நன்றி: திர. ம. நடராசன் - தமிழ் ௮ரசி பதிப்பகம், சென்னை - /8.)","(நன்றி: திரு. ம. நடராசன் - தமிழ் அரசி பதிப்பகம், சென்னை - 18.)",1,"scan 1 clearly prints திரு., தமிழ் அரசி and page 18"
+sorpozhivugal/manila_avai.md,phrase,178 கோடி ரூபாய் வருமான வரி,118 கோடி ரூபாய் வருமான வரி,1,scan 5 repeats 118 கோடி in both references
+sorpozhivugal/manila_avai.md,phrase,"கவனிக்காவி.'்ூூ ல், கேரளம்","கவனிக்காவிட்டால், கேரளம்",1,scan 12 clearly prints கவனிக்காவிட்டால்
+sorpozhivugal/manila_avai.md,phrase,வசுூலிக்கப்படாமல்,வசூலிக்கப்படாமல்,1,scan 5 clearly prints வசூலிக்கப்படாமல்
+sorpozhivugal/manila_avai.md,phrase,முூள்போல இருக்கும் என்கிறார்,முள்போல இருக்கும் என்கிறார்,1,scan 12 clearly prints முள்போல

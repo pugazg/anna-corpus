@@ -1,4 +1,10 @@
-# sorpozhivugal/manila_avai
+# மாநிலங்கள் அவையில் - 12.11.62 / In the Council of States - 12 November 1962
+
+**Tamil title:** மாநிலங்கள் அவையில் - 12.11.62  
+**English title:** In the Council of States - 12 November 1962  
+**Source file:** `sorpozhivugal/manila_avai.md`
+
+## Source Tamil (verbatim)
 
 - Source image folder: `/Users/pugazhendhirajendran/Documents/Codex/2026-07-09/https-www-annavinpadaippugal-info/outputs/annavin_text_extractor/ocr_images/sorpozhivugal/manila_avai`
 - OCR language: `tam`
@@ -817,3 +823,167 @@
 பேசுவார். ஆகவே, இத்தகைய மறைமுக வரிகளுக்கு அவசியம்
 இல்லை, மக்களைக் கசக்கிப் பிழியவேண்டியதில்லை என்று
 கூறுகிறேன்.
+
+## English Translation
+
+(Acknowledgement: Mr M. Natarajan, Tamil Arasi Publishing House, Madras, p. 18.)
+
+Mr Deputy Chairman, the Taxation Bill was debated in the other House, the Lok Sabha, and is now being debated here. I have listened to the many useful suggestions offered by members on this side and the other.
+
+It is evident from the debate that no one is satisfied with imposing taxes upon the people in this manner. Whatever reasons may be offered for the new taxes, no section of this House and no section of the public outside is prepared to bear the new burden. Before this new burden from the Central Government, the Railway Ministry had already imposed taxes; the State Governments are preparing to follow with new taxes of their own.
+
+The immediate impression created by this Bill is that the present Government, bewildered by its failures, is asking the public to carry an unnecessary load. It cannot give a satisfactory explanation for its failures or for the harm caused by what it has done and failed to do. It can say only one thing: because the Plan must be fulfilled, the people must bear every burden.
+
+When critics ask what kind of Plan this is, and whether it rests on socialism or something else, the Government replies, “We are very good people. We take a piece from here and another from there, mix them together, and prepare a mixed economy.”
+
+Mr Deputy Chairman, you know that adulteration is an offence. The Finance Minister spoke angrily against adulteration in the Lok Sabha. He said that if adulterators were found, they should not merely be whipped...
+
+**Morarji Desai:** I did not say that. It was suggested that they should be whipped.
+
+**Anna:** Then the Finance Minister does not even wish to punish them! Nevertheless, adulteration is an offence. The adulteration of economic philosophy is an offence whose consequences will be suffered not only by the people of today but by future generations.
+
+I therefore want the Government to formulate its policy upon an economic philosophy. Instead, it demands a new interpretation of every philosophy. When the old interpretation helps it, it accepts that interpretation. When it does not, it says, “We do not drown ourselves in philosophy; we are interested in practical action.” All the trouble arises because this Government has neither a philosophy nor an economic goal. It wants to steal whatever ideals bring prestige from every political party: from the Communist Party, from the Swatantra Party, and from all the others. It then says there need be no other party, because “We too are socialists, and we have a mixed economy.” If it clearly states the economic philosophy underlying its policy, the other parties can present their own.
+
+Mr Bhupesh Gupta has said that there are two groups in the Congress, one pulling to the right and the other to the left, and that the Communist Party would help the Congress left expel the right. Unfortunately, he placed the present Finance Minister in the right-wing group, the group to be expelled.
+
+Whatever philosophy may underlie the taxation policy, changes in direct and indirect taxation will yield a total of Rs 717 crores in a full year: Rs 445 crores from indirect taxes and Rs 272 crores from direct taxes. The Finance Minister announces this revenue with a kind of undisturbed happiness. He does not feel the emotions of people compelled to pay taxes they cannot bear. He speaks like a Vedantin.
+
+He says the wealthy must pay an increasing share and the poor must receive greater advancement, and that these are parts of the Government's socialist policy. I earnestly ask him to prove both claims. Has he truly framed taxation so that the rich carry the larger burden and the poor receive the greater benefit?
+
+I wish to cite what is virtually a condemnation by another Minister and member of the ruling party. He has said that the value of the rupee continues to decline because of the Indian Government's revenue and taxation policy; that ninety-five per cent of the people live at subsistence level or below it; and that excessive wealth is becoming immobilised in the hands of a few.
+
+When members on this side say the rupee is falling, they are dismissed as lacking full information. But T. T. Krishnamachari, who left Delhi saying, “I am a Minister without portfolio, and I am leaving because tigers roam here,” has said the same. I hope the tigers have now been chased away, or perhaps he has returned with a loaded gun. In any event, he holds a position of responsibility. I call him responsible precisely because no department has been assigned to him, which means every department is his.
+
+Who, then, is to blame for the rupee's decline? Those on the Opposition benches? When plans are made, ruling-party members do not consult us even as a courtesy. A national Government run by a political party that demands the rich man's money and the poor man's vote in an authoritative voice has ruled for fifteen years, yet the rupee falls. Ninety-five per cent of the people still struggle to survive. Two Five-Year Plans are complete and the third is midway, yet this is the condemnation voiced by a member of the Cabinet. Is this, when ninety-five per cent struggle for life, the proper time to tax the people, especially through indirect taxes?
+
+A Government-appointed national survey committee has reported that 270 lakhs of people receive only one hour's work a day, 200 lakhs receive two hours, and 45 lakhs receive four hours, with no work during the remaining hours. We spend crores upon crores, money taken from the people and money received abroad as loans and aid. After fifteen years of self-rule and twelve years of planned development, 270 lakhs obtain only one hour of work a day. After squeezing the people for the Plans and spending so much in their name, why does this condition remain? What explanation is there?
+
+Our foreign reserves have melted away, exports have fallen, and foreign aid appears likely to be cut. Indirect taxes rise and prices rise. People evade direct taxes, and black money grows. It is said that Rs 118 crores of income tax remain in arrears. I ask the Finance Minister why so great a sum has not been collected. With what courage does he tell ordinary people that they must pay taxes for the Plans? Strictness ought first to be shown toward those who owe Rs 118 crores. Had he collected even half through firm measures, there would have been no need to tax the people.
+
+But he does not describe himself as taxing merely to cover a deficit. Like an emperor he proclaims that Rs 71 crores in revenue will be obtained. He has the mind of a tax collector, not of an administrator who wishes to see this great subcontinent develop. That is why my friend Bhupesh Gupta asked what political philosophy underlies these economic plans.
+
+My first charge, therefore, is this: because you have no definite political philosophy, you lead the country blindly into dead ends. You do not even know the consequences of these taxes. You say taxation and rising taxes are marks of prosperity. I agree that they may mark prosperity, but whose prosperity? Which section of the people is prosperous? That question remains unanswered.
+
+Indirect taxes, especially those on basic necessities, must therefore be withdrawn even though the Bill has passed the Lok Sabha. The Finance Minister is praised as possessing a Vedantic temperament. If he considers the criticism of his own party members, he will learn that no one supports these new taxes. Votes were obtained through the party whip, and members submitted to discipline. Morality gives him no right to impose them. If he honours the criticism of his own members, he will honour not only the people but the very Vedanta he is said to have embraced.
+
+Mr Deputy Chairman, I wish to say a little about the strange and unparalleled form of democracy operating in this country. Members of the ruling party in both Houses condemned the new taxes with the same anger as members on this side. Outside, however, they must support the Government. A whip is issued and they vote for it.
+
+Soon the Communist Party, Jana Sangh, Swatantra Party, and the party to which I am proud to belong will separately hold meetings condemning the tax burden. When we tell the people that these taxes are impractical and will further torment those already afflicted by poverty, the same Congress members will come forward to defend the Government. Do not imagine the people will accept their words. They read not only what is said outside in support of the Government but what was said here. I am therefore pleased that ruling-party members condemned the Finance Minister's indirect taxes properly and boldly.
+
+The Minister may turn and ask, “But do I not need money?” One source I propose is the recovery of income-tax arrears. Find the cheats and close the holes in administration. I need not repeat everything Bhupesh Gupta said; you may be unable to digest it. Even under the existing system, however, economy in the departments and the closing of administrative gaps would produce enough money to run the administration.
+
+When we say administration is defective and contains bribery, corruption, and favouritism in appointments, Ministers demand, “Prove it.” Yet the Hyderabad Economy Committee repeatedly says bribery is difficult to prove, and for that very reason there should be no hesitation in investigating whenever a complaint arises.
+
+Consider the Government's conduct. H. M. Patel, an Indian Government officer implicated in the Mundhra scandal, has reportedly been employed by the Narmada Valley Corporation, albeit temporarily.
+
+**Bhupesh Gupta:** In two years they will give him the Padma Vibhushan!
+
+**Anna:** Why, he may even obtain a place in the Cabinet. When the matter was raised in the Lok Sabha, the Prime Minister said he knew nothing about it. I am glad he said so. Had he declared, “Yes, I know who was appointed and approved it,” I would have been shocked. Fortunately, he said he did not know.
+
+This is the relationship between State and Central Governments. You summon intellectuals from all over the country and ask them to guide national integration. First establish integration among your own governments. We have a Prime Minister who says he does not know why or how this man was appointed. The people know that this officer was connected with the Mundhra scandal. What will they say when they read that he has obtained a lucrative position? Leave aside your socialist speeches and philosophy; what will they say about this appointment?
+
+That is why I say the holes in administration must be closed. Genuine and permanent change must be made in the administrative structure.
+
+Gorwala, invited by the Government to recommend administrative reform, wrote of income tax:
+
+“The public complaint is that ordinary people are harassed without cause, while those who evade taxes amounting to many lakhs escape. The Income Tax Investigation Commission has failed to produce proper results. Audacious tax evaders continue their activities without the slightest concern. A widespread belief exists that this Government displays helplessness when forced to confront extremely wealthy and influential persons.”
+
+I would have thought twice before using so severe a word as “helplessness.” Gorwala, however, was invited by the Government itself to propose reform and used that word about it. When your own appointee calls your Government helpless, may we not ask the Cabinet by what qualification it demands crores from the people? The administrative system must acquire greater vitality and capacity for action.
+
+Here is another condemnation, this time of the Commerce Ministry. It has acquired an extremely bad name for yielding to the wishes of great commercial magnates. Perhaps T. T. Krishnamachari was thinking of this when he said tigers were roaming. I do not understand how he reached that conclusion from outside. If I may hazard a guess, he may have had such curious experience because he himself was formerly Commerce Minister. In any case, the Ministry has earned a bad reputation for issuing licences to commercial princes.
+
+If these things are corrected, the enthusiastic public support for the Plan mentioned by the previous speaker may emerge. But how can people show enthusiasm when taxes and prices continually rise, unemployment grows, and the governmental system cannot provide even the necessities of life?
+
+Although I belong to a party that insists Dravida Nadu must separate from India, I wish to show that your planned industrial development is not designed to realise the full wealth this subcontinent can produce. Economic activity has not been evenly organised.
+
+**Bhupesh Gupta:** Give up Dravida Nadu. Let us remain within the Indian Republic and fight together for more industrial projects for Tamil Nadu. Let us make that agreement. Do you accept it?
+
+**Anna:** I thank Bhupesh Gupta for being so eager to have me with him, but I do not wish to abandon my ideal in order to make him my ally.
+
+Only after a long delay has the Government realised that its industrial-development plan is uneven. It now speaks of regional economic balance. Some regions have developed greatly while others have not advanced. It says that henceforth special attention will be given to neglected regions. This means that throughout twelve years of planning you planned wrongly and failed to devise balanced economic growth.
+
+When Mrs Devaki Gopidas recently explained how Kerala had been neglected, she said Kerala's special characteristics must be considered when plans are framed and remedies found; otherwise Kerala would remain a thorn in the growth of the Indian Union. That observation came from one who believes India is one and indivisible.
+
+**Solomon:** Even within the Congress there are Dravidar Kazhagam people.
+
+**Anna:** There may be people with a Dravidar Kazhagam outlook in the Congress, but I belong to the Dravida Munnetra Kazhagam.
+
+**Solomon:** I meant the Dravida Munnetra Kazhagam.
+
+**Deputy Chairman:** How much more time do you wish to take?
+
+**Anna:** Please allow me another five minutes. Madam said Kerala would be a thorn in the Indian Union. Through you, Mr Deputy Chairman, I ask Bhupesh Gupta to attend to that. What do we do with thorns? We pull them out. In a political constitution or in the body, if there is a thorn, we remove it.
+
+**Bhupesh Gupta:** What did you say? I was not listening.
+
+**Anna:** I have no time to debate it with you now; we can debate later. Even those who believe in Indian unity think the problem of unity cannot be considered settled if the region where they live lacks orderly industrial growth.
+
+**Bhupesh Gupta:** I think your separatist movement will weaken the democratic movement in Tamil Nadu and damage Tamil Nadu's claim. You will not obtain what you desire.
+
+**Deputy Chairman:** Please complete your speech.
+
+**Anna:** I give close attention to Bhupesh Gupta's advice. We try to remain as democratic as possible. I do not expect the Communist Party to behave in the same way.
+
+**Bhupesh Gupta:** We are wholly democratic. I accept your suggestion. There is nothing wrong in accepting a good suggestion from anyone. But will you accept mine and abandon the slogan of Dravida Nadu's separation from India? Mr Deputy Chairman, I have accepted his suggestion.
+
+**Deputy Chairman:** Time is very short. Please finish.
+
+**Morarji Desai:** Bhupesh Gupta repeatedly rises and takes another member's time. He has used up his own. Why does he keep standing?
+
+**Bhupesh Gupta:** He seems to have great sympathy for DMK slogans.
+
+**Anna:** Mr Deputy Chairman, there is not enough time, or we could continue debating this. I do not think problems can be settled in this fashion. I am trying to show that every political party genuinely feels discontent about regional inequality. I cite it not to argue for separation, but to show that the country has failed to obtain the total increase in wealth it could have achieved because economic growth has not been balanced. That is my point. There are many other reasons for separation, but I do not wish to divert the speech toward them.
+
+One member strayed in that direction and even strangely told me to go to Ceylon and campaign. I do not know whether he feels greater affection for me or for Ceylon. In any case, he acknowledged that he is a Dravidian. I will not divert my speech. But I state categorically that neither bombs nor abusive language will stop me from the sacred work I have undertaken. There can be no bargaining over it.
+
+Let us return to regional inequality. I mentioned income-tax arrears. The figures are given by State or region. Bombay city and central Bombay together owe Rs 36 crores; West Bengal, including Calcutta, owes Rs 43 crores. The Finance Minister should turn his gun toward those two regions with the largest arrears.
+
+**Bhupesh Gupta:** There are great capitalists in West Bengal. Shanti Prasad Jain recently bought a house for Rs 60 lakhs.
+
+**Anna:** Much of the capital in West Bengal came from elsewhere. Regional economic disparity is evident even in agricultural-income figures. In 1958-59 Madras received Rs 34.33 crores; Uttar Pradesh received Rs 146 crores and West Bengal Rs 427 crores. I do not object to Uttar Pradesh or West Bengal becoming prosperous lands. But had the Plans not been implemented through defective and uneven economic arrangements, we could have obtained far more agricultural revenue than Uttar Pradesh.
+
+Even now we have no Bhakra-Nangal and not many minor irrigation schemes. Yet Tamil Nadu has India's highest yield per acre.
+
+**S. Chenna Reddy:** You have the Kundah project.
+
+**Anna:** It is principally for electricity, not irrigation. Our agricultural production has grown without such assistance. When we possess farmers capable of hard work, intelligence, inquiry, and understanding, should planners not have looked toward the South when framing agricultural programmes?
+
+The fishing industry could have been developed in the South. Transport could have been expanded. There are many things to do and many opportunities. Not only were opportunities neglected; whenever we raised the problem, it was postponed. We were told industry could be located only where raw materials were found and that this was inexorable economic doctrine. Only now has the Government accepted that regional disparities must be abolished.
+
+A similar problem arose in Italy. Southern Italy was industrially backward compared with the North. The Italian Government acted intelligently and boldly, devised special plans for the South, and offered grants, loans, and concessions to make it prosperous. Do not think I am leading you down an alluring path only to turn around and prevent you from adopting Italy as a model. You may follow it. I do not tell you not to. Follow it. But I cannot and need not guarantee that my party will therefore surrender its political philosophy. Our philosophy is wholly different from bargaining for concessions.
+
+I merely point out that far more wealth could have been produced if the southern economy had received proper attention. The South has one of the finest coastlines in the world, with ports both used and unused. I hope my esteemed friend Dahyabhai Patel will not be angry. He has obtained Kandla; Tuticorin has still not been developed for us. Speaking to a chamber of commerce two days ago, our State Industries Minister said it was not enough for the Government of India to accept plans; it must act and expedite them.
+
+Had economic reorganisation occurred throughout the country, especially in the neglected South, enforcing taxes would not seem so harsh. I speak here only of the manner of taxation. The South feels it is taxed not for its own region but for the development of another; the cruelty of the tax therefore appears doubled. My appeal to the Finance Minister and, through him, to the other Ministers is to discover how the South can be economically reorganised so that wealth increases and taxation decreases.
+
+The ruling party spreads another mistaken idea: “Do not speak now about dividing and distributing profits. Increase production. Production is your duty. Distribution can be discussed only after production is complete.” I wish to point out that only in economics textbooks is Chapter One production and Chapter Two distribution. In practice, distribution occurs while production is taking place. We do not finish producing everything, heap it in one place, and wait for an auspicious day to distribute it. Economic activity does not operate that way; only textbooks arrange it so.
+
+The ruling party must not offer that lame excuse. We say what is produced is not distributed properly. If goods and wealth had been properly shared, our country would not contain such poverty. Poverty is so severe that our State must give assistance to destitute elderly people. I am glad the State Government has made that arrangement, but it is also evidence of our region's poverty.
+
+Why does so much poverty remain after so much wealth has been produced? Because distribution has not received proper attention. Wealth grows, and we see new Cadillacs, mansions, and factories. I recently read that the Prime Minister was astonished that private contractors could obtain any amount of cement while the Government itself could not obtain enough.
+
+“Black market” and “black money” have become ordinary expressions. That condition disgraces the national Government, though I do not know whether “disgrace” is considered too strong. Whenever a commodity is discussed, we ask its market price and black-market price. I was startled to read a Cabinet member say he knew very well the black-market price of iron goods. He was not the present Iron Minister. The Government therefore knows the black market exists and how it operates. It also knows that if black-marketeers are prosecuted and put in the dock, they will settle accounts at election time. That is why the black market has been allowed to flourish.
+
+Black markets create black money. Such money cannot be invested openly in industry. If a private concern earns declared profit, it may invest it in another enterprise. Undeclared black money cannot be so invested and is spent on ostentatious living. The former Finance Minister imposed an expenditure tax to restrain that extravagance. The present Minister has abolished it, perhaps because extravagance has declined or because he considers it good. Newspaper reports suggest it yielded only Rs 77 lakhs, but whatever the amount, its underlying social purpose was important. He removed it and instead increased taxes on kerosene, matches, and tobacco.
+
+**Deputy Chairman:** You asked for five minutes, but you have taken more than ten.
+
+**Deputy Chairman:** Please finish; very little time remains.
+
+**Anna:** In the Lok Sabha the Finance Minister once held up a matchbox and said, “Here is a matchbox; I bought it at a fair price.” I ask him to go and buy one now. Its price has risen.
+
+Like King Canute, the Finance Minister declared that prices would not rise. The sea did not stop for Canute, and prices did not stop rising at the Minister's word. Whenever a tax is imposed, prices rise. Had this Government at least controlled prices, it might have pleaded for forgiveness for indirect taxes, even if it could not use that as their justification.
+
+This Taxation Bill is therefore a scheme for squeezing the people dry. We understand shearing sheep for wool. But you squeeze the people, especially the poor, in the name of the Plan. You have made them look upon the Plan itself with alarm. They want planning; but when you say every tax is required because of the Plan, they begin not merely to condemn the taxes but to doubt the need for the Plan. Thus you undermine the very planning arrangement to which you claim commitment.
+
+Do not prolong the argument with replies stuffed here and there with statistics. Consider the people writhing in poverty, their suffering, and unemployment. The limit of their ability to pay has been reached. Withdraw indirect taxes upon essential goods and seek money elsewhere.
+
+I assure the Minister that even after these taxes are withdrawn, ample revenue will come. Whenever a Budget is presented, expected revenue is habitually understated. Later he rises like a magician and says, “I expected only Rs 23 crores, but Rs 32 crores came.” These indirect taxes are unnecessary. There is no need to squeeze the people dry.
+
+## Translator's Notes
+
+The translation preserves all twenty-one scan sections, parliamentary interruptions, printed fiscal figures, and the complete ending. Large figures such as Rs 717, 445, 272, 146, and 427 crores are retained exactly because the scans clearly print them without decimal points.
+
+Period political terms including mixed economy, socialism, Dravida Nadu, national integration, direct and indirect taxation, black money, and the party whip are translated in their 1962 parliamentary context and remain claims or arguments attributed to the speakers.
+
+Scan-backed OCR corrections applied before translation: the source-credit line on Image 1; the repeated Rs 118 crore income-tax arrears on Image 5; and two malformed Tamil readings on Image 12. No historical figure or claim has been silently modernised.

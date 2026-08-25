@@ -14,8 +14,8 @@
 | paettigal | 26 | 26 | 26 | 0 |
 | root | 5 | 5 | 5 | 0 |
 | sirukathaigal | 109 | 108 | 108 | 1 |
-| sorpozhivugal | 537 | 178 | 178 | 359 |
-| **All included sections** | **2511** | **957** | **957** | **1554** |
+| sorpozhivugal | 537 | 179 | 179 | 358 |
+| **All included sections** | **2511** | **958** | **958** | **1553** |
 
 ## OCR-Origin Translation Progress
 
@@ -24,8 +24,8 @@
 | katturaigal | 552 | 529 | 529 | 23 |
 | nadagangal | 61 | 24 | 24 | 37 |
 | sirukathaigal | 108 | 108 | 108 | 0 |
-| sorpozhivugal | 241 | 178 | 178 | 63 |
-| **All OCR-origin sections** | **962** | **839** | **839** | **123** |
+| sorpozhivugal | 241 | 179 | 179 | 62 |
+| **All OCR-origin sections** | **962** | **840** | **840** | **122** |
 
 ## OCR Source Recovery Status
 
@@ -143,6 +143,7 @@ A blank image section has an explicit no-text marker or no OCR body after its im
 - `sorpozhivugal/poar_murasu_kotti.md`: Recover the passage between Images 5 and 6 concerning Nehru's language assurance and obtain the continuation after the final unfinished readiness appeal
 - `sorpozhivugal/satta_11_03_1958.md`: Speech begins mid-argument, loses material between Images 4 and 5, and ends mid-question; recover the complete 11 March 1958 Assembly language debate and verify Article 344
 - `sorpozhivugal/sudhanthira_kaiyelu.md`: All 14 handwritten manuscript images are effectively unreadable in the current OCR; one page reports no text and the remaining output is overwhelmingly disconnected glyphs, so the speech must be re-transcribed from the scans before faithful translation
+- `sorpozhivugal/thozhil080460.md`: The 18-page 8 April 1960 industrial-grant debate has pervasive dropped clauses and mixed-script corruption. Images 3-4 damage the heavy-industry argument and list of prerequisites; Images 14-18 lose employment figures, industrial names, the Salem-minerals reference, library exchange and part of the closing appeal. Re-OCR all scans bilingually and reconcile every amount, English industrial term and speaker turn before translation.
 - `sorpozhivugal/veetirkor_putha.md`: Verify the exact infernal-pit names on Image 5 and the lunar-research wording in the same image
 - `sorpozhivugal/velanmai180948.md`: Re-OCR statement-of-objects English on Image 2 and student slogan on Image 8; verify damaged rule-making transition at Images 4-5
 

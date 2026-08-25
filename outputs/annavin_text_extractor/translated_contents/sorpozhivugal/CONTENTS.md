@@ -231,7 +231,7 @@ Total source works: 537
 - [sorpozhivugal/manavamanigalin](manavamanigalin.md) - translated
 - [sorpozhivugal/manavargalukku_vaelai](manavargalukku_vaelai.md) - translated
 - [sorpozhivugal/manavargalum_samu](manavargalum_samu.md) - translated
-- [sorpozhivugal/manila_avai](manila_avai.md) - pending
+- [sorpozhivugal/manila_avai](manila_avai.md) - translated
 - [sorpozhivugal/manilakalluri](manilakalluri.md) - translated
 - [மனித குரலுக்கு மதிப்பளியுங்கள்](manitha_kuralukku_mathippaliyungal.md) - pending
 - [மந்திரியால் பயன் என்ன?](manthiriyal_payan_enna.md) - pending

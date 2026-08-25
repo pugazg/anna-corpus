@@ -202,6 +202,36 @@
       ],
       "tokenCorrections": []
     },
+    "sorpozhivugal/manila_avai.md": {
+      "phraseCorrections": [
+        {
+          "wrong": "(நன்றி: திர. ம. நடராசன் - தமிழ் ௮ரசி பதிப்பகம், சென்னை - /8.)",
+          "right": "(நன்றி: திரு. ம. நடராசன் - தமிழ் அரசி பதிப்பகம், சென்னை - 18.)",
+          "reason": "scan 1 clearly prints திரு., தமிழ் அரசி and page 18"
+        },
+        {
+          "wrong": "178 கோடி ரூபாய் வருமான வரி",
+          "right": "118 கோடி ரூபாய் வருமான வரி",
+          "reason": "scan 5 repeats 118 கோடி in both references"
+        },
+        {
+          "wrong": "கவனிக்காவி.'்ூூ ல், கேரளம்",
+          "right": "கவனிக்காவிட்டால், கேரளம்",
+          "reason": "scan 12 clearly prints கவனிக்காவிட்டால்"
+        },
+        {
+          "wrong": "வசுூலிக்கப்படாமல்",
+          "right": "வசூலிக்கப்படாமல்",
+          "reason": "scan 5 clearly prints வசூலிக்கப்படாமல்"
+        },
+        {
+          "wrong": "முூள்போல இருக்கும் என்கிறார்",
+          "right": "முள்போல இருக்கும் என்கிறார்",
+          "reason": "scan 12 clearly prints முள்போல"
+        }
+      ],
+      "tokenCorrections": []
+    },
     "sorpozhivugal/thimuka_thuvak.md": {
       "phraseCorrections": [
         {
