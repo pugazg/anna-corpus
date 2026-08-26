@@ -14,8 +14,8 @@
 | paettigal | 26 | 26 | 26 | 0 |
 | root | 5 | 5 | 5 | 0 |
 | sirukathaigal | 109 | 108 | 108 | 1 |
-| sorpozhivugal | 537 | 180 | 180 | 357 |
-| **All included sections** | **2511** | **969** | **969** | **1542** |
+| sorpozhivugal | 537 | 181 | 181 | 356 |
+| **All included sections** | **2511** | **970** | **970** | **1541** |
 
 ## OCR-Origin Translation Progress
 
@@ -24,8 +24,8 @@
 | katturaigal | 552 | 539 | 539 | 13 |
 | nadagangal | 61 | 24 | 24 | 37 |
 | sirukathaigal | 108 | 108 | 108 | 0 |
-| sorpozhivugal | 241 | 180 | 180 | 61 |
-| **All OCR-origin sections** | **962** | **851** | **851** | **111** |
+| sorpozhivugal | 241 | 181 | 181 | 60 |
+| **All OCR-origin sections** | **962** | **852** | **852** | **110** |
 
 ## OCR Source Recovery Status
 

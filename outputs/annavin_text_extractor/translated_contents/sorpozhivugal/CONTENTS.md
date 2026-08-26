@@ -81,7 +81,7 @@ Total source works: 537
 - [அக்கரை இல்லாத அரசாங்கம்!](akkarai_illatha_arasangam.md) - pending
 - [sorpozhivugal/allal_agala](allal_agala.md) - translated
 - [sorpozhivugal/alunarukku_anna](alunarukku_anna.md) - translated
-- [sorpozhivugal/aluvalaga050960](aluvalaga050960.md) - pending
+- [sorpozhivugal/aluvalaga050960](aluvalaga050960.md) - translated
 - [sorpozhivugal/amaichar160361](amaichar160361.md) - translated
 - [அமைச்சர் பேச்சு, அண்ணா அறிக்கை!](amaichar_paechu_anna_arikai.md) - pending
 - [அமைச்சர்களுக்கு அண்ணா அறைகூவல்](amaicharukku_anna_araikooval.md) - pending
