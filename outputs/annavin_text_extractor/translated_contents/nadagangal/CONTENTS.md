@@ -35,7 +35,7 @@ Total source works: 62
 - [nadagangal/kannayirathin](kannayirathin.md) - pending
 - [nadagangal/kanneerthuli](kanneerthuli.md) - pending
 - [nadagangal/kattaiviral_1](kattaiviral_1.md) - translated
-- [nadagangal/kurumbukaran_1](kurumbukaran_1.md) - pending
+- [nadagangal/kurumbukaran_1](kurumbukaran_1.md) - translated
 - [nadagangal/madamanmiyam_1](madamanmiyam_1.md) - translated
 - [nadagangal/magudabishegam_1](magudabishegam_1.md) - pending
 - [nadagangal/mangai_oorugai_1](mangai_oorugai_1.md) - translated

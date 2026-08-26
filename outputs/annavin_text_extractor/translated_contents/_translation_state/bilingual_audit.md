@@ -9,33 +9,33 @@
 | katturaigal | 1388 | 540 | 540 | 848 |
 | kavithaigal | 77 | 77 | 77 | 0 |
 | Kurunavalgal | 25 | 0 | 0 | 25 |
-| nadagangal | 62 | 24 | 24 | 38 |
+| nadagangal | 62 | 25 | 25 | 37 |
 | navalgal | 6 | 0 | 0 | 6 |
 | paettigal | 26 | 26 | 26 | 0 |
 | root | 5 | 5 | 5 | 0 |
 | sirukathaigal | 109 | 108 | 108 | 1 |
 | sorpozhivugal | 537 | 184 | 184 | 353 |
-| **All included sections** | **2511** | **973** | **973** | **1538** |
+| **All included sections** | **2511** | **974** | **974** | **1537** |
 
 ## OCR-Origin Translation Progress
 
 | Section | OCR target | Completed | Bilingual with source retained | Pending |
 |---|---:|---:|---:|---:|
 | katturaigal | 552 | 539 | 539 | 13 |
-| nadagangal | 61 | 24 | 24 | 37 |
+| nadagangal | 61 | 25 | 25 | 36 |
 | sirukathaigal | 108 | 108 | 108 | 0 |
 | sorpozhivugal | 241 | 184 | 184 | 57 |
-| **All OCR-origin sections** | **962** | **855** | **855** | **107** |
+| **All OCR-origin sections** | **962** | **856** | **856** | **106** |
 
 ## OCR Source Recovery Status
 
 | Section | Works with blank image sections | Blank pages |
 |---|---:|---:|
 | katturaigal | 0 | 0 |
-| nadagangal | 34 | 416 |
+| nadagangal | 33 | 413 |
 | sirukathaigal | 0 | 0 |
 | sorpozhivugal | 5 | 10 |
-| **All OCR-origin sections** | **39** | **426** |
+| **All OCR-origin sections** | **38** | **423** |
 
 A blank image section has an explicit no-text marker or no OCR body after its image reference. The canonical Tamil source is not translation-ready even when the scan itself may be readable.
 
@@ -60,7 +60,6 @@ A blank image section has an explicit no-text marker or no OCR body after its im
 - `nadagangal/kalappu_manam.md`: 6 blank page(s)
 - `nadagangal/kannayirathin.md`: 28 blank page(s)
 - `nadagangal/kanneerthuli.md`: 6 blank page(s)
-- `nadagangal/kurumbukaran_1.md`: 3 blank page(s)
 - `nadagangal/magudabishegam_1.md`: 7 blank page(s)
 - `nadagangal/mangalapuri_1.md`: 5 blank page(s)
 - `nadagangal/nadanthathuthan_1.md`: 2 blank page(s)
@@ -100,7 +99,6 @@ A blank image section has an explicit no-text marker or no OCR body after its im
 - `nadagangal/kailayam_1.md`: 4 of 7 scan pages contain no OCR text; two Purana critiques and conclusion survive
 - `nadagangal/kal_sumantha_1.md`: 11 of 13 scan pages contain no OCR text; only opening image 1 and final image 13 are recoverable
 - `nadagangal/kattaiviral_1.md`: 6 of 8 scan pages contain no OCR text; only images 4 and 7 are recoverable
-- `nadagangal/kurumbukaran_1.md`: The first source image is a duplicated or misassigned Bhagirathi title page and the actual opening of Kurumbukaran is absent; recover and verify the image set before translation
 - `nadagangal/mangai_oorugai_1.md`: 7 of 9 scan pages contain no OCR text; only images 3 and 9 are recoverable
 - `nadagangal/mangalapuri_1.md`: Images 1, 2, 4 and 5 contain no OCR text, leaving the play's opening and internal scenes incomplete despite a surviving 1959-to-1966 frame
 - `nadagangal/morarji_thesai.md`: 14 of 16 scan images contain no OCR text; only Part 1 Image 7 and Part 2 Image 3 survive, leaving the political stage scene incomplete
