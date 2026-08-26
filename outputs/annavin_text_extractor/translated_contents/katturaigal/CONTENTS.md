@@ -589,7 +589,7 @@ Total source works: 1388
 - [katturaigal/kovai_vaareer](kovai_vaareer.md) - translated
 - [கோவணாண்டிகளிடை குபேரர்!](kovanandikalidayae.md) - pending
 - [katturaigal/kovil_karai](kovil_karai.md) - translated
-- [katturaigal/kudiyatchi_komaan](kudiyatchi_komaan.md) - pending
+- [katturaigal/kudiyatchi_komaan](kudiyatchi_komaan.md) - translated
 - [குடுகுடுப்பை!](kudukuduppai.md) - pending
 - [குளிர்ந்த காற்று!](kulirntha_kaatru.md) - pending
 - [katturaigal/kumbakonathil](kumbakonathil.md) - translated

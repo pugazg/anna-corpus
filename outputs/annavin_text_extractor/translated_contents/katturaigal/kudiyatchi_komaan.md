@@ -1,4 +1,10 @@
-# katturaigal/kudiyatchi_komaan
+# குடியாட்சிக் கோமான் / The Sovereign of Democracy
+
+**Tamil title:** குடியாட்சிக் கோமான்
+**English title:** The Sovereign of Democracy
+**Source file:** `katturaigal/kudiyatchi_komaan.md`
+
+## Source Tamil (verbatim)
 
 - Combined OCR parts: 3
 - OCR correction stage: `apply_ocr_corrections.py`
@@ -1098,3 +1104,347 @@
 மடிக்கும் நிலையை நீடிக்கச் செய்யப் போகிறதா என்பது.
 
 முற்றும்.
+
+## English Translation
+
+The Russian tsar Peter killed his own children.
+
+Abbas, the Persian emperor, committed a similar murder.
+
+Henry VIII of England destroyed his wives.
+
+Empress Irene burned out her son's eyes.
+
+Empress Theophano killed her own husband.
+
+Many sceptre-bearers became murderers in this manner, driven by the wicked resolve to eliminate anyone who might undermine their dominance. This is a truth known to the world.
+
+A murderer is hanged; the law does its work.
+
+These murderous sinners, however, could remain enthroned. The people were expected to conduct themselves according to their commands. Anyone who opposed this condition was branded a traitor to the country.
+
+The people, officials, poets and even history sang the praises of kings who protected their thrones through massacres.
+
+It was indeed murder: the victims were cut down while trembling in terror. Yet was it not the king's command? Who could disobey it? How could anyone ask why? The king was the very source of law. Could the law strike him? Thus the people spoke in trembling voices. One man might dare to raise opposition; his head would be severed.
+
+As though to display what their nature had been, was, and ought to be, kings possessed flags, emblems and titles.
+
+Lions, tigers, eagles, snakes, wolves, crocodiles, foxes and many other cruel beasts were engraved upon their flags or embroidered upon their clothes.
+
+Without even realising that this indirectly depicted God as cruel and brought him into disrepute, did they not sing of Siva as the matted-haired deity who burned the three cities? Kings were praised in the same fashion.
+
+"The lion who slew a hundred thousand! Death to his enemies! A raging fire to hostile lands!" they proclaimed, imagining that they were praising him. The truth was that he had committed a monstrous crime; yet they fashioned that very crime into a garland of glory and placed it upon him.
+
+"The Scourge of the World" was Attila's honorific.
+
+Many cruel men were prepared to kill parents, kinsmen, their own children and even their wives in order to preserve royal office. The people knelt before criminals who ought to have knelt beneath the gallows.
+
+England is a country whose system of government, though not entirely free of turmoil, confusion and cruelty, preserved peace to a considerable degree. Researchers examined how its kings had behaved. They counted from William I to George VI. Of the forty-three kings whose records they studied, twenty were found to have engaged in murderous acts.
+
+The Byzantine Empire was greatly renowned. Historical records describe its astonishing splendours.
+
+One scholar investigated the cruelties committed during the reigns of its 107 emperors. Of those 107 mighty monarchs, he says, only thirty-four died natural deaths. Eight died in battle or accidents. What happened to all the rest? Some were expelled, some died by poison, some were strangled, some were stabbed, and others were cut down.
+
+History celebrates the palace of the Byzantine Empire as sacred. Yet no small amount of blood was spilled there; the injustices committed knew no limit. That palace was a chamber of cruelty.
+
+It was in that palace that Empress Irene destroyed her son's eyes and blinded him. The sightless son cried out. His own mother had taken his eyes, the eyes of her son! The child had been born in that same place, had grown into a son there, and in that very place his mother blinded him.
+
+Irene was cruel. As if to ask whether Irene could surpass her, Empress Theophano is said to have cut off her husband's head and displayed it through a window to the soldiers, blood still dripping from the severed head. This too happened in the same palace.
+
+Fear that royal rights might be destroyed led not only to the killing of siblings, parents and children, but also to the massacre of tens of thousands of people.
+
+Richard II, king of England, waged a holy war. He bore the honorific Lionheart and was a saintly warrior who fought to spread the glory of Jesus! He captured 27,000 people in battle. He reportedly offered to release them if he were given 200,000 gold coins. The payment did not arrive, and the holy warrior had all those thousands slaughtered! A king!
+
+The world endured men who committed such massacres. These great sinners wore jewelled crowns. The people therefore lacked the courage to condemn their atrocities.
+
+People had the courage, with the support of law, to tie up and beat one who stole fruit, put a thief into a pit, torture a highway robber, strike an assailant and kill a murderer. But they could not approach kings who had committed many monstrous crimes. Fear that the king was an aspect of God was one reason. The belief that he possessed the authority to do anything was another. Fear of the army at his command was yet another. The people consequently lay as voiceless insects. When one ox is beaten before another, can the other speak in its defence or stop the beating? It cannot. Those human forms were in the same condition. They were content merely to think, "At least my own head has escaped."
+
+Such cruelties continued for ages in many countries. Heartsick people prayed that cruelty would end when the present king died and his son ascended the throne. God kept giving them new kings, but the old cruelty did not disappear; it continued.
+
+The people repeatedly saw rulers who seized their wealth, guardians who crushed beautiful women, kings who flew into a rage and ordered heads cut off at the slightest murmur, and war-mad monarchs who wandered about kindling destruction. Their hearts seethed.
+
+From that anguish arose the thought that monarchy was an abode of cruelty.
+
+"This man is the king! He is the head of the country!" Such claims were meaningless speech and an intolerable injustice.
+
+Why were the people expected to accept him as lord of the country and leader of them all? What had he done to merit the country's respect? Other than being born, what had he accomplished? How had he laboured for the nation?
+
+The throne upon which a king sits turns the occupant's heart to stone. However tender-hearted a man may be, he reaches that condition.
+
+The jewelled crown itself, once placed upon a head, presses and presses upon the wearer's brain until it makes that brain small.
+
+Thus an "open letter" condemning the French king appeared in a Paris newspaper in 1790.
+
+Such was the people's hatred of the king and of royal government.
+
+Repeated exposure to cruelty had left the people without a mind capable of regarding any further cruelty as something to fear. They therefore condemned the king without fear.
+
+The king set out with his family for church in a beautiful carriage. A man of deep religious faith, he was going to worship.
+
+Fish-selling women saw him pass. They blocked his way and shut the gate across the road so that the carriage could not proceed. They abused him without restraint. "Pig! Pack-ox! Is the title of king some great distinction?" were among the milder expressions. This "praise" is said to have continued for two hours.
+
+The king did not reach the church. He returned to the palace.
+
+If we install a man as "king" in a position where no one can question or restrain him, why should he hesitate to be cruel? Whom would he fear? An army stands ready to obey him. Could paupers and wanderers oppose it? The cause of cruelty, therefore, is not merely that a bad man became king. The monarchical system itself allows the evil to sprout. The thought consequently arose that monarchy must go and that there must instead be a government and an institution subject to restraints, capable of being restrained, established by us and dissolvable by us, and unable to disregard us. Democracy was the fruit of that thought.
+
+The system in which "the king rules" was abolished. A new system arose in which the people could say, "This man has been installed to govern; we have granted him the right to govern." Democracy took shape.
+
+The king's declaration, "Our subjects," gave way to the people's expression, "our rulers."
+
+The king who spoke in the royal "we" disappeared, and a system arose in which the people could say, "We granted permission."
+
+Those who governed sat not in a palace but in a government office.
+
+The claim that God had commanded a man to rule died. A new style appeared in which rulers spoke humbly of the opportunity the people had given them to govern.
+
+"I am king because my father was king. I am king, and therefore my son will be king." Such talk became meaningless. In its place, the people's statement, "We gave him our support and therefore he conducts the government; we can support someone else and invite that person to govern," became a meaningful doctrine.
+
+This was a very long journey. It took a great span of time, faced immense restraints and was filled with losses.
+
+When that journey reached the stage called democracy, the people gained relief and new hope, rejoicing in the belief that cruelty would exist no more.
+
+Democracy itself did not announce that only monarchy had died while the impulse to commit cruelty remained alive. Actions and their consequences revealed that truth.
+
+The king rolled his eyes and behaved brutally. The sovereigns of democracy, by contrast, discovered how to torture with a smile and bewilder people until their reason vanished.
+
+If the king was a killing tiger or a growling leopard, the sovereigns of democracy were like venom lying hidden in green grass...
+
+*[The source scan breaks off here. One printed page is duplicated in the image set, and the intervening continuation is unavailable.]*
+
+The thought that "all of us are kings of this country, and these are ministers whom we have installed" filled the people with enthusiasm.
+
+When a person believes that something is in his own hands and that he can accomplish it easily, it is natural for him to remain unworried. Democracy created a similar condition in the public mind.
+
+Self-confidence is one thing; believing that no one can surpass oneself is entirely different. The latter belief, when it makes one forget reality, produces a kind of intoxication. The sovereigns of democracy understood this well and strengthened their dominance.
+
+The king turned the people's belief that he was born to rule and was God's representative to his advantage.
+
+Cunning men found a way to dominate through democracy by making the people believe, "They are our own people, good people, capable people, and people who sought and received our support."
+
+Hitler and Mussolini, who raved, "Let the world perish; we do not care! Our state must rise and flourish!" and kindled war, did not originally gain office through military assault, terror or demonstrations of strength upon a thousand battlefields. They made democracy itself a tool suited to them. They came to power by seeking and obtaining popular support. What happened afterwards? They became dictators who drove people in every conceivable way.
+
+Franco of Spain and Salazar of Portugal did not seize office by throwing bombs. They too used the democratic system to create a condition in which people willingly gave support and seated them upon thrones.
+
+Under monarchy the king came in procession and the people stood submissively.
+
+When sovereigns who have made democracy a means of preserving their dominance tour the country, the land takes on a festive appearance. The people give them magnificent receptions, praise and worship them, proclaim that they will go wherever the leader's pointing finger directs, and promise even to surrender their lives.
+
+Those who possess the means and skill to instil such emotion become sovereigns of democracy and acquire a kind and degree of dominance that crowned kings might envy.
+
+Once they make people believe, "He speaks for us and acts for our welfare," democratic sovereigns turn them into wax dolls shaped according to their pleasure. They can then dare to commit evils and cruelties on a scale greater than those seen under monarchy.
+
+It is therefore insufficient to concentrate only upon the choice between monarchy and democracy. Merely introducing a system called democracy is not enough. Safeguards must constantly be sought to prevent democratic sovereigns from arising, indeed to make their rise impossible.
+
+Awareness must abound.
+
+Clarity and courage are needed in great measure.
+
+The comforting thought that our responsibility ended when we installed rulers must never be allowed to lull the mind.
+
+People must possess the capacity to watch whether those who govern with our permission and in our name are administering the country in a way that protects our welfare.
+
+When rulers approach us seeking another opportunity, we must know how to examine their accounts. If they are shown to have erred, we must have the courage to reject them.
+
+We need a cast of mind that is not seduced by smiles, gold coins, bonds of affection or personal ties. They will speak evasively; we must probe and discover the truth. They will speak pleasingly; we must not become enchanted and fail to seek the truth. They will try to divert attention elsewhere; we must not permit it. They will make falsehood look true and claim, "This is what this act means, and this is the further benefit it brought us." We must not be deceived.
+
+Beyond clarity and courage, this requires the habit of closely watching public events; training in examining what happens from time to time, learning the truth and retaining what one has learned; knowledge of the sound course and of the methods by which welfare can flourish; and a passion to organise government accordingly.
+
+Habit, training, knowledge, passion and courage are not easily obtained. One cannot claim that everyone can readily possess them, nor do they arise the moment they are desired. Yet the people must acquire them, however gradually. Otherwise they will be caught in the grip of democratic sovereigns and ruined, escaping the tiger's mouth only to be bitten by a snake.
+
+Unless people possess even more knowledge, clarity and courage than they needed under monarchy, they cannot obtain democracy's full benefit and attain welfare.
+
+The disappearance of monarchy and birth of democracy may be compared to darkness departing and a lamp being obtained. Yet the lamp needs a wick and oil, must be trimmed, and must be watched so that it does not go out.
+
+For this reason, thinkers who explain political ideas have said that democracy should not be regarded merely as one among several systems of government, but as an element in the people's way of life.
+
+Even a child one has brought into the world becomes a useful son or cultured daughter only according to the way it is raised. Democracy is the same. It acquires beauty and elevation and yields benefit in proportion to the care people give it.
+
+As a general election swiftly approaches, the resolve not to fall into the grip of democratic sovereigns must grow greatly. People must acquire the ability to refine the democratic system.
+
+In his book *The Political Arena*, Pulavar Kuzhanthai beautifully describes what those who appear before the people at election time will say and what disguises they will assume:
+
+> The turmeric-market trader is kin to us:
+> my little uncle's younger brother's brother-in-law.
+>
+> The cotton-shop owner is an uncle,
+> grandson of my grandmother's younger brother.
+>
+> The cooperative-shop chief is
+> brother-in-law to my sister-in-law's sister;
+> the house-tax officer is
+> our servant woman's brother's son.
+>
+> The district collector will not refuse
+> a word from our brother-in-law;
+> the magistrate who dismissed the torch case is
+> our Chinnakannu aunt's younger brother.
+
+They will speak of kinship in this fashion to create enchantment. If we succumb, we will lose the great benefit that democracy ought to give us.
+
+Those inclined to turn democracy into a route to personal dominance bend low when they come seeking votes. Once their position is secure, they stand erect.
+
+While asking for votes they stand offering garlands and honours to the people. After victory and the seizure of power, the people must wait to obtain an interview with them, garlands in hand.
+
+The appearance and conduct seen during an election change completely after the election ends and victory is gained. People see this and become heartsick, yet once again fall prey to enchantment. That is why we now see democratic sovereigns enthroned and running riot.
+
+"Nothing is unknown to you. Tell me in a single word how I should conduct myself and what I should do; I shall act accordingly."
+
+Many who spoke with such humility, gathered votes, won and became rulers later abuse people by saying:
+
+"You speak without knowing the matter! You babble without knowing the facts!"
+
+The truth is not merely that some people possess such a nature. This "nature" comes even to many good people.
+
+"They rioted; should they not have been suppressed?
+
+"They did not disperse when beaten with batons. In that situation the police fired. What else could be done?
+
+"They died because bullets struck them. What can be done about that? If one fires, some people are bound to become corpses. What do you ask us to do? Do you want us to cut off the officials' heads?
+
+"Do you say there should be no police at that place?"
+
+This is how the Chief Minister speaks to people who plead, "Sir, they are unjustly shooting people down!" Is the speaker a rash man? No. He is Bhaktavatsalam, a son of the great agricultural community and a man regarded as gentle in temperament.
+
+If even such a person can speak in this manner, what explanation is possible other than the nature produced by office and the thoughts produced by position?
+
+Was monarchy opposed and destroyed in order to obtain democratic sovereigns of this kind?
+
+If democracy is to succeed, the people must possess and cultivate the capacity to protect its dignity from injury.
+
+We must not lie intoxicated with delight merely because some people became rulers through our favour. We must acquire the intelligence to restrain and control them when they behave wrongly and, if necessary, to remove them. Only then can society gain democracy's proper benefit and attain prosperity and distinction.
+
+Because democracy was not used properly, the very leaders who came with garlands in hand to honour the citizen later became rulers and behaved as though strangling the citizen's throat. We have witnessed it.
+
+We saw leaders stoop in extreme humility before citizens to obtain their support. We also saw those leaders, once victory was gained, stride about arrogantly as though their work were finished and there were no further reason to associate with useless fellows. We saw people, believing these good men would work for them, celebrate the leaders' victory; then we saw some of those leaders sit upon thrones overflowing with joy. We saw them seek voters regardless of forest or hill, night or darkness, bringing whomever they needed as companions. After they attained office, we saw them arrive with police forces to intimidate people who pleaded for their suffering to be removed. We saw them come surrounded by volunteers carrying flags; we then saw policemen charge the people and inspire fear with the announcement, "The minister is coming!" We saw men who had once spoken with smiles fly into rage. We now see the sovereigns of democracy enthroned.
+
+We see rulers say, "If food is insufficient, tighten your stomach and close your mouth!" We see pure souls boldly ask those alarmed by hunger, famine and starvation, "It is only life that will be lost. Why are you afraid of that?" We even see great men tell aggrieved people who cry, "Sir, this is unjust!": "Why are you talking about all sorts of things? If you do not want to give me your vote, do not give it to me next time!"
+
+After seeing so much, should clarity not arise in our thought and firmness in our hearts? Should we not act courageously to restrain the rampage of democratic sovereigns? Blood had to be shed to drive away the sword-bearing monarch. To curb democratic sovereigns, no sword, war, fire or embrace of danger is necessary. Clarity and courage are enough. If we possess both at the time of choosing, the sovereigns of democracy will flee with their guts trembling, knowing they can no longer run riot.
+
+We see how swiftly concern for the people's welfare disappears once a sovereign uses democracy to attain authority, and we become deeply worried. That worry makes us inactive, then thoughtless, and finally leads us to embrace the philosophy that life itself is a great burden.
+
+When these sovereigns approached us seeking the power to rule, what did they not promise to do for our welfare? With what passion they spoke! Their speeches made one wonder whether one was witnessing drama or dance. And afterwards?
+
+Once they win, we welcome them with garlands and hold splendid celebrations. At that very moment, the affection they had shown toward keeping their workers close begins to diminish. The person who laboured hungry for the sovereign's victory is displaced by a fashionable society lady, whose welcome and garland the sovereign receives with pride.
+
+Once he gains a place in the hall of state, the sovereign becomes a wholly new man. A new man? He becomes a great man.
+
+He finds time to admire statues and enjoy art, but none to see people who have become the very embodiment of worry. If circumstances force him to see them, he offers consolation: "You must be patient; the darkness is always deepest before dawn," and tries to slip away.
+
+Many grow furious at such a moment, but anger alone has neither meaning nor benefit. We must understand what sort of people we installed as rulers, resolve not to repeat the mistake when another opportunity comes, and at that stage perform properly the duty of sending home those who have become sovereigns under democracy.
+
+When they realise, "We can no longer deceive these people; they have awakened and will not fall into our net again," those who corrupted democracy will depart with bowed heads.
+
+Democracy is an unfinished programme of action. It must be joined to vigorous thought. Democracy is not merely a system inserted where monarchy was removed; it is a refined way of life that must be conducted through the people's intelligence.
+
+Researchers of political systems say democracy first blossomed in Greece. Although that may be true with respect to the West, evidence shows that even under monarchy ancient Tamilakam possessed sound democratic practices, especially in its villages. Scholars point to the Uthiramerur inscriptions as a notable example.
+
+Citizens sat in several committees and attended to the affairs of their locality. The *kudavolai* system determined who would serve on those committees.
+
+The *kudavolai* system resembled today's election system, though it was not identical in every respect. Qualifications were prescribed for membership. It was not enough to say generally that candidates must be of good conduct. Even their close relatives, it is said, had to be free from stain and wrongdoing.
+
+They appear to have known that men might arise and say, "What could I do? It was all my son's fault!"
+
+It therefore cannot be said that democracy came to Tamilakam from the West.
+
+The electoral system and party outlook, however, began in the West and spread from there to many places.
+
+The English word *democracy* is formed from two Greek words. *Demos* means the people or citizens. The Greek word *kratein* means to rule. The English word *democracy* arose from the combination of these two Greek words.
+
+The Greeks had established city-states. All the people of a city could gather in the marketplace, discuss government and public affairs, and reach decisions. This was easy. As states expanded, however, it became impossible for all the people to govern themselves directly. They therefore adopted the method of choosing some among themselves to govern.
+
+We commonly make the mistake of thinking that democracy begins and ends with an election.
+
+Democracy does not consist merely in choosing a few people to act for us at election time. We need the clarity and awareness to know who they are, why responsibility for government should be entrusted to them, and whether they discharge it properly after accepting it. If they go wrong, we need the courage to remove them. If these qualities sprout at every election and die as soon as it ends, democracy will decay and sovereigns will arise to run riot.
+
+The democratic doctrine must be woven into the people's thought.
+
+People must adopt democratic principles in all their conduct.
+
+They need clarity to understand problems, practice in expressing their views, and responsibility enough to listen when contrary views are offered. They must feel that no one should impose dominance upon another by word or deed, because doing so destroys human justice and fundamental rights.
+
+Democracy is not merely one system of government. It is a method for advancing humanity and putting into practice the principle that all are equal.
+
+"As I would not be a slave, so I would not be a master," said Abraham Lincoln.
+
+True democracy is built upon this philosophy.
+
+The democratic system rests on faith that everyone possesses the capacity to discover what is good and what is bad.
+
+Democracy cannot endure in a social order where a guru says, "Child, you cannot understand," and the disciple replies, "True, great one," then waits submissively for commands.
+
+Nor can democracy endure in a society filled with people who bow at the threatening voice of a superior declaring, "We have spoken!"
+
+It yields benefit only where people possess the attitude and language to say, "This is what I think. I ask you to accept it if it appears right, and to show me why if it is wrong."
+
+Democracy must therefore be regarded not merely as an electoral affair, but also as a means of creating a refined social order.
+
+For it to function properly and yield worthy benefit, it must be more than a governmental system: it must be interwoven with social life as a whole and with each person's private life.
+
+This requires the attitude, "That person is like me; the rights I possess belong to that person too."
+
+Such an attitude will not arise, and cannot endure even if introduced, in a society divided and differentiated into many sections by caste, religion or wealth.
+
+Recognising that democracy can succeed in politics only when a casteless and undivided social order has been created, thinkers have worked steadily to remove those divisions.
+
+If the democratic doctrine is introduced into a society filled with divisions that destroy human progress merely to the extent of granting "one vote to each person," it will not yield full benefit.
+
+To claim that we are equal only in possessing votes while inequalities may exist, do exist and may continue in every other sphere is like imagining that merely placing bricks one upon another will produce a long wall. Mortar is needed so that the separate bricks fit together and their individual strength becomes collective strength.
+
+A country adopting democracy must therefore also obtain a social order without divisions.
+
+Such an order does not exist today. Yet no progressive thinker fails to insist that it must be created. They have not achieved complete victory, but their work continues to bear fruit.
+
+Once people have gained the courage to ask, "Why should one man stand above everyone else as king? Why should such a man be born?" it is neither wrong nor exceptionally courageous to ask, "What right have you to call your class superior to mine? How can I accept a condition in which I must submit to you?" This is only a continuation of the outlook that rejected kingship.
+
+For that clarity to reach everyone, education must spread the idea that no one is high or low by birth. A system of education suited to democratic doctrine must therefore be adopted. Books, ideas and arrangements that instil inequality must be removed. What does this mean? It means that revolution must blossom in many fields of society.
+
+Democracy does not merely snatch the jewelled crown from a king. It also protects human beings from becoming trapped in any other grip or inequality.
+
+That is why thinkers said democracy was not merely a system, but a way of life.
+
+Only as we perceive democracy's full meaning and form does its greatness become clear. Only then does pride arise in saying, "I labour for democracy."
+
+Those who regard democracy only as an electoral system see the evils that wriggle through elections, become angry and distressed, and exclaim, "Democracy indeed! What use is it?"
+
+The pride produced by working for democracy as a way of life cannot arise from concentrating only upon elections.
+
+Moreover, since our social order has not been wholly reconstructed upon democratic principles, today's elections inevitably contain forces that attract and forces that corrode. This cannot be denied. But is that democracy's defect? No. It is the harm caused by adopting only the democratic mechanism without adopting its principles. Once this is understood, a determination will surely arise to work for those principles to spread and take root.
+
+Those who believe in democratic doctrine must undertake as a sacred reforming service the work of opposing and abolishing feelings of division that can destroy democratic principles.
+
+At election time deceptive language will be spoken. Intelligence is needed to identify and reject it and to obtain clarity.
+
+At election time issues will be confused. We need the capacity to find the truth.
+
+Methods such as destroying a person through accusations, eliminating opponents through abuse, setting people against one another and using violence will be adopted. We must ensure that they do not corrupt our purpose.
+
+Some, because of the facilities available to them, can approach the people continuously and ask for support. Not content with that advantage, they will also try to prevent others from obtaining an equal opportunity to approach the people and seek support.
+
+Beyond all these, last in sequence though not in quality, comes the injustice of using money-power to obtain popular support.
+
+Democracy must survive all these dangers.
+
+It is enough to consider the facilities and forms of strength that the present ruling Congress party possesses through these methods. Many people lose the courage to oppose it. Shaken by fear, many have concluded that resistance is useless and that they will only become lackeys; they have collapsed. The Dravida Munnetra Kazhagam stands courageously against all this immense strength. Why? The DMK regards democracy not merely as a practice but as a way of life. It therefore possesses passion and faith in working for that principle. This passion and faith enable it to cross mountains and swim through deep pools.
+
+"Can it be done? Will victory come?" are not the questions before the movement. Its questions are: "Should the democratic way not spread? Should we not labour for it?"
+
+Those who think only of victory at any cost, whatever must be done to obtain it, say that joining the powerful and gaining benefit is better than resisting them. They may indeed find victory there. But that victory will taste sweet only to them; society will receive no benefit. The movement's work is a great effort to win victory for society and for the democratic way.
+
+It is because the movement works with this purpose that it does not say, "Let the election come; we shall attend to it then. Until that time we can watch festivals, lay out gardens, collect interest and rent, and turn forest into cultivated land." It works continuously. It keeps explaining the system of government, takes up emerging issues and explains them, and condemns every action of the rulers that harms the people.
+
+Some ask, "Why cite matters as they occur? Why not gather them all together and present them at election time?" Such people do not exist in the movement.
+
+Beginning only at election time to explain every issue and enable people to use their votes properly is not merely impossible; it is improper.
+
+Today there are many issues of many different kinds. How many people can sit calmly, reflect upon all of them and reach a decision? The burdens of life press upon them and the arrows of time pierce them. That is why the movement confronts issues as soon as they arise, determines their good and harm, and brings its explanation before the people's forum.
+
+Even while the movement works continuously in this manner, Congressmen attempt riddles, explosions of sensation and spectacular dances at election time and snatch victory. What would happen if the movement rested and said it would attend to matters only when elections arrived?
+
+Clarity and courage are needed to restrain the rampage of democratic sovereigns. They cannot be acquired suddenly. We must labour tirelessly and continuously so that the people obtain them. The quality of that work will decide whether democracy becomes a way of life that allows people to live, or remains only a mechanism that prolongs the condition in which democratic sovereigns run riot.
+
+The End.
+
+## Translator's Notes
+
+The corrected Tamil OCR source is retained verbatim in the bilingual document. The three numbered source parts form one continuous essay and are translated as one work. In Part 1, source images 6 and 7 reproduce the same printed page; the next surviving image begins after an evident gap. The duplicated Tamil page remains in the retained source for image fidelity, while the English translation renders the repeated passage once and marks the unavailable continuation as a source lacuna. Period forms such as “அய்ரனி,” “தியாபானோ,” “டிமோஸ்,” and “கிரேட்டின்” are rendered contextually as Irene, Theophano, Demos and kratein. The source attributes the epithet Lionheart to “Richard II”; the translation preserves the printed regnal number rather than silently replacing it with Richard I. The source's historical claims and political characterisations are translated as printed and have not been independently corrected.

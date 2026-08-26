@@ -6,7 +6,7 @@
 |---|---:|---:|---:|---:|
 | english | 1 | 1 | 1 | 0 |
 | kadithangal | 275 | 8 | 8 | 267 |
-| katturaigal | 1388 | 539 | 539 | 849 |
+| katturaigal | 1388 | 540 | 540 | 848 |
 | kavithaigal | 77 | 77 | 77 | 0 |
 | Kurunavalgal | 25 | 0 | 0 | 25 |
 | nadagangal | 62 | 24 | 24 | 38 |
@@ -15,17 +15,17 @@
 | root | 5 | 5 | 5 | 0 |
 | sirukathaigal | 109 | 108 | 108 | 1 |
 | sorpozhivugal | 537 | 180 | 180 | 357 |
-| **All included sections** | **2511** | **968** | **968** | **1543** |
+| **All included sections** | **2511** | **969** | **969** | **1542** |
 
 ## OCR-Origin Translation Progress
 
 | Section | OCR target | Completed | Bilingual with source retained | Pending |
 |---|---:|---:|---:|---:|
-| katturaigal | 552 | 538 | 538 | 14 |
+| katturaigal | 552 | 539 | 539 | 13 |
 | nadagangal | 61 | 24 | 24 | 37 |
 | sirukathaigal | 108 | 108 | 108 | 0 |
 | sorpozhivugal | 241 | 180 | 180 | 61 |
-| **All OCR-origin sections** | **962** | **850** | **850** | **112** |
+| **All OCR-origin sections** | **962** | **851** | **851** | **111** |
 
 ## OCR Source Recovery Status
 

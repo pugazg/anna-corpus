@@ -1,6 +1,261 @@
 {
   "note": "Human-reviewed, page-specific OCR corrections. These are applied after Unicode normalization and before token corrections.",
   "files": {
+    "katturaigal/kudiyatchi_komaan_1.md": {
+      "phraseCorrections": [
+        {
+          "wrong": "[7ஷிய நாட்டு மன்னர் மன்னன் பீடர்",
+          "right": "ரஷிய நாட்டு மன்னர் மன்னன் பீடர்",
+          "reason": "scan 1 clearly prints ரஷிய"
+        },
+        {
+          "wrong": "இருக்க வேண்டும என்பதனை",
+          "right": "இருக்க வேண்டும் என்பதனை",
+          "reason": "scan 1 clearly prints வேண்டும்"
+        },
+        {
+          "wrong": "அறாவது ஜார்ஜ்",
+          "right": "ஆறாவது ஜார்ஜ்",
+          "reason": "scan 2 clearly prints ஆறாவது"
+        },
+        {
+          "wrong": "இந்த 707 மாமன்னர்களில்",
+          "right": "இந்த 107 மாமன்னர்களில்",
+          "reason": "scan 3 clearly prints 107"
+        },
+        {
+          "wrong": "இவன் மகன் பட்்டத்தரசனானால்",
+          "right": "இவன் மகன் பட்டத்தரசனானால்",
+          "reason": "scan 4 clearly prints பட்டத்தரசனானால்"
+        },
+        {
+          "wrong": "இறைவன்\nபுதுப்பது மன்னர்களைத் தந்து வந்தான்",
+          "right": "இறைவன்\nபுதுப்புது மன்னர்களைத் தந்து வந்தான்",
+          "reason": "scan 4 clearly prints புதுப்புது"
+        },
+        {
+          "wrong": "அந்த மனக்குழுறலிலிருந்து",
+          "right": "அந்த மனக்குமுறலிலிருந்து",
+          "reason": "scan 4 clearly prints மனக்குமுறலிலிருந்து"
+        },
+        {
+          "wrong": "மணிமூடி இருக்கிறதே",
+          "right": "மணிமுடி இருக்கிறதே",
+          "reason": "scan 5 clearly prints மணிமுடி"
+        },
+        {
+          "wrong": "1790ம் அண்டில்",
+          "right": "1790ம் ஆண்டில்",
+          "reason": "scan 5 clearly prints ஆண்டில்"
+        },
+        {
+          "wrong": "முடி யாத ஒரு அரசு முறை",
+          "right": "முடியாத ஒரு அரசு முறை",
+          "reason": "scan 6 clearly prints முடியாத"
+        },
+        {
+          "wrong": "அதள் விளைவே குடியாட்சி முறை",
+          "right": "அதன் விளைவே குடியாட்சி முறை",
+          "reason": "scan 6 clearly prints அதன்"
+        },
+        {
+          "wrong": "நாம் அதரவு கொடுத்தோம்",
+          "right": "நாம் ஆதரவு கொடுத்தோம்",
+          "reason": "scan 6 clearly prints ஆதரவு"
+        },
+        {
+          "wrong": "குடி யாட்சிக் கோமான்கள்",
+          "right": "குடியாட்சிக் கோமான்கள்",
+          "reason": "scan 6 clearly prints the word continuously"
+        },
+        {
+          "wrong": "மக்கள் கொண்டி ருந்ததைத்",
+          "right": "மக்கள் கொண்டிருந்ததைத்",
+          "reason": "scan 8 clearly prints the word continuously"
+        }
+      ],
+      "tokenCorrections": []
+    },
+    "katturaigal/kudiyatchi_komaan_2.md": {
+      "phraseCorrections": [
+        {
+          "wrong": "நமது நம்மைக்காகச் செய்கிறார்",
+          "right": "நமது நன்மைக்காகச் செய்கிறார்",
+          "reason": "scan 1 clearly prints நன்மைக்காக"
+        },
+        {
+          "wrong": "தோக்கத்தை\nவேறு பக்கம்",
+          "right": "நோக்கத்தை\nவேறு பக்கம்",
+          "reason": "scan 2 clearly prints நோக்கத்தை"
+        },
+        {
+          "wrong": "முழுவதம் பெற்று",
+          "right": "முழுவதும் பெற்று",
+          "reason": "scan 2 clearly prints முழுவதும்"
+        },
+        {
+          "wrong": "வாழ்க்கை\nநெறியிலே ஓரு கூறு",
+          "right": "வாழ்க்கை\nநெறியிலே ஒரு கூறு",
+          "reason": "scan 3 clearly prints ஒரு"
+        },
+        {
+          "wrong": "அளவந்தார்களாகி விட்ட பலர்",
+          "right": "ஆளவந்தார்களாகி விட்ட பலர்",
+          "reason": "scan 4 clearly prints ஆளவந்தார்களாகி"
+        },
+        {
+          "wrong": "சமூகம் சிரும் சிறப்பும்",
+          "right": "சமூகம் சீரும் சிறப்பும்",
+          "reason": "scan 5 clearly prints சீரும்"
+        },
+        {
+          "wrong": "குடிமகனுடைய குரவளையை நெறிப்பது",
+          "right": "குடிமகனுடைய குரல்வளையை நெறிப்பது",
+          "reason": "scan 5 clearly prints குரல்வளையை"
+        },
+        {
+          "wrong": "குடியாட்சிக் கோமான்கள் கொளலுவிருக்கக்",
+          "right": "குடியாட்சிக் கோமான்கள் கொலுவிருக்கக்",
+          "reason": "scan 6 clearly prints கொலுவிருக்கக்"
+        },
+        {
+          "wrong": "நெஞ்சிலே உறதியும்",
+          "right": "நெஞ்சிலே உறுதியும்",
+          "reason": "scan 6 clearly prints உறுதியும்"
+        },
+        {
+          "wrong": "நலன் குறித்த அக்கரை",
+          "right": "நலன் குறித்த அக்கறை",
+          "reason": "scan 6 clearly prints அக்கறை"
+        },
+        {
+          "wrong": "நேர்த்தி மிக்க வாழக்கை முறையாகும்",
+          "right": "நேர்த்தி மிக்க வாழ்க்கை முறையாகும்",
+          "reason": "scan 7 clearly prints வாழ்க்கை"
+        },
+        {
+          "wrong": "பெற்றுவிட.க் கூடியவையுமாகா",
+          "right": "பெற்றுவிடக் கூடியவையுமாகா",
+          "reason": "scan 2 has no full stop inside the word"
+        },
+        {
+          "wrong": "மயக்கமூட்ட/\nமயங்கினால்",
+          "right": "மயக்கமூட்ட;\nமயங்கினால்",
+          "reason": "scan 3 prints a semicolon after மயக்கமூட்ட"
+        },
+        {
+          "wrong": "நழுவிவிட. முனைவர்",
+          "right": "நழுவிவிட முனைவர்",
+          "reason": "scan 7 has no full stop inside the phrase"
+        },
+        {
+          "wrong": "குறிக்கப்பட்டி.ருந்தன",
+          "right": "குறிக்கப்பட்டிருந்தன",
+          "reason": "scan 8 prints the word continuously"
+        },
+        {
+          "wrong": "கவனித்துக் கொண்டனர் என் ம்",
+          "right": "கவனித்துக் கொண்டனர் என்றும்",
+          "reason": "scan 8 clearly prints என்றும்"
+        },
+        {
+          "wrong": "(0ண௯௦௦௨௦3) டெமாக்ரசி",
+          "right": "(Democracy) டெமாக்ரசி",
+          "reason": "scan 8 clearly prints Democracy"
+        },
+        {
+          "wrong": "டி மோஸ் (0௭௦5)",
+          "right": "டிமோஸ் (Demos)",
+          "reason": "scan 8 clearly prints டிமோஸ் (Demos)"
+        },
+        {
+          "wrong": "டெமாக்ரசி (0௭௩௦௦18094)",
+          "right": "டெமாக்ரசி (Democracy)",
+          "reason": "scan 8 clearly prints டெமாக்ரசி (Democracy)"
+        }
+      ],
+      "tokenCorrections": []
+    },
+    "katturaigal/kudiyatchi_komaan_3.md": {
+      "phraseCorrections": [
+        {
+          "wrong": "பேசி, முடி வெடுப்பர்",
+          "right": "பேசி, முடிவெடுப்பர்",
+          "reason": "scan 1 clearly prints முடிவெடுப்பர்"
+        },
+        {
+          "wrong": "என் அ குரு கூற",
+          "right": "என ஒரு குரு கூற",
+          "reason": "scan 2 clearly prints என ஒரு குரு கூற"
+        },
+        {
+          "wrong": "காத்துக் கடக்கும்",
+          "right": "காத்துக் கிடக்கும்",
+          "reason": "scan 2 clearly prints காத்துக் கிடக்கும்"
+        },
+        {
+          "wrong": "அடி.ப்படை உரிமைக்கு",
+          "right": "அடிப்படை உரிமைக்கு",
+          "reason": "scan 1 prints the word continuously"
+        },
+        {
+          "wrong": "அடி.பணிவோர் நிரம்பிய",
+          "right": "அடிபணிவோர் நிரம்பிய",
+          "reason": "scan 2 prints the word continuously"
+        },
+        {
+          "wrong": "ள் கன் ப அண் என்பது ஒருமுறை மட்டுமல்ல,\nஒரு நெறி! என்றனர் அறிவாளர்.",
+          "right": "ஆகவேதான், குடியாட்சி என்பது ஒருமுறை மட்டுமல்ல,\nஒரு நெறி என்றனர் அறிவாளர்.",
+          "reason": "scan 4 clearly preserves the complete sentence"
+        },
+        {
+          "wrong": "மக்களை அணுகி, அவர்கள் ஆரரவைக் கேட்டிட",
+          "right": "மக்களை அணுகி, அவர்கள் ஆதரவைக் கேட்டிட",
+          "reason": "scan 5 clearly prints ஆதரவைக்"
+        },
+        {
+          "wrong": "எடுபிடி அகிவிடுவோம்",
+          "right": "எடுபிடி ஆகிவிடுவோம்",
+          "reason": "scan 5 clearly prints ஆகிவிடுவோம்"
+        },
+        {
+          "wrong": "அப்போ து பார்த்துக் கொள்ளலாம்",
+          "right": "அப்போது பார்த்துக் கொள்ளலாம்",
+          "reason": "scan 6 clearly prints அப்போது"
+        },
+        {
+          "wrong": "அப்போதைக்கப்போது எடுத் துக்காட்டுவானேன்",
+          "right": "அப்போதைக்கப்போது எடுத்துக்காட்டுவானேன்",
+          "reason": "scan 6 clearly prints எடுத்துக்காட்டுவானேன்"
+        },
+        {
+          "wrong": "மனிதன், வே று எந்தவிதமான",
+          "right": "மனிதன், வேறு எந்தவிதமான",
+          "reason": "scan 4 prints வேறு continuously"
+        },
+        {
+          "wrong": "தேர்தல்களில், பல்வே று ஈர்க்கும்",
+          "right": "தேர்தல்களில், பல்வேறு ஈர்க்கும்",
+          "reason": "scan 4 prints பல்வேறு continuously"
+        },
+        {
+          "wrong": "இஃது, குடி யாட்சியின் குறையோ",
+          "right": "இஃது, குடியாட்சியின் குறையோ",
+          "reason": "scan 4 prints குடியாட்சியின் continuously"
+        },
+        {
+          "wrong": "எதிர்த்தபடி. . காரணம் என்ன?",
+          "right": "எதிர்த்தபடி. காரணம் என்ன?",
+          "reason": "scan 5 has a single full stop"
+        },
+        {
+          "wrong": "சுவைதரும்,; சமூகத்திற்குப்",
+          "right": "சுவைதரும்; சமூகத்திற்குப்",
+          "reason": "scan 6 has a single semicolon"
+        }
+      ],
+      "tokenCorrections": []
+    },
     "katturaigal/aangilampol.md": {
       "phraseCorrections": [
         {
