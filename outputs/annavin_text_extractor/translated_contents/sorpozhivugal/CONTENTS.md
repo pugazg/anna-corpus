@@ -301,7 +301,7 @@ Total source works: 537
 - [ஒட்டுமாஞ்செடி](ottumanchedi.md) - pending
 - [sorpozhivugal/oviyar_madhavan](oviyar_madhavan.md) - translated
 - [படை திரட்டி அனுப்பத் தயார்](padai_thiratti_anuppa_thayar.md) - pending
-- [sorpozhivugal/paerunthu030959](paerunthu030959.md) - pending
+- [sorpozhivugal/paerunthu030959](paerunthu030959.md) - translated
 - [பகையும் இல்லை – காதலும் இல்லை](pagayumillai_kathalumillai.md) - pending
 - [பணக்காரர்களின் பாசறை!](panakkararhalin_paasarai.md) - pending
 - [பண்போடு பழகினோம்!](panbodu_pazhaginoam.md) - pending
