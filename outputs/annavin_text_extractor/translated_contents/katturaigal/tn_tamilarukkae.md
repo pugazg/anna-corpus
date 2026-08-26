@@ -1,4 +1,10 @@
-# katturaigal/tn_tamilarukkae
+# தமிழ்நாடு தமிழருக்கே! / Tamil Nadu for Tamils!
+
+**Tamil title:** தமிழ்நாடு தமிழருக்கே!  
+**English title:** Tamil Nadu for Tamils!  
+**Source file:** `katturaigal/tn_tamilarukkae.md`
+
+## Source Tamil (verbatim)
 
 - Combined OCR parts: 2
 - OCR correction stage: `apply_ocr_corrections.py`
@@ -1178,3 +1184,277 @@ vol. II (1925) பக்கம் 273இல் இருக்கிறது.
 தலையங்கத்தில் விளக்குவோம்.
 
 விடுதலை - 23. 11. 1939
+
+## English Translation
+
+## Editorial I — 21 November 1939
+
+The campaign now being conducted under the slogan “Tamil Nadu for Tamils” is being discussed everywhere in Tamil Nadu. We hear, and in some instances see directly, that our opponents and certain impostors who remain within our circle solely for their own advantage are distorting it, conducting malicious propaganda about it and conspiring to create agitation against it.
+
+Periyar’s reply at Memorial Hall in Madras to a criticism written by the *Mail* on the basis of his speech at Tuticorin may soon appear in our paper. Meanwhile, the explanation Periyar sent to the *Mail* was published in its issue of the 20th, and its Tamil substance appears later as a supplement.
+
+Since this campaign must henceforth be carried on vigorously, we shall explain it in a continuing series of editorials.
+
+### Origin of the Slogan
+
+The idea “Tamil Nadu for Tamils” was already indicated in Periyar’s presidential address read at the South Indian Liberal Federation conference—the Justice Party conference—held in Madras last December. On the preceding day, Sir A. T. Panneerselvam, who presided over the Tamil Conference at Vellore, also explained it in his presidential address.
+
+Largely for that reason, “Tamil Nadu for Tamils” is today resounding throughout Tamil Nadu as the Tamil people’s watchword and goal. Until now, we have received no information or objection suggesting that anyone was dissatisfied with, or differed in opinion from, the proposition that Tamil Nadu belongs to Tamils.
+
+### The Mischief-Makers’ Cry
+
+We have seen and heard one or two irrelevant outcries in certain Brahmin newspapers and from some of their hirelings, but even those do not appear to have been repeated elsewhere.
+
+One Brahmin newspaper responded to “Tamil Nadu for Tamils” by writing, “A rat-hole for rats.” Another Brahmin hireling cried, “If Tamil Nadu is for Tamils, what business has a Kannadiga in Tamil Nadu?” A comrade who remains inside while seeking to undermine us spread the malicious question, “If Tamil Nadu is for Tamils, what will become of Andhras and Malayalis?” Apart from these, we know of no other opposition or dissatisfaction. Whatever the case, since this objective is now the Tamil people’s goal, we are obliged to explain it.
+
+### It Is Not Atheism
+
+Anyone who claims that “Tamil Nadu for Tamils” conceals atheism, hostility to religion or language, or communal hatred is either ignorant of the matter or a scoundrel deliberately conducting malicious propaganda. Leaders who proclaim “Tamil Nadu for Tamils,” beginning with Sir Panneerselvam and the Kumararaja, are neither atheists nor persons hostile to religion or language. On page 12, paragraph 2, line 15 of Periyar’s Tamil presidential address read at the Justice Party conference mentioned above, it says:
+
+“Would it be contrary to nationality for the people of Tamil Nadu, Andhra, Kerala and Karnataka to wish to separate from Bengalis, Gujaratis, Kashmiris and Sindhis? Likewise, would it be contrary to nationality for Dravidians to wish to separate from Aryans? If it is said that we cannot protect ourselves unless we remain under ‘white’ rule, could not Tamil Nadu—or Dravida Nadu—remain separate like Ceylon and Burma, or like Australia and Canada?”
+
+Periyar was chosen as leader only after this address had been read. Tens of thousands of people accepted his leadership, acclaimed him, pledged to follow it and took their seats. The idea therefore cannot be described as something suddenly thrust upon the Justice Party or upon those who call themselves Tamils. We cite this to show that no one has grounds for malicious propaganda about it. Since the same address explains in great detail the reasons that make this principle necessary, we urge the Tamil people to read the entire address once again.
+
+### Tamil Nadu Means Dravida Nadu
+
+We first make clear that whenever we have spoken and written of Tamil Nadu, we have meant Dravida Nadu; we have not intended the separation of the Tamil-speaking area alone. There is no need for us to prove that Tamil Nadu means Dravida Nadu and Dravida Nadu means Tamil Nadu, for abundant evidence exists. Numerous cited authorities record historians’ conclusion that “Dravida became Tamil” and that “Tamil became Dravida.” Old dictionaries say the same.
+
+For example, in the *Gem Dictionary* published by T. A. Swaminatha Iyer in 1926, the fifth line of page 340 gives “Tamil Nadu” as the Tamil meaning of “Dravida.”
+
+In the twentieth-century Chambers dictionary, page 282, second column, fifth entry, “Dravidian” is defined as the non-Aryan people of South India who speak Tamil, Telugu, Kannada and Malayalam; “Dravida” is defined as an ancient province in South India.
+
+A large *Dictionary of the English Language*, published in London in 1904 by a renowned editor and now supplied to schools throughout the world, explains “Dravidian” on page 257, first column, fourth entry. It describes Dravida as an ancient province inhabited by non-Aryan people, and the Tamils or Tamilakam as a pre-Aryan people speaking a non-Aryan language. It also includes Ceylon within Dravida.
+
+Many other dictionaries and works of research likewise show that Tamil Nadu and Tamils have respectively been understood as Dravida and Dravidians. If anyone nevertheless believes—or argues that one must understand—the words Tamil Nadu and Tamil as Congressmen have divided them, as referring only to one particular territory and one particular language, we have no objection to adopting “Dravida Nadu for Dravidians” as our watchword in place of “Tamil Nadu for Tamils.” We declare that we may henceforth do so.
+
+### Let Them Withdraw or Come Forward to Debate
+
+An Andhra notable has reported that certain zamindars in Andhra are unwilling to acknowledge themselves as Dravidians, though he himself is a Dravidian. This does not surprise us. Even among those here who call themselves Tamils, some who have gained publicity by speaking continually of the Tamil–Aryan question become angry when anything is said about Aryan mythology, Aryan gods and their degrading and obscene stories. If asked, “Why does a god have wives, children, concubines and prostitutes?” they rush to offer philosophical interpretations of Aryan tales and performances. When this happens among people who know the issue, there is no cause for surprise if an uninformed person denies being a Dravidian.
+
+Such disputants should either withdraw or come out openly and debate with courage. They should not conduct malicious propaganda merely because their livelihood and way of life are entangled in both sides. This is our humble request.
+
+Some may pause and ask why this demand is necessary now. We are obliged to show that explaining its urgency is itself an urgent task.
+
+### Let the Life of Slavery End!
+
+We do not make this demand merely with political domination in view. We make it in consideration of the Dravidian people’s political, social and economic life, science, self-defence and general advancement. Dravida Nadu, renowned from antiquity, has disappeared completely. It has been wholly subjected to Aryan power and has become a servile country under Aryan domination, enriching lands that have themselves become Aryan countries. The world is made to regard the Dravidian people as savages. In politics, economics, society and religion, Dravidians live as slaves, serving only Aryan welfare and advancement. We therefore say that changing this condition is now a matter of the utmost urgency.
+
+### The Present Condition
+
+There are approximately fifty million Dravidians in Dravida Nadu today. But what is their condition? They are divided as Tamil, Telugu, Kannada, Malayalam and Tulu speakers; as people of Ceylon; as Christians and Muslims; as Adi-Dravidas, Adi-Andhras, Adi-Karnatakas and Adi-Kirata communities; and into many castes, classes and religions. We remain in a condition in which we must fear the Aryan and seek protection. In politics, religion and social life, Dravidians accept Aryans as masters, leaders, gurus and upper castes.
+
+However much we claim to possess a spirit of inquiry, knowledge and honour, we give primacy to the Aryan’s god, religion and myths of Aryan domination. We hope to benefit from the scraps left after he has enjoyed their fruits.
+
+### Who Profits from Aryan Religion?
+
+Some may ask why we speak of an Aryan religion and Aryan gods. But who lives by those gods? Who is elevated by them? Whose greatness are those divine forms designed to display? Whose domination and glory do the stories associated with those gods propagate and preserve? If these questions are considered, both our reason for distinguishing them and the meaning of our call to boycott them will become clear.
+
+Suppose a man says: “I became a scholar of the *Manudharma Shastra*, wrote an extensive commentary and interpretation of it, and printed ten thousand copies. Now they condemn the *Manudharma Shastra* and its gods. What will become of me? I will gather a group and fight them.” If we ask whether we should fear this scripture-propagating, belly-filling group, we shall understand how seriously such opposition deserves to be treated.
+
+### Aryans Became the Leaders
+
+What distinction can now be drawn between the *Manudharma Shastra* and Aryan Puranic epics such as the *Ramayana*? We shall leave that dispute for another occasion. But what have we gained from hitherto treating all India as one country, calling ourselves Indians and therefore Hindus, and conducting political and religious agitations over so broad a field?
+
+Today our all-India political leaders are Gandhi and Pandit Jawaharlal, while in our province they are Rajagopalachari and Sathyamurthi Sastri. We have witnessed and experienced what the Acharyas and Sastris, while holding political leadership during these thirty months, have done to us.
+
+To prevent us forever from making an effort of this kind toward self-determination, Acharya sought to eradicate our arts and languages by imposing an Aryan language compulsorily upon Dravidian children. Those who resisted—including men, women and the leaders of Tamil organisations—were punished under repressive laws with years of imprisonment, fined thousands of rupees and subjected to confiscation of property.
+
+### An Aryan School at Tirupati
+
+To teach learning based upon Aryan mythological tales, a college costing twelve lakh rupees was established at Tirupati, with Aryans appointed as its teachers. It worked toward Aryanisation, extinguishing consciousness of the distinction between Dravidian and Aryan.
+
+The words Aryan and Dravidian were forbidden from appearing in schoolbooks, and books were made to be rewritten by a new method. New histories of the Hindu nation are similarly being written. They conceal the question of when Aryans entered India and begin historical lessons only with the time of Alexander’s arrival.
+
+Comrade Sathyamurthi Iyer is devising plans to make Sanskrit a compulsory subject.
+
+Education is being reorganised according to the varna-ashrama system. Under the Wardha Scheme, the fourth class is to find its livelihood and knowledge solely in manual labour and is said to need nothing else. This scheme is being put into practice.
+
+Conspiracies have removed non-Aryans—that is, Dravidians—from political office and public employment. Arrangements have been made so that within another five years Aryans alone will occupy the leading provincial and district posts in every department.
+
+Gandhi, the leader of Indian politics, himself labours for Rama Rajya and the restoration of varna-ashrama. He has declared openly that this is the principle underlying the Swaraj demanded by Congress.
+
+Whatever the cause, a Dravidian son possessing independent judgment and self-respect has been rendered unfit to become a leader in any field. A tyranny under which Dravidian people tremble and surrender at the sight of Aryans is being described as good government.
+
+### The Boon Acharya Asked For
+
+The Viceroy invited many leaders on behalf of Congress. Did he summon even one Dravidian for consultation? Had anyone been enabled to acquire the standing needed to be summoned? The answer reveals who dominates politics.
+
+If Congress promises the Viceroy assistance, returns to office and supports the war, who will provide the money? Who will register in great numbers, be taken to the war and give their lives? They will all be Dravidian people.
+
+Comrade Acharya asked the Viceroy for one condition in return for helping the war. He said that if Vali were killed and Sugriva crowned, Sugriva would then render assistance. The “Vali” to whom Acharya referred meant the Dravidians—the Justice Party—and also the Muslims, outsiders whom his people call “Mlechchas.” He sought the killing of these groups and the coronation of Sugriva: Congress, the fratricidal traitor who joins enemies to kill the brothers who ruled their own land before it did.
+
+From this alone, we ask readers to consider whether Dravidians can advance or live with honour while joined either to Aryans or to provinces wholly enslaved to Aryan power.
+
+*Viduthalai*, editorial, 21 November 1939.
+
+## Editorial II — 22 November 1939
+
+In yesterday’s editorial under this title, we explained that “Tamil Nadu for Tamils” means “Dravida for Dravidians”; that both “Dravida” and “Tamil Nadu” refer to the old Dravidian territory and the Dravidian languages; and that the idea of “Dravida for Dravidians” is to separate Dravida from the Indian union and make it an independent country. The regions defined by the Dravidian languages would form internal provinces of that country. Each province would have its own representation or legislature. The central government would receive authority only over matters common to all provinces—general defence, posts, telegraphs, railways, electricity, public requirements and industry—while every other matter would be administered entirely by the province concerned. As far as possible, authority over provincial employment, economic affairs and similar matters would belong to each province and be allotted according to the numbers of its people.
+
+### What Benefit Is There in Remaining Bound Together?
+
+We wrote that such an arrangement cannot in any sense be called atheistic or hostile to religion or language, nor would it create hatred toward other peoples in India or the world. Remaining united with India has brought us no advancement. On the contrary, it has caused many injuries. Our condition has not merely stagnated without progress; in important respects we have moved backward. Unless we leave the vast confusion called “India” and attend independently to our own affairs, we shall suffer still further.
+
+In social life we have become minorities. In religion we have been reduced to an inferior people, a fourth caste of hereditary slaves, and the world has been made to regard us as savages. Aryans and the northern peoples who help them crush us have betrayed and exploited us until we cannot raise our heads. For these reasons we wrote that we must withdraw from the artificial association called “India,” create an independent country called Dravida within the Dravidian boundaries, remain under British protection until we acquire full strength, and thereafter take our place among the world’s other fully sovereign independent nations.
+
+We also answered the doubts raised by the *Mail*, replied to its criticism, and yesterday published elsewhere a Tamil rendering of the statement sent to that paper.
+
+As promised at the end of yesterday’s editorial, we now continue by explaining several further aspects of the matter.
+
+The general tendency in the world today appears to favour decentralisation: peoples separate from the grip of countries with vast territories and populations, form smaller states of manageable size, and attend to the needs and paths of progress of the societies within their respective boundaries. This is regarded as the course most favourable to popular and social advancement.
+
+Ireland’s separation from Great Britain and subsequent progress is a direct example. If that is considered too difficult an example, Burma’s separation from India and its progress are sufficient.
+
+For an individual or a distinct community to develop the urge for advancement, some necessity must stimulate it. Under present conditions, what necessity stimulates us to desire India’s advancement? Who has benefited from the progress India has so far made or from the profitable institutions it has acquired? What particular good has Dravida received? What hardship has been removed? When we examine the matter, people like us have reason only for shame. We ask whether there is any satisfactory answer that could content us.
+
+### What Is Progress?
+
+Progress principally means advancement in a country’s social and economic life, accompanied by an elevation of its leadership. It also means that one human being need not suffer dissatisfaction and grief from feeling immeasurably inferior to another.
+
+Have the overwhelming majority of us Dravidians attained such advancement in social life, economic life or the education and knowledge appropriate to them? Have we even reached a condition in which the difference between us and other peoples is not excessive?
+
+If not, what benefit lies in remaining together? We must labour and cultivate more than our partners. They enjoy more than we do of the resulting produce. We are considered entitled only to enough thin gruel to keep us from starving to death—and even that because, if we died, our partners would lose the people who perform such labour for them. How can cooperation with outsiders be possible on these terms?
+
+That is why we say that we shall stand apart, divide out our land, drive our own ploughs, till deeply and raise our own crop. This will cause no permanent harm to anyone.
+
+### Industry
+
+History shows that ancient Dravida Nadu excelled in industry. Consider warfare. The whole of present-day India has progressed only to this level: when faced by someone strong enough to kick it, it preaches nonviolence and receives the kick; when faced by someone weak, it declares that the country is not fit for nonviolence and that there is no need to refrain from seizing whatever is at hand and beating him. Such is twentieth-century India.
+
+Yet Tamil historical literature from three or four thousand years ago describes fortress walls fighting without direct human aid. Mechanical figures stood upon the walls, melted lead and hurled it at enemies; machines discharged sling-stones in volleys; mechanical people flew; and a person could enter a device shaped like a peacock and travel through the sky. Ancient Dravidian historical, literary and grammatical works such as the *Silappathikaram* and *Purapporul Venbamalai* record many such remarkable crafts.
+
+No one should suppose that we offer these as grandmother’s tales. The grandmother’s tales are the divine Pushpaka aircraft of the *Ramayana*, *Bharata*, *Periya Puranam*, *Chinna Puranam*, Fish Purana and Frog Purana: imaginary devices that operate by themselves at a mere thought, without human intelligence or effort, and wage war while hidden in the sky. The ancient Tamil accounts instead describe things made by human beings in a manner consistent with knowledge and science. Even today, Dravida contains many visible structures that could scarcely have been made by unaided hands rather than machinery. It cannot be said that northern India possesses so many examples of this kind.
+
+### The West and Aryanism
+
+It does not matter if these ancient historical claims are disbelieved or set aside; we have not come to cling to them and boast of our greatness. But today we see the West—and particularly its small countries—discovering marvellous machines and new wonders that serve the world and bring comfort to ordinary life: spinning and weaving mills, telegraphy, wireless, aircraft, steam trains, motor vehicles, bicycles, gramophones, talking motion pictures, photography, X-rays, radio transmission of images and many other inventions.
+
+What, by contrast, has united India discovered under the leadership, guidance and spiritual instruction of a Mahatma who converses with his inner soul? The spinning wheel and spindle; the bullock cart and the speed produced by fifty-one pairs of oxen; palm jaggery and hand-pounded rice; coarse sackcloth tied above the knee to recall savagery; and, without regard for the state of the world, wandering obscenely with a topknot displayed above a shaved head. These shine as the wonders discovered by India in the present age.
+
+### Hirelings of the North
+
+Why are science, new inventions and mechanical work bitter to present-day India? Is there any region outside India—even Abyssinia or lands inhabited by still more ancient peoples—where anyone says that machinery must not be used?
+
+Yet, by denouncing the “machine demon,” they prevent machinery from arising in Dravida Nadu while enriching people of their own caste in other Indian provinces. They receive lakhs and tens of lakhs from those people and pay hirelings among the Vibhishanas, Hanumans, Sugrivas and Angadas of Dravida Nadu to kill by intrigue the men and heroes who bear names such as Vali and Ravana. They put forward certain degraded people of Dravida Nadu as election candidates and spend money obtained by betraying Dravida to other provinces. They secure victory, portray organisations of the Dravidian people as minorities, turn their own little organisation into the “majority,” and make Dravidian language, art, civilisation, historical truth and the spirit of freedom disappear. We ask readers to consider whether these things could have been done if Dravida had stood alone.
+
+If Dravida were independent, would Tirunelveli district have been represented for Dravidians by a Sokkalingam, a Yagneswara Sarma and a Lakshmi Ammal, whose qualifications and worth the public knows? Would the Medai, Seena-Vaana, Ilanji and Chavadi families have been left sitting in corners and compelled to carry flags behind fourth-rate people? We point similarly to Coimbatore district.
+
+Two pattakkarars, social leaders among that district’s prominent people, have been expelled from representative standing in Tamil Nadu and condemned as unfit for public life. Coimbatore notable Rathinasabapathi Mudaliar has been made an outcaste. Another notable, Ramalingam Chettiar, has had his marriage emblem removed. They have been made to appear ill-omened in public life. Rajas and zamindars have been forced to retreat.
+
+Can anyone say that these people are inferior in qualification, conduct, integrity or patriotism to Acharya, Sathyamurthi, Kuppusami, Annamalai, Ubayatullah Sahib, Subbiah or the Subramaniams? What explanation is possible except that Dravida exists not for Dravidians but for Aryans, Aryan Banias and Aryan priests? What, then, is the standing of those called Dravidian Christians and Dravidian Muslims?
+
+The Muslim representatives for Tamil Nadu are Ubayatullah Sahib and another comrade, Yaqub Hussain. Everyone knows that the latter is not from Dravida Nadu. Among Christians, the representative appears to be a certain Varkey. Why have such people come to represent Muslims and Christians in Tamil Nadu or Dravida Nadu? We ask readers to consider whether any reason exists other than that Dravida has served Aryans, Banias, Marwaris and priests instead of Dravidians.
+
+The artistic and religious works of the respective peoples are themselves sufficient witnesses that Dravidians once possessed great distinction, civilisation, self-respect and courage, while Aryans lived as Mlechchas and savages. Thousands of truths discovered and recorded by researchers in world history can also be seen. Anyone wishing to understand the Aryan character need only examine the Hindu, Saivite and Vaishnavite Puranas concerning their gods; it will become as clear as a reflection in a mirror.
+
+What is the condition today of Dravidians who have no connection with those traditions? Every person sweeping the streets, cleaning latrines, carrying loads, pulling carts, operating punkahs, removing leftovers and performing many similar occupations in Dravida Nadu is a Dravidian man or woman. Yet everyone also knows how outsiders who came here to make a living—Aryans, Gujaratis, Marwaris, Parsis and Punjabis—are advertised and live in elevated and exalted positions as “gods on earth,” millionaires, Mahatmas, Acharya Swamis, world-famous dignitaries, intellectuals and scientists.
+
+We ask whether this is because Dravida exists for the groups named above rather than for Dravidians, or whether some other cause can be shown.
+
+From all this, readers must decide whether Dravida should stand alone and regain what was excellent in its ancient greatness, together with the position and distinction appropriate to modern world progress. Or should Dravidians remain mixed within “India,” believing that they can attain salvation only through Aryans, Banias and Marwaris—like horses said to attain salvation only through the driver of a hired carriage, or bullocks only through the operator of an oil press?
+
+We shall write later about the differences between the ways of life of Dravidians and outsiders.
+
+*Viduthalai*, editorial, 22 November 1939.
+
+## Editorial III — 23 November 1939
+
+In the editorials of the day before yesterday and yesterday under the title “Tamil Nadu for Tamils,” we explained its meaning, necessity and method. We also said that we would continue by discussing differences between the ways of life of Dravidians and outsiders. In this third editorial, we begin by showing what Dravidians and Aryans were like, how they came into contact, and how their ways of life differed.
+
+There is no need to explain that Aryans migrated into Dravida Nadu and subdued and degraded the Dravidians. Nor need we explain that Dravida Nadu excelled in arts and civilisation before the Aryans arrived. Nevertheless, we consider it appropriate to cite the opinions of a few historians as evidence for both propositions.
+
+The following statement is attributed, with supporting evidence on page 19 of *Foreigners in India*, to the renowned researcher Sir Henry Johnston Butler: “The Aryans crossed western Tibet and Afghanistan and migrated into India. Their language resembled Sanskrit. After entering India, they recorded their beliefs, customs, religious ideas and other matters in their own language as they pleased.”
+
+Professor Ragozin is cited in *Vedic India* as saying that the Aryans were attached to morally degrading practices such as drinking liquor and gambling.
+
+Page 4 of the research work *History of the Ancient Tamils* says: “Dravidian arts, civilisation and related institutions in northern India were completely destroyed by the Aryans. In southern India, however, they could not do the same.” This supports the point made in our preceding editorial that Dravida has still not been completely Aryanised.
+
+Sir William Wilson Hunter’s *History of the Indian People*, page 41, is cited as saying that the non-Aryan indigenous Dravidian people were persecuted and driven into the forests by Aryans. Books then called them Rakshasas and Asuras. Not content with that, the writers named the Dravidians Dasyus and enemies of the Aryans; in time these terms were transformed into such names as demons, spirits and Rakshasas.
+
+The famous historian Henry Beveridge, in the first volume of an extensive history of India written as early as 1865, page 15, says that Brahmins appropriated education, abused their position to incorporate every matter in whatever manner suited them, and manufactured stories accordingly. These fictional tales were deliberately written with malicious intent to suppress and enslave Dravidians while elevating their authors.
+
+Rawlinson’s *India*, page 155 in the scan, says that the dense forests inhabited in the *Bharata*, *Ramayana* and other epics by savages, Asuras, Rakshasas and Dasyus refer to southern India, or Dravida.
+
+A prayer identified as Rig Veda 10.22.8 says: “Dasyus—Dravidians—surround us on all four sides. They perform no sacrifices and believe in nothing. Their customs are different. O Indra, kill them.”
+
+The *Imperial Gazetteer of India*, 1909, volume I, page 405, is cited for the conclusion that the Aryans in India practised human sacrifice.
+
+R. C. Dutt’s *Ancient India*, page 52, says that the non-Aryans living in southern India were represented in the *Ramayana* as monkeys and Asuras.
+
+Dr R. C. Majumdar’s *Ancient Indian History and Civilisation*, page 22, says that Dravidians had to wage fierce war against invading Aryans and that many Rig Vedic verses concern this conflict.
+
+P. Chidambaram Pillai’s *Dravidians and Aryans*, page 24, says that the *Ramayana* depicts Aryans invading and defeating the Dasyus or Dravidians of southern India.
+
+R. C. Dutt’s *Civilisation in Ancient India*, pages 139–141, interprets the *Ramayana* as a conflict between a priestly class and warriors, and identifies its monkeys and bears with the non-Aryan people of southern India.
+
+*The Speeches and Writings of Swami Vivekananda*, under the heading “Ramayana,” pages 587–589, says that the people of southern India were called monkeys and Asuras in the *Ramayana*.
+
+The *Cambridge History of Ancient India*, published in 1922, is cited as saying that Aryans adopted the term “Aryan” to distinguish themselves from India’s indigenous inhabitants, while “Dasyu” was the name Aryans gave those indigenous peoples.
+
+### Cause of the Enmity
+
+Dr Radhakumud Mookerji’s *Hindu Civilisation*, page 69, says that the Rig Veda calls non-Aryans Dasas or Sudras and Dasyus or Asuras. It records a basic, continuing enmity between Aryans and non-Aryans, rooted in differences of culture and political organisation.
+
+The same author’s *Hindu Civilisation*, page 141, describes the inner meaning of the *Ramayana* as a war between Aryan and Dravidian civilisations, conducted through their leaders Rama and Ravana.
+
+Sir James Murray’s *New English Dictionary*, page 67-D, describes Tamils as a non-Aryan Dravidian people living in southeastern India and parts of Ceylon, and Tamil as the language spoken by them.
+
+Bhandarkar’s essays, volume III, page 10, say that Aryans tried and failed to impose their language upon non-Aryans, and therefore had to learn non-Aryan languages and adopt their civilisation.
+
+Krishnaswami Aiyangar’s *South India and Indian Art*, page 3, says that Tamils called Aryans northerners and people of the northern country because the Aryans had come from the north.
+
+P. T. Srinivasa Iyengar’s *History of India, Volume I*, page 10, says that southern India—Dravida Desa—belonged to the Rakshasas called Dasyus, and that these southern people were as civilised as the Aryans who arrived from northern India.
+
+Shoshee Chunder Dutt’s *India Past and Present*, page 105, says that Aryans, swollen with pride after defeating Dravidians, wrote of them as monkeys, bears and Rakshasas; yet Hindu Brahmins learned many civilised practices from the very people they had degraded.
+
+S. C. Das’s *India in the Rig-Vedic Age*, page 151, says that worshippers and followers of Aryan gods called themselves Devas, while those who opposed the worship of those gods were called Asuras, and that the two groups remained unrelenting enemies.
+
+C. S. Srinivasachari and M. S. Ramaswami Aiyangar, in *History of India, Volume I*, under “Hindu India,” pages 16–17, are cited as saying that Aryan texts called the defeated Dravidian enemies Dasyus, Danavas and Rakshasas. This reveals the Aryan poets’ hatred of Dravidians, born of the difficulty Aryans encountered while entering Dravida Nadu little by little and establishing domination.
+
+H. G. Wells’s *A Short History of the World*, page 105, says that Sanskrit-speaking Aryans entered through the western passes, reached northern India, encountered Dravidians more advanced than themselves, and learned many elements of civilisation from them.
+
+The *New Age Encyclopaedia*, volume II (1925), page 273 in the scan, says that of the four caste divisions—Brahmins, Kshatriyas, Vaishyas and Sudras—the first three were associated with Aryans, while the last, the Sudras, were India’s ancient inhabitants.
+
+C. J. Varkey’s *Divisions of Indian History*, page 15, says that the *Ramayana* records the spread of Aryans into southern India and their conquest of it.
+
+E. B. Havell’s 1918 *History of Aryan Rule in India*, page 32, says that Vishnu was understood to incarnate repeatedly in order to obtain victories for the Aryan group and advise it.
+
+Nagendranath Ghose’s *Aryan Literature and Art of India*, page 194, says that a Brahmin poet, driven by caste hatred, wrote of Hidimbi, a non-Aryan woman in the *Bharata*, as a Rakshasi. The frightening notion of the Rakshasa, it says, was a fiction born in the mind of the Vedic Brahmin.
+
+Pandit T. Ponnambalam Pillai, writing in the *Malabar Quarterly Review*, says that the *Ramayana* was written to exalt Aryans and degrade Dravidians.
+
+Palmas’s work described in the scan as *Ancient India and Indian Civilisation*, page 19, says that the dark people defeated by Indo-Europeans—that is, Aryans—were called Dasyus and robbers and were repeatedly represented in Vedic literature as beings capable of turning into demons.
+
+These and many similar statements have been drawn from the research of famous scholars, from Brahmin scholars’ own research, and from Aryan Vedas, Puranas and epics.
+
+The *Ramayana* itself also provides evidence of the condition of Dravida Nadu before the Aryans arrived. In the Kishkindha Kanda, Sugriva’s directions to Hanuman, who is sent south to search for Sita, say: “After crossing the Kaveri and then the Porunai, you will see beyond them the Pandya king’s fortress with its golden gates.”
+
+Valmiki further says that after crossing Dandakaranya in the Dravidian country south of the Vindhyas, they will see “the Pandya country together with Andhra, Chola and Kerala”; “the divine Kaveri with clear water in which celestial maidens bathe”; “the Tamraparani filled with crocodiles”; “Kapatapuram, golden, filled with pearls and worthy of the Pandyas”; and finally the ocean, where they are to accomplish their purpose.
+
+The Sanskrit *Ramayana* thus shows that before Aryans entered this country, Dravida Nadu possessed distinction, civilisation, wealth and an independent government. Only after the rise of Aryan domination and cruelty were Dravidians imagined as monkeys and Rakshasas, branded Sudras, slaves, Mlechchas and Chandalas, and subjected to a *Manudharma* code assigning one justice to Sudras or Dravidians and another to Aryans.
+
+We cite a small selection of the duties and punishments prescribed for Sudras in that code:
+
+- Shaving a Brahmin’s head is treated as his capital punishment, whereas the other varnas are subject to death. — *Manu*, 11.379.
+- Killing a Brahmin’s cat, squirrel, quail, frog, dog, monitor lizard, owl or crow requires the same penance as killing a Sudra. — *Manu*, 9.132.
+- Just as fire remains the supreme deity in both sacred and secular rites, a Brahmin remains the supreme deity whether learned or ignorant. — *Manu*, 6.317.
+- Even when guilty of misconduct, a Brahmin is to be worshipped in all auspicious and inauspicious circumstances because he is the supreme deity. — *Manu*, 7.318–319.
+- Even a Brahmin without ritual observance may deliver the judgments required of a king; a Sudra may never do so. — *Manu*, 8.20.
+- A Sudra may be bought as a slave and made to work for a Brahmin, because God created the Sudra solely for service to the Brahmin. — *Manu*, 8.413.
+- A Brahmin may take a Sudra’s property with complete peace of mind, considering it no sin, because the Sudra owns nothing and his master may take his possessions. — *Manu*, 8.417.
+- If a once-born Sudra insults a twice-born Brahmin, his tongue must be cut out. — *Manu*, 8.270.
+- If he insults their name or caste, a red-hot iron ten fingers long must be thrust into his mouth. — *Manu*, 8.271.
+- If arrogantly he lectures his teachers about their duties, the king must have boiling oil poured into his mouth and ears. — *Manu*, 7.272 as printed in the scan.
+- If he raises a hand or stick to strike a high-caste person, his hand must be cut off; if he kicks that person in anger, his foot must be cut off. — *Manu*, 8.280 as printed in the scan.
+- If a low-caste person is seated as an equal beside a high-caste person, he must be branded at the waist and banished, or his buttocks may be cut off. — *Manu*, 7.281.
+- If he spits upon a high-caste person, the king must have both his lips cut off. — *Manu*, 8.282.
+
+What we have written so far explains who Aryans and Dravidians are, the character of their respective ways of life, and the causes by which Aryan power brought Dravida to its present degraded condition. In the next editorial we shall explain matters concerning Aryan and Dravidian religions and related questions.
+
+*Viduthalai*, editorial, 23 November 1939.
+
+## Translator's Notes
+
+The website scan sequence repeats substantial portions of this first editorial and contains a printed discontinuity at the page transition leading into the third editorial. The English translation renders each distinct passage once; the corrected scan-derived Tamil remains verbatim in the bilingual source block. The separate web transcription was used only as a reading witness where it agreed with the scans.
+
+Historical titles, names and verse references are transliterated conservatively from the printed Tamil. Several bibliographical details conflict between the scans and the later web transcription; the translation follows the scans and flags the references rather than silently harmonising them. The quoted descriptions and caste punishments are historical source claims reproduced for fidelity, not assertions by the translator.

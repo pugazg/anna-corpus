@@ -1,120 +1,169 @@
 file,type,wrong,right,count,reason
-katturaigal/uruthi_koor.md,phrase,8௫. உறுதி கூறுவீர் 1 உதவி பெறுவீர்!,35. உறுதி கூறுவீர்! உதவி பெறுவீர்!,1,scan 1 clearly prints the numbered title
-katturaigal/uruthi_koor.md,phrase,இந்தத் தோதல்,இந்தத் தேர்தல்,1,scan 1 clearly prints தேர்தல்
-katturaigal/uruthi_koor.md,phrase,"ஆளவந்தார்களின் பிடியிலிருந்த
-விடுபடமாட்டோமா","ஆளவந்தார்களின் பிடியிலிருந்து
-விடுபடமாட்டோமா",1,scan 1 clearly prints பிடியிலிருந்து
-katturaigal/uruthi_koor.md,phrase,"ஆவல் மிகுத்
-கொண்டுள்ளனர்","ஆவல் மிகுத்துக்
-கொண்டுள்ளனர்",1,scan 1 clearly prints மிகுத்துக் கொண்டுள்ளனர்
-katturaigal/uruthi_koor.md,phrase,இந்தத் .தேர்தல்,இந்தத் தேர்தல்,1,scan 1 has no full stop before தேர்தல்
-katturaigal/uruthi_koor.md,phrase,'வாக்காளர்'கள் உள்ளனர் ்,'வாக்காளர்'கள் உள்ளனர்,1,scan 1 has no trailing OCR glyph
-katturaigal/uruthi_koor.md,phrase,"பெயர்கள் கூட்டி£
-கொண்டு","பெயர்கள் கூட்டிக்
-கொண்டு",1,scan 1 clearly prints கூட்டிக் கொண்டு
-katturaigal/uruthi_koor.md,phrase,"எப்படி""",எப்படி?,1,scan 1 ends the question with a question mark
-katturaigal/uruthi_koor.md,phrase,என்ன திட் டம்,என்ன திட்டம்,1,scan 1 clearly prints திட்டம்
-katturaigal/uruthi_koor.md,phrase,"ஆராம
-அவகாசம்","ஆராய
-அவகாசம்",1,scan 1 clearly prints ஆராய
-katturaigal/uruthi_koor.md,phrase,பொதுமக்க௪,பொதுமக்கள்,1,scan 1 clearly prints பொதுமக்கள்
-katturaigal/uruthi_koor.md,phrase,கடசி வரலாறு,கட்சி வரலாறு,1,scan 2 clearly prints கட்சி
-katturaigal/uruthi_koor.md,phrase,உண்மையை ௮றிய,உண்மையை அறிய,1,scan 3 uses Tamil அ
-katturaigal/uruthi_koor.md,phrase,"பொச்சரிப்புக்காரா்
-களுக்கும்",பொச்சரிப்புக்காரர்களுக்கும்,1,scan 3 prints the word continuously across the line break
-katturaigal/uruthi_koor.md,phrase,இந்தச் குழ்நிலையை,இந்தச் சூழ்நிலையை,1,scan 3 clearly prints சூழ்நிலையை
-katturaigal/uruthi_koor.md,phrase,மாற்று மருந்து நம்பிடம்,மாற்று மருந்து நம்மிடம்,1,scan 3 clearly prints நம்மிடம்
-katturaigal/uruthi_koor.md,phrase,கூறிவநீததையும்,கூறிவந்ததையும்,1,scan 4 clearly prints கூறிவந்ததையும்
-katturaigal/uruthi_koor.md,phrase,போக்கினா்கூட,போக்கினர்கூட,1,scan 4 clearly prints போக்கினர்கூட
-katturaigal/uruthi_koor.md,phrase,கூறி வநதனரோ,கூறி வந்தனரோ,1,scan 5 clearly prints வந்தனரோ
-katturaigal/uruthi_koor.md,phrase,எதிர்பாராததல்ல/!,எதிர்பாராததல்ல!,1,scan 5 contains only an exclamation mark
-katturaigal/uruthi_koor.md,phrase,மூடிவு,முடிவு,1,scan 5 clearly prints முடிவு
-katturaigal/uruthi_koor.md,phrase,பதவிக்கா அல்ல,பதவிக்காக அல்ல,1,scan 5 clearly prints பதவிக்காக
-katturaigal/uruthi_koor.md,phrase,தோர்தல்,தேர்தல்,1,scan 6 clearly prints தேர்தல்
-katturaigal/uruthi_koor.md,phrase,இவவளவுக்கும்,இவ்வளவுக்கும்,1,scan 6 clearly prints இவ்வளவுக்கும்
-katturaigal/uruthi_koor.md,phrase,௮ன்று மாலை,அன்று மாலை,1,scan 6 uses Tamil அ
-katturaigal/uruthi_koor.md,phrase,நல்லாட்கியை,நல்லாட்சியை,1,scan 7 clearly prints நல்லாட்சியை
-katturaigal/uruthi_koor.md,phrase,அமைத்துவிடடால்,அமைத்துவிட்டால்,1,scan 7 clearly prints அமைத்துவிட்டால்
-katturaigal/uruthi_koor.md,phrase,"நாம் மது கருத்தைப் பொது
-_ மக்களிடம்",நாம் நமது கருத்தைப் பொதுமக்களிடம்,1,scan 8 clearly prints நாம் நமது கருத்தைப் பொதுமக்களிடம்
-katturaigal/uruthi_koor.md,phrase,தரிவேட்டையிலீடுபட்டு,நரிவேட்டையிலீடுபட்டு,1,scan 8 clearly prints நரிவேட்டையிலீடுபட்டு
-katturaigal/uruthi_koor.md,phrase,தனி ௮ரசு,தனி அரசு,1,scan 8 uses Tamil அ
-katturaigal/uruthi_koor.md,phrase,தளைகளை அ௮றுத்தெறிவோம்,தளைகளை அறுத்தெறிவோம்,1,scan 9 clearly prints அறுத்தெறிவோம்
-katturaigal/uruthi_koor.md,phrase,என்று குளுரை கூறி,என்று சூளுரை கூறி,1,scan 9 clearly prints சூளுரை
-katturaigal/uruthi_koor.md,phrase,தொடாந்து பயணம்,தொடர்ந்து பயணம்,1,scan 9 clearly prints தொடர்ந்து
-katturaigal/uruthi_koor.md,phrase,கடைசித் தரமாகக்கருதும்,கடைசித் தரமாகக் கருதும்,1,scan 9 clearly separates the words
-katturaigal/uruthi_koor.md,phrase,கெடலாகாது - இந்த பதலை அவ்ர் எமது முடிவு அமையும் என்று,கெடலாகாது - இந்த முறையிலேதான் எமது முடிவு அமையும் என்று,1,scan 10 clearly prints இந்த முறையிலேதான்
-katturaigal/uruthi_koor.md,phrase,தோதல் பிரச்சனைக்கும்,தேர்தல் பிரச்சனைக்கும்,1,scan 10 clearly prints தேர்தல்
-katturaigal/uruthi_koor.md,phrase,விதமாகாவே,விதமாகவே,1,scan 11 clearly prints விதமாகவே
-katturaigal/uruthi_koor.md,phrase,4.6. கோபாலன்,A.K. கோபாலன்,1,scan 13 clearly prints A.K. கோபாலன்
-katturaigal/uruthi_koor.md,phrase,திருச்சி கம்.யூனிஸ்டுத்,திருச்சி கம்யூனிஸ்டுத்,1,scan 13 has no punctuation inside கம்யூனிஸ்டுத்
-katturaigal/uruthi_koor.md,phrase,"தோழர் ,4..£. கோபாலன்",தோழர் A.K. கோபாலன்,1,scan 14 clearly prints தோழர் A.K. கோபாலன்
-katturaigal/uruthi_koor.md,phrase,தோழர் 4.8 கோபாலனை,தோழர் A.K. கோபாலனை,1,scan 15 clearly prints தோழர் A.K. கோபாலனை
-katturaigal/uruthi_koor.md,phrase,தி.மூ.கழகத்தைப்,தி.மு.கழகத்தைப்,1,scan 14 clearly prints தி.மு.கழகத்தைப்
-katturaigal/uruthi_koor.md,phrase,தீந்துவிடக்கூடியதல்ல,தந்துவிடக்கூடியதல்ல,1,scan 14 clearly prints தந்துவிடக்கூடியதல்ல
-katturaigal/uruthi_koor.md,phrase,இ௫க்கலாம்,இருக்கலாம்,1,scan 14 clearly prints இருக்கலாம்
-katturaigal/uruthi_koor.md,phrase,மறுமூறை,மறுமுறை,1,scan 15 clearly prints மறுமுறை
-katturaigal/uruthi_koor.md,phrase,மூன்னணியிடமே,முன்னணியிடமே,1,scan 15 clearly prints முன்னணியிடமே
-katturaigal/uruthi_koor.md,phrase,தோதல் பிரச்சாரமும்,தேர்தல் பிரச்சாரமும்,1,scan 15 clearly prints தேர்தல் பிரச்சாரமும்
-katturaigal/uruthi_koor.md,phrase,"
-நீதி, - 99
-","
-",1,"scan 15 shows this as a running book footer, not article text"
-katturaigal/uruthi_koor.md,phrase,"ஐக்கிய -.
-மூன்னணியிலே","ஐக்கிய
-முன்னணியிலே",1,scan 16 clearly prints ஐக்கிய முன்னணியிலே
-katturaigal/uruthi_koor.md,phrase,தாம் சேருவது,நாம் சேருவது,1,scan 16 clearly prints நாம் சேருவது
-katturaigal/uruthi_koor.md,phrase,இந்த விளக்கத்தைக் கேட் ட் கீழ்க்கண்ட,"இந்த விளக்கத்தைக் கேட்டபிறகு, கீழ்க்கண்ட",1,scan 17 clearly prints கேட்டபிறகு
-katturaigal/uruthi_koor.md,phrase,ஓத்துழைப்பை,ஒத்துழைப்பை,1,scan 17 clearly prints ஒத்துழைப்பை
-katturaigal/uruthi_koor.md,phrase,இந்த ஐக்கிய முன்னணி அமைப்புக்கான 'குழ்நிலை'யைப்,இந்த ஐக்கிய முன்னணி அமைப்புக்கான 'சூழ்நிலை'யைப்,1,scan 18 clearly prints சூழ்நிலை
-katturaigal/uruthi_koor.md,phrase,'குழ்நிலை' நிபந்தனையை,'சூழ்நிலை' நிபந்தனையை,1,scan 19 clearly prints சூழ்நிலை
-katturaigal/uruthi_koor.md,phrase,அனைவரூ ம்,அனைவரும்,1,scan 19 clearly prints அனைவரும்
-katturaigal/uruthi_koor.md,phrase,பொதுக்குழுக் கூட் டததிலேயும்,பொதுக்குழுக் கூட்டத்திலேயும்,1,scan 19 clearly prints கூட்டத்திலேயும்
-katturaigal/uruthi_koor.md,phrase,காங்கிரசை ஓழிப்பது,காங்கிரசை ஒழிப்பது,1,scan 19 clearly prints ஒழிப்பது
-katturaigal/uruthi_koor.md,phrase,திராவிடத். தனி அரசு,திராவிடத் தனி அரசு,1,scan 20 has no punctuation inside the phrase
-katturaigal/uruthi_koor.md,phrase,ஊறுதேடாது,ஊறு தேடாது,1,scan 20 clearly prints ஊறு தேடாது
-katturaigal/uruthi_koor.md,phrase,். என்பதற்காகவே,என்பதற்காகவே,1,scan 21 has no stray OCR glyphs before என்பதற்காகவே
-katturaigal/uruthi_koor.md,phrase,இதுதான் டெ.ன்னான சந்தர்ப்பம்,இதுதான் பொன்னான சந்தர்ப்பம்,1,scan 21 clearly prints பொன்னான சந்தர்ப்பம்
-katturaigal/uruthi_koor.md,phrase,அபேட்சகாகளை,அபேட்சகர்களை,1,scan 21 clearly prints அபேட்சகர்களை
-katturaigal/uruthi_koor.md,phrase,இந்த.ஏற்பாடு,இந்த ஏற்பாடு,1,scan 21 has no full stop between the words
-katturaigal/uruthi_koor.md,phrase,தி.மு.க.கூறும்,தி.மு.க. கூறும்,1,scan 21 separates the abbreviation and verb
-katturaigal/uruthi_koor.md,phrase,உறுதி: ஒப்பந்தம்,உறுதி ஒப்பந்தம்,1,scan 22 has no colon between உறுதி and ஒப்பந்தம்
-katturaigal/uruthi_koor.md,phrase,ஒருமுடிவு,ஒரு முடிவு,1,scan 22 separates ஒரு and முடிவு
-katturaigal/uruthi_koor.md,phrase,பெரிதும்காண,பெரிதும் காண,1,scan 22 separates பெரிதும் and காண
-katturaigal/uruthi_koor.md,phrase,(திராவிட தாடு - 25.11.51),(திராவிட நாடு - 25.11.51),1,scan 22 clearly prints திராவிட நாடு
-katturaigal/uruthi_koor.md,phrase,"மாண்பு கெடலாகாது
-சான்ற உறுதி இருப்பதால்","மாண்பு கெடலாகாது
-என்ற உறுதி இருப்பதால்",1,scan 6 clearly prints என்ற உறுதி இருப்பதால்
-katturaigal/uruthi_koor.md,phrase,மனதாக வநீதது,மனதாக வந்தது,1,scan 6 clearly prints வந்தது
-katturaigal/uruthi_koor.md,phrase,கொண்ட மூறையிலே,கொண்ட முறையிலே,1,scan 6 clearly prints முறையிலே
-katturaigal/uruthi_koor.md,phrase,_ பொச்சரிப்புக்காரர்களும்,பொச்சரிப்புக்காரர்களும்,1,scan 3 has no leading OCR underscore
-katturaigal/uruthi_koor.md,phrase,ஏற்பட்ட. அடக்கு முறைகளை,ஏற்பட்ட அடக்கு முறைகளை,1,scan 3 has no full stop after ஏற்பட்ட
-katturaigal/uruthi_koor.md,phrase,"கொடுங்கோன்மையை எதிர்க்கும்
-. உள்ள உரம்","கொடுங்கோன்மையை எதிர்க்கும்
-உள்ள உரம்",1,scan 3 has no full stop before உள்ள
-katturaigal/uruthi_koor.md,phrase,அதிகம் என்பது. பற்றியும்,அதிகம் என்பது பற்றியும்,1,scan 4 has no full stop after என்பது
-katturaigal/uruthi_koor.md,phrase,'ஓட்டு' போடுங்கள். என்று,'ஓட்டு' போடுங்கள் என்று,1,scan 5 has no full stop inside the quotation
-katturaigal/uruthi_koor.md,phrase,"என்ற பேசிக் கொண்டு .
-வந்தவர்களுக்கு","என்று பேசிக் கொண்டு
-வந்தவர்களுக்கு",1,scan 5 clearly prints என்று and has no stray full stop
-katturaigal/uruthi_koor.md,phrase,ஆட்சியைநீக்கிவிட்டு,ஆட்சியை நீக்கிவிட்டு,1,scan 7 separates ஆட்சியை and நீக்கிவிட்டு
-katturaigal/uruthi_koor.md,phrase,"அவருக்கு
-வேற பல","அவருக்கு
-வேறு பல",1,scan 8 clearly prints வேறு
-katturaigal/uruthi_koor.md,phrase,தனிஅரசு,தனி அரசு,1,scan 8 separates தனி and அரசு
-katturaigal/uruthi_koor.md,phrase,இந்தநிலை,இந்த நிலை,1,scan 9 separates இந்த and நிலை
-katturaigal/uruthi_koor.md,phrase,"வேறு
-ஒட்டலைத் ் சேபலாமென்றால்","வேறு
-ஓட்டலைச் சேரலாமென்றால்",1,scan 10 clearly prints ஓட்டலைச் சேரலாமென்றால்
-katturaigal/uruthi_koor.md,phrase,கபேயில்-சாப்பிட் டுச் சாப்பிட்டு,கபேயில் சாப்பிட்டுச் சாப்பிட்டு,1,scan 10 has no OCR spacing artifacts in the phrase
-katturaigal/uruthi_koor.md,phrase,கிருபளானிகபே,கிருபளானி கபே,1,scan 10 separates the name and கபே
-katturaigal/uruthi_koor.md,phrase,தெரிவிக்கவேண்டும் -:,தெரிவிக்கவேண்டும்,1,scan 11 has no trailing OCR punctuation
-katturaigal/uruthi_koor.md,phrase,இதனை மதுரைப் பொதுக்குழு:,இதனை மதுரைப் பொதுக்குழு,1,scan 11 has no colon after பொதுக்குழு
-katturaigal/uruthi_koor.md,phrase,பாராட்டுதலையும்.நன்றியறிதலையும்,பாராட்டுதலையும் நன்றியறிதலையும்,1,scan 13 has no full stop between the nouns
-katturaigal/uruthi_koor.md,phrase,"கம்யூனிஸ்டு நண்பர்
-களெல்லாம்",கம்யூனிஸ்டு நண்பர்களெல்லாம்,1,scan 13 joins நண்பர்களெல்லாம் across the line break
-katturaigal/uruthi_koor.md,phrase,உடனேஜனநாயக,உடனே ஜனநாயக,1,scan 14 separates உடனே and ஜனநாயக
-katturaigal/uruthi_koor.md,phrase,நண்பர் ஜிவானந்தம்,நண்பர் ஜீவானந்தம்,1,scan 14 clearly prints ஜீவானந்தம்
-katturaigal/uruthi_koor.md,phrase,பற்றிநான்,பற்றி நான்,1,scan 15 separates பற்றி and நான்
-katturaigal/uruthi_koor.md,phrase,ஐக்கிய முன்னணியே. தேர்தலில்,ஐக்கிய முன்னணியே தேர்தலில்,1,scan 15 continues the sentence without a full stop
-katturaigal/uruthi_koor.md,phrase,"_ தொகுத்து, சுருக்கி","தொகுத்து, சுருக்கி",1,scan 6 has no leading OCR underscore
+katturaigal/tn_tamilarukkae_1.md,phrase,"தறிழ்நாடு தமிழருக்கே! |
+
+ந","தமிழ்நாடு தமிழருக்கே!
+
+1",1,part 1 scan 1 clearly prints the title and section number
+katturaigal/tn_tamilarukkae_1.md,phrase,பிரசாரத்தைப் பற்றித். “தமிழ்நாட்டில் எங்குப். பேசப்பட்டு வருகிறது.,பிரசாரத்தைப் பற்றித் தமிழ்நாட்டில் எங்கும் பேசப்பட்டு வருகிறது.,1,part 1 scan 1 and the matching 21 November 1939 transcription confirm the sentence
+katturaigal/tn_tamilarukkae_1.md,phrase,கிளர்ச்சியை .உண்டாக்கச்,கிளர்ச்சியை உண்டாக்கச்,1,part 1 scan 1 has no full stop before உண்டாக்கச்
+katturaigal/tn_tamilarukkae_1.md,phrase,மெயில்பத்திரிகை,மெயில் பத்திரிகை,1,part 1 scan 1 separates the two words
+katturaigal/tn_tamilarukkae_1.md,phrase,அதன் தமிழ்க் கருத்து” இன்று,அதன் தமிழ்க் கருத்து இன்று,1,part 1 scan 1 has no closing quotation mark after கருத்து
+katturaigal/tn_tamilarukkae_1.md,phrase,தமிழ்நாடு தமிழருக்கே? என்றால்,தமிழ்நாடு தமிழருக்கே' என்றால்,1,"part 1 scan 1 prints a closing quotation mark, not a question mark"
+katturaigal/tn_tamilarukkae_1.md,phrase,என்பதில். .நாஸ்திகமோ,என்பதில் நாஸ்திகமோ,1,part 1 scan 2 contains no punctuation between the words
+katturaigal/tn_tamilarukkae_1.md,phrase,புகுத்தப்பட்ட தென்று சொல்ல முடியாதாதலால்,புகுத்தப்பட்டதென்று சொல்ல முடியாதாதலால்,1,part 1 scan 2 prints புகுத்தப்பட்டதென்று continuously
+katturaigal/tn_tamilarukkae_1.md,phrase,அலகீளமான காரணங்களும்,அனுகூலமான காரணங்களும்,1,part 1 scan 2 and context confirm அனுகூலமான
+katturaigal/tn_tamilarukkae_1.md,phrase,"திராவிட நாடூ, என்றால் தமிழ்நாடு.",திராவிட நாடு என்றால் தமிழ்நாடு,1,part 1 scan 2 contains no OCR vowel or internal full stop
+katturaigal/tn_tamilarukkae_1.md,phrase,"பட்ட டஜம் (சொறி டிக்ஷனரியில், 440ஆம் பக்க 5வது வரியில்
+(ஸ்ஸ௪289)","பட்ட ஜெம் (gem) டிக்ஷனரியில், 340ஆம் பக்க 5வது வரியில்
+(draveda)",1,"part 1 scan 6 clearly prints Gem, page 340 and the Latin headword draveda; restored against the duplicate scan witness"
+katturaigal/tn_tamilarukkae_1.md,phrase,"சம பங்குகளாகப்
+பிரிந்து","சமயங்களாகப்
+பிரிந்து",1,part 1 scan 4 clearly prints சமயங்களாகப்
+katturaigal/tn_tamilarukkae_1.md,phrase,அ ச்சாரியார்,ஆச்சாரியார்,1,part 1 scan 5 clearly prints ஆச்சாரியார்
+katturaigal/tn_tamilarukkae_1.md,phrase,பக்கத்தில் பிசுரிக்கப்பட்டிருக்கிறது,பக்கத்தில் பிரசுரிக்கப்பட்டிருக்கிறது,1,part 1 scan 5 clearly prints பிரசுரிக்கப்பட்டிருக்கிறது
+katturaigal/tn_tamilarukkae_1.md,phrase,அதைப்பற்றிய: விளக்கத்தை,அதைப்பற்றிய விளக்கத்தை,1,part 1 scan 5 has no colon after அதைப்பற்றிய
+katturaigal/tn_tamilarukkae_1.md,phrase,_ பார்ப்பனப் பத்திரிகைகள்,பார்ப்பனப் பத்திரிகைகள்,1,part 1 scan 5 has no leading OCR underscore
+katturaigal/tn_tamilarukkae_1.md,phrase,மறுமுறை .கிளம்பியதாகத்,மறுமுறை கிளம்பியதாகத்,1,part 1 scan 5 has no full stop before கிளம்பியதாகத்
+katturaigal/tn_tamilarukkae_1.md,phrase,மொழிவகுப்புத்து வேசமாகத்தொக்கி,மொழி வகுப்புத் துவேஷமாகத் தொக்கி,1,part 1 scan 5 and matching transcription confirm the separated phrase
+katturaigal/tn_tamilarukkae_1.md,phrase,"ப்ற்ட்
+இருக்கிறது","என்று
+இருக்கிறது",1,part 1 scan 6 clearly ends the quotation with என்று இருக்கிறது
+katturaigal/tn_tamilarukkae_1.md,phrase,பின்ப்ற்றுவதாய்,பின்பற்றுவதாய்,1,part 1 scan 6 clearly prints பின்பற்றுவதாய்
+katturaigal/tn_tamilarukkae_1.md,phrase,"டி.௭, சுவாமிநாதய்யரால்",டி.எ. சுவாமிநாதய்யரால்,1,part 1 scan 6 clearly prints டி.எ.
+katturaigal/tn_tamilarukkae_1.md,phrase,"ஜெம் (ஏசாம டிக்ஷன்ரியில் 340ஆம் பக்கம்
+5ஆவது வரியில் (47608)","ஜெம் (gem) டிக்ஷனரியில் 340ஆம் பக்கம்
+5ஆவது வரியில் (draveda)",1,part 1 scan 6 clearly prints the English dictionary name and headword
+katturaigal/tn_tamilarukkae_1.md,phrase,திராவிடன் (ஈஸசம்ல),திராவிடன் (dravedan),1,part 1 scan 6 clearly prints the Latin headword dravedan
+katturaigal/tn_tamilarukkae_1.md,phrase,"2-௬ ப வக ஆத்
+லாங்வேஜ்",லாங்வேஜ்,1,part 1 scan 7 begins with லாங்வேஜ்; preceding glyphs are OCR debris
+katturaigal/tn_tamilarukkae_1.md,phrase,வாதப்பிரதிவாதம் _ செய்யட்டும்,வாதப்பிரதிவாதம் செய்யட்டும்,1,part 1 scan 7 has no underscore
+katturaigal/tn_tamilarukkae_1.md,phrase,கெட்ட. விதமாய்த்,கெட்ட விதமாய்த்,1,part 1 scan 7 has no full stop after கெட்ட
+katturaigal/tn_tamilarukkae_1.md,phrase,"சுயராஜ்யத்தில்
+தத்துவமென்று","சுயராஜ்யத்தின்
+தத்துவமென்று",1,part 1 scan 9 clearly prints சுயராஜ்யத்தின்
+katturaigal/tn_tamilarukkae_1.md,phrase,சுயமரியாதையோ உள்ள. திராவிட மகன்,சுயமரியாதையோ உள்ள திராவிட மகன்,1,part 1 scan 9 has no full stop after உள்ள
+katturaigal/tn_tamilarukkae_1.md,phrase,எந்தத்: துறையிலுட,எந்தத் துறையிலும்,1,part 1 scan 9 clearly prints எந்தத் துறையிலும்
+katturaigal/tn_tamilarukkae_1.md,phrase,யோக்கியதை இல்லாமல் செய்யட,யோக்கியதை இல்லாமல் செய்யப்பட்டாய்,1,part 1 scans 9-10 confirm செய்யப்பட்டாய் across the page join
+katturaigal/tn_tamilarukkae_1.md,phrase,திரவிட மக்கள்,திராவிட மக்கள்,1,part 1 scan 10 clearly prints திராவிட
+katturaigal/tn_tamilarukkae_1.md,phrase,சுக்ரீவனுக்குப்... பட்டம்,சுக்ரீவனுக்குப் பட்டம்,1,part 1 scan 10 has no ellipsis
+katturaigal/tn_tamilarukkae_1.md,phrase,ஜஸ்டிஸ் கக்கியாரையும்,ஜஸ்டிஸ் கட்சியாரையும்,1,part 1 scan 10 clearly prints கட்சியாரையும்
+katturaigal/tn_tamilarukkae_1.md,phrase,"எப்படியெனில்..தங்களது நாட்டிலே பேதங்களுக்கு
+முன்பே","எப்படியெனில் தங்களது நாட்டிலே தங்களுக்கு
+முன்பே",1,part 1 scan 10 and matching transcription confirm தங்களுக்கு முன்பே
+katturaigal/tn_tamilarukkae_1.md,phrase,எதிரிகளுடன்... சேர,எதிரிகளுடன் சேர,1,part 1 scan 10 has no ellipsis
+katturaigal/tn_tamilarukkae_2.md,phrase,"ன்
+
+நேற்று","2
+
+நேற்று",1,part 2 scan 1 clearly prints editorial number 2
+katturaigal/tn_tamilarukkae_2.md,phrase,முதலாகிய்வைபற்றிய,முதலாகியவை பற்றிய,1,part 2 scan 1 clearly separates ஆகியவை பற்றிய
+katturaigal/tn_tamilarukkae_2.md,phrase,"3ஆவது, தலையங்கத்தில்",3ஆவது தலையங்கத்தில்,1,part 2 scan 6 has no comma after 3ஆவது
+katturaigal/tn_tamilarukkae_2.md,phrase,எப்படிப் பட்டவர்கள்,எப்படிப்பட்டவர்கள்,1,part 2 scan 6 prints எப்படிப்பட்டவர்கள் as one word
+katturaigal/tn_tamilarukkae_2.md,phrase,வாழ்க்கை. முறைபேதம்,வாழ்க்கை முறை பேதம்,1,part 2 scan 6 has no full stop and separates முறை பேதம்
+katturaigal/tn_tamilarukkae_2.md,phrase,விளக்கவேண்டிய தில்லை,விளக்கவேண்டியதில்லை,1,part 2 scan 6 prints விளக்கவேண்டியதில்லை as one word
+katturaigal/tn_tamilarukkae_2.md,phrase,ஆரியர். திராவிட நாட்டுக்கு,ஆரியர் திராவிட நாட்டுக்கு,1,part 2 scan 6 has no full stop after ஆரியர்
+katturaigal/tn_tamilarukkae_2.md,phrase,விளங்கி வந்தது என்பது பற்றியும்” நாம்,விளங்கி வந்தது என்பது பற்றியும் நாம்,1,part 2 scan 6 has no quotation mark after பற்றியும்
+katturaigal/tn_tamilarukkae_2.md,phrase,"எடுத்துக்காட்டுவத
+பொருந்துமென","எடுத்துக்காட்டுவது
+பொருந்துமென",1,part 2 scan 6 clearly prints எடுத்துக்காட்டுவது
+katturaigal/tn_tamilarukkae_2.md,phrase,குடியேறியவர்கள் - ஆவார்கள்,குடியேறியவர்கள் ஆவார்கள்,1,part 2 scan 6 has no hyphen
+katturaigal/tn_tamilarukkae_2.md,phrase,எழுதிக்கொண்டார்கள். .இதுவும்,எழுதிக்கொண்டார்கள். இதுவும்,1,part 2 scan 6 has one full stop and normal spacing
+katturaigal/tn_tamilarukkae_2.md,phrase,'திராவிடர்களுக்கு .தஸ்யூ,திராவிடர்களுக்கு தஸ்யூ,1,part 2 scan 6 has no leading quote or internal full stop
+katturaigal/tn_tamilarukkae_2.md,phrase,பெயர்களாகமாறச்,பெயர்களாக மாறச்,1,part 2 scan 6 separates பெயர்களாக மாறச்
+katturaigal/tn_tamilarukkae_2.md,phrase,"இது சர்வில்யம் வில்ஸன் ஹெணா, டாக்டா் கக.சி.எஸ்.","இது சர்வில்லியம் வில்ஸன் ஹெணர், டாக்டர் கே.சி.எஸ்.",1,part 2 scan 7 clearly prints சர்வில்லியம் வில்ஸன் ஹெணர் and டாக்டர் கே.சி.எஸ்.; remaining initials are retained for review
+katturaigal/tn_tamilarukkae_2.md,phrase,திராவிபீர்கள் தங்கள் மீது படை- எடுக்கவந்த,திராவிடர்கள் தங்கள் மீது படை எடுக்கவந்த,1,part 2 scan 7 clearly prints திராவிடர்கள் and has no hyphen
+katturaigal/tn_tamilarukkae_2.md,phrase,அநேக: சுலோகங்களாக,அநேக சுலோகங்களாக,1,part 2 scan 7 has no colon after அநேக
+katturaigal/tn_tamilarukkae_2.md,phrase,பூர்விக இந்திய சரித்திரமும் வ ட்ட என்னும்,பூர்வீக இந்திய சரித்திரமும் நாகரிகமும்” என்னும்,1,part 2 scan 7 clearly prints the complete book title
+katturaigal/tn_tamilarukkae_2.md,phrase,"ஆரியர்கள் தென். இந்திய
+தஸ்யூக்கள் அல்லது திராவிடர்கள் மீது படை எடுக்கு. வெற்றி","ஆரியர்கள் தென் இந்திய
+தஸ்யூக்கள் அல்லது திராவிடர்கள் மீது படை எடுத்து வெற்றி",1,part 2 scan 7 clearly prints தென் இந்திய and படை எடுத்து வெற்றி
+katturaigal/tn_tamilarukkae_2.md,phrase,"எழுதிய திராவிடரும்
+ஆரியரும்': என்னும்","எழுதிய ‘திராவிடரும்
+ஆரியரும்’ என்னும்",1,part 2 scan 7 clearly encloses the book title in quotation marks
+katturaigal/tn_tamilarukkae_2.md,phrase,மக்களே தான்,மக்களேதான்,1,part 2 scans 8 and 12 print மக்களேதான் as one word
+katturaigal/tn_tamilarukkae_2.md,phrase,மேற்படியார்களால். பேசும்,மேற்படியார்களால் பேசும்,1,part 2 scan 8 has no full stop after மேற்படியார்களால்
+katturaigal/tn_tamilarukkae_2.md,phrase,இந்தியாவுக்குக் குயேறியவர்களாவார்கள்,இந்தியாவுக்குக் குடியேறியவர்களாவார்கள்,1,part 2 scan 11 clearly prints குடியேறியவர்களாவார்கள்
+katturaigal/tn_tamilarukkae_2.md,phrase,துன்புறுத்தப்பட்டுக் சாடுகளுக்குத்,துன்புறுத்தப்பட்டுக் காடுகளுக்குத்,1,part 2 scan 11 clearly prints காடுகளுக்குத்
+katturaigal/tn_tamilarukkae_2.md,phrase,(திராவிடத்தை)ப் பற்றியேயாதம்.,(திராவிடத்தை)ப் பற்றியேயாகும்.”,1,part 2 scan 11 clearly prints பற்றியேயாகும்
+katturaigal/tn_tamilarukkae_2.md,phrase,இருக றன். ஓ இந்தியனே அவர்களைக். கொல்லு”,இருக்கின்றன. ஓ இந்திரனே அவர்களைக் கொல்லு”,1,part 2 scan 12 clearly prints இருக்கின்றன and இந்திரனே
+katturaigal/tn_tamilarukkae_2.md,phrase,் என்பது ஆரியர்களின் பிரார்த்தனையாகும்,என்பது ஆரியர்களின் பிரார்த்தனையாகும்,1,part 2 scan 12 clearly begins என்பது
+katturaigal/tn_tamilarukkae_2.md,phrase,தாசர் (சூத்திராகள்,தாசர் (சூத்திரர்கள்),1,part 2 scan 13 clearly prints சூத்திரர்கள் with closing parenthesis
+katturaigal/tn_tamilarukkae_2.md,phrase,ரிக் தேத்தில்,ரிக் வேதத்தில்,1,part 2 scan 13 clearly prints ரிக் வேதத்தில்
+katturaigal/tn_tamilarukkae_2.md,phrase,இராதா குழுத் மூக்கர்ஜீ,இராதா குமுத் முக்கர்ஜீ,1,part 2 scan 13 clearly prints இராதா குமுத் முக்கர்ஜீ
+katturaigal/tn_tamilarukkae_2.md,phrase,நாகறிகமடைந்தவர்களாய்,நாகரிகமடைந்தவர்களாய்,1,part 2 scan 13 clearly prints நாகரிகமடைந்தவர்களாய்
+katturaigal/tn_tamilarukkae_2.md,phrase,"பல அர தன்
+இந்தப் பிராமணர்கள்","பல நாகரிகங்களை
+இந்தப் பிராமணர்கள்",1,part 2 scan 13 clearly prints பல நாகரிகங்களை
+katturaigal/tn_tamilarukkae_2.md,phrase,ஷோஷி சந்தாடட் எழுதிய “இந்தியா அன்றும் ர இனும்-,ஷோஷி சந்தர்டட் எழுதிய “இந்தியா அன்றும் இன்றும்”,1,part 2 scan 13 clearly prints the author and title
+katturaigal/tn_tamilarukkae_2.md,phrase,பயங்கர புர்ளி வார்த்தை வைதிகப் பார்ப்பனனின் மனையில்,பயங்கர புரளி வார்த்தை வைதிகப் பார்ப்பனனின் மூளையில்,1,part 2 scan 14 clearly prints புரளி and மூளையில்
+katturaigal/tn_tamilarukkae_2.md,phrase,அணில் காடை,"அணில், காடை",1,part 2 scan 16 separates the listed animals with a comma
+katturaigal/tn_tamilarukkae_2.md,phrase,"உடும்பு, :","உடும்பு,",1,part 2 scan 16 has no colon after உடும்பு
+katturaigal/tn_tamilarukkae_2.md,phrase,"லெளகிகக் கருமமா
+
+யிருந்தாலும்",லெளகிகக் கருமமாயிருந்தாலும்,1,part 2 scan 16 prints the word continuously across a typeset line
+katturaigal/tn_tamilarukkae_2.md,phrase,துர்ச்செய்கை யுள்ளவனாயிருந்த,துர்ச்செய்கையுள்ளவனாயிருந்த,1,part 2 scan 16 prints துர்ச்செய்கையுள்ளவனாயிருந்த as one word
+katturaigal/tn_tamilarukkae_2.md,phrase,சுபா சுபங்களிலும்,சுபாசுபங்களிலும்,1,part 2 scan 16 prints சுபாசுபங்களிலும் as one word
+katturaigal/tn_tamilarukkae_2.md,phrase,அவன் ' அரசன்,அவன் அரசன்,1,part 2 scan 16 has no stray quote
+katturaigal/tn_tamilarukkae_2.md,phrase,ஒரு போதும்,ஒருபோதும்,1,part 2 scan 16 prints ஒருபோதும் as one word
+katturaigal/tn_tamilarukkae_2.md,phrase,பிராமணன் . சூத்திரனுடைய,பிராமணன் சூத்திரனுடைய,1,part 2 scan 16 has no full stop after பிராமணன்
+katturaigal/tn_tamilarukkae_2.md,phrase,ஒரு பிறப்பாளன் .(சூத்திரன்). இருபிறப்பாளரைத்,ஒரு பிறப்பாளன் (சூத்திரன்) இருபிறப்பாளரைத்,1,part 2 scan 16 has ordinary parentheses and no stray full stops
+katturaigal/tn_tamilarukkae_2.md,phrase,பேரையாவது. சாதியையாவது,"பேரையாவது, சாதியையாவது",1,part 2 scan 17 uses a comma
+katturaigal/tn_tamilarukkae_2.md,phrase,பழுக்கக்காய்ச்சிய,பழுக்கக் காய்ச்சிய,1,part 2 scan 17 separates பழுக்கக் காய்ச்சிய
+katturaigal/tn_tamilarukkae_2.md,phrase,உயர்குலத்தானை .அடிப்பதற்குக்,உயர்குலத்தானை அடிப்பதற்குக்,1,part 2 scan 17 has no full stop before அடிப்பதற்குக்
+katturaigal/tn_tamilarukkae_2.md,phrase,திரவிடர்கள்,திராவிடர்கள்,1,part 2 scans consistently print திராவிடர்கள்
+katturaigal/tn_tamilarukkae_2.md,phrase,புத்தகத்தில் 155ஆ_ வது,புத்தகத்தில் 155ஆவது,1,part 2 scan 12 has no underscore
+katturaigal/tn_tamilarukkae_2.md,phrase,தென்.. இந்தியா,தென் இந்தியா,1,part 2 scan 13 has no ellipsis
+katturaigal/tn_tamilarukkae_2.md,phrase,"இது ” 1/2 49௪ இற௦ப௦௦10 ௪210 (நியூ எஜ் என்சைக்ளோபீடியா)
+௦௦1 17 (1935) பக்கம் 273இல் இருக்கிறது.","இது ""New Age Encyclopaedia"" (நியூ ஏஜ் என்சைக்ளோபீடியா)
+vol. II (1925) பக்கம் 273இல் இருக்கிறது.",1,"part 2 scan 9 clearly prints the English title, volume, year, and page"
+katturaigal/tn_tamilarukkae_2.md,phrase,சி.ஜே. வர்க்கி எம்.௪.,சி.ஜே. வர்க்கி எம்.ஏ.,1,part 2 scan 9 clearly prints எம்.ஏ.
+katturaigal/tn_tamilarukkae_2.md,phrase,"இது “7/௪ம 47௪ 9௩௦0௦௦1ஐ௪81௦ (நியூ ஏஜ் என்சைக்ளோபீடியா)
+௦௦1. 11 (1925) பக்கம் 273இல். இருக்கிறது.","இது ""New Age Encyclopaedia"" (நியூ ஏஜ் என்சைக்ளோபீடியா)
+vol. II (1925) பக்கம் 273இல் இருக்கிறது.",1,"part 2 scan 14 clearly prints the English title, volume, year, and page"
+katturaigal/tn_tamilarukkae_2.md,phrase,.. “இராமாயணம். தென்னிந்தியாவில்,“இராமாயணம் தென்னிந்தியாவில்,1,part 2 scan 14 has no leading OCR punctuation or full stop
+katturaigal/tn_tamilarukkae_2.md,phrase,"சி ஜே. வர்க்கி
+எம்.ஏ.","சி.ஜே. வர்க்கி
+எம்.ஏ.",1,part 2 scan 14 clearly prints the punctuated initials
+katturaigal/tn_tamilarukkae_2.md,phrase,"ந ட்ண்தி ஸ்ட கோஷ் பி.ஏ.பி.எல். எழுதிய “இந்திய
+ஆரியரின் ட பமமு கலையும்”","நாகேந்திரநாத் கோஷ் பி.ஏ.பி.எல். எழுதிய “இந்திய
+ஆரியரின் இலக்கியமும், கலையும்”",1,part 2 scan 14 clearly prints the author and book title
+katturaigal/tn_tamilarukkae_2.md,phrase,"ப இராணாடனம் கதையானது ஆரியர்களை மேன்மையாகக்
+வம் ரட்ட இழிவு படுத்திக் கட்டகம் எழுதப். பட்ட","“இராமாயணக் கதையானது ஆரியர்களை மேன்மையாகக்
+கூறவும், திராவிடர்களை இழிவு படுத்திக் காட்டவும் எழுதப்பட்ட
+நூலாகும்.”",1,part 2 scan 14 clearly supplies the complete quotation
+katturaigal/tn_tamilarukkae_2.md,phrase,புத்தகத்தில் இருந்கிறது,புத்தகத்தில் இருக்கிறது,1,part 2 scan 14 clearly prints இருக்கிறது
+katturaigal/tn_tamilarukkae_2.md,phrase,திராவிட மாட்டில்,திராவிட நாட்டில்,1,part 2 scan 15 clearly prints நாட்டில்
+katturaigal/tn_tamilarukkae_2.md,phrase,கேரளத்தோடு படக் பாண்டிய,கேரளத்தோடு கூடிய பாண்டிய,1,part 2 scan 15 clearly prints கூடிய
+katturaigal/tn_tamilarukkae_2.md,phrase,"நீராடும்படியர்ன தெளிந்த
+நீரையுடைய திவ்வியமானகாவேரி","நீராடும்படியான தெளிந்த
+நீரையுடைய திவ்வியமான காவேரி",1,part 2 scan 15 clearly prints the two words and spacing
+katturaigal/tn_tamilarukkae_2.md,phrase,"தாம்பிர ணாக
+காண்பீர்கள்!","தாம்பிர பரணியைக்
+காண்பீர்கள்”",1,part 2 scan 15 clearly prints தாம்பிர பரணியைக்
+katturaigal/tn_tamilarukkae_2.md,phrase,யோக்கிமையுமுள்ள 'கபாட்புரத்தைப்,யோக்கியமையுமுள்ள கபாடபுரத்தைக்,1,part 2 scan 15 clearly prints யோக்கியமையுமுள்ள கபாடபுரத்தைக்
+katturaigal/tn_tamilarukkae_2.md,phrase,சன்டாளன்,சண்டாளன்,1,part 2 scan 15 clearly prints சண்டாளன்
+katturaigal/tn_tamilarukkae_2.md,phrase,"மனுதர்ம நீதி: டப்ப அறு றன்
+
+அம்மனு நீதியில் ஒத்திரர்களுக்கு (திராவிடர்களுக்கு)
+விதித்திருக்கும் தர்மங்களைப் பற்றி ஒரு சிறிது: வத்தமம்
+எடுத்துக்காட்ட ஆ சப்ப்டு அழறா அதாவது,”","மனுதர்ம நீதி வழங்கப்பட்டிருக்கிறது.
+
+அம்மனு நீதியில் சூத்திரர்களுக்கு (திராவிடர்களுக்கு)
+விதித்திருக்கும் தர்மங்களைப் பற்றி ஒரு சிறிது மாத்திரம்
+எடுத்துக்காட்ட ஆசைப்படுகிறோம். அதாவது,”",1,part 2 scan 15 clearly supplies the complete transition
+katturaigal/tn_tamilarukkae_2.md,phrase,"பிராமணனுக்குத் தலையையுஸண்டிதம் செய்வது செயலைத்
+தண்டமாகும் மற்ற வருணத்தாருக்குக் கொலைத் தண்டமுண்டு.","பிராமணனுக்குத் தலையை முண்டிதம் செய்வது செயலையேத்
+தண்டமாகும் மற்ற வருணத்தாருக்குக் கொலைத் தண்டமுண்டு.",1,part 2 scan 15 clearly prints the complete Manu quotation
+katturaigal/tn_tamilarukkae_2.md,phrase,| மனு அத். 8. 20,மனு அத். 8. 20,1,part 2 scan 16 has no leading OCR bar
+katturaigal/tn_tamilarukkae_2.md,phrase,கட்ட மனு அத். 8. 413,மனு அத். 8. 413,1,part 2 scan 16 has no leading OCR debris
+katturaigal/tn_tamilarukkae_2.md,phrase,கைப்பழறிக்கொள்ளலாம்,கைப்பற்றிக்கொள்ளலாம்,1,part 2 scan 16 clearly prints கைப்பற்றிக்கொள்ளலாம்
+katturaigal/tn_tamilarukkae_2.md,phrase,மனு. அத். .7. 272,மனு. அத். 7. 272,1,part 2 scan 17 has one full stop before the chapter number
+katturaigal/tn_tamilarukkae_2.md,phrase,"இந்தியா”. என்னும். புத்தகத்தில் -151ஆம்.. பக்கத்தில் , இருக்கிறது",இந்தியா” என்னும் புத்தகத்தில் 151ஆம் பக்கத்தில் இருக்கிறது,1,part 2 scan 13 has no OCR punctuation debris
+katturaigal/tn_tamilarukkae_2.md,phrase,தொன்றுபில்லையாதலாலும் . அவன். சொத்தை,தொன்றுமில்லையாதலாலும் அவன் சொத்தை,1,part 2 scan 16 clearly prints தொன்றுமில்லையாதலாலும்
+katturaigal/tn_tamilarukkae_2.md,phrase,பிராமணறைத் திட்டினால்,பிராமணரைத் திட்டினால்,1,part 2 scan 16 clearly prints பிராமணரைத்
+katturaigal/tn_tamilarukkae_2.md,phrase,போதிப்பானானர்ல்,போதிப்பானானால்,1,part 2 scan 17 clearly prints போதிப்பானானால்
+katturaigal/tn_tamilarukkae_2.md,phrase,எண்டண்யை,எண்ணெயை,1,part 2 scan 17 clearly prints எண்ணெயை
+katturaigal/tn_tamilarukkae_2.md,phrase,சமமமாக,சமமாக,1,part 2 scan 17 clearly prints சமமாக
+katturaigal/tn_tamilarukkae_2.md,phrase,"அவன் ட டன்னப்க
+வெட்டியெறிந்து விடலாம்","அவன் பின்பக்கத்தை
+வெட்டியெறிந்து விடலாம்",1,part 2 scan 17 clearly prints பின்பக்கத்தை

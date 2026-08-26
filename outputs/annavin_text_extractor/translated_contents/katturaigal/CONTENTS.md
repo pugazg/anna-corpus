@@ -1225,7 +1225,7 @@ Total source works: 1388
 - [katturaigal/thuravi](thuravi.md) - translated
 - [துயர் துடைக்க வாரீர்!](thuyar_thudaikka.md) - pending
 - [துவஜாரோகணம்!](thvajarohanam.md) - pending
-- [katturaigal/tn_tamilarukkae](tn_tamilarukkae.md) - pending
+- [katturaigal/tn_tamilarukkae](tn_tamilarukkae.md) - translated
 - [TRUTH COMES TRICKLING !](truth_comes_trickling.md) - pending
 - [Truth — Triumphant](truth_triumphant.md) - pending
 - [“TUCHTIGKEIT”](tuchtigkeit.md) - pending

@@ -1331,6 +1331,586 @@
       ],
       "tokenCorrections": []
     },
+    "katturaigal/tn_tamilarukkae_1.md": {
+      "phraseCorrections": [
+        {
+          "wrong": "தறிழ்நாடு தமிழருக்கே! |\n\nந",
+          "right": "தமிழ்நாடு தமிழருக்கே!\n\n1",
+          "reason": "part 1 scan 1 clearly prints the title and section number"
+        },
+        {
+          "wrong": "பிரசாரத்தைப் பற்றித். “தமிழ்நாட்டில் எங்குப். பேசப்பட்டு வருகிறது.",
+          "right": "பிரசாரத்தைப் பற்றித் தமிழ்நாட்டில் எங்கும் பேசப்பட்டு வருகிறது.",
+          "reason": "part 1 scan 1 and the matching 21 November 1939 transcription confirm the sentence"
+        },
+        {
+          "wrong": "கிளர்ச்சியை .உண்டாக்கச்",
+          "right": "கிளர்ச்சியை உண்டாக்கச்",
+          "reason": "part 1 scan 1 has no full stop before உண்டாக்கச்"
+        },
+        {
+          "wrong": "மெயில்பத்திரிகை",
+          "right": "மெயில் பத்திரிகை",
+          "reason": "part 1 scan 1 separates the two words"
+        },
+        {
+          "wrong": "அதன் தமிழ்க் கருத்து” இன்று",
+          "right": "அதன் தமிழ்க் கருத்து இன்று",
+          "reason": "part 1 scan 1 has no closing quotation mark after கருத்து"
+        },
+        {
+          "wrong": "தமிழ்நாடு தமிழருக்கே? என்றால்",
+          "right": "தமிழ்நாடு தமிழருக்கே' என்றால்",
+          "reason": "part 1 scan 1 prints a closing quotation mark, not a question mark"
+        },
+        {
+          "wrong": "என்பதில். .நாஸ்திகமோ",
+          "right": "என்பதில் நாஸ்திகமோ",
+          "reason": "part 1 scan 2 contains no punctuation between the words"
+        },
+        {
+          "wrong": "புகுத்தப்பட்ட தென்று சொல்ல முடியாதாதலால்",
+          "right": "புகுத்தப்பட்டதென்று சொல்ல முடியாதாதலால்",
+          "reason": "part 1 scan 2 prints புகுத்தப்பட்டதென்று continuously"
+        },
+        {
+          "wrong": "அலகீளமான காரணங்களும்",
+          "right": "அனுகூலமான காரணங்களும்",
+          "reason": "part 1 scan 2 and context confirm அனுகூலமான"
+        },
+        {
+          "wrong": "திராவிட நாடூ, என்றால் தமிழ்நாடு.",
+          "right": "திராவிட நாடு என்றால் தமிழ்நாடு",
+          "reason": "part 1 scan 2 contains no OCR vowel or internal full stop"
+        },
+        {
+          "wrong": "பட்ட டஜம் (சொறி டிக்ஷனரியில், 440ஆம் பக்க 5வது வரியில்\n(ஸ்ஸ௪289)",
+          "right": "பட்ட ஜெம் (gem) டிக்ஷனரியில், 340ஆம் பக்க 5வது வரியில்\n(draveda)",
+          "reason": "part 1 scan 6 clearly prints Gem, page 340 and the Latin headword draveda; restored against the duplicate scan witness"
+        },
+        {
+          "wrong": "சம பங்குகளாகப்\nபிரிந்து",
+          "right": "சமயங்களாகப்\nபிரிந்து",
+          "reason": "part 1 scan 4 clearly prints சமயங்களாகப்"
+        },
+        {
+          "wrong": "அ ச்சாரியார்",
+          "right": "ஆச்சாரியார்",
+          "reason": "part 1 scan 5 clearly prints ஆச்சாரியார்"
+        },
+        {
+          "wrong": "பக்கத்தில் பிசுரிக்கப்பட்டிருக்கிறது",
+          "right": "பக்கத்தில் பிரசுரிக்கப்பட்டிருக்கிறது",
+          "reason": "part 1 scan 5 clearly prints பிரசுரிக்கப்பட்டிருக்கிறது"
+        },
+        {
+          "wrong": "அதைப்பற்றிய: விளக்கத்தை",
+          "right": "அதைப்பற்றிய விளக்கத்தை",
+          "reason": "part 1 scan 5 has no colon after அதைப்பற்றிய"
+        },
+        {
+          "wrong": "_ பார்ப்பனப் பத்திரிகைகள்",
+          "right": "பார்ப்பனப் பத்திரிகைகள்",
+          "reason": "part 1 scan 5 has no leading OCR underscore"
+        },
+        {
+          "wrong": "மறுமுறை .கிளம்பியதாகத்",
+          "right": "மறுமுறை கிளம்பியதாகத்",
+          "reason": "part 1 scan 5 has no full stop before கிளம்பியதாகத்"
+        },
+        {
+          "wrong": "மொழிவகுப்புத்து வேசமாகத்தொக்கி",
+          "right": "மொழி வகுப்புத் துவேஷமாகத் தொக்கி",
+          "reason": "part 1 scan 5 and matching transcription confirm the separated phrase"
+        },
+        {
+          "wrong": "ப்ற்ட்\nஇருக்கிறது",
+          "right": "என்று\nஇருக்கிறது",
+          "reason": "part 1 scan 6 clearly ends the quotation with என்று இருக்கிறது"
+        },
+        {
+          "wrong": "பின்ப்ற்றுவதாய்",
+          "right": "பின்பற்றுவதாய்",
+          "reason": "part 1 scan 6 clearly prints பின்பற்றுவதாய்"
+        },
+        {
+          "wrong": "டி.௭, சுவாமிநாதய்யரால்",
+          "right": "டி.எ. சுவாமிநாதய்யரால்",
+          "reason": "part 1 scan 6 clearly prints டி.எ."
+        },
+        {
+          "wrong": "ஜெம் (ஏசாம டிக்ஷன்ரியில் 340ஆம் பக்கம்\n5ஆவது வரியில் (47608)",
+          "right": "ஜெம் (gem) டிக்ஷனரியில் 340ஆம் பக்கம்\n5ஆவது வரியில் (draveda)",
+          "reason": "part 1 scan 6 clearly prints the English dictionary name and headword"
+        },
+        {
+          "wrong": "திராவிடன் (ஈஸசம்‌ல)",
+          "right": "திராவிடன் (dravedan)",
+          "reason": "part 1 scan 6 clearly prints the Latin headword dravedan"
+        },
+        {
+          "wrong": "2-௬ ப வக ஆத்\nலாங்வேஜ்",
+          "right": "லாங்வேஜ்",
+          "reason": "part 1 scan 7 begins with லாங்வேஜ்; preceding glyphs are OCR debris"
+        },
+        {
+          "wrong": "வாதப்பிரதிவாதம் _ செய்யட்டும்",
+          "right": "வாதப்பிரதிவாதம் செய்யட்டும்",
+          "reason": "part 1 scan 7 has no underscore"
+        },
+        {
+          "wrong": "கெட்ட. விதமாய்த்",
+          "right": "கெட்ட விதமாய்த்",
+          "reason": "part 1 scan 7 has no full stop after கெட்ட"
+        },
+        {
+          "wrong": "சுயராஜ்யத்தில்\nதத்துவமென்று",
+          "right": "சுயராஜ்யத்தின்\nதத்துவமென்று",
+          "reason": "part 1 scan 9 clearly prints சுயராஜ்யத்தின்"
+        },
+        {
+          "wrong": "எந்தத்: துறையிலுட\nதலைவராக இருக்க யோக்கியதை இல்லாமல் செய்யட\n\n### Image 10",
+          "right": "எந்தத் துறையிலும்\nதலைவராக இருக்க யோக்கியதை இல்லாமல் செய்யப்பட்டாய்\n\n### Image 10",
+          "reason": "part 1 scans 9-10 clearly print the sentence across the page join"
+        },
+        {
+          "wrong": "சுயமரியாதையோ உள்ள. திராவிட மகன்",
+          "right": "சுயமரியாதையோ உள்ள திராவிட மகன்",
+          "reason": "part 1 scan 9 has no full stop after உள்ள"
+        },
+        {
+          "wrong": "எந்தத்: துறையிலுட",
+          "right": "எந்தத் துறையிலும்",
+          "reason": "part 1 scan 9 clearly prints எந்தத் துறையிலும்"
+        },
+        {
+          "wrong": "யோக்கியதை இல்லாமல் செய்யட",
+          "right": "யோக்கியதை இல்லாமல் செய்யப்பட்டாய்",
+          "reason": "part 1 scans 9-10 confirm செய்யப்பட்டாய் across the page join"
+        },
+        {
+          "wrong": "திரவிட மக்கள்",
+          "right": "திராவிட மக்கள்",
+          "reason": "part 1 scan 10 clearly prints திராவிட"
+        },
+        {
+          "wrong": "சுக்ரீவனுக்குப்... பட்டம்",
+          "right": "சுக்ரீவனுக்குப் பட்டம்",
+          "reason": "part 1 scan 10 has no ellipsis"
+        },
+        {
+          "wrong": "ஜஸ்டிஸ் கக்கியாரையும்",
+          "right": "ஜஸ்டிஸ் கட்சியாரையும்",
+          "reason": "part 1 scan 10 clearly prints கட்சியாரையும்"
+        },
+        {
+          "wrong": "எப்படியெனில்..தங்களது நாட்டிலே பேதங்களுக்கு\nமுன்பே",
+          "right": "எப்படியெனில் தங்களது நாட்டிலே தங்களுக்கு\nமுன்பே",
+          "reason": "part 1 scan 10 and matching transcription confirm தங்களுக்கு முன்பே"
+        },
+        {
+          "wrong": "எதிரிகளுடன்... சேர",
+          "right": "எதிரிகளுடன் சேர",
+          "reason": "part 1 scan 10 has no ellipsis"
+        }
+      ],
+      "tokenCorrections": []
+    },
+    "katturaigal/tn_tamilarukkae_2.md": {
+      "phraseCorrections": [
+        {
+          "wrong": "ன்\n\nநேற்று",
+          "right": "2\n\nநேற்று",
+          "reason": "part 2 scan 1 clearly prints editorial number 2"
+        },
+        {
+          "wrong": "முதலாகிய்வைபற்றிய",
+          "right": "முதலாகியவை பற்றிய",
+          "reason": "part 2 scan 1 clearly separates ஆகியவை பற்றிய"
+        },
+        {
+          "wrong": "முன்றாவது வியாசம்",
+          "right": "மூன்றாவது வியாசம்",
+          "reason": "part 2 scan 6 clearly prints மூன்றாவது வியாசம்"
+        },
+        {
+          "wrong": "3ஆவது, தலையங்கத்தில்",
+          "right": "3ஆவது தலையங்கத்தில்",
+          "reason": "part 2 scan 6 has no comma after 3ஆவது"
+        },
+        {
+          "wrong": "எப்படிப் பட்டவர்கள்",
+          "right": "எப்படிப்பட்டவர்கள்",
+          "reason": "part 2 scan 6 prints எப்படிப்பட்டவர்கள் as one word"
+        },
+        {
+          "wrong": "வாழ்க்கை. முறைபேதம்",
+          "right": "வாழ்க்கை முறை பேதம்",
+          "reason": "part 2 scan 6 has no full stop and separates முறை பேதம்"
+        },
+        {
+          "wrong": "விளக்கவேண்டிய தில்லை",
+          "right": "விளக்கவேண்டியதில்லை",
+          "reason": "part 2 scan 6 prints விளக்கவேண்டியதில்லை as one word"
+        },
+        {
+          "wrong": "ஆரியர். திராவிட நாட்டுக்கு",
+          "right": "ஆரியர் திராவிட நாட்டுக்கு",
+          "reason": "part 2 scan 6 has no full stop after ஆரியர்"
+        },
+        {
+          "wrong": "விளங்கி வந்தது என்பது பற்றியும்” நாம்",
+          "right": "விளங்கி வந்தது என்பது பற்றியும் நாம்",
+          "reason": "part 2 scan 6 has no quotation mark after பற்றியும்"
+        },
+        {
+          "wrong": "எடுத்துக்காட்டுவத\nபொருந்துமென",
+          "right": "எடுத்துக்காட்டுவது\nபொருந்துமென",
+          "reason": "part 2 scan 6 clearly prints எடுத்துக்காட்டுவது"
+        },
+        {
+          "wrong": "குடியேறியவர்கள் - ஆவார்கள்",
+          "right": "குடியேறியவர்கள் ஆவார்கள்",
+          "reason": "part 2 scan 6 has no hyphen"
+        },
+        {
+          "wrong": "எழுதிக்கொண்டார்கள். .இதுவும்",
+          "right": "எழுதிக்கொண்டார்கள். இதுவும்",
+          "reason": "part 2 scan 6 has one full stop and normal spacing"
+        },
+        {
+          "wrong": "'திராவிடர்களுக்கு .தஸ்யூ",
+          "right": "திராவிடர்களுக்கு தஸ்யூ",
+          "reason": "part 2 scan 6 has no leading quote or internal full stop"
+        },
+        {
+          "wrong": "பெயர்களாகமாறச்",
+          "right": "பெயர்களாக மாறச்",
+          "reason": "part 2 scan 6 separates பெயர்களாக மாறச்"
+        },
+        {
+          "wrong": "இது சர்வில்யம் வில்ஸன் ஹெணா, டாக்டா் கக.சி.எஸ்.",
+          "right": "இது சர்வில்லியம் வில்ஸன் ஹெணர், டாக்டர் கே.சி.எஸ்.",
+          "reason": "part 2 scan 7 clearly prints சர்வில்லியம் வில்ஸன் ஹெணர் and டாக்டர் கே.சி.எஸ்.; remaining initials are retained for review"
+        },
+        {
+          "wrong": "திராவிபீர்கள் தங்கள் மீது படை- எடுக்கவந்த",
+          "right": "திராவிடர்கள் தங்கள் மீது படை எடுக்கவந்த",
+          "reason": "part 2 scan 7 clearly prints திராவிடர்கள் and has no hyphen"
+        },
+        {
+          "wrong": "அநேக: சுலோகங்களாக",
+          "right": "அநேக சுலோகங்களாக",
+          "reason": "part 2 scan 7 has no colon after அநேக"
+        },
+        {
+          "wrong": "பூர்விக இந்திய சரித்திரமும் வ ட்ட என்னும்",
+          "right": "பூர்வீக இந்திய சரித்திரமும் நாகரிகமும்” என்னும்",
+          "reason": "part 2 scan 7 clearly prints the complete book title"
+        },
+        {
+          "wrong": "ஆரியர்கள் தென். இந்திய\nதஸ்யூக்கள் அல்லது திராவிடர்கள் மீது படை எடுக்கு. வெற்றி",
+          "right": "ஆரியர்கள் தென் இந்திய\nதஸ்யூக்கள் அல்லது திராவிடர்கள் மீது படை எடுத்து வெற்றி",
+          "reason": "part 2 scan 7 clearly prints தென் இந்திய and படை எடுத்து வெற்றி"
+        },
+        {
+          "wrong": "எழுதிய திராவிடரும்\nஆரியரும்': என்னும்",
+          "right": "எழுதிய ‘திராவிடரும்\nஆரியரும்’ என்னும்",
+          "reason": "part 2 scan 7 clearly encloses the book title in quotation marks"
+        },
+        {
+          "wrong": "மக்களே தான்",
+          "right": "மக்களேதான்",
+          "reason": "part 2 scans 8 and 12 print மக்களேதான் as one word"
+        },
+        {
+          "wrong": "மேற்படியார்களால். பேசும்",
+          "right": "மேற்படியார்களால் பேசும்",
+          "reason": "part 2 scan 8 has no full stop after மேற்படியார்களால்"
+        },
+        {
+          "wrong": "இந்தியாவுக்குக் குயேறியவர்களாவார்கள்",
+          "right": "இந்தியாவுக்குக் குடியேறியவர்களாவார்கள்",
+          "reason": "part 2 scan 11 clearly prints குடியேறியவர்களாவார்கள்"
+        },
+        {
+          "wrong": "துன்புறுத்தப்பட்டுக் சாடுகளுக்குத்",
+          "right": "துன்புறுத்தப்பட்டுக் காடுகளுக்குத்",
+          "reason": "part 2 scan 11 clearly prints காடுகளுக்குத்"
+        },
+        {
+          "wrong": "(திராவிடத்தை)ப் பற்றியேயாதம்.",
+          "right": "(திராவிடத்தை)ப் பற்றியேயாகும்.”",
+          "reason": "part 2 scan 11 clearly prints பற்றியேயாகும்"
+        },
+        {
+          "wrong": "இருக றன். ஓ இந்தியனே அவர்களைக். கொல்லு”",
+          "right": "இருக்கின்றன. ஓ இந்திரனே அவர்களைக் கொல்லு”",
+          "reason": "part 2 scan 12 clearly prints இருக்கின்றன and இந்திரனே"
+        },
+        {
+          "wrong": "் என்பது ஆரியர்களின் பிரார்த்தனையாகும்",
+          "right": "என்பது ஆரியர்களின் பிரார்த்தனையாகும்",
+          "reason": "part 2 scan 12 clearly begins என்பது"
+        },
+        {
+          "wrong": "தாசர் (சூத்திராகள்",
+          "right": "தாசர் (சூத்திரர்கள்)",
+          "reason": "part 2 scan 13 clearly prints சூத்திரர்கள் with closing parenthesis"
+        },
+        {
+          "wrong": "ரிக் தேத்தில்",
+          "right": "ரிக் வேதத்தில்",
+          "reason": "part 2 scan 13 clearly prints ரிக் வேதத்தில்"
+        },
+        {
+          "wrong": "இராதா குழுத் மூக்கர்ஜீ",
+          "right": "இராதா குமுத் முக்கர்ஜீ",
+          "reason": "part 2 scan 13 clearly prints இராதா குமுத் முக்கர்ஜீ"
+        },
+        {
+          "wrong": "நாகறிகமடைந்தவர்களாய்",
+          "right": "நாகரிகமடைந்தவர்களாய்",
+          "reason": "part 2 scan 13 clearly prints நாகரிகமடைந்தவர்களாய்"
+        },
+        {
+          "wrong": "பல அர தன்\nஇந்தப் பிராமணர்கள்",
+          "right": "பல நாகரிகங்களை\nஇந்தப் பிராமணர்கள்",
+          "reason": "part 2 scan 13 clearly prints பல நாகரிகங்களை"
+        },
+        {
+          "wrong": "ஷோஷி சந்தாடட் எழுதிய “இந்தியா அன்றும் ர இனும்-",
+          "right": "ஷோஷி சந்தர்டட் எழுதிய “இந்தியா அன்றும் இன்றும்”",
+          "reason": "part 2 scan 13 clearly prints the author and title"
+        },
+        {
+          "wrong": "பயங்கர புர்ளி வார்த்தை வைதிகப் பார்ப்பனனின் மனையில்",
+          "right": "பயங்கர புரளி வார்த்தை வைதிகப் பார்ப்பனனின் மூளையில்",
+          "reason": "part 2 scan 14 clearly prints புரளி and மூளையில்"
+        },
+        {
+          "wrong": "செயலையேத்\nதண்டமாகும்",
+          "right": "கொலைத்\nதண்டமாகும்",
+          "reason": "part 2 scan 15 clearly prints கொலைத் தண்டமாகும்"
+        },
+        {
+          "wrong": "அணில் காடை",
+          "right": "அணில், காடை",
+          "reason": "part 2 scan 16 separates the listed animals with a comma"
+        },
+        {
+          "wrong": "உடும்பு, :",
+          "right": "உடும்பு,",
+          "reason": "part 2 scan 16 has no colon after உடும்பு"
+        },
+        {
+          "wrong": "லெளகிகக் கருமமா\n\nயிருந்தாலும்",
+          "right": "லெளகிகக் கருமமாயிருந்தாலும்",
+          "reason": "part 2 scan 16 prints the word continuously across a typeset line"
+        },
+        {
+          "wrong": "துர்ச்செய்கை யுள்ளவனாயிருந்த",
+          "right": "துர்ச்செய்கையுள்ளவனாயிருந்த",
+          "reason": "part 2 scan 16 prints துர்ச்செய்கையுள்ளவனாயிருந்த as one word"
+        },
+        {
+          "wrong": "சுபா சுபங்களிலும்",
+          "right": "சுபாசுபங்களிலும்",
+          "reason": "part 2 scan 16 prints சுபாசுபங்களிலும் as one word"
+        },
+        {
+          "wrong": "அவன் ' அரசன்",
+          "right": "அவன் அரசன்",
+          "reason": "part 2 scan 16 has no stray quote"
+        },
+        {
+          "wrong": "ஒரு போதும்",
+          "right": "ஒருபோதும்",
+          "reason": "part 2 scan 16 prints ஒருபோதும் as one word"
+        },
+        {
+          "wrong": "பிராமணன் . சூத்திரனுடைய",
+          "right": "பிராமணன் சூத்திரனுடைய",
+          "reason": "part 2 scan 16 has no full stop after பிராமணன்"
+        },
+        {
+          "wrong": "ஒரு பிறப்பாளன் .(சூத்திரன்). இருபிறப்பாளரைத்",
+          "right": "ஒரு பிறப்பாளன் (சூத்திரன்) இருபிறப்பாளரைத்",
+          "reason": "part 2 scan 16 has ordinary parentheses and no stray full stops"
+        },
+        {
+          "wrong": "பேரையாவது. சாதியையாவது",
+          "right": "பேரையாவது, சாதியையாவது",
+          "reason": "part 2 scan 17 uses a comma"
+        },
+        {
+          "wrong": "பழுக்கக்காய்ச்சிய",
+          "right": "பழுக்கக் காய்ச்சிய",
+          "reason": "part 2 scan 17 separates பழுக்கக் காய்ச்சிய"
+        },
+        {
+          "wrong": "உயர்குலத்தானை .அடிப்பதற்குக்",
+          "right": "உயர்குலத்தானை அடிப்பதற்குக்",
+          "reason": "part 2 scan 17 has no full stop before அடிப்பதற்குக்"
+        },
+        {
+          "wrong": "திரவிடர்கள்",
+          "right": "திராவிடர்கள்",
+          "reason": "part 2 scans consistently print திராவிடர்கள்"
+        },
+        {
+          "wrong": "புத்தகத்தில் 155ஆ_ வது",
+          "right": "புத்தகத்தில் 155ஆவது",
+          "reason": "part 2 scan 12 has no underscore"
+        },
+        {
+          "wrong": "தென்.. இந்தியா",
+          "right": "தென் இந்தியா",
+          "reason": "part 2 scan 13 has no ellipsis"
+        },
+        {
+          "wrong": "இது ” 1/2 49௪ இற௦ப௦௦10 ௪210 (நியூ எஜ் என்சைக்ளோபீடியா)\n௦௦1 17 (1935) பக்கம் 273இல் இருக்கிறது.",
+          "right": "இது \"New Age Encyclopaedia\" (நியூ ஏஜ் என்சைக்ளோபீடியா)\nvol. II (1925) பக்கம் 273இல் இருக்கிறது.",
+          "reason": "part 2 scan 9 clearly prints the English title, volume, year, and page"
+        },
+        {
+          "wrong": "சி.ஜே. வர்க்கி எம்.௪.",
+          "right": "சி.ஜே. வர்க்கி எம்.ஏ.",
+          "reason": "part 2 scan 9 clearly prints எம்.ஏ."
+        },
+        {
+          "wrong": "இந்தியாவில் ஆரியர்களிடம் மனிதட்களைக் கொன்று\nயாகம் செய்யும் ' வழக்கம் ட்ட அன்ு என்று நிச்சயமாய்ச்",
+          "right": "இந்தியாவில் இருந்த ஆரியர்களிடம் மனிதர்களைக் கொன்று\nயாகம் செய்யும் வழக்கம் இருந்திருக்கிறது என்று நிச்சயமாய்ச்",
+          "reason": "part 2 scan 12 clearly supplies the complete sentence"
+        },
+        {
+          "wrong": "இது “7/௪ம 47௪ 9௩௦0௦௦1ஐ௪81௦ (நியூ ஏஜ் என்சைக்ளோபீடியா)\n௦௦1. 11 (1925) பக்கம் 273இல். இருக்கிறது.",
+          "right": "இது \"New Age Encyclopaedia\" (நியூ ஏஜ் என்சைக்ளோபீடியா)\nvol. II (1925) பக்கம் 273இல் இருக்கிறது.",
+          "reason": "part 2 scan 14 clearly prints the English title, volume, year, and page"
+        },
+        {
+          "wrong": ".. “இராமாயணம். தென்னிந்தியாவில்",
+          "right": "“இராமாயணம் தென்னிந்தியாவில்",
+          "reason": "part 2 scan 14 has no leading OCR punctuation or full stop"
+        },
+        {
+          "wrong": "சி ஜே. வர்க்கி\nஎம்.ஏ.",
+          "right": "சி.ஜே. வர்க்கி\nஎம்.ஏ.",
+          "reason": "part 2 scan 14 clearly prints the punctuated initials"
+        },
+        {
+          "wrong": "ந ட்ண்தி ஸ்ட கோஷ் பி.ஏ.பி.எல். எழுதிய “இந்திய\nஆரியரின் ட பமமு கலையும்”",
+          "right": "நாகேந்திரநாத் கோஷ் பி.ஏ.பி.எல். எழுதிய “இந்திய\nஆரியரின் இலக்கியமும், கலையும்”",
+          "reason": "part 2 scan 14 clearly prints the author and book title"
+        },
+        {
+          "wrong": "ப இராணாடனம் கதையானது ஆரியர்களை மேன்மையாகக்\nவம் ரட்ட இழிவு படுத்திக் கட்டகம் எழுதப். பட்ட",
+          "right": "“இராமாயணக் கதையானது ஆரியர்களை மேன்மையாகக்\nகூறவும், திராவிடர்களை இழிவு படுத்திக் காட்டவும் எழுதப்பட்ட\nநூலாகும்.”",
+          "reason": "part 2 scan 14 clearly supplies the complete quotation"
+        },
+        {
+          "wrong": "புத்தகத்தில் இருந்கிறது",
+          "right": "புத்தகத்தில் இருக்கிறது",
+          "reason": "part 2 scan 14 clearly prints இருக்கிறது"
+        },
+        {
+          "wrong": "திராவிட மாட்டில்",
+          "right": "திராவிட நாட்டில்",
+          "reason": "part 2 scan 15 clearly prints நாட்டில்"
+        },
+        {
+          "wrong": "கேரளத்தோடு படக் பாண்டிய",
+          "right": "கேரளத்தோடு கூடிய பாண்டிய",
+          "reason": "part 2 scan 15 clearly prints கூடிய"
+        },
+        {
+          "wrong": "நீராடும்படியர்ன தெளிந்த\nநீரையுடைய திவ்வியமானகாவேரி",
+          "right": "நீராடும்படியான தெளிந்த\nநீரையுடைய திவ்வியமான காவேரி",
+          "reason": "part 2 scan 15 clearly prints the two words and spacing"
+        },
+        {
+          "wrong": "தாம்பிர ணாக\nகாண்பீர்கள்!",
+          "right": "தாம்பிர பரணியைக்\nகாண்பீர்கள்”",
+          "reason": "part 2 scan 15 clearly prints தாம்பிர பரணியைக்"
+        },
+        {
+          "wrong": "யோக்கிமையுமுள்ள 'கபாட்புரத்தைப்",
+          "right": "யோக்கியமையுமுள்ள கபாடபுரத்தைக்",
+          "reason": "part 2 scan 15 clearly prints யோக்கியமையுமுள்ள கபாடபுரத்தைக்"
+        },
+        {
+          "wrong": "சன்டாளன்",
+          "right": "சண்டாளன்",
+          "reason": "part 2 scan 15 clearly prints சண்டாளன்"
+        },
+        {
+          "wrong": "மனுதர்ம நீதி: டப்ப அறு றன்\n\nஅம்மனு நீதியில் ஒத்திரர்களுக்கு (திராவிடர்களுக்கு)\nவிதித்திருக்கும் தர்மங்களைப் பற்றி ஒரு சிறிது: வத்தமம்\nஎடுத்துக்காட்ட ஆ சப்ப்டு அழறா அதாவது,”",
+          "right": "மனுதர்ம நீதி வழங்கப்பட்டிருக்கிறது.\n\nஅம்மனு நீதியில் சூத்திரர்களுக்கு (திராவிடர்களுக்கு)\nவிதித்திருக்கும் தர்மங்களைப் பற்றி ஒரு சிறிது மாத்திரம்\nஎடுத்துக்காட்ட ஆசைப்படுகிறோம். அதாவது,”",
+          "reason": "part 2 scan 15 clearly supplies the complete transition"
+        },
+        {
+          "wrong": "பிராமணனுக்குத் தலையையுஸண்டிதம் செய்வது செயலைத்\nதண்டமாகும் மற்ற வருணத்தாருக்குக் கொலைத் தண்டமுண்டு.",
+          "right": "பிராமணனுக்குத் தலையை முண்டிதம் செய்வது செயலையேத்\nதண்டமாகும் மற்ற வருணத்தாருக்குக் கொலைத் தண்டமுண்டு.",
+          "reason": "part 2 scan 15 clearly prints the complete Manu quotation"
+        },
+        {
+          "wrong": "| மனு அத். 8. 20",
+          "right": "மனு அத். 8. 20",
+          "reason": "part 2 scan 16 has no leading OCR bar"
+        },
+        {
+          "wrong": "கட்ட மனு அத். 8. 413",
+          "right": "மனு அத். 8. 413",
+          "reason": "part 2 scan 16 has no leading OCR debris"
+        },
+        {
+          "wrong": "கைப்பழறிக்கொள்ளலாம்",
+          "right": "கைப்பற்றிக்கொள்ளலாம்",
+          "reason": "part 2 scan 16 clearly prints கைப்பற்றிக்கொள்ளலாம்"
+        },
+        {
+          "wrong": "மனு. அத். .7. 272",
+          "right": "மனு. அத். 7. 272",
+          "reason": "part 2 scan 17 has one full stop before the chapter number"
+        },
+        {
+          "wrong": "இந்தியா”. என்னும். புத்தகத்தில் -151ஆம்.. பக்கத்தில் , இருக்கிறது",
+          "right": "இந்தியா” என்னும் புத்தகத்தில் 151ஆம் பக்கத்தில் இருக்கிறது",
+          "reason": "part 2 scan 13 has no OCR punctuation debris"
+        },
+        {
+          "wrong": "தொன்றுபில்லையாதலாலும் . அவன். சொத்தை",
+          "right": "தொன்றுமில்லையாதலாலும் அவன் சொத்தை",
+          "reason": "part 2 scan 16 clearly prints தொன்றுமில்லையாதலாலும்"
+        },
+        {
+          "wrong": "பிராமணறைத் திட்டினால்",
+          "right": "பிராமணரைத் திட்டினால்",
+          "reason": "part 2 scan 16 clearly prints பிராமணரைத்"
+        },
+        {
+          "wrong": "போதிப்பானானர்ல்",
+          "right": "போதிப்பானானால்",
+          "reason": "part 2 scan 17 clearly prints போதிப்பானானால்"
+        },
+        {
+          "wrong": "எண்டண்யை",
+          "right": "எண்ணெயை",
+          "reason": "part 2 scan 17 clearly prints எண்ணெயை"
+        },
+        {
+          "wrong": "சமமமாக",
+          "right": "சமமாக",
+          "reason": "part 2 scan 17 clearly prints சமமாக"
+        },
+        {
+          "wrong": "அவன் ட டன்னப்க\nவெட்டியெறிந்து விடலாம்",
+          "right": "அவன் பின்பக்கத்தை\nவெட்டியெறிந்து விடலாம்",
+          "reason": "part 2 scan 17 clearly prints பின்பக்கத்தை"
+        }
+      ],
+      "tokenCorrections": []
+    },
     "katturaigal/uruthi_koor.md": {
       "phraseCorrections": [
         {
