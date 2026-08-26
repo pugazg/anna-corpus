@@ -1242,7 +1242,7 @@ Total source works: 1388
 - [katturaigal/urimai_murasoli](urimai_murasoli.md) - translated
 - [katturaigal/urimaipor_vetri](urimaipor_vetri.md) - translated
 - [உருளைக் கிழங்கும் உபதேசியார்களும்!](urulaikizhangum_ubathaesiyarhalum.md) - pending
-- [katturaigal/uruthi_koor](uruthi_koor.md) - pending
+- [katturaigal/uruthi_koor](uruthi_koor.md) - translated
 - [உருவான பலன்?](uruvana_palan.md) - pending
 - [katturaigal/uruvana_seyal](uruvana_seyal.md) - translated
 - ["உஷார்"](ushaar.md) - pending

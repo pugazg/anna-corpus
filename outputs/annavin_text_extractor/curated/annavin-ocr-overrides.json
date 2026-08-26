@@ -1331,6 +1331,491 @@
       ],
       "tokenCorrections": []
     },
+    "katturaigal/uruthi_koor.md": {
+      "phraseCorrections": [
+        {
+          "wrong": "8௫. உறுதி கூறுவீர் 1 உதவி பெறுவீர்!",
+          "right": "35. உறுதி கூறுவீர்! உதவி பெறுவீர்!",
+          "reason": "scan 1 clearly prints the numbered title"
+        },
+        {
+          "wrong": "இந்தத் தோதல்",
+          "right": "இந்தத் தேர்தல்",
+          "reason": "scan 1 clearly prints தேர்தல்"
+        },
+        {
+          "wrong": "ஆளவந்தார்களின் பிடியிலிருந்த\nவிடுபடமாட்டோமா",
+          "right": "ஆளவந்தார்களின் பிடியிலிருந்து\nவிடுபடமாட்டோமா",
+          "reason": "scan 1 clearly prints பிடியிலிருந்து"
+        },
+        {
+          "wrong": "ஆவல் மிகுத்\nகொண்டுள்ளனர்",
+          "right": "ஆவல் மிகுத்துக்\nகொண்டுள்ளனர்",
+          "reason": "scan 1 clearly prints மிகுத்துக் கொண்டுள்ளனர்"
+        },
+        {
+          "wrong": "இந்தத் .தேர்தல்",
+          "right": "இந்தத் தேர்தல்",
+          "reason": "scan 1 has no full stop before தேர்தல்"
+        },
+        {
+          "wrong": "'வாக்காளர்'கள் உள்ளனர் ்",
+          "right": "'வாக்காளர்'கள் உள்ளனர்",
+          "reason": "scan 1 has no trailing OCR glyph"
+        },
+        {
+          "wrong": "பெயர்கள் கூட்டி£\nகொண்டு",
+          "right": "பெயர்கள் கூட்டிக்\nகொண்டு",
+          "reason": "scan 1 clearly prints கூட்டிக் கொண்டு"
+        },
+        {
+          "wrong": "எப்படி\"",
+          "right": "எப்படி?",
+          "reason": "scan 1 ends the question with a question mark"
+        },
+        {
+          "wrong": "என்ன திட் டம்",
+          "right": "என்ன திட்டம்",
+          "reason": "scan 1 clearly prints திட்டம்"
+        },
+        {
+          "wrong": "ஆராம\nஅவகாசம்",
+          "right": "ஆராய\nஅவகாசம்",
+          "reason": "scan 1 clearly prints ஆராய"
+        },
+        {
+          "wrong": "பொதுமக்க௪",
+          "right": "பொதுமக்கள்",
+          "reason": "scan 1 clearly prints பொதுமக்கள்"
+        },
+        {
+          "wrong": "கடசி வரலாறு",
+          "right": "கட்சி வரலாறு",
+          "reason": "scan 2 clearly prints கட்சி"
+        },
+        {
+          "wrong": "உண்மையை ௮றிய",
+          "right": "உண்மையை அறிய",
+          "reason": "scan 3 uses Tamil அ"
+        },
+        {
+          "wrong": "பொச்சரிப்புக்காரா்\nகளுக்கும்",
+          "right": "பொச்சரிப்புக்காரர்களுக்கும்",
+          "reason": "scan 3 prints the word continuously across the line break"
+        },
+        {
+          "wrong": "இந்தச் குழ்நிலையை",
+          "right": "இந்தச் சூழ்நிலையை",
+          "reason": "scan 3 clearly prints சூழ்நிலையை"
+        },
+        {
+          "wrong": "மாற்று மருந்து நம்பிடம்",
+          "right": "மாற்று மருந்து நம்மிடம்",
+          "reason": "scan 3 clearly prints நம்மிடம்"
+        },
+        {
+          "wrong": "கூறிவநீததையும்",
+          "right": "கூறிவந்ததையும்",
+          "reason": "scan 4 clearly prints கூறிவந்ததையும்"
+        },
+        {
+          "wrong": "போக்கினா்கூட",
+          "right": "போக்கினர்கூட",
+          "reason": "scan 4 clearly prints போக்கினர்கூட"
+        },
+        {
+          "wrong": "கூறி வநதனரோ",
+          "right": "கூறி வந்தனரோ",
+          "reason": "scan 5 clearly prints வந்தனரோ"
+        },
+        {
+          "wrong": "எதிர்பாராததல்ல/!",
+          "right": "எதிர்பாராததல்ல!",
+          "reason": "scan 5 contains only an exclamation mark"
+        },
+        {
+          "wrong": "மூடிவு",
+          "right": "முடிவு",
+          "reason": "scan 5 clearly prints முடிவு"
+        },
+        {
+          "wrong": "பதவிக்கா அல்ல",
+          "right": "பதவிக்காக அல்ல",
+          "reason": "scan 5 clearly prints பதவிக்காக"
+        },
+        {
+          "wrong": "தோர்தல்",
+          "right": "தேர்தல்",
+          "reason": "scan 6 clearly prints தேர்தல்"
+        },
+        {
+          "wrong": "இவவளவுக்கும்",
+          "right": "இவ்வளவுக்கும்",
+          "reason": "scan 6 clearly prints இவ்வளவுக்கும்"
+        },
+        {
+          "wrong": "௮ன்று மாலை",
+          "right": "அன்று மாலை",
+          "reason": "scan 6 uses Tamil அ"
+        },
+        {
+          "wrong": "நல்லாட்கியை",
+          "right": "நல்லாட்சியை",
+          "reason": "scan 7 clearly prints நல்லாட்சியை"
+        },
+        {
+          "wrong": "அமைத்துவிடடால்",
+          "right": "அமைத்துவிட்டால்",
+          "reason": "scan 7 clearly prints அமைத்துவிட்டால்"
+        },
+        {
+          "wrong": "நாம் மது கருத்தைப் பொது\n_ மக்களிடம்",
+          "right": "நாம் நமது கருத்தைப் பொதுமக்களிடம்",
+          "reason": "scan 8 clearly prints நாம் நமது கருத்தைப் பொதுமக்களிடம்"
+        },
+        {
+          "wrong": "தரிவேட்டையிலீடுபட்டு",
+          "right": "நரிவேட்டையிலீடுபட்டு",
+          "reason": "scan 8 clearly prints நரிவேட்டையிலீடுபட்டு"
+        },
+        {
+          "wrong": "தனி ௮ரசு",
+          "right": "தனி அரசு",
+          "reason": "scan 8 uses Tamil அ"
+        },
+        {
+          "wrong": "தளைகளை அ௮றுத்தெறிவோம்",
+          "right": "தளைகளை அறுத்தெறிவோம்",
+          "reason": "scan 9 clearly prints அறுத்தெறிவோம்"
+        },
+        {
+          "wrong": "என்று குளுரை கூறி",
+          "right": "என்று சூளுரை கூறி",
+          "reason": "scan 9 clearly prints சூளுரை"
+        },
+        {
+          "wrong": "தொடாந்து பயணம்",
+          "right": "தொடர்ந்து பயணம்",
+          "reason": "scan 9 clearly prints தொடர்ந்து"
+        },
+        {
+          "wrong": "கடைசித் தரமாகக்கருதும்",
+          "right": "கடைசித் தரமாகக் கருதும்",
+          "reason": "scan 9 clearly separates the words"
+        },
+        {
+          "wrong": "கெடலாகாது - இந்த பதலை அவ்ர் எமது முடிவு அமையும் என்று",
+          "right": "கெடலாகாது - இந்த முறையிலேதான் எமது முடிவு அமையும் என்று",
+          "reason": "scan 10 clearly prints இந்த முறையிலேதான்"
+        },
+        {
+          "wrong": "தோதல் பிரச்சனைக்கும்",
+          "right": "தேர்தல் பிரச்சனைக்கும்",
+          "reason": "scan 10 clearly prints தேர்தல்"
+        },
+        {
+          "wrong": "வேறு ஒட்டலைத் ் சேபலாமென்றால்",
+          "right": "வேறு ஓட்டலைச் சேரலாமென்றால்",
+          "reason": "scan 10 clearly prints ஓட்டலைச் சேரலாமென்றால்"
+        },
+        {
+          "wrong": "விதமாகாவே",
+          "right": "விதமாகவே",
+          "reason": "scan 11 clearly prints விதமாகவே"
+        },
+        {
+          "wrong": "4.6. கோபாலன்",
+          "right": "A.K. கோபாலன்",
+          "reason": "scan 13 clearly prints A.K. கோபாலன்"
+        },
+        {
+          "wrong": "திருச்சி கம்.யூனிஸ்டுத்",
+          "right": "திருச்சி கம்யூனிஸ்டுத்",
+          "reason": "scan 13 has no punctuation inside கம்யூனிஸ்டுத்"
+        },
+        {
+          "wrong": "தோழர் ,4..£. கோபாலன்",
+          "right": "தோழர் A.K. கோபாலன்",
+          "reason": "scan 14 clearly prints தோழர் A.K. கோபாலன்"
+        },
+        {
+          "wrong": "4.8 கோபாலன்",
+          "right": "A.K. கோபாலன்",
+          "reason": "scan 14 clearly prints A.K. கோபாலன்"
+        },
+        {
+          "wrong": "தோழர் 4.8 கோபாலனை",
+          "right": "தோழர் A.K. கோபாலனை",
+          "reason": "scan 15 clearly prints தோழர் A.K. கோபாலனை"
+        },
+        {
+          "wrong": "தி.மூ.கழகத்தைப்",
+          "right": "தி.மு.கழகத்தைப்",
+          "reason": "scan 14 clearly prints தி.மு.கழகத்தைப்"
+        },
+        {
+          "wrong": "அது தீருவதுகூட எளிது",
+          "right": "அது தருவதுகூட எளிது",
+          "reason": "scan 14 clearly prints தருவதுகூட"
+        },
+        {
+          "wrong": "தீந்துவிடக்கூடியதல்ல",
+          "right": "தந்துவிடக்கூடியதல்ல",
+          "reason": "scan 14 clearly prints தந்துவிடக்கூடியதல்ல"
+        },
+        {
+          "wrong": "இ௫க்கலாம்",
+          "right": "இருக்கலாம்",
+          "reason": "scan 14 clearly prints இருக்கலாம்"
+        },
+        {
+          "wrong": "மறுமூறை",
+          "right": "மறுமுறை",
+          "reason": "scan 15 clearly prints மறுமுறை"
+        },
+        {
+          "wrong": "மூன்னணியிடமே",
+          "right": "முன்னணியிடமே",
+          "reason": "scan 15 clearly prints முன்னணியிடமே"
+        },
+        {
+          "wrong": "தோதல் பிரச்சாரமும்",
+          "right": "தேர்தல் பிரச்சாரமும்",
+          "reason": "scan 15 clearly prints தேர்தல் பிரச்சாரமும்"
+        },
+        {
+          "wrong": "\nநீதி, - 99\n",
+          "right": "\n",
+          "reason": "scan 15 shows this as a running book footer, not article text"
+        },
+        {
+          "wrong": "ஐக்கிய -.\nமூன்னணியிலே",
+          "right": "ஐக்கிய\nமுன்னணியிலே",
+          "reason": "scan 16 clearly prints ஐக்கிய முன்னணியிலே"
+        },
+        {
+          "wrong": "தாம் சேருவது",
+          "right": "நாம் சேருவது",
+          "reason": "scan 16 clearly prints நாம் சேருவது"
+        },
+        {
+          "wrong": "இந்த விளக்கத்தைக் கேட் ட் கீழ்க்கண்ட",
+          "right": "இந்த விளக்கத்தைக் கேட்டபிறகு, கீழ்க்கண்ட",
+          "reason": "scan 17 clearly prints கேட்டபிறகு"
+        },
+        {
+          "wrong": "ஓத்துழைப்பை",
+          "right": "ஒத்துழைப்பை",
+          "reason": "scan 17 clearly prints ஒத்துழைப்பை"
+        },
+        {
+          "wrong": "இந்த ஐக்கிய முன்னணி அமைப்புக்கான 'குழ்நிலை'யைப்",
+          "right": "இந்த ஐக்கிய முன்னணி அமைப்புக்கான 'சூழ்நிலை'யைப்",
+          "reason": "scan 18 clearly prints சூழ்நிலை"
+        },
+        {
+          "wrong": "'குழ்நிலை' நிபந்தனையை",
+          "right": "'சூழ்நிலை' நிபந்தனையை",
+          "reason": "scan 19 clearly prints சூழ்நிலை"
+        },
+        {
+          "wrong": "அனைவரூ ம்",
+          "right": "அனைவரும்",
+          "reason": "scan 19 clearly prints அனைவரும்"
+        },
+        {
+          "wrong": "பொதுக்குழுக் கூட் டததிலேயும்",
+          "right": "பொதுக்குழுக் கூட்டத்திலேயும்",
+          "reason": "scan 19 clearly prints கூட்டத்திலேயும்"
+        },
+        {
+          "wrong": "காங்கிரசை ஓழிப்பது",
+          "right": "காங்கிரசை ஒழிப்பது",
+          "reason": "scan 19 clearly prints ஒழிப்பது"
+        },
+        {
+          "wrong": "திராவிடத்‌. தனி அரசு",
+          "right": "திராவிடத் தனி அரசு",
+          "reason": "scan 20 has no punctuation inside the phrase"
+        },
+        {
+          "wrong": "ஊறுதேடாது",
+          "right": "ஊறு தேடாது",
+          "reason": "scan 20 clearly prints ஊறு தேடாது"
+        },
+        {
+          "wrong": "்‌. என்பதற்காகவே",
+          "right": "என்பதற்காகவே",
+          "reason": "scan 21 has no stray OCR glyphs before என்பதற்காகவே"
+        },
+        {
+          "wrong": "இதுதான் டெ.ன்னான சந்தர்ப்பம்",
+          "right": "இதுதான் பொன்னான சந்தர்ப்பம்",
+          "reason": "scan 21 clearly prints பொன்னான சந்தர்ப்பம்"
+        },
+        {
+          "wrong": "அபேட்சகாகளை",
+          "right": "அபேட்சகர்களை",
+          "reason": "scan 21 clearly prints அபேட்சகர்களை"
+        },
+        {
+          "wrong": "இந்த.ஏற்பாடு",
+          "right": "இந்த ஏற்பாடு",
+          "reason": "scan 21 has no full stop between the words"
+        },
+        {
+          "wrong": "தி.மு.க.கூறும்",
+          "right": "தி.மு.க. கூறும்",
+          "reason": "scan 21 separates the abbreviation and verb"
+        },
+        {
+          "wrong": "உறுதி: ஒப்பந்தம்",
+          "right": "உறுதி ஒப்பந்தம்",
+          "reason": "scan 22 has no colon between உறுதி and ஒப்பந்தம்"
+        },
+        {
+          "wrong": "ஒருமுடிவு",
+          "right": "ஒரு முடிவு",
+          "reason": "scan 22 separates ஒரு and முடிவு"
+        },
+        {
+          "wrong": "பெரிதும்காண",
+          "right": "பெரிதும் காண",
+          "reason": "scan 22 separates பெரிதும் and காண"
+        },
+        {
+          "wrong": "(திராவிட தாடு - 25.11.51)",
+          "right": "(திராவிட நாடு - 25.11.51)",
+          "reason": "scan 22 clearly prints திராவிட நாடு"
+        },
+        {
+          "wrong": "மாண்பு கெடலாகாது\nசான்ற உறுதி இருப்பதால்",
+          "right": "மாண்பு கெடலாகாது\nஎன்ற உறுதி இருப்பதால்",
+          "reason": "scan 6 clearly prints என்ற உறுதி இருப்பதால்"
+        },
+        {
+          "wrong": "மனதாக வநீதது",
+          "right": "மனதாக வந்தது",
+          "reason": "scan 6 clearly prints வந்தது"
+        },
+        {
+          "wrong": "கொண்ட மூறையிலே",
+          "right": "கொண்ட முறையிலே",
+          "reason": "scan 6 clearly prints முறையிலே"
+        },
+        {
+          "wrong": "_ பொச்சரிப்புக்காரர்களும்",
+          "right": "பொச்சரிப்புக்காரர்களும்",
+          "reason": "scan 3 has no leading OCR underscore"
+        },
+        {
+          "wrong": "ஏற்பட்ட. அடக்கு முறைகளை",
+          "right": "ஏற்பட்ட அடக்கு முறைகளை",
+          "reason": "scan 3 has no full stop after ஏற்பட்ட"
+        },
+        {
+          "wrong": "கொடுங்கோன்மையை எதிர்க்கும்\n. உள்ள உரம்",
+          "right": "கொடுங்கோன்மையை எதிர்க்கும்\nஉள்ள உரம்",
+          "reason": "scan 3 has no full stop before உள்ள"
+        },
+        {
+          "wrong": "அதிகம் என்பது. பற்றியும்",
+          "right": "அதிகம் என்பது பற்றியும்",
+          "reason": "scan 4 has no full stop after என்பது"
+        },
+        {
+          "wrong": "'ஓட்டு' போடுங்கள். என்று",
+          "right": "'ஓட்டு' போடுங்கள் என்று",
+          "reason": "scan 5 has no full stop inside the quotation"
+        },
+        {
+          "wrong": "என்ற பேசிக் கொண்டு .\nவந்தவர்களுக்கு",
+          "right": "என்று பேசிக் கொண்டு\nவந்தவர்களுக்கு",
+          "reason": "scan 5 clearly prints என்று and has no stray full stop"
+        },
+        {
+          "wrong": "ஆட்சியைநீக்கிவிட்டு",
+          "right": "ஆட்சியை நீக்கிவிட்டு",
+          "reason": "scan 7 separates ஆட்சியை and நீக்கிவிட்டு"
+        },
+        {
+          "wrong": "அவருக்கு\nவேற பல",
+          "right": "அவருக்கு\nவேறு பல",
+          "reason": "scan 8 clearly prints வேறு"
+        },
+        {
+          "wrong": "தனிஅரசு",
+          "right": "தனி அரசு",
+          "reason": "scan 8 separates தனி and அரசு"
+        },
+        {
+          "wrong": "இந்தநிலை",
+          "right": "இந்த நிலை",
+          "reason": "scan 9 separates இந்த and நிலை"
+        },
+        {
+          "wrong": "வேறு\nஒட்டலைத் ் சேபலாமென்றால்",
+          "right": "வேறு\nஓட்டலைச் சேரலாமென்றால்",
+          "reason": "scan 10 clearly prints ஓட்டலைச் சேரலாமென்றால்"
+        },
+        {
+          "wrong": "கபேயில்-சாப்பிட் டுச் சாப்பிட்டு",
+          "right": "கபேயில் சாப்பிட்டுச் சாப்பிட்டு",
+          "reason": "scan 10 has no OCR spacing artifacts in the phrase"
+        },
+        {
+          "wrong": "கிருபளானிகபே",
+          "right": "கிருபளானி கபே",
+          "reason": "scan 10 separates the name and கபே"
+        },
+        {
+          "wrong": "தெரிவிக்கவேண்டும் -:",
+          "right": "தெரிவிக்கவேண்டும்",
+          "reason": "scan 11 has no trailing OCR punctuation"
+        },
+        {
+          "wrong": "இதனை மதுரைப் பொதுக்குழு:",
+          "right": "இதனை மதுரைப் பொதுக்குழு",
+          "reason": "scan 11 has no colon after பொதுக்குழு"
+        },
+        {
+          "wrong": "பாராட்டுதலையும்.நன்றியறிதலையும்",
+          "right": "பாராட்டுதலையும் நன்றியறிதலையும்",
+          "reason": "scan 13 has no full stop between the nouns"
+        },
+        {
+          "wrong": "கம்யூனிஸ்டு நண்பர்\nகளெல்லாம்",
+          "right": "கம்யூனிஸ்டு நண்பர்களெல்லாம்",
+          "reason": "scan 13 joins நண்பர்களெல்லாம் across the line break"
+        },
+        {
+          "wrong": "உடனேஜனநாயக",
+          "right": "உடனே ஜனநாயக",
+          "reason": "scan 14 separates உடனே and ஜனநாயக"
+        },
+        {
+          "wrong": "நண்பர் ஜிவானந்தம்",
+          "right": "நண்பர் ஜீவானந்தம்",
+          "reason": "scan 14 clearly prints ஜீவானந்தம்"
+        },
+        {
+          "wrong": "பற்றிநான்",
+          "right": "பற்றி நான்",
+          "reason": "scan 15 separates பற்றி and நான்"
+        },
+        {
+          "wrong": "ஐக்கிய முன்னணியே. தேர்தலில்",
+          "right": "ஐக்கிய முன்னணியே தேர்தலில்",
+          "reason": "scan 15 continues the sentence without a full stop"
+        },
+        {
+          "wrong": "_ தொகுத்து, சுருக்கி",
+          "right": "தொகுத்து, சுருக்கி",
+          "reason": "scan 6 has no leading OCR underscore"
+        }
+      ],
+      "tokenCorrections": []
+    },
     "katturaigal/nangal_kattada.md": {
       "phraseCorrections": [
         {

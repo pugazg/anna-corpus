@@ -1,4 +1,10 @@
-# katturaigal/uruthi_koor
+# உறுதி கூறுவீர்! உதவி பெறுவீர்! / Give Your Assurance! Receive Our Help!
+
+**Tamil title:** உறுதி கூறுவீர்! உதவி பெறுவீர்!  
+**English title:** Give Your Assurance! Receive Our Help!  
+**Source file:** `katturaigal/uruthi_koor.md`
+
+## Source Tamil (verbatim)
 
 - Source image folder: `/Users/pugazhendhirajendran/Documents/Codex/2026-07-09/https-www-annavinpadaippugal-info/outputs/annavin_text_extractor/ocr_images/katturaigal/uruthi_koor`
 - OCR language: `tam`
@@ -846,3 +852,177 @@
 கம்யூனிஸ்டுக் கட்சியிடமிருந்து நேசக்கரத்தை எதிர்பார்க்கிறோம்.
 
 (திராவிட நாடு - 25.11.51)
+
+## English Translation
+
+The sound of the election wave is sweeping across the country. Both the public and the parties that work in constant contact with them have temporarily set aside various other problems and been compelled to focus on the election; so powerful has the election wave become. People believe that this election will provide remedies for many problems. Since numerous parties proclaim that fascism, autocracy, bribery, the black market and capitalism can all be abolished through this election, the public eagerly asks whether the misery of receiving only six ounces of grain will end, whether they will escape the grip of rulers who govern unjustly, and whether the cruelty of black-market vultures growing fat by tearing apart the freedom they won will cease. They therefore pay intense attention to the election.
+
+This election is indeed important. There are more voters than ever before. And that is not all. Many new parties, bearing names I have never heard before, have sprung up. "Vote for me and you shall have Indra's heaven! Vote for me and you shall enjoy incomparable bliss!" they proclaim, or rather, shout. How? By what plan? The public has no time to ask. Who are these speakers, and what was their former position? There is no time to investigate. Promises therefore continue to pile up before the people.
+
+The disorder of the present Congress government has emboldened all kinds of parties to approach the public freely, announce plans boldly and demand votes as a right. Even people with no history of party work can now beat their chests before the public and declare what they will accomplish if given the vote. Congress rule has earned the people's hatred; that is plainly visible. Anyone can form a party and enter the election arena. Many do not even need a party: they set out with nothing but the word "I." The number of parties and individuals entering the contest is initially astonishing. A moment's thought, however, reveals how much opposition Congress rule has created. The country seems to say: let anyone come to power, so long as the Congress administration that has driven the nation toward ruin disappears.
+
+This condition displays the opposition to Congress rule. At the same time, it shows that democracy has not yet acquired a sound, orderly and effective form. So many parties, including parties born solely for the election season, arise because no democratic situation has developed in which the public can clearly identify the established opposition parties. Congress, terrified by the people's anger, secretly smiles at this fragmentation. Adapting Bharathidasan's words on another matter, it tells itself: if forty-five million people live here, let the number of parties grow to match them; when will they unite, and when will they ever overthrow us? Congressmen place great confidence in this situation.
+
+Except for political innocents, embittered detractors and malicious minds, everyone knows that the Dravida Munnetra Kazhagam maintains closer contact with the public than any other party.
+
+The angry complaints themselves prove it: "They enchant people with ornamental rhetoric; they sing and bewitch them; they stage performances and gather crowds." Such accusations make clear the immense reach of the DMK among the people. If the detractors would restrain their irritation even briefly in order to know the truth, we would tell them this: during the past two years the DMK has conducted the greatest number of public meetings, conferences and cultural programmes; it has carried the seed of political activity into hamlets and villages previously untouched by political currents; it has built more than six hundred branches staffed by capable functionaries who work with a sense of duty; and while doing all this, it has endured repression ranging from baton charges to gunfire. No honest person can deny that the DMK played the major part in creating the present widespread public hostility to the government. We possess no medicine, however, for the prejudices of others.
+
+Judged by ordinary democratic standards, everyone knows that it was the DMK that repeatedly explained the evils of Congress rule to the people, awakened them, brought them together, clarified public issues and built a front with the inner strength to oppose tyranny. Throughout this work it did not betray politics, grin submissively before the wealthy, or grow weary of sneers that its members came "powdered, singing and dancing." A few deny this only because they are captive to their private likes and dislikes.
+
+No one can therefore deny that the DMK has the strongest right to enter the electoral arena and oppose Congress. There is no need to argue that its right is greater than that of other parties, or that its prospects of victory are better. Congress leaders repeatedly said, "What is all this vigorous campaigning for, if not to contest elections?" Those in our former organisation said, "Why a separate Kazhagam? It is merely an incurable hunger for elections." Their own words suffice to demonstrate that the DMK has a greater right and opportunity than anyone else to enter the election and win many victories.
+
+Yet the DMK will not contest.
+
+Parties that arose only after the word "election" was heard now beat their chests, while the DMK, which maintained constant contact with the people and strongly condemned Congress rule, will not participate.
+
+Many whose connection does not extend even across the constituency in which they stand have come forward. The established DMK, whose branches flourish in every district, circle, town, village and hamlet, will not enter the election.
+
+Even those who say, "We can decide later whether it is this constituency or that one; submit applications for both," are contesting. The DMK is not. Why?
+
+Many among the public, most Congressmen, some in other parties and a very few within the DMK itself ask this question. It is a natural question.
+
+The DMK General Council meeting held in Madurai this month has supplied the final answer. After many hours of debate, strong currents of opinion and explanations of the circumstances, it reached a unanimous decision: we will not field candidates or participate in the election.
+
+The public and other parties had confidently predicted that a prosperous and growing force such as the DMK would certainly contest. Until the day before the General Council met, however, DMK speakers, writers and officials had consistently told the public: "We will not enter the election. We will not ask you to vote for us. Our propaganda is not for office or for seats in the legislature." The Council's decision was therefore no surprise to them. Those who hoped desire would draw the DMK into the contest at the last moment may find the decision exhausting. Those who claimed from fear that all our speech and travel were merely a hunt for votes may sigh, "At last, no trouble!" But DMK members will not be startled. They will be satisfied. The public will see that the organisation has kept its word, that it is honourable and does not conceal one intention while displaying another. This will certainly enhance the dignity of our Kazhagam.
+
+The election wave has not shaken us. We have not altered our word. Fickleness has not conquered us.
+
+Although even our opponents admit that we have a chance of victory, we have declined to contest because we are resolved that our honour must not be diminished.
+
+This dignity will grow as the noise of the election wave subsides, and it will endure. My heart was therefore full when the General Council reached this decision unanimously. I firmly believe every DMK member will respect it, and I humbly and affectionately request that no one act in a manner that damages the organisation's dignity. Before the Council's decision became known, someone may have begun electoral preparations out of enthusiasm or in anticipation of a different outcome. I ask them to withdraw. To damage the organisation's honour for electoral gain would be like selling one's eyes to buy a painting. The DMK is not an election shop; it is a movement that will continue after January. To remain within it and serve the people is nobler, purer and more honest than kicking it aside to become an "Honourable" member.
+
+Forty-five comrades addressed the General Council on the election with both emotion and intellectual clarity. No speech showed irritation or abuse; each speaker examined the issue from a public standpoint. This genuinely delighted me. I spoke last and very briefly, not to impose a conclusion but to collect, condense and present the positions expressed by all the comrades. Only after all this did the Council resolve not to contest. That evening at the Madurai public meeting, after hearing the Council members' views, I explained why. I summarise that explanation here.
+
+There is a fundamental difference between other political parties and the DMK, although it is not easily explained.
+
+Every political party aims to remove bad government and establish good government. Their common cry is: this party has produced bad rule; support us, and we shall remove it and establish good rule.
+
+The DMK too seeks to remove bad rule and establish good government, and wishes to labour for that purpose. But that is not all. It has also placed before the public another, larger and more fundamental principle.
+
+Other parties say that the people's decline is caused by bad administration and the party responsible for it, and that changing the government or its methods will end their suffering. In other words, they say it is enough to change the ruling party or the manner of administration within the existing state. We agree that such change is necessary: the rule of destroyers must end, good people must govern, and we must work toward that end. The DMK wishes to do this, but we say emphatically that this alone is not enough.
+
+Many parties seek reform within the existing state. The DMK holds the distinct principle that the state we lost must be recovered.
+
+Some parties may regard this as unnecessary, and indeed do so.
+
+Kamaraj says on behalf of Congress that he cannot understand this demand. We can understand him; we know there are many other questions he cannot understand. It is hardly surprising that a man who does not understand the people cannot understand the question of Dravida Nadu.
+
+Whatever other parties may think of a separate Dravidian state, for many years we have stated our position clearly to the public. Establishing a separate Dravidian state is our goal.
+
+It is useless to consider only the disorder in the administration and suppose that changing it will suffice. We shall change that too, but without forgetting which is our country, who are our people, what our history was and what our future ought to be. We must address temporary issues without departing from that ideal.
+
+A temporary issue must not harm our fundamental cause. We must not drown in a temporary problem and forget the basic one. Our view and action on an immediate issue must not damage our central cause; on the contrary, they must strengthen it.
+
+We must not become absorbed in hunting the fox and forget the hunt for the tiger. We shall chase away a fox encountered on the road to the tiger hunt, but must not mistake the fox for the tiger and imagine the hunt completed.
+
+We made the separate Dravidian state the anthem of our movement. We are Dravidians, a people who once lived with distinction, yet today an all-India ruling group calls us merely "Madraswallahs." Our history is a record filled with victories; under northern rule we now lie impoverished. For years we laboured to awaken awareness of our people and of the distinctive, beautiful state that once existed. Today we see thousands of tireless workers taking the vow: we shall recover the happiness we lost, reclaim the land of our fathers, establish our own government and break the bonds of our sacred motherland. The election must not obstruct their ideal journey. The journey toward the city of joy must not stop, whether a grove where cuckoos sing appears along the way or shattered skulls lie before us. The journey must continue without pause.
+
+No intervening issue may block that journey. We must decide every temporary question in that spirit and with that aim. Other parties do not occupy this position. For the DMK to forget it would be to lose its life.
+
+Changing an administration is not the same as establishing a state. Those who seek a state will not ignore the work of changing a government, but they will not drown in that task.
+
+Creating a new social condition through propaganda is another matter that other parties rank last but that is supremely important to us. Our measure for deciding questions such as elections therefore differs from theirs.
+
+Should the present bad government be removed in this election? Yes, we say. But we immediately add that while today's evil must end, the anthem in our hearts must suffer no harm. Our decision must satisfy both requirements.
+
+The issue cannot be understood through the electoral lens alone.
+
+My eye doctor tells me that I require spectacles combining one section for reading and another for distant vision. The DMK asks for spectacles of that kind: clarity for the election question and clarity for the fundamental question. It wants today's course to preserve both aims.
+
+A doctor tells a man with stomach pain, "Hotel food will ruin your body. Home cooking is healthy." The patient replies, "I am unmarried and came to this town in search of a livelihood." The doctor then offers a temporary remedy: at least change the hotel where you now eat and find another. I extend this example not in mockery. After repeatedly eating at Nehru Cafe, one's health has failed. If the voter seeks another hotel, many new signboards appear: Kripalani Cafe, Jai Vilas, Jeevanandam Military Hotel, a water booth, a place selling consecrated food, and many more. Voters are now considering which one to choose. Like the doctor, we remind them: whichever hotel you choose, dear friend, never forget that nothing equals food cooked at home.
+
+Had we entered the election ourselves, this difficulty would not have arisen. But participation would have destroyed our honour.
+
+Moreover, this general election is being conducted under the Constitution of India, drafted by Congress through its autocratic conduct. While it was being framed, it was neither explained to nor debated by the public; only the finished decision was announced. Dravidian opinion was not sought, and Dravidians were denied entry. The Constitution injures their vital rights. We condemn it and are resolved to escape it by establishing a separate Dravidian state. We must make our condemnation known to the world. Abstaining from the first general election held under this Constitution is our means of doing so. With this aim we will not participate. The Madurai General Council expressed it in this resolution:
+
+"As a mark of the Dravida Munnetra Kazhagam's condemnation of the Constitution of India, which was prepared without ascertaining Dravidian opinion, in a manner injurious to the vital rights of Dravidians and through the autocratic procedure of a single party, the DMK resolves not to field candidates or participate in the first general election conducted under that Constitution."
+
+Everyone will agree that this resolution clearly explains our position and thought. We remain bound to the fundamental issue. Thus, even amid the temporary issue of the election, we adopted this resolution so that we would not lose our basic cause.
+
+Through other resolutions the General Council also clarified our view of the temporary issue.
+
+The election can certainly be used to replace today's bad administration with good government. To that extent and in that manner we care about it. Every section of the country hates Congress rule. This is evident not merely from speeches by non-Congress parties, but also from statements by people who belonged to Congress until yesterday.
+
+Perhaps nowhere else has a party once welcomed and acclaimed deteriorated so greatly and earned so much public hatred within four years. Jawaharlal Nehru could not maintain dominance even as long as the Chinese dictator Chiang. Shock treatment has failed. The determination to defeat Congress has spread everywhere.
+
+The DMK has been telling the people that Congress must be defeated. It campaigns for voters to support honourable non-Congress candidates in this election. It has also insisted that the public itself must think deeply and decide whom to support.
+
+When General Council members offered their views, many stressed that the DMK must show the public what course to adopt.
+
+Among the many non-Congress parties contesting the election, none appears to accept the DMK's fundamental programme. Each seeks friendship and emphasises the necessity of overthrowing Congress, but none offers support for a separate Dravidian state. Many members pointed this out and regretted the situation.
+
+The general election offers an opportunity to defeat Congress, and the DMK does not wish to lose it. At the same time, it cannot accept the silence of parties that invite unity against Congress but say nothing about supporting a separate Dravidian state.
+
+At this point I told the Council about the several conversations Communist leaders had held with me. I had not previously disclosed them to the organisation or the public, so I do so now. Had I written or spoken earlier, I might have filled the Council members' minds with my own view before they deliberated. I believe this democratic restraint necessary.
+
+Communist comrades A.K. Gopalan and P. Jeevanandham discussed the general election with me. The Communist comrade Parthasarathy of Kanchipuram also spoke with me. The Tiruchi Communist comrade Kalyanasundaram wrote expressing appreciation and gratitude for the DMK's condemnation of government repression against Communists. For several months, leading Communist friends in the towns I visited for propaganda had discussed the election with me. I understand that Communist comrades elsewhere similarly spoke with many DMK comrades.
+
+After A.K. Gopalan was released, local Communist friends organised a reception for him in Kanchipuram and invited me. Because Section 144 was then imposed on the Communist Party in the town, the meeting took place upstairs in a building.
+
+I spoke in praise of Comrade A.K. Gopalan. He praised the DMK and urged the Dravidar Kazhagam, DMK and Communist Party to form a united front and defeat Congress. I was pleased. But remembering that I belonged to a democratically functioning organisation, I replied that we must discuss the matter and decide collectively; I could not immediately say yes or no. I also explained the situation.
+
+I used an omelette analogy. Comrade Gopalan says, "I wish to make an omelette. One egg I possess is insufficient; give me yours." That is, his party's votes alone will not ensure electoral victory, so he asks for our members' votes. Giving an egg might be easy, though even then the question might arise as to each party's share of the omelette. But if he asks not merely for the egg but for the hen that lays it, meaning the support of the organisation itself, that is not mine to give. I must know the members' view. My friend Gopalan might say that some have handed over the hen without such discussion. Perhaps it was a hen that laid no eggs; I do not know. He agreed that we should all discuss the matter and decide.
+
+My friend Jeevanandham came to talk perhaps four times. He is an unforgettable link between the Communist Party and us. We spoke freely about many subjects. He praised the DMK's public reach, condemned the petty rebuttals thrown by its opponents and welcomed its growth. He explained that the strength of this movement, the Dravidar Kazhagam, the Communist Party and other progressive organisations should be gathered into a united front to overthrow Congress. I said the proposal was fundamentally just and necessary. He cited united fronts that had won victories in several parts of the Indian subcontinent and the world.
+
+Jeevanandham's enthusiasm delighted me. I welcomed this friendship as a sign that the former bitterness between the two movements was disappearing and progressive thought was growing. I then asked about the proposed front's structure. What was its purpose? Who would belong to it? How long would it function, and how? I explained that the DMK is not an organisation that merely stamps decisions already made, but one wholly committed to democratic rights. He respected this reasoning and said he would return.
+
+On three later occasions he discussed the matter with growing enthusiasm. He said the front would contain the Dravidar Kazhagam, DMK, Communist Party, Civil Liberties Party and Progressive Writers' Association; this united front would decide who should stand where, collect and spend election funds, and take responsibility for campaigning. These were the explanations I had requested, and I was satisfied. But I asked whether the units and parties entering it would agree to respect and recognise one another and work collectively. Would the Dravidar Kazhagam agree? He said it had not, but that he was trying. I replied that we could begin further action once the result of that effort was known. I raised the Dravidar Kazhagam because, before sitting together in a front, the participants must make clear how they regard and treat one another. Only then can the work proceed usefully.
+
+After many efforts, Jeevanandham met me in Madras on the afternoon of the united-front conference and revealed a fact that removed even the need for me to consult the DMK about joining. The Dravidar Kazhagam did not want the DMK in the front, and Periyar would neither respect nor recognise it. Jeevanandham nevertheless urged me to disregard that and consider the public issue, join the front and turn the situation to advantage.
+
+I said that was impossible. If we joined while enduring the Dravidar Kazhagam's abuse, our people would not agree. He observed that youthful ardour would naturally exist. I reminded him: "Yes, like the ardour you had at the time of the Thiruthuraipoondi conference, when you separated from Periyar!" He reminded me that this was a time of crisis. I explained that friendship cannot be built with a burden in the heart. I said the whole matter would be discussed and decided by our General Council. "Do it quickly," he replied. "I will not let go. I will come as many times as necessary. Even if you seize me by the neck and push me away, I will return. We must succeed in this." I rejoiced at his goodwill and affection.
+
+I placed these details before the General Council. After hearing the explanation, it adopted the following resolutions:
+
+"Having heard the General Secretary report the discussions held with Communist Party leaders who approached him seeking the DMK's support and cooperation and proposing a united front, and having heard the conditions requested for such a front, this committee approves the General Secretary's position.
+
+"The General Council resolves that in this election the DMK shall support Communists and honourable, capable non-Congress progressives. Candidates seeking such support shall submit applications to headquarters, sign the agreement specified by headquarters, and receive the General Secretary's approval before being supported.
+
+"The General Council resolves that the General Secretary shall present at the State Conference the list of candidates receiving DMK support. Until then, DMK comrades shall neither campaign nor work for any party or individual."
+
+**Agreement**
+
+"I stand in the coming general election as a candidate for the Legislative Assembly / Parliament in the ______ constituency on behalf of the Communist Party / as an independent. I seek the support of the Dravida Munnetra Kazhagam. I support the demand for a separate Dravidian state.
+
+"If elected to the Legislative Assembly / Parliament, I shall work there on the above issue and seek support for the DMK's policy. I assure that I shall work in the Legislative Assembly / Parliament to secure support for programmes issued by the DMK to abolish exploitation and autocracy."
+
+Our desire is to defeat Congress in the general election. I believe that forming a united front with the Communist Party will lead to victory.
+
+Because the working method of such a front would depend on the circumstances surrounding its formation, I strongly insisted on a condition concerning that environment. Comrade Jeevanandham has said it could not be fulfilled. We therefore had to find another way.
+
+A united front composed of many units that neither like nor recognise one another cannot succeed. Suspicion will arise every minute and conflict with every incident, until the front becomes almost like the United Nations. Realising this, I strongly pressed Jeeva on the condition concerning the circumstances. Once it proved impossible, neither the General Council nor I declared our effort finished. We have offered an easier arrangement, one on which the Communist Party alone need reflect and decide.
+
+Everyone knows my friendship with the Communist Party, dating even from my years in the Dravidar Kazhagam. I supported the Communists during the railway strike and the peasant agitation. I have felt proud when people complained that the journal *Dravida Nadu* carried a Communist scent. News that Communists had been shot dead in Salem prison pierced my heart, and wherever I went I never failed to condemn it. I repeat here what I said at the General Council: among parties, it is the Communist Party that I wish to support.
+
+I therefore describe the Madurai resolution as the DMK's invitation to the Communist Party to defeat Congress.
+
+Our desire for a separate Dravidian state is not an atom less intense than our desire to defeat Congress. Eliminating Congress is a temporary issue. Establishing a separate Dravidian state is the fundamental one.
+
+The DMK comes forward to support the Communist Party on the temporary issue, but it firmly holds that such support must strengthen the DMK's fundamental cause.
+
+That is why the resolution demands a promise and agreement accepting the separate Dravidian state and undertaking to work in the legislature to seek support for it.
+
+The Communist Party is not contesting every seat. Independents stand in many places. In constituencies where Communists do not contest, the resolution permits support for honourable non-Congress independents who sign the DMK agreement.
+
+At Communist public meetings, party members say that they support the reorganisation of provinces by nationality, a question akin to the separate Dravidian state. Giving in writing the assurance, "I accept the demand for a separate Dravidian state," can do the Communist Party no harm, nor is it a great price for DMK support.
+
+The promise to work in the legislatures to obtain support for the DMK's demand need not even be regarded as a condition imposed on the Communist Party. It is a rare opportunity for the Communist Party and DMK to remain friendly parties and work together after the election.
+
+These resolutions were not framed to evade cooperation or to bind and control independents. They seek an honest electoral partnership between the Communist Party and the DMK. An unstructured alliance that merely cries, "In the name of the youths whose bodies fell in Salem prison, come, let us defeat Congress," would be a wild flood and yield no result. Honest cooperation will culminate in friendship and produce tangible benefit.
+
+The DMK has extensive public contact and support, disciplined working camps throughout the land, and an admitted capacity to win if it contests. That organisation extends its hand of friendship, seeks honesty and warmly calls the Communists to defeat Congress. It says: this is the golden opportunity; do not lose it.
+
+Jeevanandham told me that, in response to a request from the Dravidar Kazhagam, the Communists would refrain from fielding candidates in certain constituencies. Such an arrangement may have been considered necessary to defeat Congress. I do not ask whether it is just. The DMK's condition, agreement and assurance are no more difficult than such arrangements and cannot harm the Communist Party.
+
+I therefore ask the Communist Party immediately to sign the DMK assurance, demonstrating its genuine change of heart to the country, delighting the hearts of thousands of Dravidians and striking fear into Congress fascists. By that signature, let it also sign the death warrant of Congress rule.
+
+Who would agree to make an organisation that has grown at unparalleled speed, overcome many obstacles and earned everyone's praise follow and labour behind another party without conditions or protection for its fundamental cause? Even if the support we gained and the strength we assembled do not serve our own organisation, we are happy for them to serve our friendly Communist Party. But can there be no limit, plan, assurance or agreement at all?
+
+Communists themselves conduct a political party. They are people who have shed tears and blood for it, and therefore know that a party's dignity must be protected. We ask them to consider whether, at a time like this, a decision can be made without thought.
+
+The Communists need time to deliberate, and we need time to decide among the independents seeking our support in constituencies where Communists do not stand. That is why I intend to complete this preliminary work before the State Conference and publish there the list of candidates receiving DMK support.
+
+I wish above all to see the names of Communist Party comrades on that list. The DMK's position is now clear. We await the Communist Party's hand of friendship.
+
+(*Dravida Nadu*, 25 November 1951)
