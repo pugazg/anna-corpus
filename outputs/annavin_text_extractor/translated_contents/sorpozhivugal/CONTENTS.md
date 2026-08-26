@@ -55,7 +55,7 @@ Total source works: 537
 - [sorpozhivugal/aabasa170259_2](aabasa170259_2.md) - translated
 - [ஆளும் பொறுப்புக் கிடைத்தால்](aalum_poruppu_kidaithal.md) - pending
 - [sorpozhivugal/aalunar090259](aalunar090259.md) - pending
-- [sorpozhivugal/aalunar110860](aalunar110860.md) - pending
+- [sorpozhivugal/aalunar110860](aalunar110860.md) - translated
 - [sorpozhivugal/aalunar130258](aalunar130258.md) - pending
 - [sorpozhivugal/aalunar_vivath](aalunar_vivath.md) - pending
 - [ஆளுங்கட்சிக்கு அறைகூவல்](aalunkatchikku_araikooval.md) - pending

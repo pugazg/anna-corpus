@@ -1,4 +1,10 @@
-# sorpozhivugal/aalunar110860
+# ஆளுநர் உரை மீதான விவாதம் / Debate on the Governor's Address
+
+**Tamil title:** ஆளுநர் உரை மீதான விவாதம்  
+**English title:** Debate on the Governor's Address  
+**Source file:** `sorpozhivugal/aalunar110860.md`
+
+## Source Tamil (verbatim)
 
 - Source image folder: `/Users/pugazhendhirajendran/Documents/Codex/2026-07-09/https-www-annavinpadaippugal-info/outputs/annavin_text_extractor/ocr_images/sorpozhivugal/aalunar110860`
 - OCR language: `tam`
@@ -655,3 +661,113 @@ not’ also. ஆகவே, ஆணை பிறப்பித்தும் இ
 எண்ணுகிறேன் - பேருக்கு உரை என்று இருப்பதால், அதைப்
 பாராட்டவே, அதைக் கண்டு மகிழ்ச்சியடையவோ இடம் இல்லை
 என்று சொல்லிக் கொள்ளுகிறேன்.
+
+## English Translation
+
+Speech No. 39, 11 August 1960
+
+**C. N. Annadurai:** Mr Speaker, in this debate on the Governor's Address, my colleagues in the party have already explained the range and complexity of the matters I intended to raise, greatly lightening my burden. Members who opposed us have likewise pointed out deficiencies in the Address, though they concluded by saying that they nevertheless welcomed it. My task has therefore diminished. More importantly, when I see how little the ruling party, including the ministers, attends to the views we express, I wonder whether any purpose is served by speaking at length.
+
+The Governor repeatedly urges all parties to act together, without likes, dislikes or a partisan outlook, and thereby bring distinction to this State. Ministers themselves explain this whenever it comes to their notice. Yet every view offered on behalf of our party is mocked and treated with irritation. This ministry and the ruling party show no concern for examining earlier actions and recognising deficiencies honestly pointed out. I deeply regret this.
+
+Although the Governor's Address says that all conditions are satisfactory, even he does not state this without qualification. Those who govern cannot feel that the present condition is adequate or satisfactory, because many difficulties persist. The Governor says repeatedly that unless prices are controlled, people's standard of living will fall and their difficulties will increase. People outside this Assembly placed this Government in office believing that it existed to control rising prices. Yet ministers speak like people in the bazaar, by the roadside or beside the hearth, while seated in authority asking, "Prices must be controlled." To whom are they saying this?
+
+We raise these matters here precisely because they hold office. They disregard the views expressed in this chamber instead of considering them. If they pay no attention when we speak inside, will they listen when we speak outside? A party that appears very strong strengthens not merely itself but its government and the country when it carefully considers the deficiencies identified by other parties. If it imagines its strength cannot be shaken and treats opposition parties lightly, I respectfully remind it to read in its leisure the history of governments, including authoritarian governments operating in democracy's name, that have been overthrown.
+
+When we examine the measures taken to reduce prices, the Government merely repeats that prices have risen. It cannot provide figures showing what specific action it has taken. Congress whip Karuthiruman spoke as though only the prices of paddy and rice had risen. Reducing food prices does not mean lowering only paddy and rice; it includes reducing the cost of tools that cultivators use in production. Karuthiruman argued that if paddy and rice prices fell, cultivators would be unable to buy spades, ploughs and other implements and would become inactive. No one argues that cultivators should be rendered inactive. I say this to him and, through him, to others.
+
+I regret that neither rulers nor their economic advisers have properly explained why prices have kept rising over the past ten or fifteen years. A few days ago economists met the Prime Minister in Delhi to discuss the causes, yet their published discussion revealed no agreement among themselves. In so difficult a problem, the Government should consider opposition criticism and consult us in devising remedies. Merely inserting twice in the Governor's Address that prices must be reduced will not reduce them.
+
+Unless the necessary measures are taken, no number of plans, consultations with great experts, foreign loans or gifts, or tax burdens imposed on our people will make those plans fully successful. They will yield no good result. This Government cannot escape the charge that it has failed to control prices.
+
+The Congress whip asked, "Where were you during the freedom struggle?" He spoke as though he had been assigned to recruit people for that struggle, had searched for us without finding us, and had been given the title of commander. When so many others become commanders, there is no fault in Karuthiruman becoming one too. But I was where your Manickavelu was; where your Haja Sheriff was; where your C. R. Ramasami was; and where your Raja Sir Muthiah Chettiar was. Those men are now in your party while we are in the opposition, and that alone enabled a person holding responsibility to speak as he did.
+
+**C. R. Ramasami:** Sir, I was never a member of the Justice Party.
+
+**C. N. Annadurai:** The honourable Ramasami strengthens my argument. At that time he was not even in the Congress Party.
+
+*(K. S. G. Haja Sheriff rose.)*
+
+**C. R. Ramasami:** I have been in Congress since 1938.
+
+**Speaker:** If any Hon. Member wants clarification I will give a chance to him at the end of the speech of the Hon. Member Sri Annadurai. So let Hon. Members do not disturb him please.
+
+**C. N. Annadurai:** All those gentlemen now support the ruling party's plans. Some suppress the disquiet in their minds for political decorum, party discipline, or fear of losing privileges. Congress embraces them for that reason, yet its whip asks us, "What did you do then?" Yesterday he displayed his knowledge of the Ramayana by speaking of Angada and Ravana.
+
+Because I have not studied the Ramayana so deeply, I do not know Ravana's answer to Angada. But I imagine he might have asked, "Fool, standing beside your father, have you come to speak so boldly?" Even if that was not written then, it may now be inserted, and I offer it to the Ramayana expert. If we begin drawing authorities from old legends, there will not be enough time in the House; with sufficient time, everyone can draw interpretations so unsettling that even the authors would tremble. I do not pursue those matters here because they belong elsewhere. We should respect people as people, not attach a tailed figure such as Angada, Vali or Sugriva to every place.
+
+Second, the Governor's Address refers to the country's language problem. Members of my party have explained it fully here. I regret that ministers have failed to consider even that sympathetically. I warmly welcome the views expressed by Sardar Vedaratnam. By "welcome," I do not mean that I support them; I welcome the fact that he spoke openly. I can understand such people. Whether their argument is right or wrong, and whether it should be accepted, are separate questions. They state openly what is in their hearts and act directly rather than covertly.
+
+Instead of showing that candour, ministers and ruling-party members avoid acknowledging that, through efforts to reach a common position on language, a grave crisis was averted. The world had watched closely, fearing disaster; the black-flag demonstration was abandoned. They cannot utter one word of appreciation, perhaps because they fear that doing so would strengthen our party. Yesterday the Congress whip instead said that we had surrendered. That statement can only intensify the problem, perhaps because that is what they desire.
+
+Human beings, politicians included, are moved by emotion. The ruling party should examine whether those emotions rest upon just grounds and respect them. Pouring oil upon a fire by saying, "You have surrendered," runs directly counter to the statesmanship practised by their greater leaders. I fear this reveals the difference between those leaders and these men.
+
+If the whip thinks he won honour or glory for his party by telling us we had surrendered, he should read the Finance Minister's statement to the press. People such as Karuthiruman might otherwise wrongly conclude that the Finance Minister surrendered. The Minister invited members of this party and others holding different views on Hindi to meet and discuss the matter. He could instead have replied in one sentence: "Their path is wrong; the law will do its work." The protection of law and the police force are entrusted to the Government. But because he is also Education Minister and has studied many lessons, he invited reporters and explained the issue.
+
+I humbly ask the Congress whip: did the Finance Minister surrender? Or does the whip imagine that he alone must defend the party's prestige more zealously than the Minister? I cannot understand why others should rush forward. I repeat that only one knot in the problem has been loosened; it has not been completely solved.
+
+As the Finance Minister's statement indicates, uncertainty remains over whether the President's Order and Pandit Nehru's assurance contradict one another. It remains an opinion rather than a matter that can be asserted decisively. Recognising this, the Finance Minister said in effect: "I examined it closely and found no contradiction. You need not accept my judgment, and I should not impose it upon others. I therefore asked two senior officials; they supported my view. If that is still insufficient and disagreement remains, let us consult independent experts." I greatly appreciate the kindness and statesmanship in that proposal. I am glad he acquired this diplomatic sense even before travelling abroad.
+
+**R. Venkataraman:** Does statesmanship exist only abroad? Do we not possess it here?
+
+**C. N. Annadurai:** Our Industries Minister took my phrase "before travelling abroad" as praise of foreign statesmanship. Had he patiently heard my next sentence, he would not have interrupted. I praised the fact that this sense of statesmanship came before the journey. I also wished to warn him not to return having learned the foreign diplomatic practice of saying something merely to manage opposition.
+
+True statesmanship is to examine what opponents sincerely say and consider it with affection and accommodation. The Minister's statement was framed in that spirit, and our hearts moved a little. But if the Congress whip imagines that his speech yesterday moved us, he is mistaken; it strengthened us. A considerate statement such as the Finance Minister's can move us to some degree. Human nature inclines one to approach those who approach us. If someone stands and shouts "Aha!", others merely shout "Oho!" in reply. No benefit comes from testing vocal strength.
+
+When the Congress whip next speaks on language, he need not investigate who surrendered. I state categorically that the issue has not reached a final settlement. Many believe there is a contradiction between the President's Order and the Prime Minister's assurance. The terms used by the Minister while explaining his view reveal his hesitation: "Contrary to," "not in consonance with," and "militating against." The Order does not fully incorporate the Prime Minister's assurance. "It is complete," the Minister says. As a lawyer he knows that commission is an offence and omission is also an offence. The omission of the Prime Minister's assurance from the President's Order is itself blameworthy.
+
+If the wording must be modified to express what they truly intend, I am ready to welcome it, argue for it, struggle for it, and bring even the rulers to accept it. The Minister spoke to that extent. Reading it, we entered the House believing a welcome change of mind had occurred in the ruling party. Then the Congress whip sang a song about what Angada had said. This compels us to determine clearly what view the ruling party really holds.
+
+The Finance Minister repeatedly says, inside and outside this House, that every party agreed to the language statement sent to the Union Government. It is true that all parties were consulted. Representing my party, I agreed only to the proposition that English should continue after 1965 without any time limit. I have stated this many times in this House, and the Finance Minister has acknowledged it.
+
+Although the people have not yet accepted our representation, we believe that in time they will accept our view. On their behalf we offered several amendments to the statement. Anbazhagan moved that the Constitution of India must be amended and that no permanent remedy to the language question would exist until then. The Finance Minister asked us not to raise such a difference at that moment. We respect his words and appreciate his conciliatory address, but our policy stands above friendship and exists not only for our party but for the country. We therefore insisted upon a division. Members on our side voted for constitutional amendment; members of several other parties joined together against it, and roughly seventy-two members defeated it.
+
+M. P. Subramaniam of the Attur constituency moved that the three-language rule in schools be replaced by two languages, Tamil and English. That amendment was defeated. P. U. Shanmugam of Tiruvannamalai moved that English continue in the Supreme Court to the very end; that too was defeated. My friend Govindasamy moved that whenever anyone spoke in Parliament, an immediate translation be supplied in every other language. That also was defeated.
+
+Every member has received the third report titled *Language Problem of India-III Memorandum*. I ask the Finance Minister whether these facts should not appear in it. Is their inclusion not democratic practice? The report now clearly suggests that every party accepted the Madras Government's view. Even where we accepted its foundation, we differed on major questions. Our amendments and their defeat should have been recorded in an appendix. Why create the impression that we were all united on language? Why impose this blackout?
+
+We do not ask you to obtain prestige for us. We are capable of earning it ourselves; only if we fail need we come to you. We have abundant confidence that the people already accord us the respect due to us. I am not asking that our party be given credit for its own sake. If people in the North understand that one party here holds so firm a position on language, they will listen more carefully to the Madras Government and act accordingly. That is why I have repeatedly asked for this material to be included.
+
+I see another difference and ask the Finance Minister not to be offended when I state it openly. Other States say that what they received and the progress they made are insufficient, and that the Union Government has not treated them properly; by doing so, they secure results. In this State, however, people speak as though leased by the Union Government, hired by it, or appointed as its agents, declaring that everything has been accomplished. They may believe this earns praise for the State Government's ability, but in fact they cause us to lose concessions we could obtain.
+
+I ask the Finance Minister about the language of this State's High Court. The question should be whether Tamil or English is to be used. He stated firmly that if English were removed, Tamil alone should remain. Yet at the Srinagar conference, seated with the Law Ministers of the several States and the Union Law Minister in Delhi...
+
+**C. Subramaniam:** He is a Bengali.
+
+**C. N. Annadurai:** The Minister says he is a Bengali. I understand the implication: he thinks, "A Bengali is on your side." When you yourself are not on our side, it is hardly surprising that one or two people in Bengal may be. Our Finance Minister is courageous and skilled in argument, almost incarnated to destroy the opposition. He should have risen there and said, "Do not speak so. I have given my people a pledge that Tamil shall be the official language of the High Court in our State."
+
+When he spoke at the Law College, the students rejoiced and the professors were gratified. He said that he possessed greater devotion to the mother tongue than people in other States. He even said, "Annadurai, who always criticises me, has said that he appreciates the Finance Minister on this question." He should not permit all that to be rendered worthless.
+
+**C. Subramaniam:** The difficulty is that everyone has a duty to express his own view. If Annadurai examines the Constitution, he will see that this Legislative Assembly must decide whether the High Court is to retain English, adopt Hindi, or adopt Tamil. Others have a right to express whatever opinion they hold. He says I should have contradicted them; I will contradict them where contradiction is required. We need not imagine that disaster immediately follows merely because somebody says something. If one understands from the Constitution where authority rests, one will not leap up believing danger has arrived merely on hearing another person speak.
+
+**C. N. Annadurai:** I regret that the Finance Minister has now acquired the feeling that one should not leap up in this fashion, when he did not possess that feeling there.
+
+**C. Subramaniam:** You were not there.
+
+**C. N. Annadurai:** Had I had the opportunity to be there, I would not have permitted such speech.
+
+**C. Subramaniam:** That is the difference between you and me.
+
+**C. N. Annadurai:** It is not merely a difference between us, but a difference of place. Had he contradicted them, it would have warned those intent upon introducing Hindi everywhere and taught them restraint. Instead, the more restraint we display, the more room we give Hindi zealotry to dance unchecked. I respectfully ask him to consider this carefully.
+
+Anyone who invokes the Constitution must understand it properly. There is nothing wrong in the Finance Minister acting as a teacher, but I ask whether the Constitution requires the President to issue an Order upon the language report. It says that he "may" issue one. "May" also implies "may not." The Order could therefore have been issued or withheld. I do not understand the need to issue it in such haste. The act does not appear to have followed from close attention to every word and its meaning in the Constitution.
+
+Therefore, as our party argues, there will be no legal peace on the language question until the Constitution is amended. The situation will remain difficult and recurring disturbances will continue. This House should resolve, on its own behalf, that the Constitution be amended and insist upon a legal solution to the language problem.
+
+When the Governor referred to the language question, he did not say how much anger it had aroused among the people or how calmly the people of this State had behaved. In Assam, people were attacked, made refugees and driven away. Here, even though the Congress whip narrated the Ramayana and told stories, a calm atmosphere prevailed. Had the Governor noted this, I would genuinely have been pleased.
+
+In his first year he told us, "I come from Assam, the northernmost State," and described the outlook of seeing India as one from that northern edge. The treatment inflicted on Bengalis in the State of one who views India with such unity can be discussed during the debate scheduled for the 24th and 25th of this month.
+
+Finally, I wish to say something and ask the Finance Minister not to take offence. I reached this decision only after calm deliberation. Yesterday the Congress whip spoke in a most demeaning manner about members of our party serving on government committees. I do not know whether the Finance Minister was present. The whip spoke as though it were merely our fate and as though the people elected only them. We shall no longer cause you that embarrassment. We shall advance to the extent proper to us and earn the distinction due to us.
+
+Even in our party meetings and committee proceedings, we have never spoken in a degrading or disorderly manner. The Finance Minister spoke and issued a statement. I invited no reporter to a party meeting, issued no press statement, and made no public comment. Only after the Minister's statement, when I was asked for our reply, and after he told the story of a pandaram, did I answer with a story about a padishah. Even that seems intolerable to the Congress whip. Our participation in government committees also appears intolerable to him.
+
+Because the Finance Minister is not merely leader of that party but leader of this House, I convey through you: "Why should you suffer this embarrassment? You appear to think that you have admitted us somehow, like a priest standing aside when the temple is opened; that we are political untouchables who have been allowed inside; and that approaching us might pollute you. You need suffer no such anxiety. My colleagues and I withdraw from your committees."
+
+We withdraw so that the views we state, and what you call our degrading methods, do not reach you. When your plans come before this House or the country, we shall express our views. Today the Congress whip strikes his head; later he may strike his stomach, then beat himself with both hands. One day he may even strike Subramaniam. To save Subramaniam from being left in the whip's hands, we say that we require no place on those committees.
+
+The Address offers no proper solution to prices or the language problem and no assurance concerning the Tuticorin and Sethusamudram projects. Tamil scholars will not object to its being called a *perurai*, a "great address," I hope; but since it is merely an address in name, an address only for appearance's sake, there is no room either to praise it or to rejoice in it. With that, I conclude.
+
+## Translator's Notes
+
+All sixteen scans were visually reviewed and form one continuous Legislative Assembly speech with no missing or duplicated image. The corrected Tamil retains period vocabulary, political descriptions, the speech's wordplay on “பேருரை,” and the printed English interventions and legal phrases. The English translation preserves every speaker turn and follows the argument in source order. “Governor's Address” renders கவர்னர் பேருரை contextually; துரைத்தனம் is translated as government or administration according to context. The uncertain period loanword கிராப்பு is translated conservatively as credit and is recorded separately for review.
