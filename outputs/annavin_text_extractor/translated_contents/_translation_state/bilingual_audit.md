@@ -14,8 +14,8 @@
 | paettigal | 26 | 26 | 26 | 0 |
 | root | 5 | 5 | 5 | 0 |
 | sirukathaigal | 109 | 108 | 108 | 1 |
-| sorpozhivugal | 537 | 183 | 183 | 354 |
-| **All included sections** | **2511** | **972** | **972** | **1539** |
+| sorpozhivugal | 537 | 184 | 184 | 353 |
+| **All included sections** | **2511** | **973** | **973** | **1538** |
 
 ## OCR-Origin Translation Progress
 
@@ -24,8 +24,8 @@
 | katturaigal | 552 | 539 | 539 | 13 |
 | nadagangal | 61 | 24 | 24 | 37 |
 | sirukathaigal | 108 | 108 | 108 | 0 |
-| sorpozhivugal | 241 | 183 | 183 | 58 |
-| **All OCR-origin sections** | **962** | **854** | **854** | **108** |
+| sorpozhivugal | 241 | 184 | 184 | 57 |
+| **All OCR-origin sections** | **962** | **855** | **855** | **107** |
 
 ## OCR Source Recovery Status
 
@@ -34,8 +34,8 @@
 | katturaigal | 0 | 0 |
 | nadagangal | 34 | 416 |
 | sirukathaigal | 0 | 0 |
-| sorpozhivugal | 6 | 11 |
-| **All OCR-origin sections** | **40** | **427** |
+| sorpozhivugal | 5 | 10 |
+| **All OCR-origin sections** | **39** | **426** |
 
 A blank image section has an explicit no-text marker or no OCR body after its image reference. The canonical Tamil source is not translation-ready even when the scan itself may be readable.
 
@@ -76,7 +76,6 @@ A blank image section has an explicit no-text marker or no OCR body after its im
 - `nadagangal/suyechai.md`: 16 blank page(s)
 - `nadagangal/yar_kaetka.md`: 10 blank page(s)
 - `sorpozhivugal/150767.md`: 1 blank page(s)
-- `sorpozhivugal/190868.md`: 1 blank page(s)
 - `sorpozhivugal/200268.md`: 3 blank page(s)
 - `sorpozhivugal/230168.md`: 3 blank page(s)
 - `sorpozhivugal/nithi080361.md`: 1 blank page(s)
