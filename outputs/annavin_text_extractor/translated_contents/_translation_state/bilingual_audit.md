@@ -86,7 +86,6 @@ A blank image section has an explicit no-text marker or no OCR body after its im
 - `nadagangal/kattaiviral_1.md`: 6 of 8 scan pages contain no OCR text; only images 4 and 7 are recoverable
 - `nadagangal/mangai_oorugai_1.md`: 7 of 9 scan pages contain no OCR text; only images 3 and 9 are recoverable
 - `nadagangal/morarji_thesai.md`: 14 of 16 scan images contain no OCR text; only Part 1 Image 7 and Part 2 Image 3 survive, leaving the political stage scene incomplete
-- `nadagangal/orae_oru_vithi_1.md`: 5 of 6 scan pages contain no OCR text; only image 6 dialogue is presently recoverable
 - `nadagangal/sellapillai_1.md`: Images 2 and 4-5 contain no OCR text; setup and final motor-shed scene survive with gaps
 - `nadagangal/sumangalipooja_1.md`: 10 of 11 scan pages contain no OCR text; only image 9 charity dialogue is presently recoverable
 - `sirukathaigal/rajapart.md`: 14 of 16 scan pages contain no OCR text; recover images 2-4 and 6-9 in part 1 plus images 1-3 and 5-7 in part 2 before translation
