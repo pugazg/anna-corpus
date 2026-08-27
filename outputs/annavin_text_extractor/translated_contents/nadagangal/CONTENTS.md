@@ -52,7 +52,7 @@ Total source works: 62
 - [nadagangal/periayamanithargal_1](periayamanithargal_1.md) - pending
 - [nadagangal/popular_store_1](popular_store_1.md) - translated
 - [nadagangal/puthiya_cong_1](puthiya_cong_1.md) - translated
-- [nadagangal/ragavayanam_1](ragavayanam_1.md) - pending
+- [nadagangal/ragavayanam_1](ragavayanam_1.md) - translated
 - [nadagangal/roam_erigirathu_1](roam_erigirathu_1.md) - translated
 - [nadagangal/rottithundu](rottithundu.md) - pending
 - [nadagangal/sanmanam](sanmanam.md) - pending
