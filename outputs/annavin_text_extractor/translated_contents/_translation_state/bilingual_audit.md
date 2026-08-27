@@ -86,7 +86,6 @@ A blank image section has an explicit no-text marker or no OCR body after its im
 - `nadagangal/avanasiyar_1.md`: 4 of 5 scan pages contain no OCR text; only image 1 classroom scene is presently recoverable
 - `nadagangal/avar_pesathathu_1.md`: 5 of 8 scan pages contain no OCR text; political conversation begins and ends mid-sentence
 - `nadagangal/avargal_ullam_1.md`: 7 of 8 scan pages contain no OCR text; only image 4 Maratha dialogue is presently recoverable
-- `nadagangal/bajirao_1.md`: Final images 3-4 contain no OCR text; palace scene ends mid-question
 - `nadagangal/congresswala_1.md`: Final images 4-5 contain no OCR text; 1938 Legislature satire ends mid-sentence
 - `nadagangal/dharmam_thalai_1.md`: 4 of 6 scan pages contain no OCR text; only images 3-4 fundraising dialogue are recoverable
 - `nadagangal/enthan_thiru_1.md`: 4 of 7 scan pages contain no OCR text; title page and conclusion of counterfeit-note fraud are absent
