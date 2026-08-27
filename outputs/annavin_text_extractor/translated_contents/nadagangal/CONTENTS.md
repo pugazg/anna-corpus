@@ -27,7 +27,7 @@ Total source works: 62
 - [nadagangal/inba_oli](inba_oli.md) - pending
 - [nadagangal/irakkam_oru_1](irakkam_oru_1.md) - translated
 - [nadagangal/jananayaga_1](jananayaga_1.md) - pending
-- [nadagangal/kaasurar_1](kaasurar_1.md) - pending
+- [காதர் கருணை](kaasurar_1.md) - translated
 - [nadagangal/kadhal_jothi](kadhal_jothi.md) - pending
 - [nadagangal/kailayam_1](kailayam_1.md) - translated
 - [nadagangal/kal_sumantha_1](kal_sumantha_1.md) - translated
