@@ -23,7 +23,7 @@ Total source works: 62
 - [nadagangal/dhrogi_kaplan_1](dhrogi_kaplan_1.md) - translated
 - [nadagangal/enthan_thiru_1](enthan_thiru_1.md) - translated
 - [nadagangal/gandhi_jayanthi_1](gandhi_jayanthi_1.md) - pending
-- [nadagangal/ilangogin_sabatham_1](ilangogin_sabatham_1.md) - pending
+- [nadagangal/ilangogin_sabatham_1](ilangogin_sabatham_1.md) - translated
 - [nadagangal/inba_oli](inba_oli.md) - pending
 - [nadagangal/irakkam_oru_1](irakkam_oru_1.md) - translated
 - [nadagangal/jananayaga_1](jananayaga_1.md) - pending
