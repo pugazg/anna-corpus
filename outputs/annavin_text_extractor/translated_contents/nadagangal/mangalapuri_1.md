@@ -1,4 +1,10 @@
-# nadagangal/mangalapuri_1
+# மங்களபுரி மைனர் / The Mangalapuri Minor
+
+**Tamil title:** மங்களபுரி மைனர்  
+**English title:** The Mangalapuri Minor  
+**Source file:** `nadagangal/mangalapuri_1.md`
+
+## Source Tamil (verbatim)
 
 - Source image folder: `/Users/pugazhendhirajendran/Documents/Codex/2026-07-09/https-www-annavinpadaippugal-info/outputs/annavin_text_extractor/ocr_images/nadagangal/mangalapuri_1`
 - OCR language: `tam`
@@ -342,3 +348,259 @@
 தெரிந்த பல வரலாறுகளைக் கூறுவார்கள்.)
 
 1966.
+
+## English Translation
+
+## Image 1: 001-687fb97df9.png
+
+### 1948
+
+**Place:** The hall of Mangala Vilas.
+
+**Present:** The Mangalapuri Minor, the manager, Manthira Moorthi, and the servant Perumal.
+
+**Situation:** The Mangalapuri Minor reclines wearily upon a sofa.
+
+The servant is massaging his legs. The manager is turning the pages of a small notebook.
+
+**Minor:** What you propose is something never before practised in this zamindari. I must see that fellow? You asked him in my name... What then? Why does he want to see me?
+
+**Manager:** He agreed at once to provide it... His wish to see you is not connected with lending those three lakhs. He merely wants to boast among others that he too has had an audience with the zamindar and thereby gain prestige. Money has somehow accumulated in his hands. But can status come of itself? He hopes to acquire standing by saying that he enjoys friendship in a place such as this...
+
+**Minor:** The loan must not be discussed here. Do you understand?
+
+**Manager:** He will not open his mouth... [The manager shows him a note. The servant leaves.]
+
+**Minor:** What about the amount that must be sent to the race club?
+
+**Manager:** I have recorded every detail. Everything can be paid tomorrow morning...
+
+## Image 2: 002-3596690123.png
+
+[The moneylender Varadarajan enters with the servant. Varadarajan bows humbly. The Minor nods.]
+
+**Manager:** This is Varadarajan... He has extraordinary affection for our zamindari...
+
+[The Minor lets fall a faint smile.]
+
+**Varadarajan:** My father used to supervise the great zamindar's charitable water shed.
+
+**Minor:** I have a slight headache... I cannot speak much...
+
+**Varadarajan:** Please lie down. Take care of your health. Receiving an audience with you is enough for me. I shall send it immediately...
+
+**Minor:** [Pretending ignorance] Send it? Send what? Manager! I strictly ordered you not to trouble ordinary people by asking them for anything. Yet you have done this?
+
+**Manager:** Oh, no! Please do not misunderstand. He himself wished to give it, hoping to earn some income and inspire confidence among many people. I merely agreed...
+
+**Minor:** Your intention may be proper. But what will the town say? That the zamindar borrowed money at interest, will it not?
+
+**Varadarajan:** I shall not let a single soul know. This concerns a great household. Would I permit it to spread outside?
+
+[The Minor goes inside. The other three leave.]
+
+### 1950
+
+**Place:** The hall of Mangala Vilas.
+
+**Present:** The Minor, the manager, and a new servant.
+
+**Situation:** The Minor reclines in an easy chair. Burnt cigarette ends lie scattered beside him. His eyes are red.
+
+## Image 3: 003-c04fff3314.png
+
+The manager holds a newspaper. Near the sofa, the servant gathers together shards of a glass vessel that lay scattered there. The zamindar's silk coat lies discarded to one side. The hall clock has stopped.
+
+**Minor:** What use is standing there like a tree? I sent a man at eight o'clock. That fellow has neither come nor sent any message.
+
+**Manager:** He sent a message. He says he has urgent work. Have they not entrusted the Adur mitta to him? He is checking its accounts, it seems.
+
+**Minor:** Adur, Madur, Kadur: all manner of excuses. Does he say he can give the money, or that he cannot?
+
+**Manager:** He seems to have the mistaken idea that you would not have asked and that I am asking on my own.
+
+**Minor:** Why did you not tell him plainly that I myself was asking and that one lakh was urgently needed?
+
+**Manager:** Nothing so direct is necessary. One word that I sent the manager will suffice.
+
+[The servant stops working and listens intently. The Minor notices.]
+
+**Minor:** You thick-headed fellow! You have carefully heard everything we said, have you not? Now you will broadcast it throughout the town...
+
+**Servant:** I have no such habit, sir. Where would I find time for idle talk?
+
+[The moneylender Varadarajan enters, scattering a lively laugh, and offers his respects. The Minor points to the sofa.]
+
+**Minor:** Never mind. You may sit on the sofa itself.
+
+**Varadarajan:** No, sir... It is all right. Standing like this will do.
+
+**Minor:** Sit down. What loss of dignity could come from it? Sit.
+
+## Image 4: 004-b368b024b0.png
+
+**Varadarajan:** That is not why, sir. The sofa is terribly infested with bedbugs. I sat there last Thursday, and the bedbugs bit and devoured me...
+
+**Minor:** They are not bedbugs. They are ticks. Do you not know ticks, the kind that cling to dogs? No matter how often we drive our terrier away, it goes and sits only on that sofa. That dog is a complete monkey... Very well, do you imagine I have no other work and sit waiting for Lord Varadaraja to arrive and grant his boon?
+
+**Varadarajan:** Please do not take it wrongly. I never imagined that you would require such a large sum so urgently. I even heard that the big Madras bungalow had been rented out to some office...
+
+**Manager:** Do not speak without knowing the facts. Is the zamindar a man who builds houses to rent them out? A friend of his asked for it, and he agreed...
+
+**Varadarajan:** The information I received was rather different.
+
+**Minor:** Speak about the message the manager brought. Why meddle in needless matters?
+
+**Varadarajan:** My wife and elder son keep telling me the same thing: if I go on advancing more and more loans without properly recovering the money already lent, danger will follow. You must have heard that last month Thathulingam Pillai of the Thavana festival issued an insolvency notice. Half a lakh...
+
+**Manager:** Did half a lakh vanish for you too?
+
+**Varadarajan:** By Rama's grace, it did not come to that. The moment I suspected the ship would sink, I took ten acres of wetland as security for my money.
+
+**Manager:** You are quite a shrewd man.
+
+**Varadarajan:** Money is not as readily available as before. I myself obtain it only by paying slightly higher interest...
+
+**Minor:** Why speak in circles? You want a little more interest. Is that all? Why scratch your head over it?
+
+## Image 5: 005-3e8484f0b8.png
+
+Write it up and bring it. Go, return quickly.
+
+**Varadarajan:** Very well. I shall send the bond through our accountant.
+
+**Manager:** And the money? Through whom will you send that?
+
+**Varadarajan:** Once the bond reaches him, I shall send my son. He will run here within an hour, carrying the money.
+
+[Varadarajan takes leave. The manager sees anger upon the Minor's face.]
+
+### 1954
+
+**Place:** A decorated shed in front of Mangala Vilas.
+
+**Present:** The Minor, the manager, and a servant.
+
+**Situation:** The Minor looks thin and exhausted. He sits upon a plank laid in the shed. A slightly soiled towel lies on the plank. A betel box rests to one side. Half asleep, the servant fans the Minor. The manager studies an almanac.
+
+**Minor:** Why are you turning its pages? To find an auspicious hour to see him?
+
+**Manager:** No, sir. I was checking whether we could go to the Registrar's Office tomorrow regarding the cashew grove. It is an inauspicious day.
+
+**Minor:** Why should we show concern when the buyer has none? Must I sign?
+
+**Manager:** No, sir. The cashew grove is in Great-aunt's name. It will be enough if she comes. But the box cart...
+
+**Minor:** Does Great-aunt refuse to come in the box cart?
+
+**Manager:** It is not that. The box cart's axle is bent...
+
+## Image 6: 006-cd8238efe6.png
+
+**Minor:** What cart will take us to Varadaraja Pillai's house now?
+
+**Manager:** His own horse cart is coming. His agent came just now and told me. He came on a bicycle.
+
+[The cart arrives. The Minor gets in. The manager hesitates.]
+
+**Minor:** Never mind, get in! Everything is equal now. I read in some paper that someone had spoken at full length about it. Get in, get in!
+
+[The manager gets in.]
+
+[The cart stops before a newly built two-storey house.
+
+The manager looks to see whether anyone will come to welcome them.
+
+The Minor looks anxiously along the street, wondering whether anyone is present and might see him.
+
+A boy of about ten comes from inside. The manager asks whether his father is at home. Without answering, the boy glares at the driver.]
+
+**Driver:** The elder himself told me to go and return...
+
+**Boy:** Where has your sense gone? Do you not know I must go to school? Did Grandmother buy the cart so that everyone in town could ride in it?
+
+[Suppressing his anger, the Minor enters the house.
+
+Four or five men sit writing accounts in the outer hall.
+
+The manager clears his throat.
+
+One of them points to an empty chair. The Minor sits while the manager remains standing.
+
+Radio music can be heard from the adjoining room.]
+
+## Image 7: 007-115e8f6c40.png
+
+Someone on the radio slowly sings in a mournful voice: “When excessive spending comes first, honour is destroyed and reason is lost.”
+
+The Minor lights a cigarette.
+
+Seeing this, a clerk points to a picture of Murugan hanging on the wall.
+
+The Minor drops the cigarette and extinguishes it.
+
+The manager struggles to suppress a mischievous smile.
+
+Varadarajan opens the inner door and enters.
+
+[On seeing the Minor, he pretends to be startled.]
+
+**Varadarajan:** Sacrilege! Sacrilege! Did they ask you to sit here? Fools! Come inside; it will be cool there. Come. Manager, you too.
+
+[They enter an air-conditioned room furnished with comfortable, ostentatious sofas.]
+
+**Varadarajan:** What will you have? Coffee, Ovaltine, or Milo?
+
+**Minor:** I had Horlicks just before leaving. I need nothing.
+
+**Varadarajan:** Do you like Horlicks very much? Then it is my good fortune. I am the Horlicks agent for this entire district.
+
+**Manager:** I saw the name Aravamuthan written somewhere...
+
+**Varadarajan:** He is our own boy, my brother-in-law. I obtained it in his name. I asked you to come, but afterwards I wrung my hands: I had invited a great man, yet perhaps my accounts were not fit to be shown. Then I examined them and was alarmed.
+
+**Minor:** Alarmed? Why?
+
+[Varadarajan opens a desk, takes out a paper, and hands it to the Minor.]
+
+## Image 8: 008-070537c301.png
+
+**Varadarajan:** See for yourself. Read it.
+
+[The Minor reads rapidly. His face hardens.]
+
+**Minor:** What are these insolent questions? Details of property, details of debt, the purpose of the new loan: are these questions to ask me?
+
+**Varadarajan:** Please do not be angry. They were not written specially for you. We keep them as a precaution. My elder son, who returned after studying in America, has imposed a strict rule: once a debt rises above a specified amount, these particulars must be obtained, and a further loan may be given only after we are satisfied.
+
+**Minor:** Get up, Manager. We have had enough of this relationship. Get up!
+
+[Both leave. Varadarajan watches without agitation and then smiles.]
+
+### 1956
+
+**Place:** The hall of the “Waxing Moon” mansion.
+
+**Present:** The moneylender Varadarajan and his son Paul.
+
+**Situation:** Varadarajan examines documents prepared by his son. The servant enters.
+
+**Servant:** He asks whether he may come tomorrow.
+
+**Varadarajan:** Who, the Minor? Why tomorrow? Let him wait another four days. Meanwhile he can borrow from four more places. Go! Tell him I asked you to bring him with you. He says tomorrow, does he?
+
+**Son:** Every day the man sinks deeper. We must finish the matter quickly. Go and bring him.
+
+**Servant:** Shall I take our horse cart?
+
+**Varadarajan:** Take the motorcar. Why else have we bought vehicles here, if not for these debtors? Fool! Go and tell that manager
+
+## Image 9: 009-c9ba1f9de4.png
+
+to hire a car and come quickly.
+
+[The servant runs out.]
+
+[“I know of something like this that happened in such-and-such a town. Living beyond his means, a man borrowed more than he should, became unable to repay it, and borrowed still more to settle earlier debts. At last he lost his property and floundered. He was the owner of such-and-such an estate, or belonged to such-and-such a zamindari family.” Many readers will recount histories of this kind that they themselves know.]
+
+*1966.*

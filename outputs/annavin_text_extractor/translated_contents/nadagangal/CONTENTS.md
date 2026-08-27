@@ -39,7 +39,7 @@ Total source works: 62
 - [nadagangal/madamanmiyam_1](madamanmiyam_1.md) - translated
 - [nadagangal/magudabishegam_1](magudabishegam_1.md) - pending
 - [nadagangal/mangai_oorugai_1](mangai_oorugai_1.md) - translated
-- [nadagangal/mangalapuri_1](mangalapuri_1.md) - pending
+- [nadagangal/mangalapuri_1](mangalapuri_1.md) - translated
 - [nadagangal/morarji_thesai](morarji_thesai.md) - translated
 - [nadagangal/mudhalalithuva_1](mudhalalithuva_1.md) - translated
 - [nadagangal/nadanthathuthan_1](nadanthathuthan_1.md) - translated

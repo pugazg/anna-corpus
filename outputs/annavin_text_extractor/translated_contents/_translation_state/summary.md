@@ -3,8 +3,8 @@
 - Documents considered: 2510
 - Pending content inspection: 0
 - Ready for translation: 1453
-- Already translated: 943
-- Needs source/OCR recovery: 111
+- Already translated: 944
+- Needs source/OCR recovery: 110
 - Incorrect sources skipped: 3
 - Tamil to English: 1338
 - English to Tamil: 115
