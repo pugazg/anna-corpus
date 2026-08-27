@@ -42,7 +42,7 @@ Total source works: 62
 - [nadagangal/mangalapuri_1](mangalapuri_1.md) - pending
 - [nadagangal/morarji_thesai](morarji_thesai.md) - translated
 - [nadagangal/mudhalalithuva_1](mudhalalithuva_1.md) - translated
-- [nadagangal/nadanthathuthan_1](nadanthathuthan_1.md) - pending
+- [nadagangal/nadanthathuthan_1](nadanthathuthan_1.md) - translated
 - [nadagangal/nankodai](nankodai.md) - pending
 - [nadagangal/neethidevan](neethidevan.md) - pending
 - [nadagangal/oar_iravu](oar_iravu.md) - pending
