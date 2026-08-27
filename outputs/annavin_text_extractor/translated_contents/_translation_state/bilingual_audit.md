@@ -77,7 +77,6 @@ A blank image section has an explicit no-text marker or no OCR body after its im
 - `katturaigal/nirubarin_nilai.md`: Printed pages 182-184 are absent after Image 8 (page 181); Image 9 is unrelated page 185 from an article on science, and Image 10 resumes only the final fragment of the reporter article. Recover the three missing pages and remove the misassigned scan before translation
 - `katturaigal/udan_piranthar_1.md`: The 19-scan OCR source ends immediately after the killing of Tiberius Gracchus although the title promises two brothers. The complete four-part HTML counterpart exists at Kurunavalgal/udanpiranthar_iruvar.md and continues through Gaius Gracchus and the conclusion. Reconcile the OCR opening against the scans, then recover and merge Parts 2-4 from that counterpart before translating.
 - `katturaigal/valarppupen.md`: The sixth and final extracted image ends mid-argument after Periyar's claimed five or six years of trust in Maniammai; recover the continuation before producing a complete translation
-- `nadagangal/avar_pesathathu_1.md`: 5 of 8 scan pages contain no OCR text; political conversation begins and ends mid-sentence
 - `nadagangal/avargal_ullam_1.md`: 7 of 8 scan pages contain no OCR text; only image 4 Maratha dialogue is presently recoverable
 - `nadagangal/gandhi_jayanthi_1.md`: Images 1, 3, 4, 11 and 12 contain no OCR text, including the opening and material immediately before the closing exchange
 - `nadagangal/kal_sumantha_1.md`: 11 of 13 scan pages contain no OCR text; only opening image 1 and final image 13 are recoverable
