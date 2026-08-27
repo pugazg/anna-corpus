@@ -59,14 +59,14 @@
 இலாபம் கிடைக்க வேண்டும்; அந்த இலாபத்திலிருந்துதானே
 மூலதனம் கிடைக்க முடியும். . .
 
-மண்: அதைக் காங்கிரஸ் சர்த்கார் ஒப்புக் கொள்கிறதே!
-ஒப்புக் கொள்வது மட்டுமா! கம்யூனிஸ்டுகளின் வாமை அடக்க
+மண்: அதைக் காங்கிரஸ் சர்க்கார் ஒப்புக் கொள்கிறதே!
+ஒப்புக் கொள்வது மட்டுமா! கம்யூனிஸ்டுகளின் வாயை அடக்க
 இந்த வாதத்தைத்தானே பயன் படுத்துகிறது.
 
 ஆலை: பேசுவது சோஷியலிசம்; தேர்தல் நிதிக்கு,
 முதலாளிகள்!
 
-மண்: காங்கிரஸ் சொல்லும் சோஷியலிசததில், முதலாளி
+மண்: காங்கிரஸ் சொல்லும் சோஷியலிசத்தில், முதலாளி
 களுக்கும் இடம் உண்டு. அதுதானே அதிலே இருக்கிற அருமையே.
 மற்ற நாடுகளில் சோஷியலிசம் என்றால் முதலாளிகள் இருக்கக்
 கூடாது என்பது திட்டம். இங்கே அப்படியா? முதலாளிகள்
@@ -81,7 +81,7 @@
 
 மண்: இப்படிப் பேசினால் நான் என்னத்தைச் சொல்ல
 முடியும். பணம் தேவை, பெரிய அளவில். காங்கிரசு முதலாளி
-களை வாழ வைக்கிறது என்று பலமான பிரச்சாரம்; எர்ப்பு
+களை வாழ வைக்கிறது என்று பலமான பிரச்சாரம்; எதிர்ப்பு
 அதிகம். காங்கிரஸ் தேர்தலில் தோற்றுப் போனால், பிறகு சோஷி
 யலிச திட்டப்படி, தொழில்களைத் தனிப்பட்ட முதலாளிகளிடம்
 இருக்க விட மாட்டார்கள். . .
@@ -92,7 +92,7 @@
 
 மண்: கொடுத்ததைக் கவனத்தில் வைத்துக் கொண்டுதான்,
 காங்கிரஸ் சர்க்கார் உங்களுக்கு உள்நாட்டுக் கடன், வெளி
-நாட்டுக். கடன், சலுகை எல்லாம் கிடைக்கும்படிச் செய்தது. . .
+நாட்டுக் கடன், சலுகை எல்லாம் கிடைக்கும்படிச் செய்தது. . .
 
 ஆலை: செய்ததோ இல்லையோ அதுகூட இருக்கட்டும்
 ஒருபுறம். எங்களிடம் பணமும் வாங்கிக் கொண்டு காங்கிரஸ்
@@ -137,7 +137,7 @@
 
 மண்: நான் சொன்னேனா? சொல்லுவேனா? எதிர்க்
 கட்சிக்காரர்கள்தான் அப்படிப் பேசி ஏசுகிறார்கள். இந்தக் காங்
-கிரஸ் சர்க்கார் கள்ளமார்க்கட்காரரிடம் சரணாகதி அடைந்து
+கிரஸ் சர்க்கார் கள்ளமார்க்கெட்காரரிடம் சரணாகதி அடைந்து
 விட்டது என்கிறார்கள். இதைப் பொதுமக்கள் புரிந்து கொண்டார்
 கள்; அதனால் இந்தத் தடவை காங்கிரசுக்கு ஓட்டுப் போட மாட்
 டார்கள் என்று பேசுகிறார்கள். இந்தத் தடவை, காங்கிரஸ் தோற்று
@@ -149,7 +149,7 @@
 - Image: `nadagangal/mudhalalithuva_1/004-12bc6236dc.png`
 
 ஆகிவிடும். ஆகவே அந்தவிதமான பழி விழாதிருக்கவும்;
-முதலாளிகளைப் பூண்டோடு ஒழிக்கத் இட்டமிடுபவர்கள் அக்கம்
+முதலாளிகளைப் பூண்டோடு ஒழிக்கத் திட்டமிடுபவர்கள் ஆட்சி
 பெறாதபடித் தடுக்கவும், காங்கிரஸ் வெற்றி பெற்றே ஆக
 வேண்டும்.
 
@@ -159,7 +159,7 @@
 
 மண்: நீங்கள் நாள் குறிப்பிட்டதும். . .
 
-ஆலை: என் தகப்பனாரின் தலை தவசம் இந்த புதன்கிழமை.
+ஆலை: என் தகப்பனாரின் தலை திவசம் இந்த புதன்கிழமை.
 
 மண்: நினைவுநாள் கொண்டாடி விடுவோம். . . மந்திரி
 தலைமையில். . .
@@ -170,7 +170,7 @@
 
 மண்: நடத்து விடுவது. . . இதற்கு ஒரு மந்திரி. . . அதற்கு ஒரு
 
-ஆலை: மந்திரியிடம், தனியாகச் சல விஷயங்கள் பேச. . .
+ஆலை: மந்திரியிடம், தனியாகச் சில விஷயங்கள் பேச. . .
 
 மண்: ஒரு மணி நேரம் ஒதுக்கச் சொல்கிறேன், போதுமா?
 
@@ -188,84 +188,84 @@
 
 - 1965.
 
-ச்ள்ஸ்ஸள்ன்
-
 ## English Translation
 
-## Capitalist Socialism
+## Image 1: 001-79c894f6ba.png
 
-**Factory Owner Arimuthu:** If you say the minister is coming, do you think we shall faint and fall at his feet? We are not ignorant people. Let the minister come in all his majesty. He will receive the same answer I gave you. If you squeeze us dry for election expenses, what will become of us? Are we as we once were? It is your party's government that torments us by piling tax upon tax.
+**Arimuthu, factory owner:** Do they imagine we will faint when told that a minister is coming? We are not ignorant men. Let the minister come like a maharaja. He will receive the same answer I gave you. If you squeeze us dry for election expenses, what will become of us? Are we as we once were? Your party's government keeps tormenting us by heaping tax upon tax on us...
 
-**Mandalam:** I raised this earlier. I even sent a telegram to T. T. K.
+**Mandalam:** I said this earlier. I even sent T.T.K. a telegram...
 
-**Factory Owner:** And he immediately reduced the tax, I suppose! Spare me all that talk. We no longer earn profits as before. We remain chained to this enterprise and suffer only because a thousand workers must somehow survive. They say fourteen annas out of every rupee that comes in must be poured away. They call it equality and socialism. And we ourselves are expected to spend money arranging for Congress to govern! We dig the pit, and you throw us into it and cover us with earth. Why do you invite our burning resentment? Can a party that talks socialism come to capitalists to collect money?
+**Factory Owner:** And he immediately reduced the tax, I suppose. Leave all that talk aside. We no longer make profits as before. We must somehow keep this burden and weep over it merely so that a thousand workers may live. They say we must pour out fourteen annas of every rupee we receive. That is supposedly called equality... supposedly socialism... And we ourselves must spend money and arrange for Congress to govern us. We must dig the pit; you will throw us into it, cover us, and heap on the soil. Why do you invite our bitter resentment? Can a party that speaks of socialism come to capitalists to raise money?
 
-**Mandalam:** I did not expect you to be so angry. Even now, was it not the Congress government that granted you tax concessions?
+**Mandalam:** I did not expect you to be so angry. Even now, was it not the Congress government that granted you tax relief?
 
-**Factory Owner:** You call that a concession? Call it a boon! What do you know of economics?
+**Factory Owner:** You call that relief? Call it a blessing! What do you know of economics?
 
-**Industrialist:** Because of the blind course pursued by your Congress government, no capital is available to establish industries. Do you know that? Where can capital come from, from thin air? There must be profit; capital can arise only from that profit.
+## Image 2: 002-d59aed2695.png
 
-**Man:** The Congress government accepts that!
+Because of the blind course followed by your Congress government, capital cannot be found to establish industries. Do you know that? Where is capital to come from, out of thin air? There must be profit, and only from that profit can capital be formed...
 
-**Industrialist:** Does it merely accept it? Is that not the very argument it uses to silence the Communists?
+**Mandalam:** The Congress government accepts that! It does more than accept it. Does it not use precisely this argument to silence the Communists?
 
-**Man:** It speaks of socialism, but looks to capitalists for election funds!
+**Factory Owner:** It speaks of socialism, but calls upon capitalists for its election fund!
 
-**Industrialist:** In the socialism Congress describes, there is room for capitalists too. That is its special beauty. In other countries, socialism means a definite plan under which capitalists must not exist. Is it so here? Congress declares categorically that capitalists certainly will exist and must exist. Can we forget that?
+**Mandalam:** In the socialism advocated by Congress, there is room for capitalists too. That is its special virtue. In other countries, socialism means a plan under which capitalists must not exist. Is it so here? It is the Congress Party that declares categorically that capitalists will certainly exist and must exist. Can that be forgotten?
 
-**Man:** A capitalist may exist, but profit must not accumulate with him. There are a thousand and eight restrictions, rules and laws to prevent it. Why do you do this and then ask us for money too? Why should we give it? Where can we give it from?
+**Factory Owner:** A capitalist may exist, but profit must not accumulate in his hands. There are a thousand and eight obstacles, regulations, and laws to prevent it. Why do you do all this and then ask us for money as well? Why should we give? From where can we give?
 
-**Industrialist:** If you speak this way, what can I say? Money is needed on a large scale. There is powerful propaganda that Congress keeps capitalists alive, and opposition is increasing. If Congress loses the election, industries will no longer be left in the hands of individual capitalists under the socialist plan.
+**Mandalam:** If you speak like this, what can I say? Money is needed on a large scale. There is forceful propaganda that Congress sustains the capitalists, and opposition is strong. If Congress loses the election, industries will no longer be left in the hands of private capitalists under the socialist programme...
 
-**Man:** It is only to avoid that ruin that we grudgingly give Congress whatever help we can. Last time we gave about one crore rupees.
+**Factory Owner:** It is to avert that disaster that we somehow do what we can for Congress. Last time we gave nearly one crore rupees.
 
-**Industrialist:** Keeping that contribution in mind, the Congress government arranged domestic loans, foreign loans and concessions for you.
+**Mandalam:** It was with that contribution in mind that the Congress government arranged domestic loans, foreign loans, concessions, and everything else for you...
 
-**Man:** Whether it did or did not, let that remain aside. Congress takes money from us and its leaders then climb onto platforms and say that we alone have sucked up the wealth produced, provoking the people to anger against us. Will people not ask why property is concentrated in a few hands and launch a revolution?
+**Factory Owner:** Whether it did or did not, leave that aside. After taking money from us, Congress
 
-**Industrialist:** Would we permit that? Which party goes about declaring that socialism does not mean dividing up existing property and income? Is it not Congress? We have given even socialism a new interpretation.
+## Image 3: 003-d35d048181.png
 
-**Man:** What an interpretation, what a philosophy! A tiger among tigers, this is a new tiger, and you call it a vegetarian tiger. Let that pass. What exactly do you expect now?
+leaders climb the platform and say that we have sucked up all the wealth produced. Must they speak so as to make the people furious with us? Will the people not ask why property has accumulated in a few hands and launch a revolution?
 
-**Industrialist:** According to your status and in proportion to our need.
+**Mandalam:** Would we allow that? Which party has been saying that socialism does not mean dividing up the existing property and income? Is it not Congress? We have given socialism itself a new interpretation.
 
-**Man:** Your need grows from day to day. What are we to do? There is no discipline among you; some people in your own party speak however they please. You treat capitalists like robbers and wound their feelings: "Show your accounts," "Lock the shop," "Produce the banknotes," you say.
+**Factory Owner:** What an interpretation! What a philosophy! A tiger among tigers, this is a new tiger! You call it a vegetarian tiger. Never mind. What exactly do you expect now?
 
-**Industrialist:** Nothing of that sort will happen. Even if anything happened before, it will not happen again. You have seen the new scheme introduced by T. T. K., have you not? If one portion of black money is given to the government, he has said that no account need be rendered for the rest.
+**Mandalam:** In keeping with your standing, and in keeping with our need...
 
-**Man:** That may be a concession to people who possess black money. What have I?
+**Factory Owner:** Your need grows day by day. What are we to do? There is no discipline among you. Some people in your own party say whatever they please. You treat us as though you were dealing with robbers, hurting the feelings of capitalists. “Show the accounts,” you say. “Lock the shop,” you say. “Hand over the currency notes,” you say.
 
-**Industrialist:** Did I say you had any? Would I say so? Only opposition members speak and jeer in that manner. They say this Congress government has surrendered to black marketeers. They say the public has understood this and will not vote for Congress this time. If Congress loses this election, it will appear true that Congress is an accomplice of the black marketeers...
+**Mandalam:** Nothing of the sort will happen. Even if something happened earlier, it will not happen again. Have you not seen T.T.K.'s new scheme? He has said that if a portion of black money is handed over to the government, there will be no accounting or inquiry into the rest...
 
-...it will happen. Therefore, Congress must win, both to prevent such blame from falling upon it and to keep from power those who plan to uproot the capitalists completely.
+**Factory Owner:** That may be a concession to people who have black money. What have I got?
 
-**Industrialist:** Whether your argument is right or wrong, I have long been a devotee of Congress. I am duty-bound to do what I can. When is the minister coming?
+**Mandalam:** Did I say you had any? Would I say so? It is the opposition that speaks and mocks in that fashion. They say this Congress government has surrendered to black marketeers. They say the public has understood this and will not vote for Congress this time. If Congress loses now, the charge that the Congress Party is an accomplice of black marketeers will be taken as true.
 
-**Man:** As soon as you name the day.
+## Image 4: 004-12bc6236dc.png
 
-**Industrialist:** This Wednesday is the annual death ceremony for my father.
+Therefore, Congress must win, both to prevent such blame from falling upon it and to prevent those planning to uproot the capitalists from gaining power.
 
-**Man:** We shall conduct a memorial day, under the minister's chairmanship.
+**Factory Owner:** Whether your argument is right or wrong, I have long been a devotee of Congress. I am therefore bound to do what I can. When is the minister coming?
 
-**Industrialist:** On that same day, there is also the foundation-stone ceremony for the new factory I am starting with American collaboration.
+**Mandalam:** As soon as you name the day...
 
-**Man:** We shall conduct that too. One minister for this, another for that.
+**Factory Owner:** My father's annual death ceremony falls this Wednesday.
 
-**Industrialist:** I need to speak privately with the minister about certain matters.
+**Mandalam:** We shall hold a memorial observance, presided over by the minister...
 
-**Man:** I shall ask him to set aside an hour. Is that enough?
+**Factory Owner:** On the same day, there is also the foundation-stone ceremony for the new factory I am starting in collaboration with America...
 
-**Industrialist:** One important matter: when the minister comes here, that official who treated me disrespectfully, you know the one, must not be present.
+**Mandalam:** We shall conduct that too... One minister for this... another for that...
 
-**Man:** We can simply transfer him elsewhere.
+**Factory Owner:** I must discuss certain matters privately with the minister...
 
-**Industrialist:** By Mahatma Gandhi's grace, your election victory is certain.
+**Mandalam:** I shall ask him to set aside an hour. Will that suffice?
 
-**Man:** I entered election work only after learning that the strength of your blessing was behind us.
+**Factory Owner:** One important matter. When the minister comes here, you know that official who treated me without due respect? He must not be here...
 
-1965
+**Mandalam:** We can simply have him transferred elsewhere.
 
-## Translator's Notes
+**Factory Owner:** By Mahatma Gandhi's grace, your electoral victory is certain...
 
-Images 1 and 3 were recovered directly from the scans after the original OCR pass returned no text. Speaker labels are abbreviated as “ஆலை” and “மண்”; the opening identifies them as factory owner Arimuthu and Mandalam. The printed title is “முதலாளித்துவ சோஷியலிசம்,” rendered “Capitalist Socialism.”
+**Mandalam:** I entered election work only after learning that the strength of your blessings was behind us.
+
+*1965.*
