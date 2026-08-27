@@ -324,9 +324,7 @@ Student: Yes, sir!
 
 Tamil Teacher: Hey! The passage where the swan is sent as a messenger is tomorrow's lesson.
 
-[The Tamil teacher leaves.]
-
-[The classroom immediately erupts in noise as the children begin playing.]
+[The Tamil teacher leaves. The classroom immediately erupts in noise as the children begin playing.]
 
 One Student: Hey! Can a swan talk?
 
@@ -338,19 +336,13 @@ One Student: All right, but why does the teacher make our lives miserable by ask
 
 Another Student: What can he do? He can teach only what is in the book.
 
-One Student: But wasn't that book also written by a teacher like him?
+One Student: But was that book not also written by a teacher like him?
 
 Another Student: Yes.
 
-Another Student: Why did that man lie? I do not know why all these people conduct nothing but a trade in bundles of lies...
+Another Student: Why did that man lie? I do not know why all these people conduct nothing but a trade in bundles of lies.
 
-[Some students]
-
-Hey! The teacher! The teacher!
-
-[A teacher approaches the classroom.]
-
-[After the teacher sits down]
+[Some students shout that the teacher is coming. A teacher approaches and sits down.]
 
 Teacher: Questions first, then the new lesson. Close your books. Hey! How many continents are there?
 
@@ -378,9 +370,7 @@ Teacher: In geography class the names are Africa, America, Asia and so on. There
 
 One Student: We are only small children, sir. Why do they confuse us by teaching us two different sets of answers like this?
 
-[Forgetting his anger, the teacher laughs.]
-
-[The student too forgets the beating and laughs.]
+[Forgetting his anger, the teacher laughs. The student too forgets the beating and laughs.]
 
 Student: Sir! The Tamil teacher says there is an Ocean of Milk. You say there is a Pacific Ocean.
 
@@ -388,13 +378,13 @@ Teacher: Yes. What can be done about that? The Tamil teacher will even tell you 
 
 Student: Then why does the Tamil teacher tell lies, sir?
 
-Teacher: [Laughing] Go on! Is he the one who invented the lie? That is how it is written in the book...
+Teacher: [Laughing] Go on! Is he the one who invented the lie? That is how it is written in the book.
 
-Student: If we make even one spelling mistake, you rap us on the head and make us stand on the bench...
+Student: If we make even one spelling mistake, you rap us on the head and make us stand on the bench.
 
 Teacher: All right, all right! Sit down.
 
-Student: Sir, the ten-headed Ravana, the Ocean of Milk and the netherworld: all these are false, aren't they?
+Student: Sir, the ten-headed Ravana, the Ocean of Milk and the netherworld: all these are false, are they not?
 
 Teacher: Yes. But from now on, none of us may speak to you about them in this way.
 
@@ -422,7 +412,7 @@ Another Student: My mother thinks exactly the same way.
 
 Teacher: Your mother?
 
-Student: Yes, sir! Sometimes she serves curry made in the morning. I usually smell it first. She says, "You donkey! Why are you smelling it? Just eat it without talking."
+Student: Yes, sir! Sometimes she serves curry made in the morning. I usually smell it first. She says, “You donkey! Why are you smelling it? Just eat it without talking.”
 
 Teacher: Why?
 
@@ -444,13 +434,11 @@ Student: How can the two be alike, sir? Does my mother receive a salary of one t
 
 [Laughter again.]
 
-Another Student: Hey! You keep saying "my mother." Do you really mean...?
+Another Student: Hey! You keep saying “my mother.” Do you really mean...?
 
 Student: When I say my mother, I do not mean my own mother. I mean the woman my father has now married, his second wife.
 
-[Laughter again.]
-
-[The teacher strikes the table. Silence settles over the classroom, and he begins the lesson.]
+[Laughter again. The teacher strikes the table. Silence settles over the classroom, and he begins the lesson.]
 
 Teacher: The perennial rivers Ganges, Brahmaputra, Indus and others rise in the Himalayas...
 
@@ -460,8 +448,12 @@ Tamil Teacher's Voice: In the Himalayas, Lord Shiva stands with Goddess Parvati 
 
 [The class continues.]
 
-*Dravida Nadu*, 19 October 1947.
+*Dravida Nadu, 19 October 1947.*
 
 ## Translator's Notes
 
-The printed title `அவனாசியார்` is a satirical coinage that echoes Education Minister T. S. Avinashilingam's name; it is therefore transliterated as *Avanasiyar* rather than normalized into a different Tamil phrase. Images 2-5 were recovered directly from the scans after the original OCR pass missed their transparent-background text. The humour in the opening depends on the near-homophones `லோகங்கள்` (worlds) and `உலோகங்கள்` (metals); the translation explains the distinction through context.
+The printed title `அவனாசியார்` is a satirical coinage echoing Education Minister T. S. Avinashilingam's name. It is therefore transliterated as *Avanasiyar* rather than normalised as “அவன் ஆசிரியர்.”
+
+Images 2-5 were recovered directly from the scans after the original OCR pass missed their transparent-background text. The complete five-page scene is retained and translated.
+
+The opening joke depends on the near-homophones `லோகங்கள்` (worlds) and `உலோகங்கள்` (metals); the English explains the mistaken hearing through context.
