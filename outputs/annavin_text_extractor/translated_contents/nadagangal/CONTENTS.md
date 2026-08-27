@@ -11,7 +11,7 @@ Total source works: 62
 - [nadagangal/avanasiyar_1](avanasiyar_1.md) - translated
 - [nadagangal/avar_pesathathu_1](avar_pesathathu_1.md) - translated
 - [nadagangal/avargal_ullam_1](avargal_ullam_1.md) - translated
-- [nadagangal/bagirathiyin_1](bagirathiyin_1.md) - pending
+- [பாகீரதியின் பந்தயம்](bagirathiyin_1.md) - translated
 - [nadagangal/bajirao_1](bajirao_1.md) - translated
 - [nadagangal/bankak_bankaja_1](bankak_bankaja_1.md) - pending
 - [nadagangal/bankar_1](bankar_1.md) - translated
