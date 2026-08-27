@@ -68,7 +68,7 @@ class IncorrectSourceGuardTest(unittest.TestCase):
         self.assertEqual(missing_transition["direction"], "none")
         self.assertIn("Images 4 and 5", missing_transition["reason"])
 
-    def test_queue_holds_ocr_works_with_blank_image_sections(self):
+    def test_queue_holds_unrecovered_ocr_works_with_blank_image_sections(self):
         subprocess.run(
             ["python3", str(BASE / "prepare_translation_queue.py"), "--inspect-content"],
             check=True,
@@ -78,9 +78,11 @@ class IncorrectSourceGuardTest(unittest.TestCase):
         with (STATE / "translation_queue.csv").open(encoding="utf-8-sig", newline="") as handle:
             rows = {row["file"]: row for row in csv.DictReader(handle)}
         row = rows["nadagangal/bankak_bankaja_1.md"]
-        self.assertEqual(row["status"], "needs_source_recovery")
-        self.assertEqual(row["direction"], "none")
-        self.assertIn("7 blank image section(s)", row["reason"])
+        self.assertEqual(row["status"], "translated")
+        recovered_source = (
+            BASE / "ocr_text_corrected/nadagangal/bankak_bankaja_1.md"
+        ).read_text(encoding="utf-8")
+        self.assertNotIn("_No OCR text detected._", recovered_source)
         late_blank = rows["sorpozhivugal/150767.md"]
         self.assertEqual(late_blank["status"], "needs_source_recovery")
         self.assertIn("1 blank image section(s)", late_blank["reason"])

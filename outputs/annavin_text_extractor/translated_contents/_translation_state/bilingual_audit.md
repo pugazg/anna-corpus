@@ -9,33 +9,33 @@
 | katturaigal | 1388 | 540 | 540 | 848 |
 | kavithaigal | 77 | 77 | 77 | 0 |
 | Kurunavalgal | 25 | 0 | 0 | 25 |
-| nadagangal | 62 | 31 | 31 | 31 |
+| nadagangal | 62 | 32 | 32 | 30 |
 | navalgal | 6 | 0 | 0 | 6 |
 | paettigal | 26 | 26 | 26 | 0 |
 | root | 5 | 5 | 5 | 0 |
 | sirukathaigal | 109 | 108 | 108 | 1 |
 | sorpozhivugal | 537 | 184 | 184 | 353 |
-| **All included sections** | **2511** | **980** | **980** | **1531** |
+| **All included sections** | **2511** | **981** | **981** | **1530** |
 
 ## OCR-Origin Translation Progress
 
 | Section | OCR target | Completed | Bilingual with source retained | Pending |
 |---|---:|---:|---:|---:|
 | katturaigal | 552 | 539 | 539 | 13 |
-| nadagangal | 61 | 31 | 31 | 30 |
+| nadagangal | 61 | 32 | 32 | 29 |
 | sirukathaigal | 108 | 108 | 108 | 0 |
 | sorpozhivugal | 241 | 184 | 184 | 57 |
-| **All OCR-origin sections** | **962** | **862** | **862** | **100** |
+| **All OCR-origin sections** | **962** | **863** | **863** | **99** |
 
 ## OCR Source Recovery Status
 
 | Section | Works with blank image sections | Blank pages |
 |---|---:|---:|
 | katturaigal | 0 | 0 |
-| nadagangal | 27 | 386 |
+| nadagangal | 26 | 379 |
 | sirukathaigal | 0 | 0 |
 | sorpozhivugal | 5 | 10 |
-| **All OCR-origin sections** | **32** | **396** |
+| **All OCR-origin sections** | **31** | **389** |
 
 A blank image section has an explicit no-text marker or no OCR body after its image reference. The canonical Tamil source is not translation-ready even when the scan itself may be readable.
 
@@ -45,7 +45,6 @@ A blank image section has an explicit no-text marker or no OCR body after its im
 - `nadagangal/aalai_arumugam.md`: 7 blank page(s)
 - `nadagangal/ambal_kadatcham.md`: 9 blank page(s)
 - `nadagangal/avan_pithana.md`: 6 blank page(s)
-- `nadagangal/bankak_bankaja_1.md`: 7 blank page(s)
 - `nadagangal/bharatham_1.md`: 5 blank page(s)
 - `nadagangal/chandramohan.md`: 22 blank page(s)
 - `nadagangal/dhrogi_kaplan_1.md`: 3 blank page(s)

@@ -1,4 +1,10 @@
-# nadagangal/bankak_bankaja_1
+# பாங்காங் பங்கஜா / Bangkok Pankaja
+
+**Tamil title:** பாங்காங் பங்கஜா  
+**English title:** Bangkok Pankaja  
+**Source file:** `nadagangal/bankak_bankaja_1.md`
+
+## Source Tamil (verbatim)
 
 - Source image folder: `/Users/pugazhendhirajendran/Documents/Codex/2026-07-09/https-www-annavinpadaippugal-info/outputs/annavin_text_extractor/ocr_images/nadagangal/bankak_bankaja_1`
 - OCR language: `tam`
@@ -575,3 +581,287 @@
 திராவிடநாடு - 31-7-1955.
 
 ☆ ☆ ☆ ☆ ☆
+
+## English Translation
+
+*(A Few Imagined Scenes)*
+
+## Scene 1
+
+**Place:** “Panchavati.”
+
+**Present:** Kumudam and Suppi.
+
+[Kumuda is a beautiful twenty-five-year-old woman in fashionable dress. Reclining in an easy chair, she reads an English magazine filled with pictures. Soft music plays on the radio.
+
+Suppi, thirty, is poor but sturdily built and moderately attractive. She is the household servant. She enters carrying a Burmese broom.
+
+Seeing her, Kumuda crosses one leg over the other and speaks. Suppi answers while repeatedly looking at the pictures displayed in the hall.]
+
+**Kumudam:** Suppi! I hear your husband Sellan ran away somewhere without telling anyone! Have you heard anything?
+
+**Suppi:** Yes, madam! A letter came only yesterday. Because he had run away without telling anybody, I had been lying awake, fearing that something had happened. Only yesterday he wrote. It seems he is in the Andamans.
+
+**Kumudam:** He has gone to the Andamans? Why did he go?
+
+**Suppi:** They say many people from here are going there. Is the government not giving them wet and dry land free of charge?
+
+**Kumudam:** Then you are lucky. Did your husband get land? How many acres?
+
+**Suppi:** You are mistaken! Land or water for my husband? They say the government gave the land to that gentleman from the Big Street. My husband merely works on it.
+
+**Kumudam:** Is that so?
+
+**Suppi:** Instead of doing that same wage labour here and living on whatever gruel or water he could get, just look at his crooked thinking: he has run away to some island no one can even see.
+
+## Scene 2
+
+**Place:** “Panchavati.”
+
+**Present:** Kumudam, Suppi and Pankajam.
+
+[Pankajam is an attractive woman of twenty-two, with lively eyes, dimpled cheeks and a slender figure. She is dressed without excessive ornament. When she enters the hall, Suppi and Kumudam stop talking. Kumudam springs from the easy chair, takes Pankaja by both hands, embraces her and leads her towards a chair while speaking. Suppi leaves.]
+
+**Kumudam:** Well, well! You are as rare as the flowering of a fig tree! Come, Pankajam!
+
+**Pankajam:** Neither has the fig flowered nor the banyan borne fruit. I came earlier, but it was a sight of you that I could not obtain.
+
+**Kumudam:** I was very sorry when I heard. The whole town says your Bharatanatyam at the zamindar's wedding was magnificent.
+
+**Pankajam:** You speak like this to my face, then make fun of me behind my back. Never mind that. Did you even know my dance was part of the wedding?
+
+**Kumudam:** Forgive me. The wedding invitation said “Dance by Pankaja.” I thought it was somebody else. Only a week later did he say, “Was that not your friend Pankaja dancing at the Vedapuram zamindar's wedding?” Then I looked again. It said Pankaja, and beneath it in tiny letters, “Sama Iyer's daughter.”
+
+**Pankajam:** That is the full extent of your friendship! We were inseparable in college, and afterwards you forgot me completely. That is how friendship with rich people is.
+
+**Kumudam:** If I had been in town, would I not at least have attended the wedding for your dance? I saw the invitation only in Calcutta. While your dance was taking place, I was in Bangkok.
+
+**Pankajam:** When did you return?
+
+**Kumudam:** Ten days ago. One of his colleagues, Upendra, comes from Udaipur. He insisted that we stay at his bungalow for at least four days. I apologised, said we would do it another time, and flew home. I must go to Mysore for Dasara. You know Kesava Iyengar's daughter Kasturi; I had given her my word. So although he might be angry, I left Bangkok and came home.
+
+**Pankajam:** Where is he now?
+
+**Kumudam:** He will be in Hong Kong now!
+
+**Pankajam:** Oh, go away! You people fly back and forth between Burma, Bangkok and Hong Kong. Does any little benefit from it reach us? You receive a large salary. What else?
+
+**Kumudam:** You always have my help. Look, as soon as he returns from Hong Kong, I shall tell him.
+
+**Pankajam:** Let your telling him and securing something for me wait until he returns. Do me a favour while he is still there.
+
+**Kumudam:** What should I do? Tell me.
+
+**Pankajam:** Ask him to arrange my dance tour: Hong Kong, Bangkok, Saigon and Rangoon.
+
+**Kumudam:** It can easily be done. What obstacle is there? He now works in precisely that department.
+
+**Pankajam:** Is there a whole government department just for dance?
+
+**Kumudam:** Silly girl! Not just for dance. It was established as the Department of Cultural Cooperation, on the principle that peace and prosperity will prevail if the peoples of many countries mingle with one another. He is now its director.
+
+**Pankajam:** This is the right opportunity to show the world my talent. Never mind my own talent: it is a chance to show the world the greatness of Bharatanatyam.
+
+**Kumudam:** Would that not make me proud too? If my college mate Pankaja danced in Bangkok, Hong Kong and all those places, and everyone enjoyed and praised her, I too would be proud. But my husband is a certain sort of man. He is terribly susceptible.
+
+**Pankajam:** Kumuda, your tongue is much too sharp. What do you mean by telling me that your husband is susceptible?
+
+**Kumudam:** For shame, silly girl! I did not mean on account of you. They first considered you as a bride for him, did they not? I am not afraid that you will go and enchant him. But he is a fickle man. If I myself suggest arranging a Bharatanatyam tour and he uses that as a pretext to follow film stars, what am I to do? That is my fear.
+
+**Pankajam:** You rogue! No star can enchant him as you do.
+
+**Kumudam:** I have always had that confidence. Very well, I shall write today itself. But what will your father say? Will he consent to your travelling so far away?
+
+**Pankajam:** Why should distance matter? My father is no hidebound conservative who would forbid it. He himself wants to go to Europe because, he says, the Vedantists' Association is holding a conference there.
+
+**Kumudam:** Is that so? What place can now be called distant? Travelling to London and Paris has become like going back and forth between Mylapore and Triplicane. Look at our servant Suppi. Do you know where her husband is now? He has gone to the Andamans!
+
+## Scene 3
+
+**Place:** A road.
+
+**Present:** Kathan and Muthu.
+
+[Kathan, forty, has a rough appearance. Muthu, fifty, is accustomed to enduring suffering. They speak while twisting palmyra fibre into rope.]
+
+**Kathan:** Let him be, elder brother. Let him be. I too shall see where that scoundrel ends up.
+
+**Muthan:** Let it go, Kathan. He did something foolish in a drunken state.
+
+**Kathan:** Do you know what that wretch meant to do?
+
+**Muthu:** Do I need every detail explained before I understand? Mad fellow! Why else would he try to take the girl carrying a bundle of grass into the casuarina grove? Is even that hard to understand?
+
+**Kathan:** Do you know what he said when he called her? “Girl! A cobra and another snake are rolling together in that casuarina grove. Come, I will show you.” She is half-witted, so she ran after him saying, “Where, brother? Come, let us see.”
+
+**Muthu:** Leave it. By good fortune you happened to go that way at the same time, and he received a proper thrashing. It was Kanniyamma's grace. But why were you there at that hour?
+
+**Kathan:** I had gone on an errand.
+
+**Muthu:** Come on, tell me.
+
+**Kathan:** Me? That is a secret.
+
+**Muthu:** You think it is a secret I do not know, Kathan? I know everything. Pachai...
+
+**Kathan:** Oh, leave it, elder brother. I had gone for that poor woman.
+
+**Muthu:** Pachai, yes! I know. Where is that girl now?
+
+**Kathan:** Pachai and her husband have gone north, where they are digging a lake as big as the sea. They have gone to work there.
+
+**Muthu:** It is neither an ocean nor a sea. It is a dam. “Dam” means building an embankment. I worked there for six months.
+
+**Kathan:** Do they pay good wages, elder brother?
+
+**Muthu:** They pay wages, but...
+
+**Kathan:** But what?
+
+**Muthu:** Look at me and you will understand. My body was completely ruined. We do not get nourishment equal to our hard labour. Here we somehow find something to eat; there it is a little harder. That is all.
+
+**Kathan:** There is hardship everywhere.
+
+**Muthu:** You cannot put it that way. Take the master I work for, the great doctor. Important men come to him in cars. They say something and give him something; he gives them a certificate, and the government itself gives them the opportunity to buy the supplies they need to eat. Everything works for people with money; they can obtain anything.
+
+**Kathan:** They say the doctor's younger sister has come. Has she travelled through all sorts of countries?
+
+**Muthu:** Yes. Her husband has a high post and earns five or six thousand, they say. They are now somewhere in China or Japan.
+
+**Kathan:** They too go abroad, and our people too go abroad.
+
+## Scene 4
+
+**Place:** The street-side room of “Panchavati.”
+
+**Present:** Dr Thathachar and Rangavadivelu; later Kumuda and Pankaja.
+
+[Dr Thathachar is forty-five but dresses like a young man. Medicines are arranged in rows in a cabinet, and ornate chairs fill the room. He speaks loudly and often laughs for no reason. Rangavadivelu, forty, is a businessman with a crafty manner of speaking. They sit on facing sofas. Dr Thathachar speaks while blowing out cigarette smoke.]
+
+**Rangavadivelu:** Doctor, I have obtained the passport! After seeing your report, the minister could raise no objection.
+
+**Dr Thathachar:** Excellent! Did I not write that the doctor named in my report is the most celebrated physician in Switzerland and that you can recover only by undergoing treatment with him? No minister could offer a contrary opinion.
+
+**Rangavadivelu:** Yes. The minister issued the passport and even sent his good wishes.
+
+**Doctor:** When do you intend to leave?
+
+**Rangavadivelu:** On the fifteenth of next month; I have selected the date. The women at home are terribly afraid.
+
+**Doctor:** Afraid of what? The illness?
+
+**Rangavadivelu:** Not that. They themselves know I am going to Switzerland for more than merely curing an illness. They have a vague fear about my travelling to a distant country.
+
+**Doctor:** Such fear in this day and age? Every day, turn a newspaper's pages and every tenth report is about one of our people travelling abroad. What is there to fear now?
+
+**Rangavadivelu:** I have reassured them. You too should visit the house once and speak to them.
+
+**Doctor:** Certainly, I shall come. Come here, Kumuda! This is my friend Rangavadivelu, a dubash, who is going to Europe. This is my sister Kumuda. Ask her where she has travelled. She has covered the whole of East Asia. I once asked whether she knew Sukarno. “Of course I know him well; I met him at a party,” she says. She has visited many countries. Her husband is now in Hong Kong. What a fortunate horoscope he has! Ah, I keep talking. Who is this? Is it Pankaja?
+
+**Kumuda:** Yes, brother. Pankaja is now a great dance star.
+
+**Doctor:** Is that so? Which film is she acting in?
+
+**Kumuda:** She has not yet acted in a film. Arrangements are being made for her dance in Bangkok, Hong Kong and elsewhere.
+
+**Doctor:** Bravo! Bharatanatyam is now in great demand abroad.
+
+**Rangavadivelu:** Indeed! And what do you say about our mangoes? They are also in tremendous demand abroad.
+
+**Pankaja:** If Bharatanatyam is valued abroad, does that mean it ought not to be valued here? It must be honoured here as well.
+
+**Rangavadivelu:** Yes, yes.
+
+**Doctor:** An idea has occurred to me. Shall I tell you? We shall hold a party for your departure to Switzerland, at which I shall present you with an address of felicitation. Pankaja shall dance at that party! What do you think of my idea?
+
+**Kumuda:** A-one! A first-rate idea.
+
+**Rangavadivelu:** Splendidly done!
+
+**Kumuda:** “A Dance by Pankaja, Bangkok-Famed Exponent of Bharatanatyam.” How is my description? Is that enough, Pankaji?
+
+**Pankaja:** Oh, go away. You always tease me. People may advertise me that way after I return from Bangkok.
+
+**Rangavadivelu:** What does that matter? Since you are going to Bangkok, there is some justification for it.
+
+**Doctor:** Bravo! You should have become a lawyer. Then the party will be next Sunday, with Pankaja's dance.
+
+**Kumuda:** “Bangkok-famed...”
+
+**Doctor:** Yes, print it exactly so. Pankaja will not be paid a fee. Only her expenses will be covered. I shall tell her everything on his behalf. Expenses alone will be paid. Sir, a cheque for five hundred...
+
+**Rangavadivelu:** I can simply pay the money after we reach home. Will you come and see our house as well?
+
+**Pankaja:** Kumuda, shall I leave now?
+
+**Kumuda:** Go and make it a grand success!
+
+## Scene 5
+
+**Place:** An earthen mound beside two huts.
+
+**Present:** Chinnan and Mannar.
+
+[Crying rises intermittently from inside one hut. Chinnan and Mannar stand on the mound with a spade and basket. Both are destitute labourers who have toiled without reward. They stop working and speak.]
+
+**Chinnan:** Why is everyone in Ponnan's hut wailing without pause?
+
+**Mannar:** Ponnan is going to Penang. They cry, “He is leaving his home; when will he return, and what shall we do?”
+
+**Chinnan:** What can be done? If he goes to Penang, there will be nobody to protect that family.
+
+**Mannar:** That is why. His poor mother must be sixty and is blind in both eyes. She beats her head and weeps. His poor wife and their three children are wailing.
+
+## Scene 6
+
+**Place:** The road beside the earthen mound.
+
+**Present:** Kathan and Muthan.
+
+[Kathan enters with a bundle of firewood on his head. Muthan pushes a bicycle. They speak when they meet.]
+
+**Kathan:** Elder brother! What is all that celebration at the mansion? Dancing and singing!
+
+**Muthan:** Do you not know? Rangavadivelu is going to Switzerland, so they are holding a banquet. The dance is also for that.
+
+**Kathan:** Where did they drag that dancing woman from?
+
+**Muthan:** Hey! Do not speak that way! She is a woman from a great family. She too is going to another country, to dance.
+
+**Kathan:** Everyone is going abroad.
+
+**Muthan:** Even our Sellan has gone, has he not?
+
+**Kathan:** Did he go as these people do? He has gone to the Andamans!
+
+## Scene 7
+
+**Place:** The celebration hall at “Sabarmati.”
+
+**Present:** Rangavadivelu, Dr Thathachar, dignitaries, Kumuda, several other women, Professor Pandu, his student Mani and many others.
+
+[Garlanded and smiling, Rangavadivelu sits on a chair. The dignitaries are cheerful. Kumuda and the doctor repeatedly watch the dancing Pankaja with delight. Professor Pandu watches the dance in rapture. His student Mani stands open-mouthed in wonder.
+
+One portion of the dance concludes. Everyone applauds. The professor takes the student outside and speaks to him a short distance from the festival pavilion.]
+
+**Professor Pandu:** Was the woman who danced “Bangkok”?
+
+**Mani:** No, sir! She is from a nearby town. Her name is Pankaja.
+
+**Professor:** Why, then, is the name Bangkok attached to her?
+
+**Mani:** Pankaja is to represent India at a dance festival that will be held in Bangkok.
+
+**Professor:** Is that so! Oh, our country's art receives such a welcome abroad. I shall speak in praise of Pankaja.
+
+**Mani:** I shall take notes and send them to the newspapers, sir, about “Bangkok-famed Pankaja.”
+
+*Dravida Nadu, 31 July 1955.*
+
+## Translator's Notes
+
+“Bangkok Pankaja” is the publicity label manufactured inside the play before Pankaja has visited Bangkok. The title preserves the alliteration and the satire of prestige acquired through a promised foreign appearance.
+
+The source contrasts the cosmopolitan travel of officials, doctors, artists and wealthy businessmen with poor workers driven to the Andamans, Penang and dam works by hunger. Colloquial and caste-marked speech registers have therefore been represented in natural English dialogue without erasing the class contrast.
+
+The printed word `சதயம்` in Scene 2 is retained in the Tamil source. Its precise intended sense is uncertain in context; it may be a damaged or period-specific expression concerning Kumuda's promise to Kasturi.

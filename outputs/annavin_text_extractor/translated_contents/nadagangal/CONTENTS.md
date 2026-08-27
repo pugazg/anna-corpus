@@ -13,7 +13,7 @@ Total source works: 62
 - [nadagangal/avargal_ullam_1](avargal_ullam_1.md) - translated
 - [பாகீரதியின் பந்தயம்](bagirathiyin_1.md) - translated
 - [nadagangal/bajirao_1](bajirao_1.md) - translated
-- [nadagangal/bankak_bankaja_1](bankak_bankaja_1.md) - pending
+- [nadagangal/bankak_bankaja_1](bankak_bankaja_1.md) - translated
 - [nadagangal/bankar_1](bankar_1.md) - translated
 - [nadagangal/bharatham_1](bharatham_1.md) - pending
 - [nadagangal/chandramohan](chandramohan.md) - pending
