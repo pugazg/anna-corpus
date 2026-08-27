@@ -14,7 +14,7 @@ Total source works: 62
 - [nadagangal/bagirathiyin_1](bagirathiyin_1.md) - pending
 - [nadagangal/bajirao_1](bajirao_1.md) - translated
 - [nadagangal/bankak_bankaja_1](bankak_bankaja_1.md) - pending
-- [nadagangal/bankar_1](bankar_1.md) - pending
+- [nadagangal/bankar_1](bankar_1.md) - translated
 - [nadagangal/bharatham_1](bharatham_1.md) - pending
 - [nadagangal/chandramohan](chandramohan.md) - pending
 - [nadagangal/chandrodhayam](chandrodhayam.md) - pending
