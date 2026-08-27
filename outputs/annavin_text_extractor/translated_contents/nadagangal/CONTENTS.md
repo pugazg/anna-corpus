@@ -20,7 +20,7 @@ Total source works: 62
 - [nadagangal/chandrodhayam](chandrodhayam.md) - pending
 - [nadagangal/congresswala_1](congresswala_1.md) - translated
 - [nadagangal/dharmam_thalai_1](dharmam_thalai_1.md) - translated
-- [nadagangal/dhrogi_kaplan_1](dhrogi_kaplan_1.md) - pending
+- [nadagangal/dhrogi_kaplan_1](dhrogi_kaplan_1.md) - translated
 - [nadagangal/enthan_thiru_1](enthan_thiru_1.md) - translated
 - [nadagangal/gandhi_jayanthi_1](gandhi_jayanthi_1.md) - pending
 - [nadagangal/ilangogin_sabatham_1](ilangogin_sabatham_1.md) - pending

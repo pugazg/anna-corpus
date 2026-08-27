@@ -1,4 +1,10 @@
-# nadagangal/dhrogi_kaplan_1
+# துரோகி கப்லான் / Traitor Kaplan
+
+**Tamil title:** துரோகி கப்லான்  
+**English title:** Traitor Kaplan  
+**Source file:** `nadagangal/dhrogi_kaplan_1.md`
+
+## Source Tamil (verbatim)
 
 - Source image folder: `/Users/pugazhendhirajendran/Documents/Codex/2026-07-09/https-www-annavinpadaippugal-info/outputs/annavin_text_extractor/ocr_images/nadagangal/dhrogi_kaplan_1`
 - OCR language: `tam`
@@ -543,3 +549,242 @@
 திராவிட நாடு, 2-12-1945
 
 ☆ ☆ ☆ ☆ ☆
+
+## English Translation
+
+*A Historical Portrait*
+
+When the heroic Lenin laboured immensely to establish Soviet rule, many dangers surrounded and threatened him. Dullards who did not understand his noble purpose and villains who betrayed others for hire plotted repeatedly to kill Lenin. The fearless man was daunted by nothing. He did not fear even a traitor's gun. Many grave dangers arose, and he escaped them. One such peril is portrayed here as a short play.
+
+## Act 1
+
+**Characters:**
+
+- Lenin, leader of Russia
+- Konstantinov, commander of a foreign espionage force
+- Kaplan, Kotovich, Novikov and Singayevsky, opponents of Bolshevism
+- Party termites
+- A foreign diplomatic envoy
+
+**Place:** A room in a country mansion. The foreign envoy and Konstantinov, commander of the espionage force, are in conversation.
+
+**Time:** Morning.
+
+**Envoy:** This Bolshevik menace must be eliminated quickly. Otherwise it will spread to our countries too and destroy the lives of the wealthy. It would be best to use Lenin's own enemies for the purpose.
+
+**Konstantinov:** True.
+
+**Envoy:** What arrangements have you made so far? Let us hear them.
+
+**Konstantinov:** [Closing the doors.] Every arrangement has been made properly. Only one signal is needed, and the task will be completed. I have stationed men so that attacks upon the Bolsheviks can take place everywhere at one appointed hour. It will be a single blow. On the same day that Lenin and Sverdlov are shot down in Moscow, Stalin will be shot in Tsaritsyn and Uritsky in Petrograd. Confusion will break out everywhere at once. We can exploit that confusion and seize the Kremlin that very night. By the following morning, the Bolsheviks' rule and authority will have vanished.
+
+**Envoy:** To whom will responsibility for governing the new Russian state be given?
+
+**Konstantinov:** Why should that concern us? Let the party termites who oppose Lenin and Stalin's group come to power. They are the ones who will come.
+
+**Envoy:** Have you met them and made the necessary arrangements?
+
+**Konstantinov:** Would I leave them out?
+
+**Envoy:** Do they know that they are being used to fulfil our purpose?
+
+**Konstantinov:** For shame! I have instead planted in them the belief that we are being used for their sake. I have behaved so that they think us fools whom they are cleverly employing to achieve their own aim.
+
+**Envoy:** Who will occupy the principal offices in the new government?
+
+**Konstantinov:** Pyatakov will become head of the government. Bukharin will be the general secretary.
+
+**Envoy:** But both men you name are Bolshevik leaders! Lenin places great trust in them.
+
+**Konstantinov:** True, but they are our instruments.
+
+**Envoy:** Very well. When does the operation begin?
+
+**Konstantinov:** If you wish, we can begin today. We previously attempted to kill Lenin, but at the time we failed to select a person suited to the task. That was our mistake. Now I have completed every arrangement. Fortunately, a public meeting is being held today at the Michelson factory, where Lenin is to speak. We can therefore finish everything easily today. Our men are ready, awaiting our signal. Once coded telegrams are sent to Petrograd and Tsaritsyn, everything will fall into place.
+
+**Envoy:** Excellent. Let us begin today!
+
+**Konstantinov:** Yes, exactly.
+
+**Envoy:** [Shaking Konstantinov's hand.] Agreed.
+
+**Konstantinov:** Agreed. Tomorrow morning, I hope to meet you openly in your office under the new government. Down with the Bolsheviks!
+
+**Envoy:** Yes, Bolshevism must be destroyed. May you succeed! Be careful and remain vigilant in your work. As Elizabeth's future husband, you must take care of yourself. Elizabeth asked me to tell you this. Be careful. Farewell.
+
+**Konstantinov:** Farewell.
+
+[The envoy leaves. Konstantinov opens the doors and goes into the courtyard.]
+
+**Konstantinov:** Novikov!
+
+[Novikov enters.]
+
+**Konstantinov:** Is Kaplan here?
+
+**Novikov:** She is.
+
+**Konstantinov:** What condition is she in?
+
+**Novikov:** That tigress? She is drinking.
+
+**Konstantinov:** Call her. Tell Kotovich to come in too.
+
+[Novikov leaves. After a short while Kaplan and Kotovich enter.]
+
+**Konstantinov:** [Walking towards Kaplan and drawing close.] The day on which it will be done has been decided.
+
+**Kaplan:** [Astonished.] When?
+
+**Konstantinov:** Today.
+
+**Kaplan:** Me?
+
+**Konstantinov:** You? Sit down and I shall tell you.
+
+**Kotovich:** [To Kaplan.] Lady Kaplan, the day has come for you to perform your duty. You have lived for twenty-eight years, yet nobody knows you. All twenty-eight years of your life have passed in vain. You have wasted thousands of days without any ideal. What good is there if your future too passes without excitement or purpose? Is there even one person in this world who feels the slightest concern for you? No. You will gain nothing from an empty life that is useless to everyone. But your remaining days must not be wasted in this manner. They must not! Tomorrow your name will become famous in history, my dear Kaplan. From tomorrow, the entire world will follow every minute of your life with intense interest. Your name will become world-famous. The world will celebrate you as the slight and slender woman who eliminated Lenin, the great menace to all humanity.
+
+**Kaplan:** [She smokes continuously and mutters something to herself.]
+
+**Konstantinov:** Kaplan! Even if the enemy arrests you, no danger will befall you. Once you finish the task today, we shall destroy Bolshevik rule tonight. Every arrangement has been completed and is ready. Therefore, even if they arrest you, you will be free again tonight. And how? Within an hour...
+
+**Kotovich:** The public will release you from prison, carry you upon their shoulders and parade you through the streets. Every newspaper will publish your picture and praise you. Do you understand, my dear Kaplan?
+
+**Kaplan:** [Rising and facing Konstantinov.] Yes! Give me the pistol quickly. Give it to me at once!
+
+[Konstantinov gives Kaplan a revolver.]
+
+## Act 2
+
+**Characters:**
+
+- The party termites
+- Koptev, elderly watchman at the Michelson factory
+- Gil, Lenin's chauffeur
+- Vasili, Lenin's secretary
+
+**Place:** The Michelson factory and its grounds.
+
+**Time:** Evening.
+
+[Factory workers and members of the public have gathered in a great crowd. Lenin is delivering a speech inside the meeting. On the field to the right of the factory stands the motorcar in which he arrived. Gil, the chauffeur, reads a newspaper. The gates leading into the factory are in the centre. Koptev, the elderly watchman, walks back and forth with a rifle over his shoulder. From time to time he goes near the entrance and listens intently to the speech inside. Applause, laughter and cheering continue within the building.]
+
+**Gil:** You seem very eager to hear the speech! Why do you not sit inside the meeting and listen?
+
+**Koptev:** I would very much like to hear it, but I cannot go.
+
+**Gil:** Is this your working time?
+
+**Koptev:** Yes. The factory committee appointed me because they decided that assigning one man to this duty was better than every alternative. If they put up a fence, people might steal it for firewood. There is no wall around the factory, so anyone can come or go and carry away anything. Put an old man on guard and give him a rifle, and the place can be said to be protected. That is what I am.
+
+**Gil:** Like the scarecrow they place to guard a field. Quite so!
+
+**Koptev:** Ah, listen! [A burst of applause comes from inside.] I would pay any sum demanded to join that meeting. But duty is duty, and I shall perform it properly.
+
+**Gil:** Have you ever heard Lenin speak before?
+
+**Koptev:** Me? Comrade Lenin and I are old comrades, you know.
+
+**Gil:** Old comrades?
+
+**Koptev:** Yes. I have known him since the days of the old Tsarist rule. Lenin's family lived in our village.
+
+**Gil:** In your village?
+
+**Koptev:** Yes. In those days everyone in our village sought Lenin whenever they needed help. Did some writing need to be done? He would do it. Did someone need to file a petition? He would prepare it. Was there a dispute? He would offer kind words and reconcile the parties. He would not accept even a single copper coin for any of it. If anyone gave him money, he refused it; if they sent any other gift, he returned it. The villagers honoured and praised him as the leader of their village.
+
+[While speaking, Koptev sits on the step of the motorcar and puts a cigarette in his mouth. Kaplan, Novikov and Singayevsky enter.]
+
+**Kaplan:** There is Lenin's motorcar. The chauffeur is there too. I shall approach him and ask.
+
+**Novikov:** Go. [To Singayevsky.] You remain here.
+
+**Kaplan:** [Approaching the car.] Greetings, comrade.
+
+**Gil:** Greetings.
+
+**Kaplan:** Did the meeting begin long ago?
+
+**Gil:** Yes, a long time ago. It is nearly over.
+
+**Kaplan:** Who is speaking? Who came in this car?
+
+**Gil:** How should I know? Some speaker or somebody else may have come.
+
+**Kaplan:** Are you not the chauffeur? Do even you not know who came?
+
+**Gil:** That is not my work. All kinds of people ride in my car. I do not make a habit of identifying and remembering each of them.
+
+[He resumes reading. Kaplan moves away. Novikov joins her.]
+
+**Novikov:** [Quietly.] It is Lenin. He is finishing his speech. Remain here. Shoot him as he gets into the car. I shall enter the factory and stand near the door. When Lenin comes, I shall allow only him to emerge first and then try to obstruct and delay the crowd behind him. Will you finish your task?
+
+**Kaplan:** Yes. I shall shoot when he places his foot in the car.
+
+**Novikov:** Do not miss. Understand? If you cannot kill him with one shot, I shall finish him. Try to succeed.
+
+**Kaplan:** [Trembling.] Go! Go!
+
+[Kaplan moves away. Novikov enters the building.]
+
+**Koptev:** [To Gil.] Who are they?
+
+**Gil:** I do not know.
+
+**Koptev:** Why are they trying to discover who came in this car and who is speaking?
+
+**Gil:** I gave them none of that information.
+
+**Koptev:** That woman looks extremely agitated and trembles. Who can they be?
+
+[He rises and watches Kaplan, who sits on a block of wood in a corner. She does not see him arrive. Standing near the doorway, Novikov notices Koptev watching Kaplan. He immediately calls Singayevsky, who is nearby.]
+
+**Novikov:** Look at that old man. When I signal, stand at this corner and shout with all your strength, “The factory is being robbed! Come and help!” He will run from his post. Escape without letting the old man catch you, and make him chase after you. Understand?
+
+**Singayevsky:** Yes. I shall do exactly that.
+
+**Novikov:** Good. Take your position.
+
+[Singayevsky leaves. Novikov enters the building and stands by the door.]
+
+**Koptev:** [Returning and sitting on the car's step.] I must keep watching that woman. I do not like the look in her eyes. [Applause is heard inside.] Even now I remember how many people gathered in our village to hear Lenin. One night snow was falling in the moonlight, yet the whole village assembled in a hut without caring. Farmers, old men, old women, young men, women and even children came to hear him. People who had never before attended a meeting, even those who lived alone in the woods like wild creatures, came. Those studying closed their books, saying they could study tomorrow. Those eating left their meals, saying it did not matter if the food grew cold because they could warm it later. Food could be had afterwards, but if they missed Lenin's speech they could not hear it there again. Workers left their work, sleepers shook off sleep, and those withered by poverty forgot their suffering and came to hear him. Lenin's speech possessed the rare power to make one forget everything else. No wonder those gathered here overflow with joy and applaud so loudly.
+
+[Applause loud enough to deafen the ears rises from the building. Novikov signals from the doorway, and Singayevsky moves to the factory corner as arranged. Kaplan rises and watches intently. Koptev watches her movements. The noise inside increases.]
+
+**Singayevsky:** [Offstage.] The factory is being robbed! Come and help!
+
+[Still staring suspiciously at Kaplan, Koptev runs towards the cry. It sounds again and he runs faster. A socialist anthem is heard inside. Lenin comes smiling towards the exit, surrounded by male and female workers who talk, ask questions, joke and laugh with him. The commotion makes individual words indistinct. Lenin approaches the car, still speaking and laughing.
+
+Novikov crosses the doorway and falls as though he has stumbled. To avoid trampling him, those coming out step back, creating confusion and blocking the exit. Shouts arise: “Who is there? Why are you standing still? Move! Make way! What is the trouble?”
+
+Kaplan comes from behind the car with a hand in her coat pocket, advances, and fires her revolver at Lenin's back. The first shot brings sudden silence. A second is fired, and a woman worker beside Lenin screams. Koptev races back from the factory corner. A third shot sounds. Lenin, struck by a bullet, falls. Kaplan starts to flee, but Koptev, who has been watching her, catches her.
+
+The people inside the building, where Bolshevism stands, rush out. Vasili forces his way through the crowd, breathless. Vasili and Gil lift Lenin. Seeing this, Novikov pushes through the crowd and draws his revolver. Vasili notices, shields the wounded Lenin, and shoots Novikov with his own revolver. The workers seize Novikov and drag him before Vasili.
+
+Vasili gently raises Lenin's head. Complete silence falls. Lenin slowly opens his eyes.]
+
+**Lenin:** [Faintly.] No, no! Do not panic, comrades. Perform your duty.
+
+**Vasili:** [Loudly.] Vladimir Lenin asks you, comrades, not to panic and to carry out your respective duties.
+
+**Lenin:** [Faintly.] Victory is ours!
+
+**Vasili:** [Loudly.] Victory is ours!
+
+[Sobbing increases in the crowd. Vasili and Gil gently support Lenin in their arms and place him inside the car. Gil drives away. The crowd disperses. Once the car has left the gate, the silence breaks and anger rises among the people. “Kill them!” someone shouts. The crowd attacks Novikov and Kaplan. Cries of “Kill them! Kill them!” grow louder.]
+
+**Voices:** Kill the assassins! Comrades, demand the reason for this atrocity! Kill them! Kill them!
+
+[The cry rends the sky.]
+
+*Dravida Nadu, 2 December 1945.*
+
+## Translator's Notes
+
+The source presents the 1918 attempt on Lenin's life through an explicitly partisan 1945 dramatic frame. The English translates that frame faithfully; it does not treat every allegation about the named political figures as independently verified history.
+
+`கட்சிக் கரையான்கள்` literally calls the internal party opponents “party termites.” The image is retained because it is part of the drama's political rhetoric.
+
+Russian names are transliterated in English by their commonly recognisable forms: Kaplan, Konstantinov, Kotovich, Novikov, Singayevsky, Sverdlov, Uritsky, Pyatakov and Bukharin. The corrected Tamil preserves the forms printed in the scans.
+
+The printed description `போல்ஷ்விசம் நின்ற கட்டிடம்` is translated closely as “the building where Bolshevism stands”; its rhetorical personification has not been silently normalised.
