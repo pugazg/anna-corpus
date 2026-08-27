@@ -297,7 +297,7 @@ Total source works: 537
 - [‘ஒன்றுபடுவோம்-ஒற்றுமை காப்போம்’](ondrupaduvom.md) - pending
 - [ஒன்றுபட்ட இதயமே நமது ஒரே படைக்கலன்](ondrupatta_idhayamae.md) - pending
 - [ஊரைத் திருத்துவதில் ஒன்றுபட்டுப் பணியாற்ற வேண்டும்](oorai_thiruthuvathil.md) - pending
-- [sorpozhivugal/ooratchi240958](ooratchi240958.md) - pending
+- [sorpozhivugal/ooratchi240958](ooratchi240958.md) - translated
 - [ஒட்டுமாஞ்செடி](ottumanchedi.md) - pending
 - [sorpozhivugal/oviyar_madhavan](oviyar_madhavan.md) - translated
 - [படை திரட்டி அனுப்பத் தயார்](padai_thiratti_anuppa_thayar.md) - pending
