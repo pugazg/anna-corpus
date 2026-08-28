@@ -14,8 +14,8 @@
 | paettigal | 26 | 26 | 26 | 0 |
 | root | 5 | 5 | 5 | 0 |
 | sirukathaigal | 109 | 108 | 108 | 1 |
-| sorpozhivugal | 537 | 187 | 187 | 350 |
-| **All included sections** | **2511** | **986** | **986** | **1525** |
+| sorpozhivugal | 537 | 188 | 188 | 349 |
+| **All included sections** | **2511** | **987** | **987** | **1524** |
 
 ## OCR-Origin Translation Progress
 
@@ -24,8 +24,8 @@
 | katturaigal | 552 | 539 | 539 | 13 |
 | nadagangal | 61 | 34 | 34 | 27 |
 | sirukathaigal | 108 | 108 | 108 | 0 |
-| sorpozhivugal | 241 | 187 | 187 | 54 |
-| **All OCR-origin sections** | **962** | **868** | **868** | **94** |
+| sorpozhivugal | 241 | 188 | 188 | 53 |
+| **All OCR-origin sections** | **962** | **869** | **869** | **93** |
 
 ## OCR Source Recovery Status
 
@@ -103,7 +103,6 @@ A blank image section has an explicit no-text marker or no OCR body after its im
 - `sorpozhivugal/chennai151261.md`: The 15-page 15 December 1961 final vote speech on the Madras Appropriation Bill has severe line loss and glyph corruption in its opening metadata and editorial introduction, throughout several fiscal passages, and across the final paragraph. Re-OCR every scan with Tamil and English models and reconcile the date, bill details, figures and closing statement before translation.
 - `sorpozhivugal/maedai_paechu.md`: Verify the exact Kalamegam comic-horse measure in Image 5 and the printed year in the heading
 - `sorpozhivugal/moondravath111161.md`: The 16-page 17 November 1961 Third Five-Year Plan debate has pervasive dropped lines, malformed dates and figures, and mixed-script corruption from Image 1 onward. Images 1-4 lose parts of the procedural argument and Planning Commission quotation; Images 14-16 damage English interventions, sector names, amounts and the final exchange with Finance Minister C. Subramaniam. Re-OCR every scan bilingually and reconcile all plan totals, quotations and speaker turns before translation.
-- `sorpozhivugal/nadaga_valarchi.md`: The 21-page Drama Development Plan speech is continuous but still contains meaning-changing Tamil OCR substitutions and broken words, including the centenary heading and the description of Sivaji Ganesan as சிறந்து விளங்குகிறார். Visually verify all 21 scans before translation.
 - `sorpozhivugal/nadagathil_oru.md`: Opening survey of the T. K. S. troupe's historical and literary plays is cut off between Images 1 and 2; recover the missing page or passage
 - `sorpozhivugal/nila_ucha290861.md`: The 15-page 29 August 1961 land-ceiling bill speech has extensive dropped Tamil and mixed-script corruption. The English select-committee statement on Image 2, Article 26 quotation and Uttar Pradesh judgment on Images 7-8, exemption discussion on Images 4-6, and multiple page joins cannot be translated faithfully from the current OCR. Re-OCR all scans with Tamil and English models and reconcile the constitutional clauses and case citation before translation.
 - `sorpozhivugal/nithi080358.md`: The canonical two-part 8 March 1958 budget debate includes all 39 scans, but at least 12 pages contain dense numeral/glyph substitution and dropped lines, especially Part 1 Images 3, 10 and 13 and Part 2 Images 3, 6-10, 13-14 and 16-17. Re-OCR all scans with Tamil and English models and reconcile the Nehru quotation, financial figures, speaker exchanges and damaged closing argument page by page before translation.

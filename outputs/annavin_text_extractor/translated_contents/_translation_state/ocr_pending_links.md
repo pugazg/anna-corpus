@@ -2,8 +2,8 @@
 
 This report covers only canonical OCR-origin works that do not yet have a bilingual translation file.
 
-- Total pending: **94**
-- OCR/source recovery pending: **23**
+- Total pending: **93**
+- OCR/source recovery pending: **22**
 - OCR translation pending: **71**
 
 ## Category Summary
@@ -12,7 +12,7 @@ This report covers only canonical OCR-origin works that do not yet have a biling
 |---|---:|
 | katturaigal | 13 |
 | nadagangal | 27 |
-| sorpozhivugal | 54 |
+| sorpozhivugal | 53 |
 
 ## OCR/source recovery pending
 
@@ -46,8 +46,6 @@ This report covers only canonical OCR-origin works that do not yet have a biling
   - Reason: The 15-page 15 December 1961 final vote speech on the Madras Appropriation Bill has severe line loss and glyph corruption in its opening metadata and editorial introduction, throughout several fiscal passages, and across the final paragraph. Re-OCR every scan with Tamil and English models and reconcile the date, bill details, figures and closing statement before translation.
 - `sorpozhivugal/moondravath111161.md`: [website 1](http://www.annavinpadaippugal.info/sorpozhivugal/moondravath111161.htm) | [OCR Markdown](https://github.com/pugazg/anna-corpus/blob/main/outputs/annavin_text_extractor/ocr_text_corrected/sorpozhivugal/moondravath111161.md)
   - Reason: The 16-page 17 November 1961 Third Five-Year Plan debate has pervasive dropped lines, malformed dates and figures, and mixed-script corruption from Image 1 onward. Images 1-4 lose parts of the procedural argument and Planning Commission quotation; Images 14-16 damage English interventions, sector names, amounts and the final exchange with Finance Minister C. Subramaniam. Re-OCR every scan bilingually and reconcile all plan totals, quotations and speaker turns before translation.
-- `sorpozhivugal/nadaga_valarchi.md`: [website 1](http://www.annavinpadaippugal.info/sorpozhivugal/nadaga_valarchi.htm) | [OCR Markdown](https://github.com/pugazg/anna-corpus/blob/main/outputs/annavin_text_extractor/ocr_text_corrected/sorpozhivugal/nadaga_valarchi.md)
-  - Reason: The 21-page Drama Development Plan speech is continuous but still contains meaning-changing Tamil OCR substitutions and broken words, including the centenary heading and the description of Sivaji Ganesan as சிறந்து விளங்குகிறார். Visually verify all 21 scans before translation.
 - `sorpozhivugal/nila_ucha290861.md`: [website 1](http://www.annavinpadaippugal.info/sorpozhivugal/nila_ucha290861.htm) | [OCR Markdown](https://github.com/pugazg/anna-corpus/blob/main/outputs/annavin_text_extractor/ocr_text_corrected/sorpozhivugal/nila_ucha290861.md)
   - Reason: The 15-page 29 August 1961 land-ceiling bill speech has extensive dropped Tamil and mixed-script corruption. The English select-committee statement on Image 2, Article 26 quotation and Uttar Pradesh judgment on Images 7-8, exemption discussion on Images 4-6, and multiple page joins cannot be translated faithfully from the current OCR. Re-OCR all scans with Tamil and English models and reconcile the constitutional clauses and case citation before translation.
 - `sorpozhivugal/nithi080358.md`: [website 1](http://www.annavinpadaippugal.info/sorpozhivugal/nithi080358_2.html), [website 2](http://www.annavinpadaippugal.info/sorpozhivugal/nithi080358_1.html) | [OCR Markdown](https://github.com/pugazg/anna-corpus/blob/main/outputs/annavin_text_extractor/ocr_text_corrected/sorpozhivugal/nithi080358.md)

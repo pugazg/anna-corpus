@@ -258,7 +258,7 @@ Total source works: 537
 - [நாட்டு நிலை பாரீர்! நல்ல தீர்ப்பு தாரீர்!](naattin_nilai_pareer.md) - pending
 - [நாட்டுப் பிரிவினை வேண்டும்](naattu_pirivinai_vaendum.md) - pending
 - [நாட்டு நலிவு நீங்கினால்தான் நல்ல நூல்கள் கிடைக்கும்](naatu_nalivu.md) - pending
-- [sorpozhivugal/nadaga_valarchi](nadaga_valarchi.md) - pending
+- [sorpozhivugal/nadaga_valarchi](nadaga_valarchi.md) - translated
 - [sorpozhivugal/nadagathil_oru](nadagathil_oru.md) - translated
 - [sorpozhivugal/nadagathilae](nadagathilae.md) - translated
 - [நேரமில்லை – உணருவீர்!](naeramillai_unarveer.md) - pending

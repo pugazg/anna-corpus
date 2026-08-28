@@ -11,14 +11,14 @@ Complete all 962 canonical OCR-origin works as bilingual Markdown documents:
 | katturaigal | 552 | 539 | 13 |
 | nadagangal | 61 | 34 | 27 |
 | sirukathaigal | 108 | 108 | 0 |
-| sorpozhivugal | 241 | 187 | 54 |
-| **Total** | **962** | **868** | **94** |
+| sorpozhivugal | 241 | 188 | 53 |
+| **Total** | **962** | **869** | **93** |
 
 The authoritative live pending list is:
 
 `translated_contents/_translation_state/ocr_pending_links.md`
 
-Its current split is 23 works needing OCR/source recovery and 71 works whose
+Its current split is 22 works needing OCR/source recovery and 71 works whose
 OCR source is available but whose bilingual translation is pending. Always
 regenerate the report after completing one work; do not rely on the numbers in
 this handover after work resumes.
@@ -32,25 +32,21 @@ this handover after work resumes.
 - Commit and push completed work frequently. The user has explicitly allowed
   commits and pushes from this workspace without asking again.
 
-## Current In-Progress Work
+## Most Recently Completed Work
 
-`sorpozhivugal/nadaga_valarchi.md` is being visually reconciled before
-translation.
+`sorpozhivugal/nadaga_valarchi.md` is complete.
 
-- Scan folder: `ocr_images/sorpozhivugal/nadaga_valarchi/`
-- Corrected Tamil source:
-  `ocr_text_corrected/sorpozhivugal/nadaga_valarchi.md`
-- 21 scans total.
-- Images 1-6 were corrected and committed in `fb416b6` and `624fa46`.
-- Images 7-12 have now been visually checked and corrected in the working tree.
-- Continue with Images 13-21. Image 13 has been opened for inspection but has
-  not yet been reconciled line by line.
-- Do not translate until all 21 images have been checked and the corrected
-  Tamil source is complete.
-- The file is intentionally listed in
-  `_translation_state/needs_source_recovery.csv` while this work is underway.
-  Remove its hold only after visual recovery and bilingual translation are both
-  complete.
+- All 21 scans were visually reconciled.
+- The canonical file contains two speeches, both retained and translated:
+  `நாடக வளர்ச்சித் திட்டம்` and `நாடகந் தந்த நற்கலைஞர்`.
+- The incorrect OCR date `75-12-1968` was verified against Image 21 and repaired
+  to the printed `15-12-1968`.
+- The bilingual source-retention audit passes.
+- Its temporary recovery hold has been removed.
+- The live pending report has been refreshed from 94 to 93 works.
+
+No later work is partially edited. Select the next suitable item from the live
+pending report, while respecting recovery and incorrect-source holds.
 
 The other explicit recovery hold encountered immediately before this work is
 `sorpozhivugal/sattamandram_first.md`; its embedded English was badly damaged by
@@ -193,11 +189,12 @@ organized_contents/_merge_state/source_map.csv as the canonical inventory and
 translated_contents/_translation_state/ocr_pending_links.md as the live pending
 list. Do not mix HTML-origin queue counts into OCR-origin progress.
 
-Resume the in-progress visual recovery of
-sorpozhivugal/nadaga_valarchi.md. Images 1-12 have been checked; continue with
-Images 13-21, record scan-proven OCR corrections in ocr_concerns.csv, then
-create the complete bilingual translation. Do not translate missing or damaged
-source text by guessing.
+The most recently completed work is sorpozhivugal/nadaga_valarchi.md; all 21
+scans and both speeches were reconciled and translated. Select the next suitable
+item from ocr_pending_links.md, inspect every associated scan, record
+scan-proven OCR corrections in ocr_concerns.csv, and create the complete
+bilingual translation. Do not translate missing or damaged source text by
+guessing.
 
 After every single completed work, run
 python3 refresh_ocr_translation_state.py from

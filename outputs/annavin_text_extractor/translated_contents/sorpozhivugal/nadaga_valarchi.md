@@ -1,4 +1,10 @@
-# sorpozhivugal/nadaga_valarchi
+# நாடக வளர்ச்சித் திட்டம் / நாடகந் தந்த நற்கலைஞர் / A Plan for the Development of Drama and The Fine Artist Given by Drama
+
+**Tamil title:** நாடக வளர்ச்சித் திட்டம் / நாடகந் தந்த நற்கலைஞர்  
+**English title:** A Plan for the Development of Drama and The Fine Artist Given by Drama  
+**Source file:** `sorpozhivugal/nadaga_valarchi.md`
+
+## Source Tamil (verbatim)
 
 - Source image folder: `/Users/pugazhendhirajendran/Documents/Codex/2026-07-09/https-www-annavinpadaippugal-info/outputs/annavin_text_extractor/ocr_images/sorpozhivugal/nadaga_valarchi`
 - OCR language: `tam`
@@ -339,7 +345,6 @@
 நாடு எப்படியிருக்க வேண்டுமென்பதற்கு ஓர் இலக்கணத்தை
 வகுத்துக் கொள்வோமானால், அந்த இலக்கணத்திற்கு ஏற்றதல்லா
 தவைகள் என்ற முறையில் இன்று என்னென்ன இருக்கின்றன
-என்ற பட்டியலைப் போட்டுக் கொள்வோம்; அந்தப் பட்டியல்
 தயாராகுமானால், அந்தப் பட்டியலிலே காணப்படுபவைகளை
 கேடுகள் என்று ஒப்புக் கொள்வோம். அவைகள் கேடுகள் என்று
 ஒப்புக்கொள்ளப்பட்டால் அந்தக் கேடுகளை நீக்குவதற்கு
@@ -949,3 +954,221 @@
 திருமண மண்டபத்தில் நடைபெற்றபோது அவருக்குப்
 பொன்னாடை போர்த்தி அறிஞர் அண்ணா அவர்கள் நிகழ்த்திய
 சொற்பொழிவு.)
+
+## English Translation
+
+## A Plan for the Development of Drama
+
+Speech delivered by Arignar Anna on 10 September 1967 at the centenary celebration of Sankaradas Swamigal, held at the A. V. M. Rajeswari Marriage Hall in Madras, when he released *The Art of Drama*, written by “Avvai” T. K. Shanmugam.
+
+My dear Chairman, elders, mothers, and friends!
+
+I am exceedingly happy to have had the opportunity to take part in the centenary celebration of Sankaradas Swamigal, who rendered foundational and valuable service to dramatic art. Had I not voluntarily undertaken many new burdens, I would have remained here much longer during these two days, listening to the views offered by our many friends and learned scholars, deriving both pleasure and benefit from them. But the friends involved in this celebration know the position very well. A succession of engagements keeps drawing me away, making it impossible for me to remain as long as I would wish. Even so, I am very happy to have found the opportunity to be here at least for this time. My happiness is doubled by the opportunity to release this fine book, *The Art of Drama*, published by my esteemed friend T. K. Shanmugam.
+
+The distinguished Tamil scholar Dr Mu. Varadarasan, who presides over this function, spoke admirably about the excellence of dramatic art. People can receive ideas through drama more easily and pleasantly than through painting, epic poetry, or music. That is why the people's interest in dramatic art, both in this country and elsewhere, continues to grow day by day.
+
+### Art or Propaganda?
+
+As our chairman mentioned in passing, it is true that a debate once took place in Tamil Nadu. The argument arose that art must exist for art's sake and must not be used for propaganda. Yet those who followed the debate will know that even that argument became a form of propaganda. Moreover, when we say that art must exist only for art and not for propaganda, we forget something else: propaganda itself is an art. If propaganda is not conducted in the proper manner, it will not become propaganda informed by an artistic purpose.
+
+In a democratic country, propaganda is an art. Therefore, when we say that art should be used for art's sake, I respectfully submit that, if it can also serve propaganda, this does not fall outside artistic harmony. No one has yet said that propaganda is itself harmful. When one person says something another dislikes, people ask, “What is this propaganda?” But no one has said, nor can anyone say, that the word or activity of propaganda possesses some inherently evil quality. There is no basis for saying so. The very meaning of propaganda is to present, in many different forms, an idea one desires and believes in, so that others too may desire and believe it.
+
+That is the definition of propaganda. It is profoundly mistaken to imagine propaganda as some evil act like murder or theft in which no one should engage. All the temples of our country propagate sculpture. All our sacred tanks propagate architecture. All our epics propagate religious ideas. All the great speeches in our legislatures propagate politics. All our domestic life propagates family life. Seen in this way, propaganda and human life are inseparably joined.
+
+A mother who tells the neighbours that her child is “a very beautiful child” is promoting her own child. A lover need not even speak repeatedly about his beloved to promote his love. If he sits on the beach at six or seven in the morning, eyes half closed and half open, with no one else nearby, appearing to see and yet not see, he is promoting love itself. He makes others think, “This is what love must be like.” Propaganda is therefore not wrong. It is thoroughly interwoven with human life. Propaganda itself is an art.
+
+Why, then, did the argument arise that art should exist for art's sake and not for propaganda? It arose from the fear that people who would not listen to certain ideas when stated ordinarily might listen when those ideas were expressed through drama. It arose from nothing else. I confess to the charge that I was, to some extent, responsible for that fear. Yet I take great pride in the fact that the stage was later used effectively even to explain the opposing view.
+
+Thus, when someone asks, “May dramatic art be used for propaganda? Should it not be used for some other pure purpose?”, we must answer what we actually expect from drama.
+
+### The Value of Drama
+
+We summon people who might otherwise spend three hours on many different tasks. We invite them: “Today we are staging this play; come and see it.” For three hours they forget all their personal troubles and enter a new and separate world, a world that lasts only those three hours. During that time they forget themselves and their own problems. Whatever problem is presented onstage becomes their problem; whatever scene is shown becomes a scene with which they identify; whatever idea is expressed becomes an idea they make their own. They lose themselves, entering a new and delightful world.
+
+When they leave, they carry away at least one or two ideas in addition to those they brought inside. We do not forget that they carry away mannerisms, dress, and gestures even more readily than ideas. After seeing a play, our audiences are remarkably skilled at taking home its gait, speech, costumes, glances, and smiles. But if they also carry within themselves even one or two of the ideas conveyed through the play, they have gained the benefit of those three hours. Through them, we too may gain. Whatever its central idea, drama therefore becomes a means, an opportunity, and a form of propaganda that sends people away with certain ideas. In Tamil Nadu especially, that instrument has been operating very effectively.
+
+### Sankaradasar's Primacy
+
+Foremost among those who supported it was our Sankaradas Swamigal. He created many plays for dramatic companies. Had he not woven those plays together, many ideas embedded and entangled in epics and puranas could never have acquired dramatic form.
+
+By creating such new plays many years ago, he also created opportunities suited to actors' performance. Many playwrights subsequently arose in Tamil Nadu. It is therefore entirely fitting that those involved in drama and those connected with it in different ways should participate in this celebration of the man who sowed the seed of dramatic art, supported its growth, and gave us many plays. This celebration gives us all an opportunity not only to honour him and the works he gave us, but also to honour, praise, welcome, and congratulate the actors who gave those plays life through performance, and the art of acting itself.
+
+### Drama, the Mother Art
+
+There can be no doubt that, as dramatic art develops, the country's other arts will develop with it. The art of makeup is connected with drama; painting is connected with drama; music is connected with drama; tailoring is connected with drama; even commerce is connected with drama.
+
+It is not enough merely to stage a good play. The commercial skill of ensuring that one does not become bankrupt while staging it is also bound up with dramatic art. I know many people who repeatedly took contracts to stage plays, incurred losses, and then became actors themselves. Drama must instead be conducted with sound commercial skill.
+
+### Nadu, Agam, Nadagam
+
+Many arts are united in drama. Because drama is the seed and dwelling place of all these arts, I once raised a question among my friends: Is the Tamil word *nadagam* divisible or indivisible? In other words, is it a word that can be split or one that must remain whole? If treated as divisible, *nadagam* becomes *nadu* plus *agam*: the inner mind of the country. I said this aptly means that drama reveals the minds of the country's people.
+
+It can be understood in another way as well: *nadu*, to seek, and *agam*, the inner mind. Drama may mean attaining the mind we seek. After all, many inner minds are displayed within a play. The hero reveals one disposition; the heroine comes to reveal another; the other characters reveal dispositions of different kinds. We must observe and discover which disposition we desire and which suits the country. In conversations with friends, I therefore described drama as something that reveals the people's minds. In that sense, drama today functions as an instrument capable of measuring public opinion.
+
+### Nationalist Plays
+
+During the national freedom struggle, merely seeing an actor standing onstage with a khadi shawl draped over his shoulders was itself powerful propaganda. He might not have worn it for propaganda at all, but simply for the coloured flowers on it. Yet if, during his performance, he once tossed the shawl into view, the theatre would erupt in applause. Khadi was then a symbol of nationalism. I regret having to say “then.” Because it was then a national symbol, merely displaying it drew applause. Likewise, if a character casually said, “Do you think you are Mahatma Gandhi?”, the audience could not hear whatever followed, such was the uproar and inner joy.
+
+This shows us that the current of public opinion changes from one stage to another. As it changes, drama moves with it and continues to convey ideas to the people. When I was young, even people who had arrived drunk watched plays supporting prohibition and wept; they were genuinely moved. Plays portraying the unity that should exist between brothers, the relationship between husband and wife, and the bond between parents and children taught large numbers of people what qualities domestic life should possess. Those plays served as practical instruction.
+
+When the national freedom struggle arose, actors, the theatrical world, and plays were of immense service in kindling its fire and awakening feeling. Only now do we write of them as propaganda plays. My friend Shanmugam too calls them propaganda plays in this book. I myself watched the Shanmugam troupe perform such plays. But the people of that day did not merely regard them as propaganda plays; they praised and welcomed them as sacred national service. They were immensely useful in fostering the desire for national freedom.
+
+### A Plan for the Future
+
+The country has now attained freedom. After freedom, each person may use drama to present the ideas suited to the kind of country that person wishes to build. I do not insist that only one particular idea must be given. Let us first formulate a standard for how the country ought to be. We can then list everything now present that fails to meet that standard and agree that the items on that list are evils. Once we agree, we can ask what drama may do to remove them. We must also prepare a list of what should replace them, so that no vacuum is left after those evils disappear, and stage plays accordingly. I am very happy that many plays are now being produced in this manner.
+
+But suppose a play follows the doctrine of “art for art's sake” in this fashion: we sit in the theatre for three hours; people say various things and we listen; they do all manner of things and we watch; where did we laugh? Someone said something, but we have forgotten it. If a play is made like that, it serves neither art nor propaganda. If it exists merely as amusement, we must admit that we have failed to use the refined art of drama properly.
+
+### The Subject of a Play
+
+I ask our actor friends to make any subject they wish the centre of a play. Take “change,” for example. Show what change means. Show what has changed, and how. Explain what has become good through change and what has become bad. In the midst of it create a character who declares, “I will never change.” Then show how the very man who keeps saying that changes step by step. Weave a story through all this. If you do these things, what greater propaganda can we undertake? Nothing more is needed.
+
+As our chairman said, I do not deny that I used drama as an aid in expressing my ideas, in addition to speaking and writing. My regret is only that I did not continue to receive opportunities to do so. I do not regret for a moment that I was involved in it for some time.
+
+### Memories of Earlier Drama
+
+Nor was I alone. The late S. Satyamurti, acknowledged by political leaders throughout India, not only Tamil Nadu, as a foremost leader of the national movement, was deeply involved in the arts. He even acted in one or two plays. Prakasam, celebrated as “Andhra Kesari,” was likewise involved in theatre: he appeared onstage and assumed dramatic roles. If I committed an error, it was an error committed in the company of great men. If what I did was not an error, then doing what such great men did cannot become wrong merely when I do it. I ask you to regard it in that spirit. If some politicians are unable to act onstage, I am not responsible; they are.
+
+### Reforming the Country through Drama
+
+I still expect a great deal from dramatic art for our country. Our society must acquire a new form, and an extremely profound change must take place in the people's outlook.
+
+Entirely new methods must arise in the theatre. New turns must occur even in our political thinking. I firmly believe that drama can produce these changes more effectively than articles, great speeches, short stories, or novels.
+
+### The Merit of *The Art of Drama*
+
+In that spirit, I take great pride in releasing *The Art of Drama*, written and published by my friend T. K. Shanmugam. His knowledge of theatre was not acquired merely from books. From childhood he bound his life together with dramatic art. Whatever role he assumed, he joined himself to it and became one with it.
+
+When he once performed as Avvaiyar, some spectators said, “What is so remarkable about this? Put on an old woman's makeup, take a staff, and walk in trembling, and anyone becomes Avvaiyar.” I replied, “The mark of great acting is that, when someone sees it, it should make him think, ‘I too can do that.’ But once he tries, it should make him lament, ‘I cannot do it after all.’ The art of acting lies between those two points. Try it if you can.”
+
+I say this because you will have seen T. K. Shanmugam as an energetic young man in some plays, as a responsible elder in others, and as a learned old Tamil woman in another. His troupe has portrayed ancient Tamil kings and brought them before our mind's eye. He has not only understood the principles of drama but gained extensive experience and trained hundreds of others. A book on drama written by a person so completely devoted to it will naturally be alive with vitality.
+
+I earnestly desire that this book and the ideas it expresses should reach every actor and theatre artist. That is one reason why releasing it holds special value and honour for me.
+
+### The Condition of Theatre Companies
+
+We can write and publish books. We can hold an annual conference and salute the art of drama. But to what extent are theatre companies functioning in the country today? When I ask whether any company receives enough public support to continue operating, I sometimes feel pity. I even wonder how some people still manage to remain in theatre.
+
+Theatre companies now function amid such poverty. If they cannot operate soundly, writing books on drama will serve no purpose. It does no good merely to boast that Tamil is suited to drama because it is the people's language. Considering the size of Tamil Nadu, its population, and its artistic interest, not even one hundredth of the theatre companies that ought to exist are functioning today.
+
+Some companies advertise a play for ten o'clock and arrange for a chairman in advance to attract an audience. The chairman arrives by half past nine; eleven o'clock comes and the audience has still not arrived; the play finally begins after midnight. Such companies exist in Tamil Nadu. I say this not in mockery but with sorrow. If this is their condition, where can new plays be staged? If there is no means to stage new plays, how can dramatic art grow? If dramatic art does not grow, what benefit can we gain by holding festivals in its name?
+
+### Theatre Artists and Film Artists
+
+Consider the difference between film artists and theatre artists. A film actor can arrange for someone else to sing. People standing nearby can prompt the lines through lip movements. Even if an actor forgets the proper line and says something else, the producer who has poured ten lakhs into the film may say, “Let that remain; we need not shoot again tomorrow,” and preserve whatever came out of the actor's mouth as the dialogue.
+
+A stage actor has no such luxury. If the light dims, he must brighten it himself. If the harmonium player becomes angry and fails to play properly, the actor must go to him, plead “Sir, father,” and beg him to play a little. If fellow actors do not cooperate, he must buy them whatever pleases them in order to use their talent. After all that, when the play ends, the theatre's rent collector arrives and must be told, “Come in the morning.” The florist who supplied the garlands arrives and must be told, “Do not make a garland tomorrow evening.” A fellow actor says, “I must go to Tiruchirappalli for a performance; give me the money.” Instead of paying him, the manager says, “The ticket collector on the Tiruchirappalli train is a very close friend of mine. Get aboard; I shall take care of it,” and sends him away.
+
+The stage actor does all this, yet dramatic art has been entrusted to him. Between ten and eleven at night, for two minutes he crosses the stage from one side to the other with a regal stride. If you saw how wearily he walks the instant he passes behind the curtain, you would understand that this king is a king who has eaten nothing since morning.
+
+So long as theatre companies endure such hardship, however loftily we cultivate dramatic art, it cannot acquire life. We must adopt some practical plan for its development. I have been thinking about it for several days.
+
+### A Drama Development Fund
+
+I see before me the film-industry leader A. V. M. Chettiar. That makes it impossible for me to suppress my desire to state the proposal.
+
+For every film produced in Tamil Nadu, each production company should allocate ten thousand rupees to dramatic art as part of the film's expenditure. If one hundred or fifty films make such allocations in a year, I am prepared, on behalf of the Tamil Nadu Government, to contribute an equal amount to whatever is collected. If you collect fifty thousand rupees in a year, the Government will add another fifty thousand, and the fund may be assigned to developing dramatic art.
+
+Actors driven to despair, theatre companies cast into poverty after repeatedly staging new plays without earning revenue, and those who bring new plays to the stage could receive a measure of compensation from this fund. They would gain fresh enthusiasm, stage new plays, publish new dramatic texts, and keep the art alive.
+
+If we fail to do this, we may meet once a year; there is no objection to that. We may speak about all the virtues of dramatic art; there is no lack of words. We may listen and rejoice; there is no shortage of pleasure. But if you ask whether drama will thereby grow, its growth will be exceedingly difficult.
+
+### Dramatic Art in Western Countries
+
+In England there is a work called *Mousetrap*, or *Elippōri* in Tamil. I have just seen it. That play has been running continuously in the same theatre for four years. The principal actors have performed the same play in the same London theatre for more than four years, though a few supporting actors have changed. In other countries too, when films are advertised, one point offered as a guarantee of their success is that the story ran as a stage play for six years.
+
+### Our Actors
+
+Our country has an abundance of actors capable of sustaining such plays. I have always taken great pride in our actors. Despite severe limitations, they have preserved their profession admirably. If theatre companies can be kept from dissolving and disintegrating, the art will certainly find a path to growth.
+
+Along with financial assistance, film companies should employ stage actors in some proportion in the films they produce, even if only four or five in every hundred roles. Giving them even small parts would bring fresh strength both to them and to their theatrical profession.
+
+### Conclusion
+
+If the film industry helps in these two ways, a close relationship will form between cinema and theatre, and dramatic art will grow. Through it, the art of life among our people will flourish soundly. I have placed these two proposals before you precisely because they do not require great expenditure. Even if expenditure is involved, I assure you that the Tamil Nadu Government will bear a share.
+
+This can protect dramatic art from extinction and help make it more refined. I firmly believe it. With these words I conclude my address. My friend Shanmugam has taken the valuable principles of dramatic art and given them form in *The Art of Drama*. He has lived for that art for many years and, as I said, has been impoverished by it. If I call him impoverished, even he will become angry and say, “I have not become impoverished at all; I am doing very well.”
+
+My old and trusted friend, who possesses such confidence, is a worthy servant of dramatic art. As he himself has said, I now present this volume, *The Art of Drama*, to Ponnusamy, the “farmer of drama,” as the symbolic act of its release.
+
+## The Fine Artist Given by Drama
+
+This celebration honours my younger brother Ganesan upon completing 125 films. The Union Home Minister, the Honourable Y. B. Chavan, and the Minister for Information and Broadcasting, the Honourable K. K. Shah, have taken part. Seeing this, I regard the entire Indian subcontinent as honouring Sivaji Ganesan.
+
+The respected Chavan and K. K. Shah have spoken about Sivaji's acting. Instead of describing it in words, had a selection of scenes from Sivaji Ganesan's films been shown to them, they would have experienced it themselves. It would have been better for them to see his acting than to hear others describe it.
+
+K. K. Shah regretted that public figures do not possess the fame enjoyed by stars who shine on the screen. There is no need for regret. Is it not itself a source of pride for us that marvellous artists such as Sivaji Ganesan live under our Government? Is the presence of such artists in our country not fame bestowed upon us? We should feel both pride and elation.
+
+Artists now enjoy renown in society. After a long time, their standing has risen. My own association with the arts began in an age when artists were treated as outcasts and subjected to indignity.
+
+I have known Sivaji Ganesan from the time he was an ordinary stage actor until his rise as a leading film actor. Tamil cinema has produced many eminent artists. Tamil Nadu has never lacked them. Films starring Thyagaraja Bhagavathar, P. U. Chinnappa, and N. S. Krishnan once won the people's acclaim. Today, in that lineage, Sivaji Ganesan, M. G. R., and K. R. Ramasamy continue to flourish.
+
+When Sivaji Ganesan was a stage actor, Kalaivanar N. S. Krishnan praised and encouraged him wholeheartedly and told his friends about Sivaji's acting ability.
+
+Sivaji Ganesan acts with extraordinary excellence. Many of you may not have seen him perform as Nur Jahan. You have, however, seen him roar heroically as Kattabomman. The man who now appears as Kattabomman once acted as Nur Jahan.
+
+Tamil Nadu takes pride in possessing artists capable of excelling in any role they assume. When he acted in my play, he draped a golden shawl over me. Today I drape one over him here. The thought fills me with joy.
+
+Sivaji Ganesan possesses not only fine acting ability but vitality. As S. S. Vasan proposed, I welcome the idea of establishing schools to develop the art of acting.
+
+A flower should not bloom in only one garden. Flowers must bloom from garden to garden, spreading the fragrance of art throughout the country. Our film industry needs abundant writers, directors, technicians, and specialists in its other crafts. To meet that need, the theatre must develop.
+
+Only drama can create good artists. While acting onstage, performers can directly sense the audience's emotions. Those who enter cinema directly without acting in theatre cannot readily perform with sensitivity and remain established.
+
+In the play *Lost Love*, Sivaji Ganesan played the old woman Veni. He performed splendidly, showing shyness because the role was female and humility because the character was elderly. It is through performing such roles that he can now receive acclaim in many different parts.
+
+Actors must possess the appreciative faculty to photograph whatever they see and preserve it in their minds. Only a few can reproduce in performance what their eyes have observed. We see, and later we forget.
+
+A true actor must reveal his skill by performing what his eyes have observed when the occasion arises. Sivaji Ganesan excels in that way. In *Thillana Mohanambal*, he reproduced the beauty with which a nadaswaram virtuoso plays: the grace of holding the instrument, the movement of the fingers, and the sweetness of the gaze. Is it not a distinctive talent to reproduce everything just as a nadaswaram master would do it?
+
+Actors must assume characters, but must not themselves become those characters. Sivaji Ganesan returns to the screen, through his accomplished acting, the people and personalities he has encountered in life. That is his special ability.
+
+A play was once staged in Bengal in which an actor portrayed a wicked man. A spectator, overcome by emotion, removed a sandal from his foot and struck the actor with it. The actor did not feel hurt. He felt pride and elation: his natural performance had breathed such life into the role and produced such emotion. That Bengali artist regarded the sandal as the finest prize he had ever received!
+
+India possesses many excellent artists of this kind. The Government of India itself should bring them together, produce good films, and send them to countries around the world, such as the United States.
+
+If our actors' ability is exhibited in this manner, we can demonstrate that they are in no way inferior to actors from other countries.
+
+Our actors perform amid countless hardships. Many are burdened by debts they cannot bear, yet they continue to act splendidly.
+
+Foreign exchange is unavailable for importing the equipment our studios need. Since Union ministers are present here, I appeal to them: please permit the import of the equipment required by the film world. If facilities are provided in this age of scientific development, our artists will excel.
+
+Artists such as Sivaji Ganesan are needed for the future growth of the arts. Artists remaining in the dramatic world are like buds that have withered before blooming. Everyone must join in devising a plan to assist them.
+
+The film industry does not support the schemes proposed by the Government. For many years I have requested producers to allocate Rs 10,000 from each film to the development of dramatic art. It is not a large sum. Is money not wasted through call sheets on countless days? Does money not go to waste when outdoor shooting is undertaken despite knowing that rain will come? Producers should reduce such wasteful expenditure and offer assistance. If producers come forward, I assure them that the Tamil Nadu Government will contribute its share.
+
+We need a fund to save our actors from suffering. Some have said that Sivaji Ganesan became famous only because *Parasakthi* arrived. That is not true. Even without *Parasakthi*, he would certainly have gained fame after a short time. A diamond is difficult to find, but however long it takes, a diamond cannot fail to shine. If Columbus had not discovered America, would America not have existed? The same is true of Sivaji Ganesan.
+
+The lives of Krishnan-Panju, A. V. Meiyappan Chettiar, and P. A. Perumal are intertwined with Sivaji Ganesan's present life. At that time, producing a film with new actors was difficult. But after filming one or two thousand feet of Sivaji Ganesan's performance, they recognised his ability and completed the film rapidly.
+
+Some say Sivaji Ganesan's acting gained distinction through my younger brother Karunanidhi's dialogue. Yet even in films without dialogue, Sivaji Ganesan has performed marvellously and won acclaim.
+
+People must develop the maturity to appreciate every kind of film. An artistic sensibility must grow.
+
+Thirty years ago, to act in a tragic scene one had to cry “Alas! Alas!” six times. In one film an actress wept for a very long time during a sorrowful scene. When I met her, I praised her for having cried so long. She replied, “That is not all; they cut out half of my crying.” Such superstition still remains in cinema.
+
+In one film Sivaji Ganesan appears as a holy man. He is a weary devotee, eating peas from his hand. Must a holy man never eat peas? Would a pilgrimage around the Six Sacred Abodes not tire him? I commend Sivaji for giving acting this kind of logic. We need such actors.
+
+Can one refrain from applauding T. K. Shanmugam when he acts as Avvaiyar? Likewise, we have fine artists such as T. S. Balaiah and K. Sarangapani.
+
+Our artistic world is one distinguished family of art. May that family flourish forever.
+
+Sivaji Ganesan played Karna in a film. Karna was born in one place and raised in another. I am not someone who, like Kunti blessing her distant son, stands far away and merely says, “Live and flourish.” He remains always in my heart, and I always continue to bless him. Friends have said that he should act in another two or three hundred films. They have also said that he should act until the age of sixty or seventy. But people of sixty or seventy must not run around a garden singing duets! They should play character roles suited to their age. They can portray a good head of a family. Like the actor Ashok Kumar, they should assume age-appropriate roles.
+
+Friends have gathered to rejoice in Sivaji Ganesan's acting, and I too share their joy. I recognised, while he was still a bud, that he would become a flower. I therefore rejoice more than anyone else.
+
+I conclude by offering Sivaji Ganesan my heartfelt congratulations.
+
+This speech was delivered on 15 December 1968 at the celebration of “Nadigar Thilagam” Sivaji Ganesan's 125th film, held at the A. V. M. Rajeswari Marriage Hall in Madras, when Arignar Anna draped a golden shawl over him.
+
+## Translator's Notes
+
+The canonical OCR file contains two speeches. The first is the 10 September 1967 Sankaradas Swamigal centenary address and book-release speech, “நாடக வளர்ச்சித் திட்டம்” (*A Plan for the Development of Drama*). The second is the 15 December 1968 address honouring Sivaji Ganesan's 125th film, “நாடகந் தந்த நற்கலைஞர்” (*The Fine Artist Given by Drama*). Both titles and both speeches are retained in one bilingual document because the website's canonical OCR work combines all 21 scans.
+
+Anna's wordplay splits “நாடகம்” (*nadagam*, drama) into “நாடு + அகம்” and also invokes “நாடு” as “to seek.” The translation explains both senses without altering the verbatim Tamil source.
+
+The scan prints “மெளஸ்டிராக்,” a Tamil rendering of Agatha Christie's *The Mousetrap*, followed by the Tamil gloss “எலிப்பொறி.” The translation identifies the play but leaves the printed Tamil unchanged in the source block.
+
+“நாடக விவசாயி” is translated literally as “farmer of drama,” preserving the image of Ponnusamy cultivating the theatrical field.
+
+The source's closing date was previously misread by OCR as `75-12-1968`; visual comparison with Image 21 confirms `15-12-1968`.
