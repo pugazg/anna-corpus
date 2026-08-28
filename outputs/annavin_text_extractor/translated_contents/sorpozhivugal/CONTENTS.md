@@ -108,7 +108,7 @@ Total source works: 537
 - [ஐந்தாண்டுத் திட்டம் தீட்டிப் புனிதப்போர் நடத்துக!](aynthadu_thittam_theeti.md) - pending
 - [பாபா-அண்ணாத்துரை உரையாடல்](baba_anna.md) - pending
 - [பம்பாயில் அண்ணா – கோலாகல வரவேற்பு](bambayil_anna.md) - pending
-- [sorpozhivugal/budget1958](budget1958.md) - pending
+- [sorpozhivugal/budget1958](budget1958.md) - translated
 - [sorpozhivugal/call_to_the](call_to_the.md) - translated
 - [“Carry on! But Remember. . .!!”](carry_on_but_1.md) - pending
 - [sorpozhivugal/cheena_aakira](cheena_aakira.md) - translated
