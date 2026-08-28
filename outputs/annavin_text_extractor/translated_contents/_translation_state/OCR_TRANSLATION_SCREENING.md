@@ -96,9 +96,78 @@ replace `refresh_ocr_translation_state.py` or the recovery CSV.
 - Reconcile the affected scans and repair the canonical source before
   translation.
 
+### `sorpozhivugal/1967.md`
+
+**Disposition:** source/OCR recovery required before translation.
+
+- Part 1 / Image 6 contains a destroyed embedded English quotation rendered as
+  mixed Tamil/Latin/numeric OCR, beginning `5 8 படி ரகரார்11805...`.
+- The historical organization name immediately afterwards is likewise rendered
+  as mixed-script noise rather than a usable source reading.
+- Because these passages are substantive evidence in Anna's discussion of the
+  Justice Party and Dr. T. M. Nair, the scan must be reconciled before translation.
+
+### `sorpozhivugal/210367.md`
+
+**Disposition:** source/OCR recovery required before translation.
+
+- Part 2 opens with corrupted year/heading material (`1966-62ஆம் ஆண்டு` and a
+  damaged heading continuation), followed by malformed text in the supplementary
+  estimate speech.
+- These are source-bearing fiscal/date details and cannot be normalized from
+  context without visual proof.
+- Reconcile the affected scans before translation.
+
+### `sorpozhivugal/280868_2.md`
+
+**Disposition:** source/OCR recovery required before translation.
+
+- Part 1 / Images 1-2 contain repeated substantive substitutions and destroyed
+  phrases, including `கள்ள காங்கிரஸ்கார ரட்ட` and the isolated OCR form
+  `பப்டல்துவிலவு`.
+- The damage falls inside Anna's reply to the no-confidence motion, not merely in
+  decorative metadata.
+- Repair the affected scans before any English translation is produced.
+
+### `sorpozhivugal/aalunar130258.md`
+
+**Disposition:** source/OCR recovery required before translation.
+
+- Part 1 / Image 1 begins with a scrambled date/header (`ர : 72.02.19`,
+  `ல்லாம் நாள 58`) and severe corruption in the opening Assembly address.
+- Multiple substantive words and clauses are lost or replaced with mixed glyphs.
+- Reconcile the source scans before translation.
+
+### `sorpozhivugal/chitoor_thimuka.md`
+
+**Disposition:** source/OCR recovery required before translation.
+
+- Although much of the speech is readable, Part 1 / Image 7 contains a visibly
+  destroyed two-line passage between the discussion of hydroelectric development
+  and the following question about Nataraja's pose.
+- The missing wording cannot be safely supplied from surrounding rhetoric.
+- Reconcile Image 7 and any associated page join before translation.
+
+## Promoted candidate
+
+### `sorpozhivugal/annal_nabi.md`
+
+**Disposition:** translation candidate; no catastrophic source loss found in the
+full corrected Markdown inspection.
+
+- Both OCR parts were inspected through the final Part 2 / Image 12 ending.
+- The work is a long collection (26 scans) but remains continuous; no equivalent
+  of the mixed-script collapses found in the recovery candidates was located.
+- Publicly indexed copies of the same work, including the Tamil Digital Library
+  catalogue and independent transcriptions of opening and later passages, support
+  the identity and continuity of the text.
+- Do not silently normalize the remaining spelling/spacing/OCR-looking forms.
+  Until local scan reconciliation is performed, use the current corrected Tamil
+  verbatim if translating.
+
 ## Workflow note
 
-When local reconciliation is next run, transfer these dispositions into the
-normal recovery state (`needs_source_recovery.csv` and related reason fields as
-appropriate), run `refresh_ocr_translation_state.py`, and remove any entries from
-this screening log once the generated state fully represents them.
+When local reconciliation is next run, transfer the recovery dispositions above
+into the normal recovery state (`needs_source_recovery.csv` and related reason
+fields as appropriate), run `refresh_ocr_translation_state.py`, and remove any
+entries from this screening log once the generated state fully represents them.
