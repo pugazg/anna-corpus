@@ -316,7 +316,7 @@ Total source works: 537
 - [பெரியார் ஒரு சகாப்தம்!](periyar_oru_sahaptham.md) - pending
 - [பெரியார் தந்த கடைசிப் பட்டம்](periyar_thantha_kadaisi_pattam.md) - pending
 - [பெரியாரைச் சிறையில் வைத்திருப்பது முறையா?](periyarai_sirayil_vaithiruppathu.md) - pending
-- [sorpozhivugal/pirivinai_thadai](pirivinai_thadai.md) - pending
+- [sorpozhivugal/pirivinai_thadai](pirivinai_thadai.md) - translated
 - [sorpozhivugal/poar_murasu_1](poar_murasu_1.md) - pending
 - [sorpozhivugal/poar_murasu_kotti](poar_murasu_kotti.md) - translated
 - [போராட்டம்](poarattam.md) - pending

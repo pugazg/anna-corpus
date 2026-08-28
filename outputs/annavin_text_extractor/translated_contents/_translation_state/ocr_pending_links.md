@@ -2,9 +2,9 @@
 
 This report covers only canonical OCR-origin works that do not yet have a bilingual translation file.
 
-- Total pending: **87**
+- Total pending: **86**
 - OCR/source recovery pending: **59**
-- OCR translation pending: **28**
+- OCR translation pending: **27**
 
 ## Category Summary
 
@@ -12,7 +12,7 @@ This report covers only canonical OCR-origin works that do not yet have a biling
 |---|---:|
 | katturaigal | 13 |
 | nadagangal | 26 |
-| sorpozhivugal | 48 |
+| sorpozhivugal | 47 |
 
 ## OCR/source recovery pending
 
@@ -161,7 +161,6 @@ This report covers only canonical OCR-origin works that do not yet have a biling
 - `sorpozhivugal/nambikkai301057.md`: [website 1](http://www.annavinpadaippugal.info/sorpozhivugal/nambikkai301057_1.htm), [website 2](http://www.annavinpadaippugal.info/sorpozhivugal/nambikkai301057_2.htm) | [OCR Markdown](https://github.com/pugazg/anna-corpus/blob/main/outputs/annavin_text_extractor/ocr_text_corrected/sorpozhivugal/nambikkai301057.md)
 - `sorpozhivugal/nilayum_ninaippum.md`: [website 1](http://www.annavinpadaippugal.info/sorpozhivugal/nilayum_ninaippum_1.htm), [website 2](http://www.annavinpadaippugal.info/sorpozhivugal/nilayum_ninaippum_2.htm) | [OCR Markdown](https://github.com/pugazg/anna-corpus/blob/main/outputs/annavin_text_extractor/ocr_text_corrected/sorpozhivugal/nilayum_ninaippum.md)
 - `sorpozhivugal/nithi100359.md`: [website 1](http://www.annavinpadaippugal.info/sorpozhivugal/nithi100359_1.html), [website 2](http://www.annavinpadaippugal.info/sorpozhivugal/nithi100359_2.html) | [OCR Markdown](https://github.com/pugazg/anna-corpus/blob/main/outputs/annavin_text_extractor/ocr_text_corrected/sorpozhivugal/nithi100359.md)
-- `sorpozhivugal/pirivinai_thadai.md`: [website 1](http://www.annavinpadaippugal.info/sorpozhivugal/pirivinai_thadai_1.htm), [website 2](http://www.annavinpadaippugal.info/sorpozhivugal/pirivinai_thadai_2.htm) | [OCR Markdown](https://github.com/pugazg/anna-corpus/blob/main/outputs/annavin_text_extractor/ocr_text_corrected/sorpozhivugal/pirivinai_thadai.md)
 - `sorpozhivugal/satta_10_12_1959.md`: [website 1](http://www.annavinpadaippugal.info/sorpozhivugal/satta_10_12_1959_1.htm), [website 2](http://www.annavinpadaippugal.info/sorpozhivugal/satta_10_12_1959_2.htm) | [OCR Markdown](https://github.com/pugazg/anna-corpus/blob/main/outputs/annavin_text_extractor/ocr_text_corrected/sorpozhivugal/satta_10_12_1959.md)
 - `sorpozhivugal/satta_16_03_1960.md`: [website 1](http://www.annavinpadaippugal.info/sorpozhivugal/satta_16_03_1960_1.htm), [website 2](http://www.annavinpadaippugal.info/sorpozhivugal/satta_16_03_1960_2.htm) | [OCR Markdown](https://github.com/pugazg/anna-corpus/blob/main/outputs/annavin_text_extractor/ocr_text_corrected/sorpozhivugal/satta_16_03_1960.md)
 - `sorpozhivugal/uruvagum_varalaru.md`: [website 1](http://www.annavinpadaippugal.info/sorpozhivugal/uruvagum_varalaru_1.htm), [website 2](http://www.annavinpadaippugal.info/sorpozhivugal/uruvagum_varalaru_2.htm) | [OCR Markdown](https://github.com/pugazg/anna-corpus/blob/main/outputs/annavin_text_extractor/ocr_text_corrected/sorpozhivugal/uruvagum_varalaru.md)
