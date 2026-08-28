@@ -1,4 +1,10 @@
-# nadagangal/jananayaga_1
+# ஜனநாயக சர்வாதிகாரி / The Democratic Dictator
+
+**Tamil title:** ஜனநாயக சர்வாதிகாரி  
+**English title:** The Democratic Dictator  
+**Source file:** `nadagangal/jananayaga_1.md`
+
+## Source Tamil (verbatim)
 
 - Source image folder: `/Users/pugazhendhirajendran/Documents/Codex/2026-07-09/https-www-annavinpadaippugal-info/outputs/annavin_text_extractor/ocr_images/nadagangal/jananayaga_1`
 - OCR language: `tam`
@@ -535,3 +541,267 @@
 1960.
 
 ☆ ☆ ☆ ☆ ☆
+
+## English Translation
+
+A country in the grip of a "dictator"! A trial is taking place in that country's court. Come, let us watch.
+
+The courtroom looks exactly as a courtroom should.
+
+It is not as though a great flame sits as judge, a cleaver serves as police officer, and a broad sword acts as lawyer!
+
+Seated on the judge's chair is a mature and experienced man, versed in the subtleties of law and seasoned by many years of legal practice.
+
+His legal learning is known throughout the country. He has earned a good name by delivering sound judgments in many complicated cases.
+
+The others too are of the same kind: learned men.
+
+The Judge takes his seat. The others enter and sit down. The Police Officer remains standing.
+
+**Judge:** Bring in the prisoner.
+
+**Police Officer:** [Saluting] At once, Your Eminence!
+
+[The Police Officer leaves. The telephone on the Judge's desk rings. The Judge picks it up. The moment he realizes who is speaking, his whole expression changes. He becomes agitated and rises respectfully. Seeing him rise, everyone else stands too.]
+
+[Brother, do you understand the situation? A judge occupies a position in which he must hear a case, discover justice and deliver judgment with the aid of the law and his own intelligence, uninfluenced by fear, favour or indulgence.
+
+Whether the person before him is a mendicant or a rich man living in a six-storeyed mansion, he must show neither contempt nor fear.
+
+The place where he sits is a sacred temple that must secure justice for everyone.
+
+Yet the Judge seated here hears the telephone, looks to see who is calling, and is seized by terror as soon as he learns the caller's identity. He bows needlessly.
+
+Does not the Judge's conduct reveal the condition into which the courts have fallen?
+
+Fear possesses him. The person frightening him does not even have to stand before him. Somewhere far away sits a man with enough power to make the Judge submit.
+
+What crime was committed? Who discovered and reported it? What is the evidence? What does the law say? What does the advocate appearing for the accused have to say? These are the matters that should concern the Judge. The law should guide him. But before he even looks at the law, another "power" speaks through the telephone, and the Judge stands trembling.]
+
+**Judge:** [Humbly] Yes, Your Exalted Lordship, the trial is about to begin. I shall find him guilty and sentence him to death, certainly and very soon.
+
+[He replaces the receiver, sits, and the others sit too.]
+
+[Did you notice, brother? He did not say, "I shall hear the case. If it is established that he committed the crime, he will be punished."
+
+He announces, "I shall pronounce him guilty! I shall sentence him to death!"
+
+The accused has not yet even been brought into the dock. Before that happens, the Judge humbly promises that he will sentence the man to death.
+
+Why? The Judge understands that he must act upon the caller's hint.
+
+He knows that someone possesses the power to make him dance and is afraid.
+
+A trial has been arranged merely for appearances before the town and the world. The "superior" on the telephone has made it known that the man being brought in as the accused must be killed.
+
+This man occupies the judge's seat only to act according to that superior's wishes. Do you understand the situation?]
+
+[A court reporter is present. The telephone on his table rings.]
+
+**Reporter:** Your Eminence, I request permission to use the telephone.
+
+**Judge:** Very well, you may speak.
+
+**Reporter:** Greetings! Greetings! It is I, the reporter. News? The sensational case upon which the nation has fixed its attention is about to begin. A man of vast experience and great ability, an intellectual who is the government's dearest friend, has resolved to conduct the case and sentence the accused to death. The trial? It is about to begin now. The accused? He has not yet arrived. The Police Officer has gone to fetch him. The death sentence is certain. Justice will prevail, without fail.
+
+[Did you notice the farce, brother? Before the case has even begun, the reporter has already sent his newspaper the result.]
+
+[The Police Officer drags in the accused. As soon as the Judge realizes that the accused is approaching, he looks all around him, grows agitated and becomes afraid.]
+
+**Police Officer:** Your Eminence, here is the prisoner.
+
+**Judge:** Wait! Wait! The security is strong, is it not?
+
+**Police Officer:** Yes, Your Eminence. The police force has been increased. Machine guns have been placed on the roof and along the walls.
+
+**Judge:** Have the prisoner's hands been shackled?
+
+**Police Officer:** Yes... but...
+
+**Judge:** But what? Why are you drawing out your words? Speak! Speak!
+
+**Police Officer:** His hands have been shackled with strong irons. Yet I do not know what magic is at work. Somehow the shackles loosen and slip away.
+
+**Judge:** You must keep a close watch. Understand this: if a shackle slips from his hand, your head will slip from your body and fall to the ground!
+
+[The Judge's trembling, and the Police Officer's submission upon hearing him, are plain to see, are they not? Those in court find humour in the Judge's threat and laugh. They praise him within his hearing. One man says that even while trying a complicated case, our Judge never loses his gift for humour.
+
+Another praises him, saying that this is surely the very nature of a great intellect.
+
+"Why, it seems you may even publish all this in the newspaper," the Judge prods, turning his desire into a question.
+
+The Reporter promises that it will indeed appear in print. The accused is placed in the dock.
+
+He is middle-aged. His very appearance shows that he is incapable of harming anyone. He smiles.]
+
+**Judge:** Has the accused been searched?
+
+**Police Officer:** Yes.
+
+**Judge:** When did you search him?
+
+**Police Officer:** Continuously, without pause, once every hour!
+
+**Judge:** He had no weapon on him, did he?
+
+**Police Officer:** We searched but found nothing. Yet he himself says that he has a weapon in his head, inside his skull!
+
+[The police stand beside him on guard. The accused stands in the dock as though unconcerned by whatever may happen.]
+
+[The Reporter calls his newspaper.]
+
+**Reporter:** [On the telephone] A hair-raising sight! The fiend has been seized and dragged in. The villain stands in the dock, terrifying to behold. Yet the Judge, discharging his duty without flinching, remains calmly seated though the savage prisoner stands in the dock so very close to him. The world praises his fearless heart.
+
+**Judge:** [To the Prosecutor] You may now begin.
+
+**Prosecutor:** Your Eminence, you know how cruel, base, dangerous and destructive is the crime with which this man is charged.
+
+**Judge:** The crime is indeed cruel! Who does not know that?
+
+**Prosecutor:** You are a master of law and the guardian of justice. Is there anything you do not know?
+
+**Judge:** What crime did he commit?
+
+**Prosecutor:** Independent thought! He thinks for himself! He considers things!
+
+[The Judge flies into a rage. Those in the courtroom are startled. The women are terrified and the men enraged. The Judge glares at the accused as though shooting him dead.]
+
+**Judge:** Independent thought! Hmm! When does this wretch indulge in such thinking?
+
+**Prosecutor:** That is all this villain ever does: at home, in the workshop and while reading newspapers!
+
+**Judge:** He does not believe what is written in them. He reasons and considers it!
+
+**Prosecutor:** Not only that. Even while our sacred leaders preach in their speeches for the good of the town and the world, this scoundrel asks himself whether what they say is right or wrong!
+
+**Judge:** Did you hear that, learned gentlemen? Our friend who has instituted the case and explained it is no idle talker. He is a highly capable lawyer who would never speak without evidence. No one can refute his conclusive argument. He has revealed this miserable creature's crime. Our national leaders, gods visible to our eyes, speak; instead of listening with delight and walking the virtuous path, this man doubts, analyses and thinks for himself! Worthy gentlemen, what a fiendish disposition he has! Must the times deteriorate in this fashion?
+
+Under the excellent government bestowed upon us, our great leaders labour tirelessly to spare us even the slightest trouble of thinking for ourselves and discovering the truth. They prepare thoughts and serve them to us agreeably! From cradle to cremation ground, the "instruction" prepared by our leaders accompanies us. Whether at home, at the office or anywhere else, the saintly men seated in government prepare, without the least inconvenience to us, whatever we ought to think about everything.
+
+But this man, this villain, scorns even our leaders' words and thinks for himself. When the leaders gained through the blessed fruit of the nation's penance say something, must it not be true, arrived at after calm and careful thought? Must it not be intended for our welfare? Instead of accepting it gratefully, he thinks about whether their words are right or wrong! Does he possess more power of thought than our leaders? How consummate a rogue must he be to dare examine their words! Hmm! Very well! You man of corrupt mind, do you admit the crime or deny it?
+
+**Prisoner:** I admit the crime.
+
+**Judge:** You admit committing this treachery that will bring ruin upon the country?
+
+**Prisoner:** I thought for myself. I admit the crime.
+
+**Prosecutor:** Have you forgotten everything our government has done for us and turned traitor?
+
+**Prisoner:** Not because I forgot. Having seen everything our government does for us, I wanted to think for myself and discover the truth.
+
+**Prosecutor:** You are breaking the law. Do you know that?
+
+**Prisoner:** Now that you say so, I know. But which law am I breaking?
+
+**Prosecutor:** Which law? The law our leaders enacted to keep the country alive.
+
+**Prisoner:** To keep the country alive? Is the country alive? Can what we lead be called a life?
+
+**Judge:** There seems to be confusion in his mind.
+
+**Prisoner:** Yes, confusion.
+
+**Judge:** Why does it arise?
+
+**Prisoner:** It does not arise by itself. Someone plants it within me.
+
+**Judge:** Who is he? An angel?
+
+**Prisoner:** At first I thought it was an angel. Later I discovered that it was not an angel but a little demon!
+
+**Judge:** A little demon?
+
+**Prisoner:** Yes! That little demon torments me without rest. Whenever I think that men in long coats are intellectuals, that those in saffron robes are servants of God, or that newspapers are holy messengers performing the marvellous labour of imparting knowledge, the little demon burrows inside me. It prods and stirs my mind. "Can you not see that all this is deception? Can you not recognize the fraud? Think!" it cries, urging me on.
+
+**Judge:** Have you ever seen that little demon with your own eyes?
+
+**Prisoner:** I see it everywhere! How can I say that it is absent even here?
+
+[Laughter is heard. A small figure appears, approaches the prisoner and plays affectionately with him.]
+
+[Brother, there is a distinctive flavour in the author's depiction of the prisoner saying that a little demon entered his heart and made him think. Autocrats and religious overlords have always claimed that thought destroys faith.
+
+The lords of the Church say that faith is instilled by God, whereas doubt and thought are sent forth by "Satan."
+
+Faith produces submission and restraint. Thought kindles courage and the impulse to act independently. Those who ruled by placing the rosary at the service of the sceptre described thought as Satan's conspiracy to undermine God's power. To portray that condition with wit, the author has the man accused of "thinking" speak pointedly as though he were not responsible for his thought and a little demon were to blame.]
+
+**Judge:** Prosecutor, will a doctor come to certify that the accused is mentally deranged?
+
+**Prosecutor:** The head of the medical department is here. He has been sent to establish that the accused is a most dangerous lunatic!
+
+**Judge:** Good. Bring in the medical expert.
+
+[The telephone summons the Judge. When the call ends:]
+
+**Judge:** Accused! Many pages will be written, fully and clearly, about your arrogance, ignorance, treachery against the government and conceit in openly admitting it. They will be given to your wife and children to read and learn a lesson from. There is no time to write them now. Swift action is required. Police guards! Drag the accused away, hang him and kill him.
+
+[The Police Officers drag the prisoner away. The Reporter informs his newspaper: "The case is over! Justice has triumphed! The accused is sentenced to death!"]
+
+**Prosecutor:** Your Eminence, one matter, a small one. Yet do they not say that whatever is done must be done properly? It is for that reason...
+
+**Judge:** What had to be done has been done!
+
+**Prosecutor:** The decision is correct. There is only a small defect in the procedure. Before sentencing the accused to death, you mentioned obtaining the medical expert's testimony. In the meantime... well, merely because the accused is about to die, why should we leave our procedure defective? Let us hear the medical expert's opinion now.
+
+[The procedure devised by the Judge was to hear the medical expert and determine whether the accused was insane. But an order arrived by telephone: "Should it take this long to sentence a man to death?" the "superior" had demanded. That is why the Judge delivered his verdict first. Now, so that the procedure will not remain deficient, he has the medical expert brought in to speak.]
+
+**Prosecutor:** The accused who has now perished: while he was alive, was he of sound mind, or was he possessed by madness?
+
+**Doctor:** He was certainly a dangerous madman.
+
+**Judge:** Had his brain gone bad?
+
+**Doctor:** Yes.
+
+**Judge:** Had disease damaged his brain?
+
+**Doctor:** His brain had been damaged by a germ, a poisonous insect.
+
+**Judge:** Can you demonstrate that with evidence?
+
+**Doctor:** The evidence is spotless. The poisonous insect that damaged the dead man's brain is not something new. It existed in far greater numbers in the age of the ancients than in our own time. Such insects abounded in the ancient city of Athens, and even in Palestine! In the European region, they crushed and destroyed this insect. Its nuisance is no longer as great as it once was. It has been brought under control.
+
+**Prosecutor:** If that poisonous insect bites and causes the disease, will the illness never leave?
+
+**Doctor:** It will never leave.
+
+**Prosecutor:** What are its symptoms?
+
+**Doctor:** A new light in the eyes, energetic conduct, a simple life, a fearless bearing and freedom from attachment to luxury.
+
+**Prosecutor:** Did the man who was killed display these symptoms?
+
+**Doctor:** Why even ask? His disease had reached an advanced stage.
+
+**Judge:** Then killing that patient was an act that brought immense benefit to society, was it not?
+
+**Doctor:** What doubt can there be? What doubt!
+
+[They try to kill the accused, but they cannot put him to death. They run back and tell the Judge. He panics. He issues orders and bellows: "Cut him! Stab him! Burn him! Tear him apart! Do something, anything! But he must die! My judgment must be carried out!" The guards leave.]
+
+**Judge:** [Terrified] Medical expert, can this disease spread by contagion?
+
+**Doctor:** It is a dreadful contagious disease! From the city of Athens it spread and spread until it enveloped the whole of Europe. In our civilized cities, rulers prepare and administer antidotes, thereby preventing its spread.
+
+**Judge:** How alarming! The accused was here, was he not? If the disease is contagious, could it have infected us?
+
+**Doctor:** It could have.
+
+**Judge:** Surely the disease can spread only while he is alive. He is dead now!
+
+**Doctor:** Alas! That is when the danger is greatest. The power of people like him becomes many times greater after their death than it was while they were alive.
+
+**Judge:** Is there no way to eradicate the disease?
+
+**Doctor:** There is indeed: the way you discovered. Kill them!
+
+**Judge:** What is this, medical expert? You speak in a peculiar fashion.
+
+**Doctor:** I am speaking the truth, Your Eminence! That disease has infected me!
+
+1960.
+
+## Translator's Notes
+
+All eleven scans were visually reconciled before translation. Six pages for which the original Tamil OCR returned no text were recovered by converting the grayscale scans to JPEG and rerunning bilingual Tamil-English OCR, followed by direct visual verification. The play's central "disease" and "poisonous insect" are its sustained satirical metaphors for independent thought. Period forms and rhetoric in the Tamil source, including புண்ய புருஷர்கள் and சிந்தனா சக்தி, were retained rather than modernized.

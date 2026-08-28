@@ -9,33 +9,33 @@
 | katturaigal | 1388 | 540 | 540 | 848 |
 | kavithaigal | 77 | 77 | 77 | 0 |
 | Kurunavalgal | 25 | 0 | 0 | 25 |
-| nadagangal | 62 | 34 | 34 | 28 |
+| nadagangal | 62 | 35 | 35 | 27 |
 | navalgal | 6 | 0 | 0 | 6 |
 | paettigal | 26 | 26 | 26 | 0 |
 | root | 5 | 5 | 5 | 0 |
 | sirukathaigal | 109 | 108 | 108 | 1 |
 | sorpozhivugal | 537 | 188 | 188 | 349 |
-| **All included sections** | **2511** | **987** | **987** | **1524** |
+| **All included sections** | **2511** | **988** | **988** | **1523** |
 
 ## OCR-Origin Translation Progress
 
 | Section | OCR target | Completed | Bilingual with source retained | Pending |
 |---|---:|---:|---:|---:|
 | katturaigal | 552 | 539 | 539 | 13 |
-| nadagangal | 61 | 34 | 34 | 27 |
+| nadagangal | 61 | 35 | 35 | 26 |
 | sirukathaigal | 108 | 108 | 108 | 0 |
 | sorpozhivugal | 241 | 188 | 188 | 53 |
-| **All OCR-origin sections** | **962** | **869** | **869** | **93** |
+| **All OCR-origin sections** | **962** | **870** | **870** | **92** |
 
 ## OCR Source Recovery Status
 
 | Section | Works with blank image sections | Blank pages |
 |---|---:|---:|
 | katturaigal | 0 | 0 |
-| nadagangal | 24 | 372 |
+| nadagangal | 23 | 367 |
 | sirukathaigal | 0 | 0 |
 | sorpozhivugal | 5 | 10 |
-| **All OCR-origin sections** | **29** | **382** |
+| **All OCR-origin sections** | **28** | **377** |
 
 A blank image section has an explicit no-text marker or no OCR body after its image reference. The canonical Tamil source is not translation-ready even when the scan itself may be readable.
 
@@ -49,7 +49,6 @@ A blank image section has an explicit no-text marker or no OCR body after its im
 - `nadagangal/chandramohan.md`: 22 blank page(s)
 - `nadagangal/gandhi_jayanthi_1.md`: 9 blank page(s)
 - `nadagangal/inba_oli.md`: 57 blank page(s)
-- `nadagangal/jananayaga_1.md`: 5 blank page(s)
 - `nadagangal/kadhal_jothi.md`: 54 blank page(s)
 - `nadagangal/kalappu_manam.md`: 6 blank page(s)
 - `nadagangal/kannayirathin.md`: 28 blank page(s)
@@ -78,7 +77,6 @@ A blank image section has an explicit no-text marker or no OCR body after its im
 - `katturaigal/udan_piranthar_1.md`: The 19-scan OCR source ends immediately after the killing of Tiberius Gracchus although the title promises two brothers. The complete four-part HTML counterpart exists at Kurunavalgal/udanpiranthar_iruvar.md and continues through Gaius Gracchus and the conclusion. Reconcile the OCR opening against the scans, then recover and merge Parts 2-4 from that counterpart before translating.
 - `katturaigal/valarppupen.md`: The sixth and final extracted image ends mid-argument after Periyar's claimed five or six years of trust in Maniammai; recover the continuation before producing a complete translation
 - `nadagangal/gandhi_jayanthi_1.md`: Images 1, 3, 4, 11 and 12 contain no OCR text, including the opening and material immediately before the closing exchange
-- `nadagangal/jananayaga_1.md`: Images 1, 2, 5, 6, 10 and 11 contain explicit no-OCR-text markers, while the surviving pages contain pervasive broken words and character substitutions. Visually reconstruct all 11 scans before translation.
 - `nadagangal/morarji_thesai.md`: 14 of 16 scan images contain no OCR text; only Part 1 Image 7 and Part 2 Image 3 survive, leaving the political stage scene incomplete
 - `sirukathaigal/rajapart.md`: 14 of 16 scan pages contain no OCR text; recover images 2-4 and 6-9 in part 1 plus images 1-3 and 5-7 in part 2 before translation
 - `sirukathaigal/sollathathu.md`: 9 of 13 scan pages contain no OCR text; recover images 1, 5-10, and 12 before translation

@@ -2,8 +2,8 @@
 
 This report covers only canonical OCR-origin works that do not yet have a bilingual translation file.
 
-- Total pending: **93**
-- OCR/source recovery pending: **48**
+- Total pending: **92**
+- OCR/source recovery pending: **47**
 - OCR translation pending: **45**
 
 ## Category Summary
@@ -11,7 +11,7 @@ This report covers only canonical OCR-origin works that do not yet have a biling
 | Category | Pending |
 |---|---:|
 | katturaigal | 13 |
-| nadagangal | 27 |
+| nadagangal | 26 |
 | sorpozhivugal | 53 |
 
 ## OCR/source recovery pending
@@ -38,8 +38,6 @@ This report covers only canonical OCR-origin works that do not yet have a biling
   - Reason: Images 1, 3, 4, 11 and 12 contain no OCR text, including the opening and material immediately before the closing exchange
 - `nadagangal/inba_oli.md`: [website 1](http://www.annavinpadaippugal.info/nadagangal/inba_oli_1.htm), [website 2](http://www.annavinpadaippugal.info/nadagangal/inba_oli_10.htm), [website 3](http://www.annavinpadaippugal.info/nadagangal/inba_oli_11.htm), [website 4](http://www.annavinpadaippugal.info/nadagangal/inba_oli_12.htm), [website 5](http://www.annavinpadaippugal.info/nadagangal/inba_oli_13.htm), [website 6](http://www.annavinpadaippugal.info/nadagangal/inba_oli_2.htm), [website 7](http://www.annavinpadaippugal.info/nadagangal/inba_oli_3.htm), [website 8](http://www.annavinpadaippugal.info/nadagangal/inba_oli_4.htm), [website 9](http://www.annavinpadaippugal.info/nadagangal/inba_oli_5.htm), [website 10](http://www.annavinpadaippugal.info/nadagangal/inba_oli_6.htm), [website 11](http://www.annavinpadaippugal.info/nadagangal/inba_oli_7.htm), [website 12](http://www.annavinpadaippugal.info/nadagangal/inba_oli_8.htm), [website 13](http://www.annavinpadaippugal.info/nadagangal/inba_oli_9.htm) | [OCR Markdown](https://github.com/pugazg/anna-corpus/blob/main/outputs/annavin_text_extractor/ocr_text_corrected/nadagangal/inba_oli.md)
   - Reason: One or more image sections contain no extracted OCR text.
-- `nadagangal/jananayaga_1.md`: [website 1](http://www.annavinpadaippugal.info/nadagangal/jananayaga_1.htm) | [OCR Markdown](https://github.com/pugazg/anna-corpus/blob/main/outputs/annavin_text_extractor/ocr_text_corrected/nadagangal/jananayaga_1.md)
-  - Reason: Images 1, 2, 5, 6, 10 and 11 contain explicit no-OCR-text markers, while the surviving pages contain pervasive broken words and character substitutions. Visually reconstruct all 11 scans before translation.
 - `nadagangal/kadhal_jothi.md`: [website 1](http://www.annavinpadaippugal.info/nadagangal/kadhal_jothi_1.htm), [website 2](http://www.annavinpadaippugal.info/nadagangal/kadhal_jothi_10.htm), [website 3](http://www.annavinpadaippugal.info/nadagangal/kadhal_jothi_11.htm), [website 4](http://www.annavinpadaippugal.info/nadagangal/kadhal_jothi_12.htm), [website 5](http://www.annavinpadaippugal.info/nadagangal/kadhal_jothi_13.htm), [website 6](http://www.annavinpadaippugal.info/nadagangal/kadhal_jothi_14.htm), [website 7](http://www.annavinpadaippugal.info/nadagangal/kadhal_jothi_15.htm), [website 8](http://www.annavinpadaippugal.info/nadagangal/kadhal_jothi_2.htm), [website 9](http://www.annavinpadaippugal.info/nadagangal/kadhal_jothi_3.htm), [website 10](http://www.annavinpadaippugal.info/nadagangal/kadhal_jothi_4.htm), [website 11](http://www.annavinpadaippugal.info/nadagangal/kadhal_jothi_5.htm), [website 12](http://www.annavinpadaippugal.info/nadagangal/kadhal_jothi_6.htm), [website 13](http://www.annavinpadaippugal.info/nadagangal/kadhal_jothi_7.htm), [website 14](http://www.annavinpadaippugal.info/nadagangal/kadhal_jothi_8.htm), [website 15](http://www.annavinpadaippugal.info/nadagangal/kadhal_jothi_9.htm) | [OCR Markdown](https://github.com/pugazg/anna-corpus/blob/main/outputs/annavin_text_extractor/ocr_text_corrected/nadagangal/kadhal_jothi.md)
   - Reason: One or more image sections contain no extracted OCR text.
 - `nadagangal/kalappu_manam.md`: [website 1](http://www.annavinpadaippugal.info/nadagangal/kalappu_manam_1.htm), [website 2](http://www.annavinpadaippugal.info/nadagangal/kalappu_manam_2.htm) | [OCR Markdown](https://github.com/pugazg/anna-corpus/blob/main/outputs/annavin_text_extractor/ocr_text_corrected/nadagangal/kalappu_manam.md)
