@@ -18,7 +18,7 @@ The authoritative live pending list is:
 
 `translated_contents/_translation_state/ocr_pending_links.md`
 
-Its current split is 52 works needing OCR/source recovery and 37 works whose
+Its current split is 53 works needing OCR/source recovery and 36 works whose
 OCR source is available but whose bilingual translation is pending. Always
 regenerate the report after completing one work; do not rely on the numbers in
 this handover after work resumes.
@@ -49,13 +49,14 @@ this handover after work resumes.
 
 ## Next Work
 
-Select the next work from the live report. Prefer one of the 37 items under
+Select the next work from the live report. Prefer one of the 36 items under
 `OCR translation pending` unless deliberately beginning a complete visual
-recovery. `sorpozhivugal/desiya131159.md` is a practical next candidate because
-it maps to one source page; inspect its complete scan set before assuming its
-length or source quality. The report is authoritative. Items found incomplete
-or unreliable must be moved to source recovery rather than translated by
-guesswork.
+recovery. Screen `sorpozhivugal/nilaseer200460.md` next. Do not infer scan count
+from website-link count: the preceding single-link candidate,
+`sorpozhivugal/desiya131159.md`, contains 22 scans and was moved to recovery
+after direct checks showed a destroyed English quotation and extensive Tamil
+loss. The report is authoritative. Items found incomplete or unreliable must
+be moved to source recovery rather than translated by guesswork.
 `katturaigal/aariyamaayai.htm.md` is the 69-scan Parts 2-7 continuation of the
 already translated opening and
 contains unreadable mixed-script English citations, especially at Part 5 Image
@@ -65,7 +66,7 @@ parts and 122 scans. `sorpozhivugal/aalunar090259.md` requires bilingual re-OCR
 of all 20 pages, particularly the destroyed English quotations on Images 8-9.
 
 `report_ocr_pending_links.py` recognises `No OCR text detected` markers. The
-current accurate split is 52 recovery / 37 translation, 89 total. The recovery
+current accurate split is 53 recovery / 36 translation, 89 total. The recovery
 count now correctly includes two canonical files already marked as incorrect
 sources; this is a classification correction, not a new source defect.
 
@@ -240,9 +241,11 @@ list. Do not mix HTML-origin queue counts into OCR-origin progress.
 The most recently completed canonical work is
 sorpozhivugal/annal_nabi.md. All 27 scans across its two parts were visually
 reconciled, the complete collection was translated, and the bilingual audit
-passes. There is no partial working draft. Select the next work from the live
-OCR translation-pending section; sorpozhivugal/desiya131159.md is a practical
-candidate to inspect next. Record scan-proven OCR corrections in
+passes. There is no partial working draft. `sorpozhivugal/desiya131159.md` was
+screened next and moved to source recovery: its 22 scans are present, but
+Tamil-only OCR destroyed the English quotation on Image 3 and substantial
+Tamil across Images 1 and 3-5, with recurring corruption elsewhere. Screen
+`sorpozhivugal/nilaseer200460.md` next. Record scan-proven OCR corrections in
 ocr_concerns.csv and do not translate missing or damaged source text by
 guessing.
 
