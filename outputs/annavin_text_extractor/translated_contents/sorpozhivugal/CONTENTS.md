@@ -140,7 +140,7 @@ Total source works: 537
 - [திராவிடம் உரிய இடத்தைப் பெறும்!](dravidam_uriya_idathai.md) - pending
 - [‘திராவிட நாடு – இலட்சியப் பயணம்!‘](dravidanadu_latchiyapayanam.md) - pending
 - [திராவிடநாடு விடுதலை வாரம்](dravidanadu_viduthalaivaaram.md) - pending
-- [sorpozhivugal/dravidar_kazhaga_thani](dravidar_kazhaga_thani.md) - pending
+- [sorpozhivugal/dravidar_kazhaga_thani](dravidar_kazhaga_thani.md) - translated
 - [sorpozhivugal/dravidar_nilai](dravidar_nilai.md) - pending
 - [திராவிடர் திருநாள்](dravidar_thirunaal.md) - pending
 - [திராவிடத்தை மீட்போம்!](dravidathai_meetpom.md) - pending

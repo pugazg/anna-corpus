@@ -2,9 +2,9 @@
 
 This report covers only canonical OCR-origin works that do not yet have a bilingual translation file.
 
-- Total pending: **88**
+- Total pending: **87**
 - OCR/source recovery pending: **59**
-- OCR translation pending: **29**
+- OCR translation pending: **28**
 
 ## Category Summary
 
@@ -12,7 +12,7 @@ This report covers only canonical OCR-origin works that do not yet have a biling
 |---|---:|
 | katturaigal | 13 |
 | nadagangal | 26 |
-| sorpozhivugal | 49 |
+| sorpozhivugal | 48 |
 
 ## OCR/source recovery pending
 
@@ -155,7 +155,6 @@ This report covers only canonical OCR-origin works that do not yet have a biling
 - `sorpozhivugal/aey_thazhntha.md`: [website 1](http://www.annavinpadaippugal.info/sorpozhivugal/aey_thazhntha_1.htm), [website 2](http://www.annavinpadaippugal.info/sorpozhivugal/aey_thazhntha_2.htm) | [OCR Markdown](https://github.com/pugazg/anna-corpus/blob/main/outputs/annavin_text_extractor/ocr_text_corrected/sorpozhivugal/aey_thazhntha.md)
 - `sorpozhivugal/annamalai_perurai.md`: [website 1](http://www.annavinpadaippugal.info/sorpozhivugal/annamalai_perurai_1.html), [website 2](http://www.annavinpadaippugal.info/sorpozhivugal/annamalai_perurai_2.html), [website 3](http://www.annavinpadaippugal.info/sorpozhivugal/annamalai_perurai_3.html), [website 4](http://www.annavinpadaippugal.info/sorpozhivugal/annamalai_perurai_4.html), [website 5](http://www.annavinpadaippugal.info/sorpozhivugal/annamalai_perurai_5.html) | [OCR Markdown](https://github.com/pugazg/anna-corpus/blob/main/outputs/annavin_text_extractor/ocr_text_corrected/sorpozhivugal/annamalai_perurai.md)
 - `sorpozhivugal/chitoor_thimuka.md`: [website 1](http://www.annavinpadaippugal.info/sorpozhivugal/chitoor_thimuka_1.htm), [website 2](http://www.annavinpadaippugal.info/sorpozhivugal/chitoor_thimuka_2.htm) | [OCR Markdown](https://github.com/pugazg/anna-corpus/blob/main/outputs/annavin_text_extractor/ocr_text_corrected/sorpozhivugal/chitoor_thimuka.md)
-- `sorpozhivugal/dravidar_kazhaga_thani.md`: [website 1](http://www.annavinpadaippugal.info/sorpozhivugal/dravidar_kazhaga_thani_1.html) | [OCR Markdown](https://github.com/pugazg/anna-corpus/blob/main/outputs/annavin_text_extractor/ocr_text_corrected/sorpozhivugal/dravidar_kazhaga_thani.md)
 - `sorpozhivugal/dravidar_nilai.md`: [website 1](http://www.annavinpadaippugal.info/sorpozhivugal/dravidar_nilai_1.htm), [website 2](http://www.annavinpadaippugal.info/sorpozhivugal/dravidar_nilai_2.htm) | [OCR Markdown](https://github.com/pugazg/anna-corpus/blob/main/outputs/annavin_text_extractor/ocr_text_corrected/sorpozhivugal/dravidar_nilai.md)
 - `sorpozhivugal/hindi_ethirpu_aen.md`: [website 1](http://www.annavinpadaippugal.info/sorpozhivugal/hindi_ethirpu_aen_1.htm), [website 2](http://www.annavinpadaippugal.info/sorpozhivugal/hindi_ethirpu_aen_2.htm) | [OCR Markdown](https://github.com/pugazg/anna-corpus/blob/main/outputs/annavin_text_extractor/ocr_text_corrected/sorpozhivugal/hindi_ethirpu_aen.md)
 - `sorpozhivugal/manamakkalukku.md`: [website 1](http://www.annavinpadaippugal.info/sorpozhivugal/manamakkalukku_1.htm), [website 2](http://www.annavinpadaippugal.info/sorpozhivugal/manamakkalukku_2.htm) | [OCR Markdown](https://github.com/pugazg/anna-corpus/blob/main/outputs/annavin_text_extractor/ocr_text_corrected/sorpozhivugal/manamakkalukku.md)
