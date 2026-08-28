@@ -18,7 +18,7 @@ The authoritative live pending list is:
 
 `translated_contents/_translation_state/ocr_pending_links.md`
 
-Its current split is 48 works needing OCR/source recovery and 44 works whose
+Its current split is 50 works needing OCR/source recovery and 42 works whose
 OCR source is available but whose bilingual translation is pending. Always
 regenerate the report after completing one work; do not rely on the numbers in
 this handover after work resumes.
@@ -51,17 +51,21 @@ this handover after work resumes.
 ## Next Work
 
 Select the next work from the live report. There is no partially edited source
-after `nadagangal/jananayaga_1.md`. Prefer one of the 44 items under
+after `nadagangal/jananayaga_1.md`. Prefer one of the 42 items under
 `OCR translation pending` unless deliberately beginning a complete visual
 recovery. The first translation-ready item is now
-`katturaigal/anthikalambagam.md`. The preceding item,
-`katturaigal/aariyamaayai.htm.md`, was inspected and moved to source recovery:
-it is the 69-scan Parts 2-7 continuation of the already translated opening and
+`sorpozhivugal/muthamizh_manad.md` when prioritizing the shortest remaining
+candidate. The preceding items were inspected and moved to source recovery.
+`katturaigal/aariyamaayai.htm.md` is the 69-scan Parts 2-7 continuation of the
+already translated opening and
 contains unreadable mixed-script English citations, especially at Part 5 Image
-11 and Part 6 Image 1.
+11 and Part 6 Image 1. `katturaigal/anthikalambagam.md` was likewise moved to
+recovery after direct scan checks confirmed recurring corruption across its 12
+parts and 122 scans. `sorpozhivugal/aalunar090259.md` requires bilingual re-OCR
+of all 20 pages, particularly the destroyed English quotations on Images 8-9.
 
 `report_ocr_pending_links.py` recognises `No OCR text detected` markers. The
-current accurate split is 48 recovery / 44 translation, 92 total.
+current accurate split is 50 recovery / 42 translation, 92 total.
 
 The other explicit recovery hold encountered immediately before this work is
 `sorpozhivugal/sattamandram_first.md`; its embedded English was badly damaged by
