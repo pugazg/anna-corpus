@@ -51,12 +51,24 @@ this handover after work resumes.
 
 ## Next Work
 
-Select the next work from the live report. There is no partially edited source
-after `sorpozhivugal/thee_paravattum_1.md`. Prefer one of the 38 items under
-`OCR translation pending` unless deliberately beginning a complete visual
-recovery. Select the next shortest practical candidate from that live section;
-the report is authoritative and excludes the completed Muthamizh work. The
-preceding items were inspected and moved to source recovery.
+Resume `sorpozhivugal/annal_nabi.md`. An English-only, noncanonical working
+draft already exists at:
+
+`translated_contents/_translation_state/working/annal_nabi.en.md`
+
+It covers Part 1, Images 1-11. Continue at Part 1, Image 12
+(`ocr_images/sorpozhivugal/annal_nabi_1/012-7ffee55fac.png`). The complete work
+contains 27 scans: 15 under `annal_nabi_1/` and 12 under `annal_nabi_2/`.
+Resolve the damaged heading currently recorded as `திருத்தொண்டு ப` from the
+scan before finalizing it. Do not count the working draft as translated until
+all scans have been visually checked and the canonical bilingual file exists
+at `translated_contents/sorpozhivugal/annal_nabi.md`.
+
+After completing Annal Nabi, select the next work from the live report. Prefer
+one of the items under `OCR translation pending` unless deliberately beginning
+a complete visual recovery. The report is authoritative; items inspected and
+found incomplete or unreliable must be moved to source recovery rather than
+translated by guesswork.
 `katturaigal/aariyamaayai.htm.md` is the 69-scan Parts 2-7 continuation of the
 already translated opening and
 contains unreadable mixed-script English citations, especially at Part 5 Image
@@ -181,6 +193,33 @@ The refresh command is mandatory after every completed work. It rebuilds:
 - `section_translation_status.csv` and `.md`
 - `ocr_pending_links.md`
 
+The GitHub page the user watches is therefore updated by every completed-work
+commit:
+
+<https://github.com/pugazg/anna-corpus/blob/main/outputs/annavin_text_extractor/translated_contents/_translation_state/ocr_pending_links.md>
+
+## Interruption and Weekly-Limit Protocol
+
+The weekly limit may end without warning. Keep the repository resumable at all
+times:
+
+1. Translate in scan-sized batches and save an incomplete English translation
+   only under `translated_contents/_translation_state/working/`. State the last
+   completed part/image and the exact next image at the top of that file.
+2. Never place a partial work at its canonical path under
+   `translated_contents/<category>/`; that path means the whole bilingual work
+   is complete and audit-ready.
+3. After each batch, commit and push the working draft and any scan-proven OCR
+   corrections. A partial checkpoint must not refresh or reduce pending counts.
+4. After the whole work is complete, build the canonical bilingual file, run
+   `python3 refresh_ocr_translation_state.py`, verify that the work disappeared
+   from `ocr_pending_links.md`, run tests, then commit and push all related files
+   together.
+5. Before stopping, update the `Next Work` section of this handover with the
+   exact completed boundary, next scan, unresolved readings, test result, and
+   latest commit. If the limit ends before that edit, the header in the working
+   draft is the fallback checkpoint.
+
 ## Completion Gate
 
 Do not claim the objective is complete until current evidence proves all of the
@@ -211,18 +250,23 @@ organized_contents/_merge_state/source_map.csv as the canonical inventory and
 translated_contents/_translation_state/ocr_pending_links.md as the live pending
 list. Do not mix HTML-origin queue counts into OCR-origin progress.
 
-The most recently completed work is sorpozhivugal/thee_paravattum_1.md; all 20
-scans were reconciled and its complete four-part debate was translated. Select
-the next work from the live pending report, preferably from
-the OCR translation-pending section. Record scan-proven OCR corrections in
-ocr_concerns.csv and do not translate missing or damaged source text by
-guessing.
+The most recently completed canonical work is
+sorpozhivugal/thee_paravattum_1.md; all 20 scans were reconciled and its complete
+four-part debate was translated. A partial, noncanonical English draft for
+sorpozhivugal/annal_nabi.md covers Part 1, Images 1-11. Resume it at Part 1,
+Image 12 by following the exact checkpoint in the handover and working-draft
+header. Do not start a different work and do not count this partial draft as a
+completed translation. Record scan-proven OCR corrections in ocr_concerns.csv
+and do not translate missing or damaged source text by guessing.
 
 After every single completed work, run
 python3 refresh_ocr_translation_state.py from
 outputs/annavin_text_extractor/. Confirm that the work disappeared from
 ocr_pending_links.md, run all test_*.py tests, review the diff, commit, and push
-to origin/main. Continue to the next pending OCR-origin work without waiting for
+to origin/main. This refresh is what updates the GitHub pending-links page the
+user is monitoring. Commit and push partial working-draft checkpoints too, but
+do not reduce pending counts until a complete canonical bilingual work passes
+the audit. Continue to the next pending OCR-origin work without waiting for
 permission. Preserve both Tamil and English titles and follow every fidelity,
-recovery, and completion rule in the handover.
+recovery, interruption, and completion rule in the handover.
 ```
