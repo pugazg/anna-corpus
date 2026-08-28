@@ -3,8 +3,8 @@
 **English working title:** Arignar Anna on the Noble Prophet
 **Canonical Tamil source:** `ocr_text_corrected/sorpozhivugal/annal_nabi.md`
 **Status:** WORKING DRAFT — NONCANONICAL
-**Completed coverage:** Part 1, Images 1–5
-**Next source boundary:** Part 1, Image 6 (`006-df14c02672.png`)
+**Completed coverage:** Part 1, Images 1–11
+**Next source boundary:** Part 1, Image 12 (`012-7ffee55fac.png`)
 
 > This file is an English-only working translation assembled in controlled batches.
 > It is not the canonical bilingual deliverable and must not be counted as a
@@ -86,3 +86,104 @@ Prophet Muhammad did not merely establish a religious path. He freed and rescued
 In the same way, the DMK works in three spheres. Do not imagine that, by saying this, I am trying to equate the DMK with Islam. The DMK advances these ideas in an age when science and education have spread widely. In such an age, it does not require great courage to express sound principles. In the time of the Prophet, far greater courage of heart was needed to say such things. It was an age without scientific clarity, when truths such as “the Earth is spherical” and “the Earth revolves around the Sun” were not widely known. It was an age in which people were governed by fear and barbaric ways.
 
 Prophet Muhammad gave a good light in an age of darkness. We are those who point to the radiance of that light.
+
+## Part 1 — Image 6
+
+When even the work undertaken by reformers in our own time meets with so many obstacles, how many ordeals must people such as the Prophet have had to endure in that age?
+
+Whenever some among us lose courage while spreading our principles, they should remember the Prophet.
+
+Did the people there readily accept Prophet Muhammad's principles in the beginning? No. It is said that the people who lived in the Arabian desert treated 360 images as gods and worshipped one each day.
+
+Think, then, of the strength the Prophet must have possessed to tell such people, “Those 360 images are not God,” and of all the dangers he must have faced. Reflecting on that will lessen, at least to some extent, the fear we may feel when putting forward reformist ideas.
+
+The doubts that arise in public life fly away when we think of the Prophet. When we remember the dangers he faced in his time, the dangers of our own time seem no more than a speck of straw.
+
+The history of the Prophet is a fountain of courage and a fine example for society.
+
+### No Need for Miracles
+
+*(At the Royapuram Milad celebration)*
+
+Fifteen years ago I went to Kayalpattinam. Tiruppur Moideen and Muhammad Hussain Nainar came with me. The three of us spoke at a celebration of Prophet Muhammad. One of the speakers at that function narrated an Islamic story and explained it by connecting it with the Qur'an.
+
+*[The source carries the note “1943.” at this point.]*
+
+## Part 1 — Image 7
+
+The story was that, while a man was travelling through a forest, God ordered him to give his sandals and walking stick in charity to someone else. He immediately gave them away. Later, as he continued along the forest path, he was caught by a robber. At that moment, the walking stick and sandals he had previously donated are said to have come to his rescue from the robber.
+
+As soon as I heard the story, I had a doubt. I asked Muhammad Hussain Nainar, who was beside me: “Is this story in the Qur'an? Did Prophet Muhammad say this?” He replied, “Nothing of the sort. This has no connection with the Qur'an. It is a fabricated tale made up by somebody in later times.”
+
+When I spoke afterwards, I referred to this and explained that it was a fabricated story. I also said that displaying miracles of this kind was not a divine command. The people of Kayalpattinam neither opposed nor condemned me for saying so. There is also a very large Arabic college in Tamil Nadu there. If the people there understood the truth I stated even fifteen years ago, I am confident that they will not refuse to accept it today.
+
+At this point I wish to tell the Islamic community one thing. If you argue that Islam is great by displaying miracles, then the religion described as our Hindu religion contains miracles that could be called the fathers and grandfathers of the miracles you possess.
+
+## Part 1 — Image 8
+
+The reason George Bernard Shaw said that Islam would endure in the world to the very end is that this religion has fewer miracles and an abundance of ideas grounded in reason.
+
+Among Hindus there are countless miracle stories that do not accord with reason. Ask our mothers. They will say, “Can there be any miracle story greater than the story of Prahlada?” Hindus can recount innumerable stories and say, “We are the very people who sold miracles; we are the birthplace of miracles!”
+
+Therefore, do not seek honour and greatness for Islamic principles by displaying miracles.
+
+Islam spread because of the fearless courage of the Prophet and the righteous struggle he waged.
+
+Islam contains an abundance of profound ideas without requiring God to take an incarnation again and again.
+
+One reason for honouring Islam is that its religious path does not issue a divine order saying merely, “Believe this.” Belief comes through reasons being given.
+
+That path says that one should seek education even by going as far as China, taking the distance into account.
+
+Today, many within the Islamic community remain without education. The injunction—the central idea—expressed in that religious path is that education must be spread.
+
+There is no particular merit in merely conducting a celebration such as this once a year. If you tell ordinary people that our religion is admirable in these various ways and they then forget it, Islam gains no greatness from that.
+
+## Part 1 — Image 9
+
+Many Muslims themselves may not know the history of Islam. Many do not know the history of the Taj Mahal. If you ask a Muslim about the Taj Mahal, he may say, “It is a very large building, a beautiful building; it was built by one of our people.” But he may not know who that “one of our people” was. He may not know about the emperor who built it. To understand a religion, one must know its history; one must know world history.
+
+### Word and Deed!
+
+I wish to offer a few general observations about religion.
+
+Whatever anyone may say and however many efforts may be made, belief in religion is generally declining. There is no use merely feeling distressed because I say this. We must examine it.
+
+What is the situation today? Why is sound philosophy losing people's confidence? We must examine that. There is no use blaming somebody or other. What causes belief to decline? The machinery used to propagate ideas is defective.
+
+Suppose everything in a printed book is correct, but on the eighth page alone some of the letters have failed to print. What caused it? Is the printing press defective, or did the compositor make an error? You examine it and find that everything appears to be in order. Every page printed correctly except for a little on page eight. The cause cannot immediately be found. Yet where is the defect? Only by locating it can the page be printed properly.
+
+Whom should we ask about this? An astrologer?
+
+## Part 1 — Image 10
+
+If you ask an astrologer, he will say, “Saturn is in your eighth house; that is why the eighth page did not print.” If you tell someone who understands the technicalities of printing, he will investigate carefully and then say, “Everything is in order. There is no defect in the press or in the typesetting. But at the place where the eighth page prints, one thread's breadth of type is lower than the proper height. Raise it and the letters will print correctly.” He will ask you to feel the type with your hand. When you do so, the truth becomes clear. In the same way, we must locate where the defect lies.
+
+The pure ideas within religion must be spread in the right way and with the right purpose.
+
+Those who preach an idea must themselves live according to what they preach. There must not be one group whose task is to preach and another group whose task is to live by the preaching.
+
+The Prophet said something and then demonstrated, “I live according to what I say,” through his own conduct. Only if others likewise demonstrate this in practice can peace, tranquillity and concord prevail in the world.
+
+What we see instead is that those who speak occupy an elevated position, while those expected to practise remain below.
+
+Look at me speaking here. I am standing on a stage and speaking from beneath a canopy; you are sitting on the ground and listening. Suppose it starts raining now and I say, “It does not matter if you get drenched; you must keep listening.” What would you think? I can keep speaking because I have a canopy. What meaning would it have if I remained dry while telling you to get wet?
+
+Suppose someone deposits six hundred thousand rupees in a bank, arrives in a Cadillac car worth six thousand rupees, carries a Parker pen worth sixty rupees, and applies perfume worth six rupees before climbing onto the stage—
+
+## Part 1 — Image 11
+
+—and then says, “The Prophet travelled from place to place only on a camel to spread his message; all of you too must travel only by camel.” What respect would listeners have for such preaching? That is why respect for religious injunctions declines.
+
+The condition in which “a Cadillac car is for a few while travel on foot is for the many” must diminish.
+
+God has created all wealth. Yet there are many who, though everything exists, possess nothing. Most of those who possess things have no desire to give up what they have.
+
+Suppose a man wearing a diamond ring tells a poor man who has never seen a diamond, “If you want to see what a diamond is like, look upward through the hole in the roof of the hut where you live. You will see a shining star in the sky. A diamond looks like that.” What will the poor man say? Will he not say, “What arrogance! He wears a diamond ring himself and points out a star to the poor man”?
+
+Therefore, teaching that people can understand must grow into practical action. The pure principles shown by the Prophet for human unity must be put into practice.
+
+### [Unresolved source heading: `திருத்தொண்டு ப`]
+
+*(At the Royapuram Milad celebration)*
+
