@@ -18,7 +18,7 @@ The authoritative live pending list is:
 
 `translated_contents/_translation_state/ocr_pending_links.md`
 
-Its current split is 57 works needing OCR/source recovery and 32 works whose
+Its current split is 58 works needing OCR/source recovery and 31 works whose
 OCR source is available but whose bilingual translation is pending. Always
 regenerate the report after completing one work; do not rely on the numbers in
 this handover after work resumes.
@@ -49,14 +49,14 @@ this handover after work resumes.
 
 ## Next Work
 
-Select the next work from the live report. Prefer one of the 32 items under
+Select the next work from the live report. Prefer one of the 31 items under
 `OCR translation pending` unless deliberately beginning a complete visual
-recovery. Screen `sorpozhivugal/230367.md` next. The preceding
-`210367.md` deliberately combines three speeches across 23 scans and was moved
-to recovery because dates, figures, Tamil clauses, the two English quotations
-on Part 3 Image 17, and closing text were corrupted or dropped. The report is
-authoritative. Items found incomplete or unreliable must be moved to source
-recovery rather than translated by guesswork.
+recovery. Screen `sorpozhivugal/230868.md` next. The preceding
+`230367.md` deliberately combines Speeches 6, 7, and 8 across 25 scans and was
+moved to recovery because an English quotation, Speech 7's complete header,
+substantial Tamil, figures, and closing text were corrupted or dropped. The
+report is authoritative. Items found incomplete or unreliable must be moved to
+source recovery rather than translated by guesswork.
 `katturaigal/aariyamaayai.htm.md` is the 69-scan Parts 2-7 continuation of the
 already translated opening and
 contains unreadable mixed-script English citations, especially at Part 5 Image
@@ -66,7 +66,7 @@ parts and 122 scans. `sorpozhivugal/aalunar090259.md` requires bilingual re-OCR
 of all 20 pages, particularly the destroyed English quotations on Images 8-9.
 
 `report_ocr_pending_links.py` recognises `No OCR text detected` markers. The
-current accurate split is 57 recovery / 32 translation, 89 total. The recovery
+current accurate split is 58 recovery / 31 translation, 89 total. The recovery
 count now correctly includes two canonical files already marked as incorrect
 sources; this is a classification correction, not a new source defect.
 
@@ -254,9 +254,12 @@ three destroyed English passages were confirmed directly from the scans.
 comparison confirmed corruption from its title and English subtitle through
 the final pages. `sorpozhivugal/210367.md` was likewise moved to recovery after
 its three-speech structure and two destroyed English quotations were verified
-from the scans. Screen `sorpozhivugal/230367.md` next. Record scan-proven OCR
-corrections in ocr_concerns.csv and do not translate missing or damaged source
-text by guessing.
+from the scans. `sorpozhivugal/230367.md` was then moved to recovery after its
+three-speech structure, missing Speech 7 header, destroyed English quotation,
+and extensive Tamil losses were verified from the scans. Screen
+`sorpozhivugal/230868.md` next. Record scan-proven OCR corrections in
+ocr_concerns.csv and do not translate missing or damaged source text by
+guessing.
 
 After every single completed work, run
 python3 refresh_ocr_translation_state.py from
