@@ -18,7 +18,7 @@ The authoritative live pending list is:
 
 `translated_contents/_translation_state/ocr_pending_links.md`
 
-Its current split is 47 works needing OCR/source recovery and 45 works whose
+Its current split is 48 works needing OCR/source recovery and 44 works whose
 OCR source is available but whose bilingual translation is pending. Always
 regenerate the report after completing one work; do not rely on the numbers in
 this handover after work resumes.
@@ -51,14 +51,17 @@ this handover after work resumes.
 ## Next Work
 
 Select the next work from the live report. There is no partially edited source
-after `nadagangal/jananayaga_1.md` is committed. Prefer one of the 45 items under
+after `nadagangal/jananayaga_1.md`. Prefer one of the 44 items under
 `OCR translation pending` unless deliberately beginning a complete visual
-recovery. The first translation-ready item is
-`katturaigal/aariyamaayai.htm.md`; inspect its corrected OCR and scans before
-assuming the source is fidelity-safe.
+recovery. The first translation-ready item is now
+`katturaigal/anthikalambagam.md`. The preceding item,
+`katturaigal/aariyamaayai.htm.md`, was inspected and moved to source recovery:
+it is the 69-scan Parts 2-7 continuation of the already translated opening and
+contains unreadable mixed-script English citations, especially at Part 5 Image
+11 and Part 6 Image 1.
 
 `report_ocr_pending_links.py` recognises `No OCR text detected` markers. The
-current accurate split is 47 recovery / 45 translation, 92 total.
+current accurate split is 48 recovery / 44 translation, 92 total.
 
 The other explicit recovery hold encountered immediately before this work is
 `sorpozhivugal/sattamandram_first.md`; its embedded English was badly damaged by
