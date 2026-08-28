@@ -59,6 +59,43 @@ replace `refresh_ocr_translation_state.py` or the recovery CSV.
 - Visually reconcile the source scans and repair the canonical text before
   translation.
 
+### `sorpozhivugal/hindi_ethirpu_aen.md`
+
+**Disposition:** source/OCR recovery required before translation.
+
+- The corrected OCR is readable for long stretches, but the signatory-list
+  passage breaks after `இரண்டாவதாகக் கையெழுத்திட்டவர் ஈ.` and does not preserve
+  a complete continuous source.
+- An independent public transcription confirms that this is a substantive
+  passage rather than a harmless page decoration, but it is not a substitute for
+  the controlling scan.
+- Reconcile the affected source images and restore the missing wording before
+  translation.
+
+### `sorpozhivugal/satta_04_07_1957.md`
+
+**Disposition:** source/OCR recovery required before translation.
+
+- Part 1 / Image 6 contains a Governor's-address quotation whose English has been
+  converted into unreadable mixed Tamil/Latin/numeric OCR, beginning
+  `116 81௮௭௦6 ]ரிர்ரச்கள...`.
+- The quotation is part of Anna's argument about the budget's governing policy
+  and cannot be silently omitted or reconstructed from context.
+- Re-OCR or visually transcribe the English quotation from the scan before
+  translation.
+
+### `sorpozhivugal/nattu_mathip111157.md`
+
+**Disposition:** source/OCR recovery required before translation.
+
+- Part 1 / Image 1 has corrupted date/metadata, spurious mixed-script material,
+  and severe dropped/substituted text in the opening Legislative Assembly
+  remarks.
+- The damage continues through substantive sentences, so this is not merely a
+  header-cleanup issue.
+- Reconcile the affected scans and repair the canonical source before
+  translation.
+
 ## Workflow note
 
 When local reconciliation is next run, transfer these dispositions into the
