@@ -55,3 +55,22 @@
 
 ...
 ```
+
+## Required per-work checkpoint
+
+After completing and verifying every individual work, run this from
+`outputs/annavin_text_extractor/`:
+
+```bash
+python3 refresh_ocr_translation_state.py
+```
+
+This refreshes the resumable queue, category `CONTENTS.md` files, bilingual
+audit, category status tables, and `_translation_state/ocr_pending_links.md`.
+Do not postpone this until the end of a batch: the pending-links report must
+lose the completed work immediately, so a fresh chat can trust it after an
+interruption.
+
+Before committing, confirm that the completed file is absent from
+`_translation_state/ocr_pending_links.md` and that its source-retention audit
+passes.
