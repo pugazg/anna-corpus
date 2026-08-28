@@ -11,14 +11,14 @@ Complete all 962 canonical OCR-origin works as bilingual Markdown documents:
 | katturaigal | 552 | 539 | 13 |
 | nadagangal | 61 | 35 | 26 |
 | sirukathaigal | 108 | 108 | 0 |
-| sorpozhivugal | 241 | 189 | 52 |
-| **Total** | **962** | **871** | **91** |
+| sorpozhivugal | 241 | 190 | 51 |
+| **Total** | **962** | **872** | **90** |
 
 The authoritative live pending list is:
 
 `translated_contents/_translation_state/ocr_pending_links.md`
 
-Its current split is 50 works needing OCR/source recovery and 41 works whose
+Its current split is 52 works needing OCR/source recovery and 38 works whose
 OCR source is available but whose bilingual translation is pending. Always
 regenerate the report after completing one work; do not rely on the numbers in
 this handover after work resumes.
@@ -34,24 +34,25 @@ this handover after work resumes.
 
 ## Most Recently Completed Work
 
-`sorpozhivugal/muthamizh_manad.md` is complete.
+`sorpozhivugal/thee_paravattum_1.md` is complete.
 
-- All 23 scans across two parts were visually reconciled.
-- Scan-proven Tamil substitutions and corrupted embedded English, including
-  `Fashion`, `Actor`, `Literature`, `Hydrogen`, qualifications and the closing
-  date, were repaired in the canonical source.
-- The combined work contains three complete speeches by S. S. Bharathi,
-  Bharathidasan and Anna; all three were translated in one bilingual document.
-- The bilingual translation preserves classical quotations, speaker
-  transitions, resolutions, period political language and Anna's closing call
-  for the anti-Hindi campaign.
+- All 20 scans were visually reconciled, with a separate `tam+eng` OCR pass
+  used only to identify discrepancies for direct scan review.
+- The title, date, institutional names, figures and meaning-changing Tamil
+  substitutions were repaired in the canonical source.
+- The complete 1943 Law College debate was translated, retaining Anna's main
+  address, R. P. Sethu Pillai's rebuttal, Eelathadigal's intervention, Anna's
+  reply and the chairman's closing remarks.
+- `report_ocr_pending_links.py` now correctly places files already listed in
+  `incorrect_sources.csv` under source recovery instead of presenting them as
+  translation-ready work. This prevents another retry of `பழைய கம்பெனி!`.
 - The bilingual source-retention audit passes.
-- The live pending report has been refreshed from 92 to 91 works.
+- The live pending report has been refreshed from 91 to 90 works.
 
 ## Next Work
 
 Select the next work from the live report. There is no partially edited source
-after `sorpozhivugal/muthamizh_manad.md`. Prefer one of the 41 items under
+after `sorpozhivugal/thee_paravattum_1.md`. Prefer one of the 38 items under
 `OCR translation pending` unless deliberately beginning a complete visual
 recovery. Select the next shortest practical candidate from that live section;
 the report is authoritative and excludes the completed Muthamizh work. The
@@ -65,7 +66,9 @@ parts and 122 scans. `sorpozhivugal/aalunar090259.md` requires bilingual re-OCR
 of all 20 pages, particularly the destroyed English quotations on Images 8-9.
 
 `report_ocr_pending_links.py` recognises `No OCR text detected` markers. The
-current accurate split is 50 recovery / 41 translation, 91 total.
+current accurate split is 52 recovery / 38 translation, 90 total. The recovery
+count now correctly includes two canonical files already marked as incorrect
+sources; this is a classification correction, not a new source defect.
 
 The other explicit recovery hold encountered immediately before this work is
 `sorpozhivugal/sattamandram_first.md`; its embedded English was badly damaged by
@@ -208,9 +211,9 @@ organized_contents/_merge_state/source_map.csv as the canonical inventory and
 translated_contents/_translation_state/ocr_pending_links.md as the live pending
 list. Do not mix HTML-origin queue counts into OCR-origin progress.
 
-The most recently completed work is sorpozhivugal/muthamizh_manad.md; all 23
-scans across its two parts were reconciled and all three conference speeches
-were translated. Select the next work from the live pending report, preferably from
+The most recently completed work is sorpozhivugal/thee_paravattum_1.md; all 20
+scans were reconciled and its complete four-part debate was translated. Select
+the next work from the live pending report, preferably from
 the OCR translation-pending section. Record scan-proven OCR corrections in
 ocr_concerns.csv and do not translate missing or damaged source text by
 guessing.

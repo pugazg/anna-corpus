@@ -9,6 +9,7 @@ ROOT = Path(__file__).resolve().parent
 SOURCE_MAP = ROOT / "organized_contents/_merge_state/source_map.csv"
 TRANSLATED = ROOT / "translated_contents"
 RECOVERY = TRANSLATED / "_translation_state/needs_source_recovery.csv"
+INCORRECT = TRANSLATED / "_translation_state/incorrect_sources.csv"
 MANIFEST = ROOT / "ocr_images/_state/manifest.jsonl"
 OUTPUT = TRANSLATED / "_translation_state/ocr_pending_links.md"
 GITHUB_ROOT = (
@@ -19,6 +20,11 @@ GITHUB_ROOT = (
 
 def load_recovery_holds():
     with RECOVERY.open(encoding="utf-8-sig", newline="") as handle:
+        return {row["file"]: row["reason"] for row in csv.DictReader(handle)}
+
+
+def load_incorrect_sources():
+    with INCORRECT.open(encoding="utf-8-sig", newline="") as handle:
         return {row["file"]: row["reason"] for row in csv.DictReader(handle)}
 
 
@@ -72,6 +78,7 @@ def has_blank_page_marker(path):
 
 def main():
     holds = load_recovery_holds()
+    incorrect = load_incorrect_sources()
     page_urls = load_page_urls()
     pending = []
     with SOURCE_MAP.open(encoding="utf-8-sig", newline="") as handle:
@@ -82,7 +89,7 @@ def main():
             if (TRANSLATED / relative).exists():
                 continue
             source_path = Path(row["chosen_path"])
-            recovery_reason = holds.get(relative)
+            recovery_reason = holds.get(relative) or incorrect.get(relative)
             if recovery_reason:
                 state = "OCR/source recovery pending"
                 reason = recovery_reason

@@ -1,3 +1,4 @@
+import csv
 import importlib.util
 import tempfile
 import unittest
@@ -23,6 +24,23 @@ class BlankOcrMarkerTests(unittest.TestCase):
             source = Path(directory) / "source.md"
             source.write_text("## Image 1\n\nமுழுமையான உரை\n", encoding="utf-8")
             self.assertFalse(MODULE.has_blank_page_marker(source))
+
+    def test_incorrect_sources_supply_recovery_reasons(self):
+        with tempfile.TemporaryDirectory() as directory:
+            path = Path(directory) / "incorrect_sources.csv"
+            with path.open("w", encoding="utf-8", newline="") as handle:
+                writer = csv.DictWriter(handle, fieldnames=["file", "reason"])
+                writer.writeheader()
+                writer.writerow({"file": "katturaigal/broken.md", "reason": "Wrong scans"})
+            original = MODULE.INCORRECT
+            try:
+                MODULE.INCORRECT = path
+                self.assertEqual(
+                    MODULE.load_incorrect_sources(),
+                    {"katturaigal/broken.md": "Wrong scans"},
+                )
+            finally:
+                MODULE.INCORRECT = original
 
 
 if __name__ == "__main__":
