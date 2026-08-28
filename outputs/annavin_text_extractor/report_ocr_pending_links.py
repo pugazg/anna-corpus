@@ -61,7 +61,12 @@ def urls_for(relative, page_urls):
 
 def has_blank_page_marker(path):
     text = path.read_text(encoding="utf-8", errors="replace")
-    markers = ("No OCR text was extracted", "No text extracted", "OCR text unavailable")
+    markers = (
+        "No OCR text was extracted",
+        "No OCR text detected",
+        "No text extracted",
+        "OCR text unavailable",
+    )
     return any(marker in text for marker in markers)
 
 

@@ -18,7 +18,7 @@ The authoritative live pending list is:
 
 `translated_contents/_translation_state/ocr_pending_links.md`
 
-Its current split is 22 works needing OCR/source recovery and 71 works whose
+Its current split is 48 works needing OCR/source recovery and 45 works whose
 OCR source is available but whose bilingual translation is pending. Always
 regenerate the report after completing one work; do not rely on the numbers in
 this handover after work resumes.
@@ -45,8 +45,29 @@ this handover after work resumes.
 - Its temporary recovery hold has been removed.
 - The live pending report has been refreshed from 94 to 93 works.
 
-No later work is partially edited. Select the next suitable item from the live
-pending report, while respecting recovery and incorrect-source holds.
+## Current In-Progress Recovery
+
+`nadagangal/jananayaga_1.md` was selected next, but inspection proved that it
+was incorrectly classified as translation-ready.
+
+- Images 1, 2, 5, 6, 10, and 11 contain `_No OCR text detected._` markers.
+- The remaining OCR pages contain pervasive broken words and character
+  substitutions.
+- All 11 scans are present and readable in
+  `ocr_images/nadagangal/jananayaga_1/`.
+- Direct Tesseract OCR on the grayscale PNG files returns no text for the six
+  blank pages. Converting each PNG to an ordinary JPEG first and then running
+  `tam+eng` OCR successfully recovers text from all 11 pages.
+- A temporary recovery pass exists only under
+  `/private/tmp/jananayaga-reocr/`; it is not canonical and may disappear.
+- The canonical corrected Markdown has not yet been replaced. Recreate the
+  temporary OCR if necessary, visually reconcile all 11 scans, then translate.
+- A recovery hold has been added to `needs_source_recovery.csv`.
+- `report_ocr_pending_links.py` now recognises `No OCR text detected` markers,
+  preventing this classification error for other pending works.
+- That classifier repair changed the 93-work split from the previously reported
+  22 recovery / 71 translation to the accurate 48 recovery / 45 translation.
+  The total pending count did not change.
 
 The other explicit recovery hold encountered immediately before this work is
 `sorpozhivugal/sattamandram_first.md`; its embedded English was badly damaged by
@@ -190,10 +211,11 @@ translated_contents/_translation_state/ocr_pending_links.md as the live pending
 list. Do not mix HTML-origin queue counts into OCR-origin progress.
 
 The most recently completed work is sorpozhivugal/nadaga_valarchi.md; all 21
-scans and both speeches were reconciled and translated. Select the next suitable
-item from ocr_pending_links.md, inspect every associated scan, record
-scan-proven OCR corrections in ocr_concerns.csv, and create the complete
-bilingual translation. Do not translate missing or damaged source text by
+scans and both speeches were reconciled and translated. Resume the in-progress
+source recovery of nadagangal/jananayaga_1.md. Its six blank OCR pages become
+readable after JPEG conversion followed by tam+eng Tesseract OCR; visually
+reconcile all 11 scans before translating. Record scan-proven OCR corrections
+in ocr_concerns.csv and do not translate missing or damaged source text by
 guessing.
 
 After every single completed work, run
