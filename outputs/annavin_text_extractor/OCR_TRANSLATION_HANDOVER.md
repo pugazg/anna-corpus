@@ -18,7 +18,7 @@ The authoritative live pending list is:
 
 `translated_contents/_translation_state/ocr_pending_links.md`
 
-Its current split is 55 works needing OCR/source recovery and 34 works whose
+Its current split is 56 works needing OCR/source recovery and 33 works whose
 OCR source is available but whose bilingual translation is pending. Always
 regenerate the report after completing one work; do not rely on the numbers in
 this handover after work resumes.
@@ -49,13 +49,14 @@ this handover after work resumes.
 
 ## Next Work
 
-Select the next work from the live report. Prefer one of the 34 items under
+Select the next work from the live report. Prefer one of the 33 items under
 `OCR translation pending` unless deliberately beginning a complete visual
-recovery. Screen `sorpozhivugal/nattu_mathip111157.md` next. The preceding
-`satta_17_07_1957.md` contains two speeches across 23 scans and was moved to
-recovery because three embedded English passages were destroyed by Tamil-only
-OCR. The report is authoritative. Items found incomplete or unreliable must be
-moved to source recovery rather than translated by guesswork.
+recovery. Screen `sorpozhivugal/210367.md` next. The preceding
+`nattu_mathip111157.md` spans 23 scans and was moved to recovery because its
+title, date, English subtitle, substantial Tamil clauses, and final-page text
+were corrupted or dropped despite clear scans. The report is authoritative.
+Items found incomplete or unreliable must be moved to source recovery rather
+than translated by guesswork.
 `katturaigal/aariyamaayai.htm.md` is the 69-scan Parts 2-7 continuation of the
 already translated opening and
 contains unreadable mixed-script English citations, especially at Part 5 Image
@@ -65,7 +66,7 @@ parts and 122 scans. `sorpozhivugal/aalunar090259.md` requires bilingual re-OCR
 of all 20 pages, particularly the destroyed English quotations on Images 8-9.
 
 `report_ocr_pending_links.py` recognises `No OCR text detected` markers. The
-current accurate split is 55 recovery / 34 translation, 89 total. The recovery
+current accurate split is 56 recovery / 33 translation, 89 total. The recovery
 count now correctly includes two canonical files already marked as incorrect
 sources; this is a classification correction, not a new source defect.
 
@@ -249,7 +250,9 @@ Land Reform Bill speech is corrupted from the title and date through figures,
 legal argument and closing clauses. `sorpozhivugal/satta_17_07_1957.md` was
 also moved to recovery after its two-speech structure was established and
 three destroyed English passages were confirmed directly from the scans.
-Screen `sorpozhivugal/nattu_mathip111157.md` next. Record scan-proven OCR
+`sorpozhivugal/nattu_mathip111157.md` was then moved to recovery after direct
+comparison confirmed corruption from its title and English subtitle through
+the final pages. Screen `sorpozhivugal/210367.md` next. Record scan-proven OCR
 corrections in ocr_concerns.csv and do not translate missing or damaged source
 text by guessing.
 
