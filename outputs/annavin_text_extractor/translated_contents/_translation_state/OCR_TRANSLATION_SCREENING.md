@@ -148,6 +148,29 @@ replace `refresh_ocr_translation_state.py` or the recovery CSV.
 - The missing wording cannot be safely supplied from surrounding rhetoric.
 - Reconcile Image 7 and any associated page join before translation.
 
+### `sorpozhivugal/230367.md`
+
+**Disposition:** source/OCR recovery required before translation.
+
+- Part 1 / Image 3 contains an embedded English passage rendered as unreadable
+  mixed-script OCR (`். 76 601 ௦7 6 $ற௦181...`).
+- Part 1 / Image 5 contains a second destroyed English quotation attributed to
+  former Finance Minister T. T. Krishnamachari (`116 01த 1803௦௦௨0௦௫...`).
+- Both quotations are substantive evidence in the land-revenue argument and must
+  be visually recovered before translation.
+
+### `sorpozhivugal/dravidar_kazhaga_thani.md`
+
+**Disposition:** source/OCR recovery required before translation.
+
+- Much of the one-part conference speech is continuous, but Part 1 / Image 4
+  contains the corrupted token `த$தமும்` in a substantive sentence.
+- Part 1 / Image 5 also has a broken passage around `உங்களுக்கு அந்த அதிகாரம்`
+  followed by a discontinuity before `பழக்கமும் பெற்று விட்டீர்கள்`, indicating
+  lost or malformed source text rather than harmless typography.
+- Reconcile the affected scan(s) before translation; do not supply the missing
+  wording from rhetorical context.
+
 ## Promoted candidate
 
 ### `sorpozhivugal/annal_nabi.md`
