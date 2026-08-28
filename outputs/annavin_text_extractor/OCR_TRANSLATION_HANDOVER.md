@@ -11,14 +11,14 @@ Complete all 962 canonical OCR-origin works as bilingual Markdown documents:
 | katturaigal | 552 | 539 | 13 |
 | nadagangal | 61 | 35 | 26 |
 | sirukathaigal | 108 | 108 | 0 |
-| sorpozhivugal | 241 | 190 | 51 |
-| **Total** | **962** | **872** | **90** |
+| sorpozhivugal | 241 | 191 | 50 |
+| **Total** | **962** | **873** | **89** |
 
 The authoritative live pending list is:
 
 `translated_contents/_translation_state/ocr_pending_links.md`
 
-Its current split is 52 works needing OCR/source recovery and 38 works whose
+Its current split is 52 works needing OCR/source recovery and 37 works whose
 OCR source is available but whose bilingual translation is pending. Always
 regenerate the report after completing one work; do not rely on the numbers in
 this handover after work resumes.
@@ -34,41 +34,28 @@ this handover after work resumes.
 
 ## Most Recently Completed Work
 
-`sorpozhivugal/thee_paravattum_1.md` is complete.
+`sorpozhivugal/annal_nabi.md` is complete.
 
-- All 20 scans were visually reconciled, with a separate `tam+eng` OCR pass
-  used only to identify discrepancies for direct scan review.
-- The title, date, institutional names, figures and meaning-changing Tamil
-  substitutions were repaired in the canonical source.
-- The complete 1943 Law College debate was translated, retaining Anna's main
-  address, R. P. Sethu Pillai's rebuttal, Eelathadigal's intervention, Anna's
-  reply and the chairman's closing remarks.
-- `report_ocr_pending_links.py` now correctly places files already listed in
-  `incorrect_sources.csv` under source recovery instead of presenting them as
-  translation-ready work. This prevents another retry of `பழைய கம்பெனி!`.
+- All 27 scans across two parts were visually reconciled.
+- The damaged `திருத்தொண்டு` heading and scan-proven glyph, word and spacing
+  errors were repaired while printed period language was retained.
+- The complete collection was translated, including six principal speech
+  sections, their page joins, the printed footnote and the closing
+  `எண்ணத் துளிகள்` extracts.
+- The English draft retains all 27 scan boundaries, and difficult religious
+  and cultural terms are logged separately.
 - The bilingual source-retention audit passes.
-- The live pending report has been refreshed from 91 to 90 works.
+- The live pending report has been refreshed from 90 to 89 works.
 
 ## Next Work
 
-Resume `sorpozhivugal/annal_nabi.md`. An English-only, noncanonical working
-draft already exists at:
-
-`translated_contents/_translation_state/working/annal_nabi.en.md`
-
-It covers Part 1, Images 1-11. Continue at Part 1, Image 12
-(`ocr_images/sorpozhivugal/annal_nabi_1/012-7ffee55fac.png`). The complete work
-contains 27 scans: 15 under `annal_nabi_1/` and 12 under `annal_nabi_2/`.
-Resolve the damaged heading currently recorded as `திருத்தொண்டு ப` from the
-scan before finalizing it. Do not count the working draft as translated until
-all scans have been visually checked and the canonical bilingual file exists
-at `translated_contents/sorpozhivugal/annal_nabi.md`.
-
-After completing Annal Nabi, select the next work from the live report. Prefer
-one of the items under `OCR translation pending` unless deliberately beginning
-a complete visual recovery. The report is authoritative; items inspected and
-found incomplete or unreliable must be moved to source recovery rather than
-translated by guesswork.
+Select the next work from the live report. Prefer one of the 37 items under
+`OCR translation pending` unless deliberately beginning a complete visual
+recovery. `sorpozhivugal/desiya131159.md` is a practical next candidate because
+it maps to one source page; inspect its complete scan set before assuming its
+length or source quality. The report is authoritative. Items found incomplete
+or unreliable must be moved to source recovery rather than translated by
+guesswork.
 `katturaigal/aariyamaayai.htm.md` is the 69-scan Parts 2-7 continuation of the
 already translated opening and
 contains unreadable mixed-script English citations, especially at Part 5 Image
@@ -78,7 +65,7 @@ parts and 122 scans. `sorpozhivugal/aalunar090259.md` requires bilingual re-OCR
 of all 20 pages, particularly the destroyed English quotations on Images 8-9.
 
 `report_ocr_pending_links.py` recognises `No OCR text detected` markers. The
-current accurate split is 52 recovery / 38 translation, 90 total. The recovery
+current accurate split is 52 recovery / 37 translation, 89 total. The recovery
 count now correctly includes two canonical files already marked as incorrect
 sources; this is a classification correction, not a new source defect.
 
@@ -251,13 +238,13 @@ translated_contents/_translation_state/ocr_pending_links.md as the live pending
 list. Do not mix HTML-origin queue counts into OCR-origin progress.
 
 The most recently completed canonical work is
-sorpozhivugal/thee_paravattum_1.md; all 20 scans were reconciled and its complete
-four-part debate was translated. A partial, noncanonical English draft for
-sorpozhivugal/annal_nabi.md covers Part 1, Images 1-11. Resume it at Part 1,
-Image 12 by following the exact checkpoint in the handover and working-draft
-header. Do not start a different work and do not count this partial draft as a
-completed translation. Record scan-proven OCR corrections in ocr_concerns.csv
-and do not translate missing or damaged source text by guessing.
+sorpozhivugal/annal_nabi.md. All 27 scans across its two parts were visually
+reconciled, the complete collection was translated, and the bilingual audit
+passes. There is no partial working draft. Select the next work from the live
+OCR translation-pending section; sorpozhivugal/desiya131159.md is a practical
+candidate to inspect next. Record scan-proven OCR corrections in
+ocr_concerns.csv and do not translate missing or damaged source text by
+guessing.
 
 After every single completed work, run
 python3 refresh_ocr_translation_state.py from

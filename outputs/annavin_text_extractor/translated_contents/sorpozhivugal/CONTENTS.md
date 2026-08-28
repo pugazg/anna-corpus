@@ -89,7 +89,7 @@ Total source works: 537
 - [அன்றைய மன்னர்களின் அஞ்சாநெஞ்சம் நமக்குத் தேவை](andraya_mannargalin.md) - pending
 - [அஞ்சல் ஊழியர் பிரதிநிதிகளுக்கும்](anjal_oozhiyar_pirathinithi.md) - pending
 - [அண்ணா அழைக்கின்றார்!](anna_azhaikkirar.md) - pending
-- [sorpozhivugal/annal_nabi](annal_nabi.md) - pending
+- [sorpozhivugal/annal_nabi](annal_nabi.md) - translated
 - [sorpozhivugal/annamalai_perurai](annamalai_perurai.md) - pending
 - [sorpozhivugal/annavin_thalaimai](annavin_thalaimai.md) - pending
 - [அந்நிய ஆதிக்கத்திற்கு இடம் கொடோம்](anniya_aathikathukku.md) - pending

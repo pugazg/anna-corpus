@@ -1,4 +1,10 @@
-# sorpozhivugal/annal_nabi
+# அண்ணல் நபி பற்றி அறிஞர் அண்ணா / Arignar Anna on the Noble Prophet
+
+**Tamil title:** அண்ணல் நபி பற்றி அறிஞர் அண்ணா  
+**English title:** Arignar Anna on the Noble Prophet  
+**Source file:** `sorpozhivugal/annal_nabi.md`
+
+## Source Tamil (verbatim)
 
 - Combined OCR parts: 2
 - OCR correction stage: `apply_ocr_corrections.py`
@@ -1186,3 +1192,429 @@
 என்றார் நபிகள் நாயகம். அதையே நானும் நீண்டகாலமாகப்
 போதித்து வருகிறேன். ஆகவே, முஸ்லிமுக்கும் எனக்கும்
 என்ன வித்தியாசம்?
+
+## English Translation
+
+## Part 1 — Image 1
+
+### Arignar Anna on the Noble Prophet
+
+Speeches delivered from 1945 onward about the Noble Prophet and Islam.
+
+### Islam in Tamil Nadu
+
+Those who wish to taste a segment of jackfruit first remove the outer rind, clear away the fibres, then take out the segment and remove the seed within it before eating. Religious ideas, too, must be understood in the same way.
+
+Some people call the jackfruit's outer rind religion. We feel sorry for them. Some wander about clinging to the fibres and calling that religion. We are repelled when we see them. Still others try to swallow the jackfruit segment together with its seed. We sympathize with them. Islam, however, is like the peeled jackfruit segment itself.
+
+Islam has taken shape as a religion suited to all times and to people of every land. Even if some problem arises ten years from now, all that is needed is to give a rational explanation drawn from the ideas of the Prophet; answers can be found for every problem.
+
+In other religions, miracles are many and fundamental truths are few. In Islam, fundamental truths are many and miracles are comparatively few.
+
+## Part 1 — Image 2
+
+The claim that Islam was spread by the sword is meaningless. The sword was not used to spread Islam. It was, however, used to defend Islam during the Crusades.
+
+When India was under Mughal rule and under other Muslim kings, there were not even ten million Muslims. Only after all those governments had disappeared did their number grow to one hundred million.
+
+In a land where the noble principle, “One humanity, one God,” had once prevailed but where those ideas had later been forgotten, Islam came to reaffirm those very principles; Islam spread in Tamil Nadu as early as 1,300 years ago.
+
+Just as a child sleeping in a cradle embraces its mother the moment it is awakened, Islamic ideas were embraced in Tamil Nadu.
+
+### Darkness and Light
+
+*(At the Royapuram Milad celebration)*
+
+All the comrades who spoke here before me explained, in a fine manner, the principles of Islam and the greatness of the Prophet. I am pleased for three reasons to know that all those who spoke here were young people, and that all those young people were Muslims.
+
+It is my wish that Muslim youth should develop the habit of speaking well. In keeping with that wish, every young person who spoke here spoke well.
+
+Royapuram is where the DMK headquarters, Arivagam, came into being.
+
+## Part 1 — Image 3
+
+Secondly, because there is a close relationship between Muslims and the DMK, some Muslim elders are afraid. The speakers explained that such fear is mistaken.
+
+Thirdly, I am deeply interested in Muslim youth knowing well the worth and greatness of Prophet Muhammad. I am very happy that the friends who spoke here have acquired the ability to explain Prophet Muhammad clearly, in good Tamil and in a way everyone can understand.
+
+The friends who spoke here said that some people had apparently asked whether Anna ought to take part in this celebration, and they spoke as though answering that question. Nowadays nobody asks that. Instead, what they ask is, “Why did Annadurai not take part this year?” Twenty or twenty-five years ago they used to ask, “May Annadurai take part in a celebration of Prophet Muhammad?” But they do not ask that now.
+
+My relationship with Muslims did not begin today or yesterday. It began thirty years ago. One friend who spoke here mentioned that, when I took part in a function outside this town, someone asked me a question and that I answered it in a certain way. I think it would be good to explain that to you fully. I even remember the name of the person who asked me.
+
+“You speak so well about Prophet Muhammad and the principles of Islam. Why should you not join Islam?” they asked me.
+
+This was the answer I gave them: *Islam has certain religious injunctions and prescribed practices. The Islamic social organization is called the Jamaat. Those who accept Islamic principles and its religious path and involve themselves in it must believe in one God. They must not give God a physical form, worship that form and thereby deceive others. Seen in that sense, I am indeed an Islamic believer. But I am not within the Islamic Jamaat.*
+
+## Part 1 — Image 4
+
+There is no special merit or greatness in my joining Islam first and praising it afterwards. It would be like my personally proclaiming that my own house is a very fine house. There is nothing surprising in my taking pride in my own house. The distinction lies in explaining the virtues of Islam without joining the Jamaat.
+
+Those who spoke before me cited what great figures such as H. G. Wells, George Bernard Shaw and Gandhi had said about Prophet Muhammad. There is significance in their praise precisely because those great men were not Muslims. Therefore, there is no distinction in turning me too into merely one more Muslim among thousands.
+
+Whatever religion a person may belong to, whatever race or community one may have been born into, when someone speaks about the Prophet, the Islamic community welcomes that person.
+
+The Muslims of this country are a minority community; the others are more numerous. In order that unity may prevail between the followers of these two faiths, and that good relations and a sense of brotherhood may develop between them, it is beneficial to conduct such sacred commemorations by inviting people from many communities.
+
+As far as South India is concerned, hostility has never arisen between these two communities. Good relations between the two sides have continued generation after generation. If you look at Thanjavur district, you can see Muslims there and people of the other community addressing one another in the relationship of elder brother and younger brother.
+
+## Part 1 — Image 5
+
+Even when murderous Hindu–Muslim communal riots raged in North India, good fellowship prevailed in the South. Fostering that spirit of fellowship and a culture of unity is one of the tasks of the DMK.
+
+The friends here explained to you in detail aspects of the life of the Prophet: the land in which he was born, the conditions of his time, prevailing religious beliefs, the backward and degraded social order, superstitions, and the cruelties then inflicted upon women.
+
+Prophet Muhammad did not merely establish a religious path. He freed and rescued people who lay trapped in false and blind beliefs and created a good society. He also established a sound political order for it. In a period of extreme difficulty and danger, he successfully put his ideals into practice.
+
+In the same way, the DMK works in three spheres. Do not imagine that, by saying this, I am trying to equate the DMK with Islam. The DMK advances these ideas in an age when science and education have spread widely. In such an age, it does not require great courage to express sound principles. In the time of the Prophet, far greater courage of heart was needed to say such things. It was an age without scientific clarity, when truths such as “the Earth is spherical” and “the Earth revolves around the Sun” were not widely known. It was an age in which people were governed by fear and barbaric ways.
+
+Prophet Muhammad gave a good light in an age of darkness. We are those who point to the radiance of that light.
+
+## Part 1 — Image 6
+
+When even the work undertaken by reformers in our own time meets with so many obstacles, how many ordeals must people such as the Prophet have had to endure in that age?
+
+Whenever some among us lose courage while spreading our principles, they should remember the Prophet.
+
+Did the people there readily accept Prophet Muhammad's principles in the beginning? No. It is said that the people who lived in the Arabian desert treated 360 images as gods and worshipped one each day.
+
+Think, then, of the strength the Prophet must have possessed to tell such people, “Those 360 images are not God,” and of all the dangers he must have faced. Reflecting on that will lessen, at least to some extent, the fear we may feel when putting forward reformist ideas.
+
+The doubts that arise in public life fly away when we think of the Prophet. When we remember the dangers he faced in his time, the dangers of our own time seem no more than a speck of straw.
+
+The history of the Prophet is a fountain of courage and a fine example for society.
+
+### No Need for Miracles
+
+*(At the Royapuram Milad celebration)*
+
+Fifteen years ago I went to Kayalpattinam. Tiruppur Moideen and Muhammad Hussain Nainar came with me. The three of us spoke at a celebration of Prophet Muhammad. One of the speakers at that function narrated an Islamic story and explained it by connecting it with the Qur'an.
+
+*[The source carries the note “1943.” at this point.]*
+
+## Part 1 — Image 7
+
+The story was that, while a man was travelling through a forest, God ordered him to give his sandals and walking stick in charity to someone else. He immediately gave them away. Later, as he continued along the forest path, he was caught by a robber. At that moment, the walking stick and sandals he had previously donated are said to have come to his rescue from the robber.
+
+As soon as I heard the story, I had a doubt. I asked Muhammad Hussain Nainar, who was beside me: “Is this story in the Qur'an? Did Prophet Muhammad say this?” He replied, “Nothing of the sort. This has no connection with the Qur'an. It is a fabricated tale made up by somebody in later times.”
+
+When I spoke afterwards, I referred to this and explained that it was a fabricated story. I also said that displaying miracles of this kind was not a divine command. The people of Kayalpattinam neither opposed nor condemned me for saying so. There is also a very large Arabic college in Tamil Nadu there. If the people there understood the truth I stated even fifteen years ago, I am confident that they will not refuse to accept it today.
+
+At this point I wish to tell the Islamic community one thing. If you argue that Islam is great by displaying miracles, then the religion described as our Hindu religion contains miracles that could be called the fathers and grandfathers of the miracles you possess.
+
+## Part 1 — Image 8
+
+The reason George Bernard Shaw said that Islam would endure in the world to the very end is that this religion has fewer miracles and an abundance of ideas grounded in reason.
+
+Among Hindus there are countless miracle stories that do not accord with reason. Ask our mothers. They will say, “Can there be any miracle story greater than the story of Prahlada?” Hindus can recount innumerable stories and say, “We are the very people who sold miracles; we are the birthplace of miracles!”
+
+Therefore, do not seek honour and greatness for Islamic principles by displaying miracles.
+
+Islam spread because of the fearless courage of the Prophet and the righteous struggle he waged.
+
+Islam contains an abundance of profound ideas without requiring God to take an incarnation again and again.
+
+One reason for honouring Islam is that its religious path does not issue a divine order saying merely, “Believe this.” Belief comes through reasons being given.
+
+That path says that one should seek education even by going as far as China, taking the distance into account.
+
+Today, many within the Islamic community remain without education. The injunction—the central idea—expressed in that religious path is that education must be spread.
+
+There is no particular merit in merely conducting a celebration such as this once a year. If you tell ordinary people that our religion is admirable in these various ways and they then forget it, Islam gains no greatness from that.
+
+## Part 1 — Image 9
+
+Many Muslims themselves may not know the history of Islam. Many do not know the history of the Taj Mahal. If you ask a Muslim about the Taj Mahal, he may say, “It is a very large building, a beautiful building; it was built by one of our people.” But he may not know who that “one of our people” was. He may not know about the emperor who built it. To understand a religion, one must know its history; one must know world history.
+
+### Word and Deed!
+
+I wish to offer a few general observations about religion.
+
+Whatever anyone may say and however many efforts may be made, belief in religion is generally declining. There is no use merely feeling distressed because I say this. We must examine it.
+
+What is the situation today? Why is sound philosophy losing people's confidence? We must examine that. There is no use blaming somebody or other. What causes belief to decline? The machinery used to propagate ideas is defective.
+
+Suppose everything in a printed book is correct, but on the eighth page alone some of the letters have failed to print. What caused it? Is the printing press defective, or did the compositor make an error? You examine it and find that everything appears to be in order. Every page printed correctly except for a little on page eight. The cause cannot immediately be found. Yet where is the defect? Only by locating it can the page be printed properly.
+
+Whom should we ask about this? An astrologer?
+
+## Part 1 — Image 10
+
+If you ask an astrologer, he will say, “Saturn is in your eighth house; that is why the eighth page did not print.” If you tell someone who understands the technicalities of printing, he will investigate carefully and then say, “Everything is in order. There is no defect in the press or in the typesetting. But at the place where the eighth page prints, one thread's breadth of type is lower than the proper height. Raise it and the letters will print correctly.” He will ask you to feel the type with your hand. When you do so, the truth becomes clear. In the same way, we must locate where the defect lies.
+
+The pure ideas within religion must be spread in the right way and with the right purpose.
+
+Those who preach an idea must themselves live according to what they preach. There must not be one group whose task is to preach and another group whose task is to live by the preaching.
+
+The Prophet said something and then demonstrated, “I live according to what I say,” through his own conduct. Only if others likewise demonstrate this in practice can peace, tranquillity and concord prevail in the world.
+
+What we see instead is that those who speak occupy an elevated position, while those expected to practise remain below.
+
+Look at me speaking here. I am standing on a stage and speaking from beneath a canopy; you are sitting on the ground and listening. Suppose it starts raining now and I say, “It does not matter if you get drenched; you must keep listening.” What would you think? I can keep speaking because I have a canopy. What meaning would it have if I remained dry while telling you to get wet?
+
+Suppose someone deposits six hundred thousand rupees in a bank, arrives in a Cadillac car worth six thousand rupees, carries a Parker pen worth sixty rupees, and applies perfume worth six rupees before climbing onto the stage—
+
+## Part 1 — Image 11
+
+—and then says, “The Prophet travelled from place to place only on a camel to spread his message; all of you too must travel only by camel.” What respect would listeners have for such preaching? That is why respect for religious injunctions declines.
+
+The condition in which “a Cadillac car is for a few while travel on foot is for the many” must diminish.
+
+God has created all wealth. Yet there are many who, though everything exists, possess nothing. Most of those who possess things have no desire to give up what they have.
+
+Suppose a man wearing a diamond ring tells a poor man who has never seen a diamond, “If you want to see what a diamond is like, look upward through the hole in the roof of the hut where you live. You will see a shining star in the sky. A diamond looks like that.” What will the poor man say? Will he not say, “What arrogance! He wears a diamond ring himself and points out a star to the poor man”?
+
+Therefore, teaching that people can understand must grow into practical action. The pure principles shown by the Prophet for human unity must be put into practice.
+
+### Sacred Service
+
+*(At the Royapuram Milad celebration)*
+
+We must examine who makes use of the idea of God, and when they do so. We must not be bewildered, deluded or frightened by anything.
+
+If a religious path can withstand everything that anyone may say and every kind of inquiry anyone may undertake, that path alone can endure.
+
+## Part 1 — Image 12
+
+What would it mean if a religion could not withstand even the words of ordinary people? Pure gold does not lose its fineness however many times it is tested on the touchstone. In the same way, Islam stands firm however and by whomever it is examined.
+
+That is why they confidently invite us to this celebration and ask us to speak. Let them invite us to a Navaratri celebration and see! They must have that courage. One cannot say, “Who are you to place this on the scales?” Whoever weighs it, it is sound only if the weight proves correct.
+
+In religion, a habit of accepting everything easily without inquiry is growing. One cannot say that such a condition will last forever.
+
+Suppose a small child points to a star and asks an adult, “What is that?” Someone tired of answering all the child's questions might say, “That star is the glow from the cigar smoked by people in the sky.” The child may believe it then. But how could the child believe it later, when studying in college?
+
+The world was once in its childhood. Humanity has now reached the stage of travelling to the moon. How could a shirt tailored in childhood fit when one puts it on as an adult?
+
+Therefore, if religious paths are to endure and gain distinction, they must serve society and enter into practice.
+
+When a passenger boards a horse carriage, the driver asks where he wishes to go. The passenger says Mannadi. When the carriage reaches Mannadi—
+
+## Part 1 — Image 13
+
+—the driver stops and asks him to get down. The passenger immediately says, “This is not my destination. I must go to the end of that street there,” pointing toward Muthialpet. What will the driver say?
+
+“Speak fairly before God. You said Mannadi, did you not? Now you point to Muthialpet Street. Pay me two annas more,” he will say.
+
+The passenger will reply: “I said Mannadi; I did not specify this particular spot. The street I point to is also within Mannadi. Fear God when you speak and do not demand extra money without reason.”
+
+Thus both invoke God's name.
+
+On whose side would God stand? The passenger may be somewhat well-to-do. We believe in the God who stands with the poor carriage driver. That is the rationalist's nature.
+
+The rich man uses God's name to save his money; the poor man calls upon God to obtain justice. The selfish man uses God for his exploitation; the poor man trusts God in seeking relief from suffering.
+
+If the rich man made his profit account just, no one would say that God was unnecessary.
+
+The Qur'an is a clear exposition. It speaks decisively of God and society. All sound principles are set out in that book with great brevity and clarity.
+
+## Part 1 — Image 14
+
+Remembering how splendidly society developed through the Prophet's sacred service, we honour his greatness at this celebration.
+
+### A Superior Path
+
+*(At the Madras beach Milad celebration)*
+
+I desire a particular change in the way the Prophet's celebration is conducted. Islam's sound teachings must benefit all people who do not know its principles. That is why I seek a change. By bringing me and my friend Sengalvarayan together for this celebration, you can learn only that we already understand Islam's sound principles; people who do not know them cannot learn that way. However prominently you ask me to speak at these celebrations, and even if you add me to the list of Islam's supporters, I still want the celebrations changed so that the people may learn Islam's sound ideas.
+
+The true qualities of Islam are even more urgently needed now by a world wandering through a philosophical forest in search of light than they were in the past.
+
+Islam is not merely a religion; it is a superior path. It is celebrated in many countries. Because it is such an excellent path, the world's great-minded people regard Islam as a path rather than merely a religion.
+
+There is no contradiction between my view of religion and my participation in this celebration of the Prophet. I take part because I regard Islam as a path.
+
+## Part 1 — Image 15
+
+This is neither the first time I have attended such a celebration nor the last.
+
+Islam is praised as a superior path because it contains sound principles capable of removing every doubt that arises in the human mind. One of the Prophet's teachings is that no partner may be associated with God. I have reflected upon that teaching with a deeply moved heart and rejoiced in it.
+
+I stress it because it makes a person think: “No partner may be associated with God. Why not? What could God be like?” It sets thought to work without ending by declaring that God must possess a particular form. That is why the ancient Tamils said, “Those who saw did not speak; those who spoke did not see.”
+
+This is the philosophy of divinity. To associate a partner with God, one must place someone before God. Who should that person be? Who knows? That is why the Prophet taught that no partner should be associated with God. The attribution of such partners in other religions produced countless disagreements among people like us.
+
+There is something else I value in Islam: it makes a human being human, a complete human being. If possible, Islam possesses the power to elevate a human being to the level of the divine.
+
+God could have appeared directly and said, “I am God,” and made people believe. Yet the reason a messenger was sent was—
+
+## Part 2 — Image 1
+
+—to say, “Tell them that I sent you.” Only then would people ask and reflect, “Was he truly sent by God?” God sent the holy messenger because human beings must think. That is why the ancient Tamils said, “Knowledge is God; God is knowledge.”
+
+### The Path of Equality
+
+*(At the Madras beach Milad celebration)*
+
+One distinction of Islam is that it erases caste in anyone who joins it. Whether they are Thevars and oppressed people who cut one another down in Muthukulathur, or anyone else, Islam's principle removes caste. That principle greatly attracts me.
+
+Knowing all this, Bernard Shaw, a thinker who examined everything minutely, wrote that Islam alone was capable of enduring until the end of the world.
+
+Why is the Prophet celebrated as a great man? If in 1957 we say that social oppression must be abolished, people run away from us. Fourteen hundred years ago, among people who worshipped many deities, he boldly said, “This is not the God you should worship; this is not the temple to which you should go.” That they let him live at all, and that he stated his principle to them with firmness of heart, are reasons to celebrate him as a great man. It is no surprise if the courage he gave then remains today among those who follow his path.
+
+A religious path must unite people, enlighten their understanding, create solidarity, establish precious bonds, foster good fellowship and awaken the finest awareness.
+
+## Part 2 — Image 2
+
+If it is called *madham* in the ordinary sense, it makes people fanatical and requires the police. If people stand within the principles of a true path, they unite through love.
+
+We may differ about what benefit religion should provide. If some are therefore called atheists and others theists, the former label is merely a name applied by self-described theists to people they dislike. Apart from that, atheism has never existed, nor need it exist. Whether or not it does, on this sacred day I wish to state that we do not belong to that group. Theism is nature itself, and no one can exist contrary to nature.
+
+In other countries, those above preach Islam's virtues to those below. That must not be the pattern in our country. Here, those below must preach to those above. Only then will everyone understand the nature of God.
+
+Why do I say so? We take a horse carriage home from the railway station. We name our destination and agree on the fare. When the driver reaches the stated distance, he finds it farther than expected and asks a little more. What do many people instinctively say? “Brother, act fairly before God!”
+
+But if we have actually travelled farther and then pay him less, how many of us obey when he says, “Sir, act fairly before God”? I ask you to examine your conscience: how many truly follow that injunction?
+
+## Part 2 — Image 3
+
+That is why I say that, in our country, those below must preach to those above.
+
+No one can object to the true path of religion. But when a path enters practice, it must serve the people. Its surroundings and circumstances must support it. Human beings create circumstances. Those who merely travel in the direction of their surroundings possess only a little awareness of them. A person who knows that resisting bad surroundings may harm him, yet destroys them and creates good surroundings, is the one we call a great man.
+
+Such people are not always available to us, so we must make use of them when they appear. The Prophet was one such great man. People like him do not arise often. Conditions must therefore be created to spread his fine ideas throughout the country. Good conditions require clarity of public understanding; that clarity requires sound education; sound education requires good government; good government requires good rulers; and to produce good rulers, good people must be allowed to live.
+
+The Islam taught by the Prophet is like a diamond. A fine diamond may be cut and worn as a ring or an ear ornament. It may also be sold and its proceeds gambled away at the Guindy races. The quality of its benefit can be known only from how the diamond is used. Likewise, Islam's worth is revealed by whom it serves, where and how.
+
+## Part 2 — Image 4
+
+Finding good people may even become easy; their value rises only when we put the ideas they left us into use.
+
+Whom does Islam's elevated path serve today? We must examine that. If it serves the domineering, or those who make the poor cry in anguish, its lofty purpose bears no fruit. It must be used to destroy injustice and create good fellowship throughout the world. Only when it serves these ends can its full benefits be attained.
+
+### One Humanity, One God
+
+We regard Islam as a guiding lamp for a world trapped and stumbling in a philosophical forest.
+
+Islam is unlike what is ordinarily understood by the word religion. That is why its learned people prefer to call it a path. Islam's light and the dignity within that light deserve welcome.
+
+Messengers appeared to remove the doubts that troubled humanity before thought had developed. Since the Prophet appeared as the final prophet, no later person could create confusion by claiming, “I too am a prophet.”
+
+God gave humanity the power of thought so that people might understand what is good for them.
+
+I have rejoiced again and again in Islam's injunction that no partner should be associated with God.
+
+## Part 2 — Image 5
+
+To associate something with God, one must already know what that something is.
+
+It is the association of partners with God that begins the brokerage trade of charging eight annas to show Him. Islam is a path capable of making a human being fully human.
+
+Why did God send messengers instead of appearing and teaching directly? Not merely to implant blind belief, but to clarify people's doubts and guide them in what they could follow. The God of Islam does not confine Himself within a form; He urges people to think and understand.
+
+Islam's greatest excellence is its social order and its abolition of the affliction of caste. If the Harijans and Thevars fighting in Muthukulathur today became Abdul Sattar or Abdul Samad, all those divisions would disappear.
+
+At gatherings like this, I wish to hear people who know Islamic history recount the Prophet's heroic life. Instead of asking people like us to speak merely to test our knowledge of Islam, bring us here and have Islamic philosophy explained to us.
+
+In that barbarous age fourteen hundred years ago, the Prophet stood alone. He told the people that their deities were false and that the shrines they visited were not the true dwelling place of God. For that alone, Self-Respecters would celebrate him as a great man. It required immense courage to demolish all the doctrines in which the people of that age were immersed. The Prophet's courage never diminished to the end.
+
+## Part 2 — Image 6
+
+Not only that: he left that courage to Muslims as an ancestral inheritance.
+
+Two thousand years ago the principle “One humanity, one God” prevailed in Tamil Nadu. When wrongdoers and destroyers had obscured it, Islam restated it. Islamic ideas were therefore embraced in Tamil Nadu as a mother lovingly embraces a missing child. What can we do if others are jealous of this?
+
+The distinction of a religious path is revealed by how it is used.
+
+Islam is an excellent path. It must work to suppress injustice and wrongdoing in the world.
+
+Religion has generally consisted of those above preaching to those below. It must also allow those below to preach to those above.
+
+Religion must serve to abolish oppression and foster love among people, not to extort money or profit by bargaining.
+
+We are accused of being atheists. Yet we have never forgotten the formless divine. “Atheist” is only a label self-described theists apply to those they dislike. In truth, no separate community of atheists has existed in the world. Even if such a group did exist, we certainly do not belong to it.
+
+We are not such degraded beings, created by God only to doubt Him. I make that clear.
+
+## Part 2 — Image 7
+
+### Sacred Work
+
+*An address delivered by Anna at Abivai in Thanjavur*
+
+In my public life I have studied all religions and understood something of their merits and defects. Though engaged in politics, I was drawn into religious inquiry through encounters created by circumstance. At the beginning of my public life I had to seek out platforms. Most unsolicited invitations came from religious platforms. Sometimes I climbed them under compulsion; sometimes to discuss their merits and defects. These circumstances pushed me toward religious study. A doubt arising in one led me to seek and read another, until gradually I had read the principal books of those religions.
+
+My bond with Islam did not arise in that way. From my youth I maintained close friendship with Muslim friends and learned *alims* in Kanchipuram's Olimuhammadpet. By close friendship I mean that our families mingled and lived as brothers. Thus Islam and its sweet literature, the divine revelation of the Holy Qur'an, entered my heart in my youth. I take pride in saying that I had the opportunity to know the Qur'an at the same time that I came to know the *Tirukkural*.
+
+I cannot forget that, alongside the Dravidar Kazhagam platform—the platform of my life's ideal—the Milad platform helped my public life shine. I have spoken on more than three hundred Milad platforms.
+
+*[The printed page carries a footnote observing that Tamils lost Tamil treasures in the twentieth century just as they had before, and that the condition continues.]*
+
+## Part 2 — Image 8
+
+The Prophet's doctrine of one God greatly aided the social-reform campaign advanced by me and my principles. Our mission held the same principle he stressed: do not anoint stone and earth; there are human beings created by God, but no God created by human beings. The Milad platform gave that mission an excellent opportunity to shine.
+
+Even with all our propaganda for the truth embodied in “One humanity, one God,” we grieve that we have not achieved its full result. Yet fourteen hundred years ago, without any modern means of communication, the Prophet's twenty-three-year campaign led an unreasoning people—who fashioned an idol in every direction and created a new deity each day—to accept with their hearts one God and one revelation. That idea spread to every corner of the world and enabled people to live with dignity. We must rejoice in the greatness and eloquence of that holy human being and make it serve righteousness.
+
+The source of his greatness was the patience he guarded more dearly than life; the union of word and deed in his life; the law that enabled practical life to proceed without obstruction; and his place among his own followers, not merely telling but demonstrating. Islam's unmatched distinction lies in laws and institutions suited to practical human life. The Hadith, filled with the Prophet's life and words, and the Holy Qur'an, Islam's incomparable treasury of ideals, insist upon practices for daily life. This was a great driving force behind Islam's growth.
+
+## Part 2 — Image 9
+
+An awakened heart must possess the power to wander in search of knowledge. I have said before, and say again: I am a Muslim without a *kaili*, a Christian without a cross, and a Hindu without sacred ash. Wherever goodness appears, like birds flying toward a fruit grove, I gather what is fitting, powerful and sweet to my heart without concern for where it is found.
+
+Foremost among what I have taken from Islam is patience. I experience its privilege with great pride. The world has achieved immeasurable things through the patience that flourishes in truth and purity of mind, and we see such achievements throughout Islamic history. Accomplishments impossible through the sword and violent war were won by the Prophet's gentle words, smile and distinctive weapon of patience. That power created in me immeasurable devotion to the Noble Prophet.
+
+Islam is like a jackfruit. Those frightened by the thought that it contains so many customs and rites, and unwilling to enter and discover its higher purpose, cannot understand it. How can those afraid that the outer thorns will prick them taste the sweet fruit inside? Islam is the same. The thorn called custom does not truly pierce the hand and draw blood. If one enters with a desire to understand, one finds, like peeled fruit, the delicious fruit of a beautiful path.
+
+The hardships, persecution, sacrifices and scars endured by the Prophet to make Islam's sweet conch resound in all four directions of the world were no small thing.
+
+## Part 2 — Image 10
+
+The Noble Prophet's moral work was a sacred mission that gave the whole world dignity and ability. Each of us is duty-bound to rejoice in that work.
+
+### Drops of Thought
+
+The Prophet demonstrated what he preached. The principles he expressed for human unity must enter practice.
+
+#### Light in Darkness
+
+Prophet Muhammad gave a fine light in an age of darkness.
+
+#### A Fearless Heart
+
+Islam spread through the Prophet's fearless resolve and the righteous struggle he waged.
+
+#### Gold That Loses No Fineness
+
+Pure gold loses none of its fineness however often it is tested on the touchstone. Islam similarly stands firm however and by whomever it is examined.
+
+#### The Path
+
+If religious paths are to endure and gain distinction, they must serve society and enter into practice.
+
+#### Until the End of the World
+
+George Bernard Shaw said Islam would endure until the end of the world because miracles are few and rational ideas abundant within it.
+
+## Part 2 — Image 11
+
+The Qur'an is a clear exposition. All sound principles are set out in it with great brevity.
+
+#### Hero of Duty
+
+The Prophet buried blind customs, transformed barbarous people into an elevated society, and never failed to fulfil his ideals even in times of crisis. He was a hero of duty.
+
+#### Guide
+
+Whatever the doctrine or religious path, it must accord with practices suited to human society. Islam crossed frontiers and other divisions and attracted people because it showed an elevated way toward social progress and a good life.
+
+#### Full Expression
+
+Islam is the complete expression of the ancient Tamil principle, “One humanity, one God.”
+
+#### Answer
+
+I began to reflect upon one people, one revelation, one way, one humanity and one worship. Nothing but Islam gave me an answer.
+
+#### Religion
+
+Religion exists beyond the individual and must possess the power to solve human problems. If religion provides discipline, ideals, a way of life and a moral path as Islam does, I will accept and follow that religion completely. If unacceptable things such as hierarchy and untouchability are called religious doctrine, I will be that religion's foremost opponent.
+
+## Part 2 — Image 12
+
+#### Muslim
+
+Merely wearing a *kaili* and cap cannot make someone a true Muslim. The Prophet asked people to preach love, and I too preach love. He fostered brotherhood, and I too foster brotherhood. He said knowledge is God, and I hold the same principle. The Prophet said, “One humanity, one God,” and I have preached it for a long time. What, then, is the difference between a Muslim and me?
+
+## Translator's Notes
+
+The source combines speeches delivered at different Milad celebrations from 1945 onward and closes with a collection of short extracts titled “Drops of Thought.” The translation retains the source's distinction between ordinary institutional “religion” and *margam*, a principled path or way of life. *Kaili* denotes the waistcloth mentioned in Anna's well-known description of himself, and *alim* denotes a learned Islamic scholar.

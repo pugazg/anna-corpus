@@ -2,9 +2,9 @@
 
 This report covers only canonical OCR-origin works that do not yet have a bilingual translation file.
 
-- Total pending: **90**
+- Total pending: **89**
 - OCR/source recovery pending: **52**
-- OCR translation pending: **38**
+- OCR translation pending: **37**
 
 ## Category Summary
 
@@ -12,7 +12,7 @@ This report covers only canonical OCR-origin works that do not yet have a biling
 |---|---:|
 | katturaigal | 13 |
 | nadagangal | 26 |
-| sorpozhivugal | 51 |
+| sorpozhivugal | 50 |
 
 ## OCR/source recovery pending
 
@@ -142,7 +142,6 @@ This report covers only canonical OCR-origin works that do not yet have a biling
 - `sorpozhivugal/aalunar130258.md`: [website 1](http://www.annavinpadaippugal.info/sorpozhivugal/aalunar130258_1.htm), [website 2](http://www.annavinpadaippugal.info/sorpozhivugal/aalunar130258_2.htm) | [OCR Markdown](https://github.com/pugazg/anna-corpus/blob/main/outputs/annavin_text_extractor/ocr_text_corrected/sorpozhivugal/aalunar130258.md)
 - `sorpozhivugal/aatchmozhi_prachi.md`: [website 1](http://www.annavinpadaippugal.info/sorpozhivugal/aatchmozhi_prachi_1.htm), [website 2](http://www.annavinpadaippugal.info/sorpozhivugal/aatchmozhi_prachi_2.htm) | [OCR Markdown](https://github.com/pugazg/anna-corpus/blob/main/outputs/annavin_text_extractor/ocr_text_corrected/sorpozhivugal/aatchmozhi_prachi.md)
 - `sorpozhivugal/aey_thazhntha.md`: [website 1](http://www.annavinpadaippugal.info/sorpozhivugal/aey_thazhntha_1.htm), [website 2](http://www.annavinpadaippugal.info/sorpozhivugal/aey_thazhntha_2.htm) | [OCR Markdown](https://github.com/pugazg/anna-corpus/blob/main/outputs/annavin_text_extractor/ocr_text_corrected/sorpozhivugal/aey_thazhntha.md)
-- `sorpozhivugal/annal_nabi.md`: [website 1](http://www.annavinpadaippugal.info/sorpozhivugal/annal_nabi_1.htm), [website 2](http://www.annavinpadaippugal.info/sorpozhivugal/annal_nabi_2.htm) | [OCR Markdown](https://github.com/pugazg/anna-corpus/blob/main/outputs/annavin_text_extractor/ocr_text_corrected/sorpozhivugal/annal_nabi.md)
 - `sorpozhivugal/annamalai_perurai.md`: [website 1](http://www.annavinpadaippugal.info/sorpozhivugal/annamalai_perurai_1.html), [website 2](http://www.annavinpadaippugal.info/sorpozhivugal/annamalai_perurai_2.html), [website 3](http://www.annavinpadaippugal.info/sorpozhivugal/annamalai_perurai_3.html), [website 4](http://www.annavinpadaippugal.info/sorpozhivugal/annamalai_perurai_4.html), [website 5](http://www.annavinpadaippugal.info/sorpozhivugal/annamalai_perurai_5.html) | [OCR Markdown](https://github.com/pugazg/anna-corpus/blob/main/outputs/annavin_text_extractor/ocr_text_corrected/sorpozhivugal/annamalai_perurai.md)
 - `sorpozhivugal/chitoor_thimuka.md`: [website 1](http://www.annavinpadaippugal.info/sorpozhivugal/chitoor_thimuka_1.htm), [website 2](http://www.annavinpadaippugal.info/sorpozhivugal/chitoor_thimuka_2.htm) | [OCR Markdown](https://github.com/pugazg/anna-corpus/blob/main/outputs/annavin_text_extractor/ocr_text_corrected/sorpozhivugal/chitoor_thimuka.md)
 - `sorpozhivugal/desiya131159.md`: [website 1](http://www.annavinpadaippugal.info/sorpozhivugal/desiya131159.htm) | [OCR Markdown](https://github.com/pugazg/anna-corpus/blob/main/outputs/annavin_text_extractor/ocr_text_corrected/sorpozhivugal/desiya131159.md)
