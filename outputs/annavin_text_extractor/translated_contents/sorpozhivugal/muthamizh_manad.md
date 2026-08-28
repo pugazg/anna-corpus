@@ -1,4 +1,10 @@
-# sorpozhivugal/muthamizh_manad
+# முத்தமிழ் மாநாடு / The Muthamizh Conference
+
+**Tamil title:** முத்தமிழ் மாநாடு  
+**English title:** The Muthamizh Conference  
+**Source file:** `sorpozhivugal/muthamizh_manad.md`
+
+## Source Tamil (verbatim)
 
 - Combined OCR parts: 2
 - OCR correction stage: `apply_ocr_corrections.py`
@@ -1054,3 +1060,167 @@
 அவர்கள் தலைமையில் அறிஞர் அண்ணா ஆற்றிய
 
 சொற்பொழிவு)
+
+## English Translation
+
+The speeches delivered by the conference opener, scholar S. S. Bharathi, M.A., B.L.; the chair, revolutionary poet Bharathidasan; and scholar Anna, M.A., at the Muthamizh Development Conference held in Coimbatore on 27 and 28 May 1950.
+
+## Opening Address by S. S. Bharathi
+
+When I was affectionately invited to the Muthamizh Development Conference in Coimbatore, I asked why they were inviting me instead of a younger man with even more youthful feeling than I possessed. I wished to seek *Ozhivil Odukkam* and remain in peace. They would not let me go, however, and insisted that I must come; therefore I agreed to open the conference.
+
+The Sangam works provide sound evidence that Tamils once lived without being enslaved to anyone. Vallabhbhai Patel, the Deputy Prime Minister, recently said in South India that everyone must learn Hindi. Tamils cannot accept this. Can we stand by while our self-respect is crushed? Does Patel imagine that all of us are Kambans? The customs of the ancient Tamils were founded upon reason and subjected to inquiry. Not everyone here was originally a Saiva Siddhantin or a Vaishnavite.
+
+The principal cause of the early conflict between Aryans and Tamils was that, instead of honouring Tamil's antiquity and excellence, they proclaimed Sanskrit a divine language and brought it into Tamil Nadu. Tamils resisted it fiercely even then.
+
+I never agree with something merely because some eminent person says it. I accept what my conscience and reason tell me. In one respect, even the British treated us as equals. Only now are people told to starve one day a week and half a day on another. Most people do not like the course followed by our government.
+
+The government now says that everything must be studied in Hindi. It is meaningless to say, “Study Hindi,” merely because the whole country must be united. If the whole country had to remain one, why was Pakistan separated? A Tamil who wishes to live in Malaya will willingly learn the language of Malaya. Likewise, a Tamil who must go north for work will learn Hindi of his own accord. There is no sense in ordering every Tamil to study it. People will learn whatever language their occupation requires.
+
+I served the Congress for forty years, yet I had to leave it because it took a new course and obstinately imposed certain measures. Gandhi repeatedly said that rationing should be withdrawn because people could not be expected to behave honestly under it. Did the rulers listen? No. Did they listen when he said Hindi must not be compulsory? No. They do not properly heed Gandhi. They carry him aloft only when it suits them.
+
+That was the chief reason I left the Congress. The principles that drew me into it began to change little by little. While I was in the Congress I was close to Gandhi; I myself accompanied him from Madras to Thoothukudi. Gandhi compelled everyone to wear khadi. I told him that compulsion in any matter was wrong. That was when a difference arose between us.
+
+For a very long time we have possessed a distinction unknown among other peoples: Fashion. It is a fascination that will not leave us. Bharathi spoke forcefully and precisely about this lingering fascination:
+
+> When will this thirst for freedom be quenched?
+> When will our fascination with slavery die?
+
+Our people are deeply fascinated by servitude. You may ask what this has to do with language. The qualities in people's minds are reflected in their language. At present a sense of servitude has entered the Tamil mind. Language safeguards a nation's culture. The northerners intend to enslave everyone here. Ancient Tamils were not enslaved because they possessed courage and manliness. They gave women the beautiful name *nallar*, “the good,” and honoured them as such.
+
+You cannot find in Russian, English, French, Hindi, or any other language the threefold division found in Tamil. Muthamizh contains everything and is ancient. Tamils cherished not only *iyal Tamil*, literary Tamil, but also musical Tamil and dramatic Tamil. Many true ideas can be found in the great Tolkappiyar's work, which embraces literature, music, and drama.
+
+Tamils must read the *Tolkappiyam* through Tolkappiyar's eyes. Today they read it through Nachinarkkiniyar's eyes. To say that the god of knowledge has six faces and thirty-two hands is false; Nachinarkkiniyar's commentary is similarly false. Some scholars call the *Tolkappiyam* merely a work of literary Tamil without examining it well. It is a work of Muthamizh. Sanskrit was introduced in those days precisely to make us forget Tamil.
+
+*Porunar* means an actor. *Porunar* and *porunar* with a different consonantal value are not the same word. We forgot true education nearly two thousand years ago. How can all that we have studied be called education? I was married at fourteen and struggled to conduct the marriage without an Iyer. My parents would not readily agree. They then proposed using our own guru. Sanskrit at least belongs to Brahmins, who may pronounce it properly; our guru would recite it only imperfectly. I cried out that I did not want incomprehensible northern-language mantras. My youthful spirit and my feeling for Tamil made me ask why I needed that meaningless affliction. I wish every young person assembled here to possess that feeling for Tamil.
+
+There is a verse:
+
+> Praise to Siva, Lord of the southern land;
+> Praise to the Lord of every land.
+
+Some, unwilling to leave it so, rewrote it to praise the southern Siva as one who lives in the north. Today many constantly say “Dravidian.” Why does your mouth hesitate to say “Tamil” and “Tamil people”? Can one who is ashamed to say those words be a Tamil? How could Tamil blood flow in him? At least hereafter, say Tamil and Tamil people. Tamils themselves are the enemies of Tamils.
+
+Rajagopalachari, then Governor-General, stood the world on its head to make Hindi compulsory. It was removed after a great struggle. I resigned my post at Annamalai University and joined you in opposing it. Who brought back that discarded affliction? Avinashilingam Chettiar, a Tamil minister, made Hindi compulsory. This trouble arose because we made a person who had not learned Tamil a minister. Only one who knows Tamil should be a minister in Tamil Nadu.
+
+When asked why they bring Hindi now, the rulers say they intend to unite all India. God alone must listen to such an answer. When ministers who do not know Tamil tour the country and we garland and honour them, why would they not climb upon our heads? It is our fault that we made those unfit for office into ministers. The University of Madras claims to foster Tamil, yet does not give worthy Tamil scholars proper respect.
+
+Tamils lost their reason only after Puranic works that impair knowledge entered Tamil literature in abundance. We can escape bondage only if reason is not driven away from among us.
+
+Tamil will not grow merely because we hold conferences. If you truly want to develop our mother tongue, use Tamil properly every day in your writing and speech. Let your affection rest upon Tamil. Education is the cultivation of reason; without reason there is no education. Ancient Tamils cultivated reason. Tamils must read Tamil works that develop it. We need Tamil joined with reason, and everyone must make sound plans to foster it in daily life.
+
+> Though an unlearned man's native understanding may be very good,
+> the learned will not accept it as knowledge. — *Tirukkural* 404
+
+Had I then been a man of wisdom, I would never have thought of obtaining this M.A., B.L. degree. Every man and woman born in the Tamil community must learn the Sangam works without doubt.
+
+Siva is our god. *Sivam* means rectitude and completeness; *Sivaneri* is an old Tamil expression. Decide for yourselves what is Tamil in the title “Ubhaya Vedanta Saiva Siddhanta Maha Samajam.” *Ilatchiyam* means an aim. Grammar is grammar and a song is a song, but *seyyul* does not simply mean song: it means literature. *Seyyul* is the general Tamil term for literature; *ilakkiyam* is not Tamil but a northern word. I say nothing contrary to my reason. I say only what appears right to it. Siva gave me that reason. If you wish to correct me, correct me with rational argument.
+
+It is entirely false to say Agastya developed Tamil. Agastya gained distinction by studying Tamil. Even Kamban said of him:
+
+> He won renown by speaking the eternally existing southern Tamil.
+
+Agastya was not a god but a human being like us; the Puranas spun fables around him. Not everything old is bad, but reason must grow first if Tamil is to grow. Love genuine Tamil. All Tamils are one people and there was no caste in the Tamil community. The very name of caste is not Tamil; not one such word occurs in the *Tirukkural*. The affliction of caste arrived in the intervening age. A Tamil named Arumuga Navalar himself wrote that all of us were base Sudras because he was wholly subservient to the Aryans. What shame and disgrace this is!
+
+The government may imprison me for attacking it and speaking the truth. I am not afraid. In this country, “freedom” seems to mean slavery. How can a feeling for freedom arise while one remains enslaved? This conference has begun with a good purpose. I take leave of you with the wish that Tamil joined with reason shall live.
+
+## Presidential Address by Revolutionary Poet Bharathidasan
+
+Dear women comrades and comrades,
+
+When a chairman appears on the platform at a meeting such as this, custom requires him to say many things. He must pretend to regret being chosen when many more learned people are present, and immediately afterward display his pleasure by thanking the reception committee for choosing him. See how troublesome it is! Please imagine that I have duly said all these things, for there is no time.
+
+Comrade Sampath clarified in his welcome address that this conference is not based on the policies of the Dravida Munnetra Kazhagam, that its foundation is the development of Muthamizh, and that it is not a rival to Avinashi's conference. His words suggest that some people regard it as a rival gathering. Astonishing! Can a conference of this great public, assembled through feeling for its mother tongue, be described as competition for a private arrangement by a few? By its conclusion you will understand that this conference rests on a lofty purpose.
+
+Some may ask why the DMK convened it if its own policy is not the foundation. There are two principal reasons: the progressive party consists of the eminent people of this country, and it is they who care about developing Muthamizh. We exposed that Hindi was being imposed to destroy Tamil, roused the public, and established victory. Avinashi's group learned from us how fiercely the people opposed that imposition. Was not Avinashi's conference arranged to exploit this public attitude and ingratiate itself with the authorities?
+
+Sir R. K. Shanmugam said there that Hindi was introduced to destroy Tamil. Did he not thereby concede that what “one group” had said earlier was right? He hesitated to name that group, as though hesitating to name his mother, because of his position. On Hindi, even Avinashi and the others have spoken almost entirely in accord with us.
+
+I read Avinashi's speech in the newspapers. He spoke in support of Tamil, but omitted something important. As Education Minister he had wanted the *Kamathuppal*, the Book of Love, removed from the three divisions of the *Tirukkural*. Love may have been absent even from the mother's milk he drank, but he should have apologised for that demand at his conference. He did not. People may therefore wonder whether his present united front intends to abolish the *Kamathuppal* tomorrow.
+
+Sir R. K. S. apparently dislikes the very word “Dravidam” because he has not seen it in any Purana. He could at least have asked Tamil scholars, who would have shown it in the *Manusmriti* and the *Bhagavata Purana*. He is unlikely to know C. V. Damodaram Pillai's inquiry into the word in his edition of *Iraiyanar Akapporul*. I have often explained that *Tamil* changed in form into *Dravidam*, and therefore Dravidam is Tamil. It is wrong to reject a transformed Tamil word. Would anyone reject *valaippazham* as non-Tamil merely because it is pronounced *valaippalam*?
+
+Consider also Thayumanavar's poem. The speaker says that before an unlearned man he will insist upon karma, before an advocate of karma he will proclaim old wisdom, before a northern-language expert he will argue from Dravidian, and before a learned Tamil scholar he will quote a little northern language, bewildering everyone without being defeated. Thayumanavar's use assumes that Tamil itself is Dravidian.
+
+Caldwell says the word Dravidam was first used in the seventh century. Sankara called Gnanasambandar a “Dravidian child.” Sir R. K. S.'s circle has no way to know these things and thinks that including someone who does know them would not suit its course. They miscalculate that they can attain their desired position by excluding Tamil's eminent people, namely us. The future will show them that their object may be achieved only by passing through our street.
+
+Opening the conference, Navalar Somasundara Bharathi said that English is not called “threefold English,” France “threefold French,” or Hindi “threefold Hindi,” whereas Tamil is called Muthamizh because it naturally possesses the three divisions of literature, music, and drama. This itself illustrates Tamil's distinction. That is undeniable. Yet some may ask whether other languages lack literature, music, and drama, and point out that today only a few Tamil plays such as Annadurai's can readily be produced.
+
+My answer is that literary, musical, and dramatic Tamil are organically inseparable, like the roots, trunk, and branches of a tree. No other language is arranged so, for Tamil words uniquely contain the richness of embodied expression. Other languages may be ancient, but their culture and civilisation came after Tamil's. Through Tamil's nature the Tamil perceived music and drama in everything, not today or yesterday but before Agastya's time.
+
+Drama does not mean only the modern “drama”; it means dance or enacted movement. Drama is the stage at which such movement embraces a story. Take the single-letter word *vaa*, “come.” On the page it is ordinary speech. Listen to it when someone calls a person far away, when a mother calls her beloved child nearby, when a wife calls a lover lingering on the veranda after the evening meal, or when a warrior with sword and shield challenges another warrior. How many melodic colours, movements, and expressions inhabit that one word! In the warrior's *vaa* there is heroic flavour; the Tamil hears the seed of the Nattai raga, sees the bow-drawing stance, and sees valour in his eyes. Ancient grammarians enlarged and classified all the music and enacted expression arising from every word in every setting and framed grammar for it.
+
+Literary Tamil has its appropriate metre, melody, rhythm, and kind of thought. Musical Tamil has its metre, melody, rhythm, and proper subject; so does dramatic Tamil. Just as letters form words and words form sentences, each understood through the other, so is Muthamizh constituted. Other languages are not. That is why Navalar said the very name Muthamizh demonstrates Tamil's excellence.
+
+He also warned:
+
+> An indignity inflicted on Tamil
+> is an indignity inflicted on Tamils.
+
+We must remember this. Tamil denotes not merely the language but the Tamil people and even the Tamil army. Classical lines such as “the maiden of refined Tamil” use Tamil for the people, while the *Silappathikaram* line “we shall behold the power of southern Tamil” uses it for the Tamil army. An affront to Tamil is therefore an affront to Tamils and their strength.
+
+What is Tamil's condition today? Once protected by Tamil kings, it is now being destroyed by Congress rulers. Under the government's new law a Tamil student may know nothing of his mother tongue and still triumph in examinations through a language hostile to Tamil. Nothing worse could happen. Even when Tamil Nadu's rulers, fearing their voters, wish to loosen Tamil's fetters, the central rulers order both Tamil and the person who harmed it to run away.
+
+I read in *Maalai Mani* that five hundred DMK branches had arisen. The day after Patel demanded compulsory Hindi and our Education Minister demanded Sanskrit, I expect to read that the number has reached six hundred. The rulers' plight is pitiable; one cannot understand why they choose to lose popular support.
+
+Tamil Mother therefore has no other support in this land. She looks toward this conference and says, “Apart from your attachment I have no attachment.” We shall protect our Tamil, remove all that is hostile to Tamil Mother, and restore Muthamizh to its rightful place.
+
+This conference will not dissolve after two days. Its purpose is to unite scholars in a permanent institution. Since Navalar considers *ilakkiyam* and *ilakkanam* non-Tamil words and scholars including Nedunchezhiyan accept the name, let it be called the Muthamizh Great Assembly. It must intervene in every field touched by Muthamizh and align it with Tamil art, morality, and civilisation.
+
+Great literary works spread unsuitable ideas through distorted commentaries and must be corrected. Navalar Bharathi has written a new commentary on the *Tolkappiyam*. Earlier commentators interpreted “the exalted” in a particular aphorism as Brahmins, or as Brahmins, Kshatriyas, and Vaisyas. Navalar, with irrefutable citations, shows that it means all Tamil people except the compulsory menial workers mentioned in the preceding aphorism. He has thus protected Tamil dignity. He has published three volumes on *Akathinaiyiyal*, *Purathinaiyiyal*, and *Meyppattiyal*, and the rest will follow. Do we not need a Muthamizh assembly to commend this commentary and urge everyone to read it?
+
+In music, the influence of colour prevents many masters from receiving due fame. Is such an assembly not essential to remove that barrier? And what is the state of drama? Shall our youth be shown the story of one who killed Vali from concealment? Shall women see a play that calls a woman an ornament of chastity after she threw her seven crying children into a well because her sister-in-law slighted her? Shall people see a traitor praised as an Alvar after placing his brother's life, kingdom, and honour at a stranger's feet? Do we not need an assembly to educate those who weep at the disappearance of tales that glorify such acts?
+
+Some will accuse us of attacking the *Ramayana*, its literature, the *Periya Puranam*, and their beautiful verse merely because we say that what may once have been wanted should now recede. The Muthamizh Great Assembly must expose the pettiness and deception in that charge.
+
+It is said that Kamban composed only three thousand of the nearly twelve thousand verses attributed to the *Kamba Ramayanam*. T. K. C. examined it and printed an edition accordingly. But what became of grammar in his spellings such as “vaalthadangkan” and “kaltharai”? Why do those concerned with Tamil progress not condemn T. K. C., who burned not only the *Kamba Ramayanam* but Tamil grammar as well? Every Tamil work must be researched and textual purity established without delay. The Muthamizh Great Assembly is needed to guide Tamils from a wrong path to a good one. Long may it live.
+
+## Address by Scholar Anna
+
+Beloved chairman and comrades,
+
+Many great Tamil scholars have spoken beautifully at this Muthamizh Development Conference about Tamil and Tamil culture. Five or six resolutions have been adopted, all highly beneficial to our people's future. Last week the rulers, weary ministers, and former ministers assembled here; we have held this conference after theirs. The two are not rivals. Their gathering contained “great men,” but the Tamil Development Association formed no valuable plan for Tamil's development. Here the people's assembly has gathered. We did not undertake the difficult business of staging a rival conference; we know how to make their conference our own.
+
+Whenever we call Tamils together in Tamil's name, they cooperate with us. A healthy awakening has arisen among them and must become heroic feeling. This conference was convened so that Tamil may be protected and many may work for its growth. It was not convened to impede Tamil. We have framed important plans for its development. The foundations of the two conferences differ.
+
+Our chairman, Bharathidasan, the very embodiment of Tamil, gave rare ideas. We honour Navalar Bharathi for coming despite his health and sharing his learning; his participation gives this conference a distinction no other possesses. With Navalar Bharathi, Bharathidasan, Auvai Duraisami Pillai, and Vellaivaranar all participating, can this be called a rival conference?
+
+Former Dewan Sir R. K. S. may be fit to serve as Finance Minister, but he is not qualified to develop Tamil. At the other conference he reportedly said, “Tamil possesses unique greatness, but without knowledge of Sanskrit, Tamil culture cannot become complete.” I rejoice that the former Dewan immerses himself in thought and discovers truths in ancient Tamil songs. But can we accept the Coimbatore magnate's claim that only Sanskrit knowledge completes Tamil culture?
+
+What aesthetic quality is absent from the *Silappathikaram* or *Civaka Cintamani*? The former Dewan himself would concede that none is missing. Why then openly say that Tamil culture becomes complete only through Sanskrit? Said at a Sanskrit conference, this might earn him the title *Mahamahopadhyaya*, but said here it is a grave insult to the Tamil people. Does he know the *Purananuru* or *Tolkappiyam*? How many speakers at that conference knew the *Akam* and *Puram* works? Without Tamil scholarship, what right had he to pronounce on Tamil? Nor does he possess Sanskrit erudition. Are sweetness and distinction absent from Tamil, the *Civaka Cintamani*, the *Purananuru*, or the noble *Silappathikaram*? Has he failed to learn this all these years?
+
+Many distinguished scholars spoke beautifully of Tamil's antiquity, sweetness, and power. We use “Dravidam” for politics and culture. We called this a Muthamizh Conference, not a “Muthiravida” Conference. M. Annal Thango complained this morning that no Tamil flag was raised. That does not mean we dislike it. We carried the Tamil flag before the bodies of Thalamuthu and Natarajan. He also said the word Dravidam struck his ear like molten lead. His words did not strike us so. On a public platform we should not magnify our differences. He could have told me his view privately, but newspapers may now report “A great dispute over the word Dravidam at the Muthamizh Conference” while ignoring important events.
+
+The word Pakistan was not given by the Prophet and does not occur in the Quran. The hero Muhammad Ali Jinnah created it. He did not form a “Muslimstan” or “Jinnahstan”; it was Jinnah who placed Pakistan in the dictionary and on today's map. Just as Pakistan is a word expressing an ideal, Dravidam too is an ideal word.
+
+We look more to the country than to books. It is not our fault if we have not seen everything written there. Our leaders must give us their counsel; let it be a sword that strikes down enemies, not an obstruction. Annal Thango need not doubt Dravidam. The word has a place in history. Our late leader Dr. Natesa Mudaliar ran the Dravidian Association, and a newspaper named *Dravidan* existed.
+
+We say “Tamil warrior” and “Tamil scholar,” not “Dravidian warrior” or “Dravidian scholar.” Tamil and Dravidam may be compared to the juices of mango and sugarcane: different in name and source, yet both inseparably joined in our purpose. Annal Thango need not leave us over this single word.
+
+Bharathidasan arrived intending to establish a Literary Great Assembly. When Professor Bharathi said *ilakkiyam* was a northern word, the poet changed the name to Muthamizh Great Assembly. Navalar's research was strong enough to establish the derivation and even Bharathidasan accepted it; had anyone else said so, our poet would have given his customary great laugh.
+
+We invited Bharathi to show a good path for Muthamizh, not because he might enter politics or accept our party's policies. We invited Auvai Duraisami Pillai to speak about Tamil despite the obvious differences between us. Many scholars who differ from our party spoke today. Our purpose in inviting them is Tamil's growth.
+
+When Karunanidhi spoke in the debate over whether *ilakkiyam* was a Tamil or northern word, he exploded a great Hydrogen bomb. Auvai Duraisami Pillai exclaimed with delight, “This is how young people should be!” When Bharathi expressed his views on Aryanism, the Aryans thought he endangered it. On seeing Bharathidasan they thought an even greater danger had come; after hearing Karunanidhi, they will think the danger greater still.
+
+Many ideas offered by the scholars here can greatly benefit the country. A Muthamizh Great Assembly has been inaugurated so that Tamil life may flourish and Tamil may grow. This conference has undertaken the work assigned by the earlier gathering.
+
+Many people do not even know that the Sangam works exist. Walk through Coimbatore with a notebook and ask whether people know the *Pattuppattu*, *Ettuthokai*, *Kalithokai*, *Kalingathupparani*, *Akananuru*, and *Purananuru*. Not even five in a hundred will answer properly. Ask instead whether they know the *Mahabharata*, *Bhagavata*, and *Ramayana*, and ninety-nine will say yes. That is still the condition of this land. I again ask our leaders to study Tamil works thoroughly and give us sound intellectual and moral guidance. With it we shall make Tamil Nadu flourish.
+
+Many speakers today referred to Hindi. To lead our ranks in the coming anti-Hindi struggle, we intend this time to invite Navalar Bharathi. He said he would gladly accept if the government invited him to prison. We know that if he enters a prison, he will turn it into a house of righteousness. He is qualified to overthrow Hindi imperialism. We ask him to devise the plans required for the struggle. The DMK is ready to provide however many volunteers the righteous campaign needs, and I am certain all Tamils will support us.
+
+An executive committee will soon be formed to begin the anti-Hindi struggle. We shall shatter the government's obstructions and stop the disease at its root. Many self-respecting heroes of the Tamil people are ready to join the campaign.
+
+The desire to foster Muthamizh has arisen among our people, and our young heroes possess a fine spirit. That flood of feeling will be directed along good paths without being allowed to break away. Do all you can to develop Muthamizh.
+
+How many are ready to go to prison when the anti-Hindi struggle begins? Thousands of hands were raised in the gathering, including those of men, women, and children. So many hands: joy and thanks!
+
+Dear government spy! Thousands of hands have been raised here in your presence. Note that too and inform our rulers today itself.
+
+The Muthamizh Great Assembly established at this conference will find a life for the Tamil. Unite, join the Dravida Munnetra Kazhagam, and do everything necessary for Muthamizh to grow. With that request I conclude.
+
+(Speech delivered by scholar Anna under the chairmanship of revolutionary poet Bharathidasan at the Muthamizh Development Conference held in Coimbatore on 27 May 1950.)
+
+## Translator's Notes
+
+“Muthamizh” is retained as a cultural term for Tamil's three traditionally interdependent forms: *iyal* (literature), *isai* (music), and *nadagam* (drama or enacted performance). Period titles, names, political terminology, and the speakers' polemical language have been preserved rather than modernised. The classical verses are translated for sense; their historical Tamil remains in the verbatim source block.

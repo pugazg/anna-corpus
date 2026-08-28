@@ -11,14 +11,14 @@ Complete all 962 canonical OCR-origin works as bilingual Markdown documents:
 | katturaigal | 552 | 539 | 13 |
 | nadagangal | 61 | 35 | 26 |
 | sirukathaigal | 108 | 108 | 0 |
-| sorpozhivugal | 241 | 188 | 53 |
-| **Total** | **962** | **870** | **92** |
+| sorpozhivugal | 241 | 189 | 52 |
+| **Total** | **962** | **871** | **91** |
 
 The authoritative live pending list is:
 
 `translated_contents/_translation_state/ocr_pending_links.md`
 
-Its current split is 50 works needing OCR/source recovery and 42 works whose
+Its current split is 50 works needing OCR/source recovery and 41 works whose
 OCR source is available but whose bilingual translation is pending. Always
 regenerate the report after completing one work; do not rely on the numbers in
 this handover after work resumes.
@@ -34,28 +34,28 @@ this handover after work resumes.
 
 ## Most Recently Completed Work
 
-`nadagangal/jananayaga_1.md` is complete.
+`sorpozhivugal/muthamizh_manad.md` is complete.
 
-- All 11 scans were visually reconciled.
-- Six pages that previously contained no OCR text were recovered by converting
-  the grayscale PNG scans to JPEG and rerunning `tam+eng` OCR before visual
-  verification.
-- The duplicated raw-OCR fragment on Image 9 was removed, Images 10-11 were
-  restored, and the complete 1960 ending was retained.
-- The bilingual translation preserves the courtroom labels, narrator's direct
-  address, and the independent-thought / contagious-disease satire.
+- All 23 scans across two parts were visually reconciled.
+- Scan-proven Tamil substitutions and corrupted embedded English, including
+  `Fashion`, `Actor`, `Literature`, `Hydrogen`, qualifications and the closing
+  date, were repaired in the canonical source.
+- The combined work contains three complete speeches by S. S. Bharathi,
+  Bharathidasan and Anna; all three were translated in one bilingual document.
+- The bilingual translation preserves classical quotations, speaker
+  transitions, resolutions, period political language and Anna's closing call
+  for the anti-Hindi campaign.
 - The bilingual source-retention audit passes.
-- Its temporary recovery hold has been removed.
-- The live pending report has been refreshed from 93 to 92 works.
+- The live pending report has been refreshed from 92 to 91 works.
 
 ## Next Work
 
 Select the next work from the live report. There is no partially edited source
-after `nadagangal/jananayaga_1.md`. Prefer one of the 42 items under
+after `sorpozhivugal/muthamizh_manad.md`. Prefer one of the 41 items under
 `OCR translation pending` unless deliberately beginning a complete visual
-recovery. The first translation-ready item is now
-`sorpozhivugal/muthamizh_manad.md` when prioritizing the shortest remaining
-candidate. The preceding items were inspected and moved to source recovery.
+recovery. Select the next shortest practical candidate from that live section;
+the report is authoritative and excludes the completed Muthamizh work. The
+preceding items were inspected and moved to source recovery.
 `katturaigal/aariyamaayai.htm.md` is the 69-scan Parts 2-7 continuation of the
 already translated opening and
 contains unreadable mixed-script English citations, especially at Part 5 Image
@@ -65,7 +65,7 @@ parts and 122 scans. `sorpozhivugal/aalunar090259.md` requires bilingual re-OCR
 of all 20 pages, particularly the destroyed English quotations on Images 8-9.
 
 `report_ocr_pending_links.py` recognises `No OCR text detected` markers. The
-current accurate split is 50 recovery / 42 translation, 92 total.
+current accurate split is 50 recovery / 41 translation, 91 total.
 
 The other explicit recovery hold encountered immediately before this work is
 `sorpozhivugal/sattamandram_first.md`; its embedded English was badly damaged by
@@ -208,9 +208,9 @@ organized_contents/_merge_state/source_map.csv as the canonical inventory and
 translated_contents/_translation_state/ocr_pending_links.md as the live pending
 list. Do not mix HTML-origin queue counts into OCR-origin progress.
 
-The most recently completed work is nadagangal/jananayaga_1.md; all 11 scans
-were reconciled and its six formerly blank OCR pages were recovered and
-translated. Select the next work from the live pending report, preferably from
+The most recently completed work is sorpozhivugal/muthamizh_manad.md; all 23
+scans across its two parts were reconciled and all three conference speeches
+were translated. Select the next work from the live pending report, preferably from
 the OCR translation-pending section. Record scan-proven OCR corrections in
 ocr_concerns.csv and do not translate missing or damaged source text by
 guessing.

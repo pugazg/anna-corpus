@@ -246,7 +246,7 @@ Total source works: 537
 - [sorpozhivugal/mozhiyai](mozhiyai.md) - translated
 - [sorpozhivugal/muthal_manila](muthal_manila.md) - translated
 - [முதல்வர் அண்ணா உரை](muthalvar_urai.md) - pending
-- [sorpozhivugal/muthamizh_manad](muthamizh_manad.md) - pending
+- [sorpozhivugal/muthamizh_manad](muthamizh_manad.md) - translated
 - [நாடக மேடை நடிகர்கள் அல்ல அமைச்சர்கள்](naadaga_maedai_nadigarhalalla.md) - pending
 - [நாடு இன்னும் நாகரிக நிலைக்கு வரவில்லை](naadu_innum.md) - pending
 - [sorpozhivugal/naadu_nagram](naadu_nagram.md) - translated
