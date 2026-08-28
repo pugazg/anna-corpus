@@ -330,7 +330,7 @@ Total source works: 537
 - [பொறுப்புள்ள எதிர்க்கட்சியாக தி.மு.க. பணியாற்றும்](porupulla_ethirkatchiyaga.md) - pending
 - [sorpozhivugal/pothu_maanadu](pothu_maanadu.md) - translated
 - [பொதுச் செயலாளர் – செய்தி!](pothucheyalalar_seithi.md) - pending
-- [sorpozhivugal/pothuvaelai_niru](pothuvaelai_niru.md) - pending
+- [sorpozhivugal/pothuvaelai_niru](pothuvaelai_niru.md) - translated
 - [பொய்யுரை பரப்புபோர் பற்றி அண்ணா விளக்க அறிக்கை](poyyurai.md) - pending
 - [புனிதமான பொங்கல் நாள்](punithamana_pongal.md) - pending
 - [sorpozhivugal/puthiya_unarchi](puthiya_unarchi.md) - translated
