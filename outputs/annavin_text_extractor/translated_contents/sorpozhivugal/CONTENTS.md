@@ -358,7 +358,7 @@ Total source works: 537
 - [sorpozhivugal/samuthaya170358](samuthaya170358.md) - translated
 - [sorpozhivugal/sangaralinga](sangaralinga.md) - translated
 - [sorpozhivugal/sangeetha_sangam](sangeetha_sangam.md) - translated
-- [sorpozhivugal/satta_04_07_1957](satta_04_07_1957.md) - pending
+- [sorpozhivugal/satta_04_07_1957](satta_04_07_1957.md) - translated
 - [sorpozhivugal/satta_10_12_1959](satta_10_12_1959.md) - pending
 - [sorpozhivugal/satta_11_03_1958](satta_11_03_1958.md) - translated
 - [sorpozhivugal/satta_16_03_1960](satta_16_03_1960.md) - pending

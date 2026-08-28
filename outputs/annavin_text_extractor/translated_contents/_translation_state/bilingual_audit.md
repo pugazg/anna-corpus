@@ -14,8 +14,8 @@
 | paettigal | 26 | 26 | 26 | 0 |
 | root | 5 | 5 | 5 | 0 |
 | sirukathaigal | 109 | 108 | 108 | 1 |
-| sorpozhivugal | 537 | 191 | 191 | 346 |
-| **All included sections** | **2511** | **991** | **991** | **1520** |
+| sorpozhivugal | 537 | 192 | 192 | 345 |
+| **All included sections** | **2511** | **992** | **992** | **1519** |
 
 ## OCR-Origin Translation Progress
 
@@ -24,8 +24,8 @@
 | katturaigal | 552 | 539 | 539 | 13 |
 | nadagangal | 61 | 35 | 35 | 26 |
 | sirukathaigal | 108 | 108 | 108 | 0 |
-| sorpozhivugal | 241 | 191 | 191 | 50 |
-| **All OCR-origin sections** | **962** | **873** | **873** | **89** |
+| sorpozhivugal | 241 | 192 | 192 | 49 |
+| **All OCR-origin sections** | **962** | **874** | **874** | **88** |
 
 ## OCR Source Recovery Status
 
@@ -93,6 +93,7 @@ A blank image section has an explicit no-text marker or no OCR body after its im
 - `sorpozhivugal/200868.md`: The 16-page supplementary-grants debate contains unrecovered English rule citations and policy quotations plus malformed amounts and speaker exchanges, especially on Images 1, 3 and 14-16. Re-OCR every scan with Tamil and English models and reconcile the common-good-fund, labour-policy and industrial-investment passages before translation.
 - `sorpozhivugal/210367.md`: This 23-scan canonical work deliberately combines three Legislative Assembly speeches dated 21 March 1967: Speech 3 on reading press extracts, Speech 4 on the 1966-67 final supplementary estimates, and Speech 5 on the 1967-68 interim budget. It is not translation-safe because dates and figures are corrupted, Tamil clauses are repeatedly dropped, and both clearly printed English land-revenue quotations on Part 3 Image 17 are reduced to mixed-script noise, with further damage at the closing. Re-OCR all three parts with Tamil and English models, visually reconcile every title, amount, quotation, speaker turn and page join, and retain all three speeches in the canonical combined work.
 - `sorpozhivugal/230367.md`: This 25-scan canonical work deliberately combines three Legislative Assembly speeches dated 23 March 1967: Speech 6 on the land-revenue grant, Speech 7 on the education grant, and Speech 8 on the agriculture grant. It is not translation-safe: Part 1 Image 3 reduces the printed English Special Officer quotation to mixed-script noise; Parts 1 Images 7-8 lose extensive Tamil; Part 2 Image 1 omits Speech 7's complete number, date and title header and damages its opening; and Part 3 corrupts both its title page and closing. Re-OCR all three parts with Tamil and English models, visually reconcile every title, quotation, percentage, amount, speaker turn and page join, and retain all three speeches in the canonical combined work.
+- `sorpozhivugal/230868.md`: The complete 40-scan, two-part 23 August 1968 no-confidence debate is not translation-safe. Direct comparison confirms pervasive dropped and substituted Tamil despite readable scans: the eleven-charge opening is damaged, speaker exchanges and industrial figures are corrupted throughout Part 1, and Parts 2 Images 17-20 lose whole clauses, names and exchanges in the Nehru black-flag discussion and final reply. Re-OCR all 40 scans, visually reconcile every numbered charge, name, amount, quotation, speaker turn and part join, and retain the complete debate as one canonical bilingual work.
 - `sorpozhivugal/250367.md`: The 16-page source is internally inconsistent: its heading identifies a 1967 Legislative Assembly disqualifications bill, but the body is a food-procurement and price-control debate. Images 2-3 lose substantial clauses and Image 16 resumes mid-sentence. Verify the correct title/page mapping and re-OCR all scans before translation.
 - `sorpozhivugal/260368.md`: Recover short damaged line clusters at the beginnings of Images 3, 5 and 6, including the office held by Minister Govindasamy
 - `sorpozhivugal/270368.md`: Short line clusters at the beginnings of Images 3 and 5 are damaged; verify the oil-lamp wording and the English loan phrase rendered as breathing space
