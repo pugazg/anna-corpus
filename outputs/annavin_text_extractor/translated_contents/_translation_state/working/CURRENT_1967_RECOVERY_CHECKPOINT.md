@@ -18,6 +18,7 @@
 - Part 1 Image 10: `SCHL சேர்வை விழா` is restored directly from the scan as `கருட சேவை விழா`.
 - Part 1 Images 11, 12 and 15: full page bodies visually reconciled. Website Images 13-14 are unrelated Rajya Sabha material; Image 15 directly resumes Image 12's interrupted finance-minister exchange. They are documented in `working/1967_quarantined_scans.md` and excluded from the recovery candidate.
 - Part 1 Image 15: `Sappers and Miners` is correctly recovered.
+- Part 2 Images 1-5: full page bodies and joins visually reconciled. Meaning-changing repairs include `ஆசை`, `எதிரியினுடைய`, `ஆண்டுகளில்`, `ஒருநாளைக்கு`, `கேட்டீர்களா`, `பூசாரிக்குத்தான்`, `கைதூக்கிவிடாத`, `ஒட்டிக்கொண்டிருக்கிறார்கள்`, and `400 கோடி`.
 - Part 2 Image 8: `பிரேோரேபணையை` is restored directly from the scan as `பிரேரேபணையை`.
 - Part 2 Image 12: the damaged line reads `புதிதாக எந்தச் சட்டமும் வரவில்லை.`
 - Part 2 Image 14: the name is `வ. உ. சிதம்பரனார்`.
