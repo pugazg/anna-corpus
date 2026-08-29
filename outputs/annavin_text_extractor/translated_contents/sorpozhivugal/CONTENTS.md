@@ -74,7 +74,7 @@ Total source works: 537
 - [அதிகாரம் அவர்களிடம் அறைகூவல் நமக்கு!](adhikarrarm_avargalidam.md) - pending
 - [ஏடாக உள்ளவையெல்லாம் இலக்கியங்களாக மாட்டா!](aedaga_ullathellam.md) - pending
 - [“ஏக இந்தியா“ எத்தனைநாள்?](aega_india.md) - pending
-- [“ஏ, தாழ்ந்த தமிழகமே!”](aey_thazhntha.md) - pending
+- [“ஏ, தாழ்ந்த தமிழகமே!”](aey_thazhntha.md) - translated
 - [ஏழை மக்களின் வாக்கு! முதலாளிகள் நட்புறவுக்கா?](aezhai_makkalin_vaaku.md) - pending
 - [sorpozhivugal/aezhaikku](aezhaikku.md) - translated
 - [ஏழைகளின் இலட்சியம் அழியாது](aezhayin_latchiyam_azhiyathu.md) - pending

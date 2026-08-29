@@ -1,4 +1,10 @@
-# “ஏ, தாழ்ந்த தமிழகமே!”
+# “ஏ, தாழ்ந்த தமிழகமே!” / O Fallen Tamil Land!
+
+**Tamil title:** “ஏ, தாழ்ந்த தமிழகமே!”  
+**English title:** O Fallen Tamil Land!  
+**Source file:** `sorpozhivugal/aey_thazhntha.md`
+
+## Source Tamil (verbatim)
 
 [1945ஆம் ஆண்டில் அண்ணாமலைப் பல்கலைக் கழகப் பட்டமளிப்பு விழா அரங்கில் புரட்சிக் கவிஞர் பாரதிதாசன் அவர்களது உருவப் படத்தைத் திறந்து வைத்து அறிஞர் அண்ணா அவர்கள் ஆற்றிய வரலாற்றுச் சிறப்புமிக்க சொற்பொழிவு]
 
@@ -217,3 +223,289 @@
 பாரதிதாசன் பாக்கள், தமிழனின் வீரத்தையும் காதலையும் நினைவூட்டும்; பாரதிதாசன் படம் அதற்கு உறுதுணையாயிருக்கும். பாரதிதாசன் திருவுருவப் படத்தைத் திறந்து வைத்து அவருக்குப் பாராட்டுதல் செய்வதற்கும், செய்வதற்குக் காரணமாயிருந்தவர்களுக்கும், துவக்கியவர்களுக்கும், அந்தத் துவக்கிய மாணவர்களுக்கு உறுதுணையாக நின்று பேராதரவு அளித்த பேராசிரியர்களுக்கும் எனது வணக்கம். அவர்களை நன்றாக, மனமாற வாழ்த்துகிறேன். பாரதிதாசன் முகத்திலே அமைதி தவழாது; அதற்குப் பதிலாகப் புரட்சி வாடை வீசும். கோப ஜ்வாலை வீசும் திரு. வி. க. ஆண்மையில் பெண்மை காணுவதுபோலக் காணமுடியாது அவரது முகத்திலே. மீசை கறுத்து முறுக்கேறியிருக்கும். அவருடைய முகத்திலே யோகத்தின் சின்னங்களைக் காணமுடியாது. தியாகத்தின் தழும்புகளைக் காணலாம். அவர், அண்மையிலே புதுவையில் சிலரால் காலித்தனமாகத் தாக்கப்பட்டார். ஆனால், புதுவையில் பட்ட அந்தத் தியாகத் தழும்புகள் இந்தப் படத்திலே தெரியாது. அந்தத் தியாகமூர்த்தியின் திருவுருவப் படம் தமிழ் நாடு எங்கணும், மாட மாளிகைகளிலே, மாட மாளிகைகள் மட்டுமல்ல; மண் குடிசைகளிலே, மண் குடிசைகளிலே மட்டுமல்ல; மக்களுடைய மனத்திலேயும் பிரகாசிக்க வேண்டும். அவரது ஆவேசம் எல்லோருக்கும் உண்டாகுமாக! அவரது ஒவ்வொரு கவிதையும் இந்நாட்டின் விடுதலைக்காக வெடி குண்டுகளாகுமாக! அவரது ஒவ்வொரு கவிதையும் ஒரு ரூசோவாக மாறுமாக!! அவரது ஒவ்வொரு கவிதையும் ஒரு வால்டேராக மாறுமாக!!!
 
 ஏ தமிழ் நாடே! ஏ தாழ்ந்த தமிழ் நாடே! தேய்ந்த தமிழ் நாடே! தன்னை மறந்த தமிழ் நாடே! தன்மானமற்ற தமிழ் நாடே! நன்றிகெட்ட தமிழ் நாடே! கலையை உணராத தமிழ் நாடே! கடவுளின் லட்சணத்தை அறியாத தமிழ் நாடே! மருளை மார்க்கத்துறை என்றெண்ணிடும் தமிழ் நாடே! ஏ, சோர்வுற்ற தமிழ் நாடே! வீறுகொண்டெழு! உண்மைக் கவிகளைப் போற்று! உயிர்க் கவிகளைப் போற்று! உணர்ச்சிக் கவிகளைப்போற்று! புரட்சிக் கவிகளைப் போற்று!! புத்துலகச் சிற்பிகளைப் போற்று!!! என்று கூறி, உங்கள் அனைவரின் சார்பாகவும், பெருமையுடனும், மகிழ்ச்சியுடனும், புரட்சிக் கவிஞர் பாரதிதாசன் அவர்களது படத்தைத் திறந்து வைக்கிறேன்.
+
+## English Translation
+
+[A historic address delivered by Arignar Anna in 1945 in the convocation hall of Annamalai University, when he unveiled a portrait of the revolutionary poet Bharathidasan]
+
+## The Summit of Revolution
+
+Mr Chairman! Dear comrades!!
+
+I am delighted to join you and speak at this enthusiastic occasion, on which you are honouring a poet, Bharathidasan, and a professor, Professor K. S. Pillai, in so distinguished a manner. This event ought to have taken place a few days ago. I was unable to come because of my many engagements, and I humbly ask your pardon for that. Comrade Dandapani, who introduced me to you, said a great many things. He called me the summit of revolution. Revolution cannot be so short! If anyone here deserves to be called the summit of revolution, it is Dr Chidambaranathan, who is seated here and is a very tall man. I shall therefore stand beside the summit of revolution, on the mountainside as it were, and say a few words.
+
+## Of One Kind
+
+My desire to unveil Bharathidasan's portrait does not arise merely from having seen and read the poems he has given us. The revolutionary poet and I are of one kind and share one ideal for our people. The public, regrettably, may fail to consider the service he renders the country or to show him even a little gratitude. Yet affection for Bharathidasan has surged into the hearts of many students, and I am immensely pleased that they are holding this celebration in his honour. My pleasure, however, is mingled with surprise.
+
+As the chairman pointed out while speaking about the revolutionary poet, some educated people denounce him merely as "the poet of a particular party, one who wastes his imaginative power in the service of a particular doctrine, a communalist, an atheist." Had he not been reviled in this way, every one of his writings would have been engraved in letters of gold. Even if he has become what they say he is, the reason lies not in his nature. Many kinds of political parties move about this unfortunate country, and poets have been confined within the tents of those parties. If Tamils have the generosity to bring them out into the open and let them range freely, we shall raise no objection. It is enough if those who call someone a party poet will love him simply as a poet, without party distinctions; they will then be able to enjoy his work.
+
+## Why Am I Speaking?
+
+It would be fitting for scholars such as Chidambaranathan to discuss the revolutionary poet's pictures of thought. But those who, like me, follow his principles, have been his comrades as friend Dandapani mentioned, and have inscribed his ideas on the page, spoken them throughout the country and demonstrated them in action may speak by right. By that right, I too am qualified to unveil the poet's portrait. In doing so, I have not come to discuss the poet's subtleties, artistic grace or epic flavour, nor to offer commentary, exposition, abstract meaning or material interpretation of them.
+
+## An Auspicious Time
+
+Tamil Nadu now welcomes every poet who sings in Tamil and labours for Tamil. Whatever their party, religion or doctrine, if their service benefits Tamil and Tamil Nadu, the Tamil heart rejoices. At once the Tamil stretches out both arms to embrace the poets, praises them and gives them gifts. This is a sign of an auspicious time for the country.
+
+## In Earlier Days
+
+Nothing of this kind happened ten or fifteen years ago. People did not think of poets even in their dreams. Tamil wandered alone, separated from the Tamil people. To give an example, the bond between Tamil teachers and their students in those days was as close as the bond between Murugan and Deivayanai. Tamil pandits occupied a peculiar position. Their drooping turbans, withered eyes and hollow cheeks, the thought of half a dozen children at home, and their meagre pay had reduced them to a pitiful condition. Though they possessed great ability, their position was lowered because they had not learned English. Their salaries were reduced for the offence of teaching Tamils their mother tongue. The contempt and exclusion they suffered were reflected among the students as well.
+
+Students treated Tamil class as something they might attend only if they felt inclined. The Tamil class would continue while, like Murugan leaving Deivayanai to seek Valli, the students left their teacher and went outside. That condition has changed today. Wherever I go, I hear talk of Tamil and the Tamil people. During the past year or two, even those who had sworn that they would speak only in English have begun to say, "Today I shall speak in Tamil, write in Tamil and think in Tamil." Wherever one goes, one can see poems in Tamil, plays in Tamil and music in Tamil. People who, had they been invited yesterday, would have refused in racial pride now seek to declare that they too are Tamils and belong to the Tamil people. May this condition endure without change!
+
+## Yesterday's Slumber, Today's Awakening
+
+What has produced among Tamils this unprecedented awakening, this feeling, this attachment to their mother tongue and their own people? What has brought the Tamil to an awareness of his condition? If you suppose I shall answer that the revolutionary poet Bharathidasan did not exist yesterday but exists today, I am not one to make such a claim. The very name before his own reminds us that the great poet Bharathi lived before him.
+
+Poets and scholars previously occupied a degraded position, and Tamils felt no attachment to Tamil, because the very idea of Tamil Nadu was treated as narrow-mindedness; Tamil was dismissed as unfit for employment; and the language circulated only within a few learned circles. When anyone tried to define the bounds of Tamil Nadu, speak of the Tamil's excellence and culture, or describe the Tamil people's distinctive character, both the uneducated and the educated mistakenly regarded it as an act of destruction against the country. Deceivers arose who knew better but pretended to speak sympathetically for the common people, producing both cheats and dupes. The cheat lives by deceiving; the dupe is the one deceived. Among a people without self-awareness, Tamil and Tamil scholars lay unhonoured and asleep in obscure corners.
+
+Today, however, people awaken those who sleep, wipe away the grief of those in sorrow, seek out poets who wander in distress, clasp them to their breasts, inhale the fragrance of their heads, kiss them and rejoice. "Is he one of my people? Is that Tamil? Is it not sweeter than nectar? Is he a painter? His paintings can rival Ravi Varma's. Is he a musician of Tamil music? Tamil music is in no way inferior to Telugu music! Is he a dancer? His dance will be more enchanting than the dances of the North! Is he an actor? Even an actor from the West will be defeated by him. The Tamil actor makes our own hearts the stage on which he performs. Is he a poet? In the West they would pay a thousand gold pieces for a single line of his verse!"
+
+Thus Tamil Nadu today honours Tamil scholars, sculptors, thinkers, poets and artists. This condition did not exist yesterday; it exists today, and it must continue tomorrow.
+
+## Sangam Literature
+
+There is another reason why poets and others went unhonoured then but are honoured today. A curtain had been drawn across Sangam literature, keeping it from our eyes and minds. Many among you may have read the Sangam works. Some may have understood them, and some may make a show of having understood them. I have not studied Sangam literature, nor do I pretend that I have. I am not going to be ashamed of that. If I have not studied it, the reason is not my ignorance. The Sangam works did not dance before my eyes; our eminent scholars did not bring them forward and set them before me.
+
+## Who Would Approach Them?
+
+Orators and poets built fences on all four sides of Sangam literature and raised an eight-foot wall too high for us to reach. Then, like someone calling, "Kali is dancing inside; come and watch the spectacle," they said, "Look at the *Tolkappiyam*; behold its antiquity." Who would approach it?
+
+Sangam literature must be brought out of the house and allowed to move through the country. Only if the ideas of the *Tolkappiyam* are gathered and issued in small editions, like graceful little dancers, will the *Tolkappiyam* crawl as little children upon every lap and within every mind. Every home will appear as a garden of literature. If today's scholars had truly joined sweetness and simplicity to Sangam literature and fed it to the people, and if they had wished the Sangam poets to be honoured, they should have become cultivators who turned every home into a literary garden. When I reflect that they did not, I am forced to conclude that what they have done for the country all these years was not service but betrayal.
+
+## Kamban or Ilango?
+
+Believing that they are doing good, scholars introduce only a select few poets and bards to the public and declare that those few alone deserve public praise. In doing so, they forget that they conceal the true poets, the living poets, the poets of the Sangam age. To put it more plainly, they have not introduced the Sangam poets to the public to the same extent that they have introduced Kamban. Many ordinary people know Kamban, while comparatively few know Ilango.
+
+If you wish, place a ballot box here in Chidambaram, conduct no propaganda, or let both sides campaign if they must, and ask the people to vote for Kamban or Ilango. Kamban will win the election. But if we place both men before our imagination and ask them to speak, Kamban will look at Ilango and say, "Noble one who breathed life into me! Handsome master who gave me the beauty of poetic ornament!"
+
+## They Drew a Curtain
+
+Why have we failed to know the *Akam* and *Puram* works, the ideas they express, their poetic ornaments and their similes? Because magazines praise one poet alone; because they advertise novelty and overflowing aesthetic delight in a few poems, however deeply those poems may be sunk in antiquity; and because they publish monthly issues, annual numbers and special books about the maiden of Mithila and the prince of Kosala. By repeatedly displaying Kamban and Sekkizhar in many colours, and by establishing the *Kamba Ramayanam* and the *Periya Puranam* through philosophical interpretations and claims of novel ideas, they have kept the people from seeing much of Valluvar.
+
+The people were made to forget the *Akananuru* and *Purananuru*. Even among the learned it became rare to find the *Kalithogai*, which scholars esteem. The *Paripadal* could scarcely be seen at all. Sangam literature faded and failed to win the people's hearts because a curtain had been placed before our eyes, hiding the creators of those works.
+
+By repeatedly introducing only a few figures, one can secure popular support and carry out a particular programme. Why not prevent the people's minds from flowing towards unblemished poets and lead them instead along a deluded path? Deceitful wreckers roam the country thinking it enough merely to ask whether something will belittle their opponents.
+
+## Propaganda
+
+Some people say that however many poets appeared after Kamban, and though many lived before him, all of them may have been mere poets, while Kamban alone was the emperor of poets. However revolutionary a poem may be, however much it may serve as an instrument that captures its age, they will not call its author an emperor of poets. They cannot see the party doctrine in the poet they praise, the Namakkal poet. Yet in the revolutionary poet who can rival him, Bharathidasan, ideas suited to the times appear to them as party doctrines. They immediately introduce him to the public as a party poet who wastes his imagination upon a particular ideology. People deprived of understanding believe them and abandon the poems.
+
+## Not Without a Reason
+
+There is a reason why they do not present the revolutionary poet to the people as a sculptor of a new world, and why they do not encourage the people to behold his new ideas. If the people saw the revolutionary poet's true form, the poets whom these men have hoisted aloft would fall with a thud. Those poets would lose their standing, and the livelihoods of their worshippers would suffer.
+
+If the people begin to know Ilango, and the *Silambu* begins to resound through the country, Kamban and the *Kamba Ramayanam* will not retain the same prestige. If fine cloth comes from Manchester, Glasgow and other places, longcloth will not merely lose its demand; the six- or seven-cubit Salem *veshti* will also lose its value. If Ahmedabad saris become plentiful, how will lovely women continue to favour Bangalore saris?
+
+Do not imagine that I am finding fault with Kamban. You must remedy the faults within yourselves. The notion that fame can be gained and one's learning made to shine only by worshipping a chosen few must disappear.
+
+## *Pandiyan Parisu*
+
+In this respect, Bharathidasan's *Pandiyan Parisu* remedies the deficiency. Its similes and poetic ornaments come from Sangam literature, but it has been composed in a simple style that everyone can understand. Some imagine that the mark of a poem is that it should not be readily understood upon reading, and that the mark of scholarship is that others should be frightened by it.
+
+One needs no grammar to approach and understand Bharathidasan's epic, no prior study of literature, no lexicon and no assistance from professors. Yet some scholars detest and reject it. They ask whether writing in a simple style is an accomplishment and mock it, even though they themselves cannot write that way.
+
+## A Habit Peculiar to Scholars
+
+Some scholars cannot sleep unless they write a refutation of someone else's book or discover some fault in it. Mr Kalyanasundaranar may publish a book entitled *A Commentary on the Thiruvilaiyadal Puranam*. While that book is still being printed, the same press will issue a pamphlet called *Some Questions for Thiru. Vi. Ka.* One man cannot be at peace unless he writes a refutation of another man's book.
+
+The reason is that their capital is meagre. One writer will have used a poetic ornament that another had meant to employ. The second therefore wants to find faults in the first man's writing and ruin his livelihood too. They are not entirely to blame: countless ideas do not well up within them.
+
+I have watched this for the past five or six years. Apart from Bharathi and Sundaram Pillai, do they make art the mirror of its age as people do in the West, or bring art into the marketplace? Is there an awakening in their verse? Does it offer any path by which the country may rise? No. The reason is the backward-looking vision of the scholars.
+
+If I say to a poet, "Comrade, how astonishing that the atom bomb has been discovered! Have you heard of its power of destruction?" he will reply, "What is so remarkable about that? An Englishman or American has to take up that weapon to unleash its destructive force. Our Paramasivan need only open the eye in his forehead. Flames will fly from it and reduce everything before him to ashes." The backward-looking question, "Why do we need this when that already exists?", together with sheer indolence, is the reason.
+
+## Why This, When That Already Exists?
+
+If Western countries had reasoned, "Why do we need this when that already exists?" could they have discovered the atom bomb after the pilotless aircraft? If we had said, "We possess the *Tolkappiyam*; what more do we need?" would the *Akam* works and the *Silappathikaram* have come down to us? Had the *Silappathikaram* been deemed sufficient, would we have obtained the *Kalingathu Parani*? Had the *Kalingathu Parani* sufficed, could *Manonmaniam* have appeared? Had *Manonmaniam* been enough, could we have heard Bharathi's patriotic songs?
+
+Had Bharathi's patriotic songs alone been enough, we could not have encountered Desika Vinayagam Pillai's verses, blended with affection sweeter than a mother's. Had Desika Vinayagam Pillai alone been enough, could we have discovered the Namakkal poet's new philosophy of struggle, "Without sword, without blood"? And had the Namakkal poet alone been enough, we could not have heard Bharathidasan's emotionally charged, revolutionary cry: "Take up the killing sword, so that the deeds of the exceedingly cruel may cease!"
+
+## Creator of an Age
+
+Like the poets of the West, Bharathidasan makes art the mirror of its age. He creates the age itself. He does not merely create the age; he changes it. He does not merely change it or lead us into the changed age; when the opportunity arises, he seizes us and pushes us still further ahead. The breeze grows, the moon waxes and wealth increases. His poems too must grow like them.
+
+## Ten People
+
+But some ten people have vowed that those poems must not grow. Had this been a political platform, I would have named all ten; because this is an intellectual platform, I leave their names unspoken. Each believes that no one but himself can understand Sangam literature, and that even if others understand it, no one but himself deserves the support of the public.
+
+## The Handless Mute
+
+A month ago I read a simile in the *Kurunthogai*, one of the Sangam works, and considered how far imagination in our own time has sunk into degradation. Observe the difference. A thought that today's scholars might explain through an entire *anthathi* or *venba* was expressed by the author of the *Kurunthogai* in a single line. Its image is that of "the handless mute."
+
+A comrade falls in love. Consider the elegance of the simile. He is an uncontrollable bull, yet two eyes bring him under control. Something stirs in his mind, but he cannot tell the beautiful woman before him.
+
+What is this like? It is morning. Butter rests on a rock in the forest, guarded by a mute man who has no hands. The morning sun rises and casts its young rays. The butter melts. The man watches it melt. On seeing it, he might cry, "Alas, the butter is melting!" But he has no voice. He might run forward and gather it before it melts away, but he has no hands. The sun knows nothing of this handless mute's helpless condition; it merely performs its work and belongs to the whole universe. The guard has no hands. Though his mouth is mute, he has eyes with which to witness this cruel sight.
+
+In the same way, the lover has eyes with which to behold the beautiful woman. But whether through a lack of self-respect or of the feeling of freedom, he has no hand, no courage in his hand, with which to take hers. He sees that graceful beauty and longs to speak, but social restraints have sealed his mouth. In one brief line the poet wonderfully explains the suffering of a man unable to touch a woman because of society's restraints: "Like butter melting while guarded by a handless mute."
+
+## It May Be Forgotten, but It Cannot Be Concealed
+
+If I continued speaking of the delights of Sangam literature, I could speak throughout the day. Bharathidasan gives us, in a simple form suited to us, those places where the subtleties of Sangam literature are to be experienced. The service he has rendered the country and us in this field may perhaps be forgotten, but it cannot be concealed.
+
+One need not have learned grammar to savour the literary pleasure Bharathidasan gives. As soon as we read his verses, they mingle with our blood; emotion seeps into our nerves. We taste them and find them delicious. We read and become Bharathidasan. We read and wonder whether we too might sing. We read and declare, "Tamil is as dear as our life." Some scholars may say there is no grammatical structure in it. Let that remain their leisure-time occupation.
+
+Those of us engaged in action believe that even if the pot has a hole, it is enough if the *kozhukattai* is cooked. Does the work serve art? One does not need a lexicon to study it. We ask whether the poem contains not merely simplicity and sweetness but also awakening, whether it can be understood, and whether that understanding can benefit us.
+
+As someone once said elsewhere, we are the majority and they are few. Those who want a poem to be understood as soon as it is read are the greater number; those who prefer poetry in an arduous style are very few. They wander about looking for signs by which to declare Bharathidasan's poems inferior. We are the ones who experience their flavour directly and benefit from them, because of their simple, pleasing style.
+
+Thus far I have spoken of his style. As for the subjects he chooses and the titles he gives them, they are revolutionary and new.
+
+## Two Tongues
+
+There was a time in Tamil Nadu when poets delighted in roads and groves, set verses to rhythm amid sandalwood forests, and sang them in melody. Later, in the medieval age, life was divided into this world and the other world, much as the Great Hall was distinguished from the Little Hall; an illusory life arose alongside human life. Two opposing visions appeared and vanished at once in the minds of medieval poets. Two tongues rolled upon the same lip. When they sang of a hill, thoughts of that other world and that other life arose, and the hill appeared as Murugan's shoulder, specifically the shoulder that caressed Valli. In that instant they did not see the stream curving down the mountainside, the rugged path, the forest visible below when one crossed those obstacles and looked down from the summit, the leopards and tigers roaming there, or the hunt conducted there by hunters and bowmen. Its natural beauty did not appear to them.
+
+## The Murder of Imagination
+
+Consider the difference between the *Valli Thirumanam* performed on today's stages and a natural incident described in Sangam literature, from which one might wonder whether that later tale was imagined. I trust this little picture will clarify both the guileless hearts of the ancient poets and the hearts of medieval poets who rolled upon a Puranic mattress amid a divided life.
+
+A young chieftain goes hunting in the forest. As he searches for the elephant struck by his spear, a lovely maiden appears before him beside a crystal-clear stream. The handsome youth wishes to marry her. This was an age when marriage did not require seeking an *Iyer* to compare compatibility as it does today. The two lovers spoke with their eyes. Though her mouth remained like a moulded doll's, he approached. The slender maiden was afraid. "Do not fear, my dear," he said. A little later a roar was heard. She asked what it was. "The cry of an elephant unable to bear the pain of my spear," he replied. The maiden seemed frightened of elephants. "Oh! An elephant? I am afraid," she said. "If you are afraid, come closer," he replied. She came; he embraced her. The marriage was complete!
+
+In later times they turned this single incident into the story of Valli. They made the warrior into Velan, then an old man who asked for honey and millet flour, and finally a bangle seller. In an age when writings that introduced Vedic orthodoxy, fostered superstition, and offended reason were regarded as wrong, poems arose to suit that age. Works like today's Valli story were composed to suit the medieval age. Yet if poets merely write to suit their time, one who cannot free himself from the prison called time will never become a great poet. Like a court record keeper, he merely compiles the events of an age. He is a farmhand who gathers beautiful grains of paddy and hands them to the landlord. He will not become a great poet, a creator, or a living poet who survives through every age.
+
+## The Prison Called Time
+
+The medieval poets and many who followed surrendered themselves to the prison called time. To escape it, they would have had to scale and leap over the enclosing wall called religion. That is why they conceived poems about the incarnations and divine sports of the Lord, the connection between Kailasa and Tirupati, the gods above all gods, and the indecency committed by the supreme god in Gautama's hermitage, but not about forests, cattle, or mountains. One may protest: "Did they not write songs about the morning sun and evening moon? Look here!" They did, but those songs were bound by the cross-chain called Vedic orthodoxy. Along with poetic delight, they inject poison into the hearts of college students.
+
+That is why our revolutionary poet says: cut through both. Sharpen the blunt sword. Build steps for a tank that has none. Where there is no hill, create an artificial hill if need be. Kill the stunted mind. Do not stoop; walk erect. Let moonlight emerge from the cloud. Do not sing of the other world; sing of this one. Sing of the place where we live. Do not become a slave to your age. Sing without fearing the restraints of grammar. That is why we call him the Revolutionary Poet, the living poet, and the poet of truth.
+
+## Revolutionary Pondicherry
+
+We call him a revolutionary poet, though not the first poet of revolution. The reason he sings of this world with such revolutionary force is the Pondicherry in which he lives. Pondicherry belonged to France, the birthplace of liberty. When we praised emperors, France imprisoned kings. When palaces here were turned into monasteries and fortresses of injustice, the Bastille there was broken. When the words master and slave circulated here, cries of freedom and liberation split the skies there. Because the temper and breeze of France blow through the Pondicherry where he lives, his titles are revolutionary and radiant with ideas of a new world.
+
+## Who Knows?
+
+Many poets themselves know nothing about what they sing. They sing beautifully of the elephant-faced god, but have they seen his trunk? Ask its breadth and length and they do not know. If Urvashi and Rambha are great dancers who live in the divine world, what experience have these poets beyond hearsay? If they sing of ten-headed Ravana, when did they see him? If Siva and Parvati suddenly appear and disappear in the form of riders on the bull, have they ever witnessed it? They write what they have read and repeat what they have heard. One person hears something and writes or tells it; another hears him and writes the same thing. That is merely inheritance, not the experiential writing of what one has seen and is seeing.
+
+## Thought Spoke
+
+Bharathidasan alone writes what he has seen. He writes what he observes. He does not venture into matters he cannot understand or know; he does not write about a god he has never seen, knowing that if not today, it will become an object of ridicule tomorrow. It would be comic for me to speak on Vedanta, or for the Sankaracharya to speak on economics. Poets ought to sing of deer and maidens. If instead they sing of Arumugam, speculate which of his six faces was the one that kissed Valli, or discuss Siva's spear and which part of Mount Meru could sharpen it if it were blunt, it would not merely be comic. We would naturally think some poet was spinning tall tales through cannabis smoke.
+
+Bharathidasan too remained for a while in the lineage of the pundits. Like the learned men, he wrote verses about the peacock and Murugan and lullabies about Valli. His poems were placed in a turmeric-coloured box and worshipped when the Friday lamp was lit. Our poet saw this and reflected: "How long we have been telling falsehoods! How many people we have led into delusion without speaking the truth! We have trapped ourselves by singing of three-eyed Siva. What can we say if a rationalist asks, 'Have you seen Siva?'"
+
+Then thought told him: "Do you need Kailasa to write poetry? Must you have a god? Sing of the spring, the rock, the breeze, the blue sky, beautiful eyes, the full moon, the sharp sword, the warrior's shoulder, and the round lotus. They wait upon the command of your pen." We can see this in his poem beginning, "I took up the page to draw a poem." It is not merely his poem; it is his autobiography.
+
+## What He Did
+
+Should we believe what cannot be believed? Should we compel the people of the country to believe it? There is no deception greater than that. He rejected the other world and came to this one. From God to birth control, from love to widow remarriage, from the song of the woman pounding lime to the sound of the factory conch, he sang and continues to sing what daily life requires, what can be seen and enjoyed, and what we ourselves wished to sing. We see a beautiful woman's tears and think that at least one song ought to be written for her, but we cannot write it. Bharathidasan does our work for us.
+
+We see widows without flowers in their hair. We see the tears that ran down their cheeks and dried there; we hear their sobs. We hear arrogant men ask whether such women need husbands. We then see those same arrogant men, at an age when they ought to die, searching for young maidens from whom to drink the pleasure of desire. We see a girl married to a grandfather rolling alone on the veranda, her tears soaking her pillow. We witness it and wonder whether we can shape our opinion into verse, but cannot. Bharathidasan sings it in poetry and shows us, "Was this not what you wished to sing, brother?" We see it and rejoice. His poems contain nothing about that world or that life.
+
+## The Earless Needle
+
+The delusion produced among people by that "illusion" has gone so far that if you ask a forty-year-old man, "Are you well?" he answers "I am well... no" in a voice descending from a high pitch to a low one. Not only does his tone lose vitality; a sigh mingles with his speech, giving even the listener fear and anxiety. What is wrong with saying, "I am well"? In Western countries, when someone asks in English, "How do you do?" they answer at once, "Okay, I am well." That is why they live, while we merely exist. At ten years of age we become renunciates and sing of the other world and illusion: "This body is a lie, merely a bag filled with air." Many among us genuinely ask, knowingly or unknowingly, "How long can this life last, sir? Everything is illusory; do you take it as permanent?" and put the same thought into writing.
+
+## If He Called?
+
+Consider a Saivite crying before an idol, "Siva, Father, when shall I reach your lotus feet?" Suppose someone resembling Siva appeared and said, "Devotee, do not fear. Rise! My heart swells at your devotion to Siva. From today you may merge inseparably with me. Come!" Would he be ready to go? I ask you. He would say, "Lord, it is enough that you granted me a vision." He would remember that his son is then sitting an examination and must pass his B.L. in the first class. He would think of arranging a good marriage for his only daughter. He would wonder when the nine thousand rupees deposited in the bank last year would become ten thousand. No thought of the Lord would arise. Is there meaning in their devotion? Is there truth in their talk of an illusory life? No. These are cunning devices devised by deceivers to bewilder people and live from their labour. People believe them, follow that path, and lose their way.
+
+## What Extinguished the Revolutionary Temper
+
+Like a man at Villupuram Junction watching for the way to Pondicherry, or one at Tiruchirappalli Junction alert for a train to Madras, people have looked upward from birth and asked, "Father, when shall I leave this place and come to that world?" They have made this world a mere junction. During the Jain period, the doctrine of impermanence began to grow. In one passage of *Manimekalai*, the author speaks through Suthamathi about the body's impermanence. Suthamathi is Manimekalai's friend. Prince Udayakumaran sees Manimekalai in the flower garden, calls her "deer, peacock, emerald," and comes closer. Suthamathi then says:
+
+> Born of deeds and becoming the fruit of deeds;
+> when adornment is removed, flesh exposed;
+> subject to age and death, the seat of burning disease;
+> the ground of attachment, a vessel filled with faults...
+
+> "Know this to be the human body." — *Manimekalai*
+
+"You call her a deer, but what is there? Skin; beneath the skin, fibre; beneath fibre, nerves; beneath nerves, blood and pus. Did you come to drink the nectar of desire from these?" she asks, speaking of bodily impermanence. Just as Suthamathi used that doctrine to restrain the prince's sexual passion, certain deceivers introduced the illusion of another life to restrain the people's mental force. Frauds acted like virtuous men. Fools endured, and still endure, every cruelty without either protesting or digesting it, believing that comfort denied in this world would be found in the next and that injustices here would receive justice there, all as commands imposed by the Lord. Illusory life, fate, and the other world extinguished the revolutionary temper.
+
+## If It Had Been Another Country?
+
+Otherwise, have you heard of or seen so vast a country, with such a broad expanse and so many legendary glories, remaining under foreign rule for 150 years? We read of revolutions occurring every twenty-five years in Western countries: revolutions in art, religion, dress and conduct, economics, and everywhere else. Has there been any revolution here? No. If there is none today, will one arise at least tomorrow? Famine came to Bengal. Several hundred thousand people starved to death, and dogs and jackals dragged their corpses away. Had such a sight and condition occurred in a Western or any other country, revolution would have erupted immediately. It did not in this unfortunate land. Why? Was it fear of British weapons? No. Our poems and epics themselves suppress the revolutionary temper.
+
+## What If They Exist? What If They Die?
+
+That is why our poet Bharathidasan sings of this world. You were born into it to live, and to live means to live in peace, without exploiting others, without believing you can survive only by deceiving them, and in freedom. The great Urdu poet Iqbal said that life must be fearless: fearless before foreigners, ignorance, and social restraints. The Tamil must live that fearless life. Whatever restrictions obstruct it must be smashed to dust. Bharathidasan says in his poem, "By my mother, by Tamil Nadu, and by my pure Tamil I swear, comrades, as I speak." His poems concern this world, this life, and the manner in which we should live. That is what we need.
+
+Why is one man poor? Because of sins committed in a previous birth. Why is another rich? Because of his merit. Why does one work without sleep while another sleeps without care? Each receives the fruit of a former birth. Why must there be a low caste? If a high caste exists, must there not also be a low caste? In whatever form such philosophies and the cowardly heart that says, "We were born and must endure the decree of the Supreme" appear, what does it matter? Whether art or epic, seven-foot verse, *anthathi*, or *agaval*, what if they exist and what if they perish? The future does not need them. Emboldened by the ten people who support them, some may thoughtlessly condemn those who say so as enemies of art who do not understand its condition. But all of them will face the condemnation of future generations.
+
+## Why Do I Say This?
+
+Are not scholars like Meenakshisundaranar and Chidambaranathan available to create brand-new poems and epics? Ask Meenakshisundaranar for a song about Cheran Senguttuvan's valour, and he may reply, "Why? Does valour exist only in Cheran Senguttuvan? Is not the *Kamba Ramayanam* filled with it?" Do not imagine I speak wrongly of him. Rama's valour is not a good example of Tamil valour. We ask them to sing of authentic evidence for it, to write new poetry about things visible to our physical eyes, poetry that tears into the very flesh of ordinary people, poetry overflowing with a mother's nature. Sing of the hardship our young women suffer on tea plantations. Sing of the path that can sever this chain of slavery: the worker enslaved to the cruel capitalist; the capitalist to the priest; the priest to the text; the text to art; art to its connoisseurs; and the connoisseurs to antiquity.
+
+## A Little Bharathidasan
+
+I saw a poem written in *Thiyagi* by the Namakkal poet's son. A little Bharathidasan is growing in the Namakkal poet's home. The school bell rings and the boy walks home. Beside the road, a used leaf-plate of food is thrown down. Several dogs leap upon it, and his eyes too dart toward them, though he is not surprised. The next moment an emaciated human figure appears and leaps upon the scraps. Lacking even the strength to kick a dog, the man pushes it away by hand and eats the dog's leftovers. The dog does not leave quietly; it bites him once before going. The sight gives the younger poet not only surprise but anguish. Addressing a country where he must still witness such a scene, he cries, "O land of Bharath!" The poem ends. Unlike everyone else, he does not end with "O Lord, beloved of Sivakami." He ends with "My country." We say that poetry must emerge in this manner today.
+
+## The Signet Ring
+
+Bharathidasan's verses are of that kind, which is why students celebrate them. Some may dislike him because he sharply condemns caste and religion. They ask: "Bharathidasan condemns *varnashrama*. May he condemn it? May he attack *sanatana*? May he foster communalism?" If he fosters communal consciousness, it is only so that it may leave this country. He uses poems as sling-stones. Those stones strike *varnashrama*. Whoever owns that fortress or bastion, let them strike and demolish it, he says. He looks for the owners of that fort and attacks them.
+
+A Kannaiya Company play is performed. Because the lead actor has lost his voice, the audience does not enjoy his melody and shouts, "Go inside! Go inside!" He leaves. When the audience goes home, what do they say? "Kannaiya Company is poor." A Rajamanickam Pillai play, whether through the actors' skill or the glittering electric lights, captures the audience's heart. When they leave, they say, "Rajamanickam Company is good."
+
+Just as the hoarse actor belongs to his company and brings blame upon it, those who own the cruelties of *varnashrama* and caste incur blame. When we looked for the inscription and signet ring stamped upon caste oppression, we found the seal of one community. That is why our poet and we attack Aryanism, and we do so with reason.
+
+Brahmins are my lifelong friends, provided they remove their own defect. If they did, I could have no friends in this world more satisfying than Brahmin comrades. It requires some selflessness, modern thought, courage, and a fearless heart. If Vedic traditionalists are condemned in Pondicherry, they should go without fear and ask why. In this country where Bharathi sang, "The crow and sparrow are of our clan," if people still fear saying, "Sudras and human beings are of our clan," what does it matter upon which fortress our bomb falls? The poisonous gases, toxic odours, and paralysing doctrines issuing from it must disappear.
+
+Let Brahmin comrades join hands and shoulders with us, writing, speaking, and acting as we do to abolish caste. If they will not join, let them remain quiet; if not quiet, at least refrain from opposing us; if they cannot do that, at least refrain from ridicule. Let them say, "Do something without asking why." Then see whether caste disappears in ten years, and whether the poet's dream becomes reality.
+
+## Tamil Nadu Bereft of Reason
+
+Take the newspapers. One writes, "The Supreme Being said in the *Bhagavad Gita* that four castes must exist." Another says, "Who said so? The *Bhagavad Gita* provides no basis for caste." A third, *Senthamizh Selvi*, writes, "You have interpreted the Gita differently." What is Tamil Nadu, bereft of reason, to believe? The Gita, or the philosophical interpretations of individuals?
+
+## Ornate Dress, Obscene Ideas
+
+On the train this morning, a college student studying Vedanta at St Joseph's, Tiruchirappalli, was debating two Brahmin pundits in my compartment. "Some disputants ask questions about *karma* that I sometimes cannot answer," he told them. "Please explain it a little." Instead of answering, the pundits asked, "You say you study at college; where do you eat?" The student replied, "Our hostel has a separate place for all Brahmins. I eat there." Though his forehead bore no mark, they immediately knew he was a Brahmin. He wore no sacred ash, was a college student studying Vedanta, and had combed his fashionable hair so beautifully that even an Englishman might learn a new style from him. His clothing was elegant, but his ideas obscene. Only after discovering that he was a Brahmin did the pundits agree to debate him.
+
+The student asked why one man suffers while another enjoys comfort. They answered that it was due to each man's sins and merits, then asked, "Brother, why does one student receive sixty marks, another forty, and another twenty?" In their own idiom he answered, "According to how much each has studied." "In the same way," they explained, "each receives comfort or suffering according to his sins and merits." They needed no logic for their debate; Vedantic stories served as their examples.
+
+After a while the student continued: "Suppose what we experience in this birth comes from sins in the last, and suffering in that birth came from sins in the birth before it. Following birth after birth backward must eventually take us to the first birth, when God first placed life within the body. Who was guilty for the sin committed in that first birth? Should not God have created that being incapable of sin? To create it able to sin and then condemn it for sinning is one fault; failing to create it sinless is another. Are you saying, then, that the Supreme Being is responsible for our sins? Does rebirth exist? If so, what occurred before the first birth? What could we answer if anyone asked?"
+
+The pundits stared stiffly. "Do they even ask whether rebirth exists? Every argument must begin from faith. We must assume there was a first birth. You would not understand what preceded it. But leave that aside. Who raised all these questions? It must be that Naicker of Erode. Such people are apparently great men and leaders of a party!" They began speaking in this fashion and escaped the debate. This is the scene I witnessed on the train this morning.
+
+If *varnashrama* continues to dance in this manner; if poems, stories, and essays support it; if we retain a caste measuring rod that calls one caste low and another high; and if people deliberately abuse a party and its leader, this country has no path to well-being.
+
+## Who Should Be Ashamed in the Atomic Age?
+
+When the Self-Respect movement says, "Do not attend Mahamaham, which nurtures Vedic orthodoxy and superstition," *Kalki*, merely because a Self-Respecter said it, prints photographs of the Mahamaham tank and the assembled crowd and writes: "Look! The Self-Respecter raises a wild clamour, yet what a crowd has gathered even in these difficult times. Does this not prove their propaganda has no strength?" It says the Self-Respecter should be ashamed. Who should be ashamed? The editor of *Kalki* first forgets his own disgrace. In this atomic age, he ought to be ashamed that his photograph appears to support the belief that bathing in filthy water wins God's grace.
+
+Therefore, instead of opposing everything simply because a Self-Respecter said it, once he says Mahamaham fosters ignorance, let *Dinamani* support him, let *Swadesamitran* publish an editorial, and let *The Hindu* write. If it wishes, let only the *Madras Mail* defend Mahamaham, since foreign rule will continue as long as ignorance continues here. For ten years, let the others accept and write what the Self-Respecter says, or at least refrain from opposing it. After those ten years, do you think caste, ignorance, or untouchability will remain? They will vanish without a trace.
+
+## Life Exists When We Unite
+
+Even Bharathi said, "There is life when we are united; if unity departs from us, degradation comes to all." Schoolchildren are taught the need for unity through the example that a bundle of sticks cannot be broken though each stick can be snapped alone. But unity between what? Fire and water? Deer and tiger? Phenyl differs from water; can unity be found between them?
+
+## Unity in Difference
+
+Hindus and Muslims are two great communities differing in many fields. Can unity arise between them? "Find unity in difference" is a proposition for logic and an examination question for students. Is it fit for a country? It will not work in a country. With this in mind, our revolutionary poet severely criticises glib talk of the world and common ownership. He says that mixing incompatible peoples causes stumbling. Stop the spring of *sanatana*, he says; close the gateway of *varnashrama*. Vedanta and Siddhanta are matters for mendicants to debate when they have no work. "Take up the killing sword; first let us utterly destroy the deeds of the cruel," he says, and asks whether maharajas should rule the world.
+
+## Take Up the Killing Sword
+
+In the old days, when hardship came, people shifted every burden and blame onto "Him" without expecting an answer: "Has the one who willingly placed this upon my head died? Even if total famine comes, the burden is the Supreme One's." In medieval times poets began searching for God: "O renowned gods who grant the boon one asks, where have you all migrated together?" Bharathidasan, however, says: "God cannot be seen. Do not imagine that God will come and punish tyrants. Take up the killing sword! We ourselves must strike those religious fanatics upon the head."
+
+The people of old said, "A forest inhabited by a fierce tiger is better than a country ruled by a tyrant," and fled palace rule for the wilderness without troubling themselves about government. Bharathi came and beautifully urged people to attack politics: "If even one person has no food, we shall destroy this world." Bharathidasan places the killing sword in our hands and leads us directly onto the field.
+
+## Love and Valour
+
+If one asks whether Bharathidasan, who sang of the breeze, Tamil, and valour, also sang of love, he sang as much as anyone could desire. Even those who read no other part of his poetry will not leave its love section unread, so I need say no more about it. His epics and poems ask us to sing and dance of love and valour and express them through music.
+
+The natural beauty of Tamil Nadu is why Tamil poets speak and write so much of love and valour. Look around: unlike England, there are no bare chalk hills. Roads run beside beautiful hills, groves beside the roads, wet fields beside perennial rivers, and poor farmers stand in those fields singing *pallu* songs that seize the heart. This lovely sight kindles love in the Tamil. Our people turned forest into country. What once lay as wilderness south of the Vindhyas they cleared and developed into towns and homes to a degree that foreigners not only admired but envied. They flourished in trade and revelled in valour. Valour is still honoured on battlefields.
+
+Tamil valour did not fade because it differed greatly from the valour of others. The Tamil never used the fire missile or the Pasupata weapon. His weapons were his two broad shoulders, a sword at his waist, a hand to wield it, a purpose suited to that hand, a field suited to that purpose, and a majesty suited to a scene where heaps of corpses inspired no fear. When Cheran Senguttuvan went to the Ganges to capture Kanaka and Vijaya, he went with warriors; they went with swords and returned with victory. Aryanism bowed that day before the sword. Senguttuvan won not through the Lord's grace, nor through a Varuna missile that brought rain, an Agni missile that destroyed, or the Vayu missile said to shake Lanka.
+
+Nor were such divine missiles used when Kulothunga and Rajaraja invaded Burma and conquered other lands; no evidence says they were. Give Tamils a measure of iron, a small furnace, and a little intelligence, and that is enough to forge a sword. Once they have forged it, their native fearless hearts and skilled hands suffice. They need build no forest hermitages, conduct no long sacrifices, and wait for no moment when the divine mother and father are free of quarrels before seeking the Lord's grace. Bharathidasan sang beautifully of valour of that kind.
+
+## Bharathidasan
+
+Bharathidasan's poems remind us of Tamil love and valour; his portrait will reinforce that memory. My respects go to those who made it possible to honour him by unveiling this portrait, to those who initiated the effort, and to the professors who stood behind those students and gave them wholehearted support. I sincerely congratulate them.
+
+Peace does not play upon Bharathidasan's face; instead, it carries the scent of revolution and the flame of anger. One cannot see in it, as in Thiru. Vi. Ka., femininity within masculinity. His moustache is black and curled. His face bears no signs of yogic serenity, but one can see the scars of sacrifice. He was recently attacked by thugs in Pondicherry, though those sacrificial scars do not show in this portrait.
+
+The sacred portrait of that embodiment of sacrifice must shine throughout Tamil Nadu: in mansions, not only in mansions but in earthen huts, and not only in earthen huts but in the people's hearts. May everyone acquire his fervour! May each of his poems become a bomb for this country's liberation! May each poem become a Rousseau! May each poem become a Voltaire!
+
+O Tamil Nadu! O fallen Tamil Nadu! Worn Tamil Nadu! Tamil Nadu that has forgotten itself! Tamil Nadu without self-respect! Ungrateful Tamil Nadu! Tamil Nadu that does not understand art! Tamil Nadu that does not know the character of God! Tamil Nadu that mistakes delusion for the path of religion! O weary Tamil Nadu, rise with valour! Honour poets of truth! Honour living poets! Honour poets of feeling! Honour revolutionary poets! Honour the sculptors of a new world!
+
+With these words, on behalf of all of you, with pride and joy, I unveil the portrait of the revolutionary poet Bharathidasan.
+
+## Translator's Notes
+
+- `கையில் ஊமன்` is rendered as “the handless mute,” following the *Kurunthogai* image explained in the speech.
+- `அகம்`, `புறம்`, `அந்தாதி`, `வெண்பா`, `அகவல்`, and `பள்ளு` are retained or transliterated where their literary form matters.
+- `பாஸ்டிலி` refers to the Bastille; `ஹெளடுயுடு` represents the English greeting “How do you do?”
+- `வர்ணாஸ்ரமம்` and `சனாதனம்` are retained as *varnashrama* and *sanatana* because the speech attacks those named ideological systems rather than religion in a generic sense.
+- The Tamil source reading `சுவிதையால்` in the widow passage is probably an OCR or reference-transcription error for `கவிதையால்`. The English follows the evident sentence meaning (“sings it in poetry”), while the Tamil source remains unchanged pending direct scan evidence.
+- Quotations from classical works and poets are translated conservatively for meaning. Their Tamil wording remains available verbatim in the source half of the bilingual document.
