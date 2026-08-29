@@ -2,9 +2,9 @@
 
 This report covers only canonical OCR-origin works that do not yet have a bilingual translation file.
 
-- Total pending: **85**
+- Total pending: **84**
 - OCR/source recovery pending: **62**
-- OCR translation pending: **23**
+- OCR translation pending: **22**
 
 ## Category Summary
 
@@ -12,7 +12,7 @@ This report covers only canonical OCR-origin works that do not yet have a biling
 |---|---:|
 | katturaigal | 13 |
 | nadagangal | 26 |
-| sorpozhivugal | 46 |
+| sorpozhivugal | 45 |
 
 ## OCR/source recovery pending
 
@@ -152,7 +152,6 @@ This report covers only canonical OCR-origin works that do not yet have a biling
 - `nadagangal/chandrodhayam.md`: [website 1](http://www.annavinpadaippugal.info/nadagangal/chandrodhayam_1.htm), [website 2](http://www.annavinpadaippugal.info/nadagangal/chandrodhayam_2.htm), [website 3](http://www.annavinpadaippugal.info/nadagangal/chandrodhayam_3.htm), [website 4](http://www.annavinpadaippugal.info/nadagangal/chandrodhayam_4.htm), [website 5](http://www.annavinpadaippugal.info/nadagangal/chandrodhayam_5.htm), [website 6](http://www.annavinpadaippugal.info/nadagangal/chandrodhayam_6.htm), [website 7](http://www.annavinpadaippugal.info/nadagangal/chandrodhayam_7.htm) | [OCR Markdown](https://github.com/pugazg/anna-corpus/blob/main/outputs/annavin_text_extractor/ocr_text_corrected/nadagangal/chandrodhayam.md)
 - `nadagangal/oar_iravu.md`: [website 1](http://www.annavinpadaippugal.info/nadagangal/oar_iravu_1.htm), [website 2](http://www.annavinpadaippugal.info/nadagangal/oar_iravu_10.htm), [website 3](http://www.annavinpadaippugal.info/nadagangal/oar_iravu_2.htm), [website 4](http://www.annavinpadaippugal.info/nadagangal/oar_iravu_3.htm), [website 5](http://www.annavinpadaippugal.info/nadagangal/oar_iravu_4.htm), [website 6](http://www.annavinpadaippugal.info/nadagangal/oar_iravu_5.htm), [website 7](http://www.annavinpadaippugal.info/nadagangal/oar_iravu_6.htm), [website 8](http://www.annavinpadaippugal.info/nadagangal/oar_iravu_7.htm), [website 9](http://www.annavinpadaippugal.info/nadagangal/oar_iravu_8.htm), [website 10](http://www.annavinpadaippugal.info/nadagangal/oar_iravu_9.htm) | [OCR Markdown](https://github.com/pugazg/anna-corpus/blob/main/outputs/annavin_text_extractor/ocr_text_corrected/nadagangal/oar_iravu.md)
 - `nadagangal/vaelaikari.md`: [website 1](http://www.annavinpadaippugal.info/nadagangal/vaelaikari_1.htm), [website 2](http://www.annavinpadaippugal.info/nadagangal/vaelaikari_10.htm), [website 3](http://www.annavinpadaippugal.info/nadagangal/vaelaikari_2.htm), [website 4](http://www.annavinpadaippugal.info/nadagangal/vaelaikari_3.htm), [website 5](http://www.annavinpadaippugal.info/nadagangal/vaelaikari_4.htm), [website 6](http://www.annavinpadaippugal.info/nadagangal/vaelaikari_5.htm), [website 7](http://www.annavinpadaippugal.info/nadagangal/vaelaikari_6.htm), [website 8](http://www.annavinpadaippugal.info/nadagangal/vaelaikari_7.htm), [website 9](http://www.annavinpadaippugal.info/nadagangal/vaelaikari_8.htm), [website 10](http://www.annavinpadaippugal.info/nadagangal/vaelaikari_9.htm) | [OCR Markdown](https://github.com/pugazg/anna-corpus/blob/main/outputs/annavin_text_extractor/ocr_text_corrected/nadagangal/vaelaikari.md)
-- `sorpozhivugal/1967.md`: [website 1](http://www.annavinpadaippugal.info/sorpozhivugal/1967_1.html), [website 2](http://www.annavinpadaippugal.info/sorpozhivugal/1967_2.html) | [OCR Markdown](https://github.com/pugazg/anna-corpus/blob/main/outputs/annavin_text_extractor/ocr_text_corrected/sorpozhivugal/1967.md)
 - `sorpozhivugal/270667.md`: [website 1](http://www.annavinpadaippugal.info/sorpozhivugal/270667_1.htm), [website 2](http://www.annavinpadaippugal.info/sorpozhivugal/270667_2.htm) | [OCR Markdown](https://github.com/pugazg/anna-corpus/blob/main/outputs/annavin_text_extractor/ocr_text_corrected/sorpozhivugal/270667.md)
 - `sorpozhivugal/280868_2.md`: [website 1](http://www.annavinpadaippugal.info/sorpozhivugal/280868_2_1.htm), [website 2](http://www.annavinpadaippugal.info/sorpozhivugal/280868_2_2.htm) | [OCR Markdown](https://github.com/pugazg/anna-corpus/blob/main/outputs/annavin_text_extractor/ocr_text_corrected/sorpozhivugal/280868_2.md)
 - `sorpozhivugal/300367.md`: [website 1](http://www.annavinpadaippugal.info/sorpozhivugal/300367_1.htm), [website 2](http://www.annavinpadaippugal.info/sorpozhivugal/300367_2.htm) | [OCR Markdown](https://github.com/pugazg/anna-corpus/blob/main/outputs/annavin_text_extractor/ocr_text_corrected/sorpozhivugal/300367.md)

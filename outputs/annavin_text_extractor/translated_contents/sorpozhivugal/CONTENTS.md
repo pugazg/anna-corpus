@@ -23,7 +23,7 @@ Total source works: 537
 - [sorpozhivugal/190368](190368.md) - translated
 - [sorpozhivugal/190868](190868.md) - translated
 - [காஞ்சிபுரம் தேர்தல் பிரச்சாரக் கூட்டம் - 1962](1962_thaerthal.md) - pending
-- [sorpozhivugal/1967](1967.md) - pending
+- [sorpozhivugal/1967](1967.md) - translated
 - [sorpozhivugal/200268](200268.md) - pending
 - [sorpozhivugal/200367](200367.md) - translated
 - [sorpozhivugal/200368](200368.md) - pending
