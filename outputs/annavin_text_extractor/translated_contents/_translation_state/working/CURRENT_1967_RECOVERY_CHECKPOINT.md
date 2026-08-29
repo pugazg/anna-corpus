@@ -20,6 +20,7 @@
 - Part 1 Image 15: `Sappers and Miners` is correctly recovered.
 - Part 2 Images 1-5: full page bodies and joins visually reconciled. Meaning-changing repairs include `ஆசை`, `எதிரியினுடைய`, `ஆண்டுகளில்`, `ஒருநாளைக்கு`, `கேட்டீர்களா`, `பூசாரிக்குத்தான்`, `கைதூக்கிவிடாத`, `ஒட்டிக்கொண்டிருக்கிறார்கள்`, and `400 கோடி`.
 - Part 2 Images 6-10: full page bodies and joins visually reconciled. Corrections include `ஆபத்துக்களை`, `ஆபத்தை`, `சம்பந்தப்பட்ட`, `ஓட்டெடுத்தோம்`, `ஆங்கிலம்`, and the scan-confirmed vote count `15-பேர்` rather than OCR's `75-பேர்`.
+- Part 2 Images 11-15: full page bodies and joins visually reconciled. Corrections include `ஓட்டளித்தார்கள்`, `சார்ந்திருக்கிற`, `அழைத்துக் கொண்டுபோய்`, `ஆச்சாரியார்`, `பத்து ஆண்டுக் காலத்தில்`, `வ. உ. சிதம்பரனார்`, and repaired closing dialogue.
 - Part 2 Image 8: `பிரேோரேபணையை` is restored directly from the scan as `பிரேரேபணையை`.
 - Part 2 Image 12: the damaged line reads `புதிதாக எந்தச் சட்டமும் வரவில்லை.`
 - Part 2 Image 14: the name is `வ. உ. சிதம்பரனார்`.
@@ -28,6 +29,4 @@
 
 ## Remaining Work
 
-- Visually reconcile all remaining unverified page bodies and confirm each of the 27 joins between the 28 relevant scans against its two adjacent scans.
-- Remove OCR-only spacing and punctuation defects without modernising the printed Tamil.
-- Promote the candidate to `ocr_text_corrected` only after complete visual review; then update `source_map.csv`, document corrections in `ocr_concerns.csv`, and translate the recovered source.
+- Promote the fully reconciled candidate to `ocr_text_corrected`, update source tracking and OCR concerns, then create and audit the bilingual translation.
