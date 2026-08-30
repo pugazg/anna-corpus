@@ -1,10 +1,10 @@
 # Recovery checkpoint — `katturaigal/udan_piranthar_1.md`
 
-Status: `in_progress`
+Status: `source_recovery_complete_translation_pending`
 
 Last completed scan: `Image 19: 019-a9bf8c1094.png`
 
-Exact next recovery boundary: counterpart line 206, beginning `மக்களிடம், கேயஸ் கிரேக்கஸ் மிக நெருக்கமான தொடர்பு கொண்டான்.`
+Exact next task: translate the complete recovered source as `உடன் பிறந்தார் இருவர் / Two Brothers`, preserving the source block verbatim and documenting witness-only recovery in translator notes.
 
 ## Recovery boundary
 
@@ -41,6 +41,7 @@ All 19 available images were compared directly with their scans and the local wi
 ## Completed witness recovery
 
 - The seven-paragraph Image 14-to-15 gap is restored in a separately labelled recovery block.
-- The post-Image-19 continuation is restored through counterpart line 205, covering Gaius's early military service, return to Rome, election as protector, and the opening programme of recovered Part 4.
+- The complete post-Image-19 continuation through counterpart line 282 is restored, including Gaius's political career, final struggle and death, Cornelia's memorial, and the `(திராவிடநாடு - 1955)` credit.
+- Normalized direct comparisons prove that the internal gap suffix exactly matches counterpart lines 116-122 and that the complete continuation exactly matches counterpart lines 158-282. No missing-source wording was conjectured.
 
-The remaining source work is witness recovery from counterpart lines 206-282: Gaius's political work, final struggle, death, and the conclusion. Preserve its separate recovery provenance. Do not promote a bilingual file or refresh the pending count until that source recovery, the full translation and the source-retention audit are complete.
+Source recovery is complete. Do not refresh the pending count until the full English translation, exact source-retention check and bilingual audit pass.
