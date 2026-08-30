@@ -4,7 +4,7 @@ Status: `in_progress`
 
 Last completed scan: `Image 19: 019-a9bf8c1094.png`
 
-Exact next recovery boundary: the Image 14-to-15 source gap, beginning after visible `ஏழைகளின் பிரச்சனை தீர்க்கப்படு` with counterpart text `கிறவரையில், கோவிலிலுள்ள பணத்தைத் தொடக் கூடாது...`
+Exact next recovery boundary: counterpart line 168, beginning `அண்ணன் படுகொலை செய்யப்பட்டதை எதிர்த்து ஏதும் செய்யமுடியாத நிலையில், கேயஸ் கிரேக்கஸ் இருந்தான்.`
 
 ## Recovery boundary
 
@@ -38,4 +38,9 @@ All 19 available images were compared directly with their scans and the local wi
 - Image 18: `விளக்கமுரைத்தான்`, `டைபீரியசிடம் தந்தான்`, and restoration of sentence joins and quotation punctuation.
 - Image 19: `வீட்டைச்`, both split `டைபீரியஸ்` readings, `வாக்கெடுப்புக்கான`, `டைபீரியசைக்` and `சார்பினர்`.
 
-The remaining source work is witness recovery, not visual OCR correction: restore the Image 14-to-15 gap and the post-Image-19 Gaius narrative plus conclusion from the counterpart, explicitly preserving the recovery provenance. Do not promote a bilingual file or refresh the pending count until that source recovery, the full translation and the source-retention audit are complete.
+## Completed witness recovery
+
+- The seven-paragraph Image 14-to-15 gap is restored in a separately labelled recovery block.
+- The post-Image-19 continuation is restored through counterpart line 167, ending with the refusal to release Tiberius's body to Gaius and Cornelia.
+
+The remaining source work is witness recovery from counterpart lines 168-282: Gaius's response, career, final struggle, death, and the conclusion. Preserve its separate recovery provenance. Do not promote a bilingual file or refresh the pending count until that source recovery, the full translation and the source-retention audit are complete.
