@@ -4,7 +4,7 @@ Status: `source_recovery_complete_translation_in_progress`
 
 Last completed scan: `Image 19: 019-a9bf8c1094.png`
 
-Exact next translation boundary: Image 6 paragraph beginning `வையகம் வியக்கும் அறிவுக் கருவூலப் பெட்டகமென விளங்கிய கிரேக்கநாடு...`
+Exact next translation boundary: Image 8 final paragraph beginning `சீமான்கள், தன் குடும்பத்தார், உற்றார் உறவினர்...`, continuing into Image 9.
 
 ## Recovery boundary
 
@@ -49,5 +49,5 @@ Source recovery is complete. Do not refresh the pending count until the full Eng
 ## Translation checkpoint
 
 - Draft: `manual_translation_drafts/katturaigal/udan_piranthar_1.draft`
-- Completed: Images 1-5, ending with Tiberius resolving to raise the poor through his service after the conquest of Carthage, Rome's mass enslavement, and the upper classes' life of luxury.
+- Completed: Images 1-7 and Image 8 through the account of the 330-acre ceiling and the lords' general evasion of reform; the final Image 8 paragraph is next.
 - The draft title is `Two Brothers`; the Tamil title override is `உடன் பிறந்தார் இருவர்`.

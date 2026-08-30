@@ -46,8 +46,8 @@ this handover after work resumes.
 
 ## Next Work
 
-Continue the `Two Brothers` English draft at Image 6 paragraph
-`வையகம் வியக்கும் அறிவுக் கருவூலப் பெட்டகமென விளங்கிய கிரேக்கநாடு...` Images 1-5 are translated in
+Continue the `Two Brothers` English draft at Image 8's final paragraph
+`சீமான்கள், தன் குடும்பத்தார், உற்றார் உறவினர்...`, which continues into Image 9. Images 1-7 and the preceding Image 8 material are translated in
 `manual_translation_drafts/katturaigal/udan_piranthar_1.draft`. All 19 available images have been visually reconciled and their
 scan-proven corrections are recorded in
 `translated_contents/_translation_state/working/udan_piranthar_1_recovery.md`.
