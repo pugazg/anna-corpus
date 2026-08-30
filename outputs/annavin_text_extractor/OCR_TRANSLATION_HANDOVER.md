@@ -18,8 +18,8 @@ The authoritative live pending list is:
 
 `translated_contents/_translation_state/ocr_pending_links.md`
 
-Its current split is 82 works needing OCR/source recovery and 2 works whose
-OCR source is available but whose bilingual translation is pending. Always
+Its current split is 84 works needing OCR/source recovery and no works whose
+OCR source is currently safe enough for bilingual translation. Always
 regenerate the report after completing one work; do not rely on the numbers in
 this handover after work resumes.
 
@@ -46,10 +46,13 @@ this handover after work resumes.
 
 ## Next Work
 
-Screen `katturaigal/romapuri_ranigal.md` next. It is one of the two works
-remaining under `OCR translation pending`, with 82 scans across eight mapped
-web parts. There is no partial draft. The only other translation-ready entry is
-`katturaigal/kambarasam.md` (127 scans across thirteen parts).
+Begin source recovery for `katturaigal/udan_piranthar_1.md`. Its 19-scan OCR
+opening ends after the death of Tiberius Gracchus, but the complete four-part
+HTML counterpart exists at `organized_contents/Kurunavalgal/udanpiranthar_iruvar.md`
+and continues through Gaius Gracchus and the conclusion. Visually reconcile the
+OCR opening against all 19 scans, determine the exact join to the counterpart,
+and recover Parts 2-4 without silently altering the scan-derived opening. There
+is no partial draft.
 
 In the latest continuation, four complete but unreliable sources were moved to
 recovery after direct scan checks:
@@ -82,14 +85,25 @@ to recovery:
   `ஓர் இரவு` title, three character-list readings, Scenes 1-4 and bounded
   conclusion readings, but corruption recurs throughout; commit `e6ec659`.
 
-All seven screening commits were pushed to `origin/main`. The authoritative
-OCR-only state is 878/962 complete, 84 pending, split into 82 recovery and 2
-translation-ready. All 15 tests pass and the bilingual audit has zero issues. Items found
-incomplete or unreliable must be moved to source recovery rather than
-translated by guesswork.
+All seven screening commits were pushed to `origin/main`. The final two
+translation-ready works were then screened and moved to recovery:
+
+- `katturaigal/romapuri_ranigal.md` (82 scans, eight parts): representative
+  scans from every part proved recurring historical-name, quotation and prose
+  corruption; bounded scan-visible readings and ornaments were restored;
+  commit `a68d257`.
+- `katturaigal/kambarasam.md` (127 scans, thirteen parts): representative scans
+  from every part proved recurring corruption in prose, quoted Kamba Ramayana
+  verses, glosses, names and dialogue; bounded readings and the closing ornament
+  were restored. The checkpoint commit follows this handover update.
+
+The authoritative OCR-only state is 878/962 complete, 84 pending, all 84 in
+source recovery and zero translation-ready. All 15 tests pass and the bilingual
+audit has zero issues. Items found incomplete or unreliable must be recovered
+rather than translated by guesswork.
 
 `report_ocr_pending_links.py` recognises `No OCR text detected` markers. The
-current accurate split is 82 recovery / 2 translation, 84 total. The recovery
+current accurate split is 84 recovery / 0 translation, 84 total. The recovery
 count now correctly includes two canonical files already marked as incorrect
 sources; this is a classification correction, not a new source defect.
 
@@ -261,28 +275,18 @@ organized_contents/_merge_state/source_map.csv as the canonical inventory and
 translated_contents/_translation_state/ocr_pending_links.md as the live pending
 list. Do not mix HTML-origin queue counts into OCR-origin progress.
 
-The most recently completed canonical work is
-sorpozhivugal/annal_nabi.md. All 27 scans across its two parts were visually
-reconciled, the complete collection was translated, and the bilingual audit
-passes. There is no partial working draft. `sorpozhivugal/desiya131159.md` was
-screened next and moved to source recovery: its 22 scans are present, but
-Tamil-only OCR destroyed the English quotation on Image 3 and substantial
-Tamil across Images 1 and 3-5, with recurring corruption elsewhere.
-`sorpozhivugal/nilaseer200460.md` was then moved to recovery because its 22-page
-Land Reform Bill speech is corrupted from the title and date through figures,
-legal argument and closing clauses. `sorpozhivugal/satta_17_07_1957.md` was
-also moved to recovery after its two-speech structure was established and
-three destroyed English passages were confirmed directly from the scans.
-`sorpozhivugal/nattu_mathip111157.md` was then moved to recovery after direct
-comparison confirmed corruption from its title and English subtitle through
-the final pages. `sorpozhivugal/210367.md` was likewise moved to recovery after
-its three-speech structure and two destroyed English quotations were verified
-from the scans. `sorpozhivugal/230367.md` was then moved to recovery after its
-three-speech structure, missing Speech 7 header, destroyed English quotation,
-and extensive Tamil losses were verified from the scans. Screen
-`sorpozhivugal/230868.md` next. Record scan-proven OCR corrections in
-ocr_concerns.csv and do not translate missing or damaged source text by
-guessing.
+The authoritative OCR-only state is 878/962 complete and 84 pending. All 84
+pending works require OCR or source recovery; there are currently no
+translation-ready OCR-origin works. The last two translation-ready candidates,
+`katturaigal/romapuri_ranigal.md` (82 scans) and
+`katturaigal/kambarasam.md` (127 scans), were directly checked across every
+part and moved to recovery because recurring corruption makes translation
+unsafe. Bounded scan-proven corrections and working recovery records are
+committed. Begin recovery with `katturaigal/udan_piranthar_1.md`: reconcile its
+19-scan opening, then recover the continuation from the complete counterpart at
+`organized_contents/Kurunavalgal/udanpiranthar_iruvar.md`. Record scan-proven
+OCR corrections in ocr_concerns.csv and do not translate missing or damaged
+source text by guessing.
 
 After every single completed work, run
 python3 refresh_ocr_translation_state.py from
