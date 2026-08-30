@@ -18,7 +18,7 @@ The authoritative live pending list is:
 
 `translated_contents/_translation_state/ocr_pending_links.md`
 
-Its current split is 79 works needing OCR/source recovery and 5 works whose
+Its current split is 82 works needing OCR/source recovery and 2 works whose
 OCR source is available but whose bilingual translation is pending. Always
 regenerate the report after completing one work; do not rely on the numbers in
 this handover after work resumes.
@@ -46,9 +46,10 @@ this handover after work resumes.
 
 ## Next Work
 
-Screen `katturaigal/periyapuranaputhayal.md` next. It is one of the five works
-remaining under `OCR translation pending`, with 70 scans across six mapped web
-parts. There is no partial draft.
+Screen `katturaigal/romapuri_ranigal.md` next. It is one of the two works
+remaining under `OCR translation pending`, with 82 scans across eight mapped
+web parts. There is no partial draft. The only other translation-ready entry is
+`katturaigal/kambarasam.md` (127 scans across thirteen parts).
 
 In the latest continuation, four complete but unreliable sources were moved to
 recovery after direct scan checks:
@@ -66,14 +67,29 @@ recovery after direct scan checks:
   date and opening word and removed three scan-absent noise insertions; commit
   `bc6b082`.
 
-All four commits were pushed to `origin/main`. The authoritative OCR-only state
-is 878/962 complete, 84 pending, split into 79 recovery and 5 translation-ready.
-All 15 tests pass and the bilingual audit has zero issues. Items found
+Those four commits were pushed to `origin/main`. Three more long works were
+then screened directly against representative scans from every part and moved
+to recovery:
+
+- `katturaigal/periyapuranaputhayal.md` (70 scans, seven parts): restored the
+  printed date, list numbering, bounded village and astronomical readings,
+  ornament rows and closing numbering; commit `c4e2c02`.
+- `nadagangal/vaelaikari.md` (94 scans, ten parts, 54 scenes): restored bounded
+  character-list, `(Fire Engine)`, opening scene and concluding speaker/wording
+  readings, but pervasive dialogue and structural damage remains; commit
+  `6bdb41c`.
+- `nadagangal/oar_iravu.md` (96 scans, ten parts, 49 scenes): restored the
+  `ஓர் இரவு` title, three character-list readings, Scenes 1-4 and bounded
+  conclusion readings, but corruption recurs throughout; commit `e6ec659`.
+
+All seven screening commits were pushed to `origin/main`. The authoritative
+OCR-only state is 878/962 complete, 84 pending, split into 82 recovery and 2
+translation-ready. All 15 tests pass and the bilingual audit has zero issues. Items found
 incomplete or unreliable must be moved to source recovery rather than
 translated by guesswork.
 
 `report_ocr_pending_links.py` recognises `No OCR text detected` markers. The
-current accurate split is 79 recovery / 5 translation, 84 total. The recovery
+current accurate split is 82 recovery / 2 translation, 84 total. The recovery
 count now correctly includes two canonical files already marked as incorrect
 sources; this is a classification correction, not a new source defect.
 
