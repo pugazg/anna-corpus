@@ -46,8 +46,8 @@ this handover after work resumes.
 
 ## Next Work
 
-Continue source recovery for `katturaigal/udan_piranthar_1.md` at Image 7
-(`007-51f2a5085f.png`). Images 1-6 have been visually reconciled and their
+Continue source recovery for `katturaigal/udan_piranthar_1.md` at Image 13
+(`013-cc195149f9.png`). Images 1-12 have been visually reconciled and their
 scan-proven corrections are recorded in
 `translated_contents/_translation_state/working/udan_piranthar_1_recovery.md`.
 The complete witness is
@@ -55,7 +55,7 @@ The complete witness is
 but it has independent errors and must not replace the scans verbatim. The exact
 continuation join is inside counterpart Part 3, immediately after the sentence
 ending `டைபீரியசையும் கொன்றுவிட்டனர்.` Recover the remainder of Part 3 and
-Part 4 after reconciling Images 7-19.
+Part 4 after reconciling Images 13-19.
 
 In the latest continuation, four complete but unreliable sources were moved to
 recovery after direct scan checks:
@@ -286,7 +286,7 @@ translation-ready OCR-origin works. The last two translation-ready candidates,
 part and moved to recovery because recurring corruption makes translation
 unsafe. Bounded scan-proven corrections and working recovery records are
 committed. Recovery of `katturaigal/udan_piranthar_1.md` is complete through
-Image 6; continue at Image 7. The complete counterpart is at
+Image 12; continue at Image 13. The complete counterpart is at
 `outputs/annavin_text_extractor/md_pages/Kurunavalgal/udanpiranthar_iruvar.md`,
 but it has independent errors. Its exact continuation join is within Part 3
 after the Tiberius-death sentence. Record scan-proven OCR corrections in
