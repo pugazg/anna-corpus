@@ -46,8 +46,8 @@ this handover after work resumes.
 
 ## Next Work
 
-Continue the `Two Brothers` English draft at Image 8's final paragraph
-`சீமான்கள், தன் குடும்பத்தார், உற்றார் உறவினர்...`, which continues into Image 9. Images 1-7 and the preceding Image 8 material are translated in
+Continue the `Two Brothers` English draft at Image 10's final paragraph
+`செல்வக்குடி பிறந்தவர்கள், ஏன் இந்த போக்கிட மற்றவர்களுக்காகப் போரிடக் கிளம்புகின்றனர்!`, which continues into Image 11. Images 1-9 and the preceding Image 10 material are translated in
 `manual_translation_drafts/katturaigal/udan_piranthar_1.draft`. All 19 available images have been visually reconciled and their
 scan-proven corrections are recorded in
 `translated_contents/_translation_state/working/udan_piranthar_1_recovery.md`.
