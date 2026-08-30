@@ -46,15 +46,17 @@ this handover after work resumes.
 
 ## Next Work
 
-Select the next work from the live report. Prefer one of the 15 items under
+Select the next work from the live report. Prefer one of the 13 items under
 `OCR translation pending` unless deliberately beginning a complete visual
-recovery. Screen `sorpozhivugal/hindi_ethirpu_aen.md` next. In the latest
-continuation, `270667.md`, `280868_2.md`, `300367.md`, `aalunar130258.md`,
-`annamalai_perurai.md`, `chitoor_thimuka.md`, and `dravidar_nilai.md` were
-moved to recovery after direct scan checks confirmed pervasive dropped or
-substituted Tamil, damaged dates and figures, broken literary quotations, and
-destroyed mixed-language passages. Durable scan findings are recorded in their
-`working/*_recovery_screen.md` files and in `ocr_concerns.csv`. The report is
+recovery. Screen `sorpozhivugal/nithi100359.md` next. In the latest
+continuation, `hindi_ethirpu_aen.md` and `nilayum_ninaippum.md` were moved to
+recovery after direct scan checks confirmed duplicate printed pages and
+recurring Tamil substitutions in the former, and destroyed opening metadata,
+English motto and recurring Tamil corruption in the latter. Scan-proven
+readings were corrected in the sources and documented in their
+`working/*_recovery_screen.md` files and in `ocr_concerns.csv`. Commits
+`2d28160` and `11257f0` were pushed to `origin/main`; all 15 tests pass and the
+bilingual audit has zero issues. The report is
 authoritative. Items found incomplete or unreliable must be moved to source
 recovery rather than translated by guesswork.
 `katturaigal/aariyamaayai.htm.md` is the 69-scan Parts 2-7 continuation of the
@@ -66,7 +68,7 @@ parts and 122 scans. `sorpozhivugal/aalunar090259.md` requires bilingual re-OCR
 of all 20 pages, particularly the destroyed English quotations on Images 8-9.
 
 `report_ocr_pending_links.py` recognises `No OCR text detected` markers. The
-current accurate split is 69 recovery / 15 translation, 84 total. The recovery
+current accurate split is 71 recovery / 13 translation, 84 total. The recovery
 count now correctly includes two canonical files already marked as incorrect
 sources; this is a classification correction, not a new source defect.
 
