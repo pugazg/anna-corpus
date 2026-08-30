@@ -1,10 +1,10 @@
 # Recovery checkpoint — `katturaigal/udan_piranthar_1.md`
 
-Status: `source_recovery_complete_translation_pending`
+Status: `source_recovery_complete_translation_in_progress`
 
 Last completed scan: `Image 19: 019-a9bf8c1094.png`
 
-Exact next task: translate the complete recovered source as `உடன் பிறந்தார் இருவர் / Two Brothers`, preserving the source block verbatim and documenting witness-only recovery in translator notes.
+Exact next translation boundary: Image 4 paragraph beginning `ஏழையர் உலகின் பெரு மூச்சுக்கு ரோம், மதிப்பளிக்க மறுத்தது...`
 
 ## Recovery boundary
 
@@ -45,3 +45,9 @@ All 19 available images were compared directly with their scans and the local wi
 - Normalized direct comparisons prove that the internal gap suffix exactly matches counterpart lines 116-122 and that the complete continuation exactly matches counterpart lines 158-282. No missing-source wording was conjectured.
 
 Source recovery is complete. Do not refresh the pending count until the full English translation, exact source-retention check and bilingual audit pass.
+
+## Translation checkpoint
+
+- Draft: `manual_translation_drafts/katturaigal/udan_piranthar_1.draft`
+- Completed: Images 1-3 plus Image 4's opening Greek-Roman historical framing, ending with Rome's failure to remove practices, systems and ideas likened to venomous snakes.
+- The draft title is `Two Brothers`; the Tamil title override is `உடன் பிறந்தார் இருவர்`.
