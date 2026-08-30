@@ -4,7 +4,7 @@ Status: `in_progress`
 
 Last completed scan: `Image 19: 019-a9bf8c1094.png`
 
-Exact next recovery boundary: counterpart line 177, beginning `இவனையாவது இழக்காமலிருக்க வேண்டும், என்று எண்ணி...`
+Exact next recovery boundary: counterpart line 183, beginning `நாட்டுப் படையிலே பணிபுரியும் ஓர் இளைஞன்...`
 
 ## Recovery boundary
 
@@ -41,6 +41,6 @@ All 19 available images were compared directly with their scans and the local wi
 ## Completed witness recovery
 
 - The seven-paragraph Image 14-to-15 gap is restored in a separately labelled recovery block.
-- The post-Image-19 continuation is restored through counterpart line 176, covering Gaius's resolution to continue the struggle and Cornelia's response to Tiberius's death, ending `மற்றும் ஒரு மாணிக்கம் இருக்கிறது - கேயஸ்.`
+- The post-Image-19 continuation is restored through counterpart line 182, covering Gaius's resolution, Cornelia's response, and Gaius's early military service in Sardinia, ending `இந்தச் ‘செய்தி’ ரோமுக்கு எட்டிற்று, சீமான்களைக் கொட்டிற்று!`
 
-The remaining source work is witness recovery from counterpart lines 177-282: Gaius's career, final struggle, death, and the conclusion. Preserve its separate recovery provenance. Do not promote a bilingual file or refresh the pending count until that source recovery, the full translation and the source-retention audit are complete.
+The remaining source work is witness recovery from counterpart lines 183-282: Gaius's political career, final struggle, death, and the conclusion. Preserve its separate recovery provenance. Do not promote a bilingual file or refresh the pending count until that source recovery, the full translation and the source-retention audit are complete.
