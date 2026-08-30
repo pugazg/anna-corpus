@@ -18,7 +18,7 @@ The authoritative live pending list is:
 
 `translated_contents/_translation_state/ocr_pending_links.md`
 
-Its current split is 69 works needing OCR/source recovery and 15 works whose
+Its current split is 79 works needing OCR/source recovery and 5 works whose
 OCR source is available but whose bilingual translation is pending. Always
 regenerate the report after completing one work; do not rely on the numbers in
 this handover after work resumes.
@@ -46,29 +46,34 @@ this handover after work resumes.
 
 ## Next Work
 
-Select the next work from the live report. Prefer one of the 13 items under
-`OCR translation pending` unless deliberately beginning a complete visual
-recovery. Screen `sorpozhivugal/nithi100359.md` next. In the latest
-continuation, `hindi_ethirpu_aen.md` and `nilayum_ninaippum.md` were moved to
-recovery after direct scan checks confirmed duplicate printed pages and
-recurring Tamil substitutions in the former, and destroyed opening metadata,
-English motto and recurring Tamil corruption in the latter. Scan-proven
-readings were corrected in the sources and documented in their
-`working/*_recovery_screen.md` files and in `ocr_concerns.csv`. Commits
-`2d28160` and `11257f0` were pushed to `origin/main`; all 15 tests pass and the
-bilingual audit has zero issues. The report is
-authoritative. Items found incomplete or unreliable must be moved to source
-recovery rather than translated by guesswork.
-`katturaigal/aariyamaayai.htm.md` is the 69-scan Parts 2-7 continuation of the
-already translated opening and
-contains unreadable mixed-script English citations, especially at Part 5 Image
-11 and Part 6 Image 1. `katturaigal/anthikalambagam.md` was likewise moved to
-recovery after direct scan checks confirmed recurring corruption across its 12
-parts and 122 scans. `sorpozhivugal/aalunar090259.md` requires bilingual re-OCR
-of all 20 pages, particularly the destroyed English quotations on Images 8-9.
+Screen `katturaigal/periyapuranaputhayal.md` next. It is one of the five works
+remaining under `OCR translation pending`, with 70 scans across six mapped web
+parts. There is no partial draft.
+
+In the latest continuation, four complete but unreliable sources were moved to
+recovery after direct scan checks:
+
+- `katturaigal/viduthalaippor.md` (33 scans, three parts): corrected the printed
+  date, `(Dravidian League)`, the `4 1/2 கோடி` figure and a scan-absent inserted
+  line; commit `eafbcc2`.
+- `katturaigal/ulaga_periyar.md` (45 scans, two parts): restored the printed
+  title date and bounded funeral facts, but its opening chronological table and
+  prose require full recovery; commit `e5107cb`.
+- `nadagangal/chandrodhayam.md` (62 scans, seven parts, 26 scenes): restored
+  bounded character-list, dialogue and closing readings, but corruption recurs
+  throughout the play; commit `371d450`.
+- `katturaigal/latchiya_varalaru.md` (58 scans, six parts): corrected the title
+  date and opening word and removed three scan-absent noise insertions; commit
+  `bc6b082`.
+
+All four commits were pushed to `origin/main`. The authoritative OCR-only state
+is 878/962 complete, 84 pending, split into 79 recovery and 5 translation-ready.
+All 15 tests pass and the bilingual audit has zero issues. Items found
+incomplete or unreliable must be moved to source recovery rather than
+translated by guesswork.
 
 `report_ocr_pending_links.py` recognises `No OCR text detected` markers. The
-current accurate split is 71 recovery / 13 translation, 84 total. The recovery
+current accurate split is 79 recovery / 5 translation, 84 total. The recovery
 count now correctly includes two canonical files already marked as incorrect
 sources; this is a classification correction, not a new source defect.
 
