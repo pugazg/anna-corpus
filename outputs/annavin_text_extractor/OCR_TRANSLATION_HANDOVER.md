@@ -18,7 +18,7 @@ The authoritative live pending list is:
 
 `translated_contents/_translation_state/ocr_pending_links.md`
 
-Its current split is 66 works needing OCR/source recovery and 18 works whose
+Its current split is 69 works needing OCR/source recovery and 15 works whose
 OCR source is available but whose bilingual translation is pending. Always
 regenerate the report after completing one work; do not rely on the numbers in
 this handover after work resumes.
@@ -46,13 +46,14 @@ this handover after work resumes.
 
 ## Next Work
 
-Select the next work from the live report. Prefer one of the 18 items under
+Select the next work from the live report. Prefer one of the 15 items under
 `OCR translation pending` unless deliberately beginning a complete visual
-recovery. Screen `sorpozhivugal/annamalai_perurai.md` next. In the latest
-continuation, `270667.md`, `280868_2.md`, `300367.md`, and
-`aalunar130258.md` were moved to recovery after direct scan checks confirmed
-pervasive dropped or substituted Tamil, damaged dates and figures, and broken
-mixed-language passages. Durable scan findings are recorded in their
+recovery. Screen `sorpozhivugal/hindi_ethirpu_aen.md` next. In the latest
+continuation, `270667.md`, `280868_2.md`, `300367.md`, `aalunar130258.md`,
+`annamalai_perurai.md`, `chitoor_thimuka.md`, and `dravidar_nilai.md` were
+moved to recovery after direct scan checks confirmed pervasive dropped or
+substituted Tamil, damaged dates and figures, broken literary quotations, and
+destroyed mixed-language passages. Durable scan findings are recorded in their
 `working/*_recovery_screen.md` files and in `ocr_concerns.csv`. The report is
 authoritative. Items found incomplete or unreliable must be moved to source
 recovery rather than translated by guesswork.
@@ -65,7 +66,7 @@ parts and 122 scans. `sorpozhivugal/aalunar090259.md` requires bilingual re-OCR
 of all 20 pages, particularly the destroyed English quotations on Images 8-9.
 
 `report_ocr_pending_links.py` recognises `No OCR text detected` markers. The
-current accurate split is 66 recovery / 18 translation, 84 total. The recovery
+current accurate split is 69 recovery / 15 translation, 84 total. The recovery
 count now correctly includes two canonical files already marked as incorrect
 sources; this is a classification correction, not a new source defect.
 
