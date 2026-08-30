@@ -1,6 +1,6 @@
 # OCR-Origin Translation Handover
 
-Updated: 2026-08-28
+Updated: 2026-08-30
 
 ## Objective
 
@@ -11,14 +11,14 @@ Complete all 962 canonical OCR-origin works as bilingual Markdown documents:
 | katturaigal | 552 | 539 | 13 |
 | nadagangal | 61 | 35 | 26 |
 | sirukathaigal | 108 | 108 | 0 |
-| sorpozhivugal | 241 | 191 | 50 |
-| **Total** | **962** | **873** | **89** |
+| sorpozhivugal | 241 | 196 | 45 |
+| **Total** | **962** | **878** | **84** |
 
 The authoritative live pending list is:
 
 `translated_contents/_translation_state/ocr_pending_links.md`
 
-Its current split is 58 works needing OCR/source recovery and 31 works whose
+Its current split is 66 works needing OCR/source recovery and 18 works whose
 OCR source is available but whose bilingual translation is pending. Always
 regenerate the report after completing one work; do not rely on the numbers in
 this handover after work resumes.
@@ -34,29 +34,28 @@ this handover after work resumes.
 
 ## Most Recently Completed Work
 
-`sorpozhivugal/annal_nabi.md` is complete.
+`sorpozhivugal/1967.md` is complete.
 
-- All 27 scans across two parts were visually reconciled.
-- The damaged `திருத்தொண்டு` heading and scan-proven glyph, word and spacing
-  errors were repaired while printed period language was retained.
-- The complete collection was translated, including six principal speech
-  sections, their page joins, the printed footnote and the closing
-  `எண்ணத் துளிகள்` extracts.
-- The English draft retains all 27 scan boundaries, and difficult religious
-  and cultural terms are logged separately.
+- All 28 relevant scans were visually reconciled; two unrelated inserted Rajya
+  Sabha scans remain documented and excluded.
+- The date, Justice Party footnote, English quotations, institutional names,
+  degrees, vote counts and other damaged readings were recovered and verified.
+- The complete speech was translated and promoted from its checkpointed draft.
 - The bilingual source-retention audit passes.
-- The live pending report has been refreshed from 90 to 89 works.
+- The live pending report has been refreshed to 84 works.
 
 ## Next Work
 
-Select the next work from the live report. Prefer one of the 31 items under
+Select the next work from the live report. Prefer one of the 18 items under
 `OCR translation pending` unless deliberately beginning a complete visual
-recovery. Screen `sorpozhivugal/230868.md` next. The preceding
-`230367.md` deliberately combines Speeches 6, 7, and 8 across 25 scans and was
-moved to recovery because an English quotation, Speech 7's complete header,
-substantial Tamil, figures, and closing text were corrupted or dropped. The
-report is authoritative. Items found incomplete or unreliable must be moved to
-source recovery rather than translated by guesswork.
+recovery. Screen `sorpozhivugal/annamalai_perurai.md` next. In the latest
+continuation, `270667.md`, `280868_2.md`, `300367.md`, and
+`aalunar130258.md` were moved to recovery after direct scan checks confirmed
+pervasive dropped or substituted Tamil, damaged dates and figures, and broken
+mixed-language passages. Durable scan findings are recorded in their
+`working/*_recovery_screen.md` files and in `ocr_concerns.csv`. The report is
+authoritative. Items found incomplete or unreliable must be moved to source
+recovery rather than translated by guesswork.
 `katturaigal/aariyamaayai.htm.md` is the 69-scan Parts 2-7 continuation of the
 already translated opening and
 contains unreadable mixed-script English citations, especially at Part 5 Image
@@ -66,7 +65,7 @@ parts and 122 scans. `sorpozhivugal/aalunar090259.md` requires bilingual re-OCR
 of all 20 pages, particularly the destroyed English quotations on Images 8-9.
 
 `report_ocr_pending_links.py` recognises `No OCR text detected` markers. The
-current accurate split is 58 recovery / 31 translation, 89 total. The recovery
+current accurate split is 66 recovery / 18 translation, 84 total. The recovery
 count now correctly includes two canonical files already marked as incorrect
 sources; this is a classification correction, not a new source defect.
 
