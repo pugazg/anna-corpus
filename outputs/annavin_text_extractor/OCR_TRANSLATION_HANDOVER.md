@@ -47,7 +47,7 @@ this handover after work resumes.
 ## Next Work
 
 Continue source recovery for `katturaigal/udan_piranthar_1.md` at counterpart
-line 168, beginning `அண்ணன் படுகொலை செய்யப்பட்டதை எதிர்த்து ஏதும் செய்யமுடியாத நிலையில், கேயஸ் கிரேக்கஸ் இருந்தான்.` All 19 available images have been visually reconciled and their
+line 177, beginning `இவனையாவது இழக்காமலிருக்க வேண்டும், என்று எண்ணி...` All 19 available images have been visually reconciled and their
 scan-proven corrections are recorded in
 `translated_contents/_translation_state/working/udan_piranthar_1_recovery.md`.
 The complete witness is
@@ -57,8 +57,8 @@ continuation join is inside counterpart Part 3, immediately after the sentence
 ending `டைபீரியசையும் கொன்றுவிட்டனர்.` Recover the remainder of Part 3 and
 Part 4. The seven counterpart paragraphs missing between Images 14 and 15 are
 already restored in a separately labelled recovery block. The post-Image-19
-continuation is restored through counterpart line 167, ending with the denial
-of Tiberius's body to Gaius and Cornelia.
+continuation is restored through counterpart line 176, ending
+`மற்றும் ஒரு மாணிக்கம் இருக்கிறது - கேயஸ்.`
 
 In the latest continuation, four complete but unreliable sources were moved to
 recovery after direct scan checks:
@@ -290,7 +290,7 @@ part and moved to recovery because recurring corruption makes translation
 unsafe. Bounded scan-proven corrections and working recovery records are
 committed. All 19 scans of `katturaigal/udan_piranthar_1.md` are visually
 reconciled. The internal Image 14-to-15 source gap and counterpart lines 158-167
-are restored. Continue at counterpart line 168, then recover the rest of the
+are restored. Continue at counterpart line 177, then recover the rest of the
 Gaius narrative and conclusion through line 282. The complete counterpart is at
 `outputs/annavin_text_extractor/md_pages/Kurunavalgal/udanpiranthar_iruvar.md`,
 but it has independent errors. Its exact continuation join is within Part 3

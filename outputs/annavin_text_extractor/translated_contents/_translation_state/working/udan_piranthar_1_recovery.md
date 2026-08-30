@@ -4,7 +4,7 @@ Status: `in_progress`
 
 Last completed scan: `Image 19: 019-a9bf8c1094.png`
 
-Exact next recovery boundary: counterpart line 168, beginning `அண்ணன் படுகொலை செய்யப்பட்டதை எதிர்த்து ஏதும் செய்யமுடியாத நிலையில், கேயஸ் கிரேக்கஸ் இருந்தான்.`
+Exact next recovery boundary: counterpart line 177, beginning `இவனையாவது இழக்காமலிருக்க வேண்டும், என்று எண்ணி...`
 
 ## Recovery boundary
 
@@ -41,6 +41,6 @@ All 19 available images were compared directly with their scans and the local wi
 ## Completed witness recovery
 
 - The seven-paragraph Image 14-to-15 gap is restored in a separately labelled recovery block.
-- The post-Image-19 continuation is restored through counterpart line 167, ending with the refusal to release Tiberius's body to Gaius and Cornelia.
+- The post-Image-19 continuation is restored through counterpart line 176, covering Gaius's resolution to continue the struggle and Cornelia's response to Tiberius's death, ending `மற்றும் ஒரு மாணிக்கம் இருக்கிறது - கேயஸ்.`
 
-The remaining source work is witness recovery from counterpart lines 168-282: Gaius's response, career, final struggle, death, and the conclusion. Preserve its separate recovery provenance. Do not promote a bilingual file or refresh the pending count until that source recovery, the full translation and the source-retention audit are complete.
+The remaining source work is witness recovery from counterpart lines 177-282: Gaius's career, final struggle, death, and the conclusion. Preserve its separate recovery provenance. Do not promote a bilingual file or refresh the pending count until that source recovery, the full translation and the source-retention audit are complete.
