@@ -2,11 +2,11 @@
 
 - Documents considered: 2510
 - Pending content inspection: 0
-- Ready for translation: 1408
+- Ready for translation: 1407
 - Already translated: 973
-- Needs source/OCR recovery: 126
+- Needs source/OCR recovery: 127
 - Incorrect sources skipped: 3
-- Tamil to English: 1293
+- Tamil to English: 1292
 - English to Tamil: 115
 
 The source archive is never modified. Re-running this command resumes by
