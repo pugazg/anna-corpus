@@ -46,13 +46,16 @@ this handover after work resumes.
 
 ## Next Work
 
-Begin source recovery for `katturaigal/udan_piranthar_1.md`. Its 19-scan OCR
-opening ends after the death of Tiberius Gracchus, but the complete four-part
-HTML counterpart exists at `organized_contents/Kurunavalgal/udanpiranthar_iruvar.md`
-and continues through Gaius Gracchus and the conclusion. Visually reconcile the
-OCR opening against all 19 scans, determine the exact join to the counterpart,
-and recover Parts 2-4 without silently altering the scan-derived opening. There
-is no partial draft.
+Continue source recovery for `katturaigal/udan_piranthar_1.md` at Image 7
+(`007-51f2a5085f.png`). Images 1-6 have been visually reconciled and their
+scan-proven corrections are recorded in
+`translated_contents/_translation_state/working/udan_piranthar_1_recovery.md`.
+The complete witness is
+`outputs/annavin_text_extractor/md_pages/Kurunavalgal/udanpiranthar_iruvar.md`,
+but it has independent errors and must not replace the scans verbatim. The exact
+continuation join is inside counterpart Part 3, immediately after the sentence
+ending `டைபீரியசையும் கொன்றுவிட்டனர்.` Recover the remainder of Part 3 and
+Part 4 after reconciling Images 7-19.
 
 In the latest continuation, four complete but unreliable sources were moved to
 recovery after direct scan checks:
@@ -282,11 +285,13 @@ translation-ready OCR-origin works. The last two translation-ready candidates,
 `katturaigal/kambarasam.md` (127 scans), were directly checked across every
 part and moved to recovery because recurring corruption makes translation
 unsafe. Bounded scan-proven corrections and working recovery records are
-committed. Begin recovery with `katturaigal/udan_piranthar_1.md`: reconcile its
-19-scan opening, then recover the continuation from the complete counterpart at
-`organized_contents/Kurunavalgal/udanpiranthar_iruvar.md`. Record scan-proven
-OCR corrections in ocr_concerns.csv and do not translate missing or damaged
-source text by guessing.
+committed. Recovery of `katturaigal/udan_piranthar_1.md` is complete through
+Image 6; continue at Image 7. The complete counterpart is at
+`outputs/annavin_text_extractor/md_pages/Kurunavalgal/udanpiranthar_iruvar.md`,
+but it has independent errors. Its exact continuation join is within Part 3
+after the Tiberius-death sentence. Record scan-proven OCR corrections in
+ocr_concerns.csv and do not translate missing or damaged source text by
+guessing.
 
 After every single completed work, run
 python3 refresh_ocr_translation_state.py from
