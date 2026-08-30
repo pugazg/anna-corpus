@@ -4,7 +4,7 @@ Status: `source_recovery_complete_translation_in_progress`
 
 Last completed scan: `Image 19: 019-a9bf8c1094.png`
 
-Exact next translation boundary: Image 4 paragraph beginning `ஏழையர் உலகின் பெரு மூச்சுக்கு ரோம், மதிப்பளிக்க மறுத்தது...`
+Exact next translation boundary: Image 6 paragraph beginning `வையகம் வியக்கும் அறிவுக் கருவூலப் பெட்டகமென விளங்கிய கிரேக்கநாடு...`
 
 ## Recovery boundary
 
@@ -49,5 +49,5 @@ Source recovery is complete. Do not refresh the pending count until the full Eng
 ## Translation checkpoint
 
 - Draft: `manual_translation_drafts/katturaigal/udan_piranthar_1.draft`
-- Completed: Images 1-3 plus Image 4's opening Greek-Roman historical framing, ending with Rome's failure to remove practices, systems and ideas likened to venomous snakes.
+- Completed: Images 1-5, ending with Tiberius resolving to raise the poor through his service after the conquest of Carthage, Rome's mass enslavement, and the upper classes' life of luxury.
 - The draft title is `Two Brothers`; the Tamil title override is `உடன் பிறந்தார் இருவர்`.

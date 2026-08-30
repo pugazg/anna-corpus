@@ -46,8 +46,8 @@ this handover after work resumes.
 
 ## Next Work
 
-Continue the `Two Brothers` English draft at Image 4 paragraph
-`ஏழையர் உலகின் பெரு மூச்சுக்கு ரோம், மதிப்பளிக்க மறுத்தது...` The opening through Image 4's Greek-Roman poisonous-serpent framing is translated in
+Continue the `Two Brothers` English draft at Image 6 paragraph
+`வையகம் வியக்கும் அறிவுக் கருவூலப் பெட்டகமென விளங்கிய கிரேக்கநாடு...` Images 1-5 are translated in
 `manual_translation_drafts/katturaigal/udan_piranthar_1.draft`. All 19 available images have been visually reconciled and their
 scan-proven corrections are recorded in
 `translated_contents/_translation_state/working/udan_piranthar_1_recovery.md`.
