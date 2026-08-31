@@ -16,6 +16,7 @@ Canonical relationship: this is a distinct OCR-origin inventory entry containing
 - All eleven Part 3 images were checked directly against the scans. The comparison restores `(Gem Dictionary)`, `(Chambers)`, page `467`, `(Golden Age)`, `சரித்திராசிரியர்களிடமிருந்து`, the damaged Silappathikaram passage and explanation, `ஜஸ்டிஸ் கட்சி`, `கீழ் ஜாதி`, and numerous scan-absent full stops, false word breaks and character substitutions.
 - All eleven Part 4 images were checked directly against the scans. Corrections restore the `16 நாள்` reference, `ஹியூம்`, `கன்சர்வேடிவ்`, `லிபரல்`, `ஆசியா`, `ஆட்சேபிக்கிறார்கள்`, `நீதிபதிகளாகவும்`, `சட்டமாயிற்று`, quotation boundaries, and pervasive false punctuation and word breaks. The tiny printed footer on Part 4 Image 3 remains too indistinct to normalize confidently and is preserved as OCR with a separate uncertainty record.
 - Part 5 Images 1-5 were checked directly against the scans. Corrections restore the litigant `ஜானகிராமமூர்த்தி`, teacher `நீலா வெங்கடசுப்பம்மா`, judges `பாண்டுரங்கராவ்` and `சோமையா`, `ஜில்லா முன்சீப்பு`, the `சு. 178` Manu citation, inheritance clauses, and the damaged `பிராம்மணா போஜனப்பிரியா` passage.
+- Part 5 Images 6-10 were checked directly against the scans, completing Part 5 together with the previously reconciled Image 11. Corrections restore the early-Dravidian social-history quotation, `மதுரை ஜில்லா பூவருணனை`, `வித்வான்களும்`, `வடநாட்டாரை`, `நெடுஞ்சேரலாதன்`, `தூண்டியதோ`, the `100-க்கு 95` figure, and numerous damaged terms and word boundaries.
 - Part 5 Image 11 and Part 6 Image 1 were checked directly against the scans.
 - The destroyed bibliographic line for *Early Dynasties of Andhra desa* and the full quotation spanning the page boundary were restored exactly as printed.
 - All three destroyed English passages on Part 6 Image 1 were restored exactly as printed, including the source's spellings `till than`, `from`, `Budhism`, `pannel`, `proable` and `recieved`.
@@ -23,4 +24,4 @@ Canonical relationship: this is a distinct OCR-origin inventory entry containing
 
 ## Next boundary
 
-Continue at Part 5 Image 6 (`006-c0ee66c143.png`) and proceed through every scan and page join. Record every correction against the image; do not translate until all 59 scans are reconciled and the two canonical entries' linked presentation is settled.
+Continue at Part 6 Image 2 (`002-84da4889ee.png`) and proceed through every scan and page join. Record every correction against the image; do not translate until all 59 scans are reconciled and the two canonical entries' linked presentation is settled.

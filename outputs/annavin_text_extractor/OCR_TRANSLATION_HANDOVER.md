@@ -55,10 +55,9 @@ substitutions in names, dates and citations. The English quotations in Part 5
 Image 11 and Part 6 Image 1 have been recovered directly from their scans.
 Continue systematic bilingual visual reconciliation across all 59 scans, then
 present the two canonical entries as linked parts without merging their inventory identities.
-All eleven images in each of Parts 2-4, plus the quotation boundary at Part 5
-Image 11 / Part 6 Image 1, are reconciled. Part 5 Images 1-5 are also
-reconciled. Continue at Part 5 Image 6 (`006-c0ee66c143.png`). The tiny printed
-footer on Part 4 Image 3 is preserved as uncertain OCR rather than guessed.
+All eleven images in each of Parts 2-5, plus Part 6 Image 1, are reconciled.
+Continue at Part 6 Image 2 (`002-84da4889ee.png`). The tiny printed footer on
+Part 4 Image 3 is preserved as uncertain OCR rather than guessed.
 
 In the latest continuation, four complete but unreliable sources were moved to
 recovery after direct scan checks:
