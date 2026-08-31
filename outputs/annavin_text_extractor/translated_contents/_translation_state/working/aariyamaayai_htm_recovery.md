@@ -21,7 +21,8 @@ Canonical relationship: this is a distinct OCR-origin inventory entry containing
 - The destroyed bibliographic line for *Early Dynasties of Andhra desa* and the full quotation spanning the page boundary were restored exactly as printed.
 - All three destroyed English passages on Part 6 Image 1 were restored exactly as printed, including the source's spellings `till than`, `from`, `Budhism`, `pannel`, `proable` and `recieved`.
 - The scan-proven `கி.பி. 200-ல்` reading was restored at the end of Part 6 Image 1.
+- Part 6 Images 2-11 were checked directly against the scans, completing Part 6. Corrections restore `ஒப்பியல் மொழி`, the Pāṭṭiyal argument, the attribution `A.L. Saunders, C.S.I.I.C.S.`, `இந்தியர்கள் மதம்`, the `1½ மணி நேரம்` duration, the ancient-Tamil marriage discussion, and both destroyed printed `“Hospitality”` passages, along with pervasive false punctuation, damaged words and page joins.
 
 ## Next boundary
 
-Continue at Part 6 Image 2 (`002-84da4889ee.png`) and proceed through every scan and page join. Record every correction against the image; do not translate until all 59 scans are reconciled and the two canonical entries' linked presentation is settled.
+Continue at Part 7 Image 1 (`001-878756a2b7.png`) and reconcile its four scans and page joins. Record every correction against the image; do not translate until all 59 scans are reconciled and the two canonical entries' linked presentation is settled.
