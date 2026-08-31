@@ -12,6 +12,7 @@ Canonical relationship: this is a distinct OCR-origin inventory entry containing
 
 ## Completed visual recovery
 
+- Part 2 Images 1-3 were checked directly against the scans. Corrections restore `ஆண்மை`, `(Havell)`, `க்ஷேமத்துக்கு`, `கர்மானுஷ்டானங்களிலே`, `சீடரா`, `கீரல்கள்`, `மதுரகீதத்தின்`, `ஆரியம்`, and multiple scan-absent full stops and word splits.
 - Part 5 Image 11 and Part 6 Image 1 were checked directly against the scans.
 - The destroyed bibliographic line for *Early Dynasties of Andhra desa* and the full quotation spanning the page boundary were restored exactly as printed.
 - All three destroyed English passages on Part 6 Image 1 were restored exactly as printed, including the source's spellings `till than`, `from`, `Budhism`, `pannel`, `proable` and `recieved`.
@@ -19,5 +20,4 @@ Canonical relationship: this is a distinct OCR-origin inventory entry containing
 
 ## Next boundary
 
-Begin systematic reconciliation at Part 2 Image 1 (`001-8ab63ca2be.png`) and proceed through every scan and page join. Record every correction against the image; do not translate until all 59 scans are reconciled and the two canonical entries' linked presentation is settled.
-
+Continue at Part 2 Image 4 (`004-bcc92da0dc.png`) and proceed through every scan and page join. Record every correction against the image; do not translate until all 59 scans are reconciled and the two canonical entries' linked presentation is settled.
