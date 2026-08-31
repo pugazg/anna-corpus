@@ -89,7 +89,19 @@ Scan-proven corrections include:
 
 The dialogue continues directly into Part 7. No text has been supplied from context alone.
 
+### Part 7 — 12/12 scans
+
+All twelve scans in `anthikalambagam_7` were visually reconciled on 31 August 2026.
+
+Scan-proven corrections include:
+
+- Images 1–4: removed dense left-margin artifacts; restored `பூ போச்சு`, `தோணவில்லை`, continuous word joins, `கொள்ளேன்`, and the uninterrupted dialogue about Indira Gandhi, women’s rights and nudism
+- Images 5–8: reconstructed the scan-visible `இந்தக் கர்மத்தையா...? அவளுக்கு யாரோ சொன்னார்களாம்` reply; restored `ஆகிவிடறது`, `பெய்துகொண்டு`, `மனோன்மணி`, `சுற்றிக்`, `கிளப்பிவிட்டிருக்கா`, `ஒத்துக்கணுமா`, `வேப்பஞ்சீலை`, `கொள்ளணும்`, `ஒவ்வொரு`, and `மூலிகைகளுக்காகவே`
+- Images 9–12: restored `அவருக்கு`, `மூலிகைகள்`, `கருமுத்துவின்`, `ஊர்`, `பெரியபாளையத்தம்மனுக்கு`, `சுத்திக்கொண்டிருக்கிறா`, `ஆனா`, `முறை`, `வக்கீலாகிவிட்டே`, and `இருபது`; removed false punctuation and margin glyphs throughout the temple-bull legal hypothetical
+
+The building-collapse discussion continues directly into Part 8. No text has been supplied from context alone.
+
 ## Remaining
 
-- Parts 7–12: 52 scans
+- Parts 8–12: 40 scans
 - After all scans are reconciled, re-check every part join, proper name, quotation, colloquial form and closing ornament before moving the work out of source recovery.
