@@ -1,10 +1,10 @@
 # Recovery checkpoint — `katturaigal/udan_piranthar_1.md`
 
-Status: `source_recovery_complete_translation_in_progress`
+Status: `complete_bilingual_audit_passed`
 
 Last completed scan: `Image 19: 019-a9bf8c1094.png`
 
-Exact next translation boundary: recovered post-Image-19 continuation beginning `ஏழைகளின் நல்வாழ்வுக்காக உழைத்தவனை, அடித்துக் கொன்றனர்!`
+Exact next translation boundary: none; the complete work is translated through `(திராவிடநாடு - 1955)`.
 
 ## Recovery boundary
 
@@ -50,5 +50,6 @@ Source recovery is complete. Do not refresh the pending count until the full Eng
 
 - Draft: `manual_translation_drafts/katturaigal/udan_piranthar_1.draft`
 - Completed: Images 1-19 and the recovered Image 14-to-15 passage, ending with the massacre of more than three hundred supporters and the killing of Tiberius.
-- Next: translate the recovered post-Image-19 continuation (the remainder of counterpart Part 3, followed by Part 4).
+- Completed: the recovered post-Image-19 continuation (the remainder of counterpart Part 3 and Part 4), including the 1955 credit.
+- Output: `translated_contents/katturaigal/udan_piranthar_1.md`; the bilingual source-retention audit passes.
 - The draft title is `Two Brothers`; the Tamil title override is `உடன் பிறந்தார் இருவர்`.

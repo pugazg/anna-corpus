@@ -2,15 +2,15 @@
 
 This report covers only canonical OCR-origin works that do not yet have a bilingual translation file.
 
-- Total pending: **84**
-- OCR/source recovery pending: **84**
+- Total pending: **83**
+- OCR/source recovery pending: **83**
 - OCR translation pending: **0**
 
 ## Category Summary
 
 | Category | Pending |
 |---|---:|
-| katturaigal | 13 |
+| katturaigal | 12 |
 | nadagangal | 26 |
 | sorpozhivugal | 45 |
 
@@ -36,8 +36,6 @@ This report covers only canonical OCR-origin works that do not yet have a biling
   - Reason: The complete 82-scan, eight-part collection ரோமாபுரி ராணிகள் is present but not translation-safe. Direct scan comparison restored the ஜூலியஸ் subtitle, a damaged opening word, three ornament transitions, the feminine ending in அக்ரிப்பானா மாண்டாள், the Part 6 opening quotation, two மதுரகீதம் readings, கீர்த்தியைத், ஜூலியானஸ் and the final ornament. Representative scans from every part show recurring dropped and substituted Tamil, false glyphs, malformed historical names, section transitions and quotations throughout the Roman biographical narrative. Re-OCR all 82 scans and visually reconcile every title, historical name, quotation, section heading, ornament and page join before translation.
 - `katturaigal/singam_sirunari_1.md`: [website 1](http://www.annavinpadaippugal.info/katturaigal/singam_sirunari_1.htm) | [OCR Markdown](https://github.com/pugazg/anna-corpus/blob/main/outputs/annavin_text_extractor/ocr_text_corrected/katturaigal/singam_sirunari_1.md)
   - Reason: Part 1 ends mid-sentence on Image 16 while introducing New Delhi's proposed redesign; the mapped Part 2 page contains navigation only and no continuation. Never translate Part 1 alone; recover Part 2 and combine the complete article first.
-- `katturaigal/udan_piranthar_1.md`: [website 1](http://www.annavinpadaippugal.info/katturaigal/udan_piranthar_1.htm) | [OCR Markdown](https://github.com/pugazg/anna-corpus/blob/main/outputs/annavin_text_extractor/ocr_text_corrected/katturaigal/udan_piranthar_1.md)
-  - Reason: The 19-scan OCR source ends immediately after the killing of Tiberius Gracchus although the title promises two brothers. The complete four-part HTML counterpart exists at Kurunavalgal/udanpiranthar_iruvar.md and continues through Gaius Gracchus and the conclusion. Reconcile the OCR opening against the scans, then recover and merge Parts 2-4 from that counterpart before translating.
 - `katturaigal/ulaga_periyar.md`: [website 1](http://www.annavinpadaippugal.info/katturaigal/ulaga_periyar_1.html), [website 2](http://www.annavinpadaippugal.info/katturaigal/ulaga_periyar_2.html) | [OCR Markdown](https://github.com/pugazg/anna-corpus/blob/main/outputs/annavin_text_extractor/ocr_text_corrected/katturaigal/ulaga_periyar.md)
   - Reason: The complete 45-scan, two-part 8 February 1948 memorial collection உலகப் பெரியார் காந்தி is present but not translation-safe. The chronological table on Part 1 Images 2-6 has dozens of destroyed year labels and mixed-script insertions, including an entire malformed block on Image 3. Direct scan comparison corrected the printed title date, the 31 January cremation date and time, three funeral-procession figures, two malformed Tamil readings on Part 2 Image 4, and removed scan-absent garbage after the conclusion. Recurring dropped letters, substitutions, false punctuation and broken names and figures continue across both parts. Re-OCR all 45 scans and visually reconcile the complete chronology and prose before translation.
 - `katturaigal/viduthalaippor.md`: [website 1](http://www.annavinpadaippugal.info/katturaigal/viduthalaippor_1.htm), [website 2](http://www.annavinpadaippugal.info/katturaigal/viduthalaippor_2.htm), [website 3](http://www.annavinpadaippugal.info/katturaigal/viduthalaippor_3.htm) | [OCR Markdown](https://github.com/pugazg/anna-corpus/blob/main/outputs/annavin_text_extractor/ocr_text_corrected/katturaigal/viduthalaippor.md)

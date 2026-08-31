@@ -1229,7 +1229,7 @@ Total source works: 1388
 - [TRUTH COMES TRICKLING !](truth_comes_trickling.md) - pending
 - [Truth — Triumphant](truth_triumphant.md) - pending
 - [“TUCHTIGKEIT”](tuchtigkeit.md) - pending
-- [katturaigal/udan_piranthar_1](udan_piranthar_1.md) - pending
+- [katturaigal/udan_piranthar_1](udan_piranthar_1.md) - translated
 - [katturaigal/udhagayil](udhagayil.md) - translated
 - [உடுமலை வழக்கு](udumalai_vazhakku.md) - pending
 - [katturaigal/ulaga_periyar](ulaga_periyar.md) - pending
