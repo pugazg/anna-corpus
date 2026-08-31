@@ -53,7 +53,19 @@ Scan-proven corrections include:
 
 The bank-failure dialogue continues directly into Part 4. No text has been supplied from context alone.
 
+### Part 4 — 12/12 scans
+
+All twelve scans in `anthikalambagam_4` were visually reconciled on 31 August 2026.
+
+Scan-proven corrections include:
+
+- Images 1–4: restored `கேட்டிருக்கிறேன்`, the title `மீண்ட இளமை`, printed section number `5`, `ஊர் உலகமே`, `வெளிநாடுகளிலே`, and continuous dialogue punctuation
+- Images 5–8: reconstructed the scan-visible women’s-conference exchange beginning `அடி! மாதர் மகாநாட்டுக்குப்போன நீலா`; restored `'உயிர்க்காலேஜ்'`, `மகாநாட்டுக்குன்னேதான் போயிருந்தாளாம்`, `ஐநூறுகூடத்`, `பறிச்சுக்கொள்ளலாமல்லவா`, `அவதான்`, `ஆசை`, `தேடிப்`, `பேசிவிட்டிருப்பே`, and `நல்லபடிதான்`; removed scan-absent margin artifacts
+- Images 9–12: restored the quoted `'ஆகட்டும் பார்க்கலாம்'`, `மல்லியோ`, `ஆக்கிக்கொண்டோம்`, `பெற்றிருக்கிறோமா`, `என்றெல்லாம்`, `தெரிந்திருக்கிறது`, `ஆளப்போறாளாக்கும்`, `பட்டாக்`, `வக்கீலுக்குப்`, and `ஆகிவிட்டா`; repaired scan-proven punctuation without regularizing the speakers’ colloquial Tamil
+
+The three-woman dialogue continues directly into Part 5. No text has been supplied from context alone.
+
 ## Remaining
 
-- Parts 4–12: 88 scans
+- Parts 5–12: 76 scans
 - After all scans are reconciled, re-check every part join, proper name, quotation, colloquial form and closing ornament before moving the work out of source recovery.
