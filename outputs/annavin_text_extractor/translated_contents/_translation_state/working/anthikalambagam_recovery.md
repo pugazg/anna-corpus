@@ -101,7 +101,13 @@ Scan-proven corrections include:
 
 The building-collapse discussion continues directly into Part 8. No text has been supplied from context alone.
 
+### Part 8 — 4/12 scans
+
+Images 1–4 in `anthikalambagam_8` were visually reconciled on 31 August 2026.
+
+Scan-proven corrections include `ஆமா`, `வயதிலே`, `கட்டிடத்தை`, `குடி இருந்தவர்களுக்கு`, `ஒத்துக்கொள்ளுதோ`, the Egyptian-burial reading `அந்தஸ்துக்கு ஏற்றபடி`, `தோண்டுகிறார்களே`, `குரங்குகளுக்குக்`, and the Part-9 opening `கேள்விப்பட்டதும்`. Images 5–12 remain untouched in this checkpoint, and no text has been supplied from context alone.
+
 ## Remaining
 
-- Parts 8–12: 40 scans
+- Part 8 Images 5–12 and Parts 9–12: 36 scans
 - After all scans are reconciled, re-check every part join, proper name, quotation, colloquial form and closing ornament before moving the work out of source recovery.
