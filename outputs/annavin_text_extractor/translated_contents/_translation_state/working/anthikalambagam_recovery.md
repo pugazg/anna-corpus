@@ -65,7 +65,19 @@ Scan-proven corrections include:
 
 The three-woman dialogue continues directly into Part 5. No text has been supplied from context alone.
 
+### Part 5 — 12/12 scans
+
+All twelve scans in `anthikalambagam_5` were visually reconciled on 31 August 2026.
+
+Scan-proven corrections include:
+
+- Images 1–4: restored `வடாம்`, `ஊர்வலம்`, `சட்டசபையிலே`, `பேசினாளே`, the quoted `'கேஸ்'`, the section-6 opening `யாரு? பொன்னியா!`, `உளறிக்கொட்டுவதாக`, `கொடிகட்டி`, and `என்னென்னமோ`
+- Images 5–8: removed a margin glyph that split a sentence; restored `ஏற்பட்டிருக்குதா`, `போச்சே;`, `எண்ணிக்கொண்டே!`, `நம்பிக்கை`, `போய்விட்டதல்லவா`, `விட்டிருக்கணுமே`, `வடிவாளோட அப்பா`, `செய்யும்`, and `அமர்க்களமெல்லாம்`
+- Images 9–12: restored `தெரிந்துவிட்டதா`, `கல்யாணமே செய்து கொள்ளப்போவதில்லை`, `விசாரணை`, `ஆண்களுடன்`, `ஒடுக்கக்`, `ஆணும் பெண்ணும்`, `ஆனா`, `ஒரே`, `தி.மு.க`, `பேச்சு`, `சொன்னார்`, and `சமம்தானேடி`; retained the printed `100-க்கு 64` figure
+
+The political and family dialogue continues directly into Part 6. No text has been supplied from context alone.
+
 ## Remaining
 
-- Parts 5–12: 76 scans
+- Parts 6–12: 64 scans
 - After all scans are reconciled, re-check every part join, proper name, quotation, colloquial form and closing ornament before moving the work out of source recovery.
