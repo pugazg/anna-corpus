@@ -28,7 +28,20 @@ Scan-proven corrections include:
 
 The dialogue continues directly from Part 1 into Part 2. No text has been supplied from context alone.
 
+### Part 2 — 11/11 scans
+
+All eleven scans in `anthikalambagam_2` were visually reconciled on 31 August 2026.
+
+Scan-proven corrections include:
+
+- Images 1–4: repaired `மறுபடியும்`, `ஒவ்வொரு`, `எழுதப்பட்டிருக்கு`, `ஒத்துக்கொள்ளுவா`, `டில்லியிலே`, `சீமான்`, `ஆமாம்`, and the printed laugh `'களுக்'`; joined the section-2 dialogue cleanly
+- Images 5–7: restored `வர்ரேன்`, `இருமிண்டிருக்கறயே`, `கிட்டத்தட்ட`, `ஆமாம்`, `யார் கண்டார்`, and `சாமான்களெல்லாம்`; removed spurious punctuation and a trailing glyph
+- Image 8: removed multiple left-margin artifacts inserted as quotation marks, Tamil numerals and letters; restored the continuous `மனுஷாளாலேயே` medical dialogue, `பார்லிமெண்டிலே`, and `நம்ம நாட்டிலே`
+- Images 9–11: restored `தேவைப்பட்டது`, word joins and printed quotation marks around `'நட்சத்திரம்'` and `'பக்தி'`; corrected `பற்றி`
+
+The Greek-festival narrative continues directly into Part 3. No text has been supplied from context alone.
+
 ## Remaining
 
-- Parts 2–12: 111 scans
+- Parts 3–12: 100 scans
 - After all scans are reconciled, re-check every part join, proper name, quotation, colloquial form and closing ornament before moving the work out of source recovery.
