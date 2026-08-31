@@ -41,7 +41,7 @@ Total source works: 1388
 - [ஆர்.கே.எஸ். மறைவு!](aar_kae_ess_maraivu.md) - pending
 - [ஆரம்பமாயிற்று!](aarambamayitru.md) - pending
 - [ஆரியக் கடவுள்கட்கு ஓர் அறைகூவல்!](aariya_kadavutkalukku.md) - pending
-- [katturaigal/aariyamaayai.htm](aariyamaayai.htm.md) - pending
+- [katturaigal/aariyamaayai.htm](aariyamaayai.htm.md) - translated
 - [katturaigal/aariyamaayai](aariyamaayai.md) - translated
 - [ஆரிய மாயை தீர்ப்பு!](aariyamaayai_theerpu.md) - pending
 - [katturaigal/aariyar_samayam](aariyar_samayam.md) - translated
