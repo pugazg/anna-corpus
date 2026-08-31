@@ -77,7 +77,19 @@ Scan-proven corrections include:
 
 The political and family dialogue continues directly into Part 6. No text has been supplied from context alone.
 
+### Part 6 — 12/12 scans
+
+All twelve scans in `anthikalambagam_6` were visually reconciled on 31 August 2026.
+
+Scan-proven corrections include:
+
+- Images 1–4: restored `பொன்னி`, `ஆரம்பிக்கிறாளாமே`, `தகராறு`, `நடைபெறுகிற`, the continuous `பட்டு! பசப்பு வக்கீல் பாஷை பேசறா` dialogue, `கிடைக்கிற`, `குறிப்பிட்டிருக்கணும்`, `ஆமாம்`, and `ஒழித்துக்கட்டி`; removed left-margin scan artifacts
+- Images 5–8: restored `பயன்`, `கிளைக் கதையிலே`, `வெள்ளைக்காரி`, the one-crore passage and the complete ascetic dialogue, including `அடக்கினவர்கள்`, `தகராறா`, `சிரிப்பு`, `ஆனால்`, and `பார்க்காமல்`
+- Images 9–12: repaired the election dialogue and word joins; restored the printed `P.O.O.N.A` acronym and exact English expansion `Peoples' Organisation Orbit New Asia`, followed by `POONA`; restored `போட்டுக்` and `பிரோஸ் காந்தி`
+
+The dialogue continues directly into Part 7. No text has been supplied from context alone.
+
 ## Remaining
 
-- Parts 6–12: 64 scans
+- Parts 7–12: 52 scans
 - After all scans are reconciled, re-check every part join, proper name, quotation, colloquial form and closing ornament before moving the work out of source recovery.
