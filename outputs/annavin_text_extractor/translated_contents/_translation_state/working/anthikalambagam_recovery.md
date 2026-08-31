@@ -41,7 +41,19 @@ Scan-proven corrections include:
 
 The Greek-festival narrative continues directly into Part 3. No text has been supplied from context alone.
 
+### Part 3 — 12/12 scans
+
+All twelve scans in `anthikalambagam_3` were visually reconciled on 31 August 2026.
+
+Scan-proven corrections include:
+
+- Images 1–4: restored `சந்தோஷப்பட்டிருப்பாள்`, `ஒன்றுகேட்க`, `பொன்னி`, `ஏங்கிக்கொண்டிருந்த`, the quoted `'தத்து'`, `கொலைபாதகனாக`, `கிடக்கற`, `ஆசைப்பட்டு`, `மட்டுமல்ல`, and `ஆளாளுக்குக்`; repaired word joins and removed scan-absent punctuation
+- Images 5–8: restored the printed question mark after `நீ`, `விரிசல்விட்டிருக்கும்`, `அப்படிப்பட்டவர்களைத்தானா`, `அங்கே போய்`, `ஒல்லியா`, `மலேயாவிலே`, `விஷயமே`, `வேதனையாகக்கூட`, `கட்டணும்னு`, and `பெற்றுக்கொள்ளணும்னு`; retained the printed colloquial `கொழுந்தை`
+- Images 9–12: restored `இலட்சுமணசுவாமி`, the printed `ரூபாய்க்கு 31 பைசா`, `கீழே`, `தொங்கவிட்டிருப்பாள்`, `பாங்க்குக்கு`, `ஒரே`, `ஊரே`, and `நேரிடாமப்`; removed scan-absent punctuation without regularizing printed colloquial forms
+
+The bank-failure dialogue continues directly into Part 4. No text has been supplied from context alone.
+
 ## Remaining
 
-- Parts 3–12: 100 scans
+- Parts 4–12: 88 scans
 - After all scans are reconciled, re-check every part join, proper name, quotation, colloquial form and closing ornament before moving the work out of source recovery.
