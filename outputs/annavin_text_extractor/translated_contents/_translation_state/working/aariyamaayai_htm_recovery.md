@@ -22,7 +22,8 @@ Canonical relationship: this is a distinct OCR-origin inventory entry containing
 - All three destroyed English passages on Part 6 Image 1 were restored exactly as printed, including the source's spellings `till than`, `from`, `Budhism`, `pannel`, `proable` and `recieved`.
 - The scan-proven `கி.பி. 200-ல்` reading was restored at the end of Part 6 Image 1.
 - Part 6 Images 2-11 were checked directly against the scans, completing Part 6. Corrections restore `ஒப்பியல் மொழி`, the Pāṭṭiyal argument, the attribution `A.L. Saunders, C.S.I.I.C.S.`, `இந்தியர்கள் மதம்`, the `1½ மணி நேரம்` duration, the ancient-Tamil marriage discussion, and both destroyed printed `“Hospitality”` passages, along with pervasive false punctuation, damaged words and page joins.
+- All four Part 7 images were checked directly against the scans, completing all 59 scans. Corrections restore `Warm Reception` / `Cool Reception`, `உயர் திணையாயிற்று`, the Kural reading `தேவரனையர்`, `சரித்திர ஆதாரங்களையும்`, the closing appeal, `தூங்கா விளக்கென`, and the three closing ornaments. The tiny Part 7 Image 2 footer remains explicitly uncertain apart from its visible page number `470`.
 
 ## Next boundary
 
-Continue at Part 7 Image 1 (`001-878756a2b7.png`) and reconcile its four scans and page joins. Record every correction against the image; do not translate until all 59 scans are reconciled and the two canonical entries' linked presentation is settled.
+Recovery is complete. Translate the full continuation under the editorial title `ஆரிய மாயை — தொடர்ச்சி (பாகங்கள் 2–7) / The Aryan Illusion — Continuation (Parts 2–7)`, retain this canonical file as a distinct inventory entry, and link it to the separately catalogued opening rather than merging either source block.

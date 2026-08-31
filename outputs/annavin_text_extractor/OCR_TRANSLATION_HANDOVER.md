@@ -55,9 +55,10 @@ substitutions in names, dates and citations. The English quotations in Part 5
 Image 11 and Part 6 Image 1 have been recovered directly from their scans.
 Continue systematic bilingual visual reconciliation across all 59 scans, then
 present the two canonical entries as linked parts without merging their inventory identities.
-All eleven images in each of Parts 2-6 are reconciled. Continue at Part 7
-Image 1 (`001-878756a2b7.png`); four scans remain. The tiny printed footer on
-Part 4 Image 3 is preserved as uncertain OCR rather than guessed.
+All 59 scans in Parts 2-7 are reconciled. The recovery hold is resolved; build
+the linked bilingual continuation without merging its separate canonical
+identity with `aariyamaayai.md`. The tiny printed footers on Part 4 Image 3 and
+Part 7 Image 2 are preserved as uncertain OCR rather than guessed.
 
 In the latest continuation, four complete but unreliable sources were moved to
 recovery after direct scan checks:
