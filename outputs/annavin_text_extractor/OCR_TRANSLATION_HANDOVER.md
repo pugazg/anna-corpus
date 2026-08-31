@@ -46,8 +46,8 @@ this handover after work resumes.
 
 ## Next Work
 
-Continue the `Two Brothers` English draft at Image 14 beginning
-`தோல்வி - துரோகம்! - இதனை டைபீரியஸ் எதிர்ப்பார்க்கவில்லை.` Images 1-13 are translated in
+Continue the `Two Brothers` English draft at the recovered post-Image-19 continuation beginning
+`ஏழைகளின் நல்வாழ்வுக்காக உழைத்தவனை, அடித்துக் கொன்றனர்!` Images 1-19 and the recovered internal Image 14-to-15 passage are translated in
 `manual_translation_drafts/katturaigal/udan_piranthar_1.draft`. All 19 available images have been visually reconciled and their
 scan-proven corrections are recorded in
 `translated_contents/_translation_state/working/udan_piranthar_1_recovery.md`.
@@ -59,7 +59,7 @@ ending `டைபீரியசையும் கொன்றுவிட்�
 Part 4. The seven counterpart paragraphs missing between Images 14 and 15 are
 already restored in a separately labelled recovery block. The post-Image-19
 continuation is restored through counterpart line 282 and the 1955 publication
-credit. Normalized comparisons against both witness regions pass exactly.
+credit, but its English translation remains to be completed. Normalized comparisons against both witness regions pass exactly.
 
 In the latest continuation, four complete but unreliable sources were moved to
 recovery after direct scan checks:
@@ -295,7 +295,8 @@ are restored through line 282. Continue with the full English translation, then
 build and audit the bilingual document. The complete counterpart is at
 `outputs/annavin_text_extractor/md_pages/Kurunavalgal/udanpiranthar_iruvar.md`,
 but it has independent errors. Its exact continuation join is within Part 3
-after the Tiberius-death sentence. Record scan-proven OCR corrections in
+after the Tiberius-death sentence. Images 1-19 and the internal recovered gap are
+translated; continue with the recovered post-Image-19 narrative. Record scan-proven OCR corrections in
 ocr_concerns.csv and do not translate missing or damaged source text by
 guessing.
 
