@@ -48,13 +48,13 @@ this handover after work resumes.
 ## Next Work
 
 Begin recovery screening for `katturaigal/aariyamaayai.htm.md`, the first work
-in the refreshed live pending list. It is a 69-scan continuation containing
+in the refreshed live pending list. It is a 59-scan continuation containing
 Parts 2-7 of `ஆரிய மாயை`; the separately catalogued opening
 `katturaigal/aariyamaayai.md` is already translated. Its OCR has pervasive
-substitutions in names, dates and citations, and the English quotations in Part
-5 Image 11 and Part 6 Image 1 are unreadable mixed-script noise. Re-OCR and
-visually reconcile all 69 scans, then determine how the two canonical entries
-should be presented as linked parts without merging their inventory identities.
+substitutions in names, dates and citations. The English quotations in Part 5
+Image 11 and Part 6 Image 1 have been recovered directly from their scans.
+Continue systematic bilingual visual reconciliation across all 59 scans, then
+present the two canonical entries as linked parts without merging their inventory identities.
 
 In the latest continuation, four complete but unreliable sources were moved to
 recovery after direct scan checks:

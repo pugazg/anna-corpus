@@ -2030,13 +2030,13 @@
 தி.பி. 200-218 வரை ஆண்டபோது, பார்ப்பனர்களை
 வடநாட்டிலிருந்து அழைத்து, தானங்கள் பல புரிந்து யாகங்கள்
 பல நடத்தித் திராவிடத்தை ஆரியக் களமாக மாற்றினார்.
-(2. 44 கடு டரக8(406 ௦ரி கிரம்க ௦௦58. நே 8.5. கோர்ன்றக 100
-ர.க., 8.1.)
+(P. 44 Early Dynasties of Andhra desa. By B.V. Krishna Row
+M.A., B.L.,)
 
-"1]15 ரஜா 88 106005101௦ 107 ௨ 2818௭௦ 04 ராமர ஜக(10ா
-றகாார்வேபிகார$ ௦4 $ர8்ராகாக 80111675 ௦0 க்ரர்ோக 8088 11௦. (0௦ ஈ௦ம்
-ம் நடு லே. 7௦ ரணார்தூாலா6 கோர௦ 1௩ வி11 நா௦்ஷ்ரிர்டு, 84 1௦
-ர்க் ௦8 (0௦ ரள $கர்காப/க, எண௦ கரி & 18086 04 10076
+"His reign was responsible for a greatwave of immigration
+particularly of Brahmana settlers on Andhra desa from the north
+and north west. The immigrants came in all probability, at the
+invitation of the Emperor Santamula, who after a lapse of more
 
 ## Part 6: aariyamaayai.htm_6.md
 
@@ -2046,9 +2046,9 @@
 
 - Image: `katturaigal/aariyamaayai.htm_6/001-84e75de0ab.png`
 
-முற & மரு ரரேர்ளம் (1௦ 7004௦ 880111005 வம் நவாப்வப்காிு (8௦
-௦18160 வக்ஷக 8ம் க்ஹுலாசர்்க..... 1106 ௩௦ நுர்118209 076
-1௦யஈம்௦ம கறம $ோக/்ராகாக 501018 651801154௦0.”
+than a century revived the Vedic sacrifices and particularly the
+celebrated Vajabeya and Aswamedha..... Thus new villages were
+founded and Brahmana settlements established."
 
 மகாசாந்த மூலரின் மகன் வீரபுருடதத்தன் என்பவன்,
 (கி.பி. 218-239) தன் காலத்தில், ஆரிய நுழைவால் தன் நாட்டிற்கு
@@ -2063,24 +2063,24 @@
 உருவங்கள் மேற்கண்ட நூலில் படமெடுத்தும் காட்டப்பட்
 டி.ருக்கின்றன.
 
-76 11 9ர்ஷஹ்ம பத 0௦ ஐ8ூ பி1 ட்ரே க ரீ011௦00 04 4001௦
-இாவிரவார்ளா ஊம் & ௭09நர்றறனே ௦04 51௫௧ 1௩ (௦ 1௦. ௦4 11த௨ £6-
-1௦0060 146 ப்ட் ஷம் 5௦0௨௦ & (ய6 000001 (௦ இயரிப்ளா. (ற.58)
+'The Ikshavahu king who was till than a follower of vedic
+Brahmanism and a worshipper of Siva in the from of linga re-
+nounced his faith and became a true convert to Budhism. (p.58)
 
-[௩ (149 றக?! ௦6 18 & ரஜ080 (81101 ௦4 ௨ 100870 ரபகற்-
-றத லர்ஸ் [ம் ரர்ஜ்1 1௦௦1, க 5106 14028, கரம் 15 ௦10164 நூ வரு
-08004 $0றரோ(. 706 11028 ஊம் ௦ 902000 கறறகார பட ஜும் ௦1156
-இவ்வர கோம் ௦ ௭௦ன்ர்ற ௦8 148்வகாக. 16 ோவ்றுகாற
-1$ 16000௬௦௦0 7 (6௦ 180ஜ 1ஈ 6 680006 07 115 ஈப்ரர்5(0$ 8
-்ப்ஹ் பஜாம்கார் ௦7 31௧0..........
+In this pannel there is a representation of a monarch crush-
+ing with his right heel, a stone linga, which is encircled by many
+headed serpent. The linga and the serpent apparently symbolise
+Brahmanism and the worship of Mahesvara. The Brahmanism
+is denounced by the king in the presence of his ministers and
+high dignitaries of State.............
 
-1115 றா௦ஹ்1௦ (௨4 '$1ம் கற மாபகற்கக்க18' 81௩1௦0 10 மன்
-௦ 1186 ௦8 நோண்ணாகார்ண ஏண்ர்ன் ர00ர௦ம் ஜக! றழரயடி 8ம் ஈ0ர்கவ]
-பாப (16 80ஜ1த 04 ரப்த 111ப91ர்௦ப5 ரியோ $கரஸ்காரபிக (0௦ தானே, 00.
-(௦ 0608008 820." (2826 59-60)
+It is proable that 'Sri Virapurushadatha' attempted to crush
+the tide of Brahmanism which recieved great impetus and revival
+under the aegis of his illustrious father Santhamula the great, only.
+two decades ago." (page 59-60)
 
 ஆந்திராவானாலும், ஆண்டும் ஆரியப் படையெடுப்பு
-தி.பி. 200-ல் தான் வெற்றிபெற்றதென்பதும், அஞ்ஞான்றும்
+கி.பி. 200-ல் தான் வெற்றிபெற்றதென்பதும், அஞ்ஞான்றும்
 அவர்களுக்கு எதிர்ப்பு இருந்ததென்பதும், தெரிய வருகின்றது.
 திராவிட நாட்டுப் பிரிவினைக்கு, ஆந்திர வரலாறு ஆதாரம்
 பல தருகின்றது. ஆந்திரத் தோழர்கள், இதனை உணரும் நிலை
