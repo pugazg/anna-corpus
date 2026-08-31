@@ -4,7 +4,7 @@ Status: `source_recovery_complete_translation_in_progress`
 
 Last completed scan: `Image 19: 019-a9bf8c1094.png`
 
-Exact next translation boundary: Image 10 final paragraph beginning `செல்வக்குடி பிறந்தவர்கள், ஏன் இந்த போக்கிட மற்றவர்களுக்காகப் போரிடக் கிளம்புகின்றனர்!`, continuing into Image 11.
+Exact next translation boundary: Image 14 beginning `தோல்வி - துரோகம்! - இதனை டைபீரியஸ் எதிர்ப்பார்க்கவில்லை.`
 
 ## Recovery boundary
 
@@ -49,5 +49,5 @@ Source recovery is complete. Do not refresh the pending count until the full Eng
 ## Translation checkpoint
 
 - Draft: `manual_translation_drafts/katturaigal/udan_piranthar_1.draft`
-- Completed: Images 1-9 and Image 10 through the contrast between Tiberius's cool radiance and Gaius's fiery oratory; the final Image 10 paragraph is next.
+- Completed: Images 1-13, ending with Marcus Octavius's veto of Tiberius's compensated land-distribution proposal and the lords' celebration.
 - The draft title is `Two Brothers`; the Tamil title override is `உடன் பிறந்தார் இருவர்`.
