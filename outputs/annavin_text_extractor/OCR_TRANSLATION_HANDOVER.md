@@ -64,7 +64,11 @@ small batches. Do not translate unreconciled passages by context.
 Parts 1-3 are now fully reconciled directly against all 31 scans. The opening
 five doses, their quoted Kamba Ramayana verses and glosses, dialogue, section
 ornaments and page joins have been restored without context-only
-reconstruction. Recovery is 31/127 scans; continue with Part 4 Image 1.
+reconstruction. Part 4 Images 1-5 were then checked. Images 4 and 5 are exact
+duplicates, and the resulting absent page between Images 3 and 4 was recovered
+from visually checked Wikisource PDF pages 54-56 and cross-checked with Project
+Madurai; the duplicate OCR block was removed. Recovery coverage is 36/127 image
+slots (35 distinct scans plus one duplicate); continue with Part 4 Image 6.
 
 In the latest continuation, four complete but unreliable sources were moved to
 recovery after direct scan checks:
