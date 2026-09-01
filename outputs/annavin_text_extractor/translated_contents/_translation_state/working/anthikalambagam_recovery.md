@@ -135,7 +135,18 @@ Scan-proven corrections include:
 
 The family dialogue continues directly into Part 11. No text has been supplied from context alone.
 
+### Part 11 — 8/8 scans
+
+All eight scans in `anthikalambagam_11` were visually reconciled on 1 September 2026.
+
+Scan-proven corrections include:
+
+- Images 1–4: restored section `11`, `மணி`, `ஆசைப்பட்டு`, `ஏற்பட்டது`, `நினைக்கறீங்களே`, `அப்படிப்பட்டவர்கள்`, `ஐதீகம்`, `மூலமாகப் பார்த்தால்`, `பார்த்தீங்களா`, `ஊசி`, `தெரியப்படாதோ`, `ஒரே`, and `மரத்துப் போகும்படி`
+- Images 5–8: restored `பழுதாகிவிட்டிருந்தாக்கூட`, `ஓட்டடையை`, `குடைச்சல் கூட உண்டு`, `சீமையிலேடி`, `கதை!`, `கண்? மண்ணுக்கு!`, `அதற்குப் பதிலாக`, `கேள்விப்பட்டிருக்கறேன்`, `வர்றீங்க`, `முன்கோபக்காரர்`, and `போறீங்க`; repaired scan-proven dialogue closures without resolving unusual printed syntax from context
+
+The marriage dialogue continues directly into Part 12. No text has been supplied from context alone.
+
 ## Remaining
 
-- Parts 11–12: 12 scans
+- Part 12: 4 scans
 - After all scans are reconciled, re-check every part join, proper name, quotation, colloquial form and closing ornament before moving the work out of source recovery.
