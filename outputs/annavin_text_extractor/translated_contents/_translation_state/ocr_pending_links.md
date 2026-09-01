@@ -2,22 +2,20 @@
 
 This report covers only canonical OCR-origin works that do not yet have a bilingual translation file.
 
-- Total pending: **81**
-- OCR/source recovery pending: **81**
+- Total pending: **80**
+- OCR/source recovery pending: **80**
 - OCR translation pending: **0**
 
 ## Category Summary
 
 | Category | Pending |
 |---|---:|
-| katturaigal | 10 |
+| katturaigal | 9 |
 | nadagangal | 26 |
 | sorpozhivugal | 45 |
 
 ## OCR/source recovery pending
 
-- `katturaigal/ilamayil_muthumai.md`: [website 1](http://www.annavinpadaippugal.info/katturaigal/ilamayil_muthumai.htm) | [OCR Markdown](https://github.com/pugazg/anna-corpus/blob/main/outputs/annavin_text_extractor/ocr_text_corrected/katturaigal/ilamayil_muthumai.md)
-  - Reason: At least one page is absent between Images 4 and 5: Image 4 ends mid-sentence at 'பண்டிதருக்கோ, இயற்கைக்கு ஏற்றபடி', while Image 5 begins abruptly with 'கோடானுகோடி ஏழைமக்கள்'. The live webpage exposes the same broken 15-image sequence. Recover the intervening discussion of Jayaprakash Narayan before translation
 - `katturaigal/kambarasam.md`: [website 1](http://www.annavinpadaippugal.info/katturaigal/kambarasam_1.htm), [website 2](http://www.annavinpadaippugal.info/katturaigal/kambarasam_10.htm), [website 3](http://www.annavinpadaippugal.info/katturaigal/kambarasam_11.htm), [website 4](http://www.annavinpadaippugal.info/katturaigal/kambarasam_12.htm), [website 5](http://www.annavinpadaippugal.info/katturaigal/kambarasam_13.htm), [website 6](http://www.annavinpadaippugal.info/katturaigal/kambarasam_2.htm), [website 7](http://www.annavinpadaippugal.info/katturaigal/kambarasam_3.htm), [website 8](http://www.annavinpadaippugal.info/katturaigal/kambarasam_4.htm), [website 9](http://www.annavinpadaippugal.info/katturaigal/kambarasam_5.htm), [website 10](http://www.annavinpadaippugal.info/katturaigal/kambarasam_6.htm), [website 11](http://www.annavinpadaippugal.info/katturaigal/kambarasam_7.htm), [website 12](http://www.annavinpadaippugal.info/katturaigal/kambarasam_8.htm), [website 13](http://www.annavinpadaippugal.info/katturaigal/kambarasam_9.htm) | [OCR Markdown](https://github.com/pugazg/anna-corpus/blob/main/outputs/annavin_text_extractor/ocr_text_corrected/katturaigal/kambarasam.md)
   - Reason: The complete 127-scan, thirteen-part collection கம்பரசம் is present but not translation-safe. Direct scan comparison restored the opening எந்த நாட்டிலும், representative prose readings across Parts 3-5, 8, 10 and 12, several சீதை readings and the closing Pampa Ramayana summary and ornament. Representative scans from all thirteen parts show recurring dropped and substituted Tamil, damaged Kamba Ramayana verses and glosses, malformed quotations, names, dialogue and prose; several errors change the argument's meaning. Re-OCR all 127 scans and visually reconcile every verse, gloss, quotation, name, dialogue passage, ornament and page join before translation.
 - `katturaigal/latchiya_varalaru.md`: [website 1](http://www.annavinpadaippugal.info/katturaigal/latchiya_varalaru_1.htm), [website 2](http://www.annavinpadaippugal.info/katturaigal/latchiya_varalaru_2.htm), [website 3](http://www.annavinpadaippugal.info/katturaigal/latchiya_varalaru_3.htm), [website 4](http://www.annavinpadaippugal.info/katturaigal/latchiya_varalaru_4.htm), [website 5](http://www.annavinpadaippugal.info/katturaigal/latchiya_varalaru_5.htm), [website 6](http://www.annavinpadaippugal.info/katturaigal/latchiya_varalaru_6.htm) | [OCR Markdown](https://github.com/pugazg/anna-corpus/blob/main/outputs/annavin_text_extractor/ocr_text_corrected/katturaigal/latchiya_varalaru.md)

@@ -8,17 +8,17 @@ Complete all 962 canonical OCR-origin works as bilingual Markdown documents:
 
 | Category | OCR target | Translated | Pending |
 |---|---:|---:|---:|
-| katturaigal | 552 | 542 | 10 |
+| katturaigal | 552 | 543 | 9 |
 | nadagangal | 61 | 35 | 26 |
 | sirukathaigal | 108 | 108 | 0 |
 | sorpozhivugal | 241 | 196 | 45 |
-| **Total** | **962** | **881** | **81** |
+| **Total** | **962** | **882** | **80** |
 
 The authoritative live pending list is:
 
 `translated_contents/_translation_state/ocr_pending_links.md`
 
-Its current split is 81 works needing OCR/source recovery and no works whose
+Its current split is 80 works needing OCR/source recovery and no works whose
 OCR source is currently safe enough for bilingual translation. Always
 regenerate the report after completing one work; do not rely on the numbers in
 this handover after work resumes.
@@ -34,31 +34,32 @@ this handover after work resumes.
 
 ## Most Recently Completed Work
 
-`katturaigal/anthikalambagam.md` (`அந்திக்கலம்பகம்` / `Twilight Medley`) is complete.
+`katturaigal/ilamayil_muthumai.md` (`இளமையில் முதுமை!` / `Old Age in Youth!`) is complete.
 
-- All 122 scans across twelve parts were visually reconciled before translation.
+- The complete 25 January 1948 issue of `திராவிட நாடு`, vol. 6 no. 33, was
+  recovered from the Tamil Digital Library and used as the independent print witness.
+- Printed pages 8-12 prove that archive Image 4 joins directly to Image 7. Images
+  5-6 are an incomplete, unrelated Jayaprakash Narayan article and were excluded.
+- All thirteen relevant archive scans were visually reconciled before translation.
 - The corrected Tamil source is preserved verbatim in the canonical bilingual file.
-- The complete English translation was checkpointed in four-scan batches and then
-  promoted to the canonical bilingual document.
-- Difficult or period-specific terms, including `ரங்கோன் கமலம்`, the
-  `துறவி` / `தவசி` distinction, the printed POONA expansion and
-  `பொதுமறை மன்றம்`, are recorded separately rather than silently normalised.
+- The six-line parody, both Purananuru passages, the names and the printed English
+  phrase `(Over Centralisation)` were restored directly from the scans.
+- Difficult or uncertain readings including `கல்லா இளமை`, `மீரா`, `பல தேவர்`,
+  the political `அஜீரணம்` metaphor and `துரைத்தனம்` are recorded separately.
 - The bilingual source-retention audit passes with zero issues; all 15 tests pass.
-- Commit `3161b09` contains the final English-draft checkpoint; the canonical
+- Commit `570376a` contains the final English-draft checkpoint; the canonical
   completion commit follows this handover update.
-- The live pending report has been refreshed to 81 works.
+- The live pending report has been refreshed to 80 works.
 
 ## Next Work
 
-Attempt source recovery for `katturaigal/ilamayil_muthumai.md`, the first work
-in the refreshed live pending list. Its current 15-scan sequence has at least
-one page absent between Images 4 and 5: Image 4 ends mid-sentence at
-`பண்டிதருக்கோ, இயற்கைக்கு ஏற்றபடி`, while Image 5 begins abruptly with
-`கோடானுகோடி ஏழைமக்கள்`. The live webpage exposes the same broken sequence.
-Search the repository and any available external or print witnesses for the
-missing Jayaprakash Narayan discussion; do not translate across the gap by
-guessing. If it cannot be recovered safely, retain the recovery hold and move
-to the next pending OCR-origin work.
+Continue source recovery for `katturaigal/kambarasam.md`, the first work in the
+refreshed live pending list. It spans 127 scans across thirteen parts. Earlier
+representative checks established recurring corruption in prose, quoted Kamba
+Ramayana verses, glosses, names and dialogue; only bounded readings and the
+closing ornament have been restored. Reconcile every scan before translation,
+preserve every verse and gloss exactly, and checkpoint the long recovery in
+small batches. Do not translate unreconciled passages by context.
 
 In the latest continuation, four complete but unreliable sources were moved to
 recovery after direct scan checks:
@@ -101,15 +102,15 @@ translation-ready works were then screened and moved to recovery:
 - `katturaigal/kambarasam.md` (127 scans, thirteen parts): representative scans
   from every part proved recurring corruption in prose, quoted Kamba Ramayana
   verses, glosses, names and dialogue; bounded readings and the closing ornament
-  were restored. The checkpoint commit follows this handover update.
+  were restored; commit `c71d60a`.
 
-The authoritative OCR-only state is 881/962 complete, 81 pending, all 81 in
+The authoritative OCR-only state is 882/962 complete, 80 pending, all 80 in
 source recovery and zero translation-ready. All 15 tests pass and the bilingual
 audit has zero issues. Items found incomplete or unreliable must be recovered
 rather than translated by guesswork.
 
 `report_ocr_pending_links.py` recognises `No OCR text detected` markers. The
-current accurate split is 81 recovery / 0 translation, 81 total. The recovery
+current accurate split is 80 recovery / 0 translation, 80 total. The recovery
 count now correctly includes two canonical files already marked as incorrect
 sources; this is a classification correction, not a new source defect.
 

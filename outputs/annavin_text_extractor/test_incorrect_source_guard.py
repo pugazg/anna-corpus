@@ -51,7 +51,7 @@ class IncorrectSourceGuardTest(unittest.TestCase):
             recovery = {row["file"] for row in csv.DictReader(handle)}
         self.assertTrue(incorrect.isdisjoint(recovery))
 
-    def test_queue_preserves_recorded_recovery_holds(self):
+    def test_queue_preserves_recorded_holds_and_releases_recovered_work(self):
         subprocess.run(
             ["python3", str(BASE / "prepare_translation_queue.py"), "--inspect-content"],
             check=True,
@@ -63,10 +63,17 @@ class IncorrectSourceGuardTest(unittest.TestCase):
         row = rows["sorpozhivugal/sudhanthira_kaiyelu.md"]
         self.assertEqual(row["status"], "needs_source_recovery")
         self.assertEqual(row["direction"], "none")
-        missing_transition = rows["katturaigal/ilamayil_muthumai.md"]
-        self.assertEqual(missing_transition["status"], "needs_source_recovery")
-        self.assertEqual(missing_transition["direction"], "none")
-        self.assertIn("Images 4 and 5", missing_transition["reason"])
+        recovered_transition = rows["katturaigal/ilamayil_muthumai.md"]
+        self.assertEqual(recovered_transition["status"], "translated")
+        self.assertEqual(recovered_transition["direction"], "complete")
+        source = (
+            BASE / "ocr_text_corrected/katturaigal/ilamayil_muthumai.md"
+        ).read_text(encoding="utf-8")
+        self.assertIn("## Image 4:", source)
+        self.assertIn("## Image 7:", source)
+        self.assertNotIn("## Image 5:", source)
+        self.assertNotIn("## Image 6:", source)
+        self.assertLess(source.index("## Image 4:"), source.index("## Image 7:"))
 
     def test_queue_holds_unrecovered_ocr_works_with_blank_image_sections(self):
         subprocess.run(

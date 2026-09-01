@@ -393,7 +393,7 @@ Total source works: 1388
 - [katturaigal/idanthedigal](idanthedigal.md) - translated
 - [katturaigal/idathu_paatham](idathu_paatham.md) - translated
 - [katturaigal/idukki](idukki.md) - translated
-- [katturaigal/ilamayil_muthumai](ilamayil_muthumai.md) - pending
+- [katturaigal/ilamayil_muthumai](ilamayil_muthumai.md) - translated
 - [IMAGINE, PLEASE !](imagine_please.md) - pending
 - ['IN SPITE OF' IN POLITICS](in_spite_of_in_politics.md) - pending
 - [……….IN YOUR HANDS](in_your_hands.md) - pending

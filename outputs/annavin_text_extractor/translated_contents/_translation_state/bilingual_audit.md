@@ -6,7 +6,7 @@
 |---|---:|---:|---:|---:|
 | english | 1 | 1 | 1 | 0 |
 | kadithangal | 275 | 8 | 8 | 267 |
-| katturaigal | 1388 | 543 | 543 | 845 |
+| katturaigal | 1388 | 544 | 544 | 844 |
 | kavithaigal | 77 | 77 | 77 | 0 |
 | Kurunavalgal | 25 | 0 | 0 | 25 |
 | nadagangal | 62 | 35 | 35 | 27 |
@@ -15,17 +15,17 @@
 | root | 5 | 5 | 5 | 0 |
 | sirukathaigal | 109 | 108 | 108 | 1 |
 | sorpozhivugal | 537 | 196 | 196 | 341 |
-| **All included sections** | **2511** | **999** | **999** | **1512** |
+| **All included sections** | **2511** | **1000** | **1000** | **1511** |
 
 ## OCR-Origin Translation Progress
 
 | Section | OCR target | Completed | Bilingual with source retained | Pending |
 |---|---:|---:|---:|---:|
-| katturaigal | 552 | 542 | 542 | 10 |
+| katturaigal | 552 | 543 | 543 | 9 |
 | nadagangal | 61 | 35 | 35 | 26 |
 | sirukathaigal | 108 | 108 | 108 | 0 |
 | sorpozhivugal | 241 | 196 | 196 | 45 |
-| **All OCR-origin sections** | **962** | **881** | **881** | **81** |
+| **All OCR-origin sections** | **962** | **882** | **882** | **80** |
 
 ## OCR Source Recovery Status
 
@@ -72,7 +72,6 @@ A blank image section has an explicit no-text marker or no OCR body after its im
 
 ### Manually Verified Recovery Holds
 
-- `katturaigal/ilamayil_muthumai.md`: At least one page is absent between Images 4 and 5: Image 4 ends mid-sentence at 'பண்டிதருக்கோ, இயற்கைக்கு ஏற்றபடி', while Image 5 begins abruptly with 'கோடானுகோடி ஏழைமக்கள்'. The live webpage exposes the same broken 15-image sequence. Recover the intervening discussion of Jayaprakash Narayan before translation
 - `katturaigal/kambarasam.md`: The complete 127-scan, thirteen-part collection கம்பரசம் is present but not translation-safe. Direct scan comparison restored the opening எந்த நாட்டிலும், representative prose readings across Parts 3-5, 8, 10 and 12, several சீதை readings and the closing Pampa Ramayana summary and ornament. Representative scans from all thirteen parts show recurring dropped and substituted Tamil, damaged Kamba Ramayana verses and glosses, malformed quotations, names, dialogue and prose; several errors change the argument's meaning. Re-OCR all 127 scans and visually reconcile every verse, gloss, quotation, name, dialogue passage, ornament and page join before translation.
 - `katturaigal/latchiya_varalaru.md`: The complete 58-scan, six-part collection இலட்சிய வரலாறு is present but not translation-safe. Direct scan comparison corrected the printed title date from '29--6-]1947' to '29-6-1947', restored the opening 'நான்', and removed two mixed-script lines inserted on Part 5 Image 2 and Part 6 Image 6 plus a scan-absent final glyph. Recurring dropped letters, false Tamil numerals, broken words, altered names and figures and other non-lexical insertions remain from the opening through all six parts. Re-OCR all 58 scans and visually reconcile every title, date, section boundary, quotation, name, figure and page join before translation.
 - `katturaigal/nirubarin_nilai.md`: Printed pages 182-184 are absent after Image 8 (page 181); Image 9 is unrelated page 185 from an article on science, and Image 10 resumes only the final fragment of the reporter article. Recover the three missing pages and remove the misassigned scan before translation

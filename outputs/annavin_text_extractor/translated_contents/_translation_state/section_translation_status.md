@@ -8,7 +8,7 @@ Inventory source: `organized_contents/_merge_state/source_map.csv`
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
 | english | 0 | 0 | 0 | 0 | 1 | 1 | 1 | 0 | 1 | 1 | 1 | 0 |
 | kadithangal | 0 | 0 | 0 | 0 | 275 | 8 | 8 | 267 | 275 | 8 | 8 | 267 |
-| katturaigal | 552 | 542 | 542 | 10 | 836 | 1 | 1 | 835 | 1388 | 543 | 543 | 845 |
+| katturaigal | 552 | 543 | 543 | 9 | 836 | 1 | 1 | 835 | 1388 | 544 | 544 | 844 |
 | kavithaigal | 0 | 0 | 0 | 0 | 77 | 77 | 77 | 0 | 77 | 77 | 77 | 0 |
 | Kurunavalgal | 0 | 0 | 0 | 0 | 25 | 0 | 0 | 25 | 25 | 0 | 0 | 25 |
 | nadagangal | 61 | 35 | 35 | 26 | 1 | 0 | 0 | 1 | 62 | 35 | 35 | 27 |
@@ -17,13 +17,13 @@ Inventory source: `organized_contents/_merge_state/source_map.csv`
 | root | 0 | 0 | 0 | 0 | 5 | 5 | 5 | 0 | 5 | 5 | 5 | 0 |
 | sirukathaigal | 108 | 108 | 108 | 0 | 1 | 0 | 0 | 1 | 109 | 108 | 108 | 1 |
 | sorpozhivugal | 241 | 196 | 196 | 45 | 296 | 0 | 0 | 296 | 537 | 196 | 196 | 341 |
-| **All included categories** | **962** | **881** | **881** | **81** | **1549** | **118** | **118** | **1431** | **2511** | **999** | **999** | **1512** |
+| **All included categories** | **962** | **882** | **882** | **80** | **1549** | **118** | **118** | **1431** | **2511** | **1000** | **1000** | **1511** |
 
 ## Verification
 
-- All 999 completed files are bilingual and retain their organized source text exactly.
+- All 1000 completed files are bilingual and retain their organized source text exactly.
 - `Source retained` is an automated fidelity check; it does not claim character-by-character comparison against every scan.
 - Bilingual or source-retention issues: 0.
-- OCR-origin progress: 881 of 962 files translated (91.6%).
+- OCR-origin progress: 882 of 962 files translated (91.7%).
 - HTML-origin progress: 118 of 1549 files translated (7.6%).
-- Overall progress: 999 of 2511 files translated (39.8%).
+- Overall progress: 1000 of 2511 files translated (39.8%).
