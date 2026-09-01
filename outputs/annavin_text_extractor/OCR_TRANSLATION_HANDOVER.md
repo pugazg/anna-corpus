@@ -81,9 +81,13 @@ opening comparison with the நைடதம். Recovery coverage is 61/127 imag
 reconciled, including the invisible-form episode, the நீராடும் மாதர் comparison,
 the difficult நைடதம் verse cross-checked against the clearer Wikisource scan,
 the பாரதிதாசன் comparison, and the `கம்பரசம் - 2` transition. Recovery coverage
-is 71/127 image slots (70 distinct scans plus one duplicate); continue with Part
-8 Image 1. No translation has begun, and the 56 image slots in Parts 8-13 remain
-in source recovery.
+is 71/127 image slots (70 distinct scans plus one duplicate). Part 8's ten scans
+were then fully reconciled, including the rebuttal discussion, the moat simile,
+the approach to Mithila, both elephant and garland comparisons, their deliberately
+segmented verses, and the closing prose gloss. Recovery coverage is 81/127 image
+slots (80 distinct scans plus one duplicate); continue with Part 9 Image 1. No
+translation has begun, and the 46 image slots in Parts 9-13 remain in source
+recovery.
 
 In the latest continuation, four complete but unreliable sources were moved to
 recovery after direct scan checks:
