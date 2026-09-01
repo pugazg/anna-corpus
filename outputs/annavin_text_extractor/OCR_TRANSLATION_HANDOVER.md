@@ -77,9 +77,13 @@ and the Dose 8 transition. Recovery coverage is 51/127 image slots (50 distinct
 scans plus one duplicate). Part 6's ten scans were then fully reconciled,
 including the complete Godiva dialogue, both printed Tennyson excerpts and the
 opening comparison with the நைடதம். Recovery coverage is 61/127 image slots
-(60 distinct scans plus one duplicate); continue with Part 7 Image 1. No
-translation has begun, and the 66 image slots in Parts 7-13 remain in source
-recovery.
+(60 distinct scans plus one duplicate). Part 7's ten scans were then fully
+reconciled, including the invisible-form episode, the நீராடும் மாதர் comparison,
+the difficult நைடதம் verse cross-checked against the clearer Wikisource scan,
+the பாரதிதாசன் comparison, and the `கம்பரசம் - 2` transition. Recovery coverage
+is 71/127 image slots (70 distinct scans plus one duplicate); continue with Part
+8 Image 1. No translation has begun, and the 56 image slots in Parts 8-13 remain
+in source recovery.
 
 In the latest continuation, four complete but unreliable sources were moved to
 recovery after direct scan checks:
