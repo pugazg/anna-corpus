@@ -74,8 +74,12 @@ Recovery coverage is 41/127 image slots (40 distinct scans plus one duplicate);
 Part 5's ten scans were then fully reconciled, including the பந்தலிலே பாவக்கா
 folk-song passage, the குங்கும மலை and கண் கலுழி ஆறு verses with their glosses,
 and the Dose 8 transition. Recovery coverage is 51/127 image slots (50 distinct
-scans plus one duplicate); continue with Part 6 Image 1. No translation has
-begun, and the 76 image slots in Parts 6-13 remain in source recovery.
+scans plus one duplicate). Part 6's ten scans were then fully reconciled,
+including the complete Godiva dialogue, both printed Tennyson excerpts and the
+opening comparison with the நைடதம். Recovery coverage is 61/127 image slots
+(60 distinct scans plus one duplicate); continue with Part 7 Image 1. No
+translation has begun, and the 66 image slots in Parts 7-13 remain in source
+recovery.
 
 In the latest continuation, four complete but unreliable sources were moved to
 recovery after direct scan checks:
