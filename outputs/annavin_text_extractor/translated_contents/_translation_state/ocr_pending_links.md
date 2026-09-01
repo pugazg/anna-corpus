@@ -2,22 +2,20 @@
 
 This report covers only canonical OCR-origin works that do not yet have a bilingual translation file.
 
-- Total pending: **82**
-- OCR/source recovery pending: **82**
+- Total pending: **81**
+- OCR/source recovery pending: **81**
 - OCR translation pending: **0**
 
 ## Category Summary
 
 | Category | Pending |
 |---|---:|
-| katturaigal | 11 |
+| katturaigal | 10 |
 | nadagangal | 26 |
 | sorpozhivugal | 45 |
 
 ## OCR/source recovery pending
 
-- `katturaigal/anthikalambagam.md`: [website 1](http://www.annavinpadaippugal.info/katturaigal/anthikalambagam_1.htm), [website 2](http://www.annavinpadaippugal.info/katturaigal/anthikalambagam_10.htm), [website 3](http://www.annavinpadaippugal.info/katturaigal/anthikalambagam_11.htm), [website 4](http://www.annavinpadaippugal.info/katturaigal/anthikalambagam_12.htm), [website 5](http://www.annavinpadaippugal.info/katturaigal/anthikalambagam_2.htm), [website 6](http://www.annavinpadaippugal.info/katturaigal/anthikalambagam_3.htm), [website 7](http://www.annavinpadaippugal.info/katturaigal/anthikalambagam_4.htm), [website 8](http://www.annavinpadaippugal.info/katturaigal/anthikalambagam_5.htm), [website 9](http://www.annavinpadaippugal.info/katturaigal/anthikalambagam_6.htm), [website 10](http://www.annavinpadaippugal.info/katturaigal/anthikalambagam_7.htm), [website 11](http://www.annavinpadaippugal.info/katturaigal/anthikalambagam_8.htm), [website 12](http://www.annavinpadaippugal.info/katturaigal/anthikalambagam_9.htm) | [OCR Markdown](https://github.com/pugazg/anna-corpus/blob/main/outputs/annavin_text_extractor/ocr_text_corrected/katturaigal/anthikalambagam.md)
-  - Reason: The complete 12-part அந்திக்கலம்பகம் spans 122 scans and about 20,000 Tamil words. Its colloquial dialogue contains recurring OCR substitutions, spurious Tamil numerals and glyphs, broken words and damaged page transitions; direct scan checks confirmed errors on Part 4 Image 8, Part 5 Image 3 and Part 7 Image 1. Re-OCR all 122 scans and visually reconcile every dialogue turn, proper name and part boundary before producing the complete bilingual work.
 - `katturaigal/ilamayil_muthumai.md`: [website 1](http://www.annavinpadaippugal.info/katturaigal/ilamayil_muthumai.htm) | [OCR Markdown](https://github.com/pugazg/anna-corpus/blob/main/outputs/annavin_text_extractor/ocr_text_corrected/katturaigal/ilamayil_muthumai.md)
   - Reason: At least one page is absent between Images 4 and 5: Image 4 ends mid-sentence at 'பண்டிதருக்கோ, இயற்கைக்கு ஏற்றபடி', while Image 5 begins abruptly with 'கோடானுகோடி ஏழைமக்கள்'. The live webpage exposes the same broken 15-image sequence. Recover the intervening discussion of Jayaprakash Narayan before translation
 - `katturaigal/kambarasam.md`: [website 1](http://www.annavinpadaippugal.info/katturaigal/kambarasam_1.htm), [website 2](http://www.annavinpadaippugal.info/katturaigal/kambarasam_10.htm), [website 3](http://www.annavinpadaippugal.info/katturaigal/kambarasam_11.htm), [website 4](http://www.annavinpadaippugal.info/katturaigal/kambarasam_12.htm), [website 5](http://www.annavinpadaippugal.info/katturaigal/kambarasam_13.htm), [website 6](http://www.annavinpadaippugal.info/katturaigal/kambarasam_2.htm), [website 7](http://www.annavinpadaippugal.info/katturaigal/kambarasam_3.htm), [website 8](http://www.annavinpadaippugal.info/katturaigal/kambarasam_4.htm), [website 9](http://www.annavinpadaippugal.info/katturaigal/kambarasam_5.htm), [website 10](http://www.annavinpadaippugal.info/katturaigal/kambarasam_6.htm), [website 11](http://www.annavinpadaippugal.info/katturaigal/kambarasam_7.htm), [website 12](http://www.annavinpadaippugal.info/katturaigal/kambarasam_8.htm), [website 13](http://www.annavinpadaippugal.info/katturaigal/kambarasam_9.htm) | [OCR Markdown](https://github.com/pugazg/anna-corpus/blob/main/outputs/annavin_text_extractor/ocr_text_corrected/katturaigal/kambarasam.md)

@@ -1,6 +1,6 @@
 # OCR-Origin Translation Handover
 
-Updated: 2026-08-31
+Updated: 2026-09-01
 
 ## Objective
 
@@ -8,17 +8,17 @@ Complete all 962 canonical OCR-origin works as bilingual Markdown documents:
 
 | Category | OCR target | Translated | Pending |
 |---|---:|---:|---:|
-| katturaigal | 552 | 540 | 12 |
+| katturaigal | 552 | 542 | 10 |
 | nadagangal | 61 | 35 | 26 |
 | sirukathaigal | 108 | 108 | 0 |
 | sorpozhivugal | 241 | 196 | 45 |
-| **Total** | **962** | **879** | **83** |
+| **Total** | **962** | **881** | **81** |
 
 The authoritative live pending list is:
 
 `translated_contents/_translation_state/ocr_pending_links.md`
 
-Its current split is 83 works needing OCR/source recovery and no works whose
+Its current split is 81 works needing OCR/source recovery and no works whose
 OCR source is currently safe enough for bilingual translation. Always
 regenerate the report after completing one work; do not rely on the numbers in
 this handover after work resumes.
@@ -34,31 +34,31 @@ this handover after work resumes.
 
 ## Most Recently Completed Work
 
-`katturaigal/udan_piranthar_1.md` (`உடன் பிறந்தார் இருவர்` / `Two Brothers`) is complete.
+`katturaigal/anthikalambagam.md` (`அந்திக்கலம்பகம்` / `Twilight Medley`) is complete.
 
-- All 19 available scans were visually reconciled, including an internal gap
-  between Images 14 and 15.
-- The complete local counterpart was used as a separately labelled recovery
-  witness for that gap and the post-Image-19 Gaius Gracchus continuation; its
-  independent errors were not substituted for scan-visible Tamil.
-- The complete four-part work was translated and promoted from its checkpointed draft.
-- The bilingual source-retention audit passes.
-- The live pending report has been refreshed to 83 works.
+- All 122 scans across twelve parts were visually reconciled before translation.
+- The corrected Tamil source is preserved verbatim in the canonical bilingual file.
+- The complete English translation was checkpointed in four-scan batches and then
+  promoted to the canonical bilingual document.
+- Difficult or period-specific terms, including `ரங்கோன் கமலம்`, the
+  `துறவி` / `தவசி` distinction, the printed POONA expansion and
+  `பொதுமறை மன்றம்`, are recorded separately rather than silently normalised.
+- The bilingual source-retention audit passes with zero issues; all 15 tests pass.
+- Commit `3161b09` contains the final English-draft checkpoint; the canonical
+  completion commit follows this handover update.
+- The live pending report has been refreshed to 81 works.
 
 ## Next Work
 
-Begin recovery screening for `katturaigal/aariyamaayai.htm.md`, the first work
-in the refreshed live pending list. It is a 59-scan continuation containing
-Parts 2-7 of `ஆரிய மாயை`; the separately catalogued opening
-`katturaigal/aariyamaayai.md` is already translated. Its OCR has pervasive
-substitutions in names, dates and citations. The English quotations in Part 5
-Image 11 and Part 6 Image 1 have been recovered directly from their scans.
-Continue systematic bilingual visual reconciliation across all 59 scans, then
-present the two canonical entries as linked parts without merging their inventory identities.
-All 59 scans in Parts 2-7 are reconciled. The recovery hold is resolved; build
-the linked bilingual continuation without merging its separate canonical
-identity with `aariyamaayai.md`. The tiny printed footers on Part 4 Image 3 and
-Part 7 Image 2 are preserved as uncertain OCR rather than guessed.
+Attempt source recovery for `katturaigal/ilamayil_muthumai.md`, the first work
+in the refreshed live pending list. Its current 15-scan sequence has at least
+one page absent between Images 4 and 5: Image 4 ends mid-sentence at
+`பண்டிதருக்கோ, இயற்கைக்கு ஏற்றபடி`, while Image 5 begins abruptly with
+`கோடானுகோடி ஏழைமக்கள்`. The live webpage exposes the same broken sequence.
+Search the repository and any available external or print witnesses for the
+missing Jayaprakash Narayan discussion; do not translate across the gap by
+guessing. If it cannot be recovered safely, retain the recovery hold and move
+to the next pending OCR-origin work.
 
 In the latest continuation, four complete but unreliable sources were moved to
 recovery after direct scan checks:
@@ -103,13 +103,13 @@ translation-ready works were then screened and moved to recovery:
   verses, glosses, names and dialogue; bounded readings and the closing ornament
   were restored. The checkpoint commit follows this handover update.
 
-The authoritative OCR-only state is 879/962 complete, 83 pending, all 83 in
+The authoritative OCR-only state is 881/962 complete, 81 pending, all 81 in
 source recovery and zero translation-ready. All 15 tests pass and the bilingual
 audit has zero issues. Items found incomplete or unreliable must be recovered
 rather than translated by guesswork.
 
 `report_ocr_pending_links.py` recognises `No OCR text detected` markers. The
-current accurate split is 83 recovery / 0 translation, 83 total. The recovery
+current accurate split is 81 recovery / 0 translation, 81 total. The recovery
 count now correctly includes two canonical files already marked as incorrect
 sources; this is a classification correction, not a new source defect.
 
@@ -281,23 +281,17 @@ organized_contents/_merge_state/source_map.csv as the canonical inventory and
 translated_contents/_translation_state/ocr_pending_links.md as the live pending
 list. Do not mix HTML-origin queue counts into OCR-origin progress.
 
-The authoritative OCR-only state is 879/962 complete and 83 pending. All 83
+The authoritative OCR-only state is 881/962 complete and 81 pending. All 81
 pending works require OCR or source recovery; there are currently no
-translation-ready OCR-origin works. The last two translation-ready candidates,
-`katturaigal/romapuri_ranigal.md` (82 scans) and
-`katturaigal/kambarasam.md` (127 scans), were directly checked across every
-part and moved to recovery because recurring corruption makes translation
-unsafe. Bounded scan-proven corrections and working recovery records are
-committed. All 19 scans of `katturaigal/udan_piranthar_1.md` are visually
-reconciled. The internal Image 14-to-15 source gap and counterpart lines 158-167
-are restored through line 282. Continue with the full English translation, then
-build and audit the bilingual document. The complete counterpart is at
-`outputs/annavin_text_extractor/md_pages/Kurunavalgal/udanpiranthar_iruvar.md`,
-but it has independent errors. Its exact continuation join is within Part 3
-after the Tiberius-death sentence. The complete recovered work is translated and
-passes the audit. Record scan-proven OCR corrections in
-ocr_concerns.csv and do not translate missing or damaged source text by
-guessing.
+translation-ready OCR-origin works. `katturaigal/anthikalambagam.md` is the most
+recently completed work: all 122 scans across twelve parts were visually
+reconciled, the complete dialogue collection was translated as `Twilight
+Medley`, and the bilingual audit passes. Screen
+`katturaigal/ilamayil_muthumai.md` next. Its current 15-scan sequence is missing
+at least one page between Images 4 and 5, and the live webpage has the same gap.
+Search for a reliable recovery witness for the missing Jayaprakash Narayan
+discussion. Record scan-proven OCR corrections in ocr_concerns.csv and do not
+translate missing or damaged source text by guessing.
 
 After every single completed work, run
 python3 refresh_ocr_translation_state.py from

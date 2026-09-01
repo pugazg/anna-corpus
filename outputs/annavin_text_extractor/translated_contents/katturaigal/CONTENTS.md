@@ -143,7 +143,7 @@ Total source works: 1388
 - [katturaigal/anthamaan](anthamaan.md) - translated
 - [katturaigal/anthanalukkaga](anthanalukkaga.md) - translated
 - [அந்தராத்மாவே அவருக்குக் கூறு!](antharathmavae_avarukku.md) - pending
-- [katturaigal/anthikalambagam](anthikalambagam.md) - pending
+- [katturaigal/anthikalambagam](anthikalambagam.md) - translated
 - [katturaigal/anthiya_kaalam](anthiya_kaalam.md) - translated
 - [அந்தோ நெஞ்சு வேகிறது!](antho_nenchu_vegirathu.md) - pending
 - [katturaigal/anugundu](anugundu.md) - translated
