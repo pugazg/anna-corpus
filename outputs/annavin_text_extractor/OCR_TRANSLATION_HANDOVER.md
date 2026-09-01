@@ -85,9 +85,14 @@ is 71/127 image slots (70 distinct scans plus one duplicate). Part 8's ten scans
 were then fully reconciled, including the rebuttal discussion, the moat simile,
 the approach to Mithila, both elephant and garland comparisons, their deliberately
 segmented verses, and the closing prose gloss. Recovery coverage is 81/127 image
-slots (80 distinct scans plus one duplicate); continue with Part 9 Image 1. No
-translation has begun, and the 46 image slots in Parts 9-13 remain in source
-recovery.
+slots (80 distinct scans plus one duplicate). Part 9's ten scans were then fully
+reconciled, including the gambling discussion, the மலைமிசை comparison, the
+procession verse and prose, the quoted young-men-and-women scenes, and the closing
+water-play passage. Difficult compressed verses were cross-checked against
+Wikisource without replacing Anna's printed wording or lineation. Recovery
+coverage is 91/127 image slots (90 distinct scans plus one duplicate); continue
+with Part 10 Image 1. No translation has begun, and the 36 image slots in Parts
+10-13 remain in source recovery.
 
 In the latest continuation, four complete but unreliable sources were moved to
 recovery after direct scan checks:
