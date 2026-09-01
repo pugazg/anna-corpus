@@ -71,7 +71,11 @@ Madurai; the duplicate OCR block was removed. Recovery coverage is 36/127 image
 slots (35 distinct scans plus one duplicate). The remaining five Part 4 scans
 were then fully reconciled, including the செவிலி மங்கையர் and X-ray passages.
 Recovery coverage is 41/127 image slots (40 distinct scans plus one duplicate);
-continue with Part 5 Image 1.
+Part 5's ten scans were then fully reconciled, including the பந்தலிலே பாவக்கா
+folk-song passage, the குங்கும மலை and கண் கலுழி ஆறு verses with their glosses,
+and the Dose 8 transition. Recovery coverage is 51/127 image slots (50 distinct
+scans plus one duplicate); continue with Part 6 Image 1. No translation has
+begun, and the 76 image slots in Parts 6-13 remain in source recovery.
 
 In the latest continuation, four complete but unreliable sources were moved to
 recovery after direct scan checks:
