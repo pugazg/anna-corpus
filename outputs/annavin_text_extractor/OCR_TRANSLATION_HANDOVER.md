@@ -90,9 +90,14 @@ reconciled, including the gambling discussion, the மலைமிசை compari
 procession verse and prose, the quoted young-men-and-women scenes, and the closing
 water-play passage. Difficult compressed verses were cross-checked against
 Wikisource without replacing Anna's printed wording or lineation. Recovery
-coverage is 91/127 image slots (90 distinct scans plus one duplicate); continue
-with Part 10 Image 1. No translation has begun, and the 36 image slots in Parts
-10-13 remain in source recovery.
+coverage is 91/127 image slots (90 distinct scans plus one duplicate). Part 10's
+ten scans were then fully reconciled, including the concluding water-play
+discussion, the drinking scenes, the printed `(Blood)` intervention, the
+compressed நறை கமழலங்கல் verse and gloss, the closing sound catalogue, and the
+opening of `கம்பர் “விழா”`. Recovery coverage is 101/127 image slots (100
+distinct scans plus one duplicate); continue with Part 11 Image 1. No
+translation has begun, and the 26 image slots in Parts 11-13 remain in source
+recovery.
 
 In the latest continuation, four complete but unreliable sources were moved to
 recovery after direct scan checks:
