@@ -146,7 +146,18 @@ Scan-proven corrections include:
 
 The marriage dialogue continues directly into Part 12. No text has been supplied from context alone.
 
-## Remaining
+### Part 12 — 4/4 scans
 
-- Part 12: 4 scans
-- After all scans are reconciled, re-check every part join, proper name, quotation, colloquial form and closing ornament before moving the work out of source recovery.
+All four scans in `anthikalambagam_12` were visually reconciled on 1 September 2026.
+
+Scan-proven corrections include:
+
+- Images 1–2: restored `பட்டு`, `கட்சி மாறிப் போறா`, `கிடையாது`, `பெரியப்பாவோட`, `ஒப்புக்கொள்வாரோ`, `சவுக்கடி கொடுக்கமுடியும்`, `விட்டுவைக்கிறேன்`, `சாந்தப்படுத்த ஏதாவது`, and `நிற்கறீங்க`; removed a false margin glyph
+- Images 3–4: restored `வக்கீலம்மா`, `வேண்டுமென்றே`, `ஏற்படுத்தினார்கள்`, `வக்கீல் தொழிலை`, `வேடிக்கைக்கு`, `ஏற்படும்படி செய்தால்`, `போச்சுடி பட்டு`, and the scan-printed final three-ornament row
+
+Part 12 closes the collection. No text has been supplied from context alone.
+
+## Source recovery complete
+
+- All 122 scans across Parts 1–12 have been visually reconciled.
+- Before bilingual completion, re-check every part join, proper name, quotation, colloquial form and the closing ornament, then translate only this corrected Tamil source.
