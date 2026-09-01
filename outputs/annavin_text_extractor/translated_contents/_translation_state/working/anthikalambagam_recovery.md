@@ -124,7 +124,18 @@ Scan-proven corrections include:
 
 The family dialogue continues directly into Part 10. No text has been supplied from context alone.
 
+### Part 10 — 8/8 scans
+
+All eight scans in `anthikalambagam_10` were visually reconciled on 1 September 2026.
+
+Scan-proven corrections include:
+
+- Images 1–4: restored `பட்டு அவனிடம்`, `வக்கீல்டி`, `வியாக்கியானம்`, `ஜட்ஜ்மாதிரி`, `ஜட்ஜ்கள்`, `புரிகிறமாதிரியாப் பேசத்`, `ஒன்றும்`, `அடிதடிச் சண்டைதானே`, `புதுப்புதுச் சட்ட நுணுக்கமெல்லாம்`, and continuous dialogue punctuation
+- Images 5–8: restored `புத்தகத்துக்குத்`, `சீமாட்டியின்`, `படித்தேனே`, `ஜூரர்களிடம்`, `ஜூரர்கள்`, `சம்பந்தப்பட்ட கதை`, `கேட்கிறியா`, `அவன் போகிறான்`, `காட்டுறீங்களா`, and `பயப்படாதீங்க`; removed scan-absent artifacts while retaining printed colloquial and unusual forms such as `பாட்டு!`, `கொடுத்தாளோ!!`, and `விட்டயே`
+
+The family dialogue continues directly into Part 11. No text has been supplied from context alone.
+
 ## Remaining
 
-- Parts 10–12: 20 scans
+- Parts 11–12: 12 scans
 - After all scans are reconciled, re-check every part join, proper name, quotation, colloquial form and closing ornament before moving the work out of source recovery.
