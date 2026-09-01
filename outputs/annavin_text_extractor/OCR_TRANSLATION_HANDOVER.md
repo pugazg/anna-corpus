@@ -68,7 +68,10 @@ reconstruction. Part 4 Images 1-5 were then checked. Images 4 and 5 are exact
 duplicates, and the resulting absent page between Images 3 and 4 was recovered
 from visually checked Wikisource PDF pages 54-56 and cross-checked with Project
 Madurai; the duplicate OCR block was removed. Recovery coverage is 36/127 image
-slots (35 distinct scans plus one duplicate); continue with Part 4 Image 6.
+slots (35 distinct scans plus one duplicate). The remaining five Part 4 scans
+were then fully reconciled, including the செவிலி மங்கையர் and X-ray passages.
+Recovery coverage is 41/127 image slots (40 distinct scans plus one duplicate);
+continue with Part 5 Image 1.
 
 In the latest continuation, four complete but unreliable sources were moved to
 recovery after direct scan checks:
