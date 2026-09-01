@@ -61,6 +61,11 @@ closing ornament have been restored. Reconcile every scan before translation,
 preserve every verse and gloss exactly, and checkpoint the long recovery in
 small batches. Do not translate unreconciled passages by context.
 
+Parts 1 and 2 are now fully reconciled directly against all 21 scans. The
+opening two doses, their quoted Kamba Ramayana verses and glosses, dialogue,
+section ornaments and page joins have been restored without context-only
+reconstruction. Recovery is 21/127 scans; continue with Part 3 Image 1.
+
 In the latest continuation, four complete but unreliable sources were moved to
 recovery after direct scan checks:
 
