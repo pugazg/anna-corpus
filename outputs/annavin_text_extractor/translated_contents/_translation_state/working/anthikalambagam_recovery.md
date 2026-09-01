@@ -113,7 +113,18 @@ Scan-proven corrections include:
 
 The street-disturbance dialogue continues directly into Part 9. No text has been supplied from context alone.
 
+### Part 9 — 8/8 scans
+
+All eight scans in `anthikalambagam_9` were visually reconciled on 1 September 2026.
+
+Scan-proven corrections include:
+
+- Images 1–4: restored `விரட்டிக்கொண்டு`, `பெரியவாளெல்லாம்`, `அவாளவாளுக்கு`, `பஜித்துக் கொண்டு`, `குடி இருந்து`, `வக்கீல்`, `எந்த ஒரு`, `ஆமாம்`, `கடைவீதியில்`, and the continuous `உலாவினார்கள்` market-street passage; removed scan-absent punctuation and false Latin glyphs
+- Images 5–8: restored the printed `ராகம்!`, `கேவலப்படுத்துகிறார்கள்`, `பஜனையா அது?`, `நடத்துகிறார்களாமே`, `போவோம்`, `ஒரே`, `கண்டுவிட்டீர்கள்`, `பொன்னி`, `சுற்றிவளைச்சிப்`, `கவனிக்கவில்லையா`, and `பேசிக்கொண்டிருக்கணும்`; preserved the scan’s quoted-dialogue structure and the section-10 opening
+
+The family dialogue continues directly into Part 10. No text has been supplied from context alone.
+
 ## Remaining
 
-- Parts 9–12: 28 scans
+- Parts 10–12: 20 scans
 - After all scans are reconciled, re-check every part join, proper name, quotation, colloquial form and closing ornament before moving the work out of source recovery.
