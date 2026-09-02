@@ -95,9 +95,13 @@ ten scans were then fully reconciled, including the concluding water-play
 discussion, the drinking scenes, the printed `(Blood)` intervention, the
 compressed நறை கமழலங்கல் verse and gloss, the closing sound catalogue, and the
 opening of `கம்பர் “விழா”`. Recovery coverage is 101/127 image slots (100
-distinct scans plus one duplicate); continue with Part 11 Image 1. No
-translation has begun, and the 26 image slots in Parts 11-13 remain in source
-recovery.
+distinct scans plus one duplicate). Part 11's ten scans were then fully reconciled, including
+the `கம்பர் “விழா”` discussion, the omitted `விட்டான்` dialogue ending, the
+journey-to-a-wedding scenes, the nested colloquial drinking dialogue, the
+`பூக்கம ழோதியர்` verse and gloss, and the closing `மின்னென நுடங்குகின்ற` verse.
+Recovery coverage is 111/127 image slots (110 distinct scans plus one duplicate);
+continue with Part 12 Image 1. No translation has begun, and the 16 image slots
+in Parts 12-13 remain in source recovery.
 
 In the latest continuation, four complete but unreliable sources were moved to
 recovery after direct scan checks:
