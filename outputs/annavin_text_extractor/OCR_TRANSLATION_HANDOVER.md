@@ -99,9 +99,16 @@ distinct scans plus one duplicate). Part 11's ten scans were then fully reconcil
 the `கம்பர் “விழா”` discussion, the omitted `விட்டான்` dialogue ending, the
 journey-to-a-wedding scenes, the nested colloquial drinking dialogue, the
 `பூக்கம ழோதியர்` verse and gloss, and the closing `மின்னென நுடங்குகின்ற` verse.
-Recovery coverage is 111/127 image slots (110 distinct scans plus one duplicate);
-continue with Part 12 Image 1. No translation has begun, and the 16 image slots
-in Parts 12-13 remain in source recovery.
+Recovery coverage is 111/127 image slots (110 distinct scans plus one duplicate).
+Part 12's ten scans were then fully reconciled, including the embedded `பம்ப
+இராமாயணம்` essay, the complete train-ticket episode, the comparison of the
+Kamba and Pampa Ramayanas, and the opening Pampa narrative through Narada's
+warning to Dasaratha. Unusual scan readings such as `மறைவிடத் தருகே`, the
+quotation boundary in `“விசுவாசிகளுக்"குக்`, `அண்ணனைத்தடுத்து`, and `என்ற
+கேள்விப்படும்போது` were retained without normalization. Recovery coverage is
+121/127 image slots (120 distinct scans plus one duplicate); continue with Part
+13 Image 1. No translation has begun, and the six Part 13 image slots remain in
+source recovery.
 
 In the latest continuation, four complete but unreliable sources were moved to
 recovery after direct scan checks:
