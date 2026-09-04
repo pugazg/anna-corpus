@@ -1,8 +1,8 @@
 # Kamban’s Nectar
 Tamil title: கம்பரசம்
 <!--
-Translation checkpoint: Part 2, Image 6 complete.
-Next source boundary: Part 2, Image 7 (007-a2f3cd24f9.png), beginning “தப்பின்றிப்”.
+Translation checkpoint: Part 2 complete through Image 10.
+Next source boundary: Part 3, Image 1 (001-ae74f6609f.png), beginning “மங்கையின்”.
 Canonical bilingual output has not been built; pending counts must remain unchanged.
 -->
 
@@ -191,3 +191,35 @@ How tormented the pitiable Hanuman’s predicament must have been! Merely enduri
 > I would choose young, red coconuts;
 > I would call them twin clusters of pure areca fruit;
 > I would speak of elephant tusks—
+
+> or the flawless *chakravaka* birds that come by day.
+> I find no equal anywhere in the world;
+> I think of many things and still I am tormented.”
+
+“My wife is a surpassing beauty! I search and search for a simile for her breasts, but nothing is suitable. Nothing in the world equals them. What am I to do?” Rama laments. “Are they golden caskets and ritual pots?” “Are they tender red coconuts?” He searches for similes for his wife’s breasts and suffers. And he tells this to Hanuman—to a servant, devotee, *bhagavata* and master of Veda and shastra! A devotee suited to his Lord; a Lord suited to his devotee! A story suited to its poet; a poet suited to his story! Relish suited to its vessel; a vessel suited to its relish! Such is Kamban’s nectar, comrades! Those who drink it, they say, will go to the supreme abode.
+
+“Many universes are visible here, brother; Adisesha is sleeping close by, brother”—so sings the drunkard! Like an inebriate who wanders through many halls under the magnificence of liquor, those who drink Kamban’s nectar become inhabitants of the realm of desire and revel there. Consequently they trumpet, “Whatever fault anyone may allege, we will never abandon our Kamban.” Who can know the pleasure they have found,
+
+comrades!!!
+
+In describing the earth as a maiden, poets have displayed their skill in verse, beautifully portraying mountains and valleys and delighting our people. Kamban, however, has no equal in joyfully and voluptuously describing bodily parts after abolishing the distinction between the earth-maiden and an actual maiden. One may say that there is no supreme *bhagavata* other than Kamban who photographs the hollows and mounds of women and displays them! He is unconcerned even about whom he depicts, or on what occasion; when he sees one, he will not let her go without coating her in his poetic skill and delighting in it. Whether she is a goddess, a demoness, a chief queen or a rishi’s wife—if only she is a woman, then at once... I do not know whether the true Kamban’s mouth begins to water or his emotions begin to well up! He starts describing every one of her parts. Only in moments of dalliance? No! He does not hesitate to insert this characteristic even into a description of a house of mourning.
+
+Some scholars rejoice that Kamban, who understood the excellence of the *Kural*, inserted it at many places in his sacred story “like diamonds set into a sheet of gold.” To bring delight to others too, they conduct research and prepare tables showing all the places where the *Kural* appears in the *Kamba Ramayana*. I offer them a small suggestion. To determine whether Kamban’s regard for the *Kural* was greater or his infatuation with women’s breasts, I ask them to spend their leisure counting the places and the delight with which he describes that “mound” in his verse, and then compare the result with his use of the *Kural*. Many poets have seen and described mountains and mountain peaks; but who other than Kamban swelled with joy by comparing them to a woman’s parts? That question too deserves our friends’ research.
+
+* * *
+
+### Dose No. 4
+
+“It is sweet enough. But once it goes inside, Kamban’s nectar stabs the very heart, Bharata. What new torment is this, man? Burn us and have done with it! We do not want this method of slow torture,” said a friend who cares both for art and for transforming the condition of the people, after drinking Kamban’s nectar. He does not know that my own condition is the same. Literature is necessary for awakening. My grievance, however, is that this literature—the epics and the rest—is used to turn the very people who drink it into grinning fools and into bearers of the feet of a group that lives by deceiving them.
+
+Why should I alone fail to feel delight when poets portray the beauty of nature and the loveliness of a young woman? Am I a statue? I am a man in whom every emotion is fully present! But sorrow that this relishable condition is killing our people makes me prepare a few more measures of Kamban’s nectar. I ask only those able to bear it to use it. It is rather pungent because of the special character of the herb, not because of anything special in our method of compounding it!
+
+Kamban discovered erotic relish in abundance. When I read some of his verses, they make me wonder whether he composed them while strolling along a riverbank, seeing half-naked women, feeling a spring of delight rise within him, and using it to picture the incomparable marks of earthly pleasure. No one need doubt that Kamban spent his leisure beside a riverbank or pond, or beside one of the charming little canals built in palaces by kings of that time for water play! There is only one question: was the sight that seized his eye and disturbed his thought during those moments half-naked or wholly naked? That alone remains to be doubted. Had Kamban not been such a man of experience and pleasure, he could not have been the sole eminent poet to take what every other poet referred to only covertly—a hidden place—and, swelling with delight, photograph it, embellish it until art’s filigree shone, and display it in the story of God’s sacred incarnation. There are many old songs about the friendship that has long existed between poverty and masters of art.
+
+I have read of a poet who conveyed the news that the scorpion of destitution had stung his household by saying: “The child grasps and tugs a milkless breast, and when no milk comes, looks at its mother and cries; the mother looks at my face and cries; O king, I have come looking at yours.” Kamban does not seem to have had so close a relationship with poverty. History does not clearly reveal the relationship he had with women. But if one gathers and arranges the experiences poured out by the spring of his mouth, one can roughly infer—ah!—with how many varieties of fish-eyed women bearing all kinds of bodily marks he sported, scooped up poetic relish and poured it into his work. Only roughly: if it were all revealed, we would be left gasping, exclaiming over and over, “Alas, alas, alas, alas! Was this poet such a sensualist?” One would lose one’s breath. So much lies pooled in his poetry.
+
+There is, it seems, a saying in the *Gita*: “In whatever form each person wishes to see me, in that very form I reveal myself to them all.” Champions of devotion say that to the eyes of devotees every object appears as the form of the Lord they worship. Accordingly, they have depicted the Lord in forms extending from that of a woman to that of a dog. “Atheist! I shall cut out your tongue! Do you call the Lord a dog?” Do not grow angry with me, true devotees! I merely repeated what the theistic faithful themselves say: from the female form in which Mahavishnu came as Mohini down to the dog form in which Bhairava appeared, all are forms of the Lord. Nothing more.
+
+If this is the disposition of devotees, what is the disposition of the poet Kamban? Whatever object he sees, whatever scene he beholds—be it a hill, a tender shoot, an indragopa insect, or any scene in nature at all—everything reaches a state in which it reminds him only of women’s bodily parts. There is no use asking me why. He is not here. But you have time to think; think it over. If seeing every object as our Lord is devotion, what is that condition in which every object brings only women’s parts to mind? There are many names—lust, woman-madness, infatuation, the intoxication of yearning in separation. Choose whichever fits, comrades!
+
+Must it be a woman’s breasts that come to the poet’s mind the moment he sees a mountain? That mountain peak—
