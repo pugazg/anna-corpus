@@ -1,8 +1,8 @@
 # Kamban’s Nectar
 Tamil title: கம்பரசம்
 <!--
-Translation checkpoint: Part 5, Image 3 complete.
-Next source boundary: Part 5, Image 4 (004-9c3712895f.png), beginning “கண்ணை மூடிக்கொண்டு”.
+Translation checkpoint: Part 5, Image 6 complete.
+Next source boundary: Part 5, Image 7 (007-6044d04fdb.png), beginning “வர்ணித்திடும்”.
 Canonical bilingual output has not been built; pending counts must remain unchanged.
 -->
 
@@ -543,3 +543,28 @@ They came to share the grief! A funeral lament!! And within it, a conspiracy to 
 Thus all three, while weeping, also stated what had arisen in their minds. I say the two women who went to that house of mourning were far better. Why? To see grief, Kamban goes to a grove adjoining Ayodhya where he ought properly to observe the people’s sorrow. Yet even after going there, even at that moment, he sees and cries out only about the excellence of the upper and hidden regions that make him melt again and again whenever he thinks of them.
 
 Like the ladies who planned amid their sobs to pluck the bitter gourd, Kamban pours his erotic liquor into the vessel of poetry amid sorrow itself. Our precious connoisseurs of art find it sweet! In the manner of people who remove a fly or ant fallen into a drinking vessel and then consume its contents, some said it was better to make a few corrections, as our friend T. K. Chidambaranatha Mudaliar did, and then drink.
+
+“One must close one’s eyes and suck from the vessel, my friend; only then will the relish be complete,” others say. As for us, merely going in the direction of that vessel leaves us reeling when its foul stench strikes.
+
+Even in a place where one ought to see tearful eyes, running noses, loosened hair and weary faces, Kamban beholds that upper region—formed so seductively that one wonders whether it is a golden pot or a tender red coconut that dispels sorrow—and sings a sacred *antati* in its praise. Let learning remain; I ask only whether it must violate every rule determining what belongs on each occasion.
+
+When Kamban goes to the grove and gives a “close-up” of Ayodhya’s grieving people, he shows the upper regions resembling young coconuts and buds. Nor does he forget to show that children were drinking milk from their mothers and kneading their breasts. Look at the last line of verse 13 in the Embalming chapter of the Ayodhya Kanda.
+
+It contains the phrase, “young women slept as their children stroked their breasts.” Look at verse 15: he says, “breasts measuring out fragrance.” Look at verse 16. Dust had settled upon the upper regions of sleeping women, it seems. Unable to leave even that unsaid, Kamban declares:
+
+> As though cool dew had gathered
+> upon a mountain of saffron,
+> some women slept with dust
+> settled upon their lofty breasts.
+
+Examine the meaning. “Some”—some women; “a saffron mountain”—a mountain filled with saffron flowers; “as though cool dew had gathered”—as though cold dew had settled upon it; “upon lofty breasts”—upon their full breasts; “dust settled”—with dust lying upon them; “slept”—lay sleeping. Those women had cried themselves weary and closed their eyes in grief that beautiful Rama was going to the wilderness with radiant Sita after losing his kingdom, and wondering how they would suffer for fourteen years. Kamban, however, thinks another such chance may be hard to obtain if he misses this one. He closely observes the dust settled upon the upper regions of the sleeping women, reflects deeply, fashions a simile for it and rejoices. I ask whether this is fitting. I ask whether the sentiment of grief would remain incomplete unless the dust upon that upper region were mentioned.
+
+In that Embalming chapter, Kamban repeatedly delights in coating descriptions of women’s upper regions with his learning. When I ask whether such description instils devotion or stirs the power of desire, Kamban’s servants become angry. Friends! Supreme *bhagavatas* say that those who read the rare story of Sri Ramachandramurti, Hari’s incarnation, and those who stand beside them and listen will enjoy happiness here and receive the Supreme One’s grace hereafter. I ask whether the description of an upper region covered in dust is necessary for this. He might simply have said that dust lay upon their chests and immediately moved to some other matter necessary to the story. But Kamban’s purpose is to pour out his distinctive merchandise—erotic relish—whenever an occasion appears, and if no occasion appears, to summon something that will create one. That is why he does not merely say that dust settled upon the women’s breasts, but weaves in at that very moment their size, shape and lustre. The dust-covered upper region is no ordinary one: it is a “lofty breast,” a large upper region! Such, in the poet of Hari’s story, is the mentality that prescribes its size. Is saying “lofty breast” enough? Connoisseurs may ask how large an upper region it was! To dispel their doubt, Kamban compares it to a mountain. Does he rest after using the mountain to explain the required size? No. Is largeness alone sufficient? It must gleam. To convey that, he calls it a mountain filled with saffron. Only after uttering the threefold sacred formula—the size, shape and lustre of the upper region—does the teller of the sacred incarnation story become satisfied!
+
+I ask you to reflect on how lustful one must be to possess the mind to notice and relate the size, shape and lustre of the upper region of a woman lying exhausted from lamentation. The poet set out to explain that the people of the realm were broken-hearted on hearing that Rama would enter the forest; connoisseurs read his eager verse about lofty breasts comparable to a saffron mountain. Do they receive a flood of devotion? Or do they yearn, thinking, “The colour of saffron; the form of a mountain—surely that is an upper region worthy of the name!” This is one among my many, many doubts.
+
+Very well! You may think of saying, “Whatever else, Bharata, he takes a little pleasure in describing that upper region. Why seize and torment him for it? Let him go.” Comrades! If he stopped with the upper region, I too would say, “Very well, let the wretch go.” But he is not satisfied after speaking of the upper region; he makes the hidden place prey to his eloquence too. I ask whether that is right. Where, you ask? Come back to the city of Ayodhya! Read the Departure from the City chapter of the Ayodhya Kanda and then tell me whether my words are false or true.
+
+Rivers originate in mountains. As they travel, they sweep alluvial soil along their course. At last the river joins the sea. You will have heard many masters of poetry describe this natural arrangement. I am no boor who refuses to praise a poet who uses his art to portray beautifully an exceedingly ordinary natural structure or action and sends readers into rapture—just as one praises a painter whose finesse in depicting even the most ordinary scene delights and amazes the viewer, or a musician whose sweetness of voice and excellence of enunciation make even the most commonplace song cool the ears and minds of listeners.
+
+Nor has my heart been specially constructed so that genuine poetry cannot melt it. Therefore, when one describes nature—
