@@ -1,8 +1,8 @@
 # Kamban’s Nectar
 Tamil title: கம்பரசம்
 <!--
-Translation checkpoint: Part 8, Image 3 complete.
-Next source boundary: Part 8, Image 4 (004-36c1c33ec2.png), beginning “என்று கம்பர் பாடியுள்ளார்”.
+Translation checkpoint: Part 8, Image 6 complete.
+Next source boundary: Part 8, Image 7 (007-a1a0f6e707.png), beginning “அல்குல் என்றது இடை என்று”.
 Canonical bilingual output has not been built; pending counts must remain unchanged.
 -->
 
@@ -940,3 +940,68 @@ There are numerous places in Kambar’s verse where “waist” and this other t
 Therefore their assertion is not correct.
 
 Be that as it may, another man cited a place where celestial women walk through a river, the fine cloth they wore becomes wet with spray, their *alkul* shows through, and the men laugh—
+
+and, distressed at seeing that the poem says so, argued: “The poem is correct; through the poem the scene too appears just so. But what became visible was not the concealed region, as he says; it was the rear.”
+
+I truly feel only pity for him.
+
+Look how hard he has laboured, thinking, “Let us at least make the poem appear a little civilised.”
+
+Kambar has defenders like these. But why did Kambar have to fashion this poem in a way that drives both them and people like me into a futile and perverse debate over whether it was the front or the rear? Instead of stopping after showing the beauty of hand and foot and thereby explaining Kakutstha’s greatness and divinity, he displayed the “beauty of the eyes” of Ayodhya’s men, sent his poetic power everywhere those eyes travelled, and brought the sacred manuscript from the worship room to a place beside the box of gold *bhasma*! Is it not because of that that puranic scholars must now struggle so painfully to give a different meaning to a single word? It is thinking of this that I pity them.
+
+Poor men, they think that protecting Kambar means protecting virgin Tamil, epic excellence, and art, and they suffer greatly for it.
+
+Kambar could not have expected a situation of debate like this to arise.
+
+He was a poet of an age when erotic revelry was regarded as one of the pleasures of royalty and as a sweet feature of palace feasts.
+
+He was in no position to become concerned about the worker’s suffering or the poor man’s anguish of heart.
+
+Among poets, Kambar possessed extraordinarily great wealth and the friendship of wealthy men.
+
+King among poets!
+
+Therefore he would turn into poetry only the thoughts supplied by his surroundings. Tamil crawled fondly at his feet; and so he made his poems into pictures of beauty.
+
+The camera was of the first order.
+
+The photographer too possessed abundant skill.
+
+A flying eagle, a singing parrot, a rushing waterfall, a soaring mountain, a lotus-blooming pond, a forest where elephants roam, a spotted deer fleeing in fear of a tiger, a mother delighting in her infant—whatever scene he photographed in this way would naturally come out beautifully:
+
+A fine camera, and a skilled photographer.
+
+But what were the pictures he took?
+
+That is what we asked!
+
+Kambar describes the design of Ayodhya in beautiful language.
+
+Take note: there is no occasion here for any episode of love or marriage to arise.
+
+Kambar wishes to show the moat that surrounded Ayodhya. Where do you think his thoughts go at that very moment?
+
+Other poets would explain the depth of the moat; they would explain the prowess of the guards who constructed it.
+
+Kambar was not satisfied with these. He thought that his admirers would not be satisfied if he too portrayed the moat in the manner of every other artist. Thinking they would take no delight in seeing a mere moat, and confident that this would be very much to their liking, he joyfully offers a simile for it.
+
+It is no ordinary moat.
+
+It is deep.
+
+No one can easily approach it.
+
+How so?
+
+> “Guarded so that no one could enter,
+> like the tract of maidens’ *alkul*.”
+
+Just as the concealed region of virgin women, because it is kept under strict guard, cannot be approached by anyone—so too the moat! What photography is this; what does he capture and show? What is being compared to what?
+
+Kamban is only now about to come to the story itself.
+
+Lord Rama is still in the womb—Dasaratha himself has not yet been shown. Kamban enters Ayodhya, taking his admirers along: the City Canto of the *Bala Kandam*. Here comes Kamban’s nectar; the moat appeared, and with it the *alkul* becomes visible. Why this lesson from worldly experience that the virgin woman’s region is closely guarded and cannot be approached by anyone?
+
+Having declared in his preface that through the epic called the *Kamba Ramayanam* he would show the path to acquiring “merit,” he takes us straight to the moat, shows it, and tries to delight us by asking, “What a moat! See how it is—is it not like this?” In truth, when I find fault with admirers who begin thinking of the simile even as they read the poem about the moat, it is naturally bound to appear infuriating.
+
+Just ask, “What is it, sir? Why are you staring so fixedly?” of the fellow who, imagining that no one knows, stares at some woman’s figure as though he would devour it. He will fly into a rage! “Fie! Mind your own business and go! Was I looking at her? I was examining whether the sari she wore was cotton or silk,” he will say angrily. Is it not the same with those whose hearts rejoice at that moat displayed together with Kamban’s nectar, sirs? What about you? Do you wish to know the rare story of Lord Rama, said to be the incarnation of Hari, or are you going to surrender your hearts to the moat and its simile? When this question is asked, fierce anger is born. Natural!
