@@ -1,8 +1,8 @@
 # Kamban’s Nectar
 Tamil title: கம்பரசம்
 <!--
-Translation checkpoint: Part 3, Image 6 complete.
-Next source boundary: Part 3, Image 7 (007-8677d99ddf.png), beginning “மிதிலை மாநகருக்குள்”.
+Translation checkpoint: Part 3 complete through Image 10.
+Next source boundary: Part 4, Image 1 (001-44c2e4e871.png), beginning “மட்டுமென்ன”.
 Canonical bilingual output has not been built; pending counts must remain unchanged.
 -->
 
@@ -269,3 +269,66 @@ Look: he explains all three—the colour, the form and the arrangement. In colou
 ### Dose No. 5
 
 Another of Kamban’s poems offers evidence that even in the Chitrakuta period he had such “infatuation” with those parts of the goddess that he described Sita’s upper region diligently and without regard for the trouble involved. Just as the Chitrakuta speech displays the colour of Rama’s words, another poem I am about to cite reveals the colour of his gaze. After reading the Chitrakuta verses, you will think, “Fie! Would a husband worship his wife in all these ways? And did God incarnate for such obscene descriptions?” After reading the other poem I shall give you, you will be compelled to say, “Alas, not only his words but his conduct too is improper.” Visvamitra, they say, marvelled at how Tataka died through the artistry of Rama’s hand and Ahalya was restored through the artistry of his foot. What happened after that was this:
+
+Eminent scholars speak with swelling delight of the way Kamban described Rama and Sita meeting one another. They gladden us by saying a *Kural* has been set like a jewel within the scene. “What perfection there is in eye meeting eye! What perfection!” they exclaim in wonder. Yes! They say tenderly that eye devoured eye; that is true. But they never mention another act performed by Rama’s eye. Connoisseurs of art fear that if they tell it, the colour of that gaze will be exposed; devotees dread that the Lord’s act will appear like the act of a delinquent youth. Both groups therefore describe only the meeting of eye with eye when they portray the incident.
+
+The poem they joyfully cite and the one they suppress are both in the Scene of Mithila chapter of the Bala Kanda. Verse 35 is the one they quote with smiles; verse 36 is the one they cover up. In the former, they offer word meanings, general meanings and many other kinds of explanation for these lines:
+
+> Eye fastened upon eye
+> and each devoured the other;
+> their awareness could not remain apart
+> but merged and became one;
+> the lord looked at her,
+> and she too looked at him.
+
+Rama’s eye devoured Sita’s eye; Sita’s eye devoured Rama’s. Because both experienced the same pleasure at the same instant, the awareness of each left its separate state and became one. The lord looked; the lady too looked. That is the meaning of these lines. But the scene does not end there. Verse 36 shows that Rama’s gaze did not stop after devouring Sita’s gaze, but engaged in another occupation. What occupation? The very occupation assigned to a bull roaming the street! Though he was a king’s son and Vishnu’s incarnation, Kannan’s conduct was not suited to his station and rank. Read this poem:
+
+> Her looking gaze became
+> a pair of sharp-tipped spears
+> and sank into the shoulders
+> of that man of swelling strength;
+> the red eyes of the warrior
+> wearing radiant heroic anklets
+> struck and pierced the breasts
+> of the woman like an attacking goddess.
+
+“The gaze she cast”—the lady’s look; “a pair of sharp-tipped spears”—two spear-weapons possessing keen points; “that man of swelling strength”—Rama, possessed of developed might; “sank into his shoulders”—plunged into his arms.
+
+That was Sita’s act! The eyes of that plumed beauty flew to the shoulders of the guardian who had seen her, allowed himself to be seen and delighted her, and there they rested. What did Rama’s eyes do? Did they swarm over Sita’s red-lotus face? No! Look at the other two lines of the verse:
+
+“The warrior wearing radiant heroic anklets”—Rama the warrior, wearing bound and gleaming anklets of valour;
+
+“his red eyes”—his crimson eyes too; “the breasts of the woman like an attacking goddess”—the breasts of the lady comparable to the goddess Mohini;
+
+“pierced”—they pierced them; they flew forth and struck.
+
+How is that for the colour of the lord’s gaze? Why should bulls worry any longer? Even God’s eyes, it seems, pierce a maiden’s breasts the moment he sees her! What does it matter, then, how ordinary people driven about by the wicked companions called the senses behave? Perhaps it was because the king himself was in this condition that the poet said Ayodhya’s mighty youths lay yearning to know whether women’s hidden places would become visible and whether they would receive that vision. A people suited to their king; a king suited to his people! This erotic relish, in which not even a mustard seed of divine sentiment can be found, is what connoisseurs of art declare they will never abandon.
+
+Let that be. Did the lord at least stop with the upper region? Come—let us leave Mithila for a moment and return to Chitrakuta. Not content with describing breasts like golden caskets, Rama describes to Sita’s face the dimensions, arrangement, beauty and other qualities of Sita’s hidden place. Do not be angry with me, servants of Kamban! What am I to do? I am merely telling the people what is in the book. Were you not the ones who breathed fire and asked, “Can an uncultivated fool who has not studied the *Kamba Ramayana* comment upon it?” Here I tell you what I have learned in the *Kamba Ramayana*. Do not stand with tears streaming from your eyes.
+
+You will have heard ordinary endearments such as, “Sweet object of my desire! Celestial beauty! Green parrot! Lotus of pure gold!” You will not have heard a husband proclaim the excellence of his wife’s breasts. You will say it is shameful even to imagine that a bridegroom might speak about his wife’s hidden place. That is true. What cannot be found in any epic celebrated by the people of this world as religious instruction can be found in Kamban’s nectar. Look for a moment at the first line of verse 31 in the Chitrakuta chapter of the Ayodhya Kanda. While the Lord shows the lady the enchanting sights of the forest, he blossoms into a description of her body to gladden her heart. It is this:
+
+> O woman whose broad and mighty *alkul*
+> puts the serpent’s hood and chariot-platform to shame!
+
+It is addressed to Janaki! A favourable testimonial from her husband! Hari’s incarnation, it seems, speaks of the size and form of the *alkul* belonging to the princess of Mithila, the beloved wife of Ayodhya’s prince!
+
+“The hood”—the expanded hood of a snake; “the chariot”—the platform of a chariot; “these”—these objects; “put to shame”—disgraced because they are inadequate as comparisons; “broad”—widely spread; “mighty *alkul*”—O woman possessing a large *alkul*! Poor Janaki! I do not know how much she suffered on hearing this description. Is this language for a husband to speak to his wife? Is this art?
+
+Is this devotional sentiment? I ask whether the poet fashioned with such care this verse about a vast, broad *alkul* that defeats a serpent’s hood and a chariot-platform because devotees could not otherwise relish the greatness of the Lord’s incarnation. Is it the duty of artists to drink and rejoice in Kamban’s nectar of this kind? It nauseates me, comrades. How is it for you?
+
+* * *
+
+### Dose No. 6
+
+“Did the elder brother disappear too?”
+
+“Why beat him and drive him away like this, and then regret it now, sister?”
+
+“Without caring in the least that she was his younger brother’s wife, he seized her hand and pulled her!”
+
+“That is natural—natural everywhere.”
+
+“Why, woman! Natural? Seizing and pulling one’s younger brother’s wife by the hand is natural? Fie, wretch! Whatever else may be so, can one have a mind like this?”
+
+Must I explain to all Tamilakam between whom this much-heard and much-enjoyed conversation occurred? What I have given above is a fragment of the comedy performed by the king of humour N. S. Krishnan and the graceful comedienne T. A. Mathuram in *Thiruneelakandar*! A lust-blinded man tries to drag his younger brother’s wife into an improper act. The younger brother drives the wrongdoer out of the house, then grows weary with grief that his own elder brother committed such an outrage. If the woman says, “That is natural,” would he not become angry? Even the smiling beauty would be scolded: “Fie, wretch!” In the same way, because I repeatedly and forcefully ask whether Kamban’s composition of a divine story filled with illicit erotic conduct can be art, some wounded scholars argue, “It is natural.” Poets—
