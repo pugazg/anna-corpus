@@ -1,8 +1,8 @@
 # Kamban’s Nectar
 Tamil title: கம்பரசம்
 <!--
-Translation checkpoint: Part 7, Image 3 complete.
-Next source boundary: Part 7, Image 4 (004-49e4cac3ad.png), beginning “எதிரே ஒருத்தி”.
+Translation checkpoint: Part 7, Image 6 complete.
+Next source boundary: Part 7, Image 7 (007-55e430e6e2.png), beginning “இப்படிக் காமச் சித்தர்களாக”.
 Canonical bilingual output has not been built; pending counts must remain unchanged.
 -->
 
@@ -739,3 +739,64 @@ That is the verse. To explain its meaning I split it out here:
 “When the wave-water of the flower-filled bathing pond wet the women’s fine garments and their *alkul* appeared, the art-skilled man closed his eyes and went on; because he did not see, one woman struck him, the peak of her breast pressing against him.”
 
 Attend to the idea. The lord of Nishadha saw the women in naked form in the water and began walking with his eyes closed. At that moment—
+
+the blue-eyed woman who had emerged after bathing, because Nala could not see her, collided with him. The meaning is that her upper part pressed deep into Nala’s chest. Look at the inner import with which Athiveerar composed the verse in this fashion. Nala did not even know who was coming and who was going: so tightly had he closed his eyes. Nor was that all. Having closed his eyes near the pond, he did not reopen them as soon as he had taken two steps. Suspecting that there might be many such sights here, he began walking with his eyes still closed. That is how fully the poet explains his refinement. And not only that: pay attention to the word the poet has fashioned for the woman who collided with Nala—“butted.” What is it that butts? It is a bestial act. So that we may realise this, the poet introduces the harsh word “butted” and concludes the poem. Set Kambar to work in this same situation and see; one can say with certainty that his mind would not be at rest unless he had sung at least ten verses.
+
+You may not come to place that much confidence in my word. I have no objection, comrades. To show you how Kambar sang in precisely such a situation, propriety keeps saying, “One must not repeatedly go to the bathing ghat and look upon naked beauties.” But the arrows the bards fasten upon us give us the urge to expose these men’s tricks. And so, once again, I invite you to the pond—to the place where the parrot-voiced women bathe. This is the place where the women of Ayodhya bathed. The bow was broken in Mithila; Janaka’s word prevailed. Having resolved to give Sita in marriage to Rama, the king of Mithila sent this good news to the king of Ayodhya, and Dasaratha joyfully set out for Mithila. With the crowned queens surrounding him, their companions coming with them, and ministers, chief officials, every kind of guard, and soldiers following too, they came upon a grove on the road to Mithila and stayed there. There was a pond in which to rest; the flower-like maidens entered it to sport in the water. You must direct your thought and look, O devotees of Kamban! The sight that Nala saw—the poet did not say that the women bathing and sporting in the water were lustful or had behaved wantonly. Nor did he say that Nala, who happened to see it by chance, remained where he stood, gazed in delight, and became aroused. Look at the manner in which the men and women of Ayodhya appear in Kamban’s picture. Athiveerarama Pandiyan said that the women bathed. That much afforded Kambar no satisfaction. And so he sang that the men saw them, rejoiced, and that some even stood alongside them and sported in the water. Kambar’s idea seems to be that just as there must be light wherever there is a lamp, there must necessarily be celestial women wherever there are men.
+
+Kambar says with delight:
+
+> “Encircled by a throng of women plunging and bathing,
+> his broad arms adorned by circular bangles shining,
+> there stood a garland-decked king.”
+
+In verse 12 of the Water-Sporting Canto of the *Bala Kandam*:
+
+“A throng of women plunging and bathing”—a company of women diving into the water and playing;
+
+“encircled”—standing all around him;
+
+“his broad arms adorned by circular bangles shining”—so that the large arms bearing round-shaped armlets shone beautifully;
+
+“garland-decked”—wearing a garland;
+
+“a king”—one monarch;
+
+“stood”—was standing there.
+
+A king who had come with Dasaratha. Before going to the wedding house, it seems that, becoming infatuated there in the grove in the evening, he too stood while many women stood in the water. If the poet said that kings stood surrounded by the four divisions of the army, those reading the story might gain inspiration. If the poet sang, “Enemies surrounded him; he stood in their midst,” even the coward who read it would become a hero. If the poet sang that the king sat surrounded by ministers and chief officials, there would be no harm; one might at least think that the government was orderly. The king Kamban shows us stands surrounded by bathing women! What elegance! Is this the basis of fame?
+
+To demonstrate how far the disposition of chaste women can rise to its loftiest state—
+
+Vedanayagam, in one place, presents the story of an imaginary married couple in poetic form.
+
+An artist painted a beautiful picture. The husband calls his lady wife to come and see it. A conversation follows.
+
+“What picture is that?”
+
+“It is marvellous. Come and look.”
+
+“A man or a woman?”
+
+“Why? It is a picture of a man. Come, let us see it.”
+
+“If it is a picture of a man, I will not look.”
+
+“Silly woman, it is not a picture of a man—not a picture of a man. It is a painting of a beautiful woman. Come, let us go and see it.”
+
+“Uh-uh, I cannot come. Nor must you go. If it is the form of a maiden, my heart cannot bear for you to look.”
+
+“If it is a man, I shall not look; if it is a woman, you must not go and see. You are for me, and I for you.” Such is Vedanayagam’s depiction and method of portraying family virtue.
+
+> “To behold the picture that the artist
+> had drawn upon the long wall,
+> when we called our lady, she said,
+> ‘If it is a man’s portrait, I shall not look;
+> if it is the form of a maiden,
+> my heart cannot bear for you to look.’
+> Such is this dark-eyed woman,
+> through the strength of her mountain of chastity.”
+
+Compare the “lady” whom the learned Vedanayagam introduces to the people through his poem with the “ladies” of the city of Ayodhya, who, it seems, stood in the pond together with men! Through that comparison Kamban’s “virtue” will become clear to you.
+
+Our question is whether the “*rasa lila*” of women and men standing and bathing in the same pond is needed to explain the “glory of Rama.” To say that the men and women who lived in Ayodhya—
