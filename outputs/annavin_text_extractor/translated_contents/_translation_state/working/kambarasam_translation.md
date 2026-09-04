@@ -1,8 +1,8 @@
 # Kamban’s Nectar
 Tamil title: கம்பரசம்
 <!--
-Translation checkpoint: Part 6 complete through Image 10.
-Next source boundary: Part 7, Image 1 (001-2566c50063.png), beginning “பார்த்தனர்”.
+Translation checkpoint: Part 7, Image 3 complete.
+Next source boundary: Part 7, Image 4 (004-49e4cac3ad.png), beginning “எதிரே ஒருத்தி”.
 Canonical bilingual output has not been built; pending counts must remain unchanged.
 -->
 
@@ -705,3 +705,37 @@ Perhaps he considers these descriptions a thousand-name offering fit for Rama wo
 Even when the author of *Naidatham* praises situations of the same kind Kamban treated, he imposes a boundary, though his subject is merely the story of an ordinary king. Kamban, as we saw, portrayed an incident in which water fell upon women travelling by boat and made a hidden place visible. He then sang that when it became visible, the men in the boat lost their weariness and became delighted. No poet who regarded the portrayal of character as important would sing that a man in such a situation stared closely and cooled his heart. Kamban’s infatuation with explaining women’s upper and hidden regions exceeded his concern for portraying character. That is why he bluntly sings that men rejoiced on seeing a place they should not have seen. We learn at once that the dignity of the people of Ayodhya, where the Lord incarnated, had decayed to the point of delighting in a hidden place, and that Kamban’s feeling for erotic relish was so strong that he explained without the least restraint an incident that ought to have been covered. We ask whether such a scene belongs in a divine story.
 
 Suppose the men became base through lust; how did the women tolerate it? Even the most voluptuous woman would not endure such men’s gaze! How did the women of Ayodhya, birthplace of the noble Rama, endure it? Could Kamban not at least have sung that the men looked and the celestial women recoiled in disgust, out of a pure wish that no stain should fall upon the women? No!
+
+Ativeerarama Pandiyan received an opportunity rarer still: women are playing in the water of a pond, and while the scene is under way Nala passes that way! Once Kamban obtained such a “chance,” neither Rama’s restraint nor Hanuman’s intervention could stop him! The author of *Naidatham*, however, submits to limits. He reflects: how can Nala’s presence at the place where maidens bathe be made fitting without damaging propriety? Will the women’s hearts not be wounded if a man sees them bathing? Will their honour not be impaired? Can he say the women knew that Nala saw the scene? Would that not disgrace the dispositions of both sides? He thinks further still.
+
+Poet Kamban would not have devoted so much thought to these problems. He would become absorbed in considering what could be compared to what. Beautiful ideas would issue from it, and erotic relish would swell like a spring in poetic form.
+
+Ativeerarama Pandiyan sings the scene with decorum. It is natural for the upper and hidden regions of women to become visible while they bathe in a pond, and he does not describe this contrary to nature. But at the same time he protects Nala’s noble character from disgrace. Must not every poet protect the “good characters” he has chosen from circumstances that dishonour them? For that purpose Ativeerarama Pandiyan recounts an event explaining the condition in which Nala found himself when he saw the bathing women.
+
+Does he say that Nala saw the women, but none of them saw Nala because they were intent only on bathing and playing with one another? Not even that. However thoroughly they looked around, the women’s eyes could not see Nala!! He travelled with his form concealed so that no one’s eyes could perceive him.
+
+In Damayanti’s sacred city a *swayamvara* is held for the princess. Many kings arrive. Nala, who loves Damayanti, comes, and the gods come too. Indra sends Nala himself as his messenger to tell Damayanti to marry him. Nala protests, “How can your servant enter the women’s quarters? They will not permit me!” Indra replies, “Do not worry. I shall teach you a spell by which you can travel with your form hidden from every eye.” Through the power of that spell Nala passes unseen by anyone. The author of *Naidatham* carefully chooses that very moment to say that Nala saw the women playing in the water:
+
+> “He uttered the spell taught in a subtle text,
+> by which no eye could perceive his form.”
+
+That is, the author first gives the passage, “He spoke the spell described in a subtle text, which made it impossible for anyone to recognise his form with the eye.” Only then does he show the garlanded king standing where the dark-haired women bathed. See what respect for a boundary!
+
+According to Kamban’s picture of the women aboard the boat, clear water soaked their fine cloth and caused the radiance of the hidden place to appear outside. What, then, would be the state of women immersed and playing in water? It is the same here! But what does the poet say? Does he say Nala thought, “No one’s eyes can see us, while our eyes see every sight exactly as it is. Beautiful women are bathing here! A vision of their bodies is freely available! Rare, rare indeed is such an occasion. Let us remain here and see still more, dispelling weariness and swelling with delight”? Or does he say anything that could make readers of the book suspect such a thought arose in Nala?
+
+Let that go. Does he at least say that Nala saw and rejoiced? Does Ativeerarama Pandiyan say, as Kamban did of Ayodhya’s men, that when the radiance of women’s hidden places appeared outside, their weariness departed? No! No! The guardian happened upon this sight by chance; the moment he saw it, he thought, “We have seen what should not be seen,” and closed his eyes.
+
+When we say he closed his eyes, did he do so merely as a pretence? No. Some ritualists sit near a pond seemingly with eyes closed while casting sidelong glances at the women who come and go. Did Nala similarly pretend to close his eyes and steal a little “sideways glance”? No. He closed them firmly. Did he close them from fear of his surroundings—afraid that if he looked upon the women’s naked forms and someone else, or the women themselves, saw him in that condition, they would think him base? No. He did not close his eyes from fear of what others might do; his own mind would not permit him to look. Is this not character? Nala was a master of the arts, an abode of virtue and a ruling king. Ativeerarama therefore observed the boundary that forbade him to say Nala saw the naked women, rejoiced and continued looking for a while.
+
+> In the flower-filled bathing pond,
+> the waves wet the women’s fine garments;
+> when their *alkul* appeared, the art-skilled man
+> closed his eyes and went on;
+> unable to see, one woman collided with him,
+> the peak of her breast pressing deep.
+
+That is the verse. To explain its meaning I split it out here:
+
+“When the wave-water of the flower-filled bathing pond wet the women’s fine garments and their *alkul* appeared, the art-skilled man closed his eyes and went on; because he did not see, one woman struck him, the peak of her breast pressing against him.”
+
+Attend to the idea. The lord of Nishadha saw the women in naked form in the water and began walking with his eyes closed. At that moment—
