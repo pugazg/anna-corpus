@@ -1,8 +1,8 @@
 # Kamban’s Nectar
 Tamil title: கம்பரசம்
 <!--
-Translation checkpoint: Part 6, Image 3 complete.
-Next source boundary: Part 6, Image 4 (004-80a5942970.png), beginning “மக்கள் வீட்டுக்குள்”.
+Translation checkpoint: Part 6, Image 6 complete.
+Next source boundary: Part 6, Image 7 (007-7489df4c6d.png), beginning “அதிகம்”.
 Canonical bilingual output has not been built; pending counts must remain unchanged.
 -->
 
@@ -644,3 +644,38 @@ What did that arrogant man say on hearing his wife’s appeal?
 “Is that so? If you sit naked upon a horse and ride around this town, I shall remit the tax.”
 
 The woman’s heart seethed on hearing the words of that base man. But she thought of the people. Very well! She resolved to seek relief for them even if she had to ride naked around the town. She had the news proclaimed by drum, stripped naked and mounted a horse.
+
+She rode around the town. The tax disappeared; the people’s suffering ended. That is the story. The English poet Tennyson sang it under the title *Godiva*! I ask Kamban’s servants to look at that poem once. They will see how delicately the poet speaks of nakedness. She removes her garment; the clothing slips away. In depicting it, the poet says:
+
+> Unclasped the wedded
+> Eagles of her belt
+> The grim earl’s gift;
+
+* * *
+
+> She linger’d looking
+> Like summer moon
+> Half-dipt In cloud.
+
+The poet describes the woman becoming naked and removing her clothing with the sense: “She removed the girdle gifted by the iron-hearted man. For a moment she stood troubled, like a full moon covered by cloud.” When he speaks of the naked woman mounting the horse and setting forth, Tennyson conveys that the lady, clothed in chastity, rode away:
+
+> Then she rode forth,
+> clothed on with chastity.
+
+A poet and master artist—Tennyson, whose learning amazed not only the English but the peoples of many other countries—sang with such civilisation and delicacy the story of a noble woman who rode naked around a town. English art did not thereby decline. The spring of poetry did not dry up. The “poem” was not ruined. Learning did not go up in smoke; the language did not lose its richness. Nor, comrades, is there any fool who says that because Tennyson sang in this fashion he cannot be included among masters of poetry!
+
+Those who see the erotic relish Kamban poured into Rama’s story should consider how many mountains of obscenity, each made beautiful, he would have sung had Kamban alone been given the “contract” to tell the story of the noble woman who cast off her clothes, mounted a horse and rode through town! The very thought of what would have happened had a naked woman fallen into the hands of the poetic talent of that great poet who strips even the goddess’s form bare makes one tremble. Does Tennyson’s method communicate morality, exalted thought, purity and the dignity of women? I ask whether Kamban’s poetic method—which declares the lady to possess an *alkul* that swelled until the lovely girdle snapped—arouses such elevated thought. Can sour gruel quench thirst as tender-coconut water does?
+
+A wound exudes stench; a flower gives fragrance! I ask only whether learning should help implant sacred thought with refinement, rather than serve as an instrument for descriptions of upper and hidden regions. Truly, Tennyson did not use the naked Godiva to describe a woman’s physiognomic marks and bodily form because learning ought to remain the dwelling place of purity. Kamban, by contrast, would have cried, “I have seen! I have seen!” and attempted to portray that sight in so many ways that the spring of his poetry ran dry! Those who think I exaggerate should look at how much erotic relish Kamban mixed into the chapter in which the uncrowned Rama goes to the forest. There is no use trembling needlessly, and no use crying that I find fault with art—the hour has come for what exists to be exposed! What can be done?
+
+“The people wailed; the cattle wailed; the women wailed; the cat wailed; even stone melted; what remains to be told?” Thus he describes Ayodhya’s grief. His language is worthy of his learning! The poems communicating the sentiment of sorrow are skilful. But did he omit women who embodied grief? How could he? Very well, let him tell how tears flowed from their eyes, hair tumbled loose, garments slackened and ornaments fell. Deciding even that insufficient, he speaks of maidens asleep upon their nurses’ thighs and, in the same verse, delights in adorning the upper region he worships with two qualifiers: young coconut and lotus bud. Did he stop there? No! Nor did he conceal the hidden place!
+
+* * *
+
+### Dose No. 9
+
+“If art is to be fragrant, Kamban is indispensable to us,” a comrade declares firmly. He has read and relished many poems. I must therefore explain to him why we criticise the work Kamban sang. He is my friend, so I do not wish to drag him over forest and hill and cause him hardship. Moreover, since he is a connoisseur of art, going there would be difficult. I shall take him to four ponds. If we walk along their banks and discuss why we find fault with Kamban, his mind will cool and our position will become clear. You too may come; it will be a pleasant outing and provide a lesson.
+
+Of the four ponds, two are in the country of Nishadha, one lies between Ayodhya and Mithila, and the other is a village pond.
+
+Ativeerarama Pandiyan composed the work *Naidatham* with many varieties of sentiment in general, but with an especially rich concentration of the erotic sentiment called *sringara rasa*. Its author was a king, accustomed to drinking the sweetness of women’s honeyed speech and the juice of dalliance. Compared with other poets, he had a greater opportunity to see and delight in countless lightning-creepers, gleaming bodies, musical voices, deer-like eyes and flower-faced beauties—
