@@ -1,8 +1,8 @@
 # Kamban’s Nectar
 Tamil title: கம்பரசம்
 <!--
-Translation checkpoint: Part 3, Image 3 complete.
-Next source boundary: Part 3, Image 4 (004-5df98d14be.png), beginning “உனது நுண்ணிய”.
+Translation checkpoint: Part 3, Image 6 complete.
+Next source boundary: Part 3, Image 7 (007-8677d99ddf.png), beginning “மிதிலை மாநகருக்குள்”.
 Canonical bilingual output has not been built; pending counts must remain unchanged.
 -->
 
@@ -244,3 +244,28 @@ At that moment—in the middle of the night, half asleep, when the upper garment
 > jewelled pots!
 
 Kausalya’s son exults as he says: “O woman like a flowering branch! Your breasts resemble jewelled pots. Unable to bear them, your slender—
+
+creeper-like waist bends.” On hearing her husband speak with this meaning, does the woman lower her head in shame and stop him, saying, “Enough, my lord! Have you no work other than this worship? I am ashamed merely to hear it; are you not embarrassed to say it?” No. Would a chaste wife interrupt her husband’s words? Especially when he is describing her body without let or hindrance, why should the goddess, who had remained unmarried in Mithila for so long, stop him? But what I ask is whether the chapter in which this strange couple exchange explanations of bodily parts should occur in a story about the Lord. Why did the story arise? To offer an amorous explanation that women’s breasts are like jewelled pots upon flowering branches, or to reveal the greatness of the Lord’s sacred incarnation, remove sin and grant the supreme abode? Had he written a story about the magnificence of princely rulers, this description and even more might be given. I ask only whether it belongs in the history of the Lord who incarnated to strike down unrighteousness and make righteousness flourish!
+
+Our Aryan friends melt inwardly and speak of Ariyakudi Ramanuja Iyengar’s mastery of music. But if Ariyakudi himself went to a house of mourning and sang “Yadukula Kambhoji,” what would he receive, comrades—a prize? Likewise, during Desikar’s sweet Tamil music at the joy of a wedding, if an aunt began weeping as she remembered her severed *tali*, would the gathering join her lament? They would beat her with a stick! An event must suit its situation. So too, a story proclaimed to advance belief in God may contain *Tevaram* hymns; devotional sentiment may drip from it; divine mysteries may shine. I ask whether it is proper to discard all these and pour out erotic relish instead. Split that line into its words and examine it. Let us see whether the heart of anyone whose five senses have not been ruined turns towards the Lord, or whether thoughts arise of pleasure with women.
+
+“Finely woven thread”—a thread consisting of a single fine strand; “as though bearing twin jewelled pots”—so that one might say it carries two pots; “slender bending waist”—
+
+upon a fine waist whose nature is to droop; “clustered, youthful, beautiful breasts”—possessing breasts that are rounded, young and lovely; “O branch”—O woman like a flowering branch!
+
+That is the word-by-word gloss furnished by the poet so that we may read what the lord says to his lady, seek the path of devotion and understand refinement. From it we learn that being rounded alone is insufficient: the breasts must also be youthful. Even those two qualities do not suffice; they must be beautiful as well. It may provide a lesson for learning the marks of the vessel of the ripe fruit-juice of desire, for those who have learned them to conduct an examination, and for those denied that opportunity to read it, glance about them and sigh. But I ask whether it provides devotional instruction. What a sensualist must one be to describe them as “rounded youthful breasts”! If Kambanattalvar thought even the goddess before whom one must stand with folded hands should have rounded youthful breasts, I cannot imagine, comrades, what he would think fitting for a woman one is to clasp and embrace!
+
+Perhaps Kamban thought, “We said ‘rounded youthful beautiful breasts,’ but failed to say how they must appear to display beauty and youth! Ah! How deeply connoisseurs will grieve.” In another verse, through Rama’s own mouth, he therefore states the description of the upper region a little more explicitly. Hear that sacred utterance too. Rama says to Sita:
+
+> O breast-creeper, your breasts gleam
+> as though they were rounded caskets
+> made of burnished gold, painted,
+> and borne upon a branch!
+
+Look: he explains all three—the colour, the form and the arrangement. In colour, they glitter like gold! In form, they swell like small caskets! In arrangement, they resemble fruit hanging from a branch! Moreover, decorative patterns have been painted upon them. The meaning is that the breasts are beautiful because they possess all these marks! There is no need to expand and explain this poem. Its diction is not difficult; understanding its meaning will cause no hardship. Examine the sense of its words! Then tell me whether Parandaman, who reclines upon the Ocean of Milk, incarnated to destroy the wicked or to prescribe the correct marks of women’s breasts. As though “rounded youthful breasts” were insufficient, Kamban makes Rama describe breasts shaped like caskets, made of fine gold and decorated with designs drawn in vermilion. Is not the moment when Kamban commands Rama to describe his wife’s upper region exactly as it is more cruel than the order that Rama must go into forest exile?
+
+* * *
+
+### Dose No. 5
+
+Another of Kamban’s poems offers evidence that even in the Chitrakuta period he had such “infatuation” with those parts of the goddess that he described Sita’s upper region diligently and without regard for the trouble involved. Just as the Chitrakuta speech displays the colour of Rama’s words, another poem I am about to cite reveals the colour of his gaze. After reading the Chitrakuta verses, you will think, “Fie! Would a husband worship his wife in all these ways? And did God incarnate for such obscene descriptions?” After reading the other poem I shall give you, you will be compelled to say, “Alas, not only his words but his conduct too is improper.” Visvamitra, they say, marvelled at how Tataka died through the artistry of Rama’s hand and Ahalya was restored through the artistry of his foot. What happened after that was this:
