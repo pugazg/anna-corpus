@@ -1,8 +1,8 @@
 # Kamban’s Nectar
 Tamil title: கம்பரசம்
 <!--
-Translation checkpoint: Part 5 complete through Image 10.
-Next source boundary: Part 6, Image 1 (001-220b0607f8.png), beginning “வழங்கியிருப்பது”.
+Translation checkpoint: Part 6, Image 3 complete.
+Next source boundary: Part 6, Image 4 (004-80a5942970.png), beginning “மக்கள் வீட்டுக்குள்”.
 Canonical bilingual output has not been built; pending counts must remain unchanged.
 -->
 
@@ -610,3 +610,37 @@ Comrades! My very being trembles. When this is presented to the country as art, 
 ### Dose No. 8
 
 I have one source of happiness, comrades! Do you know what it is? I take some satisfaction that Kamban wrote Rama’s story rather than choosing and writing many other stories of gods. In Rama’s story, in the name of poetry, what Kamban has supplied—
+
+is the liquor of desire. Had he taken up and written certain other divine stories, alas, that obscenity would have roared like a billowing sea! My pen would have wailed, “I will not portray this! I will not!” Truly, Kamban mixes so much erotic relish into this story. There is another divine tale: Gopalakrishna steals the clothes of the gopi women engaged in water play, hangs them from branch to branch of a *punnai* tree, smiles enchantingly and plays his flute. The women cry, “Kanna! Jewel-hued one!” He says he will return their clothes if they worship him with folded hands. Standing naked in the water and somehow guarding their honour with the water itself, they plead, “How can we worship with folded hands? We are ashamed! Give us our clothes and we shall worship you a thousand times.” The flute-bearer commands, “No. You must worship me in the very condition in which you now stand.” Had Kamban written that divine story, would he not have composed verse dripping and dripping with so much relish that our connoisseurs of art would say every house containing the book was fragrant with art?
+
+The artist who could see “the *alkul* swelling until the lovely girdle snapped” while it still remained beneath clothing—if he had received the “chance” to compose poetry about women standing naked in a tank and worshipping with folded hands, I cannot even imagine what he would have said, how he would have described it, or what things he would have declared to be of what colour and in what condition!! The poet who explained age-appropriate form through young coconuts and lotus buds—had he obtained an occasion to photograph naked women and take a “close-up,” would he have composed only a few verses? All the verses Villiputhurar wrote for the whole *Bharatam* would not have sufficed for a single chapter of water play!
+
+Kamban never grows weary, tired or bored of telling “that matter”! Whether the occasion is happiness, agitation, joy or lamentation, the mere thought of women is enough to make his learning blossom! In Mithila he described the condition reached by the hidden place of Sita, the sacred incarnation of the goddess whom all women revere and worship as Mother of the World. Did he at least say, “Let that affliction end there,” and stop? How could he? Like a drunkard who asks, “Pour another glass,” as soon as the intoxication lessens, he waits and waits for another “chance” to proclaim that glory. When the “chance” arrives, he pours out in volleys the erotic filth he knows so completely! If anyone else mixed even one hundredth of Kamban’s erotic obscenity into any other story and sang it in verse, connoisseurs of art and devotees would denounce him. The shield called “a divine story” has licensed the mire of desire.
+
+Just as licences are granted even for kinds of liquor and the antics of dancing women! Behind the curtain of “God’s sacred story,” what Kamban has portrayed is a land of sensual pleasure, not a land of merit! I ask the devotees and bearers of the book who become angry on hearing me to consider whether any other poet, in any language, has put so much obscenity into what is called the Lord’s sacred story.
+
+Even in an ordinary tale, other poets would be ashamed to pour the quantity of erotic relish that Kamban has. Kamban deliberately exposes the hidden places of women wearing fine cloth and wastes his “erudition” upon it.
+
+An English poet was compelled to compose a poem about a woman placed under an obligation to remove her clothes and ride naked around a town. I shall tell you how “delicately,” without obscenity or repulsive treatment, he composed it. I ask the connoisseurs of art who install Kamban’s pictures as icons and worship them to expend a little thought. Here are the details of that poem.
+
+Long ago in England there was a lord of a district called Coventry, a man of exceedingly hard heart. He imposed tax upon tax on his subjects. Finally he laid upon them a tax they could not bear. The people wailed aloud. He remained in his mansion playing with his dogs. The woman married to this man, who played with dogs while tormenting the people, was named Godiva. Tender-hearted Godiva went as an emissary for the crying people and appealed to her husband.
+
+“The people are crying, my lord!”
+
+“Are they? Look here at this black dog playing with the male.”
+
+“My lord! They say they cannot pay the new tax you have imposed. They are wailing with their children. If they must pay this tax, they say the people will die.”
+
+“The people—the people! Is that all you ever speak of? Why exhaust yourself needlessly for their sake? Do not let even your little finger wither on their account!”
+
+“After seeing the suffering they endure, my heart is resolved to do anything for them and deliver them from hardship.”
+
+What did that arrogant man say on hearing his wife’s appeal?
+
+“Can you do anything for their sake?”
+
+“Yes! I am prepared to do anything.”
+
+“Is that so? If you sit naked upon a horse and ride around this town, I shall remit the tax.”
+
+The woman’s heart seethed on hearing the words of that base man. But she thought of the people. Very well! She resolved to seek relief for them even if she had to ride naked around the town. She had the news proclaimed by drum, stripped naked and mounted a horse.
