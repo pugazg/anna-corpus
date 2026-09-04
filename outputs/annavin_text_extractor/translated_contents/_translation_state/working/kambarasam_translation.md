@@ -1,8 +1,8 @@
 # Kamban’s Nectar
 Tamil title: கம்பரசம்
 <!--
-Translation checkpoint: Part 10, Image 3 complete.
-Next source boundary: Part 10, Image 4 (004-cd139e5a50.png), beginning “ஆதாரபூர்வமாகக் கூறுகிறார்”.
+Translation checkpoint: Part 10, Image 6 complete.
+Next source boundary: Part 10, Image 7 (007-8b56642808.png), beginning “இவள், குவளையில்”.
 Canonical bilingual output has not been built; pending counts must remain unchanged.
 -->
 
@@ -1370,3 +1370,47 @@ Even with all the caution Kambar’s defenders might exercise, the meaning they 
 With the fire of lust blazing in her heart and her body growing hot, the very pond, touched by her, became heated, it seems.
 
 Therefore the emotion under whose sway the maidens sporting in the water remained becomes clear. Kambar states it—
+
+and he also tells of a handsome man standing surrounded by such women! Fortunately, he stopped there.
+
+Would a man’s mind remain untouched even after seeing such sights? Kambar has made the men’s suffering into his song too.
+
+He calls those men “burning-minded.” Heat had flared within their minds!
+
+How could it fail to flare? What they saw there were golden vessels, bearing the nail marks that showed their owners had savoured them. Could the heat acquired by the young bulls who saw them have been slight? That is why the poet called them “burning-minded”! What we ask is whether going to a bathing place and looking upon golden vessels is the act of men of character; whether it was seemly for the men of Ayodhya to do so; and whether all this may be mixed into a story written to proclaim the greatness of Hari’s incarnation.
+
+Because the sandal paste had been erased, the upper regions appeared with sharp nail marks. They looked like golden vessels with beautiful thread wound around their sides. On seeing them, the poet says, “Could I count and tell how many men were heated by lust?”
+
+> “How could I number all those whose minds burned,
+> when, their sandal paste erased by sharp, streaking nails,
+> the visible breasts resembled golden vessels
+> encircled at the sides by lovely thread?”
+
+Visible breasts! Burning minds! A boiling pond! Is that all? A shapely beauty who signals with her eye appears too.
+
+The women have been struck by heat, and the men likewise. The poet shows one pair among them. He signals with his hand—an invitation. She consents. She conveys it through a sidelong glance at her companion. Verse 28 of the Water-Sporting Canto explains this pond’s postal system.
+
+After plucking flowers, sporting in the water, growing heated, and answering a hand signal with an eye signal, they returned home. Then—then Kamban’s nectar gushes forth.
+
+The white moon spread its light. Was it like Rama’s pure mind? Like Dasaratha’s white royal parasol? No, no. The devotee of Hari announces that it was as if lust overflowed abundantly. To make the point flash clearly, he not only said that lust overflowed abundantly, but that it was like a flood of liquor rolling forth.
+
+Both sexes returned to their lodgings in a state of heat. The moon came to delight them. What was that moonlight like? It was as though lust had become exceedingly manifest and as though it flowed in a flood of liquor. The moon is full; a wine jar appears. Goblets in the hands of both sexes inflamed by desire! This is the very first verse of the Feasting Canto. As though showing what they are now going to consume and the manner in which they are going to dance, the first poem itself has already indicated that they are about to drink liquor and engage in an erotic dance. Until that dance has run its course, the poet is not to speak of any other subject. Could he not have ended it in a single poem? “I can see no more of this,” the good maiden called the Moon says and disappears; declaring, “I shall scorch them,” the sun rises—behold! Those struck by shame will scold us: “Very well, man! Instead of dismissing it with one line saying there is erotic flavour, must you pierce and probe and display it?” Kambar sang sixty-seven poems in this Feasting Canto. If all of them appeared in Ravi Varma’s colours, they would take first place in an exhibition at the world’s pleasure halls. So much nectar!!!
+
+Even while drinking liquor, the women did not think it should merely ease the fatigue of their journey or make them tired enough to sleep! Only miserable wretches would think that way! These are coaxing-voiced maidens, and so they drink in order to prepare themselves for “battle.”
+
+“Do not find fault by saying they drank and drank. What they consumed was not liquor, but a delicious beverage made with honey or flowers and fragrant substances!” some try to argue.
+
+“Madwoman! She imagines this is somehow harmful to the body! This is nothing of the sort—it is a blood tonic!” There is an episode like this in the play *Lost Love*. In just that way, some will say that the celestial women of Ayodhya did not consume an intoxicant! They labour mightily to conceal what is there!!
+
+The eyes redden; balance falters; one object looks like another; one cannot tell what is before one; one cannot understand whether the vessel still contains drink or has been emptied. One cannot distinguish the moon from liquor. One cannot look up straight. The tongue slurs. Meaningless words tumble out. Laughter without cause, dancing with clapping hands—are these the signs of having consumed honey!!
+
+All this appears clearly in Kambar’s poetry, in the Feasting Canto.
+
+A flower bed! Flower-adorned women! A wine jar! That is how it begins. In verse six of the Feasting Canto, they drink with the very thought, “We must not be defeated in the battle of union; we must rejoice.” They are no destitute wretches. Therefore they do not pour sour liquor into an earthen pot and drink it; they pour fresh wine into golden cups and drink. The liquor they consumed kindles lust! Verse nine. Just as fire rises when ghee is poured into a sacrificial pit, the instant wine enters them, the desire already smouldering within rises high.
+
+> “It kindled the dream of fierce lust
+> and showed it blazing!”
+
+This is no ordinary drinking! The moment it touches them, lust bursts forth! Thinking, “We can sing the excellence of Rama’s arrow later; now let us finish describing the excellence of this delectable drink,” Kambar describes at length the mischief it produced.
+
+One woman sees a form reflected in the wine and thinks it is her friend. It is her own face that appears in the liquor, but because she is intoxicated she imagines some other woman has come to drink the wine she possesses.
