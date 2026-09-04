@@ -1,8 +1,8 @@
 # Kamban’s Nectar
 Tamil title: கம்பரசம்
 <!--
-Translation checkpoint: Part 9 complete (through Image 10).
-Next source boundary: Part 10, Image 1 (001-2751e71516.png), beginning “இட்டுக்கட்டிக் கொண்டு”.
+Translation checkpoint: Part 10, Image 3 complete.
+Next source boundary: Part 10, Image 4 (004-cd139e5a50.png), beginning “ஆதாரபூர்வமாகக் கூறுகிறார்”.
 Canonical bilingual output has not been built; pending counts must remain unchanged.
 -->
 
@@ -1285,4 +1285,88 @@ There, one celestial beauty is like a swan swimming away! Here is another: one c
 
 A garland-decked king stands there—a monarch wearing a garland! Where? You might think it was a battlefield filled with elephants and horses, where spears and swords resounded. The garland-decked king Kambar shows does have broad arms—great shoulders—and is filled with strength and splendour. But the place where he stands is not a battlefield; it is a pond! Those surrounding him are not enemies but lotus-eyed women—women bathing! One feels impelled to ask whether he may stand there. This is hardly proper. You would say, “It is a place where maidens bathe; it is not seemly for a man to be there.” What do you useless fellows know! Connoisseurs of art say that an epic must contain all this “taste.” Is not the king who stood surrounded by women plunging and playing in the pond luckier than the man whose mind became confused merely on seeing the tender coconuts of a palm? Why, sir, this man is luckier even than dark-cloud-hued Krishna! Krishna too sat upon the *punnai* tree, playing his flute, and looked at the women bathing in the pond below. This one is a consummate fellow: he has descended into the pond itself. And are not those revellers bolder still? He stands; they swim and play. He stands surrounded by women plunging and bathing! What the “kings” of those women thought—poor men—Kambar, out of sympathy, left unsaid.
 
-“If they plunged and bathed, could they not have been clothed? Why do you invent that they themselves were naked—”
+“If they plunged and bathed, could they not have been clothed? Why do you invent that they themselves were naked and pester us by asking whether this is right or fitting?” I realise that there are men of art who wish to ask this. As though singing to prevent needless ill feeling between me and such men of art, Kambar has clearly shown in his poem the condition in which the bathing women were. With a beautiful gait in which animation leaps and dances, he says—listen:
+
+A chariot-platform-like *alkul*;
+
+breasts like coconuts upon the palm;
+
+an unsurpassed beauty that could be obtained from no one else—
+
+women blessed with these! The meaning is simple, very simple. An *alkul* like a chariot platform. Those who call this the waist should remember that a waist ought to be like a creeper. An upper region like the tender coconut upon a palm tree.
+
+An incomparable beauty that could be obtained from no one.
+
+Such women plunge and play in the water.
+
+The chariot platform and the coconut fruit show outside—to the poet. Therefore the broad-shouldered, garland-decked king too has the opportunity to see them. Verse seventeen of the Water-Sporting Canto.
+
+Not satisfied even after speaking in such “elaborate detail,” the great poet of sweet Tamil says, “What was it like when these women swam and played?” He effortlessly reaches the border of obscenity.
+
+> “Red mouths paling,
+> eyes becoming red,
+> the colour upon their bodies dissolving,
+> garments loosening,
+> as women with great, painted breasts immersed,
+> the pond seemed like their loving husbands!”
+
+He says that the bathing place and the husbands with whom they make love resemble one another. “Why? How?” you will ask. Whatever condition would arise when they joined and delighted with their husbands has occurred here. Saying, “The pond and the husbands are alike,” he argues with irrefutable skill, displaying his mastery in verse as though seizing and dragging in the doubter, questioning him, and extracting answers.
+
+What happens when finely adorned women join men?
+
+The mouth that had been red becomes pale
+
+(because of drinking from the lips).
+
+The eyes become red
+
+(because of erotic revelry).
+
+The painted *toyyil* upon the breasts is erased
+
+(by the broad shoulders).
+
+The garment loosens
+
+(because that is the very beginning).
+
+Therefore, the pond and the husbands are alike! That is what he says. What subtle erotic flavour! Was it for this that he undertook to sing a great epic? The loosening garment, the breast whose *toyyil* has been erased, the paled lip and reddened eye—is it to see these that we have the *Ramayanam*? Our view is that scenes of this kind create erotic inquiry and erase the very dignity proper to a divine story.
+
+Nor does the poet say, even as a protective measure, that although the men and women danced and sang, their minds were not corrupted and their nobility was not ruined. Unlike his defenders, he is not one to “hide the fruit behind a leaf” and speak indirectly! Through one poem he argues on my behalf, saying that the water sport did indeed kindle the fire of lust.
+
+The pond began to boil—the pond filled with honey-dripping flowers—because that young woman bathed in it! People go to bathe in cool water so that the body’s heat may leave them. This maiden too went and bathed in just that way. But that body of water becomes as though placed upon a fire; it boils! Why? That tender-bodied woman has lit a fire. Nor is she to blame: the sight she saw or the thought she entertained kindled the fire of lust within her. That alone made even the cool pond grow hot.
+
+The poet has stated explicitly that she burns with lust. Would the fire of lust leave either her or the pond in which she joined the sport untouched? Listen to the poem:
+
+> “Fragrant powder, the fresh perfume of that day,
+> honey-dripping pollen and flowers brimming in its waves—
+> even that cool water grew hot, as the body heat
+> of a finely adorned, heavy-hipped woman burning with lust heated it.”
+
+“A woman burning with lust”—one heated by the torment of desire;
+
+“A finely adorned woman heavy in the hips”—a maiden wearing beautiful ornaments and possessing the weight of her hips;
+
+“Her body heat”—the boiling heat of her body;
+
+“Heated”—because it burned;
+
+“Fragrant powder”—sweet-scented powder;
+
+“Fresh”—bloomed that day;
+
+“Perfume”—fragrant;
+
+“Honey-dripping”—pouring honey;
+
+“Flowers brimming with pollen”—containing blossoms that bloom together with their pollen;
+
+“Cool water with waves”—a cool pond with ripples;
+
+“Grew hot”—became heated.
+
+Even with all the caution Kambar’s defenders might exercise, the meaning they can give to *nitambam* is “the lower rear portion behind the waist”!
+
+With the fire of lust blazing in her heart and her body growing hot, the very pond, touched by her, became heated, it seems.
+
+Therefore the emotion under whose sway the maidens sporting in the water remained becomes clear. Kambar states it—
