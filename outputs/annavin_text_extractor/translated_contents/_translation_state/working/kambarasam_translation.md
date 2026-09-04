@@ -1,8 +1,8 @@
 # Kamban’s Nectar
 Tamil title: கம்பரசம்
 <!--
-Translation checkpoint: Part 10, Image 6 complete.
-Next source boundary: Part 10, Image 7 (007-8b56642808.png), beginning “இவள், குவளையில்”.
+Translation checkpoint: Part 10 complete (through Image 10).
+Next source boundary: Part 11, Image 1 (001-1e8bbe610f.png), beginning “மாம், விழாவாம்!”.
 Canonical bilingual output has not been built; pending counts must remain unchanged.
 -->
 
@@ -1414,3 +1414,96 @@ A flower bed! Flower-adorned women! A wine jar! That is how it begins. In verse 
 This is no ordinary drinking! The moment it touches them, lust bursts forth! Thinking, “We can sing the excellence of Rama’s arrow later; now let us finish describing the excellence of this delectable drink,” Kambar describes at length the mischief it produced.
 
 One woman sees a form reflected in the wine and thinks it is her friend. It is her own face that appears in the liquor, but because she is intoxicated she imagines some other woman has come to drink the wine she possesses.
+
+Another has nothing in her cup; moonlight falls into it. Mistaking that for liquor, she tries to drink it. One woman becomes a great benefactor. The moon in the sky appears in her goblet, and she calls, “Come! Come! You too come and drink a little. Do not be afraid—come!” One woman asks, “Where is that man? The fellow has no sense of time or thought! Go, girl—run and bring him!” and sends a messenger. Another kicks with her foot the husband lying upon the soft bed and makes him seize trembling passion. It seems that even Manmatha rejoices on hearing their words and seeing their deeds!!
+
+Just as Kambar said that bathing resembled joining in union, he says that drinking too gave pleasure like sexual union. To compose poetry like this, one must know not merely alliteration and rhyme but all the flavours and emotional states through experience—or must have kept company with people who enjoyed such pleasures. It will not come of itself!
+
+“*Ilavam*-flower lip”—a lip like the *ilavam* blossom;
+
+“Losing its astringent hue”—its redness departing;
+
+“Honey coming from the teeth”—honey-like liquid emerging from the teeth;
+
+“The knots at breast and concealed region coming undone”—the bodice upon the upper region and the garment over the concealed region having their knots loosened;
+
+“Waving hair drooping”—the flowing hair coming undone and hanging down;
+
+“Through the play of weariness”—because mocking laughter arises;
+
+“The union performed by the husband and liquor were alike”—the husband’s sexual union and the liquor resembled one another. Verse 24.
+
+Women whose flower-adorned hair comes loose; men who grasp and pull the girdle spread across the *alkul*; falling gems; babbling mouths; reddened eyes; shed tears; rolling cups—all of it. They are portrayed in a fashion that surpasses even the tales told of the magnificent scenes in which the padishahs of Arabia dallied and played with a thousand beauties.
+
+The woman in a tremor kicking with her foot; the man versed in many methods engaging in battle; the milk-white moon; the fresh fragrant liquor poured into crystal cups—such was the boon they bestowed!
+
+He does not omit even the most exceedingly intimate affair.
+
+> “Men with swaying garlands fragrant with honey
+> and cool, sweet-scented locks,
+> skilled in the modes of union, cast away the garments
+> of peacock-like women ripe for joining;
+> despising the girdle that clasped the full, broad *alkul*,
+> they cast it far away—
+> can those whose nature is like a sounding drum
+> guard a precious secret?”
+
+“Honey-fragrant”—giving off the scent of honey;
+
+“Swaying garland”—a garland that moves;
+
+“Men with cool, sweet-scented locks”—men possessing fragrant, adorned topknots;
+
+“Skilled in the modes”—knowing the techniques of sexual union;
+
+“Peacock-like women ripe for joining”—women possessing the readiness proper for union;
+
+“Cast away the garments”—taking the clothing and throwing it aside.
+
+The women skilled in the modes of union are mature maidens. The flower-adorned men who approach them remove the garments and fling them away.
+
+You will say, “Enough! We can understand the rest.” He does not let go.
+
+“The full, broad *alkul*”—the full and expansive concealed region;
+
+“Despising the girdle that clasped it”—hating the girdle ornament that closely encircled it;
+
+“Cast it away”—they flung it aside.
+
+Thinking, “What if the inexperienced, who know no *rasam*, ask whether one should do all this?” the emperor among poets explains that what the man did was entirely proper—
+
+for the deed about to take place is supremely secret. If the girdle ornament remained, it would make a sound and outsiders would learn of the affair. That is why he cut off and threw away the girdle surrounding the *alkul*, they say. He bestows a simile for that too! He asks whether people whose nature is to sound like a drum ought to be allowed to remain where a supremely secret event takes place.
+
+> “Can those whose nature is like a beaten drum
+> be suited to a precious secret?”
+
+Behold this poetic statement.
+
+It appears that Kambar then became worried: “We have lost a fine opportunity! When the girdle moves in the battle of union and its sound is heard, does that not yield a distinctive pleasure? Yet here we have said that they cut off and threw away the girdle ornament! What have we done? A grave mistake.” Perhaps that is why he even displayed the sound of the battle of union in another poem—boldly climbing and standing upon the summit of obscenity.
+
+These, after all, are the amorous sports that occurred as Dasaratha, surrounded by his retinue, travelled through the forest to witness Sita’s wedding ceremony that was to take place in Mithila.
+
+Kambar conveys the many kinds of sounds that arose in the forest—including a sound that any poet would blush to convey!
+
+“The sound of the fashioned song of those binding newly caught elephants”—the sound of the song composed by men tying up elephants that had just been captured.
+
+“The sound of drunken men babbling to women”—the sound of intoxicated speech spoken by men who had drunk to the women.
+
+“The clamorous sound of the ornamented girdles upon the *alkul* of public women”—the sound of girdle ornaments arising during the public women’s battle of union.
+
+“The sound made by musth-seized elephants rejoicing in exhilaration”—the trumpeting sound made in delight by elephants seized by musth!
+
+These sounds surrounded them, says the poet—after adding erotic flavour wherever he found it and drinking Kamban’s nectar to his fill.
+
+> “Raghupati Raghava Raja Ram,
+> purifier of the fallen, Sita-Ram.”
+
+People believe that singing this and beating time brings fulfilment to one’s birth. Fearing that the heat will rise if I continue explaining more and more of the other verses, I stop here. If we expect “Rama’s nectar” from the pure man who dared go so far as to describe the girdle ornament sounding during the battle of union, we are bound to be disappointed. Recognising that he composed his epic to provide “Kamban’s nectar,” we conclude by saying, “Rama! Can your story be stained like this?”
+
+## Kambar’s “Festival”
+
+“Wha...at...is...that...hey! Who d’you think... You know who I am? I’m your father...hey!”
+
+Very low-grade! The drunkard is dragging someone into a wanton quarrel. He hurls whatever abuse comes to his mouth. The contortions of his body exceed even the effects in his speech. He declares himself ready for a heroic and valiant fight—he, who is in such a state that if he falls he cannot rise. And for all this, he has seen a form and imagines that it is challenging him to fight. It is only a lamppost! Both sight and speech are malfunctioning!! Why? A celebration? A festival!
+
+Instead of saying that some depraved fellow has drunk and is dancing, they call it a celebration—
