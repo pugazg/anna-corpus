@@ -1,8 +1,8 @@
 # Kamban’s Nectar
 Tamil title: கம்பரசம்
 <!--
-Translation checkpoint: Part 4 complete through Image 10 (the duplicate Image 5 slot has no repeated source block).
-Next source boundary: Part 5, Image 1 (001-2c8e771b5e.png), beginning “படித்தீர்களா”.
+Translation checkpoint: Part 5, Image 3 complete.
+Next source boundary: Part 5, Image 4 (004-9c3712895f.png), beginning “கண்ணை மூடிக்கொண்டு”.
 Canonical bilingual output has not been built; pending counts must remain unchanged.
 -->
 
@@ -492,3 +492,54 @@ Attendant: The man who came with the sage...!
 Sita: That red-lotus-eyed man? My own lord!
 
 This conversation takes place in Mithila’s women’s quarters. When Sita learns that Rama himself broke the bow, her doubt vanishes, agitation ceases and joy is born. At once a “clatter” is heard. Is it an anklet? No. The sound of bangles? Fie! Would Kamban concern himself with that? It is the sound of the girdle falling to the floor! A girdle is an ornament worn over a woman’s hidden place! Her *alkul* swelled with joy, it seems, so the girdle snapped and fell. This happened to the lord’s own lady, the protectress of all worlds!
+
+“With the noble sage”—with Visvamitra;
+
+“the coming cloud”—the man who came like a cloud;
+
+“after she said”—after the attendant said this;
+
+“the lotus-eyed one”—the man like red-lotus-eyed Tirumal;
+
+“by the nature of those words”—because she had spoken in that way;
+
+“yes”—yes indeed;
+
+“can it be he?”—is it truly he?
+
+“the doubt”—the earlier uncertainty;
+
+“she shed”—Sita, who was rid of it;
+
+“the lovely girdle”—the beautiful waist ornament;
+
+“snapped”—so that it broke and fell;
+
+“the *alkul* swelled”—the hidden place swelled with happiness.
+
+It seems this “virtuous matter” would not have been complete unless the magnificence of the *alkul* swelling with joy beneath the clothing had been told! I called this rare skill by which he brought the hidden place into the open an X-ray. Do not forget what sort of *alkul* the poet had already said it was before it swelled: it belonged to the lady of the broad and mighty *alkul*, for which even a serpent’s hood and a chariot-platform proved inadequate as comparisons! When even that swells, what is there to say except “Ayyo! Ayyo!” in the manner of a song from the film *Mangamma*? There is no surprise that Kamban, who photographed Lady Sita in this fashion, said the ordinary women of Ayodhya had upper parts like young coconuts and buds. When the grinding stone and pestle themselves fly through the sky, need one ask what happens to everything else? Before concluding that he described Lady Sita thus, read for a moment verse 62 of the Bow chapter in the Bala Kanda.
+
+I know the great and rare scholars who thunder, “Kings held Kamban’s betel tray! Ignoramus, you do not know his greatness.” There is no surprise that a poet engaged in the sacred labour of serving up erotic relish in the vessel of poetry possessed immense influence! Nor is there any surprise that rulers protected, praised and supported the man who supplied a sixty-year-old king, upon a swan-down bed at midnight, with poems describing women’s parts in such detail—and who mixed them into a divine story so that neither the reader nor one standing nearby to listen could dismiss them as an erotic performance. Common people say, “Pour me two and a half measures in the flowered glass.” In the same way, whether or not kings said, “Mix desire into Rama’s story, man,” the great soul Kamban poured it in. Crowned rulers whose bodies had sweated from gazing and gazing at intoxicating sensuality—at vines of pleasure, amorous enchantresses, dancing beauties, queens of song, lotus women and women like five-coloured parrots—needed only to drink a dose or two of Kamban’s nectar in the bedchamber. Then all that remained was to plunge into the sea of delight, crying, “Parimalavalli! Pankajakshi! Angayarkanni! Amirthabhashini! The lamp hurts my eyes; the veena’s music torments me. Enough song—hush!” Kamban’s poetry alone was poetry. When it proclaimed aloud, “Her *alkul* swelled and the lovely girdle snapped,” would not the women’s quarters respond, “Girl, shapely beauty! Have you still not lowered the lamp?” I think that was the manner in which the inhabitants of those quarters praised Kamban!
+
+* * *
+
+### Dose No. 7
+
+Many people have gathered and are weeping in a house of mourning. A bitter gourd hangs from the ceremonial awning there. Seeing it, one woman communicates the news to another through her sobs:
+
+> “On the awning, a bitter gourd,
+> on the awning, a bitter gourd.”
+
+Understanding her meaning, the other woman gives her “plan”—that they can pluck it when they leave—in the melody of a lament:
+
+> “We shall see to it as we go,
+> we shall see to it as we go.”
+
+They came to share the grief! A funeral lament!! And within it, a conspiracy to steal! Even that proceeds through song, and all of it in a house of mourning! Were these two alone like this? No! The lady of the house hears their song, learns of the plan to pluck the bitter gourd, and fears: “What is this? They came to share our bereavement and now plan to pluck the bitter gourd.” In the same weeping voice she issues a warning:
+
+> “That was left there for seed,
+> that was left there for seed.”
+
+Thus all three, while weeping, also stated what had arisen in their minds. I say the two women who went to that house of mourning were far better. Why? To see grief, Kamban goes to a grove adjoining Ayodhya where he ought properly to observe the people’s sorrow. Yet even after going there, even at that moment, he sees and cries out only about the excellence of the upper and hidden regions that make him melt again and again whenever he thinks of them.
+
+Like the ladies who planned amid their sobs to pluck the bitter gourd, Kamban pours his erotic liquor into the vessel of poetry amid sorrow itself. Our precious connoisseurs of art find it sweet! In the manner of people who remove a fly or ant fallen into a drinking vessel and then consume its contents, some said it was better to make a few corrections, as our friend T. K. Chidambaranatha Mudaliar did, and then drink.
