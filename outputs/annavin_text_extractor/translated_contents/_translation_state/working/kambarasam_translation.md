@@ -1,8 +1,8 @@
 # Kamban’s Nectar
 Tamil title: கம்பரசம்
 <!--
-Translation checkpoint: Part 4, Image 8 complete (the duplicate Image 5 slot has no repeated source block).
-Next source boundary: Part 4, Image 9 (009-ac71661453.png), beginning “கம்ப இராமாயணம்”.
+Translation checkpoint: Part 4 complete through Image 10 (the duplicate Image 5 slot has no repeated source block).
+Next source boundary: Part 5, Image 1 (001-2c8e771b5e.png), beginning “படித்தீர்களா”.
 Canonical bilingual output has not been built; pending counts must remain unchanged.
 -->
 
@@ -453,3 +453,42 @@ Let that pass. Did he grow weary after the buds? To discover, “This is how mai
 “The nurse-maid women”—for the nurse-maids. With this, the close-up ends and Kamban’s crown grows cool.
 
 Is this an essential and beautiful description, suited to its place and fitting the event? Is this art? Why do they say one should read the *Ramayana*? Recitation of the *Ramayana* is necessary to understand the truth that justice triumphs and unrighteousness perishes, and thereby receive the grace of the Lord of the world! In his preface the poet says, “I relate this noble history so that the world may be redeemed.” But what lies inside it? Is it not merely an explanation that the nurse’s upper region is the size of a young coconut and the maiden’s the size of a bud?
+
+Is this a divine story? Is honeyed Tamil suited only to this?
+
+Kamban does not merely take camera close-ups; he takes X-rays too.
+
+An X-ray is used to photograph the condition and activity of organs inside the body. Kamban too takes an X-ray! Of what, for what purpose, and when?
+
+In Mithila, Janaki hears that Rama has broken Siva’s bow. She rejoices that a path has opened for the very man pleasing to her heart to become her bridegroom. At that moment Kamban fashions a verse by the X-ray method.
+
+An X-ray reveals how bodily organs have grown, broken or swollen according to disease. Organs also enter different states according to emotion. Eyes redden after crying. The mouth of one seized by a severe fever grows dry. The feet of one exhausted from walking ache. Irritation appears on the body of one who itches. In the same way, joyful emotion brings various organs into various states. A camera photographs external organs; only an X-ray photographs internal ones. This is not an explanation of art but the alphabet of science.
+
+Why do I call this Kamban’s X-ray? In one place that noble man tells us the condition of an organ lying hidden somewhere beneath the clothing. That is what I mean. It is not wholly the X-ray method; one may say it resembles it. Let him describe it by saying, “Sita’s eyes blossomed in delight; a commentary of joy flowed; her body thrilled; unbearable happiness brought a peculiar faintness upon the goddess, and she leaned upon her attendants.” But I ask the connoisseurs of art whether, to explain the emotion of Sita—whose heart swelled on hearing it confirmed that Rama would be her bridegroom—Kamban also had to state what condition her hidden place reached at that moment under that thought. I ask the devotees whether the flood of Rama’s grace or the lady’s greatness would remain incomplete without an explanation of that hidden place. I give you the verse; pronounce judgement, comrades!
+
+> When she heard that the cloud-hued one
+> who came with the noble sage
+> was the lotus-eyed Rama,
+> she wondered, “Can it be he?” and shed her doubt;
+> within her lovely girdle
+> her *alkul* swelled!
+
+Do you understand what happened? See the scene here!
+
+Attendant: Mother, he broke the bow!
+
+Sita: Who broke it, girl?
+
+Attendant: He did, Goddess!
+
+Sita: Who, girl? Tell me quickly!
+
+Attendant: I told you, Mother—he is the one who broke it.
+
+Sita: Foolish girl who does not understand my condition! When you say “he,” whom do you mean? Tell me quickly!
+
+Attendant: The man who came with the sage...!
+
+Sita: That red-lotus-eyed man? My own lord!
+
+This conversation takes place in Mithila’s women’s quarters. When Sita learns that Rama himself broke the bow, her doubt vanishes, agitation ceases and joy is born. At once a “clatter” is heard. Is it an anklet? No. The sound of bangles? Fie! Would Kamban concern himself with that? It is the sound of the girdle falling to the floor! A girdle is an ornament worn over a woman’s hidden place! Her *alkul* swelled with joy, it seems, so the girdle snapped and fell. This happened to the lord’s own lady, the protectress of all worlds!
