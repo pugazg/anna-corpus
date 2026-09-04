@@ -1,8 +1,8 @@
 # Kamban’s Nectar
 Tamil title: கம்பரசம்
 <!--
-Translation checkpoint: Part 1 complete through Image 11.
-Next source boundary: Part 2, Image 1 (001-7c6a63bb6e.png), beginning “சிறப்பு”.
+Translation checkpoint: Part 2, Image 3 complete.
+Next source boundary: Part 2, Image 4 (004-5398ad3bd7.png), beginning “இப்படியும்”.
 Canonical bilingual output has not been built; pending counts must remain unchanged.
 -->
 
@@ -105,3 +105,59 @@ In a heaven that had arrived like that, could there be any shortage in the feast
 > and all the young men slept as well.
 
 See with what care and tenderness Kamban pours forth erotic relish. First comes the splendour of the fivefold bed—
+
+then a description of the maidens, and then a description of the scene in which men and women lie sleeping side by side! Fortunately he stopped there! A mattress made of five materials, we are told, had been spread out: the soft inner feathers of a swan, *ilavam* cotton, red cotton, peacock down and white cotton.
+
+Upon a fivefold bed! Ah! What magnificent living, according to Kamban’s picture! Those women, it seems, had eyes that caused the disease of desire! Having attended upon the men, they slept beside the fivefold bed; then the young men too slept! Why, my friend, would sleep not come? Although this poem itself amply demonstrates that Kamban’s nectar is erotic relish, the erotic implication contained in the way it ends—saying that when the celestial women slept, the men too slept—ah, alas, it cannot be put into words!
+
+Now look at the word-by-word gloss and you will know whether my paraphrase is wrong.
+
+“A couch compounded out of five”—upon a bed and mattress made of five materials: swan down, *ilavam* cotton, red cotton, peacock down and white cotton;
+
+“Lac-red applied”—anointed with red lac paste!
+
+“Ankleted shoots”—tender shoot-like feet wearing anklets!
+
+“Poison-eyed women”—celestial women possessing eyes like poison, because they cause the disease of desire;
+
+“Slept like does”—lay nearby and slept like female deer;
+
+“All the young men slept”—every man in Bharata’s army slept!
+
+This is verse 11 of the Coronation of the Sandals chapter; it is not Bharata’s own merchandise!
+
+The poet says “all the young men,” and in another poem—verse 12—he explains its meaning quite explicitly. Those celestial women attended upon everyone “from the kings down to the men with swollen shoulders who bore the palanquin.” That is: beginning with the kings and ending with men whose shoulders had swollen from carrying palanquins, the women lovingly attended and mingled with them all, then lay beside them upon swan-down couches. The man who summoned them to perform this sacred Aryan service was Bharadvaja.
+
+They say those who perform merit in this world will enter heaven. If one performs merit in that fashion, is the service of celestial women to operate a house of prostitution that asks no price? Is this what dwelling in heaven means? Must a sage’s feast be conducted in this fashion? Should an army setting out to relieve a prince’s distress engage in this “hunt” along the way? Is this worthy of heaven? Is it just for a rishi? Is it becoming in warriors? What reason can be given for Kamban’s insertion of this scene into the story of God’s sacred incarnation other than his boundless attachment to erotic relish? Connoisseurs of art! Show a little mercy and answer.
+
+* * *
+
+### Dose No. 3
+
+Kannan, distraught because his bull has gone missing, speaks to Velan and asks him to find it. Velan agrees. “Do you know what my bull looks like?” Kannan asks, and then begins describing its identifying marks to Velan. Listen to their conversation.
+
+“My missing bull is black!”
+
+“Very well.”
+
+“It has horns that curve forward.”
+
+“Oh!”
+
+“It is neither very tall nor very short, but of medium height.”
+
+“Is that so?”
+
+“Extremely docile—even a child could catch it. It will not butt you, and will not kick even if you approach. Harnessed to a cart, it pulls along nicely. It is a little white around the mouth. Only four teeth!”
+
+“That is enough, sir; you have given me its marks. I shall search for it. Whatever field it may be grazing in, I shall find it even if I have to wander about.”
+
+“Yes, my friend! Search diligently. There is one more mark that I forgot to mention. Its nostrils are broad, and the hair of its tail hangs in a thick bunch.”
+
+“What, sir! Must you describe even its nostrils and tail hair? The marks you gave earlier are enough! A black bull, medium-sized, docile, with curved horns—those marks are sufficient.”
+
+“What can I say, brother! My affection for that bull, and my determination that it must somehow be searched out and found, make me describe it without omitting a single mark. Listen to one more. If it runs a mile, it foams; if struck with a whip near the ear, its brains will show; if lightly tapped upon the back, it breaks into a long stride.”
+
+“Excellent! To find it, I must first harness a bull to a cart, drive it for a mile, strike it with a whip, and only then determine whether the marks you gave are correct. I shall have to harness every black bull I encounter on the road to a cart. Is this how you set about giving identifying marks?”
+
+What will Velan think of Kannan? Surely he will think, “It appears that when this man lost his bull, he lost his wits as well. That is why he gives such marks and asks me to search for it.”
