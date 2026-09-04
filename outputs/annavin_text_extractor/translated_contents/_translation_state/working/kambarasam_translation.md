@@ -1,8 +1,8 @@
 # Kamban’s Nectar
 Tamil title: கம்பரசம்
 <!--
-Translation checkpoint: Part 5, Image 6 complete.
-Next source boundary: Part 5, Image 7 (007-6044d04fdb.png), beginning “வர்ணித்திடும்”.
+Translation checkpoint: Part 5 complete through Image 10.
+Next source boundary: Part 6, Image 1 (001-220b0607f8.png), beginning “வழங்கியிருப்பது”.
 Canonical bilingual output has not been built; pending counts must remain unchanged.
 -->
 
@@ -568,3 +568,45 @@ Very well! You may think of saying, “Whatever else, Bharata, he takes a little
 Rivers originate in mountains. As they travel, they sweep alluvial soil along their course. At last the river joins the sea. You will have heard many masters of poetry describe this natural arrangement. I am no boor who refuses to praise a poet who uses his art to portray beautifully an exceedingly ordinary natural structure or action and sends readers into rapture—just as one praises a painter whose finesse in depicting even the most ordinary scene delights and amazes the viewer, or a musician whose sweetness of voice and excellence of enunciation make even the most commonplace song cool the ears and minds of listeners.
 
 Nor has my heart been specially constructed so that genuine poetry cannot melt it. Therefore, when one describes nature—
+
+I shall never fail to praise poets who describe it beautifully. Could the places where Kamban displays his talent in this field fail to delight me? My heart trembles only when I reflect upon why that poet turns even nature into an intoxicating vine for erotic relish. Let him say that virtue is born of learning as a waterfall springs from a mountain; let him say intrigue is born of deceit. Let him say that from the mountain of virtue called the lord whom he praises and worships, the waterfall called grace issued forth, swept away the alluvium called Kaikeyi, and travelled onward. Let him offer a thousand thousand similes. I have no objection to reading them and no impediment to praising his learning. But I ask connoisseurs of art to consider for a moment what Kamban used as his comparison for the subject of a river springing from a mountain and joining the sea. Then the obscenity of the method he employed will become clear.
+
+I am not ignorant that hyperbole and the choice of many objects for simile are the rights of poets, or that they exercise those rights to delight the world. There are a thousand verses demonstrating Kamban’s hyperbole. I do not fault them. The people of Ayodhya said Rama must go to the forest and cried aloud. The poet said women and cats wept. I did not ask, “Poet, why did the cat weep?” I thought he had used hyperbole to portray grief, and that it was his right. Elsewhere he sings that the tears of Ayodhya’s people swelled like rivers and flowed through every street, while the dust of the chariot roads settled in those rivers as silt. I did not rebuke him by asking whether tears could become rivers and flow. I accepted it as hyperbole. But consider who among those devoted to honour, civilisation, purity, morality, true art and belief in God could tolerate the example I am about to give!
+
+The women wept; water sprang from their eyes like waterfalls. The poet describes this. He links it to the natural order by which great rivers spring from mountains and join the billowing sea, in a manner that sets the full artistry of his mouth in motion! From the poetic mountain called Kamban, my friend, springs the obscene waterfall called erotic relish! Behold it. Lift the book! Look at verse 184 of the Departure from the City chapter in the Ayodhya Kanda! If any servant of Kamban is nearby, ask him whether this is Kamban’s nectar:
+
+> The rivers of tears from their eyes—ah!—
+> dragging pearl necklaces along,
+> bearing between them as silt
+> thick kumkum paste and sandal,
+> left the mountain-peaks of close-set breasts
+> and entered the broad sea of the *alkul*
+> encircled by the girdle.
+
+Remember, comrades, that the subject the poet undertook to describe was the swelling of women’s tears! Now make the word-by-word gloss. Split the poetic phrase “rivers of tears from the eyes—ah!” into its words. Here “ah” is metrical filler! I say it is more than mere filler: it is the cry of wonder uttered by Kamban, who lost himself because he did not know what to say. You will ask what in that “ah!” merits such amazement. Examine the meaning, and the reason the enraptured poet shouted “ah!” will become clear.
+
+“Rivers of tears from the eyes”—rivers of turbid water issuing from the eyes;
+
+“thick kumkum paste”—abundant paste of kumkum;
+
+“and sandal”—red sandal paste too;
+
+“between them”—in the spaces between;
+
+“bearing as silt”—collecting it as muddy sediment;
+
+“dragging pearl necklaces”—they pulled along the women’s pearl garlands.
+
+The first two lines are complete. Before going to the other two, attend to the idea. Water springs like a waterfall from the eyes. Those rivers of tears sweep away the fragrant coatings of kumkum and sandal applied to the women’s bodies, and carry off the pearl garlands they wear together with that silt! Ah! What learning! What sweetness! “Man without taste! You say this epic must be burned. Look, look, look at Kamban’s skill in declaring in classical Tamil that the rivers of tears sweep away the silt of kumkum and sandal and drag pearl garlands with them!” lovers of “taste” will say. I tell them, “Swamis! Wait a little. Do not travel at the river’s speed. Look at the other two lines for a moment.” Then I explain the meaning of the third and fourth lines.
+
+Where did the rivers of tears go with their kumkum silt? Split the third line into its words: “leaving the peaks of the close-set breasts”—departing from the mountain peaks formed by breasts pressed near each other. Is Kamban’s nectar perceptible now? Look, he has arrived at his distinctive talent! The river of tears, it seems, climbed and descended the mountains formed by the breasts! The upper region is not merely mountain-like; it is close-set. The pass between the two mountains is not very broad! Very well. Did he stop with this obscenity? What a question to ask, man! Would a river stop midway? It issued from the eyes, sweeping away the products of union as silt. After crossing the mountains of the upper region, must it not mingle with the sea? Here the poet makes us tremble. Read: “entered the broad sea encircled by the girdle”—it entered the sea called the *alkul*, upon which the waist ornament was worn!
+
+Sing, connoisseurs, sing! Sing “Raghupati Raghava Raja Ram.” A perfect flood of devotion will surely arise now, after hearing the sacred story of the river of tears crossing the peaks of close-set breasts and entering the broad sea! Comrades! Do you know the paraphrase of this verse? Water flowing from the eyes rolled over the upper region and entered the women’s hidden place. I ask whether this is art! Did Sadaiyappa Vallal give Kamban every resource so he could sing of the broad sea encircled by the girdle and the peaks of close-set breasts? Has any poet sung in a divine story of rivers of tears entering the broad sea encircled by the girdle? Have you ever seen such a novelty adorned with jewels? Is this the work of learning? I ask whether devotional sentiment would fail to enter the mind if the poet had not sung that women’s tears entered their hidden place. Pity those women of Ayodhya! Had they known that a poet would depict their tears in this fashion, they would not have wept even if a thousand Ramas went to the wilderness!
+
+Comrades! My very being trembles. When this is presented to the country as art, are the swelling that snaps the lovely girdle, the radiance that shines outward, and the river of tears entering the broad sea central features of a divine story? Are they the summit of art? Is this the proof of learning? Is this the book of merit? Let poets, devotees and those friends who say, “Whatever people the story concerns, attend only to the art,” speak. Ask them whether such Kamban’s “nectar” gives belief in God or artistic feeling—or whether it intoxicates the mind even of a decrepit old servitor “whose belly sags, whose hair is pale, and whose body is heavy with flesh,” making him imagine “young women rubbing flower-like feet and, once they know his intent, performing many acts.”
+
+* * *
+
+### Dose No. 8
+
+I have one source of happiness, comrades! Do you know what it is? I take some satisfaction that Kamban wrote Rama’s story rather than choosing and writing many other stories of gods. In Rama’s story, in the name of poetry, what Kamban has supplied—
