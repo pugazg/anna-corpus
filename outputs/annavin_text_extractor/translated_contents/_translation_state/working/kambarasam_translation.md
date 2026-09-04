@@ -1,8 +1,8 @@
 # Kamban’s Nectar
 Tamil title: கம்பரசம்
 <!--
-Translation checkpoint: Part 3 complete through Image 10.
-Next source boundary: Part 4, Image 1 (001-44c2e4e871.png), beginning “மட்டுமென்ன”.
+Translation checkpoint: Part 4, Image 4 complete (the duplicate Image 5 slot has no repeated source block).
+Next source boundary: Part 4, Image 6 (006-7c990239a4.png), beginning “மிகப் பரிதாபகரமான”.
 Canonical bilingual output has not been built; pending counts must remain unchanged.
 -->
 
@@ -332,3 +332,73 @@ Is this devotional sentiment? I ask whether the poet fashioned with such care th
 “Why, woman! Natural? Seizing and pulling one’s younger brother’s wife by the hand is natural? Fie, wretch! Whatever else may be so, can one have a mind like this?”
 
 Must I explain to all Tamilakam between whom this much-heard and much-enjoyed conversation occurred? What I have given above is a fragment of the comedy performed by the king of humour N. S. Krishnan and the graceful comedienne T. A. Mathuram in *Thiruneelakandar*! A lust-blinded man tries to drag his younger brother’s wife into an improper act. The younger brother drives the wrongdoer out of the house, then grows weary with grief that his own elder brother committed such an outrage. If the woman says, “That is natural,” would he not become angry? Even the smiling beauty would be scolded: “Fie, wretch!” In the same way, because I repeatedly and forcefully ask whether Kamban’s composition of a divine story filled with illicit erotic conduct can be art, some wounded scholars argue, “It is natural.” Poets—
+
+are fond of descriptions, and that is why they describe things in this way, they explain. Is that an argument? At least comrade T. A. Mathuram gave a reason for saying “It is natural” in her comedy: she said that when a man speaks alone with a woman, his mind will naturally become partial. Can our poets not offer at least some such argument, explanation or reason for Kamban’s liquor of desire flowing in this fashion? Instead of giving any reason, or tactfully closing their eyes and remaining silent, they become Jagavira Pandiyans.
+
+“We speak,” they say. “The flavour of classical Tamil drips from Kamban’s poetry.” I ask: may there be obscene descriptions? May so much aphrodisiac of desire exist in what is proclaimed a sacred history, intended for spiritual instruction about the Lord? Those scholars answer, “It is natural.” As my comrade N. S. Krishnan did, I feel inclined to say, “Fie, wretch! Is this natural? Whatever else may be so, can one have such a mind?” Yet I cannot bring myself to do it, because those scholars are guardians of the Tamil I cherish and because of my affection for them. If one begins offering the explanation “It is natural” for everything, every kind of outrage, obscenity and injustice may freely dance its wild dance throughout the universe; justice, law, courts, legislatures, morality and the rest may all retire.
+
+At least the statement, “If a man speaks alone with a woman, his mind naturally becomes partial,” has some measure of relevance! For Kamban, a partial mind arises in perfection at the mere thought of woman. It is rare for the thought of woman not to arise in him. Kambanattalvar therefore appears as a stainless embodiment filled to perfection with partiality. I feel no anger towards those who say his sacred utterance itself is scripture for recitation; I feel only pity. They say that when a man accustomed to eating opium cannot obtain it, pain arises throughout his body and he may even die. Likewise, if maidens who have passed their lives drinking and drinking Kamban’s nectar are deprived of it, their life-breath may ebb away! Alas, what pity.
+
+At least once every ten verses he has sung of maidens. While singing, he forgets Rama, abandons Hari, sets merit and liberation to one side, and pours out the intoxication of desire without hindrance, crying, “Perfect bliss!” Whatever he sees appears to him in the form of woman. Whatever the occasion, thoughts of women’s parts burrow into his mind; a peculiar itch arises in his heart; at once, comrades, erotic relish falls from him!
+
+The people of Ayodhya rejoice on hearing that Rama is to be crowned. In their joy they decorate the city and fashion many kinds of festive ornament. Kamban describes it! In Ayodhya’s mansions banana and areca trees have been planted, strings of pearls arranged as festoons, and ceremonial full pots set out. The poet set out to describe this sight. But the chapter does not end after describing the luxuriance of the banana, the growth of the areca, the lustre of the pearl strands and the beauty of the full pots. Having spoken of the house’s beauty, he later describes the thoughts and actions of the men and women inside it. There is therefore a separate place for a description of the women. But must not Kamban wait until he enters the house before speaking of them? Can he remain patient that long?
+
+Is he an ordinary poet who would describe things in a manner suited to the occasion? When people wish to mock a lust-blinded man in a village, do they not say, “That fellow? Even if a sari were tied around a post, he would think it a maiden and approach it”? Let that ruined man go! Kamban, our epic poet of Hari’s story, surpasses him. The banana tied in front of the house brings a woman’s thigh to the poet’s mind; the areca tree, a maiden’s neck; and the pearl garland, the row of teeth of a beauty displaying an enchanting smile.
+
+You will have heard many say of God, “Radiant everywhere, without distinction between here and there”; “Perfect bliss, pervading without omission wherever one looks”; and “He is in the pillar and in the splinter.” For Kamban the directly visible deity, the fallen divine form, is woman. To his eyes every object appears pervaded by that “power”! What if it is a banana tree? What if it is an areca? To him they all resemble the parts of young women. Yes: my question is whether eyes in that condition are poetic eyes or lustful eyes. Look at verse 30 of the Manthara’s Plot chapter in the Ayodhya Kanda:
+
+> Banana trees were arranged
+> like women’s thighs;
+> areca trees stood thick
+> like those women’s necks;
+> pearl garlands hung like rows of teeth
+> in their radiant smiles;
+> and golden ceremonial pots were ranged
+> like their breasts.
+
+Let us split the words and explain their sense, comrades; then it will be known whether I am false or truthful, and whether I speak the truth.
+
+“There”—in that Ayodhya;
+
+“like women’s thighs”—like the thighs of women;
+
+“banana trees”—banana trees;
+
+“were arranged”—were set in place;
+
+“like those women’s necks”—like the necks of those women;
+
+“areca trees”—areca palms;
+
+“stood thick”—were abundant;
+
+“like the radiant smiles”—like the rows of teeth possessing the women’s full radiance;
+
+“garlands”—strings of pearls;
+
+“hung”—were suspended.
+
+Comrades! Why must thoughts of women arise in one who began describing the decorations of a mansion? Is there no simile for a banana tree other than a woman’s thigh? Could he not have contented himself by saying that only in Ayodhya, so rich in many resources, could banana trees tall enough for its enormous, lofty mansions be found? Could he not have delighted hearts by saying that the areca and banana trees tied there made one wonder whether it was a town or a grove? It seems that the moment banana and areca were mentioned, art required him to gird himself, seize the stylus and race into a description of long-haired women!
+
+“What is this, Bharata? Kamban used only women’s thighs, necks and rows of teeth as similes. Why such anger and condemnation?” you will ask. Do not be hasty, friends! I have given only three lines of the verse. In the fourth he displays his distinctive poetic relish. Would Kamban stop with thigh and neck?
+
+Only when he concludes,
+
+> “Golden ceremonial pots stood ranged
+> like women’s breasts,”
+
+is the poem complete and the poet’s heart satisfied to some extent. Full ceremonial pots had been placed in the mansions; they resembled women’s breasts, it seems!
+
+“Like the breasts”—like women’s breasts;
+
+“golden ceremonial pots”—full pots made of gold;
+
+“stood ranged”—were arranged in rows.
+
+There is something special in the poet’s phrase “golden pot.” It was not merely the pot’s shape that reminded him of breasts. He adds the qualifier “golden,” meaning made of gold. What does this mean? The colour glitters. Thus the pot’s rounded fullness and its glittering colour together bring maidens’ breasts to the poet’s mind.
+
+Let thoughts of this kind arise freely. But I ask the scholars to consider whether the character of poetry would be ruined or the condition of art unsettled if this simile did not appear here. What is the purpose of forcibly inserting this bodily description in a place where it is wholly unnecessary? Does Kamban’s heart—which sees a pot made of gold to display Ayodhya’s wealth and remembers a maiden’s breasts—demonstrate the wealth of his learning or reveal the mire of desire? Is this same occupation to continue without rest? Is it proper for one who set out to write the history of a great hero—the divine play of God?
+
+Reading the *Kamba Ramayana* alone is enough to inform the whole world how that upper region ought to look; there will be no rival or opposition. One may say successively that it should be rounded like a pot, shaped like a golden casket, resemble a tender red coconut, be youthful, and be capable of snapping a tightly bound breast-band.
+
+Gathering the material from Kamban’s poetry, it would be fitting to say that Kamban wrote a supreme treatise on the arrangement of that upper region! It would be fitting to proclaim that work the Veda for that subject! But must sublime artistic skill be assigned to this sphere within the sacred incarnation story of the god of gods, the eternal first of the Vedas? Is this proper, I ask. What use is there in becoming angry with me, comrades? The more one stirs, the more emerges! Listen by the cartload to the poet’s talent! Not content to stop after describing women’s upper parts, for “the protection of the world” (!!!) he has graciously opened his sacred mouth and explained how their arrangement differs at different ages. A form suited to age is natural! Dark hair for a maiden; grey hair for a grandmother! Gleaming teeth for the young beauty; a toothless mouth for the grandmother! Kamban has no occasion to develop distinctions of age in that fashion. In a single verse he describes women of two ages—the mature woman and the maiden. There he explains how breasts will look for the one and how they will look for the other. On what occasion do you suppose?
