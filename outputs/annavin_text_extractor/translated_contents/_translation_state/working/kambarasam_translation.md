@@ -1,8 +1,8 @@
 # Kamban’s Nectar
 Tamil title: கம்பரசம்
 <!--
-Translation checkpoint: Part 10 complete (through Image 10).
-Next source boundary: Part 11, Image 1 (001-1e8bbe610f.png), beginning “மாம், விழாவாம்!”.
+Translation checkpoint: Part 11, Image 3 complete.
+Next source boundary: Part 11, Image 4 (004-e56949c99c.png), beginning “ஏதேதோ செய்தனர்”.
 Canonical bilingual output has not been built; pending counts must remain unchanged.
 -->
 
@@ -1506,4 +1506,38 @@ People believe that singing this and beating time brings fulfilment to one’s b
 
 Very low-grade! The drunkard is dragging someone into a wanton quarrel. He hurls whatever abuse comes to his mouth. The contortions of his body exceed even the effects in his speech. He declares himself ready for a heroic and valiant fight—he, who is in such a state that if he falls he cannot rise. And for all this, he has seen a form and imagines that it is challenging him to fight. It is only a lamppost! Both sight and speech are malfunctioning!! Why? A celebration? A festival!
 
-Instead of saying that some depraved fellow has drunk and is dancing, they call it a celebration—
+Instead of saying that some depraved fellow has drunk and is dancing, they call it a celebration—a festival! What is this, sir? It is absurd. At a festival, is it not proper for one’s heart and face to blossom, for one to scatter loving words freely, and happily mingle with family, kith and kin, and friends? Some drunkard takes a coconut or palmyra tree as his intimate companion and lies measuring the street with his body. How can your statement that he is celebrating a festival be fitting? Is this the deed of cultivated people? The country’s degeneration dances before our eyes.
+
+If drunken dancing is called the result of a festival, anyone seeking good character will laugh in precisely this fashion. Yet we see festivals, whatever name they are held under, transformed into drunken revels and such antics enacted within them. Those who see and feel no concern laugh. Those who worry that this is a mirror reflecting the country’s condition feel ashamed and grieve. “Behold the spectacle of drink! See the man who consumed liquor wander after losing his humanity! Know that alcohol destroys the mind!” We offer such counsel and sigh deeply, thinking that the country has come to this state.
+
+A festival is a day when joy blossoms. For some, life itself is a festival. For quite a few, every festival is a drunken revel. For most people a festival resembles lightning that bursts forth, tearing through the darkness, and then vanishes. “We suffer hardship all the time. Let this one day be a day on which all hardship is wiped away—or at least forgotten—and let us rejoice. Tomorrow will certainly remain for sorrow, our ancestral property. Let us make this one day a sacred day. Let us wear the best of what we possess. Let us prepare and eat properly whatever we have obtained! Let us forget even what has happened, claim the rights of friendship, and rejoice. Let us ourselves be happy and wish everyone else to be the same.” A festival is the moment when people think this way: a holiday from unending trouble! A day’s leave for the mind that labours without rest! For those whose lives are filled with pain, a festival can only be like this. In such a condition, when some unstable people drink intoxicants at the festival and perform futile antics, must it not cause anguish to those who see them?
+
+It is natural to yearn, thinking, “Why has the country fallen so low? Were our forebears like this?”
+
+We hear men of art say that the culture of the ancient Tamils can be seen in the *Ramayanam* fashioned by Kamban. They even say it in a somewhat loud voice. Poets portray in their works either what existed or what they think ought to exist. On seeing what exists, they set it down and say: “It is like this. This is not good. Is this not how it ought to be?” It is because such works provide a way for people to understand good ideas by which the country may be redeemed that they are praised as golden books. Ask anyone how a festival ought to be, and they will say that it must not be the intoxicated frenzy demonstrated by the worthless man rolling in the street. What is Kambar’s view? How does he wish a festival to be? To see this is the purpose of this essay.
+
+Connoisseurs of art will say, “Man, Kambar wrote about Kakutstha. He did not compose any explanatory treatise about the festival you mention.” I know. Yet his “sacred book” contains notes on the daily lives of kings among kings. It is not merely a notebook recording the war that erupted between unrighteousness and righteousness. Has he not photographed the life of the people—not only people, but everything from the monkey’s antics to the peacock’s dance? Therefore that work must surely contain what he wrote as having happened at festival time. He would have inscribed either what happened or depicted what he thought would be good if it existed in that fashion. Whichever of the two we find will serve, will it not?
+
+As already stated, a festival is a day for joy. Within this joy, no day gives more happiness than a wedding. Yet even on the wedding day many tasks arise that feel burdensome to the mind. Before the wedding day, once it is certain that the wedding will take place, during the period when arrangements are made for it—
+
+delight wells forth. Above all else, joy increases when one sets out to witness the wedding. People acquire a festive disposition. We can see it even today: as a household prepares to go to a wedding, boxes and trunks are taken out; clothes and ornaments are put on neatly; the elder brother is called and the younger brother sought; a cluster of jasmine is given to the wife; the son is clasped to the chest; people laugh and adorn themselves; coins are tossed and banknotes folded. What different kinds of happiness does a family setting out in this way experience?
+
+“That fellow came drunk, sir, grabbed Kuppi by the hand and dragged her along, slurring some sort of song!”
+
+“Where?”
+
+“At Villupuram Junction! We had to change trains. In the meantime the fellow went to the shop. He knocked one back and returned!”
+
+“Ah, the scoundrel!”
+
+“Without thinking in the least, ‘We are going to a wedding house; what will people think if I drink and dance like this on the way?’ he behaved that way.”
+
+“Did he? Why did you not call his elder brother and tell him?”
+
+“Right—that farce too! Do you not know? He had dragged Akilandam away and gone to the bazaar street.”
+
+“Was he like that too?”
+
+“If I tell you each thing, it will only make my stomach burn. I came to wonder why we travelled with these creatures at all.”
+
+Do we not hear conversations like these? This alone is enough to disgust intelligent people. Beyond this, if the matter were that not only the men but the women too drank, made merry, performed erotic dances, lost control, and—
