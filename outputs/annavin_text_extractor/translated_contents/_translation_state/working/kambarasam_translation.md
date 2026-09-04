@@ -1,8 +1,8 @@
 # Kamban’s Nectar
 Tamil title: கம்பரசம்
 <!--
-Translation checkpoint: Part 9, Image 3 complete.
-Next source boundary: Part 9, Image 4 (004-cd07037b6d.png), beginning “சூதாடுவதை இவ்வளவு”.
+Translation checkpoint: Part 9, Image 6 complete.
+Next source boundary: Part 9, Image 7 (007-308198a405.png), beginning “தளரார் மகிழ்ந்தனர்”.
 Canonical bilingual output has not been built; pending counts must remain unchanged.
 -->
 
@@ -1159,3 +1159,54 @@ They drink and dance; they lie gambling; they engage in the battle of union; lov
 “Where is the wristwatch? Good heavens! Even the diamond ring that was on your finger is missing. Where is it?” When asked, the young man who has lost at gambling, left without means and lying distressed with his eyes darting about in alarm, evades the question with some answer: “It is there! At the repair shop! In the cupboard.” His household rebukes him; the country laughs on seeing him. Good people explain to him the evils of gambling and try to lead him onto the right path. At one moment he thinks, “Yes! Gambling is a grave wrong—I must never gamble again.” At another he thinks, “But I must recover the sum I lost; for that I must try gambling once more.” He stakes everything in his hands and gambles even on borrowed money. As the affair grows, he steals the possessions of his own household. Later, he appropriates even the property of the townspeople. Such people deserve to be mocked; elders rebuke them. We are told that sacred stories must be recited precisely so that such base qualities do not arise in the mind; that if one reads, or hears read, stories of great people who followed the good path, pure thoughts will blossom in the mind and one will acquire the strength of mind to hate and reject evil acts such as theft, lust, and gambling.
 
 Here, in Kambar’s epic, the women of Mithila put their fine cloth into the game of dice and stake their upper garments. We see no one rebuke them, saying, “Ladies, this is wrong!” And for all this, the man ruling the city of Mithila was the royal sage Janaka!
+
+Is describing gambling with so much relish meant to cultivate wisdom and character? How could they grow! Kambar has no concern for any of this. Though what he set out to sing was the story of Rama’s incarnation, whenever a section concerning women arrives, the animation he acquires becomes something no other poet can rival. He places them in every conceivable situation, photographs and displays them, and is delighted! He makes them dance and bids them sing. He tells them to leap into waterfalls, makes them join men, tells them to gamble, and tells them to drink fresh fragrant liquor and remain slurring their words! They need only be beautiful. Whatever act they engage in, he has no hesitation in photographing them. The worry never arises in him that, though he has begun to sing a sacred story, he is spending his thought on a description of maidens “from foot to hair.” Through his epic he is a giver of nectar!!!
+
+Whatever he sees, that very preoccupation rushes to the front of his mind.
+
+Raindrops fall upon a mountain! Many have seen it; many poets have made it into poetry. When Kambar sees this sight, a simile that arose in no other poet’s mind arises in his.
+
+Raindrops upon a mountain!
+
+He keeps it just as it is in his memory, thinking he will use it when an occasion arises.
+
+Mother Janaki sees the lord as he walks along the street. The moment she sees him, love wells forth. Kambar is singing beautifully of the mother’s state; then the raindrops falling upon the mountain return to his memory. That is all. What if she is the mother? What if she is the lord’s goddess? Kamban’s nectar appears at once!
+
+Raindrops fall upon a mountain; just so, the drops of water that swelled from Janaki’s eyes fell upon her upper—
+
+> “Like droplets of rain, born of clouds,
+> that pour upon the summit of a mountain,
+> the pearls of her long eyes fell
+> upon the peaks of her breasts.”
+
+“Like raindrops born of the cloud and spilling upon the upper region of a mountain.”
+
+“Pearls of tears fell upon the tips of the upper region!”
+
+Whatever the episode, what does it matter? An opportunity arose for a description of the upper region, and Kambar did not let it pass! He tells his connoisseurs that it is like a mountain. The subject he undertook—the story of Rama—is for the devotees; within it, the description of this mountain peak is for the connoisseurs. Throughout the epic, Kambar’s great virtue is that he must never disappoint his connoisseurs at any time.
+
+When one attends to the construction of verses in many places, it appears that this Kambar set out to sing as though striving to win the title, “In singing of the battle of union and the many varieties of refinements that occur there, he has neither equal nor superior.”
+
+The lord is going to become Sita-Rama. Dasaratha, surrounded by his retinue, is journeying to conduct his son’s wedding. Elephants and horses, palanquins and oxen, musicians and warriors, men and women—a vast multitude proceeds. Is not Mahavishnu, who sits enthroned in Vaikuntha surrounded by many thousands of gods, incarnated here as Rama? Is it not the wedding of such a supreme being? Should not the crowd going to witness it be worthy of that? It would have been enough to sing so; that degree of flavour would have sufficed. Without forgetting the lord, people would behold the sight and rejoice! What does Kambar do?
+
+He looks at the street along which the vast multitude travels. Everywhere, vermilion paste lies scattered. At once his mind leaps to a soft couch—a soft bed. Such a sight would be found upon that bed; it is there alone—
+
+> “that the mark of vermilion upon the slender-waisted woman’s paired breasts
+> and the sandal paste upon the man’s jewel-mountain shoulders mingle.”
+
+That is, it is upon the flower bed that, as a man and a celestial beauty draw close to one another in the battle of union, the vermilion paste applied to the woman’s upper region and the sandal paste applied to the man’s arms mingle together and spill below. Looking here at the street along which elephants and the army pass, he thinks and delights: “Just as upon that bed, vermilion paste lies scattered everywhere!!” The crowd is large, and people must proceed bumping against and pressing into one another—men and women alike. Therefore, as women with vermilion-pasted breasts and men wearing sandal paste draw close as they walk, the pastes drip, fall, and scatter here too, just as they mingle upon the flower bed.
+
+> “As pair pressed upon pair in the crowd,
+> the marks of vermilion on slender women’s paired breasts
+> and sandal paste on men’s jewel-mountain shoulders mingled;
+> the path of that sea-like host shone like a soft couch.”
+
+Marks of vermilion!
+
+Sandal paste!
+
+Pressing together again and again!
+
+These are what he brings to mind! He is only now setting out from Ayodhya—the Departure Canto. When a special correspondent goes to gather news for his journal about Pandit Nehru’s tour among the people, what sort of news would you permit? You would say, would you not, that the special correspondent must provide only news that does not bring disgrace upon Pandit Nehru’s good name and that, from time to time, demonstrates the greatness of the immense and rare undertaking he has assumed? Dasaratha goes with his army to witness the cloud-dark nobleman’s wedding, and Kambar accompanies them. Yet this is the “exclusive report” he supplies at the very outset: vermilion paste mingled and scattered in the battle of union!
+
+Dasaratha rejoiced on hearing that Kausalya’s son was to marry the maiden of Mithila. That is natural—
