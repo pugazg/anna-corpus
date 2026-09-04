@@ -1,8 +1,8 @@
 # Kamban’s Nectar
 Tamil title: கம்பரசம்
 <!--
-Translation checkpoint: Part 1, Image 7 complete.
-Next source boundary: Part 1, Image 8 (008-ae531b9e7b.png), beginning “ஆணிவேருடன்”.
+Translation checkpoint: Part 1 complete through Image 11.
+Next source boundary: Part 2, Image 1 (001-7c6a63bb6e.png), beginning “சிறப்பு”.
 Canonical bilingual output has not been built; pending counts must remain unchanged.
 -->
 
@@ -70,3 +70,38 @@ I think it is the stupor produced by consuming this erotic flavour that has tran
 ### Dose No. 2
 
 I showed how the mighty youths of Ayodhya possessed a mentality lower than that of drunken youths, and how Kamban’s nectar is nothing but erotic relish. The reason the Aryans, who once drank soma and lay about in revelry, came to dominance was that, with the aid of poets possessing this mentality, the ancient Aryans injected their poison into Tamil hearts. The consequence is the dominance of the Aryans today—
+
+flourishing from its taproot. If this dominance is to be abolished, our people must not remain amorous pleasure-seekers swooning over the taste of Kamban’s nectar. Aryanism has been administered together with the sweetness called art and epic, like a harmful intoxicant placed inside a sweet confection. Those who do not recognise this, I say, do not understand the afflictions that have befallen their people.
+
+We see women unfit even to take fourth place in the art of acting become stars through the movements of their eyes, the swaying of their waists as they speak sweetly, and their half-naked adornment. We read newspaper condemnations of their conduct. We say, “Yes, indeed! Whichever film she acts in, her scenes are obscene.” We condemn the degradation of cinematic art. Yet we refuse to come forward and condemn the erotic relish pooled within Kamban’s art. The tongue shrinks; a tremor arises. Why this partiality?
+
+Imagine maidens who have bathed in cool scented water, dressed in silk, applied fragrant sandal paste, put on many ornaments and mounted a fivefold bed: maidens with eyes that kindle attachment, feet whose anklets murmur, coral-red lips, crystal-like bodies, golden complexions and trembling desire. From beside you they wave ceremonial fans and ask, “Beloved, what do you need?” They draw near, speak words of endearment, discharge the five arrows of Manmatha, and lie beside you upon the bed...!!
+
+What would it be like if this “relish” came unsolicited and unexpected? And without spending even a single coin; you have never seen them before and sent them no message. Yet those vines of pleasure gladly bestow delight, attend upon you with their bodies brushing yours, and ask for nothing! Is pleasure that embraces one of its own accord not pleasure indeed? Nor are they misshapen women or decrepit crones past their prime, my friend, but playful enchantresses of the whole world! Maidens in the season that gives pleasure! Beauties with hair fragrant as flowers! They beckon the men close, seize and draw them by both hands, lay them upon a couch, take their places beside them, and pulverise the arrows loosed by that great sinner Manmatha!
+
+“Bharata! Where, my friend, are such ‘blessed women’ to be found? Where are these mistresses of love, embodiments of compassion and goddesses of sacrifice? We lie trapped with killers of pleasure who, even when called with, ‘Sit down, turn your face, have the nits and lice picked out, then get up and come, woman—it is ten at night!’ answer in a feeble voice that cough and fever are dragging and tormenting them. Tell us where that land of pleasure lies, where celestial women rejoice on seeing a man and lead him to Manmatha’s palace!” My comrades will be eager to ask where these maidens, who grant union before it is even requested, live. I know the place, but they will not listen to me. The managing director of that magnificent company is no ordinary fellow. The great sage Bharadvaja—blessed by the Supreme, freed from worldly bonds and attachments, and learned in the four Vedas—is the managing director of this enchanting company of munificent women who never refuse to grant this delight!
+
+“What riddle are you setting us, man? In half a second you have shattered my joy!
+
+“An ascetic who practises yoga as the agent for women who dispense sensual pleasure? We cannot believe it! Is an eminent rishi who subdues lust and anger the administrator of a society for erotic revels? Is the virtuous man who kindles the sacrificial fire and sings the Sama Veda a broker for a company of maidens who kindle the fire of desire and sing songs of love? Fie! This is wholly false,” you will say. Please believe me, comrades! The great sage Bharadvaja himself was the managing agent for that company of “virtuous women”! He summoned them! Their anklets tinkling, they came running. He issued his command.
+
+Those beauties delighted the sage’s guests. Not in leaf-thatched hermitages! Not even in ordinary mansions! In their own mansions resembling the realm of the moon! Is the moon’s realm merely a place of great beauty? Is Chandra some ordinary fellow? He is the worthy man who coupled with his guru’s wife! The magical mansions of those beauties were places of beauty like his realm, places where desire flowed and bodies melted. Hear one more thing! Do you suppose those women made distinctions, saying: “Are you a minister? Then come to the bed! Who are you—the ministers’ charioteer? Very well, go sleep outside! Who are you—the commander? Most delightful; cast off your martial array and come to the bedchamber! Who are you—the commander’s servant? Go and sleep on the street veranda!”—showing kindness to the worthy but tormenting the rest with refusal? They did no such thing! Those dark-tressed women were no wretches who let differences of station halt their love! Those innocent supreme beings knew nothing except that everyone should enjoy delight. All was Jagannatha: no one was omitted. They consented equally to all.
+
+“We can bear this no longer, Bharata! Where is this house of prostitution? What connection has Bharadvaja with it? Did anything ever happen as you claim? Who were those fortunate men? How do you know the incident occurred?” Do not pelt me with question after question, comrades. I shall tell you.
+
+The place where this “house” stood was heaven. Those who enjoyed it were the mighty youths of Ayodhya! The man who organised it was the sage Bharadvaja! And how did I learn this? From Kamban’s story! A complaint once emerged that officials had arranged houses for prostitutes in certain streets of Calcutta and thereby provided soldiers with access to prostitution. All the newspapers raged; even some priests protested. The government denied it; only then did the commotion subside.
+
+None of those moral men who probed the alleged crime of providing men who bought pleasure with money a place to associate with public women will condemn Bharadvaja for setting up this house of prostitution before anyone even asked! I am telling no fabricated tale! I am relating the *Ramayana*, said to be the story of God’s sacred incarnation. Is what Kamban wrote the insipid story of an ordinary fellow? This very “virtuous matter” is present in the *Kamba Ramayana* itself.
+
+When Bharata, the ministers and the soldiers went to bring Rama back to the country from the forest... they encountered the hermitage of the sage Bharadvaja on the way. They worshipped the sage. After enquiring about their welfare, the rishi wished to feast Bharata and those accompanying him. In a forest hermitage, after all, a feast could offer only venison, liquor, the flesh of a tender calf and fruit.
+
+So Bharadvaja kindled the sacrificial fire and made an oblation. “Heaven! Come here!” he commanded. Heaven arrived in that forest! Friends who refuse to believe me should take up the *Kamba Ramayana* and look at verses 6 and 7 of the Coronation of the Sandals chapter in the Ayodhya Kanda. In verse 6 they will find, “with his red hand he cast an oblation into the fire”—that is, he poured certain offerings into the sacrificial flame with his own red hands. In verse 7 they will find, “heaven descended and came to rest”—the heavenly world flew down and stood there.
+
+In a heaven that had arrived like that, could there be any shortage in the feast? An endless abundance of six-flavoured food appeared. The poet might have stopped there! But would Kamban stop? Is Kamban not the guardian of the grove of desire, a man who paints women’s beauty even while describing a house of mourning? He therefore describes all the pleasures enjoyed by those who came with Bharata in the heaven that had plunged into the forest. He says that the beauties of heaven rendered the sixteen forms of hospitality to Bharata’s companions. As though even that were insufficient, he says those maidens laid the men upon fivefold beds and then lay down beside them and slept. Read that verse:
+
+> Upon a couch compounded out of five,
+> beside lac-reddened, ankleted, shoot-soft feet,
+> the poison-eyed women slept like does;
+> and all the young men slept as well.
+
+See with what care and tenderness Kamban pours forth erotic relish. First comes the splendour of the fivefold bed—
