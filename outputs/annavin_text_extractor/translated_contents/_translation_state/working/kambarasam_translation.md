@@ -1,8 +1,8 @@
 # Kamban’s Nectar
 Tamil title: கம்பரசம்
 <!--
-Translation checkpoint: Part 8 complete (through Image 10).
-Next source boundary: Part 9, Image 1 (001-e93096429b.png), beginning “மென்மகளிர் ஓசிந்தனர்”.
+Translation checkpoint: Part 9, Image 3 complete.
+Next source boundary: Part 9, Image 4 (004-cd07037b6d.png), beginning “சூதாடுவதை இவ்வளவு”.
 Canonical bilingual output has not been built; pending counts must remain unchanged.
 -->
 
@@ -1096,3 +1096,66 @@ Wearied soft women!
 What a subtle description! Is it for the worship shelf?
 
 The battle of union—he will not even say that both parties became exhausted. In that matter, he never fails to display such exquisite expertise.
+
+The soft women became weary—the women who are the very abode of softness alone lay exhausted!
+
+All this merely on seeing garlands! The moment he entered Mithila!!
+
+What sort of ornamented women does Kambar show!
+
+Pure women who worship the holy basil; faithful wives who touch their husbands’ feet and press their hands to their eyes; noble mothers who embrace the golden creepers they bore, inhale the fragrance of their crowns, and kiss them; worthy women who feed the poor; discerning women who, educated and endowed with subtle intelligence, serve men like ministers; heroic mothers who teach their sons the intricacies of sword fighting. Are these the women? Because this is a great divine story, anyone would expect all such women to be shown.
+
+Young women who have drunk and are dancing!
+
+Revellers babbling away.
+
+Lest you become disgusted and cry, “Ugh!”, he says that although these young women have drunk and are slurring their words, their faces are lotuses and they are beauties! If told that they lie drunk and pour out slurred speech, do not imagine, poor things, that they might be women of the lower strata or the poor. Did Kambar turn the story of Kausalya’s son into an epic in order to show the poor? The young women lying drunk are ladies of rank!
+
+A crystal goblet.
+
+Fresh, fragrant liquor.
+
+Is such a condition for the poor?
+
+Ladies of rank drink fresh fragrant liquor from crystal goblets and laugh. In a state of intoxication they babble and express their lovers’ sulking!
+
+The very scene we read of in France before the Revolution erupted and destroyed it—how the ladies of Paris lived as revellers, coquettes, and seducers—Kambar shows in Mithila!
+
+Ladies from many parts of the world catch wealthy men with their *sel*-fish eyes, draw them in, keep them, and bring them to Europe’s gambling hall. The men gamble away and lose everything they possess; yet fresh arrivals will still come for women with bodies of fresh gold, coral lips, pearl teeth, diamond eyes, and rose-coloured cheeks. Will loss ever remain permanent for them!!!
+
+Do you see that, through Kambar, the gambling place called Monte Carlo can be found in Mithila?
+
+Women are gambling! They touch and play with dice made of crystal. Do not worry that the beauties’ fingers will become red from repeatedly touching the gambling dice; touched by their red hands, the dice themselves have turned red.
+
+Such gambling! You may think it is mere amusement.
+
+No, friends! No!
+
+Bracelets;
+
+ear ornaments;
+
+necklaces worn as jewellery;
+
+fine cloth;
+
+the *makara yazh*;
+
+the beauties gamble with these as stakes! “Do not stand in our way; we want to see the poem,” you say. Very well—here is the poem. Look for yourselves.
+
+> “Bracelet and ear ornament, necklace worn as jewellery,
+> fine-threaded cloth and the *makara yazh*, they staked in the game;
+> fragrant-garlanded maidens drooped, crystal dice reddened at their touch—
+> he saw many places where long, spear-eyed women played at dice!”
+
+“A place where the game of dice is played”—a gambling place.
+
+“He saw many”—he saw many such places!
+
+Here the women removed and staked everything from their upper garments to their earrings!! That is the very place where Janaki was born!!!
+
+They drink and dance; they lie gambling; they engage in the battle of union; lovers’ sulking arises as its consequence, and they remain absorbed in it. They pluck flowers and sport in the water. This is how maidens appear throughout this sacred story.
+
+“Where is the wristwatch? Good heavens! Even the diamond ring that was on your finger is missing. Where is it?” When asked, the young man who has lost at gambling, left without means and lying distressed with his eyes darting about in alarm, evades the question with some answer: “It is there! At the repair shop! In the cupboard.” His household rebukes him; the country laughs on seeing him. Good people explain to him the evils of gambling and try to lead him onto the right path. At one moment he thinks, “Yes! Gambling is a grave wrong—I must never gamble again.” At another he thinks, “But I must recover the sum I lost; for that I must try gambling once more.” He stakes everything in his hands and gambles even on borrowed money. As the affair grows, he steals the possessions of his own household. Later, he appropriates even the property of the townspeople. Such people deserve to be mocked; elders rebuke them. We are told that sacred stories must be recited precisely so that such base qualities do not arise in the mind; that if one reads, or hears read, stories of great people who followed the good path, pure thoughts will blossom in the mind and one will acquire the strength of mind to hate and reject evil acts such as theft, lust, and gambling.
+
+Here, in Kambar’s epic, the women of Mithila put their fine cloth into the game of dice and stake their upper garments. We see no one rebuke them, saying, “Ladies, this is wrong!” And for all this, the man ruling the city of Mithila was the royal sage Janaka!
