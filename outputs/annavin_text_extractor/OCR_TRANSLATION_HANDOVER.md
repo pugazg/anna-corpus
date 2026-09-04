@@ -110,6 +110,13 @@ quotation boundary in `“விசுவாசிகளுக்"குக்`,
 13 Image 1. No translation has begun, and the six Part 13 image slots remain in
 source recovery.
 
+Part 13's six scans were then fully reconciled, including Narada's warning, the
+wandering Dasaratha and Janaka episode, Prabhamandala's abduction and portrait
+scene, the marriage dialogue, and the closing Pampa Ramayana summary. Recovery
+coverage is now 127/127 image slots (126 distinct scans plus the exact Part 4
+duplicate). All thirteen parts are visually reconciled with their unusual
+printed readings preserved; begin the complete bilingual translation next.
+
 In the latest continuation, four complete but unreliable sources were moved to
 recovery after direct scan checks:
 
