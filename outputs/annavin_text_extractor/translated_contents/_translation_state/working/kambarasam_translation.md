@@ -1,8 +1,8 @@
 # Kamban’s Nectar
 Tamil title: கம்பரசம்
 <!--
-Translation checkpoint: Part 8, Image 6 complete.
-Next source boundary: Part 8, Image 7 (007-a1a0f6e707.png), beginning “அல்குல் என்றது இடை என்று”.
+Translation checkpoint: Part 8 complete (through Image 10).
+Next source boundary: Part 9, Image 1 (001-e93096429b.png), beginning “மென்மகளிர் ஓசிந்தனர்”.
 Canonical bilingual output has not been built; pending counts must remain unchanged.
 -->
 
@@ -1005,3 +1005,94 @@ Lord Rama is still in the womb—Dasaratha himself has not yet been shown. Kamba
 Having declared in his preface that through the epic called the *Kamba Ramayanam* he would show the path to acquiring “merit,” he takes us straight to the moat, shows it, and tries to delight us by asking, “What a moat! See how it is—is it not like this?” In truth, when I find fault with admirers who begin thinking of the simile even as they read the poem about the moat, it is naturally bound to appear infuriating.
 
 Just ask, “What is it, sir? Why are you staring so fixedly?” of the fellow who, imagining that no one knows, stares at some woman’s figure as though he would devour it. He will fly into a rage! “Fie! Mind your own business and go! Was I looking at her? I was examining whether the sari she wore was cotton or silk,” he will say angrily. Is it not the same with those whose hearts rejoice at that moat displayed together with Kamban’s nectar, sirs? What about you? Do you wish to know the rare story of Lord Rama, said to be the incarnation of Hari, or are you going to surrender your hearts to the moat and its simile? When this question is asked, fierce anger is born. Natural!
+
+I can see the scripture-reciter quivering with eagerness to argue that *alkul* means “waist.”
+
+No, sir, no—do not undertake futile labour! One may speak of whether a waist exists or not; a moat is not like that! Moreover, after showing the moat’s depth, Kambar begins to say that the moat is difficult to cross and gives a simile! I can also see the pitiable man preparing to argue, “Not the front—certainly the rear!”
+
+Why should there be a futile quarrel among us, sir? Whether it is the place I named or the place you see, neither lends excellence to the epic, and neither is needed to show Kakutstha’s greatness—is that not so? Why must Kambar introduce this “nectar”? He cannot help it: at any time, he cannot remain without saying something about it—at least a little, at least by some hint or gesture. He is a man who knows fine sensual experience, not one who lies about clutching a *Nannul* aphorism like you!
+
+Remember, he is Ambikapathi’s father! Wherever he may go, whatever part of the story it may be, however critical the episode may be, he will certainly photograph the object or event dear to him! He will even shove the story itself a little aside. It is enough if that “affair” appears, or if he senses even faintly that those “objects” might be mentioned as a simile for something. The honey of poetry will drip, flow, and pour.
+
+Come to Mithila! Eye has not yet seized eye; Rama has not seen Sita. A street in Mithila! Kambar goes there. A sage who has subdued the three impurities walks with Lord Rama, who has come as Dasaratha’s sacred son to destroy sin and establish righteousness. I mention this for the sake of the setting: he is not accompanying Dushyanta on a deer hunt. Keep that in mind. The cloud-hued one walks, led by one learned in the Vedas. In such a setting, Kambar describes the street of Mithila!
+
+Everywhere, the sound of the Vedas!
+
+Smoke from sacrificial rites!
+
+Scenes of charity and righteousness!
+
+Devotional singing!
+
+Does he show these? Is Kambar a man to be satisfied? He looks closely and worries: “Passing forest, mountain, and woodland, we have now entered a great city. Yet not even women are to be seen in the Canto of the Sight of Mithila.” He sings two verses about flags! Having seen the flags, he proceeds further. A scene of elephants fighting comes into view.
+
+Two elephants attack one another and wage battle!
+
+Kambar saw it. Ah, what a splendid sight!
+
+“Is this scene not like mountain colliding with mountain?” he thinks. This would occur to any poet. But would Kambar’s imagination stop there?
+
+Do you know what these elephants fighting one another resemble?
+
+“Is it not like a man and woman, the moment they are struck by the arrows of Manmatha, engaging in the battle of union, within which there is lovers’ sulking too?” he says. This is Kambar.
+
+As soon as he sees the rutting elephants fight, the festival of passion conducted by those struck by Manmatha’s arrow flashes brightly before his eyes. Poetry begins to drip. Listen to the poem.
+
+> “With musth thick as curd,
+> like lovers dear as life who,
+> struck by Kama’s arrow,
+> engage in sulking,
+> the elephants of diamond-hard, long tusks,
+> their minds filled with rage,
+> their red eyes scattering clusters of fire,
+> each confronting the other without yielding,
+> he saw them clash like mountains.”
+
+I have broken the poem into pieces so that its meaning may be explained easily! It is no ordinary battle: those elephants do not yield to one another. To Kambar, their battle recalls nothing but the battle of sexual union. No sooner has he entered Mithila than there is Kamban’s nectar.
+
+After finishing another two or three verses, he returns to offer nectar again in the eighth verse.
+
+The sight of the elephants fighting brought the battle of union to mind, did it not? Would it be good if the connoisseurs of art remained with that very thought? Therefore, in this eighth poem, he conveys the supremely important news that the battle has ended. Just before, he saw the elephants fight. Thinking it was not enough merely to say that mountains collided, he spoke of the sport of passion enacted upon a bed of flowers. Now, you may ask, what opportunity arose to tell news connected with that? Where can a way not be found when the will exists! For the capable man, even a blade of grass is a weapon! Kambar sees garlands fallen and lying across the street. Bees swarm over the garlands, and honey is flowing from them. On seeing these garlands, the delectable simile he gave for the elephants’ battle comes back to Kambanattazhvar’s attention. “Ah! How splendid! After the deed has been completed without deficiency, do not these garlands lie here like exhausted young women lying limp?” he thinks. The moment he peers at the garlands, his mind’s eye leaps to a beauty lying weary upon the flower bed after the consecration of love.
+
+“The lord comes; he comes to see the lady!” Did the gods, rejoicing so, shower down a rain of flowers? I saw heaps of flowers lying throughout the streets of Mithila, he could have said. No harm of any kind would thereby have come to the sacred story—but the epic would not provide “taste.” He was a man who made a story into an epic precisely to provide “taste.” Therefore, the moment he sees the garlands: do you see? Maidens! Bed!
+
+The battle of union has ended! Only after conveying the delectable news that those fruit-voiced women lie exhausted upon their beds—like these garlands—does he attend to other business. The epic is about the moon of the Solar race! But would Kambar think it enough to repeat only that? Must he not call attention to the bedchamber from time to time? Consider whether poetry like this would otherwise have welled forth:
+
+> “After, without parting, each with each united,
+> they had consumed the finest pleasure of desire,
+> like soft women wearied in the battle of union,
+> the garlands cast off by women of musical speech in their sulking
+> lay with bees and dripped honey,
+> as he went along the long, jewelled street.”
+
+Is the poem difficult? A highly delectable matter has been fed into it. It must be divided up and its meaning found.
+
+“Without parting”—with no separation;
+
+“Each with each”—in both positions, husband and wife;
+
+“United”—as one in the same condition;
+
+“The finest”—excellent;
+
+“Pleasure”—the erotic delight that is the fruit of desire;
+
+“After they had consumed”—after experiencing it;
+
+“In the battle of union”—in the war of sexual joining;
+
+“Wearied”—lying exhausted;
+
+“Like soft women”—like women who possess the quality of softness.
+
+The remaining portion is about the garlands! Look at the Kamban nectar up to this point and consider whether it is something that ought to be joined to a divine story.
+
+Each with each united!
+
+Battle of union!
+
+Wearied soft women!
+
+What a subtle description! Is it for the worship shelf?
+
+The battle of union—he will not even say that both parties became exhausted. In that matter, he never fails to display such exquisite expertise.
