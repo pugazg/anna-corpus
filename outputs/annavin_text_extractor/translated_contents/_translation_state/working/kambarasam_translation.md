@@ -1,8 +1,8 @@
 # Kamban’s Nectar
 Tamil title: கம்பரசம்
 <!--
-Translation checkpoint: Part 9, Image 6 complete.
-Next source boundary: Part 9, Image 7 (007-308198a405.png), beginning “தளரார் மகிழ்ந்தனர்”.
+Translation checkpoint: Part 9 complete (through Image 10).
+Next source boundary: Part 10, Image 1 (001-2751e71516.png), beginning “இட்டுக்கட்டிக் கொண்டு”.
 Canonical bilingual output has not been built; pending counts must remain unchanged.
 -->
 
@@ -1209,4 +1209,80 @@ Pressing together again and again!
 
 These are what he brings to mind! He is only now setting out from Ayodhya—the Departure Canto. When a special correspondent goes to gather news for his journal about Pandit Nehru’s tour among the people, what sort of news would you permit? You would say, would you not, that the special correspondent must provide only news that does not bring disgrace upon Pandit Nehru’s good name and that, from time to time, demonstrates the greatness of the immense and rare undertaking he has assumed? Dasaratha goes with his army to witness the cloud-dark nobleman’s wedding, and Kambar accompanies them. Yet this is the “exclusive report” he supplies at the very outset: vermilion paste mingled and scattered in the battle of union!
 
-Dasaratha rejoiced on hearing that Kausalya’s son was to marry the maiden of Mithila. That is natural—
+Dasaratha rejoiced on hearing that Kausalya’s son was to marry the maiden of Mithila. That is natural—the steadfast rejoiced: a wedding for the noble Rama! But the joy that seized Kambar was greater than anyone’s; it swelled and overflowed.
+
+The Departure Canto;
+
+the Mountain-Sight Canto;
+
+the Flower-Plucking Canto;
+
+the Water-Sporting Canto;
+
+the Feasting Canto—
+
+he sings and sings, rejoicing. A joyous hour! Maidens and bridegrooms wear gentle smiles. A flower forest! They are journeying in procession! Delighted that “the circumstance I have waited for all this time has arrived,” Kambar scoops up and gives us poem after poem. When little children go to see a festival, do they not touch their mother’s hand, pinch her cheek, tug at her clothes, and, their eagerness overflowing, point out every object they see and ask her to buy it? “Mother! Look there—sweets! Look here, mother—toys! Oh, there is palm jaggery! Look, mother, this man sells whistles. Mother, a balloon! Mother, puffed rice!”
+
+Kambar has entered the vast crowd going to witness the wedding. Need one ask what follows? With jubilation he calls and calls to his connoisseurs: “Look at the maiden! Look at the companion following her. See her fire the arrow of her eye. See the young man pine! Look at that hero who keeps his gaze fixed upon her long, shapely breasts!” Showing scene after scene in this way, he pours out nearly three hundred poems. Not one of them helps in the slightest either to gain merit or to learn the greatness of the worshipped lord. They provide erotic flavour through and through; they are unnecessary to the excellence of the epic. We cannot agree that those who argue that erotic flavour must be increased enormously in order to increase the epic’s flavour are people who know and honour the Tamilian’s greatness or the dignity of learning! We grieve. If women should receive the “blessing” of reading some of the verses in this section, alas! They will ask in alarm, “Has that poet spoken demeaningly of all of us in this fashion?” So many subtleties writhe through the poems. The description of a man who, because he did not take his eyes from the long and shapely breasts, collided with a great rutting elephant is among the very most civilised of them.
+
+The poem about a man who, when a peacock-like woman slipped and fell from a fleet, wheeling horse, leapt, lifted her, and stood embracing her is delicate. But as he proceeds further and further and the heat rises higher and higher, it is as when musicians’ voices acquire the resonance of bronze and they travel, halt, bend, and rise to sing in ranges where they could not previously perform *sanchara*. After singing poem after poem of this kind and drinking the wine of delight, Kambar passes beyond restraint, travels everywhere at dreamlike speed, and takes up and displays everything.
+
+Her cloth falls; she catches it with a tender hand. Her garment comes loose, and, realising it, the celestial beauty runs holding the slipping dress in her soft hand—for fear that an elephant is coming!
+
+Another woman wears a fine garment. The men with scissors now appointed to prevent evil from entering through cinematic scenes would certainly not permit it—so fine is the dress. How fine do you think? A garment fine enough for the spreading *alkul* within to show outside. By “show outside,” I do not mean that mischievous young men might see it if they peered closely. A dancing peacock itself sees the sight. Perhaps it thinks it a snake; since a peacock comes to peck and kill a snake when it sees one, fear seizes the celestial woman. Ashamed and afraid, the maiden hides beside a flowering branch.
+
+It was only the peacock that the syrup-voiced maiden feared. Why should she fear the young men? And so the women roam, dancing and singing; the men too are happy.
+
+“Woman! Did you see those red tender coconuts over there?”
+
+“Yes! They are beautiful indeed.”
+
+“My dear! Does not the red tender coconut look like the upper region of young women?”
+
+“Ah! Which maiden’s upper region did you see before speaking like this?”
+
+All manner of conversation like this! It is not I, a lowly man, who says it. Kamban, the devotee of Hari, has said it in beautiful verse!
+
+> “A nobleman looked at the tender coconuts
+> upon the tall-grown palm and said,
+> ‘Ah! These are like the breasts of maidens.’”
+
+That is Kambar’s utterance, explaining the nature of an Ayodhya man’s gaze.
+
+“Tall-grown”—grown high;
+
+“of the palm”—upon the coconut tree;
+
+“tender coconut”—the tender coconut fruit;
+
+“a nobleman”—a leader;
+
+“looked”—saw;
+
+“ah”—what a wonder!
+
+“these”—these tender coconuts;
+
+“of maidens”—of women;
+
+“like the breasts”—like the upper region;
+
+“are”—they are;
+
+“said”—uttered so.
+
+The other two lines concern the cuckoo-like woman who became angry!
+
+This man is an unlucky blockhead! He looks at the tender coconut and grins; knowing no tact, he even speaks in this fashion before the very woman who owns him, committing a great blunder. Now look at this man:
+
+He stands surrounded by a throng of women plunging and playing in the water, and rejoices.
+
+There, one celestial beauty is like a swan swimming away! Here is another: one cannot tell which is the blue lily and which is her eye! Thus young women plunge and play in that body of water. Who could go there? It would not be proper! But if one went and saw? Delight, of course! Wishing everyone to receive that delight, Kambar uses his poetic power to take photographs. This is one such photograph:
+
+> “Surrounded by a throng of women plunging and bathing,
+> his broad arms adorned by circular bangles shining,
+> there stood a garland-decked king.”
+
+A garland-decked king stands there—a monarch wearing a garland! Where? You might think it was a battlefield filled with elephants and horses, where spears and swords resounded. The garland-decked king Kambar shows does have broad arms—great shoulders—and is filled with strength and splendour. But the place where he stands is not a battlefield; it is a pond! Those surrounding him are not enemies but lotus-eyed women—women bathing! One feels impelled to ask whether he may stand there. This is hardly proper. You would say, “It is a place where maidens bathe; it is not seemly for a man to be there.” What do you useless fellows know! Connoisseurs of art say that an epic must contain all this “taste.” Is not the king who stood surrounded by women plunging and playing in the pond luckier than the man whose mind became confused merely on seeing the tender coconuts of a palm? Why, sir, this man is luckier even than dark-cloud-hued Krishna! Krishna too sat upon the *punnai* tree, playing his flute, and looked at the women bathing in the pond below. This one is a consummate fellow: he has descended into the pond itself. And are not those revellers bolder still? He stands; they swim and play. He stands surrounded by women plunging and bathing! What the “kings” of those women thought—poor men—Kambar, out of sympathy, left unsaid.
+
+“If they plunged and bathed, could they not have been clothed? Why do you invent that they themselves were naked—”
