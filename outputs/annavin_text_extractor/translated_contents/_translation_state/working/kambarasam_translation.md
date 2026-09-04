@@ -1,8 +1,8 @@
 # Kamban’s Nectar
 Tamil title: கம்பரசம்
 <!--
-Translation checkpoint: Part 7 complete (through Image 10).
-Next source boundary: Part 8, Image 1 (001-3ff6a5f41a.png), beginning “உயர்வு”.
+Translation checkpoint: Part 8, Image 3 complete.
+Next source boundary: Part 8, Image 4 (004-36c1c33ec2.png), beginning “என்று கம்பர் பாடியுள்ளார்”.
 Canonical bilingual output has not been built; pending counts must remain unchanged.
 -->
 
@@ -873,4 +873,70 @@ We ask the devotees of Kamban only whether the path Kamban shows—telling a div
 
 Kamban, emperor among poets, graciously sang the great divine story in Tamil sweeter than honey. The chaff who do not know how to drink the *rasam* found in his rare poetry—beasts incapable of sensing delight through the ear—go about finding fault.
 
-Let them say the story is unbelievable and cast it aside! Let it be said that Kakutstha was not an incarnation of Hari, and that Ravana, king of Lanka with twenty arms and ten heads, was not a demon! Let that go. But the flavour in the poetry—the artistic nectar brimming in the epic, the elevation in the picture Kamban paints—
+Let them say the story is unbelievable and cast it aside! Let it be said that Kakutstha was not an incarnation of Hari, and that Ravana, king of Lanka with twenty arms and ten heads, was not a demon! Let that go. But the flavour in the poetry—the artistic nectar brimming in the epic, the elevation in the picture Kamban paints—the flood of exhilaration that fills the heart on seeing them—ah, ah! What pleasure, what incomparable pleasure! “Do these creatures not know how to savour this?” the learned men who had drunk the epic’s flavour and rejoiced scalded us with their rebuke.
+
+Others said, “This is a sacred story: one attains the supreme abode either by reading it or even by standing nearby and listening while it is read.”
+
+Some, frightened by the arrows of Time, said with emotion: “Let the story lie, sir. Believe it if you wish; reject it if you wish. But art—art! The art that flowers luxuriantly in that epic, spreading fragrance and giving delight, is there, you thoughtless man! Are we to lose that? An invitation to the city of pleasure—are we to refuse it?”
+
+Sirs! We are not boors who argue that sacred stories must be cast aside altogether.
+
+Nor are we blocks of wood who say that one must not savour the flavour of poetry.
+
+We say that each thing must be placed in its own proper place.
+
+Whether it is a syrup-tongued song that begins with a maiden’s hair and displays a picture of each part in turn, or rare poetry that expounds the lord’s noble qualities from beginning to end—let them exist; let them shine, attended by encomiums. No one objects.
+
+Do not fuse the two and create confusion in the mind and disgrace to the great god’s fame.
+
+Place the sacred story upon the worship shelf. Do not join to it, and place upon that worship shelf, poems painted in pictorial style from the maidens’ flower-decked hair down to their expansive *alkul*. Worship will bear no fruit! That is what we said.
+
+“Hey, fool! If that is what you say, then is our Kamban an artist of lust?” some asked, rising in anger.
+
+“We know that your *Queens of Rome* is a treasury of lust,” some spoke in tones of mockery.
+
+Some among them later depicted the *One Thousand and Eight Nights* in enough detail for even the flavour of intimate matters to become clear—and continue to do so.
+
+What we insist upon is not a barren Vedanta which says that literature must contain nothing concerning the nature of sweet-spoken maidens.
+
+Nor have we declared that literature consists only of uttering despondent phrases such as “a stinking pit—a bubble upon water.”
+
+We have urged no one to acquire the arid temperament that despises women’s *kendai*-fish eyes, their ankleted beauty, the movement of their waists, and the sweetness of their gentle speech. At the same time, we said it was not beautiful to call something a “pure story” for obtaining the Lord’s grace and then, lacking the mind even to stop with such things as the slender waist, the *kovvai*-fruit lip, and the aspect of the lovely peacock, to heap in and mix together subtleties about the upper and concealed regions that even authors of manuals explaining amorous sport would blush to state.
+
+> “A woman’s two eyes are jars of wine!
+> Her waist is lightning!
+> Her gait, a swan!
+> In dance, a peacock;
+> in song, a cuckoo!”
+
+We are not saying that poems which express such things with relish must be thrown into the fire and burned to ashes. We said that, without preserving any measure—whether in the episode where Rama tells Hanuman the identifying marks of Lady Sita’s limbs, or in the description of Tara’s upper body as she fell upon Vali and wept after he had died—Kambar displays excessive care and skill for erotic flavour, diminishing even Kakutstha’s greatness to the size of a mustard seed. Knowing that a poor man’s words would never reach the public stage, we demonstrated what that “nectar” in Kamban’s poetry is like.
+
+*Kamban’s Nectar* was compiled from Kamban’s epic and the meaning given to it not by rogues but by masters of art.
+
+Many rebuttals were published!
+
+“The Death Knell for *Kamban’s Nectar*!”
+
+“A Blow to the Skull of *Kamban’s Nectar*!”
+
+“A Spike for Annadurai!”
+
+Rebuttal pamphlets bearing such titles sprang up. The titles themselves revealed whether those who wrote them were under the sway of anger or of research.
+
+“What do you know?”
+
+“Who are you to say this?”
+
+“Are you alone a man of supreme virtue?”
+
+Some asked such questions. These are not people who need to be taken seriously, for they set out in the manner of boys in a bazaar street, intending to rebuke me into silence!
+
+Some others argued that the meaning I assigned to *alkul* was wrong.
+
+These people deserve sympathetic attention. For the “nectar” Kambar actually displayed in his verses has caused them a little disgust. And so, like a man afflicted with white leprosy who seeks satisfaction by telling himself, “This is not leprosy—not even an ordinary skin disease; this is a beauty spot,” they said that *alkul* meant “waist.”
+
+There are numerous places in Kambar’s verse where “waist” and this other thing are employed separately.
+
+Therefore their assertion is not correct.
+
+Be that as it may, another man cited a place where celestial women walk through a river, the fine cloth they wore becomes wet with spray, their *alkul* shows through, and the men laugh—
