@@ -1,8 +1,8 @@
 # Kamban’s Nectar
 Tamil title: கம்பரசம்
 <!--
-Translation checkpoint: Part 4, Image 4 complete (the duplicate Image 5 slot has no repeated source block).
-Next source boundary: Part 4, Image 6 (006-7c990239a4.png), beginning “மிகப் பரிதாபகரமான”.
+Translation checkpoint: Part 4, Image 8 complete (the duplicate Image 5 slot has no repeated source block).
+Next source boundary: Part 4, Image 9 (009-ac71661453.png), beginning “கம்ப இராமாயணம்”.
 Canonical bilingual output has not been built; pending counts must remain unchanged.
 -->
 
@@ -402,3 +402,54 @@ Let thoughts of this kind arise freely. But I ask the scholars to consider wheth
 Reading the *Kamba Ramayana* alone is enough to inform the whole world how that upper region ought to look; there will be no rival or opposition. One may say successively that it should be rounded like a pot, shaped like a golden casket, resemble a tender red coconut, be youthful, and be capable of snapping a tightly bound breast-band.
 
 Gathering the material from Kamban’s poetry, it would be fitting to say that Kamban wrote a supreme treatise on the arrangement of that upper region! It would be fitting to proclaim that work the Veda for that subject! But must sublime artistic skill be assigned to this sphere within the sacred incarnation story of the god of gods, the eternal first of the Vedas? Is this proper, I ask. What use is there in becoming angry with me, comrades? The more one stirs, the more emerges! Listen by the cartload to the poet’s talent! Not content to stop after describing women’s upper parts, for “the protection of the world” (!!!) he has graciously opened his sacred mouth and explained how their arrangement differs at different ages. A form suited to age is natural! Dark hair for a maiden; grey hair for a grandmother! Gleaming teeth for the young beauty; a toothless mouth for the grandmother! Kamban has no occasion to develop distinctions of age in that fashion. In a single verse he describes women of two ages—the mature woman and the maiden. There he explains how breasts will look for the one and how they will look for the other. On what occasion do you suppose?
+
+If I tell you the occasion, no sound except “Fie!” will issue from you.
+
+Rama, who was to wear the crown, is forced to enter the forest. The birds wept, cats wept, women wept, war elephants wept, and even stone is said to have melted in sorrow. It is into such grief that Kamban mixes this luxury. Declaring, “We shall not let Rama go to the forest; if he enters the wilderness, we will not remain in Ayodhya,” the people of the city follow Rama. That night they stay outside the city. Kamban photographs the condition of the people there. The photograph does not end with tearful eyes, dust-covered clothing and exhausted bodies. Kamban takes a “close-up” with his camera! Of what? Of women lying down! Does not even a ceremonial pot appear to Kamban’s eye as a rounded youthful breast? When such a man takes a “close-up”—and photographs women lying down—need anything more be said? Young maidens sleep leaning upon their nurses. The nurses too had followed Rama! The young maidens too had come! When night arrives, the maidens lean against their nurses and sleep! Here is the “close-up”!
+
+Look at verse 11 of the Embalming chapter in the Ayodhya Kanda. In this close-up, unmarried girls, overcome by exhaustion, sleep upon the thighs of their nurses; their garments lie loosened. The camera works at full speed. Nowadays “critics” complain about close-ups in certain films, asking, “Must they take a close-up of all that?”
+
+Only when they see Kamban’s close-up will they know! He not only gives us a close-up of the upper regions of sleeping women; he also supplies an explanation. The nurses are mature women: this is how their upper region looks. This is how it looks for maidens. He reveals it in his photograph. Read the verse:
+
+> After suffering through the long day,
+> the maidens—whose sweet red speech was like sugarcane,
+> whose dark-lined eyes were like spear-tipped arrows,
+> and whose breasts resembled buds—
+> slept upon the thighs of their nurse-maids,
+> women whose prominent breasts
+> matched the young fruit
+> of the coconut palm.
+
+Through this poem Kamban tells us, in a “refinement” suited to age, that a nurse’s breasts resemble young coconuts and a maiden’s breasts resemble lotus buds. But I ask whether he tells us instead that the people had gathered in sorrow because Kausalya’s son was to go rule the forest. At a moment when their anguish should have been portrayed, why this concern with, explanation of, and detail about the upper region? Is this wisdom? See how calmly a lesson in physiognomic marks proceeds at so sorrowful a moment. No poet other than Kamban could speak with such solicitude of women prostrate with grief and say, “See how their upper regions differ from one age to another!” Examine the meaning.
+
+“Suffering through the long day”—having grieved all morning on hearing that Rama must go to the forest;
+
+“maidens”—young women;
+
+“upon the nurses’ thighs”—upon the thighs of their own nurse-maids;
+
+“slept”—lay down and slept.
+
+That is the matter! Now see how Kamban mixes erotic relish into it.
+
+As though “maidens” were insufficient, he adds qualifiers. Look at the poem once more.
+
+“Maidens speaking red words like sugarcane”—maidens who speak sweet words resembling sugarcane.
+
+You will say, “Enough,” and so will I. But Kamban will not let women go so easily! He fastens another ornament upon them. Look at the poem.
+
+“With dark-lined eyes like spear-tipped arrows”—those maidens possess eyes painted with kohl and resembling sharp arrows. Their words are sugarcane; their eyes are arrows.
+
+“Let words and eyes be! Sir, tell us about that—that is the principal thing. Can it be forgotten?” Kamban’s poetic power urges him. Deciding that sweet speech is insufficient, he takes a close-up that reveals the upper region!
+
+“Breasts like buds”—those maidens possess breasts like lotus buds! Arrow-eyes, sugarcane speech, bud-like breasts! For whom? The maidens! All morning they cried aloud; at night they fell asleep exhausted. Did the poor women foresee that their upper regions would become prey to Kamban’s camera?
+
+Let that pass. Did he grow weary after the buds? To discover, “This is how maidens are; what of the nurses?” he turned the camera to the other side and took a photograph.
+
+“Prominent breasts”—breasts that stand out;
+
+“matched the young fruit of the coconut palm”—resembled young coconuts. For whom?
+
+“The nurse-maid women”—for the nurse-maids. With this, the close-up ends and Kamban’s crown grows cool.
+
+Is this an essential and beautiful description, suited to its place and fitting the event? Is this art? Why do they say one should read the *Ramayana*? Recitation of the *Ramayana* is necessary to understand the truth that justice triumphs and unrighteousness perishes, and thereby receive the grace of the Lord of the world! In his preface the poet says, “I relate this noble history so that the world may be redeemed.” But what lies inside it? Is it not merely an explanation that the nurse’s upper region is the size of a young coconut and the maiden’s the size of a bud?
