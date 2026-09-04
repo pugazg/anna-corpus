@@ -1,8 +1,8 @@
 # Kamban’s Nectar
 Tamil title: கம்பரசம்
 <!--
-Translation checkpoint: Part 7, Image 6 complete.
-Next source boundary: Part 7, Image 7 (007-55e430e6e2.png), beginning “இப்படிக் காமச் சித்தர்களாக”.
+Translation checkpoint: Part 7 complete (through Image 10).
+Next source boundary: Part 8, Image 1 (001-3ff6a5f41a.png), beginning “உயர்வு”.
 Canonical bilingual output has not been built; pending counts must remain unchanged.
 -->
 
@@ -799,4 +799,78 @@ An artist painted a beautiful picture. The husband calls his lady wife to come a
 
 Compare the “lady” whom the learned Vedanayagam introduces to the people through his poem with the “ladies” of the city of Ayodhya, who, it seems, stood in the pond together with men! Through that comparison Kamban’s “virtue” will become clear to you.
 
-Our question is whether the “*rasa lila*” of women and men standing and bathing in the same pond is needed to explain the “glory of Rama.” To say that the men and women who lived in Ayodhya—
+Our question is whether the “*rasa lila*” of women and men standing and bathing in the same pond is needed to explain the “glory of Rama.” To say that the men and women who lived in Ayodhya were such adepts in lust—would that not undermine Kambar’s purpose in setting out to tell a “divine great story”? That is what we ask. What use is there in becoming angry?
+
+The author of the *Naidatham* keeps even the lovers’ mischievous play within bounds. After Nala and Damayanti have married and are living so joyfully that every day of life might be called a festival—plunging into the water, strolling through the grove, speaking fruit-sweet words, and conducting their married life—he describes their manner of living. What does Athiveerarama Pandiyan do? He makes Nala and Damayanti sport in the water. Yet even there he protects the woman’s virtue from being stained, bridling the speed of his verse with dignity.
+
+The pond Kambar shows is one thing; the pond in the country of Nishadha is another. In the former, there are many women and one man. The man rejoices; the lovely women are unconcerned. The water sport in Nishadha is no such hall of the god of love. Here Nala and Damayanti sport in the water, alone. At that moment her garment becomes soaked with water; Nala sees. What is Damayanti’s condition? She was ashamed. Is shame alone enough? Did she speak coaxing words—“No, my darling! What sort of game is this?”—and plead with him to turn his gaze elsewhere? No! What else did she do? With the resourcefulness natural to women, she stopped her husband from behaving improperly. At the bathing place there was fragrant powder, was there not, to rub upon the body and make it sweet-smelling? She scooped up the water mixed with that powder and flung it upon Nala’s face! When powder fell into his eyes, the guardian’s intention could not spring towards the maiden, could it? In a single second Damayanti experiences shame, bewilderment, thought, a stratagem, a plan of action, and victory—all of them. Only one handful of water accomplished so much. But by making her scoop and fling that water, did Athiveerarama Pandiyan not win honour for the entire race of women?
+
+> “As the fine garment became wet, revealing her *alkul*,
+> and the elephant-like hero saw it, she, overcome with shame,
+> sprinkled the lovely, perfumed powder-water upon his face—”
+
+“Fine garment”—a beautiful garment.
+
+“As it became wet”—because it had become wet.
+
+“*Alkul*”—the concealed region.
+
+“Revealing”—its becoming visible.
+
+“Breaking the tethering post”—breaking the post to which it is tied;
+
+“The elephant-like hero”—Nala, who possesses the strength of an elephant;
+
+“Saw”—as soon as he looked;
+
+“Overcome with shame”—becoming ashamed;
+
+“Lovely”—beautiful;
+
+“Perfumed powder-water”—water mixed with fragrant powder;
+
+“Sprinkled upon his face”—Damayanti flung it upon Nala’s face.
+
+When the author of the *Naidatham* has sung of “royal sport” with so much restraint, arrangement, and definition, people become angry if we ask whether Kambar’s method in the story of Rama, which came to explain divine sport, was right. It is proper that anger should arise, sir; but why direct that anger at me, who merely states what is there, instead of directing it at Kamban, who reduced art to this condition? Did I compose those verses? Have I described something that is not there? If you have doubts, take up both the *Kamba Ramayanam* and the *Naidatham*, turn through them, and see whether the verses I have cited are present.
+
+“Go, go, Bharata! If we too began to sing poetry, this is just how you would sing!” they will say as their final defense. But even that does not fit.
+
+A beautiful pond! The lotuses have bloomed magnificently! A graceful woman dives and plays in the water. A young man there has seen the sight and surrendered his heart!
+
+This is indeed a scene suited to a Kamban picture, is it not? A place fit for taking a close-up. But our poet Bharathidasan calls you to that pond. Come and see whether there is even the slightest room to feel disgust or embarrassment.
+
+> “In the pond where lotuses bloom, she dives,
+> her lotus-face appearing—”
+
+Only the lotus-face can be seen. But is she not beautiful? Is she submerged so deeply in the water that only her face is visible? No! She has a beautiful body and is joyfully playing in the water. Yet “virtue” restrains him at the measure of “she dives, her lotus-face appearing.” It is not merely her face that is a lotus; the maiden’s very body is beautiful. That is why the poet says in a single phrase,
+
+> “He saw that tender creeper of a woman.”
+
+To put it in the language of cinema people, by saying she was a tender creeper of a woman he has given us a long shot—a long-distance shot.
+
+If that tender creeper of a woman alone had fallen into Kambar’s hands, what would have happened! At least ten verses would have burst “gubbu-gubbu” out of his heart; one or two of them at least would have been “close-up” scenes.
+
+Here she may be a tender creeper of a woman. But does the poet then preach the “Vedanta” that the young man was a thick-headed fellow who saw the lotus-face and went on his way? No, not that either. “He surrendered his heart as plunder,” he says, telling a love story. What did Kuppan see? First he saw the lotus-face; then, in a moment, he saw her entire form and learned that she was a tender creeper of a woman. Then,
+
+> “Her body fashioned in purity,
+> and her gait resembling a peacock’s plume,”
+
+he sees. He saw all this. Then the story continues. How much virtue is displayed in it!
+
+Connoisseurs of art! We have seen the ponds where lotuses bloom. I ask you yourselves: among these, which pond has been portrayed with virtue and poetic sweetness held in equal balance? You tell me! The Revolutionary Poet tells the story of “Kuppan”; Athiveerarama Pandiyan tells the story of a “king”; Kambar, however, tells a “divine story.” Kambar’s is not a mere song of entertainment. Do not forget that it is a book of the path by which one swims across the great ocean of birth and attains the states of *saloka*, *samipa*, and *sayujya*—
+
+that is, a guidebook for attaining those stations. Our question is simply this: in a guidebook of the path, may this flood of lust overflow its banks and run in this fashion?
+
+Think again. Then your anger will not come upon me; it will leap upon that manuscript.
+
+Kambar’s epic takes us to a lotus-blooming pond and shows that there are men who delight in seeing women naked. This is art. Not merely art, the devotees of Kamban say, but an epic of the path to God. We ask whether that claim is proper. Are we wrong?
+
+We ask the devotees of Kamban only whether the path Kamban shows—telling a divine story in order to engage people in the righteous way—is truly the right one. Is righteousness so foul-smelling and bitter that so much flavour must be smeared over it? Even if it were smeared on with that good intention, those tasting it would savour it only while they received sweetness and spit it out as soon as the bitterness began to be felt. The means does not even allow the purpose to be fulfilled! What other reason is there for Kambar to scoop and pour out this “nectar” so boundlessly? Must an answer not be given for this? Where have the men of art answered? When are they going to answer? How can they answer?
+
+❦ ❦ ❦
+
+## Kamban’s Nectar – 2
+
+Kamban, emperor among poets, graciously sang the great divine story in Tamil sweeter than honey. The chaff who do not know how to drink the *rasam* found in his rare poetry—beasts incapable of sensing delight through the ear—go about finding fault.
+
+Let them say the story is unbelievable and cast it aside! Let it be said that Kakutstha was not an incarnation of Hari, and that Ravana, king of Lanka with twenty arms and ten heads, was not a demon! Let that go. But the flavour in the poetry—the artistic nectar brimming in the epic, the elevation in the picture Kamban paints—
