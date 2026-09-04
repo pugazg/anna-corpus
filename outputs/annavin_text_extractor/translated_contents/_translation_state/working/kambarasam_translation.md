@@ -1,8 +1,8 @@
 # Kamban’s Nectar
 Tamil title: கம்பரசம்
 <!--
-Translation checkpoint: Part 2, Image 3 complete.
-Next source boundary: Part 2, Image 4 (004-5398ad3bd7.png), beginning “இப்படியும்”.
+Translation checkpoint: Part 2, Image 6 complete.
+Next source boundary: Part 2, Image 7 (007-a2f3cd24f9.png), beginning “தப்பின்றிப்”.
 Canonical bilingual output has not been built; pending counts must remain unchanged.
 -->
 
@@ -161,3 +161,33 @@ Kannan, distraught because his bull has gone missing, speaks to Velan and asks h
 “Excellent! To find it, I must first harness a bull to a cart, drive it for a mile, strike it with a whip, and only then determine whether the marks you gave are correct. I shall have to harness every black bull I encounter on the road to a cart. Is this how you set about giving identifying marks?”
 
 What will Velan think of Kannan? Surely he will think, “It appears that when this man lost his bull, he lost his wits as well. That is why he gives such marks and asks me to search for it.”
+
+If a man who describes a bull in this way is mocked like this, what are we to say about a man who gives still worse, obscene descriptions of his beloved’s bodily marks? What are we to say of the great poet who composed such verses? Could Velan avoid laughing until his ribs hurt on hearing Kannan, who had carelessly lost his bull, identify it by the hair of its tail? Yet Hanuman, the master of eloquence, stands with folded hands and listens devoutly and delightedly to Rama’s descriptions of Lady Sita.
+
+The (dis)graceful marks of incarnate divinities! How far do you imagine “our Lord,” who begins, “Hanuman! Listen—this is what my beloved Sita will look like,” carries the matter? He stops only after describing everything in every detail! Thirty-four verses for this, my friend! Rama describes each of his wife’s bodily parts to Hanuman: “This will look like this; this will be this soft; this part will possess this sort of lustre.”
+
+If it is madness for a man who has lost a bull to identify it by its tail hair, in what category will you place the character of a man who describes even the navel, thighs and other parts of a missing woman? And that woman is Rama’s wife, said to be the sacred incarnation of Mahalakshmi. One could say she has a golden body, the fragrance of a blossoming flower, a smiling face and eyes overflowing with grace; other poets would speak in this way. But Kamban is an ascetic poet of such distinction that even if the woman were his younger sister, he would refuse to keep silent about her breasts. Perhaps he thought that saying only this would not be worthy of his poetic skill. He delights in describing every part of Lady Sita’s body in order to explain her beauty.
+
+Kamban writes this without concern for whether a husband may speak of his wife in this way to a friend, whether anyone ever does so, or whether it is proper. Whether she is Sita or the goddess Sita, it is enough for him that she is a woman: his heart melts, and Kamban’s nectar begins to pour out without deficiency! I ask the eminent scholars whether the verses presented as Rama’s speech may contain so much obscenity. I ask what answer they give. I ask the poet’s representatives, who say that Rama described every hidden place to Hanuman and told him, “Such is my Sita; learn where she is and return.”
+
+From outward appearance Hanuman could perhaps determine whether Sita’s feet, outer soles, ankles, shoulders, forearms, nails, neck, lips, teeth, nose, ears, eyes, brows, forehead, hair and other such visible parts matched Rama’s description. But the thirty-four verses contain other descriptions—how was he to identify the concealed parts: the thighs, female genitals, waist, belly, navel, the line of hair upon the belly above the navel, the crease of the belly and the breasts? Are even these, I ask, rays that illuminate Kamban’s poetic genius?
+
+Must a maiden be stripped naked to demonstrate a poet’s skill? And must a husband undertake to strip his own wife in words? Before another male friend? Before Hanuman, the eternal celibate? Is there no need for propriety, a veil of privacy, or any boundary at all? Yes: when Kamban writes about women, no other rule of conduct obstructs him. He was a man of such experience, a sensualist, a libertine. Why did this great soul undertake to write a divine story? Could he not have written an erotic tale called *The Maiden’s Kiss* or *The Ocean of Union*? Must even the principle that each kind of literature should contain its appropriate sentiment be violated? Look at this verse:
+
+> Her breasts are banded, pot-like vessels;
+> her waist is slender as the *vanji* vine;
+> her *alkul*, girdled by its sea-like cloth,
+> is fitly likened to the boundless sea, worthy one!
+> You have seen the matchless lion-chariot,
+> whose splendour rises, vanquishing the serpent,
+> with the earth-ringed ocean resting on its mane—
+> what need is there for me to tell you?
+
+Lord Rama says to Hanuman, “Worthy one! My wife Sita—her breasts are like ritual pots! Her *alkul* is comparable to the boundless sea.” No madman or lunatic anywhere in the world would describe his wife’s breasts and hidden place to another man. No poet in the literature of any country has portrayed a hero who describes them in that fashion. Examine writers from Homer to Bernard Shaw! Look even at books of erotic revelry such as *The Tale of Madanakama Rajan* and *The Triumph of Manmatha*. In none of them will you find a demon saying to another man, “My wife’s upper and hidden parts look like this.” Merely repeating it is obscene! Yet Kamban relates all this and says that Rama commanded Hanuman to seek and discover the woman who bore each of those bodily marks.
+
+How tormented the pitiable Hanuman’s predicament must have been! Merely enduring and listening to this description of marks is difficult enough! But was Hanuman spared with that? God’s incarnation commands him to find the woman whose body possesses these identifying marks! He must investigate and determine which woman has pot-like breasts and an *alkul* comparable to the boundless sea! How is he to do that? What woman would consent to such a Hanuman-like investigation? Would the wielder of the Kodanda bow tell a monkey to look beneath graceful maidens’ clothes and inspect their parts? Should Kamban not at least have thought of this before writing? Is that all? One poet has Rama search for similes as he asks whether Sita’s breasts were like this or like that. Kamban pours his entire poetic power into it. Read this verse:
+
+> “I would call them caskets; I would call them pots;
+> I would choose young, red coconuts;
+> I would call them twin clusters of pure areca fruit;
+> I would speak of elephant tusks—
