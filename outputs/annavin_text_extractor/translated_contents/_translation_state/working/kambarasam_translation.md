@@ -1,8 +1,8 @@
 # Kamban’s Nectar
 Tamil title: கம்பரசம்
 <!--
-Translation checkpoint: Part 13, Image 2 complete; Parts 1–12 complete.
-Next source boundary: Part 13, Image 3 (003-58e800db6d.png), beginning “கிராதகர்கள் என்ற கூட்டம் போர் முரசு கொட்டிய சத்தம்”. Continue Janaka’s grief and the approaching attack.
+Translation checkpoint: Part 13, Image 6 complete; Parts 1–13 complete.
+Next action: review full English draft and translator notes, build the complete canonical bilingual document with corrected Tamil copied verbatim, then run source-retention audit and mandatory completion cycle. No scans remain untranslated.
 Canonical bilingual output has not been built; pending counts must remain unchanged.
 -->
 
@@ -1885,3 +1885,95 @@ There is a realm called Rathanupura Chakravalapuram. Its ruler has no children. 
 Meanwhile, the babies in their cradles had grown into walking stars (not acting stars) and were playing in Mithila’s garden. The Vidyadhara picked up Prabhamandala. He travelled through the sky. He delivered the child to Rathanupura. Thinking his errand accomplished, he went back to his own place. The sorrowing king danced with delight and fondled the child, saying, “Oh, my darling, my jewel, my sugar candy!”
 
 Prabhamandala became the prince of Rathanupura. The king of Mithila’s son gained a kingdom without fighting. Janaka sank into deep sorrow at losing the son born to him. While he was immersed in grief—
+
+<!-- Part 13, Image 3: 003-58e800db6d.png -->
+
+he heard the war drums of a group called the Kiratakas. His mind was troubled, and he set out to fight the invaders. He sent a messenger to Dasaratha asking for help in the war. Rama and Lakshmana came to Mithila, defeated the Kiratakas and assisted Janaka.
+
+Sita’s childhood had passed; she had become a beauty. In Rama, who had fought like a lion, there arose towards Sita... what else but love? Janaka decided, “He is a tiger in battle, a fitting match for this flowering creeper.” He agreed to marry Sita to Rama. Do not sing the song of auspicious victory yet: the story grows; Narada arrives.
+
+Prabhamandala is walking in the garden at Rathanupura, bored with the flowers he sees every day, when he sees something bearing a painting. It is not a flower, but a woman with a flower-like face. What happens next? You know that, surely. What would the rationalist theatrical company I desire make Prabhamandala say in this scene?
+
+“Beauty such as cannot be found even in poetry! Are you only a painting, or are you real? O picture! O machine that sets my thoughts whirling! Who are you? Maiden of what country? Whose daughter?” Prabhamandala would speak these words of love, sing and dance for joy, and say, “I shall marry no one but her. If she is not mine, I shall become a corpse. Love, love—without love, death!”
+
+The king heard that Prabhamandala had fallen in love upon seeing the picture. He decided, “Wherever the maiden who has captured my son’s heart may be, she shall become my daughter-in-law.” Neither he nor his son knew that it was Narada who had painted the picture, cast it into the beautiful garden and stirred up desire! Is that all? Do you know whose slender-waisted form was depicted in the picture that aroused such overwhelming love in Prabhamandala’s heart? The picture was Sita’s likeness. The elder brother had fallen in love with his younger sister. Because Sita’s image had become fixed in his heart, Prabhamandala had gone mad with love. He did not know—
+
+<!-- Part 13, Image 4: 004-3a8de927db.png -->
+
+that Sita was his own sister. Had he known that they had slept together as babies in the cradle, Prabhamandala would not have agreed to make Sita his beloved in the bedchamber. He knew that she was like a golden image; he did not know she was his younger sister. They do say that love has no eyes.
+
+“Great King Janaka, welcome, welcome.”
+
+“King, why have you summoned me in such haste?”
+
+“There is a reason. You will be delighted when I tell you.”
+
+“I am most happy. What is the matter?”
+
+“Great King Janaka, my palace needs a lamp.”
+
+“A lamp?”
+
+“Yes. A sacred lamp is needed.”
+
+“This is strange. I do not understand what you mean by a lamp.”
+
+“I shall make it clear. What is the lamp of a family?”
+
+“A woman of good family, a faithful wife.”
+
+“You are wise. A wife indeed. Yes, the palace needs a beautiful lamp. The fortunate woman who comes as Prabhamandala’s wife will be the sacred lamp of my palace, will she not?”
+
+“Yes, king, that is true.”
+
+“I ask you to give Sita, who shines as the jewel of Mithila, to be the sacred lamp of my palace.....”
+
+“King, what can I do? Sita.....”
+
+“Do not worry about how you will live apart from her. Sita may spend six months there and six months here.”
+
+“No! No! That is not what I meant to say.”
+
+“Are you wondering whether Prabhamandala intends to marry Sita? I invited you only after my son had agreed.”
+
+<!-- Part 13, Image 5: 005-0fd38d54b9.png -->
+
+“King, you must forgive me. I have promised to give Sita to someone else.”
+
+“You made that promise before knowing my intention. Now give your word to me. Surely you know that those who cannot change their course do not know how to rule the earth.”
+
+“Arrangements have been made to give Sita to Rama.”
+
+“How many arrangements undergo changes!”
+
+“Rama helped me when I was in great danger.”
+
+“To receive Sita as a prize? Janaka! It is disgraceful for kings to regard their daughters as prizes. Nor is it customary.”
+
+“He entered the battlefield for me before he had even seen Sita.”
+
+“Before he has even seen Sita, Prabhamandala has entered the fire of love.”
+
+“That comes of youth. There is no use talking at length. King! Will you agree to give your daughter to my son or not? Do you want kinship with me, or enmity?”
+
+“If there is a black cobra on one side and a deep pit on the other, what can one do.....”
+
+“A clever man will push the black cobra into the deep pit.”
+
+“King, I cannot go back on my word without a reason.”
+
+“Prabhamandala’s love has made my anger a snake shut in a box. Very well, Janaka: let us set a test to see whether that hero of whom you speak with such admiration can break a Vidyadhara bow that we possess. If he breaks the bow, Sita shall be Rama’s.”
+
+“As the king wishes...”
+
+After this scene too takes place, the scene of breaking the bow occurs; the scene in which Rama marries Sita—
+
+<!-- Part 13, Image 6: 006-889fc64846.png -->
+
+will follow, if the story is staged! This is the course in which Pampa has composed the tale.
+
+Sita and Rama become wife and husband, go to Ayodhya and live happily. At that time Dasaratha decides to crown Rama. Kaikeyi asks for and obtains the boon that her son Bharata shall have the kingdom and Rama the forest, and Rama goes to dwell in the wilderness with Lakshmana and Sita. We said that Ravana’s sister Chandravati in Patala Lanka had a son named Sambuka. He has been performing severe austerities for twelve years to obtain a magic sword. Lakshmana, who has gone to the forest, kills Sambuka and seizes the magic sword.
+
+The father, Khara, fights the man who killed his son. Ravana comes to help him. Then he sees Sita and is seized by desire. Following the forest deity’s advice, he blows a conch, causes Rama to leave Sita, takes Sita captive and carries her to Lanka. Afterwards the war between Rama and Ravana takes place. By then Prabhamandala has learned that Sita is his sister and stands by Rama. The kings called Sugriva and Hanuman also stand by him. Ravana is killed and Sita rescued from captivity. Rama then returns to Ayodhya and crowns himself: in this fashion the *Pampa Ramayana* ends. Pampa initially portrays Vibhishana as a hero. He brings Narada into the midst of the troubles that occur. If we consider the course of the *Pampa Ramayana*, we can see that its account of Rama and Ravana differs in many ways from the *Kamba Ramayana* recited devotionally today. There are still other *Ramayanas* in different forms. It is just such a story, invented in many ways by many people, that they call a book leading to salvation, a work fit for worship in the heart of the home, and our sacred history. After reading and reflecting on this summary of the *Pampa Ramayana*, tell us whether the world of inquiry can refrain from laughing in scorn at those who both know and do not know.
+
+* * *
