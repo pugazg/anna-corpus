@@ -1,8 +1,8 @@
 # Kamban’s Nectar
 Tamil title: கம்பரசம்
 <!--
-Translation checkpoint: Part 11, Image 10 complete; Parts 1–11 complete.
-Next source boundary: Part 12, Image 1 (001-cab3a2ae9d.png), beginning “பாடலின் பொருளைப் பாருங்கள்.” Continue with the gloss of the closing Part 11 verse. The prose description and verse differ in the ornaments worn; preserve both and explain separately.
+Translation checkpoint: Part 12, Image 4 complete; Parts 1–11 complete.
+Next source boundary: Part 12, Image 5 (005-e2aa581720.png), beginning “மரியாதையா நீயும் நடக்க வேணும், தெரியுமோ.” Continue the train-ticket dialogue.
 Canonical bilingual output has not been built; pending counts must remain unchanged.
 -->
 
@@ -1663,3 +1663,105 @@ Intoxication had supposedly gone to one woman’s head. She did not even have th
 > with a garland of flowers;
 > taking the golden *ari* garland,
 > she began to adorn her curling hair.”
+
+## Part 12
+
+<!-- Part 12, Image 1: 001-cab3a2ae9d.png -->
+
+Look at the meaning of the verse.
+
+“Swayed like lightning”: moved like lightning.
+
+“A woman whose waist”: a woman possessing such a waist.
+
+“Like white nectar”: like sweet ambrosia that is white in colour.
+
+“Sweet words”: sweet speech.
+
+“Faltering amid”: stumbling in the middle of it.
+
+“Removing the lovely girdle at the *alkul*”: taking off the girdle ornament worn near the concealed region.
+
+“Flower garland”: a garland of flowers.
+
+“Encircled her *alkul*”: put it on near the concealed region.
+
+“Taking the golden *ari* garland”: the ornament called the golden *ari* garland.
+
+“Curling hair”: in her hair.
+
+“Began to adorn”: started putting it on.
+
+The limit of obscenity! We have no further business there! Danger!! Turn back; begin to reflect. Is this a sacred story, Tamil culture, the appreciation of epic poetry? A festival for Kambar—is it in delight at this?
+
+## The Pampa Ramayana
+
+“Was condemning the *Kamba Ramayana* not enough? Are you now drawing a caricature called the *Pampa Ramayana* too? Have you no other work?” To comrades eager to ask this, let me offer an explanation at the very outset. This is no mockery. Nor is it the result of having nothing else to do: it is a truthful account. Just as there is a book called the *Kamba Ramayana*, there is also a *Pampa Ramayana*. The author of the former is Kambar; the author of this book is Pampa. The former is a Tamil; the latter a Kannada poet. Both of them composed the story of Rama—
+
+<!-- Part 12, Image 2: 002-48f0a12897.png -->
+
+but the course of the story differs. Thus the *Pampa Ramayana* is no caricature of ours, but a republication of an old book. Nor has it been patched up: it relates what is there just as it is, solely to remedy the fact that many people do not know of it, and for no other purpose. The preamble is over; now for the story.
+
+The moment the *Ramayana* is mentioned, our people think only of such incidents as the coronation of the sandals, the burning of Lanka, Vibhishana’s surrender, Hanuman’s tail growing longer and the demoness’s nose being cut off. Because Valmiki wrote and Kamban proclaimed it, these are the things our people know about Rama’s story. Having undertaken little research, they do not know how many forms of the *Ramayana* exist or how many books there are. Do we need evidence that our people, who trust only the refrain “I know not how far away Pandharpur may be,” have very, very little experience in the field of inquiry?
+
+If they possessed a spirit of inquiry, merely hearing that the story of Rama was a work fabricated to establish Aryan domination could not have made so many people angry and resentful, and consequently confused and incoherent. I have heard some people say with real anguish, “My Rama, the moon of the solar dynasty! Sita’s Rama! Rama of the Kodanda bow! Do you find fault with Dasaratha’s Rama? Must these ears hear this?” The reason for such anger is not their ignorance! A knowledgeable person will not rage; an ignorant person’s anger subsides in half a second. Between these two stands a group belonging to neither. They know some things, but do not know that there is knowledge in the world beyond what they themselves know. The anger of these comrades, who both know and do not know, surges like a stormy sea. Their words are deadly poison. Yet I do not become angry with them. Why?
+
+“Kanna! Look over there: the ticket inspector is coming. Watch me play a joke on him. I’ll make everyone in the carriage—
+
+<!-- Part 12, Image 3: 003-6a94e7fc30.png -->
+
+shake with laughter. Just watch. Whatever he asks you, you must only say, ‘I don’t know.’”
+
+Sitting in the moving train, Sadasivam wished to display his cleverness before a woman of passable looks who was reclining there, and receive her smile as his reward. He spoke to his friend Kannan as I have described above.
+
+Kannan too thought that Sadasivam was about to have some fun with the ticket inspector. The two young men took turns enjoying the sight of the woman, each when the other was not looking. There were no devotees of Kamban in that carriage; had there been any, they would have rejoiced and said that a learned man had described the splendour of this meeting of eye with eye a thousand years before.
+
+The ticket inspector asked each person for a ticket, received it, marked it and returned it. Kannan too handed his over. Then this happened.
+
+“Sir! Take out your ticket!” This in a tone of authority.
+
+“I haven’t bought a ticket, sir!” This was Sadasivam’s answer, somewhat humbly.
+
+“Haven’t bought one? What’s this, sir! Why haven’t you bought one?” The official.
+
+“I haven’t bought one, sir. I have no money.” Saying this, Sadasivam stood up as though a little frightened and scratched his head.
+
+“Sir! Don’t play games like this. Take out your ticket.”
+
+“I have no ticket, sir.”
+
+“Are you telling the truth?”
+
+“Yes, sir! Would I lie?”
+
+“Very well! Give me 6-3-0.”
+
+“I have no money, sir!”
+
+<!-- Part 12, Image 4: 004-490b7c3ba6.png -->
+
+“Hey! What an utter troublemaker you are. Take out the money. Look at him, so well built! Cropped hair. A polo-collar shirt. How many of you have set out like this? No ticket bought. No money either. And he sits here like a great gentleman. Come this way.”
+
+“What can I do, sir? These are hard times. I have no money in hand....”
+
+“If you have no money, go and steal somewhere.”
+
+“The policeman would beat me, sir.”
+
+“Only the policeman? Do you think I’m going to let you off?”
+
+Without laughing in the least, Sadasivam acted exactly like someone who had boarded a train furtively and was looking about in terror. Kannan thought of saying various things; the next moment he fell silent. Several people in the carriage offered various comments.
+
+“Have you seen the way the times are going?” said a Vedic reciter. For a long while he had suffered from the smell of cigarette smoke issuing in coils from Sadasivam’s mouth.
+
+“Those fellows fit for the funeral pyre get into trains like this and torment us to death.” This was said by the widowed Parvatham (named from her mountain-like figure).
+
+“Well, sir! Something like this could happen to us too, sometimes.” This from a gentle soul endowed with a conciliatory outlook.
+
+The ticket inspector’s hand went towards Sadasivam’s neck. The beauty who had delighted Sadasivam’s eyes grew sad. Kannan was agitated.
+
+“Sir! Take your hand away,” said Sadasivam with a new firmness. The young woman smiled. Kannan rejoiced; the ticket inspector was taken aback!
+
+“Why, sir! Is this what your rules say?”
+
+“What’s the matter? You’re talking about rules and all that. Get up respectfully.”
