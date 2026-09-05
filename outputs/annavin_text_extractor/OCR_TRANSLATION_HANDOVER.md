@@ -53,6 +53,22 @@ this handover after work resumes.
 
 ## Next Work
 
+Latest translation checkpoint (2026-09-05): Parts 1–11 are fully translated in
+`translated_contents/_translation_state/working/kambarasam_translation.md`.
+Continue at Part 12 Image 1, `001-cab3a2ae9d.png`, beginning
+`பாடலின் பொருளைப் பாருங்கள்.`: the gloss of the verse closing Part 11.
+The prose and verse describe the ornaments differently; both readings are
+preserved and the discrepancy is recorded in `difficult_terms.csv`. The
+colloquial `திரான்` and initials `சூனா மானா` also have separate uncertainty
+notes. No Tamil source was changed during this translation batch. No canonical
+output has been built and no translation state or pending counts were refreshed.
+The preceding pushed checkpoint is `0a051a7` (Part 11 Image 8); the next
+checkpoint commit contains Images 9–10 and this handover update. Diff whitespace
+checks pass. The full test suite is due at canonical completion and was not
+rerun for these working-draft-only checkpoints. The working header remains the
+authoritative resumption boundary. The source-recovery chronology below is
+historical: all 127 slots have already been reconciled.
+
 Continue source recovery for `katturaigal/kambarasam.md`, the first work in the
 refreshed live pending list. It spans 127 scans across thirteen parts. Earlier
 representative checks established recurring corruption in prose, quoted Kamba

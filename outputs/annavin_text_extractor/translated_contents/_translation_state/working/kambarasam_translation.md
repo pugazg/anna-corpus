@@ -1,8 +1,8 @@
 # Kamban’s Nectar
 Tamil title: கம்பரசம்
 <!--
-Translation checkpoint: Part 11, Image 8 complete.
-Next source boundary: Part 11, Image 9 (009-f4574cd2aa.png), beginning “ஆக்கிய அமுது என: தேவர்கள் உண்டாக்கிய அமிர்தம்”. Continue the verse gloss.
+Translation checkpoint: Part 11, Image 10 complete; Parts 1–11 complete.
+Next source boundary: Part 12, Image 1 (001-cab3a2ae9d.png), beginning “பாடலின் பொருளைப் பாருங்கள்.” Continue with the gloss of the closing Part 11 verse. The prose description and verse differ in the ornaments worn; preserve both and explain separately.
 Canonical bilingual output has not been built; pending counts must remain unchanged.
 -->
 
@@ -1622,3 +1622,44 @@ Kambar not only makes women who drank toddy in order to find delight in erotic p
 “Delight”: wishing to take pleasure.
 
 “Intent on”: having that thought.
+
+<!-- Part 11, Image 9: 009-f4574cd2aa.png -->
+
+“As though it were nectar prepared”: like the ambrosia made by the gods.
+
+“In fair golden cups”: in beautiful cups of gold.
+
+“Poured”: poured out.
+
+“Fresh toddy”: new toddy.
+
+“Began to drink”: started drinking.
+
+The connoisseurs of art drink Kamban’s nectar and delight in it even more than the beauties of Ayodhya did in theirs. Let them delight. But let those who wish the country to possess good character reflect a little. Is this a sacred story? Is this the way to find joy? Is this conduct befitting a festival? If this was how women behaved in the sacred age, the golden age, the days of Raghava, can that age be called an age of culture? Think over these and similar questions. With matters in this state, people even say, “Although Kamban set out to write a northern story, he has blended Tamil Nadu itself into it. He shows the Ganges as the Kaveri. He portrays Tamil culture itself.” Tamil culture! Look at its character. Those knowing women who seek toddy as an aid to the battle of union are Tamils!! How brazen one must be to say this. How unconcerned one must be to listen to it.
+
+To those who argue that even if what they drank in those days means toddy, it was a different kind, and who thus search for a hole to hide in, I say this: every drunken distortion and antic that we see today has been displayed by the women of Ayodhya, as Kambar has shown at length, verse after verse.
+
+The sixth verse says they drank; the seventh says the same. In the eighth he speaks of their eyes growing red. In the ninth he records that toddy kindled lust—then their loss of self-control, then their babbling, then obscene dances....... In this fashion, through sixty-six verses—
+
+<!-- Part 11, Image 10: 010-fb13d98963.png -->
+
+in the Feasting Canto, the man who set out to write a sacred story about the relations between the individual soul and the Supreme Soul has explained drunken frenzy.
+
+“Hey! The fellow’s terribly drunk. Look, he sees his own shadow and talks to it, thinking it’s someone else!”
+
+“Look, he doesn’t even know the glass is empty. He picks it up thinking there’s beer in it. He’s had too much!”
+
+Just as people speak about drunkards today in this fashion, Kambar has sung many verses about the distinction of those great ladies.
+
+“Drunk out of his mind! The fellow put what he ought to tie round his waist on his head, and what he ought to wear on his feet round his neck, and went about looking a dreadful sight!” This is how people talk of a drunkard’s distorted antics nowadays. Everyone of sound sense says that all this degradation must end.
+
+Read the sixteenth verse: the revelry these ‘virtuous women’ have engaged in while drunk is enough to make us vomit. It was indeed Kamba Nattalvar who sang it, not the pen of ‘Su. Ma.’ Will you look at the verse? You have not had the good fortune to see those women!! Even if you had, it would have been dangerous!!!
+
+Intoxication had supposedly gone to one woman’s head. She did not even have the clarity to know what ornament to wear where. She took the girdle ornament tied round her waist and put it on her head, they say. She took what she ought to wear on her feet and tucked it into her hair. Many, many such spectacles, it seems!
+
+> “A woman whose waist swayed like lightning,
+> faltering amid sweet words like white, delicious nectar—alas!—
+> removed her lovely girdle and encircled her *alkul*
+> with a garland of flowers;
+> taking the golden *ari* garland,
+> she began to adorn her curling hair.”
