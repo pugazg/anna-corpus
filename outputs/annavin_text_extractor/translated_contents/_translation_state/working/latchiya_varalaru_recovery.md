@@ -2,9 +2,9 @@
 
 - Canonical source: `ocr_text_corrected/katturaigal/latchiya_varalaru.md`
 - Extent: six parts, 58 scans.
-- Reconciled: Parts 1–3 and Part 4 Images 1–2 complete, 33/58 scans.
-- Next: Part 4 Image 3, `003-273523f939.png`.
-- Last checked boundary: Part 4 Image 2 ends `வளைவு நெளிவுகள் அல்ல. முக்கியமாக நாம் கவனிக்க வேண்டி`.
+- Reconciled: Parts 1–3 and Part 4 Images 1–4 complete, 35/58 scans.
+- Next: Part 4 Image 5, `005-25e5cad7e8.png`.
+- Last checked boundary: Part 4 Image 4 ends `இல்லையா?” என்று! கேட்டுவிட்டுச் சிரிக்கும்! ஷோலாப்பூர்,`.
 - Printed title/date and all opening figures checked. Preserve the unusual printed
   `தெளிவுபடுத்தி ஆய்விட்டது` without grammatical normalization.
 - Corrections are logged separately in `ocr_concerns.csv`.
