@@ -1,8 +1,8 @@
 # Kamban’s Nectar
 Tamil title: கம்பரசம்
 <!--
-Translation checkpoint: Part 12, Image 8 complete; Parts 1–11 complete.
-Next source boundary: Part 12, Image 9 (009-5ac2136835.png), beginning “பழங்காலத்துச் சு. ம. போலும்”. Continue the sentence about Pampa being an ancient Su. Ma.
+Translation checkpoint: Part 13, Image 2 complete; Parts 1–12 complete.
+Next source boundary: Part 13, Image 3 (003-58e800db6d.png), beginning “கிராதகர்கள் என்ற கூட்டம் போர் முரசு கொட்டிய சத்தம்”. Continue Janaka’s grief and the approaching attack.
 Canonical bilingual output has not been built; pending counts must remain unchanged.
 -->
 
@@ -1819,3 +1819,69 @@ The extended preamble too is over. Now listen to the story. Valmiki and Kamban p
 In the *Pampa Ramayana*, Ravana’s family is portrayed as excelling in unity, affection, courage, prosperity, wealth and dignity. It is not like Kamban’s picture: an elder brother who rampages blindly, a sister who roams about possessed by lust, and a younger brother who betrays him. Friends who let resentment cloud their reason should impress this difference upon their minds. Portraying Ravana as a demon and making a traitor and a wanton woman his siblings was Valmiki’s invention with a purpose. That book was written to tell the “faithful” that Aryan imperial domination had God’s blessing. It therefore became Valmiki’s duty to portray the lord of Lanka’s family in a manner suited to that idea. Since Kamban wrote his book on the basis of an Aryan text, wishing to become a servant of Hari, he followed the Aryan poet’s footsteps beautifully here. Without knowing that people write books to establish and propagate their respective doctrines, to believe, “Kamban told it in captivating poetry, and therefore the story must have been exactly as he told it,” is the act of the unlearned. Scholars, meanwhile, have become people obliged to graze on the estates of such unlearned patrons. Pampa had no need to write a story for Aryanism. He was therefore under no compulsion to degrade Ravana. Intelligent people who perceive that Ravana, shown as a villain in Kamban’s book, is given a different form in Pampa’s verse will understand that the story is an invention, and that those who handled it used it as an instrument to emphasise their own ideas. Those who understand will weigh, expound and examine such fiction, rejecting what should be rejected and accepting what should be accepted, and benefit thereby. Those who do not know this method will say that Rama’s name itself is sugar candy, and delight in throwing stones at researchers.
 
 “Kamban wrote the *Ramayana* on the basis of Valmiki. Pampa apparently rewrote that very *Ramayana* differently as a joke. Pampa seems to have been—
+
+<!-- Part 12, Image 9: 009-5ac2136835.png -->
+
+an ancient Su. Ma.” Some hasty wiseacres will already have reached this conclusion. Here is another explanation for their understanding.
+
+Valmiki’s book was Kamban’s source. Likewise, Pampa too had a source text. It was not Pampa’s invention; like Kamban, he wrote his book by adapting a source. The *Pampa Ramayana* takes as its original the *Rama Charita* of Ravishena, whom the Jains honour as highly as the Aryans honour Valmiki. Valmiki composed Rama’s story to sustain Aryanism. In a manner suited to that purpose, the Jain elder Ravishena composed Rama’s story without any such idea of racial domination. Pampa adapted that work. He therefore did not degrade Ravana. He did not make him a demon lacking the one quality of compassion. He did not make him a man with twenty mighty shoulders who, filled with desire for Sita-Lakshmi, roamed about debased as a lecher. Let those who have so far known Ravana as pictured by Valmiki and Kamban now see the king of Lanka revealed by Ravishena’s account and Pampa’s portrayal. Let us now proceed attentively to the lord of Lanka’s audience hall.
+
+The lord of Lanka sits in state. There are no people there with fire-spitting eyes, hideous teeth or cruel dispositions, as Kamban showed. The scene is just as a powerful king’s court ought to be. Vibhishana is not a lord overflowing with devotion, excelling in spiritual maturity, elevated by thoughts of serving God, knowing the path of virtue, and restraining and winning over his elder brother. Nor is he an Alvar who has surrendered, saying, “My elder brother has taken to himself the great fire called Sita. I will no longer stand before him.” Vibhishana is simply a loving younger brother to a powerful king. Mandodari! In the assembly; the chief ministers in the assembly!! At that moment an astrologer arrives.
+
+“Lord of Lanka! Danger will come to you and your kingdom through the son of the king of Ayodhya and the daughter of the king of Mithila,” says the astrologer.
+
+<!-- Part 12, Image 10: 010-d0c9cb8490.png -->
+
+“Who are the young man and woman who can bring danger upon me? What are their names? Where are they?” When the king asks this, the astrologer says, “They are yet to be born and grow up; only afterwards will they bring great danger upon you.”
+
+The lord of Lanka would have laughed; those in the assembly would have smiled. But Vibhishana! “Are a woman and a man to be born to bring danger upon my elder brother—the son in Ayodhya and the daughter in Mithila? Only if they are born will there be great danger! If we prevent their birth—why, I will kill the very king of Ayodhya to whom, you say, a son will be born and harm my elder brother. If the king dies, how can there be a son? How can there be danger to the sovereign of Lanka? Likewise, I shall make a corpse fall in Mithila,” said Vibhishana. When the astrologer came, the king of Ayodhya and the ruler of Mithila had no children; they had not even married.
+
+As the younger brother thus sets out to help his elder brother, Narada enters the story, just as he does in every story.
+
+“Wanderer through the three worlds! It is my good fortune that you have come to see your servant.”
+
+“Well, my son Dasaratha! I came rushing here, eager to see you before going on. Am I going to see you again? I shall not have that good fortune.”
+
+“Swami! Great sage! What are these words that wound the ear?”
+
+“King! When I hear that Dasaratha is dead, will it not wound my ears still more? Thinking of that, I am already distressed.”
+
+“Narada! What are you saying?”
+
+“King! This is the last time I am seeing you.”
+
+## Part 13
+
+<!-- Part 13, Image 1: 001-d5abbbb330.png -->
+
+“Why! What accident is going to befall you? Will you not come to Ayodhya again?”
+
+“I shall come to Ayodhya, but you will not be there, king!”
+
+“What! What!”
+
+“Dasaratha! How can I say it! My heart is choking!”
+
+“Tell me, Swami! My mind is in turmoil.”
+
+“King! To kill you....”
+
+“Who is setting out, Swami? Indra? Chandra? Who? Tell me.”
+
+“Neither of them! If either of them had set out, I would have stopped him myself. The lord of Lanka’s younger brother, the valiant Vibhishana, is coming to kill you. An astrologer apparently said that a son would be born to you and kill Ravana. To save his elder brother, Vibhishana is coming to kill you.”
+
+If a rationalist theatrical company undertook to stage the *Pampa Ramayana*, it would have a scene in which Dasaratha and Narada conversed like this. For Narada does tell Dasaratha and Janaka of Vibhishana’s vow. Besides telling them, he gives them a means of escape. Accordingly, Dasaratha and Janaka install lifelike images of themselves in their respective palaces, put on disguises and go wandering abroad. Vibhishana destroys the images and returns to Lanka believing that Dasaratha and Janaka are dead: this is the *Pampa Ramayana*.
+
+As Dasaratha wanders through many countries in disguise, Kaikeyi’s ceremony of choosing a husband takes place at Kandaka Mangalapuram. He goes there and steals her heart. The maiden casts her garland; the kings who have come to the ceremony swing their swords. The wedding hall becomes a battlefield. The bridegroom becomes a great warrior. The wife becomes his charioteer. Victory goes to Dasaratha. Because he wins through the courage of the spear-eyed—
+
+<!-- Part 13, Image 2: 002-5b91eb270f.png -->
+
+woman, Dasaratha’s heart swells with joy and he grants Kaikeyi a boon. She accepts it on the condition that she will claim it when she wishes, and completes the wedding. Dasaratha returns to Ayodhya with Kaikeyi and reigns. He marries several other beauties too. Rama, Lakshmana, Bharata and Satrughna are born.
+
+Janaka, who went away as a wanderer, also returns after some time to Mithila and marries a maiden there named Videhi. To Janaka are born twins, a daughter named Sita and a son named Prabhamandala. Let Janaki and her brother Prabhamandala remain in their cradles in Mithila; come to another realm!
+
+There is a realm called Rathanupura Chakravalapuram. Its ruler has no children. Even people who have only debts for a child to inherit are gripped by the sorrow of having no son; would the ruler of this realm with its long name not grieve at having no child? The king’s mind had become a furnace. A Vidyadhara thought of relieving his distress. Vidyadharas are aeroplanes without wings! They fly! One day the Vidyadhara went by air to Mithila!
+
+Meanwhile, the babies in their cradles had grown into walking stars (not acting stars) and were playing in Mithila’s garden. The Vidyadhara picked up Prabhamandala. He travelled through the sky. He delivered the child to Rathanupura. Thinking his errand accomplished, he went back to his own place. The sorrowing king danced with delight and fondled the child, saying, “Oh, my darling, my jewel, my sugar candy!”
+
+Prabhamandala became the prince of Rathanupura. The king of Mithila’s son gained a kingdom without fighting. Janaka sank into deep sorrow at losing the son born to him. While he was immersed in grief—
