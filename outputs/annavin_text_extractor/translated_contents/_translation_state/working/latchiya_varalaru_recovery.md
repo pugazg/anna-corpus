@@ -2,9 +2,9 @@
 
 - Canonical source: `ocr_text_corrected/katturaigal/latchiya_varalaru.md`
 - Extent: six parts, 58 scans.
-- Reconciled: Part 1 Images 1–11, 11/58 scans; Part 1 complete.
-- Next: Part 2 Image 1, `001-3ad92cd9bc.png`, beginning `செய்யவே நாம்,`.
-- Last checked boundary: Part 1 Image 11 ends `நாடு திராவிடருக்கே ஆகவேண்டும் என்பதுதான். அதைச்`.
+- Reconciled: Part 1 complete and Part 2 Images 1–3, 14/58 scans.
+- Next: Part 2 Image 4, `004-219e0fede6.png`, beginning `8. ஓட்டமான் சாம்ராஜ்யத்தின் பிணைப்பிலிருந்து`.
+- Last checked boundary: Part 2 Image 3 ends `முடியாத உரிமை.`.
 - Printed title/date and all opening figures checked. Preserve the unusual printed
   `தெளிவுபடுத்தி ஆய்விட்டது` without grammatical normalization.
 - Corrections are logged separately in `ocr_concerns.csv`.
