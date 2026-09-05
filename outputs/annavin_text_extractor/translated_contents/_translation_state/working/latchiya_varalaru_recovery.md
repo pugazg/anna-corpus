@@ -2,9 +2,9 @@
 
 - Canonical source: `ocr_text_corrected/katturaigal/latchiya_varalaru.md`
 - Extent: six parts, 58 scans.
-- Reconciled: Parts 1–4 and Part 5 Images 1–8 complete, 49/58 scans.
-- Next: Part 5 Image 9, `009-bdee30b56d.png`.
-- Last checked boundary: Part 5 Image 8 ends `உன்னிடமோ சம்மட்டி இல்லை! கரத்தாலேயே நொறுக்கு`.
+- Reconciled: Parts 1–5 complete, 51/58 scans.
+- Next: Part 6 Image 1, `001-2fe6671b39.png`.
+- Last checked boundary: Part 5 Image 10 ends `சித்திரம், தூத்துக்குடி மாநாடு!`.
 - Printed title/date and all opening figures checked. Preserve the unusual printed
   `தெளிவுபடுத்தி ஆய்விட்டது` without grammatical normalization.
 - Corrections are logged separately in `ocr_concerns.csv`.
