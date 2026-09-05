@@ -1,8 +1,8 @@
 # Kamban’s Nectar
 Tamil title: கம்பரசம்
 <!--
-Translation checkpoint: Part 12, Image 4 complete; Parts 1–11 complete.
-Next source boundary: Part 12, Image 5 (005-e2aa581720.png), beginning “மரியாதையா நீயும் நடக்க வேணும், தெரியுமோ.” Continue the train-ticket dialogue.
+Translation checkpoint: Part 12, Image 8 complete; Parts 1–11 complete.
+Next source boundary: Part 12, Image 9 (009-5ac2136835.png), beginning “பழங்காலத்துச் சு. ம. போலும்”. Continue the sentence about Pampa being an ancient Su. Ma.
 Canonical bilingual output has not been built; pending counts must remain unchanged.
 -->
 
@@ -1765,3 +1765,57 @@ The ticket inspector’s hand went towards Sadasivam’s neck. The beauty who ha
 “Why, sir! Is this what your rules say?”
 
 “What’s the matter? You’re talking about rules and all that. Get up respectfully.”
+
+<!-- Part 12, Image 5: 005-e2aa581720.png -->
+
+“You must behave respectfully too, understand? What should you do if I haven’t bought a ticket? File a case. That is all the rule allows, isn’t it? That is the law, sir! Instead, you put your hand on my neck. If you behave so high-handedly even with an educated person like me, what would you do to a country villager?”
+
+“Some people are like that: they show their strength against helpless creatures who cannot speak up.” This was Parvatham speaking, having changed her mind.
+
+“Whatever the circumstances, you mustn’t put your hand on his neck, you see. Wouldn’t a person get angry?” This was the Vedic reciter’s commentary.
+
+“Just an unlucky moment. The ticket officer isn’t really a wrongdoer. This gentleman is a good man too.” This was the lover of compromise speaking.
+
+“Sir! I am an officer myself. I said I had no ticket simply to see what railway officers’ dispositions were like. Whatever happens, one must have patience. One must not lose one’s temper.”
+
+Saying this calmly, Sadasivam put his hand into his shirt pocket.
+
+“I knew it, Grandmother. Didn’t I tell you at the time that he had a ticket and was only playing? You see, what I said has turned out right.” This was said by Parvatham’s young companion. Meanwhile, fear robbed Sadasivam’s face of its glow. His hands and feet began to tremble. There was no ticket in his shirt pocket!
+
+“Kanna! I can’t find the ticket,” said Sadasivam in distress, searching his undershirt, outer shirt and everything else. No ticket. The inspector had been somewhat subdued by Sadasivam’s rapid speech and the supporting remarks of the other passengers, had he not? Sadasivam’s bewilderment stirred up the fire that had died down. He stood glaring at Sadasivam. Sadasivam became a pitiable figure.
+
+<!-- Part 12, Image 6: 006-e46b76fd28.png -->
+
+“Sir! I can’t find the ticket, sir. Truly, I was only joking until now. I bought a ticket and put it in my shirt pocket. I can’t find it anywhere, sir,” said Sadasivam. Distress had transformed the very melody and expression of his speech.
+
+A music lover sang Bhagavathar’s song: “By what magic has the bowl I buried in secret vanished? Great sage, I do not know.” A lover of doubt asked Sadasivam, “What’s this joke, man? Where could a ticket placed in your shirt pocket go?”
+
+“It seems to have sprouted legs and gone away. This is the Kali age, isn’t it?” said the Vedic reciter, winking at the ticket inspector.
+
+“Sir! Your Exalted Royal Highness! Kindly give me your ticket.” Remembering Sadasivam’s demand that he behave respectfully, the ticket inspector asked this mockingly.
+
+“Sir! Sir! I’m telling the truth. I bought a ticket. It’s been lost.”
+
+“Hey...! You’re a great trickster. First you said you had no ticket. Then, when I questioned you sternly, you argued that you had one. Now are you trying to cheat me by saying the ticket’s lost?”
+
+This time the ticket inspector’s hand shot towards Sadasivam’s neck with greater force.
+
+“Kanna! Tell him, please tell him!” This was Sadasivam’s plea.
+
+“I don’t know anything!” This was Kannan’s reply, following Sadasivam’s lesson.
+
+A station! The train stopped. Sadasivam was made to get down by the ticket inspector. Kannan had to get down too. A small crowd gathered. A great uproar. The train departed. Sadasivam, who had acted foolishly under the spell of youthful pleasure, was caught in a commotion at the station. The ticket he had bought had caught in his handkerchief—
+
+<!-- Part 12, Image 7: 007-167dd53835.png -->
+
+and remained at his feet for a long time; then, with nobody to pick it up, it lay beneath the bench!
+
+Sadasivam had begun amusing himself by pretending to have bought no ticket while possessing one. In the end, although he had bought a ticket, he had to suffer the distress of someone who had not. The reason was that he belonged to the group who both know and do not know. He knew he was playing a joke while having a ticket. But he did not know that the ticket had accidentally fallen down. Sadasivam exists not only in a moving train but everywhere; he is not just one man: seven out of ten people in this country are of his kind. It is just such friends, who both know and do not know, who rage at those who critically examine epics such as the *Ramayana*. They know one Rama! An incarnation of God, an aspect of Hari!! They think that what they know about Rama is knowledge itself. They must learn that others know Rama in many different ways. I hope the *Pampa Ramayana* will give them this new understanding.
+
+The extended preamble too is over. Now listen to the story. Valmiki and Kamban portrayed Ravana as a demon, made Rama a god, Hanuman a devoted servant, Sita the goddess Sri, Vibhishana an Alvar, and the *Ramayana* a sacred story for devotional recitation. We see the resulting temple drums and clamour, and support for Aryanism, continuing even today. The *Pampa Ramayana* is not like that! Ravana, Mandodari’s husband, is a great warrior! He lives in boundless happiness as the lord of Lanka. Vibhishana is his affectionate younger brother, who does not betray him and receive a reward from Kakutstha. Vibhishana as Pampa first portrays him is a man of courage, undertaking an arduous task to save his elder brother’s life. Ravana has a sister. Her name is not Surpanakha! It is Chandravaki! She is not a woman who, infatuated with Rama and Lakshmana, wandered the forest as a lustful seductress and had her limbs mutilated. She is the chief queen of Khara, the king of a place called Patala Lanka! Sambuka is her son.
+
+<!-- Part 12, Image 8: 008-8de860fca6.png -->
+
+In the *Pampa Ramayana*, Ravana’s family is portrayed as excelling in unity, affection, courage, prosperity, wealth and dignity. It is not like Kamban’s picture: an elder brother who rampages blindly, a sister who roams about possessed by lust, and a younger brother who betrays him. Friends who let resentment cloud their reason should impress this difference upon their minds. Portraying Ravana as a demon and making a traitor and a wanton woman his siblings was Valmiki’s invention with a purpose. That book was written to tell the “faithful” that Aryan imperial domination had God’s blessing. It therefore became Valmiki’s duty to portray the lord of Lanka’s family in a manner suited to that idea. Since Kamban wrote his book on the basis of an Aryan text, wishing to become a servant of Hari, he followed the Aryan poet’s footsteps beautifully here. Without knowing that people write books to establish and propagate their respective doctrines, to believe, “Kamban told it in captivating poetry, and therefore the story must have been exactly as he told it,” is the act of the unlearned. Scholars, meanwhile, have become people obliged to graze on the estates of such unlearned patrons. Pampa had no need to write a story for Aryanism. He was therefore under no compulsion to degrade Ravana. Intelligent people who perceive that Ravana, shown as a villain in Kamban’s book, is given a different form in Pampa’s verse will understand that the story is an invention, and that those who handled it used it as an instrument to emphasise their own ideas. Those who understand will weigh, expound and examine such fiction, rejecting what should be rejected and accepting what should be accepted, and benefit thereby. Those who do not know this method will say that Rama’s name itself is sugar candy, and delight in throwing stones at researchers.
+
+“Kamban wrote the *Ramayana* on the basis of Valmiki. Pampa apparently rewrote that very *Ramayana* differently as a joke. Pampa seems to have been—
