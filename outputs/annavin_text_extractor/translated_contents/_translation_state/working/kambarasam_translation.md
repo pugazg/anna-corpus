@@ -1,8 +1,8 @@
 # Kamban’s Nectar
 Tamil title: கம்பரசம்
 <!--
-Translation checkpoint: Part 11, Image 3 complete.
-Next source boundary: Part 11, Image 4 (004-e56949c99c.png), beginning “ஏதேதோ செய்தனர்”.
+Translation checkpoint: Part 11, Image 4 complete.
+Next source boundary: Part 11, Image 5 (005-3ca33ed264.png), beginning “சென்றாரா? இல்லை!”.
 Canonical bilingual output has not been built; pending counts must remain unchanged.
 -->
 
@@ -1540,4 +1540,10 @@ delight wells forth. Above all else, joy increases when one sets out to witness 
 
 “If I tell you each thing, it will only make my stomach burn. I came to wonder why we travelled with these creatures at all.”
 
-Do we not hear conversations like these? This alone is enough to disgust intelligent people. Beyond this, if the matter were that not only the men but the women too drank, made merry, performed erotic dances, lost control, and—
+Do we not hear conversations like these? This alone is enough to disgust intelligent people. Beyond this, if the matter were that not only the men but the women too drank, made merry, performed erotic dances, lost control, and did all manner of things, how much disgust and anger would arise in those who seek virtue? Yes, anger will arise; we will condemn all this as the conduct of base people. Very well! Here Kambar calls us to witness a wedding. Come, let us go and look for a while.
+
+This wedding is no ordinary one. Rama, who broke the bow, is to wed Sita, the beauty whose teeth resemble jasmine buds. It is the marriage of the maiden of Mithila and the son of Kausalya. Sir, this is a wedding in a royal family, not an ordinary household. Moreover, the company setting out for it consists of emperor Dasaratha and his retinues: petty kings, fish-eyed women, musicians, dancing beauties, golden creepers, flower creepers, and many, many other “varieties.” Kambar enters such a company and shows us the scenes there. Let us see a few of them! Through Kamban’s hand-camera, let us see what the festival that swelled joy was like. He is an excellent cameraman, is he not? In showing close-up scenes, he has no equal in the world. But is the close-up he shows a swaying mango? Ah! That is precisely what it is not! It is another object resembling one!! Let us see a few scenes. In order that the world may be redeemed, Sriman Narayana has incarnated as Rama and is to wed Sita, the incarnation of Mahalakshmi. To witness that feast for the eyes, emperor Dasaratha sets out surrounded by a company of Ayodhya’s people who enjoy royal favour. Into that festival, in the *Bala Kandam* of the *Kamba Ramayanam*, let us now enter the Feasting Canto.
+
+The Feasting Canto! The very name is splendid!! Eating and dancing!! What does one eat that makes one dance? Who eats and dances?
+
+Dasaratha saw the palm-leaf message sent by emperor Janaka saying that Rama was to be married in Mithila, and rejoiced in his heart. In the spirit of “May this world receive the joy I have received,” he told the townspeople the glad news and set out towards Mithila surrounded by the four divisions of his army. Did he take only those four divisions—
