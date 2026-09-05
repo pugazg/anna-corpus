@@ -1,8 +1,8 @@
 # Kamban’s Nectar
 Tamil title: கம்பரசம்
 <!--
-Translation checkpoint: Part 11, Image 4 complete.
-Next source boundary: Part 11, Image 5 (005-3ca33ed264.png), beginning “சென்றாரா? இல்லை!”.
+Translation checkpoint: Part 11, Image 6 complete.
+Next source boundary: Part 11, Image 7 (007-7c4229c106.png), beginning “மாண்புடைத் தோழர்காள்!”. The English sentence continues from “Comrades of distinction who campaign for prohibition—”.
 Canonical bilingual output has not been built; pending counts must remain unchanged.
 -->
 
@@ -1547,3 +1547,32 @@ This wedding is no ordinary one. Rama, who broke the bow, is to wed Sita, the be
 The Feasting Canto! The very name is splendid!! Eating and dancing!! What does one eat that makes one dance? Who eats and dances?
 
 Dasaratha saw the palm-leaf message sent by emperor Janaka saying that Rama was to be married in Mithila, and rejoiced in his heart. In the spirit of “May this world receive the joy I have received,” he told the townspeople the glad news and set out towards Mithila surrounded by the four divisions of his army. Did he take only those four divisions—
+
+<!-- Part 11, Image 5: 005-3ca33ed264.png -->
+
+with him? No! Would Kambar let him go like that? The army of smiling faces sets out alongside them too. When the company of men goes, would Kambar, who drinks deeply of the poetry of love, leave the beautiful women pining in Ayodhya? They too come along. The departure is the Canto of Setting Forth. Beginning there, he paints the Canto of Mountain Scenes, the Flower-Picking Canto and the Water-Play Canto. In the evening, in the flower grove and in the pool, he lets the men and women disport themselves, rejoicing in his heart (and making the connoisseurs rejoice too), and comes to the Feasting Canto. That is, this lion among poets, who set out to write a sacred book, tells the story of how they drank toddy and danced.
+
+“Sir! Now and then he has just a little. Only the ‘best’ stuff.”
+
+“However much he takes, the fellow never speaks a single word out of turn.”
+
+“It is toddy, sir, that the fellow drinks by the potful. Then he rolls in the street without even knowing that his clothes have fallen off. It is a dreadful sight.”
+
+You will have heard people talk like this. In a sacred story—in a book said to procure happiness in this life and a dwelling in heaven in the next, whether one reads it or merely stands nearby listening to it being read—the very presence of a section about drinking toddy and dancing is obscene. Could those who drank and capered not at least have been some wayfarers or forest dwellers? Kambar might have written that some lowly people, delighted to hear the news of Rama’s marriage, drank and danced; that Dasaratha, travelling to witness the wedding, saw them and advised them, “My children! Liquor destroys the mind. Do you need liquor to rejoice? This is no good path”; that on hearing this, they overcame even their intoxication, bowed at the king’s feet and asked the sovereign to forgive their fault; and that he blessed them and went on, saying, “You were people of little understanding. Once you recognised your fault, you agreed to mend your ways. Now you have become people of full understanding. May you live long!” Seeing how liquor destroys the mind and how the king reforms his people, readers of the book might also acquire sound—
+
+<!-- Part 11, Image 6: 006-1b0eb3b38e.png -->
+
+understanding. But what did the lion among poets do? He says that those who drank and capered were the very holy men who accompanied Dasaratha! If that was their way, in what condition could the hill dwellers and forest dwellers have been? The mind reels at the thought. Did he stop with describing those esteemed by the king of kings as drunkards? Kambar might have concluded that they drank liquor and sank down in a stupor; that the moon shone as though laughing at their slight loss of reason; that the sun, angered and thinking, “Fie! If these men themselves act thus, what state will those without learning reach?” struck them with his rays; and that they rose, wiping their eyes as though begging forgiveness for their fault, and, fearing to behold God’s wedding with mouths that had drunk toddy, plunged into a pool and emerged, rinsed their mouths and completed their morning duties. But what does he do? A close-up at every point!! Look!
+
+They began to pour fresh toddy into beautiful golden cups and drink!
+
+Who?
+Women?
+
+Oh, what a disgrace! Who are these women drinking toddy like this?
+
+Women whose hair is adorned with flowers and gives off a sweet fragrance.
+
+This alone is enough to disgust us! Women, members of the royal household, drinking toddy at a stopping place on the way to see Raghava’s wedding? In writing a book to explain the qualities of God, must one write about these toddy-drinking women? In Ayodhya, the dwelling place of every good virtue, in the days when the ‘Lord’ had taken incarnation, was this the condition of the women? Drinking toddy and lying about along the way?
+
+Devotees! Poets who seek culture! Honourable people who ask for the savour of art! Comrades of distinction who campaign for prohibition—
