@@ -2,9 +2,9 @@
 
 - Canonical source: `ocr_text_corrected/katturaigal/latchiya_varalaru.md`
 - Extent: six parts, 58 scans.
-- Reconciled: Parts 1–2 complete, 21/58 scans.
-- Next: Part 3 Image 1, `001-5b46a9b58f.png`, beginning `பெரும்பான்மையினராக உள்ள கட்சியை ஆட்டி வைத்து,`.
-- Last checked boundary: Part 2 Image 10 ends `பாரீர்! சிறுபான்மையாக! (மைனாரிட்டியாக) உள்ள கட்சி,`.
+- Reconciled: Parts 1–2 complete; Part 3 Images 1–2 complete, 23/58 scans.
+- Next: Part 3 Image 3, `003-7cac60f855.png`, beginning `போலத்தான், இன்றைய தேர்தல் போராட்டத்திலே, முஸ்லீம்`.
+- Last checked boundary: Part 3 Image 2 ends `பிறகு வெற்றி காண முடிந்தது என்று கூறுவர்! உண்மை! அது`.
 - Printed title/date and all opening figures checked. Preserve the unusual printed
   `தெளிவுபடுத்தி ஆய்விட்டது` without grammatical normalization.
 - Corrections are logged separately in `ocr_concerns.csv`.
