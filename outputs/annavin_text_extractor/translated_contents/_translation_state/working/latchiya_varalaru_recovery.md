@@ -2,9 +2,9 @@
 
 - Canonical source: `ocr_text_corrected/katturaigal/latchiya_varalaru.md`
 - Extent: six parts, 58 scans.
-- Reconciled: Part 1 Images 1–9, 9/58 scans.
-- Next: Part 1 Image 10, `010-c44b2197b8.png`, beginning `முழக்கமாக இருந்ததேயன்றி, காருண்யமுள்ள சர்க்காருக்கு`.
-- Last checked boundary: Image 9 ends `விடுதலைப் படையின் எக்காளமாக, மூலத்தை உணர்ந்தோரின்`.
+- Reconciled: Part 1 Images 1–11, 11/58 scans; Part 1 complete.
+- Next: Part 2 Image 1, `001-3ad92cd9bc.png`, beginning `செய்யவே நாம்,`.
+- Last checked boundary: Part 1 Image 11 ends `நாடு திராவிடருக்கே ஆகவேண்டும் என்பதுதான். அதைச்`.
 - Printed title/date and all opening figures checked. Preserve the unusual printed
   `தெளிவுபடுத்தி ஆய்விட்டது` without grammatical normalization.
 - Corrections are logged separately in `ocr_concerns.csv`.
