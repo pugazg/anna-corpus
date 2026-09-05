@@ -48,7 +48,7 @@ this handover after work resumes.
 - The recovery hold is resolved. State was refreshed; Kambarasam is absent from
   both the OCR pending list and recovery holds. Audit: zero issues. All 15 tests pass.
 - Final full-English draft checkpoint: `934a15e`; the canonical completion commit
-  contains this handover update, the bilingual document and refreshed state.
+  contains the bilingual document and refreshed state: `a8ea47c`, pushed to origin/main.
 
 ## Next Work
 
@@ -56,7 +56,10 @@ Begin full source recovery for `katturaigal/latchiya_varalaru.md`, the first wor
 in the current OCR pending list. It has 58 scans across six parts. The earlier
 screening restored only bounded title/date and opening readings and removed
 scan-absent insertions. Every scan still requires reconciliation before
-translation. Start at Part 1 Image 1. Do not translate from unreconciled OCR.
+translation. Part 1 Images 1–3 are now reconciled (3/58). Continue at Part 1 Image 4,
+`004-727f978695.png`, beginning `அரசியல் மூலம் நடத்தப்பட்டுவிடுமோ?`.
+The checkpoint is `translated_contents/_translation_state/working/latchiya_varalaru_recovery.md`.
+Do not translate from unreconciled OCR.
 Keep recovery and translation checkpoints in small batches and push them.
 
 The current OCR-only total is **883/962 complete and verified, 79 pending**:
