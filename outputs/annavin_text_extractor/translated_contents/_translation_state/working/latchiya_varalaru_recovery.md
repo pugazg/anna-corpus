@@ -2,9 +2,9 @@
 
 - Canonical source: `ocr_text_corrected/katturaigal/latchiya_varalaru.md`
 - Extent: six parts, 58 scans.
-- Reconciled: Parts 1–2 complete; Part 3 Images 1–8 complete, 29/58 scans.
-- Next: Part 3 Image 9, `009-2e72870961.png`.
-- Last checked boundary: Part 3 Image 8 ends `கொடுக்கும் அளவுக்குத்தான் உபயோகித்தனர். எனவே,`.
+- Reconciled: Parts 1–3 complete, 31/58 scans.
+- Next: Part 4 Image 1, `001-8491d3249c.png`, beginning `உறுதி தமிழருக்குப் பிறந்தது.`.
+- Last checked boundary: Part 3 Image 10 ends `நின்று சிந்தித்த போதுதான், இந்நிலை மாறவேண்டும் என்ற`.
 - Printed title/date and all opening figures checked. Preserve the unusual printed
   `தெளிவுபடுத்தி ஆய்விட்டது` without grammatical normalization.
 - Corrections are logged separately in `ocr_concerns.csv`.
