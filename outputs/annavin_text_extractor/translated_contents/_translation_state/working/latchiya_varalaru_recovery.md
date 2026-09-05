@@ -2,9 +2,9 @@
 
 - Canonical source: `ocr_text_corrected/katturaigal/latchiya_varalaru.md`
 - Extent: six parts, 58 scans.
-- Reconciled: Parts 1–2 complete; Part 3 Images 1–4 complete, 25/58 scans.
-- Next: Part 3 Image 5, `005-a952e0a957.png`, beginning `ஆதித்திராவிடர் நுழையக் கூடாது என்ற பலகை முன்பு!`.
-- Last checked boundary: Part 3 Image 4 ends `என்று பேசப்படும் காலம் தோன்றிவிட்டது! ஆலயம்! இங்கே`.
+- Reconciled: Parts 1–2 complete; Part 3 Images 1–6 complete, 27/58 scans.
+- Next: Part 3 Image 7, `007-981f29770d.png`, beginning `இலட்சியம் வளர்ந்த வரலாறு`.
+- Last checked boundary: Part 3 Image 6 ends `திராவிடர் கரத்திலே தந்தது`.
 - Printed title/date and all opening figures checked. Preserve the unusual printed
   `தெளிவுபடுத்தி ஆய்விட்டது` without grammatical normalization.
 - Corrections are logged separately in `ocr_concerns.csv`.
