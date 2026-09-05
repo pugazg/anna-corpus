@@ -1,8 +1,8 @@
 # Kamban’s Nectar
 Tamil title: கம்பரசம்
 <!--
-Translation checkpoint: Part 11, Image 6 complete.
-Next source boundary: Part 11, Image 7 (007-7c4229c106.png), beginning “மாண்புடைத் தோழர்காள்!”. The English sentence continues from “Comrades of distinction who campaign for prohibition—”.
+Translation checkpoint: Part 11, Image 8 complete.
+Next source boundary: Part 11, Image 9 (009-f4574cd2aa.png), beginning “ஆக்கிய அமுது என: தேவர்கள் உண்டாக்கிய அமிர்தம்”. Continue the verse gloss.
 Canonical bilingual output has not been built; pending counts must remain unchanged.
 -->
 
@@ -1576,3 +1576,49 @@ Women whose hair is adorned with flowers and gives off a sweet fragrance.
 This alone is enough to disgust us! Women, members of the royal household, drinking toddy at a stopping place on the way to see Raghava’s wedding? In writing a book to explain the qualities of God, must one write about these toddy-drinking women? In Ayodhya, the dwelling place of every good virtue, in the days when the ‘Lord’ had taken incarnation, was this the condition of the women? Drinking toddy and lying about along the way?
 
 Devotees! Poets who seek culture! Honourable people who ask for the savour of art! Comrades of distinction who campaign for prohibition—
+
+<!-- Part 11, Image 7: 007-7c4229c106.png -->
+
+hear this! The women living in Ayodhya were supposedly like this in the Lord’s time! Kambar is the one who says so! Is it right? Is it something to be proud of? Evidence of ancient greatness? Is this the character of a sacred book? Think it over patiently.
+
+The women drank. Toddy, indeed—not honey! Kambar does not stop there. He also gives the reason why they drank. He takes the connoisseurs to the summit of obscenity.
+
+Those women, it seems, did not drink toddy without a reason. They sought that relish in order to experience another relish! Those ladies did not regard toddy as an end in itself; they made it an aid to something else. That toddy poured into golden cups was their admission ticket to the land of sensual pleasure. Have you heard his explanation of the reason?
+
+He does not say that the beauties, rejoicing to hear that the Lord was to be married, drank toddy believing it to be milk. They supposedly drank toddy in order to enjoy the battle of sexual union!! What “knowing women”!! How much experience and practice they must have had to employ this method even “on the journey.”
+
+Kambar says that those finely adorned women, wishing to take pleasure in the battle of union fought on beds strewn thickly with flowers, poured toddy into golden cups and drank. Is this really a sacred story, or an epic intended as propaganda against prohibition? Intelligent people would class even women who merely drink and caper among the vulgar. Where would they place women who drink with the thought that drinking will make them more skilful in erotic play? Where would they expect to find them? Kambar has attributed this “quality” to the women of Ayodhya.
+
+“Alamu! Have a ‘dram.’”
+
+“No... sister... enough.”
+
+“Tch! Silly girl! Have it, dear... It’s a terrible strain on the body... You’ll be worn out... Here, drink... Come on... Looks as though someone’s coming over there.”
+
+<!-- Part 11, Image 8: 008-3d2abe710c.png -->
+
+Where could one hear talk like this? Such grating talk—that drink is necessary for erotic play, that it is good and increases one’s skill—could be heard among disreputable people, in the establishments of fallen women, in a town without a law prohibiting prostitution.
+
+Kambar not only makes women who drank toddy in order to find delight in erotic play live in Ayodhya, where Kakutstha was born; he pours out canto after canto about the splendour of their journey to the ‘Lord’s’ wedding.
+
+“Hey! Do not go too far! Kambar never sang anything like this,” others—particularly devotees, rather than connoisseurs of art—will say angrily. I must indeed incur the anger of the connoisseurs too. But their anger has another cause. They will think, “How beautifully Kambar blends the flavours of a flower-strewn bed, a woman, liquor, the battle of union and delight, and serves them as a ‘cocktail’! This madman apparently knows nothing of the experience; that is why he gets angry.” Both sides, devotees and connoisseurs, will find fault. But am I the guilty one? I give you the sixth verse of the Feasting Canto. Look.
+
+> “Women whose tresses breathed the scent of flowers,
+> intent on delight in the battle fought
+> on beds piled high with blossoms,
+> began to drink fresh toddy poured
+> into fair golden cups, as though it were nectar prepared.”
+
+“Women whose tresses breathed the scent of flowers”: women whose hair gives off the fragrance of flowers.
+
+“Piled high with blossoms”: strewn thickly with flowers.
+
+“On beds”: upon the beds.
+
+“Fought”: taking place.
+
+“Battle”: in the battle of sexual union.
+
+“Delight”: wishing to take pleasure.
+
+“Intent on”: having that thought.
