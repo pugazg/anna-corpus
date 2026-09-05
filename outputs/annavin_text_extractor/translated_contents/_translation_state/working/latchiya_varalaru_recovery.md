@@ -2,9 +2,9 @@
 
 - Canonical source: `ocr_text_corrected/katturaigal/latchiya_varalaru.md`
 - Extent: six parts, 58 scans.
-- Reconciled: Parts 1–3 and Part 4 Images 1–8 complete, 39/58 scans.
-- Next: Part 4 Image 9, `009-5ec155b018.png`.
-- Last checked boundary: Part 4 Image 8 ends `என்பதை எடுத்துரைக்கும் புத்தகங்களும், பத்திரிகைகளும், பெரிய`.
+- Reconciled: Parts 1–4 complete, 41/58 scans.
+- Next: Part 5 Image 1, `001-45cc60d8b7.png`.
+- Last checked boundary: Part 4 Image 10 ends `கூறினாள் சேல்விழியாள்! - நானோ சாவுக்கு அஞ்சி, கொடுங்`.
 - Printed title/date and all opening figures checked. Preserve the unusual printed
   `தெளிவுபடுத்தி ஆய்விட்டது` without grammatical normalization.
 - Corrections are logged separately in `ocr_concerns.csv`.

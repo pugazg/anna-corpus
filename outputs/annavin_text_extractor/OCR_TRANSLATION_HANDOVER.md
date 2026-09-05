@@ -56,8 +56,8 @@ Begin full source recovery for `katturaigal/latchiya_varalaru.md`, the first wor
 in the current OCR pending list. It has 58 scans across six parts. The earlier
 screening restored only bounded title/date and opening readings and removed
 scan-absent insertions. Every scan still requires reconciliation before
-translation. Parts 1–3 and Part 4 Images 1–8 are fully reconciled (39/58).
-Continue at Part 4 Image 9, `009-5ec155b018.png`.
+translation. Parts 1–4 are fully reconciled (41/58).
+Continue at Part 5 Image 1, `001-45cc60d8b7.png`.
 The checkpoint is `translated_contents/_translation_state/working/latchiya_varalaru_recovery.md`.
 Do not translate from unreconciled OCR.
 Keep recovery and translation checkpoints in small batches and push them.
