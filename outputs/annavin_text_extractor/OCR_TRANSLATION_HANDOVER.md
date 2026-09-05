@@ -1,6 +1,6 @@
 # OCR-Origin Translation Handover
 
-Updated: 2026-09-01
+Updated: 2026-09-05
 
 ## Objective
 
@@ -8,17 +8,17 @@ Complete all 962 canonical OCR-origin works as bilingual Markdown documents:
 
 | Category | OCR target | Translated | Pending |
 |---|---:|---:|---:|
-| katturaigal | 552 | 543 | 9 |
+| katturaigal | 552 | 544 | 8 |
 | nadagangal | 61 | 35 | 26 |
 | sirukathaigal | 108 | 108 | 0 |
 | sorpozhivugal | 241 | 196 | 45 |
-| **Total** | **962** | **882** | **80** |
+| **Total** | **962** | **883** | **79** |
 
 The authoritative live pending list is:
 
 `translated_contents/_translation_state/ocr_pending_links.md`
 
-Its current split is 80 works needing OCR/source recovery and no works whose
+Its current split is 79 works needing OCR/source recovery and no works whose
 OCR source is currently safe enough for bilingual translation. Always
 regenerate the report after completing one work; do not rely on the numbers in
 this handover after work resumes.
@@ -34,40 +34,38 @@ this handover after work resumes.
 
 ## Most Recently Completed Work
 
-`katturaigal/ilamayil_muthumai.md` (`இளமையில் முதுமை!` / `Old Age in Youth!`) is complete.
+`katturaigal/kambarasam.md` (`கம்பரசம்` / `Kamban’s Nectar`) is complete.
 
-- The complete 25 January 1948 issue of `திராவிட நாடு`, vol. 6 no. 33, was
-  recovered from the Tamil Digital Library and used as the independent print witness.
-- Printed pages 8-12 prove that archive Image 4 joins directly to Image 7. Images
-  5-6 are an incomplete, unrelated Jayaprakash Narayan article and were excluded.
-- All thirteen relevant archive scans were visually reconciled before translation.
-- The corrected Tamil source is preserved verbatim in the canonical bilingual file.
-- The six-line parody, both Purananuru passages, the names and the printed English
-  phrase `(Over Centralisation)` were restored directly from the scans.
-- Difficult or uncertain readings including `கல்லா இளமை`, `மீரா`, `பல தேவர்`,
-  the political `அஜீரணம்` metaphor and `துரைத்தனம்` are recorded separately.
-- The bilingual source-retention audit passes with zero issues; all 15 tests pass.
-- Commit `570376a` contains the final English-draft checkpoint; the canonical
-  completion commit follows this handover update.
-- The live pending report has been refreshed to 80 works.
+- All thirteen parts have complete English translations, approximately 39,363 words.
+- All 127 archive slots were reconciled: 126 distinct scans plus one exact duplicate.
+  The missing Part 4 passage was recovered from the visually checked Wikisource
+  witness and cross-checked against Project Madurai; duplicate text is not repeated.
+- The corrected Tamil body is retained verbatim, including all thirteen part
+  headings and 126 retained image sections. Retained-body SHA-256:
+  `e1fb347b5801b410b6ef53a1f0575d1ebb639fcbe101eede6776a483ae6c14c9`.
+- Translator notes explain lexical uncertainties, variant names, the differing
+  ornament descriptions, unusual printed dialogue and the Pampa transition.
+- The recovery hold is resolved. State was refreshed; Kambarasam is absent from
+  both the OCR pending list and recovery holds. Audit: zero issues. All 15 tests pass.
+- Final full-English draft checkpoint: `934a15e`; the canonical completion commit
+  contains this handover update, the bilingual document and refreshed state.
 
 ## Next Work
 
-Latest translation checkpoint (2026-09-05): Parts 1–11 are fully translated in
-`translated_contents/_translation_state/working/kambarasam_translation.md`.
-Continue at Part 12 Image 1, `001-cab3a2ae9d.png`, beginning
-`பாடலின் பொருளைப் பாருங்கள்.`: the gloss of the verse closing Part 11.
-The prose and verse describe the ornaments differently; both readings are
-preserved and the discrepancy is recorded in `difficult_terms.csv`. The
-colloquial `திரான்` and initials `சூனா மானா` also have separate uncertainty
-notes. No Tamil source was changed during this translation batch. No canonical
-output has been built and no translation state or pending counts were refreshed.
-The preceding pushed checkpoint is `0a051a7` (Part 11 Image 8); the next
-checkpoint commit contains Images 9–10 and this handover update. Diff whitespace
-checks pass. The full test suite is due at canonical completion and was not
-rerun for these working-draft-only checkpoints. The working header remains the
-authoritative resumption boundary. The source-recovery chronology below is
-historical: all 127 slots have already been reconciled.
+Begin full source recovery for `katturaigal/latchiya_varalaru.md`, the first work
+in the current OCR pending list. It has 58 scans across six parts. The earlier
+screening restored only bounded title/date and opening readings and removed
+scan-absent insertions. Every scan still requires reconciliation before
+translation. Start at Part 1 Image 1. Do not translate from unreconciled OCR.
+Keep recovery and translation checkpoints in small batches and push them.
+
+The current OCR-only total is **883/962 complete and verified, 79 pending**:
+8 katturaigal, 26 nadagangal, 0 sirukathaigal and 45 sorpozhivugal.
+
+## Historical Kambarasam Recovery Chronology
+
+The following records describe the earlier source-recovery process. All of
+Kambarasam is now complete; these are historical observations, not the next task.
 
 Continue source recovery for `katturaigal/kambarasam.md`, the first work in the
 refreshed live pending list. It spans 127 scans across thirteen parts. Earlier

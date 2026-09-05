@@ -523,7 +523,7 @@ Total source works: 1388
 - [katturaigal/kambar_maanadu](kambar_maanadu.md) - translated
 - [katturaigal/kambar_vizha](kambar_vizha.md) - translated
 - [கம்பராமாயணம் என்றால்...](kambaramayanam_endral.md) - pending
-- [katturaigal/kambarasam](kambarasam.md) - pending
+- [katturaigal/kambarasam](kambarasam.md) - translated
 - [கணக்குப் பார்க்கிறோம்!](kanakku_paarkirom.md) - pending
 - [கனவில் கண்ட கன்னிகை!](kanavil_kanda_kannigai.md) - pending
 - [கனவில் கவிதா மண்டலம்!](kanavil_kavitha_mandalam.md) - pending

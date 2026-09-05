@@ -2,8 +2,8 @@
 Tamil title: கம்பரசம்
 <!--
 Translation checkpoint: Part 13, Image 6 complete; Parts 1–13 complete.
-Next action: review full English draft and translator notes, build the complete canonical bilingual document with corrected Tamil copied verbatim, then run source-retention audit and mandatory completion cycle. No scans remain untranslated.
-Canonical bilingual output has not been built; pending counts must remain unchanged.
+Canonical bilingual document built and verified on 2026-09-05. Source-retention audit: zero issues; all 15 tests pass. Kambarasam is removed from OCR pending and recovery lists. Continue with katturaigal/latchiya_varalaru.md.
+OCR-origin state after completion: 883/962 complete and verified; 79 pending.
 -->
 
 ## Part 1
@@ -1977,3 +1977,27 @@ Sita and Rama become wife and husband, go to Ayodhya and live happily. At that t
 The father, Khara, fights the man who killed his son. Ravana comes to help him. Then he sees Sita and is seized by desire. Following the forest deity’s advice, he blows a conch, causes Rama to leave Sita, takes Sita captive and carries her to Lanka. Afterwards the war between Rama and Ravana takes place. By then Prabhamandala has learned that Sita is his sister and stands by Rama. The kings called Sugriva and Hanuman also stand by him. Ravana is killed and Sita rescued from captivity. Rama then returns to Ayodhya and crowns himself: in this fashion the *Pampa Ramayana* ends. Pampa initially portrays Vibhishana as a hero. He brings Narada into the midst of the troubles that occur. If we consider the course of the *Pampa Ramayana*, we can see that its account of Rama and Ravana differs in many ways from the *Kamba Ramayana* recited devotionally today. There are still other *Ramayanas* in different forms. It is just such a story, invented in many ways by many people, that they call a book leading to salvation, a work fit for worship in the heart of the home, and our sacred history. After reading and reflecting on this summary of the *Pampa Ramayana*, tell us whether the world of inquiry can refrain from laughing in scorn at those who both know and do not know.
 
 * * *
+
+---NOTES---
+
+The title *Kamban’s Nectar* renders the work’s sustained play on *rasam*: flavour, relish, literary sentiment, and something drunk in doses. Kamban and the honorific form Kambar name the same poet. The English preserves the author’s polemical voice and translates the verses as he quotes and explains them; it does not replace them with another edition’s wording or silently reconcile differing retellings.
+
+The anatomical word *alkul* is retained where its meaning is central to the argument. When the author expressly defines it as the female genitals, that definition is translated explicitly; his euphemisms for the “upper” and “hidden” regions are also preserved. This records his reading rather than presenting the disputed word as having only one possible sense in every literary context.
+
+The thirteen archive parts form one continuous work, including the numbered “doses,” *Kamban’s Nectar – 2*, *Kambar’s “Festival”*, and *The Pampa Ramayana*. Scan and part headings in the Tamil block remain those of the corrected source. The archive has 127 image slots, comprising 126 distinct scans and an exact duplicate at Part 4 Images 4–5. The missing passage before that duplicated page was restored during source recovery from visually checked Wikisource PDF pages 54–56 and cross-checked against Project Madurai. The duplicate text is not repeated. Page-specific recovery evidence is recorded in `ocr_concerns.csv`.
+
+The English passages quoted from Tennyson retain the wording and lineation of this source, including its abbreviated quotations. The closing Pampa narrative is translated as the author presents it; names, events, and kinships have not been revised to agree with a different Ramayana. The fare `6-3-0` in the train episode is retained in its printed notation.
+
+Specific lexical and textual points:
+
+- **திரான்** (Part 11 Image 7; colloquial invitation to Alamu to take a measure of liquor): rendered **dram**. The printed form is retained in the corrected Tamil. Dram is a contextual interpretation of the drinking measure, not a correction of the source spelling; no precise quantity is asserted.
+- **ஓசத்தி** (Part 11 Image 5; colloquial praise of the quality of liquor): rendered **best**. Rendered as best stuff to retain the conversational praise of superior-quality liquor; period Tamil spelling remains unchanged.
+- **சூனா மானா** (Part 11 Image 10; denial that the quoted verse was composed by the polemicist): rendered **Su. Ma.**. Tamil letter names are rendered as initials without asserting an expansion not provided in this passage.
+- **பொன்னரி மாலை** (Part 11 Image 10 closing verse and Part 12 Image 1 gloss): rendered **golden ari garland**. The verse places a flower garland at the alkul and the golden ari ornament in the hair; the preceding prose instead describes a girdle placed on the head and a foot ornament in the hair. Preserve this difference without harmonising the source. Ari is retained because the following gloss names rather than precisely identifies the ornament.
+- **பெறுமை** (Part 12 Image 5; Sadasivam contrasts the desired conduct with anger): rendered **patience**. The source spelling is unchanged. Patience follows the explicit contrast with losing one’s temper; the English does not imply that the Tamil has been silently corrected.
+- **கண்ணாடி** (Part 12 Image 5; distressed address while searching for the ticket): rendered **Kanna**. The surrounding train dialogue identifies the friend as Kannan. The unusual printed form is retained in Tamil; the English uses the established addressee rather than introducing a new character.
+- **பர்வதத்தின் பாவை** (Part 12 Image 5; young woman addresses Parvatham as grandmother): rendered **Parvatham’s young companion**. The translation does not assert a biological relationship that the phrase itself does not establish.
+- **கற்கண்டு / கற்குண்டுகளை** (Part 12 Image 8; contrast between devotional sweetness and attacks on researchers): rendered **sugar candy / stones**. The English preserves the contrast in meaning; the similar Tamil sounds cannot both be reproduced naturally.
+- **அந்த நோக்கத்திற்கேற்ற விதத்தில்** (Part 12 Image 9; transition from Valmiki’s stated purpose to Ravishena’s absence of racial-domination intent): rendered **In a manner suited to that purpose**. The connective appears in tension with the following contrast. It is translated explicitly without replacing it with an unprinted contrary connective or altering the Tamil.
+- **சந்திரவாகி / சந்திரவதி** (Part 12 Image 7 and Part 13 Image 6; Ravana’s sister): rendered **Chandravaki / Chandravati**. Both printed forms are preserved in their respective English passages and in the Tamil source rather than silently standardised.
+- **பருவத்தின் பாற்பட்டது** (Part 13 Image 5; unlabelled marriage dialogue moves from comment on youthful passion to the king’s ultimatum): rendered **That comes of youth**. The printed quotation contains a possible change of speaker without an explicit label. The English retains the quoted unit and does not invent speaker attributions.
