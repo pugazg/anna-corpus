@@ -60,8 +60,8 @@ Begin full source recovery for `katturaigal/latchiya_varalaru.md`, the first wor
 in the current OCR pending list. It has 58 scans across six parts. The earlier
 screening restored only bounded title/date and opening readings and removed
 scan-absent insertions. Every scan still requires reconciliation before
-translation. Parts 1–5 and Part 6 Images 1–2 are fully reconciled (53/58).
-Continue at Part 6 Image 3, `003-cc6596e983.png`.
+translation. Parts 1–5 and Part 6 Images 1–4 are fully reconciled (55/58).
+Continue at Part 6 Image 5, `005-9b05d38fd0.png`.
 The checkpoint is `translated_contents/_translation_state/working/latchiya_varalaru_recovery.md`.
 Do not translate from unreconciled OCR.
 Keep recovery and translation checkpoints in small batches and push them.
@@ -389,4 +389,4 @@ recovery, interruption, and completion rule in the handover.
 
 ## பழைய கம்பெனி! recovery completed
 
-The user-supplied 18 March 1945 newspaper evidence was reconciled with RMRL viewer page 9 (printed page A). The complete canonical bilingual document is built and audited; the incorrect-source hold is released. The evidence folder contains the full newspaper witness, screenshots, historical draft/review, English draft, original mixed corrected OCR and separated Roosevelt fragment. Read its README for current status. Resume இலட்சிய வரலாறு at Part 6 Image 3, with 53/58 scans already reconciled.
+The user-supplied 18 March 1945 newspaper evidence was reconciled with RMRL viewer page 9 (printed page A). The complete canonical bilingual document is built and audited; the incorrect-source hold is released. The evidence folder contains the full newspaper witness, screenshots, historical draft/review, English draft, original mixed corrected OCR and separated Roosevelt fragment. Read its README for current status. Resume இலட்சிய வரலாறு at Part 6 Image 5, with 55/58 scans already reconciled.
