@@ -2,9 +2,9 @@
 
 - Canonical source: `ocr_text_corrected/katturaigal/latchiya_varalaru.md`
 - Extent: six parts, 58 scans.
-- Reconciled: Parts 1–5 complete, 51/58 scans.
-- Next: Part 6 Image 1, `001-2fe6671b39.png`.
-- Last checked boundary: Part 5 Image 10 ends `சித்திரம், தூத்துக்குடி மாநாடு!`.
+- Reconciled: Parts 1–5 and Part 6 Images 1–2 complete, 53/58 scans.
+- Next: Part 6 Image 3, `003-cc6596e983.png`.
+- Last checked boundary: Part 6 Image 2 ends `என்பதை நாட்டிலே நாலு ஜாதி வகுத்தவர்களும், நாடாள்`.
 - Printed title/date and all opening figures checked. Preserve the unusual printed
   `தெளிவுபடுத்தி ஆய்விட்டது` without grammatical normalization.
 - Corrections are logged separately in `ocr_concerns.csv`.

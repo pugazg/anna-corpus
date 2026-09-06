@@ -56,8 +56,8 @@ Begin full source recovery for `katturaigal/latchiya_varalaru.md`, the first wor
 in the current OCR pending list. It has 58 scans across six parts. The earlier
 screening restored only bounded title/date and opening readings and removed
 scan-absent insertions. Every scan still requires reconciliation before
-translation. Parts 1–5 are fully reconciled (51/58).
-Continue at Part 6 Image 1, `001-2fe6671b39.png`.
+translation. Parts 1–5 and Part 6 Images 1–2 are fully reconciled (53/58).
+Continue at Part 6 Image 3, `003-cc6596e983.png`.
 The checkpoint is `translated_contents/_translation_state/working/latchiya_varalaru_recovery.md`.
 Do not translate from unreconciled OCR.
 Keep recovery and translation checkpoints in small batches and push them.
@@ -378,3 +378,7 @@ the audit. Continue to the next pending OCR-origin work without waiting for
 permission. Preserve both Tamil and English titles and follow every fidelity,
 recovery, interruption, and completion rule in the handover.
 ```
+
+## New source evidence: பழைய கம்பெனி!
+
+The user supplied the 18 March 1945 திராவிட நாடு page (A), with enlarged second-column continuation and ending. Evidence and recovery instructions: `translated_contents/_translation_state/working/pazhaya_company_evidence/README.md`. This addresses the missing title-article continuation in the fused canonical file. Reconcile both columns before rebuilding; preserve the unrelated Roosevelt material separately. No status refresh yet.
