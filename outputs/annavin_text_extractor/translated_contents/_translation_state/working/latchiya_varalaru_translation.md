@@ -114,3 +114,65 @@ Dravidam has lost its prosperity; it has poured even the little wealth that rema
 We ask everyone outside the Dravidar Kazhagam to view this question, which has economics at its foundation, with eyes full of love for the country, rather than through a merely partisan lens.
 
 Look at the Marwari who has wound coloured cloth around his head in coil upon coil and sits beside heaps of goods, examining his interest accounts and stroking his belly; and look at the Tamil who pulls a heavily laden cart in place of an ox! Look at the Seths riding in procession in motorcars whose polish has not faded; and look at the Tamil, in torn clothes, with a parched head and eyes that have lost their light, waiting for a ship ticket to go abroad as a labourer. Look at the lush green irrigated fields here and
+
+### Image 7: 007-b1e0b94677.png
+
+dry fields, and at the same time look at the Tamils emaciated by hunger, without even the strength to walk. Forget us and look at these sights. Forget even that we are proposing a programme; think for yourselves and propose one. Is it just that a country with an ancient greatness, a country rich in resources of many kinds, should today be joined to the North and suffer like this? Is it a crime to free it from that union, to stand independently with a government of its own, to increase the country's wealth and ensure that this wealth serves its own people? What programme can there be for this other than a Dravidian country for the Dravidians alone? If there is another, tell us!
+
+Standing on a ship's deck, unable to find the means of supporting himself in his prosperous motherland, the Tamil says in anguish: “Here I am, going to Malaya, a country I have never seen. I am going to work in the forests. I am leaving my mother. Poverty is driving me from my motherland. I am going abroad as a labourer.” The ideal written with the tears he sheds is this: a Dravidian country for the Dravidians alone.
+
+**A New History**
+
+**11 September 1938**
+
+We sang our battle song: “Tamil Nadu for the Tamils.”
+
+**27 December 1938**
+
+At the Tamils' Conference in Vellore, the future programme for Tamil Nadu was discussed.
+
+**10 December 1939**
+
+A celebration was held to explain the programme “Tamil Nadu for the Tamils” to the people of the country.
+
+**2 July 1940**
+
+A conference for the separation of Dravida Nadu was held in Kanchipuram, and a committee was appointed to pursue separation.
+
+### Image 8: 008-1f4c9db5fa.png
+
+**29 December 1938**
+
+At the provincial Justice Conference in Madras, the demand that Tamil Nadu become a separate country was emphasized.
+
+**20 August 1944**
+
+At the provincial conference in Salem, the demand that Dravida Nadu become a separate country was made the party's fundamental programme, and the party's very name was changed to Dravidar Kazhagam.
+
+**24–25 August 1940**
+
+At the provincial conference in Tiruvarur, the programme that Dravida Nadu become a separate country was adopted as a resolution.
+
+**29 September 1945**
+
+At the provincial conference in Tiruchirappalli, the demand that Dravida Nadu become a separate country was emphasized once again.
+
+**1 July 1947**
+
+Celebration of Dravida Nadu Separation Day.
+
+**We Said**
+
+The Muslims have become so resolute that their thinking amounts to this: obtain Pakistan, or enter the graveyard. They are not guns without bullets.
+
+*Viduthalai*, 16 December 1940
+
+**We Said**
+
+“The Pakistan scheme is dangerous; it is mischievous. Congress does not even regard it as a matter worthy of its consideration.”
+
+Jawahar, October 1940
+
+**What Happened?**
+
+Pakistan has been obtained.
