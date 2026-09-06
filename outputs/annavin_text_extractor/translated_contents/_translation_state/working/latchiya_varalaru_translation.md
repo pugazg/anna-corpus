@@ -48,3 +48,69 @@ They did not, like Harishchandra, give their country away to a sage.
 They did not write cosmic falsehoods about Atala, Sutala and Patala.
 
 They did not compose tales claiming that God assumed every imaginable form.
+
+### Image 5: 005-72b3b98a70.png
+
+They did not say that rolling at someone's feet in worship would win divine favour.
+
+They said: one community, one God.
+
+**The Dravidians**
+
+They did not surrender their spirit merely to stay alive.
+
+They did not live as mean-spirited people without resolve.
+
+They did not take deceit and intrigue as their weapons.
+
+They gave even their lives for a life of freedom.
+
+**Dravidam**
+
+It had not been enslaved under foreign rule.
+
+It had known neither famine, disease nor anguish.
+
+It had not stood by and tolerated the suffering of working people.
+
+It rose through labour and won its rightful place in the world.
+
+**Dravidam: Today**
+
+The Dravidian kings have disappeared; the people have forgotten their character.
+
+Valour has withered! Worthless men have gained dominion.
+
+Dravidian art and languages command no respect.
+
+Dravidian industry lies dormant. The Dravidian sobs.
+
+Dravidian wealth has become locked up in temples, flagstaffs, drumming and fanfare, useless activities, and foreign lands.
+
+The Dravidian suffers as a labourer on tea, sugarcane and rubber plantations.
+
+In every nook and corner of the Dravidian country there are Marwari shops, Gujarati warehouses, Multani establishments and Seths' companies.
+
+All the great businesses are in the hands of northerners.
+
+In the factories, there are no longer British masters—there are Banias!
+
+### Image 6: 006-51593aaf54.png
+
+Dalmia has a whole town near Tiruchirappalli.
+
+In the Tiruppur–Coimbatore region, all the mill kings are reduced to singing the praises of the Asher Seths.
+
+In Madras there is Sowcarpet; there is the Bharat Bank.
+
+The bell that rings every day belongs to a northerner, Goenka.
+
+Today the great buildings in Madras belong to northerners!
+
+In a Dravidam reduced to this condition, everything from clothing to nails comes from the North. To say that it comes from there is to say that enormous sums of money go from here to the North.
+
+Dravidam has lost its prosperity; it has poured even the little wealth that remains into the North and is wasting away with the disease of poverty. For it to raise its head, for its people to enjoy a full life, for those who went abroad as labourers to return, and for the standard of living to rise, there is no programme other than ours: a Dravidian country for the Dravidians!
+
+We ask everyone outside the Dravidar Kazhagam to view this question, which has economics at its foundation, with eyes full of love for the country, rather than through a merely partisan lens.
+
+Look at the Marwari who has wound coloured cloth around his head in coil upon coil and sits beside heaps of goods, examining his interest accounts and stroking his belly; and look at the Tamil who pulls a heavily laden cart in place of an ox! Look at the Seths riding in procession in motorcars whose polish has not faded; and look at the Tamil, in torn clothes, with a parched head and eyes that have lost their light, waiting for a ship ticket to go abroad as a labourer. Look at the lush green irrigated fields here and
