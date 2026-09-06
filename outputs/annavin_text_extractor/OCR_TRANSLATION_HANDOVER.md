@@ -61,7 +61,7 @@ in the current OCR pending list. It has 58 scans across six parts. The earlier
 screening restored only bounded title/date and opening readings and removed
 scan-absent insertions. Every scan still requires reconciliation before
 translation. All six parts are fully reconciled (58/58).
-The English working draft is complete through Part 3 Image 7; Parts 1–2 are complete. Continue at Part 3 Image 8, `008-ca3493632a.png`; see `translated_contents/_translation_state/working/latchiya_varalaru_translation_checkpoint.md`.
+The English working draft is complete through Part 3 Image 9; Parts 1–2 are complete. Continue at Part 3 Image 10, `010-8e7b643f78.png`; see `translated_contents/_translation_state/working/latchiya_varalaru_translation_checkpoint.md`.
 The checkpoint is `translated_contents/_translation_state/working/latchiya_varalaru_recovery.md`.
 Do not translate from unreconciled OCR.
 Keep recovery and translation checkpoints in small batches and push them.

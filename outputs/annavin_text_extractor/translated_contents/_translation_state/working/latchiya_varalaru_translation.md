@@ -360,3 +360,27 @@ Dravida Nadu Separation Day is being organized to declare our determination neve
 **The Champion Who Gave His Life Proclaiming Our Rights**
 
 Thirty years ago, the assertion of our rights as Dravidians arose here. But that cry was corrupted by its association with the inhabitants of mansions. Until his last breath, Dr C. Natesa Mudaliar proclaimed before the people: “This country is Dravida Nadu—we who live here are Dravidians.” Instead of using the momentum created by the remarkable movement he began for genuine liberation, the gentlemen who conducted politics seated in palaces used that momentum to obtain titles and offices. They also intended that all their abilities should be used to find fault with Congress and, at the same time, to sing the praises of the British,
+
+### Image 8: 008-ca3493632a.png
+
+and that was their intention. Thus, the assertion of rights in the word ‘Dravidian,’ instead of becoming a battle song for establishing a Dravidian government, became a self-interested noise knocking at the doors of government offices. Dr Natesa Mudaliar died broken-hearted; throughout his life he never failed to proclaim himself a Dravidian.
+
+**Leaders Who Showed No Enthusiasm for Removing Aryanism**
+
+In those days, the English names S. I. L. F. and Justice circulated in the mansions, but before the people the name used was Dravidian. The Tamil newspaper itself was named *Dravidan*. Dravidian art, Dravidian religion, Dravidian medicine, Dravidian musicians—in those days, many people in many fields sought to work for a Dravidian renaissance. But the leaders failed to take an interest in that foundational work. They spent all their energies chasing the illusory deer called political power. Thus, when they met prominent people in each town, they spoke about elections and emphasized that the Iyers dominated government employment and that this domination must be ended. They did not work to remove the Aryanism embedded in society or to instil Dravidian consciousness.
+
+**The Leaders of ‘Those Days’ Became a Puzzle to the People**
+
+The leaders of those days said openly that Brahmin domination in society was no danger; it was only the Brahmins who possessed political power who posed a danger to them. Apart from one or two such as Dr Natesa Mudaliar, that was how the leaders spoke. Meanwhile, men such as J. N. Ramanathan, Kannappar and T. V. Subramanian, who worked among the people and campaigned, instilled a sense of being Dravidian and explained and condemned Brahmin domination not only in politics but also in society. The leaders, however, used the people only to the extent of securing their votes against the Brahmins. Consequently,
+
+### Image 9: 009-2e72870961.png
+
+at first the people did not understand those leaders' conduct. Once they understood it, they disliked it; disliking it, they withdrew.
+
+**The Mansion-Dwellers Hunt the Illusory Deer**
+
+The first effort to awaken Dravidian collective consciousness was defeated not because the people failed to become interested, but because our leaders attended only to politics and thought it wrong to intervene in society. Some twenty years were spent hunting the illusory deer—arranging ministerial offices, in other words pursuing self-interest and, as a consequence, plotting conspiracies. In that period, the mansions became halls of conspiracy! Promoters of personalities became political puppet-masters! Office-seekers mounted the stage! The European too had cause to celebrate. The people, clearly realizing that this business was not being conducted for them, began to condemn the party itself. Intrigue in the mansions grew beyond control; one leader made it his occupation to bring down another, and, striking at one another, they fell together in a heap. In that shock, the Dravidian consciousness that had first arisen with enthusiasm grew dim; it did not die. That consciousness has never died—it has often dimmed—for it is the voice of the heart, not the din of political grasshoppers.
+
+**Dravidam Suffering in Aryanism's Embrace**
+
+For a long time, Dravidam has repeatedly tried to free itself from Aryanism's embrace. Though it has sometimes been inactive, it has never surrendered completely. The movements that have arisen from time to time under such headings as Pure Tamil, Vellala civilization, true Saivism and ancient civilization are all small versions of that fundamental endeavour. Each is necessary and each has its benefits. Yet, because only a few among the people could understand them, these movements could not strengthen the fundamental endeavour. Each became a separate movement. They even came to appear contradictory. Feelings of hostility too

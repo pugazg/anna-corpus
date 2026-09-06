@@ -71,3 +71,8 @@ These notes are separate from the English draft and corrected Tamil. Incorporate
 - Part 3 Image 7: musical `சுருதி` is “underlying pitch,” conveying the organizing reference to which the other programmes are aligned. `சில்லரைகள்` is “small change,” preserving the dismissive image of concessions short of the ideal.
 - The heading about Natesa Mudaliar is translated as printed; the prose says he proclaimed the cause until his last breath and the next scan says he died broken-hearted. Do not add an unsupported account of a violent death from the heading alone. His name is retained as Dr C. Natesa Mudaliar.
 - Image 7 ends inside the sentence about the palace politicians' intended use of their abilities; the following scan completes that intention before assessing its consequences.
+
+- Part 3 Images 8–9: `மாயமான்` remains the “illusory deer,” preserving the repeated pursuit metaphor rather than reducing it to “ambition.” `ஆள் தூக்கிகள்` becomes “promoters of personalities” and `சூத்திரதாரிகள்` “puppet-masters,” retaining the political manipulation described.
+- S. I. L. F. remains the printed English initials; *Dravidan* is the Tamil newspaper title. Personal names retain the source's initials and forms. “Iyers” retains the narrower label used in the government-employment sentence, while “Brahmins” translates the broader label elsewhere.
+- `தனித்தமிழ்`, `வேளாள நாகரிகம்` and `உண்மைச் சைவம்` are “Pure Tamil,” “Vellala civilization” and “true Saivism.” These are the author's labels for movements, not independent judgments of cultural authenticity. `அரசியல் வெட்டுக்கிளிகள்` remains “political grasshoppers.”
+- The people’s reaction crosses Images 8–9. The final sentence about hostility between movements continues from Image 9 onto Image 10.
