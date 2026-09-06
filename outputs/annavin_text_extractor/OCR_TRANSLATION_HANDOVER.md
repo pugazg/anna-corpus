@@ -382,3 +382,5 @@ recovery, interruption, and completion rule in the handover.
 ## New source evidence: பழைய கம்பெனி!
 
 The user supplied the 18 March 1945 திராவிட நாடு page (A), with enlarged second-column continuation and ending. Evidence and recovery instructions: `translated_contents/_translation_state/working/pazhaya_company_evidence/README.md`. This addresses the missing title-article continuation in the fused canonical file. Reconcile both columns before rebuilding; preserve the unrelated Roosevelt material separately. No status refresh yet.
+
+Pazhaya Company recovery now has a full provisional newspaper transcription and a separately preserved verbatim Roosevelt fragment. Continue with the first-column precision checks in `translated_contents/_translation_state/working/pazhaya_company_evidence/recovery_review.md`; do not use the draft as canonical until these are settled.
