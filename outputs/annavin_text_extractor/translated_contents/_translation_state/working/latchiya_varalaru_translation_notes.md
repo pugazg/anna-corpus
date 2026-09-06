@@ -35,3 +35,8 @@ These notes are separate from the English draft and corrected Tamil. Incorporate
 - `இனம்` in this argument is rendered “people/peoples,” and `இன இயல்புகள்` as “collective characteristics.” The author defines these through religion, language, art, outlook, shared belonging and history; the translation does not add a biological definition. “According to its peoples” renders `இனவாரியாக` consistently in these reasons.
 - `சுதேச இந்தியா` is rendered “princely India” in the list of jurisdictions, following the immediately subsequent discussion of princely states. `இரவல் பொருள்` is “borrowed resources”; no specific debt arrangement is inferred.
 - Reason 2 crosses Images 2–3. Reason 7 ends on Image 3; continue the original numbering at 8 on Image 4.
+
+- Part 2 Images 4–5: reasons 8–15 complete the numbered argument. Statements about Turkey, the ancient/medieval extent of India, British coercion and Pakistan are retained as the author's claims, without silently updating or harmonizing them.
+- `பூதேவர்கள்` is “gods on earth,” retaining the polemical description of Brahmin social status. `வர்க்கத்துக்கொரு` in reason 13 is “for each group,” following the surrounding argument about peoples rather than imposing a separate modern class-theory meaning.
+- `வலுத்தவனுக்கு வாழ்க்கைப்படும் வனிதை` is translated with its gendered marital metaphor intact. It is the author's simile for subjection to the strongest, not an editorial description added by the translator.
+- Reason 15's throat-crushing sentence crosses Images 4–5. The corrected Tamil's unusual `அழித்து நெரித்துக்` is rendered “crushed ... and strangled”; the Tamil remains untouched. The final `இன அரசு` is “a state for their people,” consistent with this section's rendering of `இனம்`.

@@ -242,3 +242,31 @@ more convenient that the British treated India as a single country and made othe
 6. Dividing a country according to its peoples is neither new nor unheard of. Already there are many Indias: British India, princely India, French India and Dutch India. It is not wrong to ask, in the same way, for three separate regions—Muslim India, Aryan India and Dravidian India.
 
 7. There are 574 princely states alone. Each has its own government and its own system. Similarly, it is an undeniable right for three great regions, each with its own form of government, to seek the means of developing their respective collective characteristics.
+
+### Image 4: 004-219e0fede6.png
+
+8. Just as Turkey, freed from the bonds of the Ottoman Empire, became foremost among the great powers, each region will shine with its own distinction if India is divided according to its peoples.
+
+9. Separate regions would make it possible for each to develop military strength suited to its own characteristics.
+
+10. Even in the time of emperors such as Ashoka, Kanishka, Harsha, Samudragupta and Akbar, India was not a single country. Even then, there was a separate country called Dravida Nadu.
+
+11. If separate regions are formed, each can develop its economy according to the resources available there, and the cruelty of one region exploiting others can be ended.
+
+12. Only when each people has its own territory and government can it enjoy equal rights and equal standing with the others.
+
+13. It was by declaring India a single country that the Aryans made the land from the Himalayas to Cape Kumari their hunting ground. Thus arose a situation in which they could be officials in government, teachers in education, preceptors in religion, gods on earth in society, and people who enjoyed economic ease without labour, while the other peoples languished as servants and workers, worn beyond recognition by their toil. The best way to remove this cruelty is to set apart a region for each group!
+
+14. One people has no trust in another. The mere suggestion that one people should live under the government of another has come to arouse fear. Terrible revolution is the child born of fear and distrust. We say that separation must take place now precisely to prevent this terrible revolution.
+
+15. There is no evidence that India's remaining undivided has so far increased its military, economic or intellectual strength, or created a new society called the Indian people. The reason one people has not
+
+### Image 5: 005-90cc3c5c45.png
+
+crushed another's throat and strangled it to death is simply that British guns held all the peoples down at the same time. Therefore, once the British grip is gone, India will become a battlefield. The wars that frequently occur in Europe provide an example. Thus, to prevent such suffering, the way to avert danger is to divide the territory according to its peoples.
+
+If India is divided according to its peoples, there is consequently a way for each people's characteristics to stand independently and with their own distinction; for Aryan domination to be curbed; for economic exploitation to end; for the distress of intellectual repression to disappear; for future quarrels to be avoided; and for tranquillity and peace to prevail. That is why those whose good intention is that India should not become a battlefield of peoples say that India must be divided according to its peoples. Those who deny this must have forgotten history, or must think that the public does not know it. Only those with the evil intention that one people's character—that is, Aryan domination—should trample, batter and destroy the others, and those with the ruinous notion of making India like a woman married off to the strongest man while somehow securing a livelihood for themselves, will oppose this scheme of separation.
+
+We set out these and similar reasons, with evidence showing how Aryan domination grew, the cruelty by which it destroyed other characteristics, and the necessity of curbing Aryanism from now on. We explained why the arguments of those opposing this programme were untenable. We said that we must perform our duty without being deterred by our opponents' attempts to overthrow reasons with stories, suppress evidence with mere prattle, knock down history with bluster, and destroy determination by growling threats.
+
+The Muslims understood these truths, worked according to their leader's programme, and achieved victory. In the North, Pakistan, a state for their people, has come into being.
