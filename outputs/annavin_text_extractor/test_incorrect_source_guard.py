@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Regression tests for permanently excluded corrupt source sequences."""
+"""Regression tests for corrupt-source holds and evidence-backed recovery."""
 
 import csv
 import subprocess
@@ -12,14 +12,26 @@ STATE = BASE / "translated_contents" / "_translation_state"
 
 
 class IncorrectSourceGuardTest(unittest.TestCase):
-    def test_pazhaya_company_is_permanently_marked_incorrect(self):
+    def test_pazhaya_company_recovered_and_unrelated_fragment_preserved(self):
         with (STATE / "incorrect_sources.csv").open(encoding="utf-8-sig", newline="") as handle:
             rows = {row["file"]: row for row in csv.DictReader(handle)}
-        self.assertEqual(rows["katturaigal/pazhaya_company.md"]["status"], "incorrect_source")
+        self.assertNotIn("katturaigal/pazhaya_company.md", rows)
         self.assertEqual(rows["katturaigal/singam_sirunari_1.md"]["status"], "incorrect_source")
         self.assertEqual(rows["katturaigal/singam_sirunari_2.md"]["status"], "incorrect_source")
+        evidence = STATE / "working/pazhaya_company_evidence"
+        original = (evidence / "original_mixed_corrected_ocr.md").read_text()
+        fragment = (evidence / "roosevelt_unrelated_fragment.md").read_text()
+        self.assertEqual(fragment.split("\n\n", 2)[2], original[original.index("## Image 2:"):])
+        source = (BASE / "ocr_text_corrected/katturaigal/pazhaya_company.md").read_text()
+        self.assertIn("### Column 1", source)
+        self.assertIn("### Column 2", source)
+        self.assertIn("பைசல்செய்துகொள்வோம்.", source)
+        self.assertNotIn("## Image 2:", source)
+        self.assertNotIn("ரூஸ்வெல்ட்", source)
+        self.assertTrue((evidence / "rmrl-viewer-page-9.png").is_file())
 
-    def test_queue_never_marks_pazhaya_company_ready(self):
+
+    def test_queue_releases_recovered_article_and_preserves_other_holds(self):
         subprocess.run(
             ["python3", str(BASE / "prepare_translation_queue.py"), "--inspect-content"],
             check=True,
@@ -28,10 +40,11 @@ class IncorrectSourceGuardTest(unittest.TestCase):
         )
         with (STATE / "translation_queue.csv").open(encoding="utf-8-sig", newline="") as handle:
             rows = {row["file"]: row for row in csv.DictReader(handle)}
-        self.assertEqual(rows["katturaigal/pazhaya_company.md"]["status"], "incorrect_source")
-        self.assertEqual(rows["katturaigal/pazhaya_company.md"]["direction"], "none")
+        self.assertEqual(rows["katturaigal/pazhaya_company.md"]["status"], "translated")
+        self.assertEqual(rows["katturaigal/pazhaya_company.md"]["direction"], "complete")
+        self.assertEqual(rows["katturaigal/singam_sirunari_1.md"]["status"], "incorrect_source")
 
-    def test_contents_marks_pazhaya_company_incorrect(self):
+    def test_contents_distinguishes_recovered_and_incorrect_sources(self):
         subprocess.run(
             ["python3", str(BASE / "generate_section_contents.py")],
             check=True,
@@ -42,7 +55,9 @@ class IncorrectSourceGuardTest(unittest.TestCase):
             encoding="utf-8"
         )
         line = next(line for line in contents.splitlines() if "pazhaya_company.md" in line)
-        self.assertIn("incorrect source - skipped", line)
+        self.assertIn(" - translated", line)
+        held = next(line for line in contents.splitlines() if "singam_sirunari_1.md" in line)
+        self.assertIn("incorrect source - skipped", held)
 
     def test_permanent_incorrect_sources_are_not_recovery_candidates(self):
         with (STATE / "incorrect_sources.csv").open(encoding="utf-8-sig", newline="") as handle:
@@ -106,13 +121,13 @@ class IncorrectSourceGuardTest(unittest.TestCase):
         result = subprocess.run(
             [
                 "python3", str(BASE / "translate_all_markdown.py"),
-                "--file", "katturaigal/pazhaya_company.md", "--dry-run",
+                "--file", "katturaigal/singam_sirunari_1.md", "--dry-run",
             ],
             check=True,
             capture_output=True,
             text=True,
         )
-        self.assertIn("skip incorrect source: katturaigal/pazhaya_company.md", result.stdout)
+        self.assertIn("skip incorrect source: katturaigal/singam_sirunari_1.md", result.stdout)
         self.assertEqual(recovery.read_bytes(), before)
 
 

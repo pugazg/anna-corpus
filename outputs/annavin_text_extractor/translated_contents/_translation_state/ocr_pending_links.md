@@ -2,15 +2,15 @@
 
 This report covers only canonical OCR-origin works that do not yet have a bilingual translation file.
 
-- Total pending: **79**
-- OCR/source recovery pending: **79**
+- Total pending: **78**
+- OCR/source recovery pending: **78**
 - OCR translation pending: **0**
 
 ## Category Summary
 
 | Category | Pending |
 |---|---:|
-| katturaigal | 8 |
+| katturaigal | 7 |
 | nadagangal | 26 |
 | sorpozhivugal | 45 |
 
@@ -20,8 +20,6 @@ This report covers only canonical OCR-origin works that do not yet have a biling
   - Reason: The complete 58-scan, six-part collection இலட்சிய வரலாறு is present but not translation-safe. Direct scan comparison corrected the printed title date from '29--6-]1947' to '29-6-1947', restored the opening 'நான்', and removed two mixed-script lines inserted on Part 5 Image 2 and Part 6 Image 6 plus a scan-absent final glyph. Recurring dropped letters, false Tamil numerals, broken words, altered names and figures and other non-lexical insertions remain from the opening through all six parts. Re-OCR all 58 scans and visually reconcile every title, date, section boundary, quotation, name, figure and page join before translation.
 - `katturaigal/nirubarin_nilai.md`: [website 1](http://www.annavinpadaippugal.info/katturaigal/nirubarin_nilai.htm) | [OCR Markdown](https://github.com/pugazg/anna-corpus/blob/main/outputs/annavin_text_extractor/ocr_text_corrected/katturaigal/nirubarin_nilai.md)
   - Reason: Printed pages 182-184 are absent after Image 8 (page 181); Image 9 is unrelated page 185 from an article on science, and Image 10 resumes only the final fragment of the reporter article. Recover the three missing pages and remove the misassigned scan before translation
-- `katturaigal/pazhaya_company.md`: [website 1](http://www.annavinpadaippugal.info/katturaigal/pazhaya_company.htm) | [OCR Markdown](https://github.com/pugazg/anna-corpus/blob/main/outputs/annavin_text_extractor/ocr_text_corrected/katturaigal/pazhaya_company.md)
-  - Reason: Images from two unrelated and incomplete articles are fused: Image 1 is 'பழைய கம்பெனி!' and Images 2-11 are a Roosevelt obituary beginning mid-list. Never translate this canonical file; recover and separate both articles first.
 - `katturaigal/periyapuranaputhayal.md`: [website 1](http://www.annavinpadaippugal.info/katturaigal/periyapuranaputhayal_1.htm), [website 2](http://www.annavinpadaippugal.info/katturaigal/periyapuranaputhayal_2.htm), [website 3](http://www.annavinpadaippugal.info/katturaigal/periyapuranaputhayal_3.htm), [website 4](http://www.annavinpadaippugal.info/katturaigal/periyapuranaputhayal_4.htm), [website 5](http://www.annavinpadaippugal.info/katturaigal/periyapuranaputhayal_6.htm), [website 6](http://www.annavinpadaippugal.info/katturaigal/periyapuranaputhayal_7.htm) | [OCR Markdown](https://github.com/pugazg/anna-corpus/blob/main/outputs/annavin_text_extractor/ocr_text_corrected/katturaigal/periyapuranaputhayal.md)
   - Reason: The complete 70-scan, seven-part collection பெரிய புராணப் புதையல் is present, including the locally stored ten-scan Part 5 for which the live pending report has no website link, but the OCR is not translation-safe. Direct scan comparison corrected the printed 1-7-1945 date, two list numbers on Part 2 Image 1, a village-word reading on Part 4 Image 3, the 12 1/2 இலட்சம் scientific figure, two ஐதீகம் readings and the numbered closing comparison; two ornament rows were restored and scan-absent trailing noise removed. Recurring dropped and substituted Tamil, false numerals, malformed quotations, names, citations and scientific figures remain throughout all seven parts. Re-OCR and visually reconcile all 70 scans before translation.
 - `katturaigal/romapuri_ranigal.md`: [website 1](http://www.annavinpadaippugal.info/katturaigal/romapuri_ranigal_1.htm), [website 2](http://www.annavinpadaippugal.info/katturaigal/romapuri_ranigal_2.htm), [website 3](http://www.annavinpadaippugal.info/katturaigal/romapuri_ranigal_3.htm), [website 4](http://www.annavinpadaippugal.info/katturaigal/romapuri_ranigal_4.htm), [website 5](http://www.annavinpadaippugal.info/katturaigal/romapuri_ranigal_5.htm), [website 6](http://www.annavinpadaippugal.info/katturaigal/romapuri_ranigal_6.htm), [website 7](http://www.annavinpadaippugal.info/katturaigal/romapuri_ranigal_7.htm), [website 8](http://www.annavinpadaippugal.info/katturaigal/romapuri_ranigal_8.htm) | [OCR Markdown](https://github.com/pugazg/anna-corpus/blob/main/outputs/annavin_text_extractor/ocr_text_corrected/katturaigal/romapuri_ranigal.md)

@@ -1,6 +1,6 @@
 # OCR-Origin Translation Handover
 
-Updated: 2026-09-05
+Updated: 2026-09-06
 
 ## Objective
 
@@ -8,17 +8,17 @@ Complete all 962 canonical OCR-origin works as bilingual Markdown documents:
 
 | Category | OCR target | Translated | Pending |
 |---|---:|---:|---:|
-| katturaigal | 552 | 544 | 8 |
+| katturaigal | 552 | 545 | 7 |
 | nadagangal | 61 | 35 | 26 |
 | sirukathaigal | 108 | 108 | 0 |
 | sorpozhivugal | 241 | 196 | 45 |
-| **Total** | **962** | **883** | **79** |
+| **Total** | **962** | **884** | **78** |
 
 The authoritative live pending list is:
 
 `translated_contents/_translation_state/ocr_pending_links.md`
 
-Its current split is 79 works needing OCR/source recovery and no works whose
+Its current split is 78 works needing OCR/source recovery and no works whose
 OCR source is currently safe enough for bilingual translation. Always
 regenerate the report after completing one work; do not rely on the numbers in
 this handover after work resumes.
@@ -33,6 +33,10 @@ this handover after work resumes.
   commits and pushes from this workspace without asking again.
 
 ## Most Recently Completed Work
+
+`katturaigal/pazhaya_company.md` (`பழைய கம்பெனி!` / `The Old Company!`) is now complete. The five-paragraph newspaper article is translated in full, with its page/column boundary and recovered Tamil retained verbatim. User screenshots and RMRL viewer page 9 establish the source. The unrelated Roosevelt fragment remains preserved separately and incomplete; all old scans remain. First-column punctuation concerns and variant reprint readings are documented in translator notes. State refreshed: 884/962 OCR-origin works verified, 78 pending; this work is absent from the pending list. Audit: zero issues. All 15 tests pass after replacing the obsolete permanent-hold assertion with recovery and fragment-preservation checks. Retained-source SHA-256: `65914f946d741cffe9ac37f2b672eb5811cce693554da105ebf8ca2420a72b7b`.
+
+## Previously Completed Work
 
 `katturaigal/kambarasam.md` (`கம்பரசம்` / `Kamban’s Nectar`) is complete.
 
@@ -62,8 +66,8 @@ The checkpoint is `translated_contents/_translation_state/working/latchiya_varal
 Do not translate from unreconciled OCR.
 Keep recovery and translation checkpoints in small batches and push them.
 
-The current OCR-only total is **883/962 complete and verified, 79 pending**:
-8 katturaigal, 26 nadagangal, 0 sirukathaigal and 45 sorpozhivugal.
+The current OCR-only total is **884/962 complete and verified, 78 pending**:
+7 katturaigal, 26 nadagangal, 0 sirukathaigal and 45 sorpozhivugal.
 
 ## Historical Kambarasam Recovery Chronology
 
@@ -211,6 +215,10 @@ The whole archive also contains HTML-origin works. OCR-origin membership is
 defined only by `source_map.csv` rows whose `source` is `ocr_replaces_html` or
 `ocr_only`.
 
+## Source-recovery preference
+
+The user explicitly requested on 2026-09-06 that RMRL (https://rmrl.in/) be used for future works whenever material is missing. Search its periodical collection for the relevant issue and article when archive scans are missing, mixed, truncated or unreadable. Verify the title, date, complete column/page sequence and ending visually; record the exact issue URL and printed/viewer page references. Preserve replaced or unrelated archive material separately. A matching title or catalogue record alone is not proof of full recovery. This preference applies throughout the remaining 962-work goal.
+
 ## Fidelity Rules
 
 1. Visually compare OCR-origin Tamil against every available scan before
@@ -232,8 +240,8 @@ defined only by `source_map.csv` rows whose `source` is `ocr_replaces_html` or
    mixed-language OCR belongs in `needs_source_recovery.csv`. Do not create a
    deceptively complete translation from incomplete text.
 8. Files listed in `incorrect_sources.csv` must remain skipped until their
-   source issue is genuinely repaired. In particular, do not repeatedly retry
-   the known incorrect `பழைய கம்பெனி!` source.
+   source issue is genuinely repaired. `பழைய கம்பெனி!` was recovered from its
+   complete newspaper witness on 2026-09-06; its former mixed source is preserved separately.
 9. For HTML-origin text, preserve the extracted source exactly. OCR correction
    rules apply only to OCR-origin works.
 
@@ -379,8 +387,6 @@ permission. Preserve both Tamil and English titles and follow every fidelity,
 recovery, interruption, and completion rule in the handover.
 ```
 
-## New source evidence: பழைய கம்பெனி!
+## பழைய கம்பெனி! recovery completed
 
-The user supplied the 18 March 1945 திராவிட நாடு page (A), with enlarged second-column continuation and ending. Evidence and recovery instructions: `translated_contents/_translation_state/working/pazhaya_company_evidence/README.md`. This addresses the missing title-article continuation in the fused canonical file. Reconcile both columns before rebuilding; preserve the unrelated Roosevelt material separately. No status refresh yet.
-
-Pazhaya Company recovery now has a full provisional newspaper transcription and a separately preserved verbatim Roosevelt fragment. Continue with the first-column precision checks in `translated_contents/_translation_state/working/pazhaya_company_evidence/recovery_review.md`; do not use the draft as canonical until these are settled.
+The user-supplied 18 March 1945 newspaper evidence was reconciled with RMRL viewer page 9 (printed page A). The complete canonical bilingual document is built and audited; the incorrect-source hold is released. The evidence folder contains the full newspaper witness, screenshots, historical draft/review, English draft, original mixed corrected OCR and separated Roosevelt fragment. Read its README for current status. Resume இலட்சிய வரலாறு at Part 6 Image 3, with 53/58 scans already reconciled.

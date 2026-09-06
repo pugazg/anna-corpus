@@ -896,7 +896,7 @@ Total source works: 1388
 - [பழம், வீழ்ந்தது!](pazham_vizhunthathu.md) - pending
 - [பழமும் பலனும்!](pazhamum_palanum.md) - pending
 - [katturaigal/pazhaya_agar](pazhaya_agar.md) - translated
-- [katturaigal/pazhaya_company](pazhaya_company.md) - incorrect source - skipped
+- [katturaigal/pazhaya_company](pazhaya_company.md) - translated
 - [பழைய பாதை!](pazhaya_paathai.md) - pending
 - [katturaigal/penninam](penninam.md) - translated
 - [பேரறிஞர் அண்ணா அவர்கள் விடுத்த அறிக்கை](perarignar_anna_vidutha_arikkai.md) - pending
