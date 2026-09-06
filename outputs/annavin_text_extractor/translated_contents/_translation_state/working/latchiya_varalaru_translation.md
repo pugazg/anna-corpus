@@ -214,3 +214,31 @@ Those who want rest may stand aside. Those in reclining chairs may remain reclin
 **Dravida Nadu for the Dravidians Alone**
 
 This is not the slogan of a party; it is the song of a people's heart! A fundamental truth. A truth accepted everywhere, by peoples of every kind. Those who think they must oppose this idea merely because we put it forward, and those who dismiss it, are doing harm not to us
+
+### Image 2: 002-e3f3af3635.png
+
+but to the country; they are betraying their own people.
+
+Even tiny countries, countries without natural resources, countries that must live on borrowed resources, have obtained independent sovereignty. Here, however, a country that already possessed a rich literature two thousand years ago is today bound to another country and held captive. We call upon those brave people who consider it a great task to break, within their own lifetimes, the shackles fastened upon their motherland. We say: make “Dravida Nadu for the Dravidians alone” known to people in every nook and corner—join the ranks.
+
+To explain to everyone the blameless character of our policy, the necessity of our programme and the greatness of our ideal, the Dravidar Kazhagam has arranged to celebrate this coming 1 July as Dravidian Separation Day. We have not drawn up the programme “Dravida Nadu for the Dravidians” without meaning: there are sound, irrefutable reasons for it.
+
+Whoever they may be—those who condemn, ridicule, dismiss or disregard it—we ask them to sit down calmly, consider the reasons we offer for “Dravida Nadu for the Dravidians alone,” and then reach a conclusion. We have stated these reasons many times. Now, as we celebrate a day devoted to this purpose, we state those same reasons to the people of the country once again.
+
+1. India is a continent. It must therefore be divided into several countries. The European continent contains thirty-two separate countries. No one says that all Europe must be under one umbrella. Nor is there any necessity for India to remain under a single umbrella.
+
+2. Before British rule was established, India was a continent containing fifty-six countries, each with its own government. It was only to make the conduct of their rule
+
+### Image 3: 003-1dfaa2436e.png
+
+more convenient that the British treated India as a single country and made others regard it that way too.
+
+3. Religion, language, art, outlook, a sense of belonging to one people, and historical kinship—these are the characteristics of a people. Viewed in this way, India contains many distinct peoples. They may be grouped into three broad divisions: Dravidians, Muslims and Aryans. Of these three peoples, the Dravidians and Muslims do not differ greatly in their collective characteristics. Between the characteristics of the Aryans and those of the other two there is no compatibility whatever; there is considerable antagonism. Because these distinct collective characteristics exist, only a division of India according to its peoples will give each its own territory and government. Otherwise, the other peoples will have to live in subjection to whichever people is most skilled in cunning, deceit and intrigue, and most disposed to crush others for its own advantage.
+
+4. Continuing to call India a single country allows Aryan domination to grow. Aryan rule has reduced the interests of the other peoples to dust.
+
+5. Binding together, by intrigue, peoples with conflicting characteristics has only increased unrest, distress and trouble. Therefore, if future troubles are not to multiply and turn India into a wilderness of blood, India must now be divided amicably according to its peoples.
+
+6. Dividing a country according to its peoples is neither new nor unheard of. Already there are many Indias: British India, princely India, French India and Dutch India. It is not wrong to ask, in the same way, for three separate regions—Muslim India, Aryan India and Dravidian India.
+
+7. There are 574 princely states alone. Each has its own government and its own system. Similarly, it is an undeniable right for three great regions, each with its own form of government, to seek the means of developing their respective collective characteristics.
