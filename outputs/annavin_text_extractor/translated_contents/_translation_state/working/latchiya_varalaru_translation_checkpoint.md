@@ -9,4 +9,4 @@
 - Corrected source file SHA-256 at translation start: `84d0e4b8f37ad6f5dac67b15c6dd110ef4de163b8445d989571c4e0eb439dcb2`.
 - Do not refresh state, release the recovery hold, or create a partial canonical bilingual file. Overall archive remains 884/962 verified, 78 pending.
 
-- Final comparative review is recorded in `latchiya_varalaru_final_review.md`: Parts 1–3 complete and Part 4 Images 1–5 reviewed (36/58); next Part 4 Image 6. Drafting remains complete at 58/58.
+- Final comparative review is recorded in `latchiya_varalaru_final_review.md`: Parts 1–3 complete and Part 4 Images 1–9 reviewed (40/58); next Part 4 Image 10. Drafting remains complete at 58/58.

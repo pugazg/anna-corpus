@@ -3,9 +3,9 @@
 - Full draft checkpoint: `8122e5e` (58/58 scans translated).
 - Ordered part/image pairs match the corrected source exactly: 58/58.
 - Corrected source SHA-256: `84d0e4b8f37ad6f5dac67b15c6dd110ef4de163b8445d989571c4e0eb439dcb2`.
-- Final comparative review completed: Parts 1–3 complete and Part 4 Images 1–5 (36/58).
+- Final comparative review completed: Parts 1–3 complete and Part 4 Images 1–9 (40/58).
 - Checked title and 29-6-1947 date, opening Periyar statement, 1925 and ten-year references, organization list, 13/10 ministers, over 90 percent voters, quotation attribution and cross-page joins. No source edits.
-- Review next: Part 4 Image 6. Later scans remain drafted, not yet marked finally reviewed.
+- Review next: Part 4 Image 10. Later scans remain drafted, not yet marked finally reviewed.
 - Do not release the source-recovery hold or refresh translation state until the complete canonical bilingual document is ready and audited.
 
 ## Scan inventory
@@ -50,3 +50,7 @@ Compared all four scans, including Natesa Mudaliar’s death and legacy, the S. 
 ## Part 4 Images 2–5
 
 Compared the full account of the ideal’s expansion, Kamaraj critique, independent-units quotation, federation discussion, economic examples and opening criticism of political worship. Checked embedded INDEPENDENT UNITS, July 1, Nehru/Willkie references and the complete present-condition/separate-rights question spanning Images 3–4 without duplication. The Sholapur/Bombay sentence and Image 5’s unfinished conditional clause are correctly carried across boundaries. Existing notes explicitly cover Constituent Assembly expansion, சல்லடம், Vishawar and the chemical-works description. No omissions or new corrections found; source unchanged.
+
+## Part 4 Images 6–9
+
+Compared all paragraphs of the attributed commentary on multiple parties, press freedom and hero-worship, and the return to the author’s critique of Congress. Verified quotation opening/continuation/closing, the split-party sentence across Images 6–7, the American-readership comparison across Images 8–9, and both reported threats. The original name form and unresolved reflexive referent remain documented. The final Omandurar transition carries forward the separately documented, visually confirmed printed பிரசாரம் reading. No omissions or additional corrections found; Tamil unchanged.
