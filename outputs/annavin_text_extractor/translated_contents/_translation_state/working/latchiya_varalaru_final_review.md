@@ -3,9 +3,9 @@
 - Full draft checkpoint: `8122e5e` (58/58 scans translated).
 - Ordered part/image pairs match the corrected source exactly: 58/58.
 - Corrected source SHA-256: `84d0e4b8f37ad6f5dac67b15c6dd110ef4de163b8445d989571c4e0eb439dcb2`.
-- Final comparative review completed: all 11 scans of Part 1 and Part 2 Images 1–5 (16/58).
+- Final comparative review completed: all 11 scans of Part 1 and Part 2 Images 1–9 (20/58).
 - Checked title and 29-6-1947 date, opening Periyar statement, 1925 and ten-year references, organization list, 13/10 ministers, over 90 percent voters, quotation attribution and cross-page joins. No source edits.
-- Review next: Part 2 Image 6. Later scans remain drafted, not yet marked finally reviewed.
+- Review next: Part 2 Image 10. Later scans remain drafted, not yet marked finally reviewed.
 - Do not release the source-recovery hold or refresh translation state until the complete canonical bilingual document is ready and audited.
 
 ## Scan inventory
@@ -30,3 +30,7 @@ Compared all four scans against the English, including the Salem organizational 
 ## Part 2 Images 2–5
 
 Compared the entire four-scan passage with the English. All fifteen numbered arguments are present in source order, including the British-administration sentence across Images 2–3 and the throat/strangulation sentence across Images 4–5. Checked figures 32, 56 and 574; the July 1 observance; the named emperors; the Ottoman/Turkey comparison; the colonial-region list including Dutch India; and the closing Pakistan statement. Historical assertions remain the author’s claims without correction or added substantiation. The concluding critique, woman/marriage comparison, and reasons/evidence/history/determination sequence are all retained. No source changes or translation omissions found in this batch.
+
+## Part 2 Images 6–9
+
+Compared the complete conference contrast, conditions and attendance, criticisms of the party, Vedachalam quotation and anti-Hindi organizational episode. Checked 2000, two miles, forty thousand, twelve years and the crore-of-hearts expression; the quoted songs and all page joins are present. Retained the unresolved சுனைவிழுங்கிகள் in transliteration in the English instead of the generic “creatures”; a separate note explains this lexical uncertainty. The other unusual printed forms and the Tiruneelakantam allusion remain documented. No Tamil changes.
