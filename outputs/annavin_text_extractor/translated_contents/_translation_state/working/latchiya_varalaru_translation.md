@@ -628,3 +628,32 @@ He wonders whether someone might at least remove the piece of cloth covering his
 From somewhere else comes a rumbling sound. But no one comes near him! We see no one who dares to change his condition. He is a slave! He is a sufferer! There is nothing to support him!!
 
 Thirty years ago, the Dravidian was in this condition. Bound by the fetters called caste and religion, chained to the rock called Aryanism, blindfolded with the piece of cloth called ignorance, in the days when the world was changing,
+
+
+### Image 8: 008-115bf6aae7.png
+
+when the cries of struggles for rights were being heard in many places, he floundered, not knowing how to free himself, finding no companion to help him, battered by a strength greater than his own. A fetter more terrible than those on his arms and legs bound his mind! Nor was it a fetter suddenly fastened upon him. Taking advantage of his innocent heart, people with deceitful intentions had slowly fastened these fetters upon him many centuries before. Like a little bird wandering bewildered in a forest where it cannot find its bearings, like a boatman distressed because no harbour can be found whichever way he goes, he suffered in his bonds.
+
+Because this condition had continued for so long, he had lost his self-confidence too.
+
+He even writhed less. He began trying to stop thinking of what had been fastened upon him as fetters. Having tried and failed to see through the piece of cloth covering his eyes, he had come to doubt the very idea that eyes could see. He had even concluded: “There is no freedom for us, no deliverance. These are unbreakable fetters. This is a condition from which there is no escape.”
+
+In this Tamil land, one man alone found the courage to say, “This condition can be changed—it is possible to change it—I shall show you by changing it!” He began the work, assembled an army, tore away the piece of cloth over the eyes and began smashing the fetters too.
+
+At first, the man who had lost hope was simply alarmed! “You have come forward to do something impossible! Previously my eyes were covered. I merely knew there were fetters; I did not know what they were like. My eyes have been opened. Now I can see that the fetters are very, very strong. How can they be smashed? You have no sledgehammer! You are smashing them with your bare hands,
+
+### Image 9: 009-bdee30b56d.png
+
+and suffering pain as a result. Poor man! This is beyond your power. Give up the attempt! It is enough that my eyes have somehow been opened. I see the sky, I see the birds flying through it, I see the waves, and I rejoice. This is enough. These fetters will not break under your blows,” he said.
+
+“Yes—yes—strong fetters,” the other man replied.
+
+“Not merely strong fetters. They were not fastened today or yesterday, two years or ten years ago. These fetters have been here for ages,” said the man in bonds.
+
+With a smile, the other man said: “Only now does my confidence grow. These fetters were fastened a very long time ago! You say this is their greatness. Fool! Think properly. This is nothing to boast of! The fetters are very, very old, and therefore weak! They have been here for a very long time, and therefore, under the assault of time, have gradually lost their strength. They are not unbreakable. If we strive with vigour and confidence, we can shatter them to dust,” he declared firmly. From somewhere came the sound of someone laughing mockingly. Disregarding it, he continued the work of smashing the fetters—tirelessly, successfully, for thirty years. The sound of the fetters breaking grows strong enough to drown out the mocking laughter!! Confidence grows! A new light shines from the eyes that had grown dim.
+
+The Dravidar Kazhagam provincial conference held at Thoothukudi last year was the loving tribute of an awakened Dravidam, now filled with confidence, to Periyar, who has been carrying out this great work with vigour!
+
+Men and women, old people and children—more than a hundred thousand—gathered at the southern tip of Dravidam and celebrated.
+
+At a time when the members of parties that include ministers and statesmen have reached the stage of searching for recruits, here,
