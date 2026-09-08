@@ -384,3 +384,30 @@ The first effort to awaken Dravidian collective consciousness was defeated not b
 **Dravidam Suffering in Aryanism's Embrace**
 
 For a long time, Dravidam has repeatedly tried to free itself from Aryanism's embrace. Though it has sometimes been inactive, it has never surrendered completely. The movements that have arisen from time to time under such headings as Pure Tamil, Vellala civilization, true Saivism and ancient civilization are all small versions of that fundamental endeavour. Each is necessary and each has its benefits. Yet, because only a few among the people could understand them, these movements could not strengthen the fundamental endeavour. Each became a separate movement. They even came to appear contradictory. Feelings of hostility too
+
+### Image 10: 010-8e7b643f78.png
+
+grew. Many camps began to appear in Tamil Nadu! The fundamental endeavour was forgotten.
+
+**Opponents Rejoiced at the Apparent Death of That Consciousness**
+
+The country was like a blindfolded warrior walking along a road, stumbling painfully into tree after tree. It became doubtful whether Dravidian collective consciousness would ever arise again. Opponents even rejoiced that it had died altogether. But the ideal had not died—it was waiting for its moment. Many occasions arose, but none was the right one.
+
+**A Downtrodden Tamil Nadu Awoke to Enthusiasm for Itself**
+
+The anti-Hindi struggle provided the right moment. It was a time when not merely anger against Congress—that was relatively slight—but love of Tamil spread throughout the country. It was a time when people everywhere began to read Sangam works. They began to speak proudly of the Tamil's own language and distinctive character; discussion of the Five Great Epics reached the public platform! As enthusiasm for Tamil increased, the expounders of Puranic lore slipped in too. But those passionate about Tamil began to investigate why the language had been brought low, why Tamil character had disappeared, and why Tamil Nadu's distinction had declined, preventing the others' influence from growing. That investigation brought them back to the point where they had left off—to the vicinity of Dr Natesa Mudaliar's grave. Old memories and old battle songs began to circulate again!
+
+**The Champions Who ‘Dug Channels’ to Revive the Withering Tamil Crop**
+
+The sight of more than a thousand people going to prison to protect the Tamil language awakened a new feeling in Tamil hearts. Tamils shed tears at the graves of Thalamuthu and Natarajan. Two young men dead, many young men imprisoned, all for the protection of Tamil: it was when they stood beside those graves and reflected on this that the resolve to change this condition
+
+## Part 4
+
+### Image 1: 001-8491d3249c.png
+
+was born in the Tamils. It was then that Periyar Ramasamy proclaimed: “Comrade, you cry out that another language threatens Tamil! Think about why that danger arose and who brought it about. Is the danger only to your language? Your art, your way of life, your culture, your people, your country and your very livelihood are threatened. Have you understood that? Do you know who brought this danger upon you? Will you consider why it arose? Listen, I shall tell you. Tamil Nadu is not in Tamil hands! That is why Tamil wealth is not in Tamil hands. Whatever a man from another country thinks now becomes law here. This land becomes a market for his goods. This condition must change. A language struggle alone is not enough. This is not the end; it is the beginning. Driving out Hindi alone is not enough: all the evil forces that dominate Tamil Nadu must disappear. That must be our slogan. Henceforth that is our struggle, our ideal—Tamil Nadu for the Tamils alone!” “Yes! Yes! We have understood! We see clearly!” cried the great gathering on the seashore that day, its numbers approaching a hundred thousand. They pledged themselves to the cause. The waves sounded as though expressing the turmoil in the people's hearts. Above, the moon seemed to illuminate the Tamils' awakened state! Clouds here and there in the sky were like blemishes in Tamil society! The Tamil had regained his ideal. He proclaimed: Tamil Nadu for the Tamils alone. The ideal that had grown dim began to move among the people again! It reached them! Thus the ideal acquired a new strength. People became eager to work for an ideal. They began to think: we are going to fight not for mansions or offices, but for our country's independent rights! The revolutionary poet's golden words nourished that thought still further:
+
+“Let us dance, let us sing the pallu song!
+Let us gather in the glory of Tamil rule!”
+
+So the poet said. Joy began to dance in the eyes of thousands upon thousands of young people. Elections, legislatures, ministries
