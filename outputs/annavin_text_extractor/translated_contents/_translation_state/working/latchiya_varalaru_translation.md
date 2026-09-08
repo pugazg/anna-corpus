@@ -681,3 +681,30 @@ Thus the conference’s distinction does more than bring joy to Kazhagam members
 The great lesson we learned at the Salem conference was the principle that, if we become bound to vulgarities and engage in political gambling, our growing strength will scatter and disintegrate. The leader has made clear that the Kazhagam will continue on the same course. It is therefore clear that the Kazhagam will not be sacrificed to the political silkworms and grasshoppers that fly in to settle upon it when they see it flourishing green.
 
 Having cut away vulgarity and increased its enthusiasm, it has advanced from the condition of wondering whether anyone would attend a gathering to one in which people joyfully estimate, “The crowd will be a hundred thousand; it will be two hundred thousand.” It has escaped the accusation, “All this is for elections, office, titles and contracts,” and advanced to a position where it can be said, “This is to reshape society and bring about a revolution in the realm of knowledge.” Anyone who disregards this great strength can only be a mean-spirited person, incapable of discerning and explaining the direction of people’s minds. “All right;
+
+
+### Image 2: 002-278c27cd33.png
+
+at the next election, I shall get rid of these creatures, even if I have to spend half a crore or a crore,” is not something they can say. Nor is there room to expose them by declaring, “These are selfish office-seekers! Look, this person and that person are grinning eagerly for such-and-such posts,” and then boast, “We shall make it impossible for these creatures to show their faces outside.”
+
+Nor is there room for the manoeuvre, “We shall give high office to those who shout loudly and turn them into our favourites.” For the Dravidar Kazhagam stands beyond such desires and attachments. The gold refined at Salem has become gold of undiminished purity. The Muthanna crowd, “born from the face,” should give some thought to this great truth.
+
+The Kazhagam has left no room, either, for the treacherous thought: “Wait, wait! We shall set Congress against these creatures and rejoice to see blood pouring from both their heads.” For it has reached a position in which it has entirely renounced the idea of competing with the Congress party in elections or for posts.
+
+That is why we say that the condition of having severed desires and attachments gives such great vitality.
+
+Those who formerly held grass and now imagine they might wield a bow must also abandon the thought that they can derive satisfaction by saying, “Leave aside the Kazhagam’s aims and its position; are not division and dissension increasing within it?” Differences exist. But those differences merely give both the differing sections an opportunity to count the people between them and understand their character; they will not serve in the slightest to give the enemy an opening. The differences are like a competitive contest through which we discover how particular people will use particular opportunities. They will in no way produce a disposition to make room for opponents.
+
+Therefore, both those who divided the country into four castes and those who govern
+
+### Image 3: 003-cc6596e983.png
+
+must understand the lesson of the Thoothukudi conference. All that was in the hearts of the people gathered there was this:
+
+> A people free from caste distinctions and economic inequality, clear in understanding and not subjected to exploitation by an outsider, must establish a government exercising its rightful authority and take its seat in the assembly of the world.
+
+This fundamental idea can no longer be defeated, nor can its growth be stopped. It has not remained confined to the Kazhagam’s precincts. It is penetrating khadi shirts and finding a place in the hearts of our Congress friends. It emerges in the speeches of thoughtful people in the country. In new poems, new plays and new films alike, this fundamental idea has begun to appear clearly. We therefore ask them to abandon the dream that they can destroy it and, before the blows of time fall heavily, to clarify their thinking and set about establishing justice. Before the very eyes of those who thought, “We have fastened iron chains upon his hands and his mind; how can that slave free himself?” the Dravidian now strides proudly forward, without even having cast off the broken fetters, stands before them and declares:
+
+> This is my country! Nature will make it a golden land! There must be no caste here! No cruelty of religion, no economic inequality! No exploitation by the North! We want rights! We want a new life!
+
+Into the ears of the Dravidian, who had listened in distress to the wind and the sea, came the fervour and solemn vow of a hundred thousand people! He walks the path of victory. That journey cannot be stopped; that victory cannot be spoiled. He has awakened and risen; he appears like a lion that has emerged from its cage. Those who boast that the wearers of the three-stranded thread possess an “eye of wisdom” need not even use that eye of wisdom,
