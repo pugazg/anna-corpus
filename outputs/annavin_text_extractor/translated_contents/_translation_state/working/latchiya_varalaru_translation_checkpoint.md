@@ -5,8 +5,8 @@
 - Separate notes: `latchiya_varalaru_translation_notes.md`.
 - Complete through Part 6 Image 7 (58/58 scan sections); all six parts drafted.
 - Next: review the full draft and notes, build the complete canonical bilingual document, run the source-retention audit, and only then refresh translation state.
-- The final scan ends with the ideal’s assured triumph. All cross-page sentences are completed. Full-work review and canonical completion remain outstanding.
+- The final scan ends with the ideal’s assured triumph. All cross-page sentences are completed. Full-work comparative review is complete; canonical assembly and audit remain outstanding.
 - Corrected source file SHA-256 at translation start: `84d0e4b8f37ad6f5dac67b15c6dd110ef4de163b8445d989571c4e0eb439dcb2`.
 - Do not refresh state, release the recovery hold, or create a partial canonical bilingual file. Overall archive remains 884/962 verified, 78 pending.
 
-- Final comparative review is recorded in `latchiya_varalaru_final_review.md`: Parts 1–5 complete and Part 6 Images 1–5 reviewed (56/58); next Part 6 Image 6. Drafting remains complete at 58/58.
+- Final comparative review is recorded in `latchiya_varalaru_final_review.md`: all six parts reviewed (58/58); next final notes, difficult-term records, canonical assembly and audit. Drafting remains complete at 58/58.
