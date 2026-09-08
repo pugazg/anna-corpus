@@ -562,3 +562,28 @@ They say that a passage in an Upanishad reads: “Hear the truth, child! Just as
 There is no use in taking fright at the sparks and destroying them. The “flame” remains, to keep throwing out sparks—countless sparks!
 
 We therefore point out to those who govern that the actions of the panic-stricken will never suppress revolution.
+
+
+### Image 4: 004-406e80d76d.png
+
+**Here Is the Crux!**
+
+Some friends who are newly hearing about the issues raised by our movement ask whether we criticize Brahmins unnecessarily: they are a very, very small minority in society, so why must we denounce them “at all times, without cease”?
+
+This is an old question for our movement—a very old question. But many who ask it are new “arrivals” to the movement, so they truly ask in order to clear up their doubts. It is our duty to dispel those doubts. First, we tell these friends: please do not imagine that we criticize people called Brahmins merely because of their community, out of malice. What we criticize is a system called Brahminism.
+
+Brahmins are its originators and guardians; many non-Brahmins support it.
+
+Thus our criticism is directed at Brahminism. Now let us examine closely the question: “Brahmins are only a tiny minority! Is it necessary to criticize them and their system?” The problem cannot be understood by considering people’s numbers alone. What chiefly needs consideration is the extent of the influence that the system called Brahminism possesses in the country. Seen in that way, the problem does not stop with Brahmins such as Iyers, Iyengars and Sharmas; we find that it becomes an issue “belonging” to many non-Brahmins too.
+
+When examining a system, it is not enough to consider only the number of people who produced it. What chiefly needs consideration is the extent of the influence that system has acquired in the country. Then the problem’s full dimensions will become apparent.
+
+### Image 5: 005-e9fa7e20ba.png
+
+“Why, sir, fear Brahmins? Why envy them? They are only three out of a hundred! Are you not ninety-seven out of a hundred? Why should the majority community fear a minority community and demand safeguards?” Our nationalist comrades have often asked this. Whenever they do, those comrades congratulate themselves on their own intellectual prowess.
+
+If we consider the community, Brahmins are few in number. The very breath of non-Brahmins would leave Brahmins gasping: that is how numerous non-Brahmins are. But Brahminism does not depend on numbers! It depends on the armed strength with which it has hitherto been furnished in many ways.
+
+A man may be a warrior whom the whole village fears, yet in a moment of delusion he fears the little bunch of neem leaves in a sorcerer’s hand. The greatness imagined to reside in those leaves and in the sorcerer is what creates a situation in which even the warrior is afraid. Likewise, although Brahmins are few in number, countless texts have been written claiming that they possess the keys to salvation and hell, and the measure by which God’s grace is dispensed; that receiving the service of other communities is their birthright; and that their satisfaction gives satisfaction to God himself. Because this notion has been mixed into the people’s blood over a very long time, a way has been opened for that community to acquire immense influence, wholly out of proportion to its numbers.
+
+The bridle is small, but everyone knows what the horse suffers under it! The rope through a bull’s nose is not even as thick as its tail. Yet once caught by it, the animal submits! In the same way, however small a community may be, if various kinds of greatness are attributed to it, its members’ influence will certainly grow. If an aeroplane circles over a village, its people are frightened even if they number 9,000. Why? Because they know that bombs will be dropped from the aeroplane. This is why the problem called Brahminism must be criticized.
