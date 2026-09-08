@@ -487,3 +487,26 @@ A new situation has arisen in the country; he says that democracy will not grow 
 “At this time when we have gained freedom, we also need a free press. There is a difficult dilemma here. Some people will think that our newspapers will automatically become free at the very moment foreign repression is abolished. But they may behave independently under foreign rule; it is under our own rule that behaving in this way is difficult. By praising and supporting our heroes, who entered the struggle against the imperialists with various principles, our newspapers performed the service they owed the nation. This became a habit. Habits are hard to change. If our newspapers voluntarily begin to serve as publicity organizations for our heroes, they will fail in their respective democratic duties. In wartime it is indeed difficult to tolerate criticism of faults and shortcomings. But in peacetime it becomes a duty to point out faults and shortcomings with the intention of bringing about reform.
 
 “Only the press has the power to correct mischief—that is, autocracy. But it has that power only if it is free. Our editors must now behave toward our own leaders with as much courage as they displayed against the foreign ruling class. This may taste as bitter as neem fruit to some of our leaders, for until now their words have gone unchallenged. But it is the right of a democratic people to expect upright conduct from their leaders. No person possessed of the conceit ‘We are everything’ can be qualified to lead a democratic government.
+
+
+### Image 8: 008-a64d5b73bb.png
+
+“This brings me to my view of hero-worship. During a struggle, whether armed or non-violent, we need a military outlook. Consequently, our hero-worship intensifies; as it advances, our loyalty, previously scattered in many places, becomes concentrated and goes to that one man who stands above everyone else. Wherever we look, his face appears before us. We attribute every virtue to him. No one else can satisfy us.
+
+“Yet in ordinary times, when we are building a democratic government, our admiration for heroes must spread in many directions instead of becoming more intensely concentrated on one person. We must have many heroes until the time comes when all the people of the country become heroes. It is the dignity of the ordinary person that is called democracy. As in America, we must have heroes in fields other than politics—in art, literature, industry, the labour movement and cinema. Here the country’s newspapers can serve by bringing forth new leaders from the new society. At present our newspapers publish the same familiar faces every day. Only the words of the usual few leaders appear.
+
+“Reporters with initiative and enthusiasm will discover that others, too, can feature in the news, and that people will read those reports.
+
+“As democracy takes deeper and deeper root, the disposition to sing the praises of eminent people alone begins to diminish. As the ordinary person’s importance increases, the need to compare that person with ‘big men’ declines. In America, books and periodicals describing how the ordinary person lives are as popular as books describing the deeds of great
+
+### Image 9: 009-5ec155b018.png
+
+men.”
+
+In this article, the scholar has explained that the attitude which insists that only one party should have the opportunity to govern, that even pointing out that party’s mistakes is wrong, however many it makes, and that nothing should be done except to sing its leaders’ praises, leads to dictatorship. He has also explained that, if someone distinguished himself as a great hero in the war of liberation, to insist that he must necessarily remain a great hero in the work of administering the country—and that even if he does not, he must not be censured—will certainly obstruct the country’s progress. Nor was this writer someone who had been running an opposition party against Congress. He said this after studying conditions in the world and methods of governing countries. But Congressmen here have become firmly convinced that the right to rule belongs to them for ever. They are also increasingly determined that, to secure that position, they must use extremely harsh measures now, while they hold power, to make it impossible for any opposition party to Congress to exist. We find their words and actions in keeping with this.
+
+It has now become quite routine for Congress campaigners to say from the platform, “We are going to seize all these people and put them in jail.”
+
+Congressmen now take a new delight in threatening: “There—we have sent a telegram to the minister. Just watch: an arrest warrant will be issued by tomorrow!”
+
+Since they were once subjected to hardship and struck by repression, as soon as they obtain the opportunity to rule they readily develop the desire that others should fear them and that they should subdue and govern others. To ordinary people, this possession of power will seem permanent. Even before a ministry could last out its legally allotted term, a change has already come over the ministry itself, with propaganda fading into darkness and Omandurar
