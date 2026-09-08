@@ -433,3 +433,28 @@ The day on which we invite Kamaraj and others like him to consider this question
 **Why Does ‘Self-Interest’ Appear in Separate Sovereignty?**
 
 The man who said that Dravidastan would split the country nevertheless approaches our ideal at the same time, knowingly or unknowingly! He has said: “Andhra, Kerala and Tamil Nadu must live together with the Indian federation as separate independent entities.” He says INDEPENDENT UNITS—units possessing rights of their own. Why did this desire arise? What is the reason for seeking separate rights? What is the difference between the present condition and the condition that would follow from obtaining those rights?
+
+
+### Image 4: 004-81272e1cc9.png
+
+He did not explain this! Moreover, he conceals the fact that, contrary to his desire, these “units” are now being impaired in the Constituent Assembly—because he cannot prevent it! He asks for separate sovereignty; we ask that it be free of blemish or defect. He says, “Even after obtaining separate sovereignty, we must join the Indian federation.” Not only the Indian federation—even if it is the Asian federation of which Nehru speaks, or the world federation of which Wendell Willkie spoke, we shall join; there is nothing wrong with that, and no obstacle to it. But we must have separate sovereignty! Where is the plan for that? They are drawing up a plan in the Constituent Assembly! Yet it cannot fulfil Kamaraj’s aspiration! What does our friend say to that?
+
+**We Have Seen Even Opponents Speak of the “Ideal”**
+
+Before saying that there must be no Dravidastan, Congress leaders in responsible positions should ask why it is being demanded and learn the answer. The day of celebration is an invitation to do so. We are glad to find a reflection of our ideal even in the words of friends who say they oppose it. What accounts for this situation? The ideal has grown—we find its fragrance in all sorts of unexpected places. If, for some time more, we explain our ideal, particularly the economic reasons for it, “Dravida Nadu for the Dravidians” will cease to be merely a party slogan and become the country’s slogan. The ideal that has grown despite so many obstacles will indeed emerge in this full form. For this ideal is the drumbeat of an awakened people’s rights, not party talk.
+
+**We Have Endured! Later We Shall Gird Ourselves for the Contest**
+
+Whenever pictures of Ramakrishna, printed in Calcutta, reach us and we hang them on a wall plastered with Dalmia cement, driving in a nail sent by the Tata company, this ideal will quietly stand beside our ear and ask, “Is this your condition? Is there no iron in your country?” Having asked, it will laugh! When dhotis and saris from Sholapur and
+
+### Image 5: 005-25e5cad7e8.png
+
+Bombay arrive here in greater quantities because they cannot go to Lahore and Vishawar, the ideal will come to mind! Medicines arriving from the Bengal chemical works will call attention to the ideal! When trade and contact with the outside world stop with those north of the Vindhyas, the ideal will come to mind. At first there will be a little hesitation; then courage will arise. From all sorts of places we did not expect, people will voice the ideal: “We cannot endure this northern domination. Dravida Nadu must belong to the Dravidians.” It is to see that day that we endure the humiliations, accusations, opposition and mockery of these days—and shall continue to endure them. It is not we who matter here, but the country!
+
+**There Must Be No Attitude of Worship**
+
+“We are engaged in the good work of redeeming the country. There are now only two parties here: one is the party waging the war of liberation, and the other is imperialism. Therefore there must be no other parties. After the country gains freedom, when it is time to govern, there may be parties; there must be none during the struggle.” So Congress leaders had been saying. Today the country has obtained freedom. Yet Congressmen have developed a strong conviction that there must be no other party! They alone must govern the country, enjoying a monopoly without opposition; however harmful the administration may be, no one must oppose it.
+
+The elation of victory is the chief reason for this perverse idea, but its root cause lies elsewhere.
+
+They believe they can govern only if everyone tolerates whatever mistakes they make and there is no one even to expose those mistakes; if many people, or even a few, have the opportunity to find fault,
