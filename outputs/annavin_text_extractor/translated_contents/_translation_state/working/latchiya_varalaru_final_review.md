@@ -3,9 +3,9 @@
 - Full draft checkpoint: `8122e5e` (58/58 scans translated).
 - Ordered part/image pairs match the corrected source exactly: 58/58.
 - Corrected source SHA-256: `84d0e4b8f37ad6f5dac67b15c6dd110ef4de163b8445d989571c4e0eb439dcb2`.
-- Final comparative review completed: Parts 1–4 complete and Part 5 Images 1–7 (48/58).
+- Final comparative review completed: Parts 1–5 complete and Part 6 Image 1 (52/58).
 - Checked title and 29-6-1947 date, opening Periyar statement, 1925 and ten-year references, organization list, 13/10 ministers, over 90 percent voters, quotation attribution and cross-page joins. No source edits.
-- Review next: Part 5 Image 8. Later scans remain drafted, not yet marked finally reviewed.
+- Review next: Part 6 Image 2. Later scans remain drafted, not yet marked finally reviewed.
 - Do not release the source-recovery hold or refresh translation state until the complete canonical bilingual document is ready and audited.
 
 ## Scan inventory
@@ -62,3 +62,7 @@ Compared the complete repression/whip analogy, Greek story across the part bound
 ## Part 5 Images 4–7
 
 Compared the complete distinction between Brahmin people and Brahminism, the arguments about numbers and influence, every analogy, and the opening Thoothukudi allegory. Verified 3/100, 97/100 and 9000; the Anandachari/Avinashi forms; and all short paragraphs, repeated writhing, requested encouragement and sindhu reference. The final chained-Dravidian sentence intentionally continues onto Image 8. Existing notes cover contextual lexical choices and avoid unsupported personal identification. No omissions or corrections found; Tamil unchanged.
+
+## Part 5 Images 8–10 and Part 6 Image 1
+
+Compared the complete liberation allegory, its identification with Periyar, Thoothukudi conference account, quoted couplet and warning about political attachments. Checked the two/ten/thirty-year references, last-year reference, one-lakh and two-lakh figures, and the 11th issue of Bharata Devi without adding dates. All dialogue and page joins are present, including the opening quotation carried onto Part 6 Image 2. Existing notes preserve the printed distinction between ஆசாபாசம் and ஆபாசம் and the unusual யோசிக்கச் செல்கிறோம். No further corrections needed; Tamil unchanged.
