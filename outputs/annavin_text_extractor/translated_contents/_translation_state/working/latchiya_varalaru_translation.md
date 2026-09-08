@@ -587,3 +587,44 @@ If we consider the community, Brahmins are few in number. The very breath of non
 A man may be a warrior whom the whole village fears, yet in a moment of delusion he fears the little bunch of neem leaves in a sorcerer’s hand. The greatness imagined to reside in those leaves and in the sorcerer is what creates a situation in which even the warrior is afraid. Likewise, although Brahmins are few in number, countless texts have been written claiming that they possess the keys to salvation and hell, and the measure by which God’s grace is dispensed; that receiving the service of other communities is their birthright; and that their satisfaction gives satisfaction to God himself. Because this notion has been mixed into the people’s blood over a very long time, a way has been opened for that community to acquire immense influence, wholly out of proportion to its numbers.
 
 The bridle is small, but everyone knows what the horse suffers under it! The rope through a bull’s nose is not even as thick as its tail. Yet once caught by it, the animal submits! In the same way, however small a community may be, if various kinds of greatness are attributed to it, its members’ influence will certainly grow. If an aeroplane circles over a village, its people are frightened even if they number 9,000. Why? Because they know that bombs will be dropped from the aeroplane. This is why the problem called Brahminism must be criticized.
+
+
+### Image 6: 006-fb11851fab.png
+
+Has not Brahminism acquired enough “power” to make so many non-Brahmins ask, “Why, sir, should Brahmins be criticized?” When Brahminism is criticized, even the Anandacharis may remain quiet, while it is the Avinashis who become angry. Why? That is the crux. Although they are a very, very small minority, their system has spread so widely and acquired such influence. That is why our movement regards this issue as important. Thus far, the objections and resistance to the opposition we have created against Brahminism have come more from our own people than from Brahmins. We ask the friends who raise these questions to consider: is criticizing so powerful a system useless work? Is it unnecessary for us to work courageously against a system possessing such influence?
+
+**Thoothukudi**
+
+Iron chains on his arms!
+
+His legs, too, have been chained with iron to an immovable rock.
+
+A heavy cloth is bound over his eyes.
+
+On seeing him, one understands: “He is an unfortunate man, bound fast to suffering—the chains of slavery subject him to cruelty.”
+
+Few people pass through the place around him. In the distance, the sound of waves is heard.
+
+A fierce wind blows.
+
+Rain pours down too.
+
+He writhes—
+
+### Image 7: 007-b34a652c44.png
+
+There is no one to speak on his behalf!
+
+There is no one with the decency to undo his bonds.
+
+There is no brave man to ask why he is in this condition. He writhes—held down by a strength greater than his own, he can only writhe.
+
+Will help come? Will he hear a reassuring voice? He listens intently, eagerly. He lies waiting to hear a footstep in the distance.
+
+He waits eagerly for a loving word, an expression of compassion, a word to give him hope.
+
+He wonders whether someone might at least remove the piece of cloth covering his eyes. He writhes—writhes—and, as he writhes, thinks: will someone not say, “A little more force—with a little more determination—without growing weary—without losing hope, try to free yourself from these bonds! The chains may be iron, but you have a heart of steel. Do not fear! Look, the moment when the fetters will break has arrived. Brave man, do not despair!” He waits longingly for someone to say this and kindle his spirits. Only the fierce wind blows! Only the sound of the waves is heard! The voice of help he awaits does not arise. Far away, some people travel in pretty little boats; the sindhu song they sing reaches his ears.
+
+From somewhere else comes a rumbling sound. But no one comes near him! We see no one who dares to change his condition. He is a slave! He is a sufferer! There is nothing to support him!!
+
+Thirty years ago, the Dravidian was in this condition. Bound by the fetters called caste and religion, chained to the rock called Aryanism, blindfolded with the piece of cloth called ignorance, in the days when the world was changing,
