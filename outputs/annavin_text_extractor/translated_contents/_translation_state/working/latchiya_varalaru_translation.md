@@ -510,3 +510,32 @@ It has now become quite routine for Congress campaigners to say from the platfor
 Congressmen now take a new delight in threatening: “There—we have sent a telegram to the minister. Just watch: an arrest warrant will be issued by tomorrow!”
 
 Since they were once subjected to hardship and struck by repression, as soon as they obtain the opportunity to rule they readily develop the desire that others should fear them and that they should subdue and govern others. To ordinary people, this possession of power will seem permanent. Even before a ministry could last out its legally allotted term, a change has already come over the ministry itself, with propaganda fading into darkness and Omandurar
+
+
+### Image 10: 010-4079e28d08.png
+
+shining forth. If even a ministry is subject to such a change, on what basis can they decide that their position as rulers of the country will last for ever? They do not even consider this.
+
+Repression is a strange power. At first, those who use it experience increasing delight. It is like the pleasure of taking a whip, striking an ox’s back with a sharp crack, and seeing it leap and run faster: when they unleash repression, torment members of the opposition and see them suffer, a kind of delight arises.
+
+Likewise, the first blow brings the person struck great distress, sorrow and bewilderment. The thought arises: “He has power; what can I do against him?”
+
+When the whip has to be used repeatedly, and each time it is used the ox not only leaps but remains quick in its movements, the delight felt at the first stroke withers, and exasperation arises: “What a nuisance this is!”—even though the whip is still in one’s hand. The same is true of those who use repression. The delight they feel when first using it will not recur if they are compelled to use it repeatedly. Weariness will arise, along with the fear: “How long can we sustain our rule through repression alone?”
+
+Likewise, those who were distressed and bewildered when first struck will find that, if they have to endure repeated attacks, their distress and bewilderment burn away; determination and the strength to resist will arise anew.
+
+Repression is a strange kind of power that produces results like these.
+
+“Dying is not so difficult,” a woman said as she died, caught in a tyrant’s clutches. Those words reached her husband’s ears! “Dying is not so difficult! The woman with fish-like eyes said it even as she died! Yet I, afraid of death, even considered surrendering to the
+
+## Part 5
+
+### Image 1: 001-45cc60d8b7.png
+
+tyrant. Shame! I am a coward! This cowardice will not do!” Saying this, he fought furiously and drove the tyrant away, according to a Greek story. In the same way, when the party holding power attacks the opposition through repression, if we withstand that attack, we ourselves shall be amazed at the form of the new strength that subsequently arises.
+
+They have no time to examine this characteristic of repression. That is why they say, “We have set out to govern; henceforth we shall permit no other party to exist in the country.”
+
+Every autocrat in the world has hitherto regarded all who submit to his dominance as good children, and the others as insolent. The Tsar who turned Russia into a battlefield thought in just this way. So do the petty deities who hold trifling powers. They become irritated at the very mention of opposition; arrogance arises, demanding its destruction; and they become ready to employ any cruel, degrading method to destroy it. All these actions, which they regard as brave, are the acts of cowards. In truth, if someone thought that the opposition had no strength and would gain no support in the country, if he believed that his own influence would not diminish however much anyone opposed him, if he had the courage to feel that he could enable the people to understand the truth about him, he would not think of immediately pouncing upon opposition and beating it out of existence as soon as he encountered it.
+
+What befits the brave is to fight without regard for the dangers they face. The cowards’ policy is to tremble at the mere appearance of opposition, fearing, “What will become of us?” and to venture even upon wicked deeds. It is because the former have ultimately won and the latter have finally lost that some measure of justice and integrity, at least, survives in the world today.
