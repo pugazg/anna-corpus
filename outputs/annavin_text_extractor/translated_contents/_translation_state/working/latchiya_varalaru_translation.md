@@ -657,3 +657,27 @@ The Dravidar Kazhagam provincial conference held at Thoothukudi last year was th
 Men and women, old people and children—more than a hundred thousand—gathered at the southern tip of Dravidam and celebrated.
 
 At a time when the members of parties that include ministers and statesmen have reached the stage of searching for recruits, here,
+
+
+### Image 10: 010-656546af35.png
+
+a hundred thousand people gather for the Dravidar Kazhagam, which states with complete clarity that it has no intention even of looking toward the seat of power! They experience a stirring of the heart like that of a son entering his home after returning from a long stay abroad. They rejoice as though seeing a treasury discovered after a long search. A kind of affection, an attachment, binds them together and sets them in motion.
+
+> In Tamil Nadu fallen low, there must be an awakening;
+> In the body whose vigour has failed, there must be strength.
+
+The poem becomes a visible scene, and awakening walks abroad. A new vigour enters their thinking! The conviction that their ideal will somehow be fulfilled mingles with their flesh and life, making them new people. Even if they expect this or that to happen and it does not, there is no room for anxiety; happiness arises.
+
+The fools who babble, “With the hand that holds grass, we shall wield a sword,” should consider what this “situation” signifies, what it symbolizes and what lesson it teaches. Their minds narrowed by arrogance, these grass-bearers fail to understand it. We urge them to think: what does this enthusiasm mean? It means that a people has awakened! It means that the tiger has awakened! In this situation, what do they expect to accomplish by wielding a sword in the hand that holds grass?
+
+If they learn nothing even from this great conference, which made plain the course of the times and the new thinking that has arisen among a people, we shall say that the claim that they are exceptionally intelligent is also absurd. Only an exceedingly low mentality and an exceedingly poor intellect could produce the audacity to say, “With the hand that holds grass, we shall wield a sword.” The Thoothukudi conference is a beautiful picture illustrating how ridiculous this “audacity”—this outlook combining ignorance and arrogance—is!
+
+## Part 6
+
+### Image 1: 001-2fe6671b39.png
+
+Thus the conference’s distinction does more than bring joy to Kazhagam members: it is a warning of danger to the dull-witted who imagine that the country will continue to accommodate their conceit. Only when one understands that the great gathering assembled there that day had renounced the kinds of “desires and attachments” in which parties usually become entangled—that is, political gambling and the hunt for office—can one understand the nature of the strength that has grown and what its consequences will be. The wearers of the three-stranded thread boast that they understand all the inner meaning of the Vedas; yet they still do not seem to have understood this truth alone. Had they understood it, *Bharata Devi* would not have spewed its old madness in its issue of the 11th, nor would another wearer of the three-stranded thread have babbled, “With the hand that holds grass, we shall wield a sword.” Their madness has not diminished because they still fail to understand the country’s present condition. Let the Thoothukudi conference, at least, bring them clarity.
+
+The great lesson we learned at the Salem conference was the principle that, if we become bound to vulgarities and engage in political gambling, our growing strength will scatter and disintegrate. The leader has made clear that the Kazhagam will continue on the same course. It is therefore clear that the Kazhagam will not be sacrificed to the political silkworms and grasshoppers that fly in to settle upon it when they see it flourishing green.
+
+Having cut away vulgarity and increased its enthusiasm, it has advanced from the condition of wondering whether anyone would attend a gathering to one in which people joyfully estimate, “The crowd will be a hundred thousand; it will be two hundred thousand.” It has escaped the accusation, “All this is for elections, office, titles and contracts,” and advanced to a position where it can be said, “This is to reshape society and bring about a revolution in the realm of knowledge.” Anyone who disregards this great strength can only be a mean-spirited person, incapable of discerning and explaining the direction of people’s minds. “All right;
