@@ -6,7 +6,7 @@
 |---|---:|---:|---:|---:|
 | english | 1 | 1 | 1 | 0 |
 | kadithangal | 275 | 8 | 8 | 267 |
-| katturaigal | 1388 | 546 | 546 | 842 |
+| katturaigal | 1388 | 547 | 547 | 841 |
 | kavithaigal | 77 | 77 | 77 | 0 |
 | Kurunavalgal | 25 | 0 | 0 | 25 |
 | nadagangal | 62 | 35 | 35 | 27 |
@@ -15,17 +15,17 @@
 | root | 5 | 5 | 5 | 0 |
 | sirukathaigal | 109 | 108 | 108 | 1 |
 | sorpozhivugal | 537 | 196 | 196 | 341 |
-| **All included sections** | **2511** | **1002** | **1002** | **1509** |
+| **All included sections** | **2511** | **1003** | **1003** | **1508** |
 
 ## OCR-Origin Translation Progress
 
 | Section | OCR target | Completed | Bilingual with source retained | Pending |
 |---|---:|---:|---:|---:|
-| katturaigal | 552 | 545 | 545 | 7 |
+| katturaigal | 552 | 546 | 546 | 6 |
 | nadagangal | 61 | 35 | 35 | 26 |
 | sirukathaigal | 108 | 108 | 108 | 0 |
 | sorpozhivugal | 241 | 196 | 196 | 45 |
-| **All OCR-origin sections** | **962** | **884** | **884** | **78** |
+| **All OCR-origin sections** | **962** | **885** | **885** | **77** |
 
 ## OCR Source Recovery Status
 
@@ -72,7 +72,6 @@ A blank image section has an explicit no-text marker or no OCR body after its im
 
 ### Manually Verified Recovery Holds
 
-- `katturaigal/latchiya_varalaru.md`: The complete 58-scan, six-part collection இலட்சிய வரலாறு is present but not translation-safe. Direct scan comparison corrected the printed title date from '29--6-]1947' to '29-6-1947', restored the opening 'நான்', and removed two mixed-script lines inserted on Part 5 Image 2 and Part 6 Image 6 plus a scan-absent final glyph. Recurring dropped letters, false Tamil numerals, broken words, altered names and figures and other non-lexical insertions remain from the opening through all six parts. Re-OCR all 58 scans and visually reconcile every title, date, section boundary, quotation, name, figure and page join before translation.
 - `katturaigal/nirubarin_nilai.md`: Printed pages 182-184 are absent after Image 8 (page 181); Image 9 is unrelated page 185 from an article on science, and Image 10 resumes only the final fragment of the reporter article. Recover the three missing pages and remove the misassigned scan before translation
 - `katturaigal/periyapuranaputhayal.md`: The complete 70-scan, seven-part collection பெரிய புராணப் புதையல் is present, including the locally stored ten-scan Part 5 for which the live pending report has no website link, but the OCR is not translation-safe. Direct scan comparison corrected the printed 1-7-1945 date, two list numbers on Part 2 Image 1, a village-word reading on Part 4 Image 3, the 12 1/2 இலட்சம் scientific figure, two ஐதீகம் readings and the numbered closing comparison; two ornament rows were restored and scan-absent trailing noise removed. Recurring dropped and substituted Tamil, false numerals, malformed quotations, names, citations and scientific figures remain throughout all seven parts. Re-OCR and visually reconcile all 70 scans before translation.
 - `katturaigal/romapuri_ranigal.md`: The complete 82-scan, eight-part collection ரோமாபுரி ராணிகள் is present but not translation-safe. Direct scan comparison restored the ஜூலியஸ் subtitle, a damaged opening word, three ornament transitions, the feminine ending in அக்ரிப்பானா மாண்டாள், the Part 6 opening quotation, two மதுரகீதம் readings, கீர்த்தியைத், ஜூலியானஸ் and the final ornament. Representative scans from every part show recurring dropped and substituted Tamil, false glyphs, malformed historical names, section transitions and quotations throughout the Roman biographical narrative. Re-OCR all 82 scans and visually reconcile every title, historical name, quotation, section heading, ornament and page join before translation.

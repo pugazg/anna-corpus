@@ -1,6 +1,6 @@
 # OCR-Origin Translation Handover
 
-Updated: 2026-09-06
+Updated: 2026-09-08
 
 ## Objective
 
@@ -8,17 +8,17 @@ Complete all 962 canonical OCR-origin works as bilingual Markdown documents:
 
 | Category | OCR target | Translated | Pending |
 |---|---:|---:|---:|
-| katturaigal | 552 | 545 | 7 |
+| katturaigal | 552 | 546 | 6 |
 | nadagangal | 61 | 35 | 26 |
 | sirukathaigal | 108 | 108 | 0 |
 | sorpozhivugal | 241 | 196 | 45 |
-| **Total** | **962** | **884** | **78** |
+| **Total** | **962** | **885** | **77** |
 
 The authoritative live pending list is:
 
 `translated_contents/_translation_state/ocr_pending_links.md`
 
-Its current split is 78 works needing OCR/source recovery and no works whose
+Its current split is 77 works needing OCR/source recovery and no works whose
 OCR source is currently safe enough for bilingual translation. Always
 regenerate the report after completing one work; do not rely on the numbers in
 this handover after work resumes.
@@ -33,6 +33,10 @@ this handover after work resumes.
   commits and pushes from this workspace without asking again.
 
 ## Most Recently Completed Work
+
+`katturaigal/latchiya_varalaru.md` (`இலட்சிய வரலாறு` / `History of an Ideal`) is complete: all six parts and 58 scans translated and comparatively reviewed. Tamil retention is exact; retained-body SHA-256: `19bed4883353f09abe79e4d295b0a7a311c8f16504f2c641bd9758d5114afb35`. Translator notes and difficult-term records preserve printed anomalies and uncertain interpretations separately. Recovery hold released; state refreshed to 885/962 OCR-origin works verified, 77 pending. The work is absent from the pending list. Audit: zero issues; all 15 tests pass.
+
+## Previous Recovery Completion
 
 `katturaigal/pazhaya_company.md` (`பழைய கம்பெனி!` / `The Old Company!`) is now complete. The five-paragraph newspaper article is translated in full, with its page/column boundary and recovered Tamil retained verbatim. User screenshots and RMRL viewer page 9 establish the source. The unrelated Roosevelt fragment remains preserved separately and incomplete; all old scans remain. First-column punctuation concerns and variant reprint readings are documented in translator notes. State refreshed: 884/962 OCR-origin works verified, 78 pending; this work is absent from the pending list. Audit: zero issues. All 15 tests pass after replacing the obsolete permanent-hold assertion with recovery and fragment-preservation checks. Retained-source SHA-256: `65914f946d741cffe9ac37f2b672eb5811cce693554da105ebf8ca2420a72b7b`.
 
@@ -56,18 +60,9 @@ this handover after work resumes.
 
 ## Next Work
 
-Begin full source recovery for `katturaigal/latchiya_varalaru.md`, the first work
-in the current OCR pending list. It has 58 scans across six parts. The earlier
-screening restored only bounded title/date and opening readings and removed
-scan-absent insertions. Every scan still requires reconciliation before
-translation. All six parts are fully reconciled (58/58).
-The English working draft now covers all six parts and all 58 scans. Next review the full draft and notes, build the complete canonical bilingual document, and pass the source-retention audit before refreshing state; see `translated_contents/_translation_state/working/latchiya_varalaru_translation_checkpoint.md`.
-The checkpoint is `translated_contents/_translation_state/working/latchiya_varalaru_recovery.md`.
-Do not translate from unreconciled OCR.
-Keep recovery and translation checkpoints in small batches and push them.
+Recover `katturaigal/nirubarin_nilai.md`, the first work in the refreshed OCR pending list. Printed pages 182–184 are missing after Image 8 (page 181); Image 9 is unrelated page 185, and Image 10 resumes the reporter article's final fragment. Preserve the unrelated scan and prior source as evidence; recover the missing pages before translation. Use RMRL for missing-source research as requested by the user.
 
-The current OCR-only total is **884/962 complete and verified, 78 pending**:
-7 katturaigal, 26 nadagangal, 0 sirukathaigal and 45 sorpozhivugal.
+Current OCR total: **885/962 complete and verified, 77 pending**: 6 katturaigal, 26 nadagangal, 0 sirukathaigal and 45 sorpozhivugal.
 
 ## Historical Kambarasam Recovery Chronology
 

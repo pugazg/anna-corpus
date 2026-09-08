@@ -1,12 +1,12 @@
-# இலட்சிய வரலாறு — English translation checkpoint
+# இலட்சிய வரலாறு — completion checkpoint
 
-- All 58 source scans visually reconciled; recovery checkpoint pushed as `5dd3545`.
-- Working English: `latchiya_varalaru_translation.md`.
-- Separate notes: `latchiya_varalaru_translation_notes.md`.
-- Complete through Part 6 Image 7 (58/58 scan sections); all six parts drafted.
-- Next: review the full draft and notes, build the complete canonical bilingual document, run the source-retention audit, and only then refresh translation state.
-- The final scan ends with the ideal’s assured triumph. All cross-page sentences are completed. Full-work comparative review is complete; canonical assembly and audit remain outstanding.
-- Corrected source file SHA-256 at translation start: `84d0e4b8f37ad6f5dac67b15c6dd110ef4de163b8445d989571c4e0eb439dcb2`.
-- Do not refresh state, release the recovery hold, or create a partial canonical bilingual file. Overall archive remains 884/962 verified, 78 pending.
-
-- Final comparative review is recorded in `latchiya_varalaru_final_review.md`: all six parts reviewed (58/58); next final notes, difficult-term records, canonical assembly and audit. Drafting remains complete at 58/58.
+- All six parts and 58 scans translated and comparatively reviewed.
+- Canonical bilingual file: `translated_contents/katturaigal/latchiya_varalaru.md`.
+- Complete English working draft, final notes and assembly input remain in this folder.
+- Corrected source file SHA-256: `84d0e4b8f37ad6f5dac67b15c6dd110ef4de163b8445d989571c4e0eb439dcb2`.
+- Retained Tamil body SHA-256: `19bed4883353f09abe79e4d295b0a7a311c8f16504f2c641bd9758d5114afb35`.
+- Exact Tamil and complete English inclusion verified; 58 scan headings in each language.
+- Recovery hold released; state refreshed; work absent from OCR pending list.
+- Archive audit: zero issues. All 15 test_*.py tests pass.
+- OCR-origin total: 885/962 verified, 77 pending.
+- Next work: recover missing pages of `katturaigal/nirubarin_nilai.md`.

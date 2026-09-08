@@ -609,7 +609,7 @@ Total source works: 1388
 - [குட்டு வெளிப்படுகிறது](kuttu_velippadugirathu.md) - pending
 - [லேபில் வேண்டாம்!](lable_vaendam.md) - pending
 - [இலட்சார்ச்சனை!](latcharchanai.md) - pending
-- [katturaigal/latchiya_varalaru](latchiya_varalaru.md) - pending
+- [katturaigal/latchiya_varalaru](latchiya_varalaru.md) - translated
 - [இலட்சிய வீரர்களுக்கு இரண்டு வாரம்!](latchiya_veerargalukku.md) - pending
 - [இலட்சிய வீரரின் ‘எரிமலை’ வெடித்தது!](latchiya_veerarin_erimalai.md) - pending
 - [katturaigal/lawrance](lawrance.md) - translated
