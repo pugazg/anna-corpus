@@ -411,3 +411,25 @@ was born in the Tamils. It was then that Periyar Ramasamy proclaimed: “Comrade
 Let us gather in the glory of Tamil rule!”
 
 So the poet said. Joy began to dance in the eyes of thousands upon thousands of young people. Elections, legislatures, ministries
+
+### Image 2: 002-6a35a0d7e5.png
+
+and the like appeared utterly ordinary in their eyes. Those who hankered after such things began to look like caricatures to the young people at Salem. Overcoming obstacles and difficulties, the young began to walk towards that ideal. Delighted to have found a new path, the Tamil realized that he must recover his country to protect his language and art. The battle cry he raised was: Tamil Nadu for the Tamils alone!
+
+**Those Who Sneered Encountered a ‘Volcano’**
+
+“Rat-holes for the rats alone,” said the clever men who thought they could destroy anything merely by ridicule! The people, however, began to repeat: Tamil Nadu for the Tamils alone. “It is true, is it not? Just, is it not? Necessary, is it not?” they said to one another, and went on thinking: what is Tamil Nadu like today? They saw everything permeated by Aryanism. They began to investigate how long this condition had existed, and learned that it dated from the day the Tamil made room for Aryanism. They examined the condition before that, and discovered that beautiful Dravidam had flourished in strength, protected by seas on three sides and the Vindhyas to the north. They saw that one part of Dravidam had become Andhra and another Kerala; that, though separated, these regions possessed a linguistic unity. They recalled ancient Dravidam and found that the word ‘Dravidam’ stood as the opposite of Aryanism, a sign of a culture entirely different from that called Aryan. They found history, geography and the study of people's mental characteristics supporting this truth! “Oh! We have found the truth!” they said. “Dravida Nadu for the Dravidians alone!” The ideal took its full form! Today, some who support that ideal but feel embarrassed to say “Dravida Nadu for the Dravidians alone” speak of provincial freedom or provincial autonomy. Others say: “Full rights for us—but must we not have an all-India connection?” It is not the twists and turns in their words that chiefly deserve
+
+### Image 3: 003-273523f939.png
+
+our attention; what matters is that they are moving towards the ideal.
+
+**His Delusion Cleared, Yet He Refused to Think!**
+
+The president of the Tamil Nadu Congress chose the time of our Dravidian Separation Day celebrations to say: “The programme that Dravida Nadu should become a separate country will only divide the country further.” In other words, our friend Kamaraj tells us what the consequence of our programme will be. He refuses to consider why it is needed—or perhaps he has thought about it, discovered the truth and is concealing it! How angry Kamaraj became with the high command when northern leaders interfered in our affairs! He should consider whether it is a crime for us to be angry when that same high command intervenes and establishes its dominance in internal affairs, art, civilization and, above all, economics. Amid his many difficulties it may be hard to find time; nevertheless, if he makes a little time to speak with our leader, he can learn why we demand that Dravida Nadu become a separate country. It would be appropriate for him to state his opinion afterwards. It is not the right method to consider a question by first imagining its consequences for oneself.
+
+The day on which we invite Kamaraj and others like him to consider this question and examine the reasons is 1 July.
+
+**Why Does ‘Self-Interest’ Appear in Separate Sovereignty?**
+
+The man who said that Dravidastan would split the country nevertheless approaches our ideal at the same time, knowingly or unknowingly! He has said: “Andhra, Kerala and Tamil Nadu must live together with the Indian federation as separate independent entities.” He says INDEPENDENT UNITS—units possessing rights of their own. Why did this desire arise? What is the reason for seeking separate rights? What is the difference between the present condition and the condition that would follow from obtaining those rights?
