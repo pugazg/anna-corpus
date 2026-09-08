@@ -708,3 +708,28 @@ This fundamental idea can no longer be defeated, nor can its growth be stopped. 
 > This is my country! Nature will make it a golden land! There must be no caste here! No cruelty of religion, no economic inequality! No exploitation by the North! We want rights! We want a new life!
 
 Into the ears of the Dravidian, who had listened in distress to the wind and the sea, came the fervour and solemn vow of a hundred thousand people! He walks the path of victory. That journey cannot be stopped; that victory cannot be spoiled. He has awakened and risen; he appears like a lion that has emerged from its cage. Those who boast that the wearers of the three-stranded thread possess an “eye of wisdom” need not even use that eye of wisdom,
+
+
+### Image 4: 004-79c4fc2b98.png
+
+for ordinary physical sight and average intelligence are enough to see the truth that cannot be concealed!
+
+**Last Will and Testament**
+
+This is the last will and testament that every comrade in the Dravidar Kazhagam must prepare. We have brought about the awakening of a fallen people; we have reached the stage at which we must secure liberation, whatever the price.
+
+Slashing and stabbing will now come swiftly in search of us; we shall have to move upon the swing suspended between life and death. That is the lesson taught us by the disturbance on the banks of the Vaigai last week. Varnashrama, knowing beyond doubt that our continued existence threatens its dominance, and knowing well that only if we die can it survive even a little longer, performed a horrific dance to kill us. It drank a little of our blood and tasted it. The signs of our growth are known not only to us but also to the Brahmana Seva Sangam. Their petition is the testimonial that Aryanism gives to our growth.
+
+“All that is well, but harm occurs in such a righteous struggle. Blood is being wasted,” some think. A word to them! They should reflect for a moment on the nature of the great undertaking we have assumed.
+
+We wish to reform arrangements said to have existed for age upon age. We are blasting the mountain of conceit. If small fragments fly down upon us and split our skulls, it means that the blast we set is splitting the mountain. Having undertaken to split the mountain,
+
+### Image 5: 005-9b05d38fd0.png
+
+we cannot expect flowers to fall upon our heads, can we? We have voluntarily committed ourselves to this work. The sufferings endured by those who set about comparable work in many parts of the world have now become university textbooks. The poison Socrates drank then has given him immortality to this day. We have joined the lineage of those who take accusation, humiliation, opposition and danger upon their heads, carry out their work and pass on, leaving later generations to enjoy its fruits. We shall certainly face hardship and obstruction, but our labour will never be in vain!
+
+Killed with deadly poison; consigned to dark prisons for their entire lives; stoned and driven away; crucified; made prey for leopards; strangled; thrown into fire; hacked to pieces; hounded out by their own countrymen; left without anyone to turn to—such will be the life histories of those who engaged in the work of social revolution. We belong to that kind. Today they have all become jewels of the intellectual world. Future generations will not forget us either.
+
+There were times when molten lead was poured into ears; when people were tied up and their houses set on fire; when they were thrown into wells and stones cast upon them; when eyes were gouged out; tongues severed; bodies impaled; heads cut off; and people thrown into burning coals. Those who spoke of reform suffered amid these things. Most did not simply die; they were killed. It is because they were killed that they live undying today. That is why we say that we must prepare our last wills and testaments and enter this great struggle.
+
+We who desire fundamental change in society may hold back, thinking, “Why should we undertake this work?” because we might be killed; even then, “death” will not take
