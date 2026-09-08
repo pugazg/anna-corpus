@@ -3,9 +3,9 @@
 - Full draft checkpoint: `8122e5e` (58/58 scans translated).
 - Ordered part/image pairs match the corrected source exactly: 58/58.
 - Corrected source SHA-256: `84d0e4b8f37ad6f5dac67b15c6dd110ef4de163b8445d989571c4e0eb439dcb2`.
-- Final comparative review completed: Parts 1–2 complete and Part 3 Images 1–7 (28/58).
+- Final comparative review completed: Parts 1–3 complete and Part 4 Image 1 (32/58).
 - Checked title and 29-6-1947 date, opening Periyar statement, 1925 and ten-year references, organization list, 13/10 ministers, over 90 percent voters, quotation attribution and cross-page joins. No source edits.
-- Review next: Part 3 Image 8. Later scans remain drafted, not yet marked finally reviewed.
+- Review next: Part 4 Image 2. Later scans remain drafted, not yet marked finally reviewed.
 - Do not release the source-recovery hold or refresh translation state until the complete canonical bilingual document is ready and audited.
 
 ## Scan inventory
@@ -42,3 +42,7 @@ Compared all four scans, including the adhesive and electoral-mushroom metaphors
 ## Part 3 Images 4–7
 
 Compared the full temple-entry debate, its rights-based resolution, conference speeches and attributions, Vedachalam tribute, Periyar rejuvenation metaphor and closing battle-sword catalogue. Verified the sixty-seven/forty-five contrast as metaphor, not a correction. Checked the next section’s headings, musical-pitch comparison, “small change” image and Natesa Mudaliar account. All page joins are complete or intentionally carried forward; the final sentence about praising the British continues onto Image 8. No omissions or new corrections found. Existing notes distinguish the temple-entry positions and explain the figurative targets of the sword passage. Tamil unchanged.
+
+## Part 3 Images 8–10 and Part 4 Image 1
+
+Compared all four scans, including Natesa Mudaliar’s death and legacy, the S. I. L. F./Justice/Dravidan names, named campaigners, the twenty-year political pursuit, cultural movements, anti-Hindi revival and Periyar’s seashore address. Checked the over-one-thousand prison figure, the two deaths, near-one-lakh crowd, quoted pallu couplet and all page/part joins. The changing terminology between Dravidian people, Dravidam and Tamil Nadu is preserved. Existing notes record the unusual printed cloud comparison and elliptical “It reached them” interpretation. No omissions or further text changes found; Tamil unchanged.
