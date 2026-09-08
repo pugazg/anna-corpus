@@ -3,9 +3,9 @@
 - Full draft checkpoint: `8122e5e` (58/58 scans translated).
 - Ordered part/image pairs match the corrected source exactly: 58/58.
 - Corrected source SHA-256: `84d0e4b8f37ad6f5dac67b15c6dd110ef4de163b8445d989571c4e0eb439dcb2`.
-- Final comparative review completed: all 11 scans of Part 1 and Part 2 Image 1 (12/58).
+- Final comparative review completed: all 11 scans of Part 1 and Part 2 Images 1–5 (16/58).
 - Checked title and 29-6-1947 date, opening Periyar statement, 1925 and ten-year references, organization list, 13/10 ministers, over 90 percent voters, quotation attribution and cross-page joins. No source edits.
-- Review next: Part 2 Image 2. Later scans remain drafted, not yet marked finally reviewed.
+- Review next: Part 2 Image 6. Later scans remain drafted, not yet marked finally reviewed.
 - Do not release the source-recovery hold or refresh translation state until the complete canonical bilingual document is ready and audited.
 
 ## Scan inventory
@@ -26,3 +26,7 @@ Compared the entire four-scan Tamil passage with the English draft. Checked all 
 ## Part 1 Images 9–11 and Part 2 Image 1
 
 Compared all four scans against the English, including the Salem organizational resolution, renunciation of titles and offices, the historical Tamil claims, Shelley quotation as given in Tamil, Pandian attribution, organizing appeal, and Periyar portrait. All prose and emphatic passages are present. Verified the Image 9/10, 10/11 and Part 1/2 sentence joins. The last paragraph continues onto Part 2 Image 2 and remains correctly unfinished at this boundary. Existing notes retain the uncertainty of printed வரு and distinguish the source quotation from any externally substituted Shelley wording. No Tamil changes or new biographical identifications.
+
+## Part 2 Images 2–5
+
+Compared the entire four-scan passage with the English. All fifteen numbered arguments are present in source order, including the British-administration sentence across Images 2–3 and the throat/strangulation sentence across Images 4–5. Checked figures 32, 56 and 574; the July 1 observance; the named emperors; the Ottoman/Turkey comparison; the colonial-region list including Dutch India; and the closing Pakistan statement. Historical assertions remain the author’s claims without correction or added substantiation. The concluding critique, woman/marriage comparison, and reasons/evidence/history/determination sequence are all retained. No source changes or translation omissions found in this batch.
