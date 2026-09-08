@@ -8,3 +8,5 @@
 - The final scan ends with the ideal’s assured triumph. All cross-page sentences are completed. Full-work review and canonical completion remain outstanding.
 - Corrected source file SHA-256 at translation start: `84d0e4b8f37ad6f5dac67b15c6dd110ef4de163b8445d989571c4e0eb439dcb2`.
 - Do not refresh state, release the recovery hold, or create a partial canonical bilingual file. Overall archive remains 884/962 verified, 78 pending.
+
+- Final comparative review is recorded in `latchiya_varalaru_final_review.md`: Part 1 Images 1–4 reviewed; next Part 1 Image 5. Drafting remains complete at 58/58.
