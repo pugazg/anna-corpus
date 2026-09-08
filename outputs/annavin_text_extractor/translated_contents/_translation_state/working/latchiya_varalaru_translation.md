@@ -539,3 +539,26 @@ They have no time to examine this characteristic of repression. That is why they
 Every autocrat in the world has hitherto regarded all who submit to his dominance as good children, and the others as insolent. The Tsar who turned Russia into a battlefield thought in just this way. So do the petty deities who hold trifling powers. They become irritated at the very mention of opposition; arrogance arises, demanding its destruction; and they become ready to employ any cruel, degrading method to destroy it. All these actions, which they regard as brave, are the acts of cowards. In truth, if someone thought that the opposition had no strength and would gain no support in the country, if he believed that his own influence would not diminish however much anyone opposed him, if he had the courage to feel that he could enable the people to understand the truth about him, he would not think of immediately pouncing upon opposition and beating it out of existence as soon as he encountered it.
 
 What befits the brave is to fight without regard for the dangers they face. The cowards’ policy is to tremble at the mere appearance of opposition, fearing, “What will become of us?” and to venture even upon wicked deeds. It is because the former have ultimately won and the latter have finally lost that some measure of justice and integrity, at least, survives in the world today.
+
+
+### Image 2: 002-85c8f4774c.png
+
+Revolution is a force in motion! No one can burn it out of existence. Revolution arises from the people’s strength to struggle. Revolution is an attribute of youth! The rationalist’s weapon. It is poison to lovers of antiquity, deceivers, autocrats and dictators. That is why such people take fright at the very word “revolution.” When a cyclone comes, even tall trees that have grown to great heights sway, rock, whirl, break at their base, fall and shatter. In the same way, how many autocrats, equipped with all the weapons of armies, treasuries, pride, deceit, arrogance and conceit, and boasting that none was their equal or superior, have stumbled, been battered and rolled to the ground, unable to withstand the force of revolution! That is why all who follow in their footsteps take fright at the mention of revolution. Their fright will not save them. A frightened man will commit many cruel deeds without hesitation. Yet nothing he does will keep him from being caught in the revolutionary storm. This is history.
+
+If autocrats obtain political power, they will use it to try to suppress revolution by law. If they possess military strength, they will shoot revolutionaries dead. If they have neither, and are like the rishis said to have existed in our country in those days, they will pronounce curses. Today Gandhi, regarded as belonging to that “lineage of rishis,” and his priests wield the rod called disciplinary action. Those who have nothing at all try to display their ingenuity in whatever way they can. Did they not think they could suppress opposition to Hindi? Did the priests of the Madurai temple not think that, if they locked the temple doors, hid the keys and went into hiding themselves, temple entry would come to a complete halt? Why are such clownish methods employed? Their mental panic is the reason. Such is the power of revolution.
+
+When the Self-Respect Movement was founded, introduced many new ideas and stirred up revolution,
+
+### Image 3: 003-9f12d76f1c.png
+
+how many people took fright! Were the antics they performed, the uproar they raised and the degrading methods they used because of that fright insignificant?
+
+Likewise, when the revolutionary song “Tamil Nadu for the Tamils” was sung, what people took fright! From the fellow who regarded clowning as a remedy for grievances to the Congress ministers who thought they could burn their opponents with the blaze of their anger, what things they said because of their panic! Revolution frightened their minds in all these ways.
+
+Campaigners and newspapers merely point out the opposition that has arisen against these men in the country; they do not manufacture that opposition themselves. What produces opposition is the consequences of the methods of government, these men’s conduct and speech, new laws and ever-new taxes. These stir up discontent, hatred and anger in the country, gathering and swelling into opposition. Newspapers and campaigns carry the sparks from that “flame” of opposition. Extinguishing the sparks does not amount to extinguishing the flame.
+
+They say that a passage in an Upanishad reads: “Hear the truth, child! Just as sparks fly in all four directions from a great fire blazing with flame…”
+
+There is no use in taking fright at the sparks and destroying them. The “flame” remains, to keep throwing out sparks—countless sparks!
+
+We therefore point out to those who govern that the actions of the panic-stricken will never suppress revolution.
