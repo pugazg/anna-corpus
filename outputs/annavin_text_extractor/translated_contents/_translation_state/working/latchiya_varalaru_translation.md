@@ -458,3 +458,32 @@ Bombay arrive here in greater quantities because they cannot go to Lahore and Vi
 The elation of victory is the chief reason for this perverse idea, but its root cause lies elsewhere.
 
 They believe they can govern only if everyone tolerates whatever mistakes they make and there is no one even to expose those mistakes; if many people, or even a few, have the opportunity to find fault,
+
+
+### Image 6: 006-5e5d1efbc9.png
+
+they fear that their “grip” will weaken. That fear is the root cause.
+
+This can damage the principle of republican government.
+
+The scholar Dr Krishnalal Seetharani has explained, with sound reasons, why this tendency must be avoided.
+
+A new situation has arisen in the country; he says that democracy will not grow if the old “attitude of worship” continues now. His comments are published below.
+
+**New Parties Are Needed**
+
+“At this time when we have attained freedom, we need more than one political party. Wherever a single party exercises dominance, democracy’s dwelling place is the grave. This will be a great test, for in the course of the long, arduous struggle we have waged, we have learned to distrust every party except Congress. But we must recognize that the reason for our devotion to Congress alone is that, until now, Congress has been a movement rather than a party. It functioned as a popular front; under its auspices, different currents of thought united to formulate a common ideal against foreign authority. That movement has now fulfilled its task of freeing India from foreign domination.
+
+“At this moment of attaining freedom, Congress becomes a party. Its character as a movement disappears. This situation makes it necessary to establish other parties with differing political and economic programmes.
+
+“Some of these new parties will arise from within Congress itself. Those parties will also admit people who have never given Congress their unswerving loyalty. Congress appears likely to split into a right wing and a left wing.
+
+### Image 7: 007-4af8927757.png
+
+“Nevertheless, it too will continue to exercise dominance for some time as a party of the centre.
+
+**Freedom of the Press**
+
+“At this time when we have gained freedom, we also need a free press. There is a difficult dilemma here. Some people will think that our newspapers will automatically become free at the very moment foreign repression is abolished. But they may behave independently under foreign rule; it is under our own rule that behaving in this way is difficult. By praising and supporting our heroes, who entered the struggle against the imperialists with various principles, our newspapers performed the service they owed the nation. This became a habit. Habits are hard to change. If our newspapers voluntarily begin to serve as publicity organizations for our heroes, they will fail in their respective democratic duties. In wartime it is indeed difficult to tolerate criticism of faults and shortcomings. But in peacetime it becomes a duty to point out faults and shortcomings with the intention of bringing about reform.
+
+“Only the press has the power to correct mischief—that is, autocracy. But it has that power only if it is free. Our editors must now behave toward our own leaders with as much courage as they displayed against the foreign ruling class. This may taste as bitter as neem fruit to some of our leaders, for until now their words have gone unchallenged. But it is the right of a democratic people to expect upright conduct from their leaders. No person possessed of the conceit ‘We are everything’ can be qualified to lead a democratic government.
