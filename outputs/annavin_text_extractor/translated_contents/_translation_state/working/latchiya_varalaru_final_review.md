@@ -3,9 +3,9 @@
 - Full draft checkpoint: `8122e5e` (58/58 scans translated).
 - Ordered part/image pairs match the corrected source exactly: 58/58.
 - Corrected source SHA-256: `84d0e4b8f37ad6f5dac67b15c6dd110ef4de163b8445d989571c4e0eb439dcb2`.
-- Final comparative review completed: Parts 1–2 complete and Part 3 Images 1–3 (24/58).
+- Final comparative review completed: Parts 1–2 complete and Part 3 Images 1–7 (28/58).
 - Checked title and 29-6-1947 date, opening Periyar statement, 1925 and ten-year references, organization list, 13/10 ministers, over 90 percent voters, quotation attribution and cross-page joins. No source edits.
-- Review next: Part 3 Image 4. Later scans remain drafted, not yet marked finally reviewed.
+- Review next: Part 3 Image 8. Later scans remain drafted, not yet marked finally reviewed.
 - Do not release the source-recovery hold or refresh translation state until the complete canonical bilingual document is ready and audited.
 
 ## Scan inventory
@@ -38,3 +38,7 @@ Compared the complete conference contrast, conditions and attendance, criticisms
 ## Part 2 Image 10 and Part 3 Images 1–3
 
 Compared all four scans, including the adhesive and electoral-mushroom metaphors, Battle Sword audience, Panagal and Periyar quotations, anti-Hindi recollection, extended “in these days” sequence, wartime electoral analogy and black-shirt explanation. All cross-part and cross-page joins are present. Clarified the English subject of the exclusive-proprietary-right sentence: the League is to prove that Congress has no such right. Retained the source’s historical assertions and unusual Western/Eastern governments wording rather than correcting them from outside knowledge. The black-shirt explanation and its distinction from opponents’ fascism accusation remain attributed as printed. No Tamil changes.
+
+## Part 3 Images 4–7
+
+Compared the full temple-entry debate, its rights-based resolution, conference speeches and attributions, Vedachalam tribute, Periyar rejuvenation metaphor and closing battle-sword catalogue. Verified the sixty-seven/forty-five contrast as metaphor, not a correction. Checked the next section’s headings, musical-pitch comparison, “small change” image and Natesa Mudaliar account. All page joins are complete or intentionally carried forward; the final sentence about praising the British continues onto Image 8. No omissions or new corrections found. Existing notes distinguish the temple-entry positions and explain the figurative targets of the sword passage. Tamil unchanged.
