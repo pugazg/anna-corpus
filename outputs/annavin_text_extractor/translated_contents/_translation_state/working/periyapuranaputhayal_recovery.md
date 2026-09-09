@@ -2,9 +2,9 @@
 
 Canonical file: katturaigal/periyapuranaputhayal.md. Seven parts, 70 scans; no partial bilingual assembly or state refresh.
 
-Coverage: Part 1 Images 1–11 and Part 2 Images 1–10 and Part 3 Images 1–6 compared visually (27/70 scans; one printer-footer concern remains open). Title/date confirmed; opening prose repaired only where scan-proven. Corrections recorded in ocr_concerns.csv. Printed historical spellings and unusual wording retained.
+Coverage: Part 1 Images 1–11 and Part 2 Images 1–10 and Part 3 Images 1–8 compared visually (29/70 scans; one printer-footer concern remains open). Title/date confirmed; opening prose repaired only where scan-proven. Corrections recorded in ocr_concerns.csv. Printed historical spellings and unusual wording retained.
 
-Next: Part 3 Image 7, 007-8551e45311.png, beginning திருவிழாக்கள் நடத்தி. It continues Image 6’s உனக்குத். Continue through every scan before translation. Part 5 local scans exist despite absent link in pending report; use RMRL if any missing or unreadable evidence is encountered.
+Next: Part 3 Image 9, 009-894b4450ab.png, beginning பூரிப்படைவேன். It continues Image 8’s கண்டா. Continue through every scan before translation. Part 5 local scans exist despite absent link in pending report; use RMRL if any missing or unreadable evidence is encountered.
 
 Images 3–4: inoculation comparison, reformers’ paths, coconut-tree thief analogy and the five-eyed bogeyman discussion fully reconciled. All correction groups logged; printed unusual forms retained.
 
@@ -29,3 +29,5 @@ Part 3 Images 1–2: police-rescue conclusion and newspaper-source note fully co
 Part 3 Images 3–4: Veeran dialogue and Cassino sacrifice passage fully compared. Printed names, rank and historical assertions retained; no context-based factual revisions.
 
 Part 3 Images 5–6: resumed divine dialogue and refugees’ lament fully compared. Scan-proven errors logged; unusual wording preserved.
+
+Part 3 Images 7–8: wartime suffering and worship dialogue fully compared. Image 8 text matches the scan, including unusual printed expressions; Image 7 corrections logged.
