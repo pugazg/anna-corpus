@@ -2,9 +2,9 @@
 
 Canonical file: katturaigal/periyapuranaputhayal.md. Seven parts, 70 scans; no partial bilingual assembly or state refresh.
 
-Coverage: Part 1 Images 1–11 and Part 2 Images 1–10 compared visually (21/70 scans; one printer-footer concern remains open). Title/date confirmed; opening prose repaired only where scan-proven. Corrections recorded in ocr_concerns.csv. Printed historical spellings and unusual wording retained.
+Coverage: Part 1 Images 1–11 and Part 2 Images 1–10 and Part 3 Images 1–2 compared visually (23/70 scans; one printer-footer concern remains open). Title/date confirmed; opening prose repaired only where scan-proven. Corrections recorded in ocr_concerns.csv. Printed historical spellings and unusual wording retained.
 
-Next: Part 3 Image 1, 001-a5e19231ca.png, beginning மீட்க அரும்பாடுபடலானார். It continues Part 2 Image 10’s என்னைச் சிறை. Continue through every scan before translation. Part 5 local scans exist despite absent link in pending report; use RMRL if any missing or unreadable evidence is encountered.
+Next: Part 3 Image 3, 003-5b282b9737.png, beginning பார். It continues Image 2’s திரும்பிப். Continue through every scan before translation. Part 5 local scans exist despite absent link in pending report; use RMRL if any missing or unreadable evidence is encountered.
 
 Images 3–4: inoculation comparison, reformers’ paths, coconut-tree thief analogy and the five-eyed bogeyman discussion fully reconciled. All correction groups logged; printed unusual forms retained.
 
@@ -23,3 +23,5 @@ Part 2 Images 5–6: Karuppannasami’s confinement dialogue fully compared. Cor
 Part 2 Images 7–8: festival procession and competing devotees’ dialogue fully compared. Restored scan-supported punctuation and readings; colloquial forms and name variants preserved.
 
 Part 2 Images 9–10: confinement and villagers’ dialogue fully compared. Part 2 prose review complete; Image 1 printer-footer concern remains open.
+
+Part 3 Images 1–2: police-rescue conclusion and newspaper-source note fully compared. Restored printed 51 ஆகஸ்டு 22ல்; no independent verification of that newspaper issue claimed. New dialogue begins at the four-star divider.
