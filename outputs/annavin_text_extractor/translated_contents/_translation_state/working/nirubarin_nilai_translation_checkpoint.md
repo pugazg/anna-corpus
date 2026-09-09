@@ -1,6 +1,6 @@
 # Translation checkpoint
 
-Status: English complete through Image 6 (printed page 179). Continue at Image 7, என்று கூவினர். Preserve the sentence running across that boundary.
+Status: English complete through Image 8 (printed page 181). Continue with the recovered RMRL passage, நான்தான். Preserve the sentence running across that boundary.
 
 The recovered source gap was visually checked against newspaper page 6 centre/right columns; the question/answer join and ரிபோர்ட் / தயாரித்ததையும் join are intact. Printed source anomalies remain separately documented. No canonical bilingual file or state refresh yet.
 
