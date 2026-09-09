@@ -25,3 +25,5 @@ Next: compare archive Images 1–8 and 10 against the newspaper, transcribe the 
 ## Reconciliation checkpoint — 2026-09-09
 
 Archive Images 1–2 (printed pages 174–175) have been fully compared visually and corrected in the canonical OCR source. Reading order, English parentheticals, the report dateline and mangled prose are restored; every correction group is recorded in ocr_concerns.csv. The duplicated instruction sentence on p175 is printed twice and remains twice. Original source remains preserved in this folder. Continue at Image 3 (printed p176). Images 3–8 and 10 and the missing newspaper passage are not yet reconciled; no translation or state refresh yet.
+
+Archive Images 3–4 (printed pages 176–177) reconciled next. Restored omitted phrases and names; retained the printed four/five-item mismatch, honorific variation and 1991 pann count. Continue at Image 5. The missing-page recovery and remaining scans are still pending.
