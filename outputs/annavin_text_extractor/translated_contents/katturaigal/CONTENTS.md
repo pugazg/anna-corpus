@@ -813,7 +813,7 @@ Total source works: 1388
 - [நிகோலாஸ் தீர்ப்பு!](nicholas_theerpu.md) - pending
 - [katturaigal/ninaivil_nilaithar](ninaivil_nilaithar.md) - translated
 - [katturaigal/ninaivu_nilai](ninaivu_nilai.md) - translated
-- [katturaigal/nirubarin_nilai](nirubarin_nilai.md) - pending
+- [katturaigal/nirubarin_nilai](nirubarin_nilai.md) - translated
 - ["NO MONEY ON TREES"](no_money_on_trees.md) - pending
 - [நானிலம் போற்றிடும் நவம்பர் 7 எனும் நன்னாள் இன்று!](november_7.md) - pending
 - [katturaigal/noyaligal](noyaligal.md) - translated

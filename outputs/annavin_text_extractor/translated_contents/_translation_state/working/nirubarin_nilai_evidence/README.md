@@ -35,3 +35,7 @@ Archive Images 7–8 (printed pages 180–181) reconciled. The missing passage b
 ## Gap recovery — 2026-09-09
 
 The missing dialogue is transcribed from RMRL p6 centre/right columns and inserted into the corrected source, preserving newspaper column boundary and colloquial wording. Image 10 ending reconciled, including 2.1.44 and காண்பது அரிது. Unrelated Image 9 original OCR preserved separately; its original scan remains untouched. `recovered_passage_transcription.md` records the inserted passage. Next perform a final comparative review of the recovered passage and complete-source continuity, then begin full English translation. Hold remains until canonical bilingual completion; counts unchanged.
+
+## Completion
+
+Canonical bilingual document complete, with exact Tamil retention and full English comparative review. Recovery hold released; audit zero issues, all 15 tests pass, pending list no longer includes this work. Earlier incomplete-status entries above are historical checkpoints.

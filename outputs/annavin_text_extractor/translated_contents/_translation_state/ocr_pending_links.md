@@ -2,22 +2,20 @@
 
 This report covers only canonical OCR-origin works that do not yet have a bilingual translation file.
 
-- Total pending: **77**
-- OCR/source recovery pending: **77**
+- Total pending: **76**
+- OCR/source recovery pending: **76**
 - OCR translation pending: **0**
 
 ## Category Summary
 
 | Category | Pending |
 |---|---:|
-| katturaigal | 6 |
+| katturaigal | 5 |
 | nadagangal | 26 |
 | sorpozhivugal | 45 |
 
 ## OCR/source recovery pending
 
-- `katturaigal/nirubarin_nilai.md`: [website 1](http://www.annavinpadaippugal.info/katturaigal/nirubarin_nilai.htm) | [OCR Markdown](https://github.com/pugazg/anna-corpus/blob/main/outputs/annavin_text_extractor/ocr_text_corrected/katturaigal/nirubarin_nilai.md)
-  - Reason: Printed pages 182-184 are absent after Image 8 (page 181); Image 9 is unrelated page 185 from an article on science, and Image 10 resumes only the final fragment of the reporter article. Recover the three missing pages and remove the misassigned scan before translation
 - `katturaigal/periyapuranaputhayal.md`: [website 1](http://www.annavinpadaippugal.info/katturaigal/periyapuranaputhayal_1.htm), [website 2](http://www.annavinpadaippugal.info/katturaigal/periyapuranaputhayal_2.htm), [website 3](http://www.annavinpadaippugal.info/katturaigal/periyapuranaputhayal_3.htm), [website 4](http://www.annavinpadaippugal.info/katturaigal/periyapuranaputhayal_4.htm), [website 5](http://www.annavinpadaippugal.info/katturaigal/periyapuranaputhayal_6.htm), [website 6](http://www.annavinpadaippugal.info/katturaigal/periyapuranaputhayal_7.htm) | [OCR Markdown](https://github.com/pugazg/anna-corpus/blob/main/outputs/annavin_text_extractor/ocr_text_corrected/katturaigal/periyapuranaputhayal.md)
   - Reason: The complete 70-scan, seven-part collection பெரிய புராணப் புதையல் is present, including the locally stored ten-scan Part 5 for which the live pending report has no website link, but the OCR is not translation-safe. Direct scan comparison corrected the printed 1-7-1945 date, two list numbers on Part 2 Image 1, a village-word reading on Part 4 Image 3, the 12 1/2 இலட்சம் scientific figure, two ஐதீகம் readings and the numbered closing comparison; two ornament rows were restored and scan-absent trailing noise removed. Recurring dropped and substituted Tamil, false numerals, malformed quotations, names, citations and scientific figures remain throughout all seven parts. Re-OCR and visually reconcile all 70 scans before translation.
 - `katturaigal/romapuri_ranigal.md`: [website 1](http://www.annavinpadaippugal.info/katturaigal/romapuri_ranigal_1.htm), [website 2](http://www.annavinpadaippugal.info/katturaigal/romapuri_ranigal_2.htm), [website 3](http://www.annavinpadaippugal.info/katturaigal/romapuri_ranigal_3.htm), [website 4](http://www.annavinpadaippugal.info/katturaigal/romapuri_ranigal_4.htm), [website 5](http://www.annavinpadaippugal.info/katturaigal/romapuri_ranigal_5.htm), [website 6](http://www.annavinpadaippugal.info/katturaigal/romapuri_ranigal_6.htm), [website 7](http://www.annavinpadaippugal.info/katturaigal/romapuri_ranigal_7.htm), [website 8](http://www.annavinpadaippugal.info/katturaigal/romapuri_ranigal_8.htm) | [OCR Markdown](https://github.com/pugazg/anna-corpus/blob/main/outputs/annavin_text_extractor/ocr_text_corrected/katturaigal/romapuri_ranigal.md)

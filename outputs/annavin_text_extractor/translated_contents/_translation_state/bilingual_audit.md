@@ -6,7 +6,7 @@
 |---|---:|---:|---:|---:|
 | english | 1 | 1 | 1 | 0 |
 | kadithangal | 275 | 8 | 8 | 267 |
-| katturaigal | 1388 | 547 | 547 | 841 |
+| katturaigal | 1388 | 548 | 548 | 840 |
 | kavithaigal | 77 | 77 | 77 | 0 |
 | Kurunavalgal | 25 | 0 | 0 | 25 |
 | nadagangal | 62 | 35 | 35 | 27 |
@@ -15,17 +15,17 @@
 | root | 5 | 5 | 5 | 0 |
 | sirukathaigal | 109 | 108 | 108 | 1 |
 | sorpozhivugal | 537 | 196 | 196 | 341 |
-| **All included sections** | **2511** | **1003** | **1003** | **1508** |
+| **All included sections** | **2511** | **1004** | **1004** | **1507** |
 
 ## OCR-Origin Translation Progress
 
 | Section | OCR target | Completed | Bilingual with source retained | Pending |
 |---|---:|---:|---:|---:|
-| katturaigal | 552 | 546 | 546 | 6 |
+| katturaigal | 552 | 547 | 547 | 5 |
 | nadagangal | 61 | 35 | 35 | 26 |
 | sirukathaigal | 108 | 108 | 108 | 0 |
 | sorpozhivugal | 241 | 196 | 196 | 45 |
-| **All OCR-origin sections** | **962** | **885** | **885** | **77** |
+| **All OCR-origin sections** | **962** | **886** | **886** | **76** |
 
 ## OCR Source Recovery Status
 
@@ -72,7 +72,6 @@ A blank image section has an explicit no-text marker or no OCR body after its im
 
 ### Manually Verified Recovery Holds
 
-- `katturaigal/nirubarin_nilai.md`: Printed pages 182-184 are absent after Image 8 (page 181); Image 9 is unrelated page 185 from an article on science, and Image 10 resumes only the final fragment of the reporter article. Recover the three missing pages and remove the misassigned scan before translation
 - `katturaigal/periyapuranaputhayal.md`: The complete 70-scan, seven-part collection பெரிய புராணப் புதையல் is present, including the locally stored ten-scan Part 5 for which the live pending report has no website link, but the OCR is not translation-safe. Direct scan comparison corrected the printed 1-7-1945 date, two list numbers on Part 2 Image 1, a village-word reading on Part 4 Image 3, the 12 1/2 இலட்சம் scientific figure, two ஐதீகம் readings and the numbered closing comparison; two ornament rows were restored and scan-absent trailing noise removed. Recurring dropped and substituted Tamil, false numerals, malformed quotations, names, citations and scientific figures remain throughout all seven parts. Re-OCR and visually reconcile all 70 scans before translation.
 - `katturaigal/romapuri_ranigal.md`: The complete 82-scan, eight-part collection ரோமாபுரி ராணிகள் is present but not translation-safe. Direct scan comparison restored the ஜூலியஸ் subtitle, a damaged opening word, three ornament transitions, the feminine ending in அக்ரிப்பானா மாண்டாள், the Part 6 opening quotation, two மதுரகீதம் readings, கீர்த்தியைத், ஜூலியானஸ் and the final ornament. Representative scans from every part show recurring dropped and substituted Tamil, false glyphs, malformed historical names, section transitions and quotations throughout the Roman biographical narrative. Re-OCR all 82 scans and visually reconcile every title, historical name, quotation, section heading, ornament and page join before translation.
 - `katturaigal/ulaga_periyar.md`: The complete 45-scan, two-part 8 February 1948 memorial collection உலகப் பெரியார் காந்தி is present but not translation-safe. The chronological table on Part 1 Images 2-6 has dozens of destroyed year labels and mixed-script insertions, including an entire malformed block on Image 3. Direct scan comparison corrected the printed title date, the 31 January cremation date and time, three funeral-procession figures, two malformed Tamil readings on Part 2 Image 4, and removed scan-absent garbage after the conclusion. Recurring dropped letters, substitutions, false punctuation and broken names and figures continue across both parts. Re-OCR all 45 scans and visually reconcile the complete chronology and prose before translation.

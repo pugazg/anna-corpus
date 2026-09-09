@@ -8,17 +8,17 @@ Complete all 962 canonical OCR-origin works as bilingual Markdown documents:
 
 | Category | OCR target | Translated | Pending |
 |---|---:|---:|---:|
-| katturaigal | 552 | 546 | 6 |
+| katturaigal | 552 | 547 | 5 |
 | nadagangal | 61 | 35 | 26 |
 | sirukathaigal | 108 | 108 | 0 |
 | sorpozhivugal | 241 | 196 | 45 |
-| **Total** | **962** | **885** | **77** |
+| **Total** | **962** | **886** | **76** |
 
 The authoritative live pending list is:
 
 `translated_contents/_translation_state/ocr_pending_links.md`
 
-Its current split is 77 works needing OCR/source recovery and no works whose
+Its current split is 76 works needing OCR/source recovery and no works whose
 OCR source is currently safe enough for bilingual translation. Always
 regenerate the report after completing one work; do not rely on the numbers in
 this handover after work resumes.
@@ -60,9 +60,11 @@ this handover after work resumes.
 
 ## Next Work
 
-Recover `katturaigal/nirubarin_nilai.md`, the first work in the refreshed OCR pending list. Printed pages 182–184 are missing after Image 8 (page 181); Image 9 is unrelated page 185, and Image 10 resumes the reporter article's final fragment. Preserve the unrelated scan and prior source as evidence; recover the missing pages before translation. Use RMRL for missing-source research as requested by the user. The matching newspaper witness is now preserved in `translated_contents/_translation_state/working/nirubarin_nilai_evidence/`: RMRL issue `116305_19440102_002_042`, printed pages 1–3, 5 (lower third column), and 6. The printed date is 2 January 1944; the archive OCR misreads January as July. Read the evidence README and reconcile all surviving scans plus the missing passage before translation. Archive Images 1–8 (printed pages 174–181) are now fully reconciled with correction records. The missing passage is now transcribed from RMRL page 6 centre/right columns and inserted; Image 10 is reconciled, and unrelated Image 9 OCR preserved separately. Recovered-passage joins reviewed; Full English draft is complete through the recovered passage and Image 10. Next perform full comparative review and canonical bilingual assembly using `working/nirubarin_nilai_translation.md` and its separate notes/checkpoint files. The printed duplicated sentence on page 175 remains duplicated. Pending counts remain unchanged.
+Continue source recovery with `katturaigal/periyapuranaputhayal.md` (பெரிய புராணப் புதையல்), the first remaining OCR-origin work. All seven parts and 70 scans are locally present; the pending report lacks a live link for Part 5 but its ten scans exist. Reconcile all scans before translation, starting Part 1 Image 1. Use RMRL for missing or unreadable evidence as requested.
 
-Current OCR total: **885/962 complete and verified, 77 pending**: 6 katturaigal, 26 nadagangal, 0 sirukathaigal and 45 sorpozhivugal.
+`katturaigal/nirubarin_nilai.md` (நிருபரின் நிலைமை / The Reporter's Predicament) is complete. Nine retained archive scans plus the missing dialogue recovered from RMRL 2 January 1944 page 6 are fully translated and comparatively reviewed. Unrelated Image 9 and original mixed OCR remain preserved separately. Exact retained Tamil SHA-256: `4c87934de6e7cb70f548286f5d45f23a676b56eb7fc4144a6de2db09f134d130`. Hold released, state refreshed, absent from pending list; audit zero issues and all 15 tests pass. The recovery-hold test now checks current inventory entries rather than permanently requiring this completed work.
+
+Current OCR total: **886/962 complete and verified, 76 pending**: 5 katturaigal, 26 nadagangal, 0 sirukathaigal and 45 sorpozhivugal.
 
 ## Historical Kambarasam Recovery Chronology
 

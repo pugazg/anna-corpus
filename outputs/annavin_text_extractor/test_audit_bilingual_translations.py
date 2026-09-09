@@ -2,6 +2,7 @@
 """Focused tests for OCR completeness detection in the bilingual audit."""
 
 import unittest
+import csv
 import subprocess
 import importlib.util
 from pathlib import Path
@@ -53,7 +54,12 @@ Recovered text
         subprocess.run(["python3", str(MODULE_PATH)], check=True, capture_output=True, text=True)
         report = MODULE.REPORT.read_text(encoding="utf-8")
         self.assertIn("### Manually Verified Recovery Holds", report)
-        self.assertIn("`katturaigal/nirubarin_nilai.md`", report)
+        holds_path = MODULE_PATH.parent / "translated_contents/_translation_state/needs_source_recovery.csv"
+        with holds_path.open(encoding="utf-8", newline="") as handle:
+            holds = list(csv.DictReader(handle))
+        for hold in holds:
+            with self.subTest(source_file=hold["file"]):
+                self.assertIn(f"`{hold['file']}`", report)
 
 
 if __name__ == "__main__":
