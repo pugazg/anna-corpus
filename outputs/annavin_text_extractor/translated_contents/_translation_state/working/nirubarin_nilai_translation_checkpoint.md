@@ -1,6 +1,6 @@
 # Translation checkpoint
 
-Status: English complete through Image 8 (printed page 181). Continue with the recovered RMRL passage, நான்தான். Preserve the sentence running across that boundary.
+Status: Full English draft complete through the recovered RMRL passage and Image 10 ending. Next compare the entire English draft against the corrected Tamil, polish final notes, assemble the canonical bilingual document, audit, refresh state, run all tests and commit/push.
 
 The recovered source gap was visually checked against newspaper page 6 centre/right columns; the question/answer join and ரிபோர்ட் / தயாரித்ததையும் join are intact. Printed source anomalies remain separately documented. No canonical bilingual file or state refresh yet.
 

@@ -84,3 +84,39 @@ The reporter had laboriously written and submitted the foregoing account of what
 “Who wrote the Tamil music conference report?!”
 
 181
+
+### Recovered passage: RMRL 2 January 1944, page 6, centre column
+
+“I did.”
+
+“No.”
+
+“Sir, don't you even recognize my handwriting? I wrote it, sir.”
+
+“The handwriting may be yours, but the thought belongs to someone else, not to you.”
+
+“What is this, sir? I wrote what occurred to me.”
+
+“Idiot! You listened to those speeches and wrote this in the same vein. You know our paper's policy, don't you? Shouldn't you write accordingly?”
+
+“The policy? Of course I know it. We must condemn this Non-Brahmin crowd. That's our policy—I know.”
+
+“And knowing it, you wrote like this?”
+
+“But this isn't the Non-Brahmin party. Our Rajaji was there too, wasn't he?”
+
+“Rajaji will be there. We shall go on opposing this Tamil music. Rajaji is there precisely to prevent the accusation that all Brahmins oppose Tamil music, understand? Unless we put a brake on this Tamil music at the very outset, they won't stop at changing the language. They will change the ideas too, and make music itself useless to
+
+#### RMRL page 6 — right column
+
+religion. So we must certainly condemn it. I'm going to write an editorial denouncing this. Take this report away, revise it to suit the editorial I'm going to write, and bring it back shortened. Very short will do. Raja Sir's speech can have a quarter of a column, Rajaji's three quarters or a whole column. Put all the others' speeches under ‘Mr So-and-so also spoke.’ Go.”
+
+Following the editor's orders, the reporter rewrote the proceedings of the Tamil music conference in an altered form, and that was what appeared in the newspaper. The editor wrote a leading article with questions such as “Communalism even in music?” and “Should music be ruined?”, and alarmist pronouncements such as “We are compelled to think that the hour of destruction has come for Carnatic music itself.” The readers knew neither what had actually happened nor what the reporter thought, nor the long, truthful account he had originally written!
+
+The Hindu, Mithran, Bharata Devi and others attack Tamil music. Comrades will be eager to ask in which of these newspaper offices this dialogue between reporter and editor, this slaughter of truth and birth of falsehood and fabrication, took place, and to know the answer. But beyond saying that in one town, at one newspaper, a conversation such as I have depicted above took place between its editor and reporter, I can say nothing more. That reporter gave me the account he had first prepared, told me of his quarrel with the editor, and described how he had
+
+### Image 10: 010-edd982eaea.png
+
+prepared a fresh, fabricated report. He told me this sorrowfully and asked, “Only don't reveal my name; I shall lose my job.” If he really did lose his job, do Tamils have even a daily newspaper to support him? No! Rather than being eager to discover who that reporter is, I ask you to regard all this as my imagination. One thing alone is certain. Any newspaper wishing to publish a truthful account of the Tamil music conference could only produce something like the reporter's account I have described. But because Tamils have no daily newspaper, it has become “difficult to discern the truth of anything, whoever one may hear it from”!
+
+(2 January 1944, Dravida Nadu)
