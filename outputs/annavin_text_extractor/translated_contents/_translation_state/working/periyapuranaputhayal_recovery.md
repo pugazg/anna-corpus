@@ -2,9 +2,9 @@
 
 Canonical file: katturaigal/periyapuranaputhayal.md. Seven parts, 70 scans; no partial bilingual assembly or state refresh.
 
-Coverage: Part 1 Images 1–11 and Part 2 Images 1–10 and Part 3 Images 1–10 compared visually (31/70 scans; one printer-footer concern remains open). Title/date confirmed; opening prose repaired only where scan-proven. Corrections recorded in ocr_concerns.csv. Printed historical spellings and unusual wording retained.
+Coverage: Part 1 Images 1–11 and Part 2 Images 1–10 and Part 3 Images 1–10 and Part 4 Images 1–2 compared visually (33/70 scans; one printer-footer concern remains open). Title/date confirmed; opening prose repaired only where scan-proven. Corrections recorded in ocr_concerns.csv. Printed historical spellings and unusual wording retained.
 
-Next: Part 4 Image 1, 001-8312480c3f.png, beginning பரதா! கூறினது மட்டுமல்ல. Continue through every scan before translation. Part 5 local scans exist despite absent link in pending report; use RMRL if any missing or unreadable evidence is encountered.
+Next: Part 4 Image 3, 003-92c80ea9e1.png, beginning அத்தந்த மதவாதிகள் (unreconciled OCR). Continue through every scan before translation. Part 5 local scans exist despite absent link in pending report; use RMRL if any missing or unreadable evidence is encountered.
 
 Images 3–4: inoculation comparison, reformers’ paths, coconut-tree thief analogy and the five-eyed bogeyman discussion fully reconciled. All correction groups logged; printed unusual forms retained.
 
@@ -33,3 +33,5 @@ Part 3 Images 5–6: resumed divine dialogue and refugees’ lament fully compar
 Part 3 Images 7–8: wartime suffering and worship dialogue fully compared. Image 8 text matches the scan, including unusual printed expressions; Image 7 corrections logged.
 
 Part 3 Images 9–10: worship dialogue and dream conclusion fully compared. Part 3 source review complete; all source concerns remain separately logged.
+
+Part 4 Images 1–2: dream-publication discussion and natural/miraculous examples fully compared. Restored omitted ஆறு and clear OCR errors; printed anomalies logged.
