@@ -21,3 +21,7 @@ Next: compare archive Images 1–8 and 10 against the newspaper, transcribe the 
 - `rmrl_19440102_page_03.png`: `575fb4f5bf9aaa0c04bea515fed6fc000c17bede1fd95f019c7ec0a94292a5f3`
 - `rmrl_19440102_page_05.png`: `cd97879480501247bfe766dc40df306a51ea891c58b8aa82569f511baed1e796`
 - `rmrl_19440102_page_06.png`: `c85ac41ddfbc0fbd825d9bba027f8b7a8d140c8b68a2782aa7596eec97b746ee`
+
+## Reconciliation checkpoint — 2026-09-09
+
+Archive Images 1–2 (printed pages 174–175) have been fully compared visually and corrected in the canonical OCR source. Reading order, English parentheticals, the report dateline and mangled prose are restored; every correction group is recorded in ocr_concerns.csv. The duplicated instruction sentence on p175 is printed twice and remains twice. Original source remains preserved in this folder. Continue at Image 3 (printed p176). Images 3–8 and 10 and the missing newspaper passage are not yet reconciled; no translation or state refresh yet.
