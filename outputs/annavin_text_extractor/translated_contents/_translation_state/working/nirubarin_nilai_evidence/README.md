@@ -29,3 +29,5 @@ Archive Images 1–2 (printed pages 174–175) have been fully compared visually
 Archive Images 3–4 (printed pages 176–177) reconciled next. Restored omitted phrases and names; retained the printed four/five-item mismatch, honorific variation and 1991 pann count. Continue at Image 5. The missing-page recovery and remaining scans are still pending.
 
 Archive Images 5–6 (printed pages 178–179) reconciled. Image 6 had interleaved columns; the complete Shanmugam speech now precedes the gramophone analogy. Printed காத்திருப்பவர் and முடிம் on p178 are retained as source anomalies. Continue at Image 7; source recovery remains incomplete.
+
+Archive Images 7–8 (printed pages 180–181) reconciled. The missing passage begins immediately after “தமிழிசை மாநாட்டு ரிபோர்ட் யார் எழுதியது?!” and must continue with the reporter’s answer on RMRL page 6, centre column. Restore through the words immediately preceding archive Image 10’s தயாரித்ததையும். Preserve Image 9’s unrelated science text separately before removing it from the canonical reporter article. No state refresh yet.
