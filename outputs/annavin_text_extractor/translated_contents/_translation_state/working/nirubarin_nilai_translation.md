@@ -1,0 +1,26 @@
+# The Reporter's Predicament
+Tamil title: நிருபரின் நிலைமை
+
+### Image 1: 001-b96ad0cf7f.png
+
+The Reporter's Predicament
+
+“Was the crowd large?” asked the editor, sitting in his revolving chair.
+
+“Yes. St Mary's Hall was filled to overflowing; the crowd spilled out along the outer veranda and into the street like a flood. It was like one of those meetings the anti-Hindi campaigners hold,” replied the reporter. Besides telling the editor that he had done his work conscientiously, he wanted to show that he also possessed the ability to describe the news vividly. The editor was not pleased. “You simply have no habit of answering briefly. When I ask whether the crowd was large, instead of answering in a single word—yes or no—you stretch it out like a novel. Who can keep listening?” he scolded. Previously, this editor had issued strict orders to give clear, detailed, explanatory accounts without leaving out a single thing. The reporter did not understand why he was now getting angry. Even if the anger was groundless, the reporter had to put up with it, did he not? This was no unpaid service!
+
+“What was special about the meeting?” asked the editor. The reporter did not know what to say. He did not know what to omit and what to mention. The whole meeting had been special. The crowd was special. The decorations were special. The sight of the leaders seated on the platform was special. Desikar, Devasena, Bhagavathar, the gathering of admirers insisting that he sing just one song, N. S. K., his debate song about women and men, the worthies who had forgotten even their prohibition campaign for one evening and come there—everything had been special. Fearing that the editor might get angry rather than listen if he related all this, the reporter answered the question about what was special at the meeting with “Nothing.” “Idiot! You say there was nothing special at all! Was it to come back and tell me this that you went there? By ten o'clock, you must write up the whole matter clearly and in detail and send it to my house. By ten o'clock I mean tonight, not tomorrow morning. I am going to a party; I shall return to the bungalow before ten strikes,” the editor said angrily. Muttering “Tamil, indeed! Music, indeed!” he bounded down the stairs two or three steps at a time and slammed the car door—perhaps to vent his anger at the reporter, or, thinking “Have all these people nothing to do? Why do they go off to this Tamil music conference like this?”,
+
+174
+
+### Image 2: 002-15014971e2.png
+
+because he could not contain his anger! When the car had disappeared, the reporter scratched his head, worried about what to write.
+
+The Reporter’s Tribulations! The Arrogance of Editors! Journalism and Self-Respect! The reporter could have written a whole book under one of these headings. So many thoughts occurred to him that night. But what the editor had told him to finish writing was an account of the Tamil music conference. What the editor had told him to finish writing was an account of the Tamil music conference. At home, the reporter began directing his anger at the editor towards his wife. But his son was sitting on the raised veranda beside the street, singing N. S. K.'s song, “Can you match a man, can you match a man wearing a dhoti?” He had been to the Tamil music conference. The reporter forgot his anger and anxiety and laughed. Along with his laughter, an idea came to him. Hurriedly he opened his notebook and looked through it. “You all understood what I sang because I sang in Tamil. Because you understand, you are happy. That is why the Tamil music movement says that if one sings in Tamil, a Tamil person will know and understand.” So it stood in his notes. It was a passage from the speech Comrade N. S. Krishnan had delivered that day. After supper the reporter began writing and finished within an hour. At ten o'clock he went to the bungalow to see the editor. He tossed a complimentary cinema ticket to the attendant who said he could not see him, and went inside. A dog barking loudly made him tremble. Repeating its name, “Jimmy, Jimmy,” as though chanting a prayer, he subdued its fury. To the editor's voice asking “Who's that?” he gave the customary answer, “It's me.” He handed over the bundle of papers and cleared his throat. Seeing the editor's hand speak, he left the bungalow and went home. From the house opposite he heard a record of Bhagavathar's “Is there anyone who does not lose their heart at the sight of you?” playing in sublime bliss. He went into his house.
+
+Madras, 23 December 1943
+
+Today (Thursday, 23 December 1943), at 4.30 in the afternoon, the Tamil music conference took place with great splendour at St Mary's Hall, Madras. Just as people frightened by the sounding of an air-raid siren rush towards the A.R.P. shelters, pushing one another aside, each trying to get ahead of the other, vast numbers hurried towards the hall. There was not room for a sesame seed to fall inside. If there were more than twenty leaders on the platform, the crowd that had come to the conference that day was large enough to make twenty separate enormous meetings! Such a magnificent gathering! The crowd extended as far as China Bazaar Street. So many stood in the street, thinking that even if they could not see, they could at least hear the speeches,
+
+175
