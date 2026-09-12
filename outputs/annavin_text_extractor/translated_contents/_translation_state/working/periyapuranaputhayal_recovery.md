@@ -2,9 +2,9 @@
 
 Canonical file: katturaigal/periyapuranaputhayal.md. Seven parts, 70 scans; no partial bilingual assembly or state refresh.
 
-Coverage: Part 1 Images 1–11 and Part 2 Images 1–10 and Part 3 Images 1–10 and Part 4 Images 1–10 and Part 5 Images 1–6 compared visually (47/70 scans; two printer-footer concerns remain open). Title/date confirmed; opening prose repaired only where scan-proven. Corrections recorded in ocr_concerns.csv. Printed historical spellings and unusual wording retained.
+Coverage: Part 1 Images 1–11 and Part 2 Images 1–10 and Part 3 Images 1–10 and Part 4 Images 1–10 and Part 5 Images 1–8 compared visually (49/70 scans; two printer-footer concerns remain open). Title/date confirmed; opening prose repaired only where scan-proven. Corrections recorded in ocr_concerns.csv. Printed historical spellings and unusual wording retained.
 
-Next: Part 5 Image 7, 007-periyapurana-47.png, beginning இப்படிப் பெரும் பொருள் பல தலைமுறைகளாக. Continue through every scan before translation. Part 5 local scans exist despite absent link in pending report; use RMRL if any missing or unreadable evidence is encountered.
+Next: Part 5 Image 9, 009-periyapurana-49.png, beginning இந்தப் பெரும் பொருள், விடுதலைப்பெற்று. It continues Image 8’s account of the reformer’s imagined future. Continue through every scan before translation. Part 5 local scans exist despite absent link in pending report; use RMRL if any missing or unreadable evidence is encountered.
 
 Images 3–4: inoculation comparison, reformers’ paths, coconut-tree thief analogy and the five-eyed bogeyman discussion fully reconciled. All correction groups logged; printed unusual forms retained.
 
@@ -49,3 +49,5 @@ Part 5 Images 1–2: monastic reform appeal and Dinachari quotation fully compar
 Part 5 Images 3–4: quoted criticism and imagined fasting dialogue fully compared. Printed கொண்டு தந்துவிடுவது, உறக்க நேரத்தில். and அரசன் retained. Image 3 printer footer remains uncertain after enlargement; current transcription retained pending clearer evidence, alongside Part 2 Image 1 footer.
 
 Part 5 Images 5–6: temple-jewel catalogue and contrast with poverty fully compared. Two four-star dividers restored; printed numerical valuations, கண்டான பிறகு, வங்காளம் பஞ்சம் and முந்திக்கொண்ட retained.
+
+Part 5 Images 7–8: accumulated temple wealth, individual patronage and reform discussion fully compared. Printed கலனாகி (checked enlarged), சுவாபம், அறிவுத் தெளியும் and இதம்புரிச்சாலைகளாக retained; clear OCR errors repaired.
