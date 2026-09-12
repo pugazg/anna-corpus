@@ -2,9 +2,9 @@
 
 Canonical file: katturaigal/periyapuranaputhayal.md. Seven parts, 70 scans; no partial bilingual assembly or state refresh.
 
-Coverage: Part 1 Images 1–11 and Part 2 Images 1–10 and Part 3 Images 1–10 and Part 4 Images 1–10 and Part 5 Images 1–8 compared visually (49/70 scans; two printer-footer concerns remain open). Title/date confirmed; opening prose repaired only where scan-proven. Corrections recorded in ocr_concerns.csv. Printed historical spellings and unusual wording retained.
+Coverage: Part 1 Images 1–11 and Part 2 Images 1–10 and Part 3 Images 1–10 and Part 4 Images 1–10 and Part 5 Images 1–10 compared visually (51/70 scans; two printer-footer concerns remain open). Title/date confirmed; opening prose repaired only where scan-proven. Corrections recorded in ocr_concerns.csv. Printed historical spellings and unusual wording retained.
 
-Next: Part 5 Image 9, 009-periyapurana-49.png, beginning இந்தப் பெரும் பொருள், விடுதலைப்பெற்று. It continues Image 8’s account of the reformer’s imagined future. Continue through every scan before translation. Part 5 local scans exist despite absent link in pending report; use RMRL if any missing or unreadable evidence is encountered.
+Next: Part 6 Image 1, 001-8663e6dfba.png, beginning நோய்க்குக் காரணம், தடுப்பு முறைகள். Continue through every scan before translation. Part 5 local scans exist despite absent link in pending report; use RMRL if any missing or unreadable evidence is encountered.
 
 Images 3–4: inoculation comparison, reformers’ paths, coconut-tree thief analogy and the five-eyed bogeyman discussion fully reconciled. All correction groups logged; printed unusual forms retained.
 
@@ -51,3 +51,5 @@ Part 5 Images 3–4: quoted criticism and imagined fasting dialogue fully compar
 Part 5 Images 5–6: temple-jewel catalogue and contrast with poverty fully compared. Two four-star dividers restored; printed numerical valuations, கண்டான பிறகு, வங்காளம் பஞ்சம் and முந்திக்கொண்ட retained.
 
 Part 5 Images 7–8: accumulated temple wealth, individual patronage and reform discussion fully compared. Printed கலனாகி (checked enlarged), சுவாபம், அறிவுத் தெளியும் and இதம்புரிச்சாலைகளாக retained; clear OCR errors repaired.
+
+Part 5 Images 9–10: reform outlook and fatalism discussion fully compared. Four-star divider restored; printed ஆழாழி, செய்தானே, இங்கே and காட்டி தந்திருக்கிறோம் retained. Part 5 source review complete; the medical-research discussion continues in Part 6.
