@@ -2,9 +2,9 @@
 
 Canonical file: katturaigal/periyapuranaputhayal.md. Seven parts, 70 scans; no partial bilingual assembly or state refresh.
 
-Coverage: Part 1 Images 1–11 and Part 2 Images 1–10 and Part 3 Images 1–10 and Part 4 Images 1–10 compared visually (41/70 scans; one printer-footer concern remains open). Title/date confirmed; opening prose repaired only where scan-proven. Corrections recorded in ocr_concerns.csv. Printed historical spellings and unusual wording retained.
+Coverage: Part 1 Images 1–11 and Part 2 Images 1–10 and Part 3 Images 1–10 and Part 4 Images 1–10 and Part 5 Images 1–2 compared visually (43/70 scans; one printer-footer concern remains open). Title/date confirmed; opening prose repaired only where scan-proven. Corrections recorded in ocr_concerns.csv. Printed historical spellings and unusual wording retained.
 
-Next: Part 5 Image 1, 001-periyapurana-41.png, beginning உறுதி கூறமுடியும்? It continues Part 4 Image 10’s என யாரால். Continue through every scan before translation. Part 5 local scans exist despite absent link in pending report; use RMRL if any missing or unreadable evidence is encountered.
+Next: Part 5 Image 3, 003-periyapurana-43.png, beginning மடாதிபதிகளின் போக்கைக் கண்டிக்க. Continue through every scan before translation. Part 5 local scans exist despite absent link in pending report; use RMRL if any missing or unreadable evidence is encountered.
 
 Images 3–4: inoculation comparison, reformers’ paths, coconut-tree thief analogy and the five-eyed bogeyman discussion fully reconciled. All correction groups logged; printed unusual forms retained.
 
@@ -43,3 +43,5 @@ Part 4 Images 5–6: miracle-report conclusion, quoted verse and monastery discu
 Part 4 Images 7–8: monastery luxury, public hardship and the purpose of monastic endowments fully compared. Scan-proven readings and false punctuation repaired; printed unusual forms retained.
 
 Part 4 Images 9–10: literary patronage, monastic duties and reform legislation fully compared. Clear damaged readings restored; printed அதுவும் கிடைத்தது, ஓட்டப்பட்ட and அண்ணாந்து retained. Part 4 source review complete.
+
+Part 5 Images 1–2: monastic reform appeal and Dinachari quotation fully compared. Scan-proven OCR errors and quotation damage repaired. Printed 25-1-49 retained without independent issue verification; page-spanning sentence preserved.
