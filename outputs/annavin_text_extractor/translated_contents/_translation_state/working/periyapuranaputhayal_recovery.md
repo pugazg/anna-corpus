@@ -2,9 +2,9 @@
 
 Canonical file: katturaigal/periyapuranaputhayal.md. Seven parts, 70 scans; no partial bilingual assembly or state refresh.
 
-Coverage: Part 1 Images 1–11 and Part 2 Images 1–10 and Part 3 Images 1–10 and Part 4 Images 1–6 compared visually (37/70 scans; one printer-footer concern remains open). Title/date confirmed; opening prose repaired only where scan-proven. Corrections recorded in ocr_concerns.csv. Printed historical spellings and unusual wording retained.
+Coverage: Part 1 Images 1–11 and Part 2 Images 1–10 and Part 3 Images 1–10 and Part 4 Images 1–8 compared visually (39/70 scans; one printer-footer concern remains open). Title/date confirmed; opening prose repaired only where scan-proven. Corrections recorded in ocr_concerns.csv. Printed historical spellings and unusual wording retained.
 
-Next: Part 4 Image 7, 007-c3a8cb397a.png, beginning தாம்பளத்தில். It continues Image 6’s தங்கத். Continue through every scan before translation. Part 5 local scans exist despite absent link in pending report; use RMRL if any missing or unreadable evidence is encountered.
+Next: Part 4 Image 9, 009-caf5ed65a9.png, beginning பாடியும். It continues Image 8’s பண். Continue through every scan before translation. Part 5 local scans exist despite absent link in pending report; use RMRL if any missing or unreadable evidence is encountered.
 
 Images 3–4: inoculation comparison, reformers’ paths, coconut-tree thief analogy and the five-eyed bogeyman discussion fully reconciled. All correction groups logged; printed unusual forms retained.
 
@@ -39,3 +39,5 @@ Part 4 Images 1–2: dream-publication discussion and natural/miraculous example
 Part 4 Images 3–4: critique of newspaper miracle reports fully compared. Printed Dinamani date and unusual names/forms retained; corrections logged.
 
 Part 4 Images 5–6: miracle-report conclusion, quoted verse and monastery discussion fully compared. Four-star divider and verse readings restored; printed unusual forms logged.
+
+Part 4 Images 7–8: monastery luxury, public hardship and the purpose of monastic endowments fully compared. Scan-proven readings and false punctuation repaired; printed unusual forms retained.
