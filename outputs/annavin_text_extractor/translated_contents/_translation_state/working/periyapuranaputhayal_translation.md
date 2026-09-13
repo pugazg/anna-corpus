@@ -1,6 +1,6 @@
 # The Treasure of the Periya Puranam / பெரிய புராணப் புதையல் — working translation
 
-Status: INCOMPLETE; not a canonical bilingual document. Part 1 Images 1–9 translated and compared with the reconciled Tamil. Next: Part 1 Image 10, `010-5d3a94e856.png`, beginning `தொழில்களை வியக்கத்தக்க முறையில் அபிவிருத்தி செய்து`. The final English sentence continues into that scan.
+Status: INCOMPLETE; not a canonical bilingual document. Part 1 Images 1–11 translated; Part 1 complete and compared with the reconciled Tamil. Next: Part 2 Image 1, `001-73af3e9321.png`, beginning `நம்பமுடியாத, ஆபாசமான கதைகளை நம்பத்தான் வேண்டும்;`. The final English sentence continues across the part boundary. This next scan has an unresolved printer footer; do not guess its text.
 
 Source recovery: all 70 scans visually reviewed. The printer footers at Part 2 Image 1 and Part 5 Image 3 remain unresolved; keep their current Tamil unchanged and retain the recovery hold. This draft translates only reconciled passages. No translation-state refresh or pending-count reduction is authorized by this partial checkpoint.
 
@@ -61,6 +61,28 @@ Religion does not concern itself with life in this world. Its whole attention is
 
 The caste system is a principal cause of social backwardness and industrial stagnation. There is a kind of contemptible arrogance in caste doctrine. As a result, some acquire a useless pride, while many feel diminished and lose courage. In such circumstances, therefore, labour loses its true worth. People consequently lose the motivation necessary to seek an occupation and take up work. As a result, most of the principal occupations are left to those called the lower classes. They lack sufficient education to carry on those occupations. Nor does the general public support such trades or consider them of any consequence. Thus, many handicrafts remain in the very condition they were in thousands of years ago. The same industries in other countries have flourished and developed in remarkable ways. In other countries, chemists, skilled craftsmen and experts in commerce take up and conduct industries. With modern scientific equipment and the latest technical methods, they
 
+### Image 10: 010-5d3a94e856.png
+
+are developing industries in astonishing ways.
+
+Joint-family life has also been a cause of the decline of handicrafts in India. Even after marriage, many continue to live together with their parents as one household, supported by the family's common funds. Though there is some benefit in this, under present social conditions its harm has come to predominate. It damages industrial development. In joint families, those who earn have far less desire to accumulate wealth. Among the others who pass their lives dependent on them, idleness and an unfree disposition to do as others tell them grow. They do not wish to take the lead and direct anything.
+
+The forms of charitable service carried on in religious institutions create room for idleness to grow among many people. Such charitable institutions, their noble purpose and their principle of helping others are indeed highly commendable. There is no doubt that good results can come from them, to the extent that society and the government take on the administration of such charities. But present-day charitable institutions are being put to improper uses. Able-bodied people benefit by invoking religion. Through the people's superstition and gullibility, it is the idle who prosper. Many who are actually in need have no one to look after them.
+
+Today, industrial efficiency depends on people's mental powers. Industrial development flourishes in accordance with their proficiency, technique and innovative ingenuity. In ancient times India had a great reputation in industry. In those days, with the help of algebra, geometry, astronomy, experimental science and the like, handicrafts were in a good state in India. But the country suffered many troubles. Through hostile invasions, enemy victories, foreign rule and so forth, Indians
+
+### Image 11: 011-65a82357b9.png
+
+came to lose their intellectual strength and moral excellence. One might well say that, for a very long time, Indians have lacked favourable conditions in which to display their full abilities in handicrafts and benefit from them. India's industrial condition is unfit to be compared with that of any advanced country.
+
+Food production falls short of India's requirements by one-third. It is thus clear that Indians do not get enough to eat. An average American, however, has 2,664 pounds of food available each year. Moreover, the Indian diet is very poor in nourishment. Such conditions of poverty, too, have prevented Indian handicrafts from advancing.
+
+Like starvation, diseases such as cholera, smallpox, virulent fever and tuberculosis keep diminishing people's physical and mental strength. Thus, in an industrial world where highly knowledgeable people of robust health and strength compete fiercely, can we expect a community that lacks food to eat, is afflicted with illness and deprived of understanding, and stands guarding religions, to succeed in that field?
+
+* * * *
+
+There are some friends whose hearts are truly pained, thinking that we are scoundrels who revile the gods, find fault with religion and condemn it. There are many others whose sole purpose is to abuse us on one pretext or another. We are not referring to those people; we are speaking to those who are genuinely distressed. The imaginary stories constructed about our gods and in the name of religion—do they not stir disgust in anyone who reads them and reflects a little? Have they not attached obscenities incompatible with reason to the Lord's name and made them pillars of religion here? As people's general knowledge grows and they acquire the ability to investigate, how can they read those stories with devotion or believe them? Meanwhile, the world advances rapidly. If we say that, even in this day, we must believe those old,
+
 ## Translator's Notes — working
 
 - Title: “The Treasure of the Periya Puranam” retains the named work and the ironic suggestion of a treasure sought within it. The Tamil title is retained above.
@@ -75,3 +97,5 @@ The caste system is a principal cause of social backwardness and industrial stag
 - Part 1 Image 8: கலனாகி is rendered “dilapidated” in the building analogy without changing the printed Tamil. “Dhatu year” retains the calendrical designation; no Gregorian date has been silently supplied. The river names, foundation depths, cartload counts and named Prithvi Insurance building are preserved as printed; the building-collapse reference is not independently verified here. Takli means a hand spindle.
 - Part 1 Image 9: “Red Indians” retains the source's dated designation சிவப்பு இந்தியர்கள் in quotation marks. The rhetorical questions about Indigenous Americans and the Todas are the author's historical argument, not a claim by the translator that these peoples no longer exist. சிற்பிகள் is rendered “skilled craftsmen” in the industrial context. The discussion of caste, education and industrial stagnation is retained in full as the author's account.
 - Part 1 Images 8–10: the warning about society continues from Image 8 into Image 9; the final industrial-development sentence on Image 9 remains open for Image 10. The four-star divider is preserved.
+- Part 1 Image 10: அக்ஷர கணிதம் and க்ஷேத்திர கணிதம் are rendered “algebra” and “geometry”; அனுபவ விஞ்ஞானம் is rendered “experimental science.” The critique of joint-family arrangements and charitable administration is the author's argument and is retained without qualification in the translation.
+- Part 1 Image 11: the one-third food shortfall and 2,664-pound annual American food figure are retained as printed historical claims, not updated or independently endorsed statistics. விஷ ஜுரம் is rendered “virulent fever,” without silently assigning a specific modern diagnosis. The closing conditional sentence continues in Part 2 Image 1.
