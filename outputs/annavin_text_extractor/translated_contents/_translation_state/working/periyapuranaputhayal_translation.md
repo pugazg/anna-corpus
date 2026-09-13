@@ -1,6 +1,6 @@
 # The Treasure of the Periya Puranam / பெரிய புராணப் புதையல் — working translation
 
-Status: INCOMPLETE; not a canonical bilingual document. All 11 Part 1 scans and the prose/numbered examples of Part 2 Images 1–6 are translated and compared with the reconciled Tamil. Part 2 Image 1's printer footer remains unresolved and is explicitly marked in this draft. Next: Part 2 Image 7, `007-6761ecfc62.png`, beginning `பூட்டி வைத்தார்கள். அவ்வளவு 'பக்தி' என்னிடம்.` Continue the unfinished sentence across the scan boundary.
+Status: INCOMPLETE; not a canonical bilingual document. All 11 Part 1 scans and the prose/numbered examples of Part 2 Images 1–8 are translated and compared with the reconciled Tamil. Part 2 Image 1's printer footer remains unresolved and is explicitly marked in this draft. Next: Part 2 Image 9, `009-f0dde6d08e.png`, beginning `தேவி! இரு பிரிவும் இப்படிகொக்கரித்தன`. Karuppannar’s narrated dialogue remains open.
 
 Source recovery: all 70 scans visually reviewed. The printer footers at Part 2 Image 1 and Part 5 Image 3 remain unresolved; keep their current Tamil unchanged and retain the recovery hold. This draft translates only reconciled passages. No translation-state refresh or pending-count reduction is authorized by this partial checkpoint.
 
@@ -203,6 +203,46 @@ Devi began to feel real sympathy.
 
 “What made it necessary to put you in a separate place and lock you up?” Devi asked again. In a voice mingling weariness and disgust, Karuppannar said, “Are you asking why they locked me up, Devi? Apparently I am ‘their god.’ So, to prevent some other devotees from taking me away, they shut me in and
 
+### Image 7: 007-6761ecfc62.png
+
+locked it. Such ‘devotion’ to me! I must not speak to any other devotee. That was their idea,” Karuppannar said.
+
+“What a mad notion!” Devi said mockingly.
+
+“These people eat whatever they find—hard things, uncooked things, unripe things—and when they get diarrhoea they come and plead with me, Devi: ‘Karuppanna Swami! Save me!’ Isn't that madness? This is another madness of the same kind. To tell the truth, Devi, wasn't it wrong of us to let such madness grow? Listen to what happened to me, Devi! These devotees have come to think that I am ‘their god,’ and that even if anyone else claims a ‘right of ownership’ over me, they must not give way. Circumstances arose to suit that notion. As the throng of devotees grew, each vying with the next, I too felt proud. In my ill-starred hour, my countless devotees split into two factions and an irreconcilable enmity arose between them. Could I have foreseen that their enmity would bring me into great danger? I was attending to my own work. They held the usual festival for me, and I was delighted. Some people were going about the town saying that temple cars and festivals were a waste of effort. I was a little afraid that my devotees might be swayed by their words and fail to hold the festival this year. When they came forward to conduct it as usual, I was pleased. I swelled with pride at the thought that, however much campaigning went on, my influence had not vanished. Every year they hold my festival in the month of Vaikasi. Karuppa Udaiyar was the leader of the band of devotees conducting the festival. As usual, they took me in procession. I wanted to say, ‘You fellows! You keep thinking about rationalism and Self-Respect, don't you? Look at my devotees celebrating my festival!’ But not one of those fellows was to be seen. Somewhere or other
+
+### Image 8: 008-aa14388175.png
+
+they must have organized a ‘grand conference.’ I went happily in procession. As always, they took me to the mandapam and enthroned me on display. That was a good arrangement for the devotees to come and behold me, wasn't it? I too sat majestically in the mandapam.
+
+“I told you, didn't I, that my countless devotees had become two ‘factions’? One faction had conducted the festival—Karuppa Udaiyar's faction. Another faction was led by Pichcha Udaiyar; that ‘faction’ consisted of my devotees too. The enmity was between those two ‘factions.’ Neither faction had any reason to become hostile to me.
+
+“The Karuppa faction of devotees gathered to take me from the mandapam back to the temple.
+
+“‘Don't lift him! Don't take him!’ shouted the Pichcha faction of devotees.
+
+“‘Who are you fellows to stop us? We are holding a festival for our Karuppannasami. The procession is over; the display is over. We are taking him to the temple. Who are you to stop us?’ the Karuppa faction of devotees replied.
+
+“‘Don't touch him!’ the Pichchai group of devotees commanded threateningly.
+
+“‘Lift him! Lift him, man!’ the Karuppa faction ordered.
+
+“‘If you step outside, there'll be a killing—yes!’
+
+“‘Oh, such mighty tigers, are you? Lift the god, man!’
+
+“‘Don't! Don't get yourselves into needless trouble.’
+
+“‘We'll carry Karuppannasami away just as we please.’
+
+“‘Karuppannasami is our god, man!’
+
+“‘No, Karuppannasami is our god, man!’
+
+“‘I'll cut off your hand.’
+
+“‘We'll break your leg.’
+
 ## Translator's Notes — working
 
 - Title: “The Treasure of the Periya Puranam” retains the named work and the ironic suggestion of a treasure sought within it. The Tamil title is retained above.
@@ -226,3 +266,5 @@ Devi began to feel real sympathy.
 - Part 2 Images 3–4: Karuppannasami, Karuppannar and Karuppanna preserve the source's varying forms of address; Devi is retained without imposing a more specific goddess identity. Palam is retained as the traditional weight unit in the half-palam camphor remark. The short exchanges and the open question leading into Image 5 are preserved; quotation marks in English clarify speakers without modifying the irregular Tamil punctuation.
 - Part 2 Image 5: the cheek-tapping gesture of worship is retained. சிவனே என்று is translated with both the invocation “Siva!” and the sense of quietly enduring things. The field-worker comparison depends on சாமி meaning “master” as an address to a superior as well as “god”; English distinguishes the two uses without changing the source.
 - Part 2 Image 6: “Aligarh lock” retains the named reference without adding unsupported claims about the particular lock. The violent threats are hypothetical words the god asks whether he could utter; they are not converted into acts that occurred. All three lock-related shouts and the question-and-answer exchanges are retained.
+- Part 2 Image 7: பக்தகோடிகள் is rendered idiomatically as “countless devotees,” not treated as a census figure. “Self-Respect” retains the movement reference in the god's imagined taunt; Vaikasi retains the Tamil month. The food list, illness comparison and change from pride to danger are preserved.
+- Part 2 Image 8: mandapam denotes the hall in which the deity is displayed for worship. Pichcha/Pichchai preserves the printed name variation rather than silently harmonizing it. “Mighty tigers” retains the sarcastic challenge சூரப் புலிகளோ. Every competing shout is translated in order within Karuppannar's continuing account; the English nesting marks do not alter the Tamil quotation boundaries.
