@@ -2,9 +2,9 @@
 
 Canonical file: katturaigal/periyapuranaputhayal.md. Seven parts, 70 scans; no partial bilingual assembly or state refresh.
 
-Coverage: Part 1 Images 1–11 and Part 2 Images 1–10 and Part 3 Images 1–10 and Part 4 Images 1–10 and Part 5 Images 1–10 and Part 6 Images 1–2 compared visually (53/70 scans; two printer-footer concerns remain open). Title/date confirmed; opening prose repaired only where scan-proven. Corrections recorded in ocr_concerns.csv. Printed historical spellings and unusual wording retained.
+Coverage: Part 1 Images 1–11 and Part 2 Images 1–10 and Part 3 Images 1–10 and Part 4 Images 1–10 and Part 5 Images 1–10 and Part 6 Images 1–4 compared visually (55/70 scans; two printer-footer concerns remain open). Title/date confirmed; opening prose repaired only where scan-proven. Corrections recorded in ocr_concerns.csv. Printed historical spellings and unusual wording retained.
 
-Next: Part 6 Image 3, 003-3d526bc2d7.png, beginning நாமோ, “இன்றைக்கு இருப்பாரை நாளைக்கு இருப்பா. Continue through every scan before translation. Part 5 local scans exist despite absent link in pending report; use RMRL if any missing or unreadable evidence is encountered.
+Next: Part 6 Image 5, 005-4a4cc317d7.png, beginning எவ்வளவு சிந்தனையைச் செலவிட்டிருக்க வேண்டும். Continue through every scan before translation. Part 5 local scans exist despite absent link in pending report; use RMRL if any missing or unreadable evidence is encountered.
 
 Images 3–4: inoculation comparison, reformers’ paths, coconut-tree thief analogy and the five-eyed bogeyman discussion fully reconciled. All correction groups logged; printed unusual forms retained.
 
@@ -55,3 +55,5 @@ Part 5 Images 7–8: accumulated temple wealth, individual patronage and reform 
 Part 5 Images 9–10: reform outlook and fatalism discussion fully compared. Four-star divider restored; printed ஆழாழி, செய்தானே, இங்கே and காட்டி தந்திருக்கிறோம் retained. Part 5 source review complete; the medical-research discussion continues in Part 6.
 
 Part 6 Images 1–2: rainfall, ritual and scientific inquiry discussion fully compared, including the two-line lyric. Clear OCR errors repaired; printed வான மழை, கோபால பஜனை, பிருதுவி and historical claims retained.
+
+Part 6 Images 3–4: astronomy, deep-sea exploration and mosquito-trap discussion fully compared. Printed ஒலி சக்தி, முதற்கொண்ட, ஆதனுள் and named historical claims retained. Clear OCR and punctuation errors repaired; the trap discussion continues into Image 5.
