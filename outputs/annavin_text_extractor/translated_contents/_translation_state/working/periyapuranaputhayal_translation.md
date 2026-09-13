@@ -1,6 +1,6 @@
 # The Treasure of the Periya Puranam / பெரிய புராணப் புதையல் — working translation
 
-Status: INCOMPLETE; not a canonical bilingual document. All 11 Part 1 scans and the prose/numbered examples of Part 2 Images 1–10 are translated and compared with the reconciled Tamil. Part 2 Image 1's printer footer remains unresolved and is explicitly marked in this draft. Next: Part 3 Image 1, `001-a5e19231ca.png`, beginning `மீட்க அரும்பாடுபடலானார்,`. Continue the open release-from-confinement sentence; its English predicate begins before the part boundary for grammatical continuity.
+Status: INCOMPLETE; not a canonical bilingual document. All 11 Part 1 scans and the prose/numbered examples of Part 2 Images 1–10, plus Part 3 Images 1–2, are translated and compared with the reconciled Tamil. Part 2 Image 1's printer footer remains unresolved and is explicitly marked in this draft. Next: Part 3 Image 3, `003-5b282b9737.png`, beginning `பார். திரிபுரசுந்தரி. . .`. Continue the unfinished invocation “Turn and”.
 
 Source recovery: all 70 scans visually reviewed. The printer footers at Part 2 Image 1 and Part 5 Image 3 remain unresolved; keep their current Tamil unchanged and retain the recovery hold. This draft translates only reconciled passages. No translation-state refresh or pending-count reduction is authorized by this partial checkpoint.
 
@@ -291,6 +291,30 @@ they must have organized a ‘grand conference.’ I went happily in procession.
 
 “‘Poor Karuppannasami! The fellow has locked him up,’ the women say, resting their hands against their chins. I was imprisoned inside. Karuppa, the devotee who had brought me to this plight, began striving to secure my
 
+## Part 3: periyapuranaputhayal_3.md
+
+### Image 1: 001-a5e19231ca.png
+
+release from confinement. Apparently he appealed to the ‘Hindu Religious Administration Board.’
+
+“‘They have put the god in the mandapam and locked it. There is no god in the temple. The god must be let out,’ he is said to have pleaded. Is that what the Board is there for? It is there to see whether the accounts are in order, isn't it? They don't have enough time even to do that job properly. If someone locks me up, will they come running for that? ‘Go, man! Go and tell the police,’ they advised him. He ran to the police. I remained confined inside. I don't know what they said at the police station! What could they have said? Nothing but mockery! At last the Lalgudi police sub-inspector came with a police contingent, broke the lock and let me out. Did they leave that good man alone when he came to do me this kindness? ‘How can you break the lock? Just see what we do! We lock up our Karuppannasami, shut him away, do as we please. Who are you to question us? How can you break the lock?’ Saying this and that, they surrounded him. Was he going to keep his mouth shut like me? ‘Behave yourselves. You must act according to the law,’ he told them. They wouldn't listen. He called the policemen and ordered, ‘Give them a puja, boys!’ They raised their batons, beat them and drove them away. Devi! Only then did my heart find a little peace. These people call themselves devotees, keep tapping their cheeks before me and burning camphor to show me. Without regard for justice or fairness, without considering whether they should reduce their god to such a sorry state, they had the hard-heartedness to lock me up and humiliate me. What could I do? I kept fretting: ‘What good soul will come to let me out? How long must I remain confined here? Who is making fun of me?’ Luckily that man from Lalgudi—a man with a heart of gold; may his children be well!—came and brought me out. Devi! They put me through all this, these people who call themselves
+
+### Image 2: 002-df28cffba1.png
+
+devotees. That is why I have become frightened. I tell you truthfully, there is no use trusting these devotees any more. There is no sense in being pleased merely because they perform worship. I have come to feel that we no longer need their favour and must have no dealings with them at all,” Karuppannasami said, concluding his story. Hearing it, Devi too became distressed.
+
+“Yes! We must no longer trust these devotees,” Devi too pronounced judgment.
+
+“Is it enough for just the two of us to decide, Devi? Aren't there a great many of us? Wouldn't it be better to explain it to everyone and pass a resolution: ‘We must no longer get caught by these devotees and be tormented. We want no devotees’?” Karuppannasami said.
+
+“Yes, Karuppannar! We must explain fully the indignities devotees inflict on our people and how rogues use us as instruments to deceive the gullible. We must see that our friends do not suffer such troubles again. We must convene a special conference for this. We can endure no more. I will head the reception committee. You conduct the opening ceremony. Whom shall we invite to preside?” Devi asked eagerly.
+
+(A report appeared in the Indian Express on 22 August '51 that, in the village of Punjai Sangudi near Lalgudi, two factions had formed and Karuppannasami had been locked inside the mandapam; with police assistance the lock was broken and the god was taken back to the temple. This fiction was written against the background of that actual incident.)
+
+* * * *
+
+“Minakshi! Why are you so angry? Kamakshi! Can't you hear my endearments? Nilayatakshi! If you remain like this, will my heart find peace? Akhilandesvari! What wrong have I done you? Ambike! Look this way. Tyagavalli! Turn and
+
 ## Translator's Notes — working
 
 - Title: “The Treasure of the Periya Puranam” retains the named work and the ironic suggestion of a treasure sought within it. The Tamil title is retained above.
@@ -318,3 +342,6 @@ they must have organized a ‘grand conference.’ I went happily in procession.
 - Part 2 Image 8: mandapam denotes the hall in which the deity is displayed for worship. Pichcha/Pichchai preserves the printed name variation rather than silently harmonizing it. “Mighty tigers” retains the sarcastic challenge சூரப் புலிகளோ. Every competing shout is translated in order within Karuppannar's continuing account; the English nesting marks do not alter the Tamil quotation boundaries.
 - Part 2 Images 9–10: all villagers' exchanges and children's taunts are retained in sequence within Karuppannar's narration. Pichchaiya/Karuppaiya retain the colloquial name forms. தாய்மார்கள் is rendered “the women” in this village conversation; their chin-resting gesture is retained.
 - Part 2 Image 10–Part 3 Image 1: Tamil splits சிறை / மீட்க across the part boundary. English leaves “secure my” open for “release from confinement”; the predicate “began striving” is placed before the boundary for English syntax, not duplicated in the continuation. கருப்ப பக்தர் is retained as Karuppa the devotee, without silently substituting the rival faction's name.
+- Part 3 Image 1: போடுங்கடா பூஜை is retained as “Give them a puja, boys!”—a sarcastic idiom for administering a beating, made explicit by the following baton action. The police rescue and quoted confrontation remain the character's narrative. “Hindu Religious Administration Board” translates the printed institutional designation without asserting an independently verified official English name.
+- Part 3 Image 2: the parenthetical newspaper attribution is translated in full as the author's note. The printed `51 ஆகஸ்டு 22ல்` is retained as “22 August '51”; the Indian Express issue and the village spelling have not been independently verified. This date differs from the opening title-page date, 1 July 1945, and neither has been silently changed. The source appears to collect material of differing dates; this is an inference, not an established publication history.
+- Part 3 Images 2–3: the sequence of goddess names and endearments is preserved with its page-spanning “Turn and / look”; the new scene begins after the four-star divider.
