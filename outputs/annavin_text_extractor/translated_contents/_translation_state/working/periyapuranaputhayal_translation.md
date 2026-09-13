@@ -1,6 +1,6 @@
 # The Treasure of the Periya Puranam / பெரிய புராணப் புதையல் — working translation
 
-Status: INCOMPLETE; not a canonical bilingual document. Part 1 Images 1–11 translated; Part 1 complete and compared with the reconciled Tamil. Next: Part 2 Image 1, `001-73af3e9321.png`, beginning `நம்பமுடியாத, ஆபாசமான கதைகளை நம்பத்தான் வேண்டும்;`. The final English sentence continues across the part boundary. This next scan has an unresolved printer footer; do not guess its text.
+Status: INCOMPLETE; not a canonical bilingual document. All 11 Part 1 scans and the prose/numbered examples of Part 2 Images 1–2 are translated and compared with the reconciled Tamil. Part 2 Image 1's printer footer remains unresolved and is explicitly marked in this draft. Next: Part 2 Image 3, `003-cbb7696042.png`, beginning `19. வாயு அக்கினிப் பொறிகளை தாங்கமுடியாமல்`.
 
 Source recovery: all 70 scans visually reviewed. The printer footers at Part 2 Image 1 and Part 5 Image 3 remain unresolved; keep their current Tamil unchanged and retain the recovery hold. This draft translates only reconciled passages. No translation-state refresh or pending-count reduction is authorized by this partial checkpoint.
 
@@ -83,6 +83,54 @@ Like starvation, diseases such as cholera, smallpox, virulent fever and tubercul
 
 There are some friends whose hearts are truly pained, thinking that we are scoundrels who revile the gods, find fault with religion and condemn it. There are many others whose sole purpose is to abuse us on one pretext or another. We are not referring to those people; we are speaking to those who are genuinely distressed. The imaginary stories constructed about our gods and in the name of religion—do they not stir disgust in anyone who reads them and reflects a little? Have they not attached obscenities incompatible with reason to the Lord's name and made them pillars of religion here? As people's general knowledge grows and they acquire the ability to investigate, how can they read those stories with devotion or believe them? Meanwhile, the world advances rapidly. If we say that, even in this day, we must believe those old,
 
+## Part 2: periyapuranaputhayal_2.md
+
+### Image 1: 001-73af3e9321.png
+
+unbelievable, obscene stories, and that this is the mark of a religious person, who can accept it? Here are some examples found in the exalted religious books that our elders hold above their heads in reverence—in the Puranas that collect the divine exploits of the gods. Our friends must tell us, without anger or resentment: how are these to be believed? Can they be believed?
+
+1. In a lovely grove, some sages had renounced everything and were performing austerities day and night to attain the Lord. A doe bounded about playfully there. Seeing it, the sages desired it; it immediately conceived, gave birth to a girl in a pit of valli tubers, and went away.
+
+2. Viravahu uprooted a tree five hundred yojanas wide and a hundred yojanas high and hurled it at the asuras.
+
+3. Singamukhasuran, who had a thousand heads and two thousand arms and legs, picked up his enemies in his hands and swallowed them.
+
+4. Surapanman, who had fallen prey to the sword, rose to touch the vault of the universe, assumed the form of the earth, and stood filling everything. Murugan shot seven arrows; they went forth as seven seas and wrought destruction.
+
+5. When Subrahmanya's arrow pierced Singamukhasuran's belly, a hundred thousand warriors emerged through the opening.
+
+6. Fearing the spear-bearer's army, Surapanman stood in the middle of the sea as a mango tree, a hundred thousand yojanas wide and rising to the dome of the universe.
+
+7. Tarakan seized a hundred thousand warriors with his trunk, bound them, and hurled them into the sea.
+
+8. When Viravahu climbed Mount Gandhamadana and stood upon it, the mountain could not bear him: it split and sank into the earth.
+
+9. (a) Kayamukan, the gatekeeper at Surapanman's southern entrance, had a thousand heads and two thousand arms and legs. (b) When Kayamukan, with his three thousand
+
+[Working-draft recovery marker: the printer footer here remains unresolved. The current canonical OCR transcription is `12 பே.௮.௧ பூவெ.எண் 70`; this is not a verified reading or a completed translation of the footer. Resolve before canonical assembly.]
+
+### Image 2: 002-8b2fe2aaff.png
+
+hands, tried to pick up Viravahu and swallow him, Viravahu cut them off.
+
+10. Kayamukan hurled a thousand hills; as soon as they struck Viravahu, they became like a pot striking a stone.
+
+11. Kayamukan uprooted a mountain and hurled it at Viravahu. When Viravahu caught it on his shoulder, it crumbled like a clod of earth.
+
+12. When the devas and asuras were churning for nectar, Mahavishnu appeared as Mohini and Isvara as a handsome man. Mohini desired him, and at that very instant Aiyanar appeared.
+
+13. Gathering the eight great mountain ranges in one place, planting them upside down, making the seas into one, sinking Mount Meru in the ocean, damming the swelling Ganges, rolling serpents out straight, and amusing himself by making the sun, moon and stars collide with one another—all these were the childhood exploits of the child Murugan.
+
+14. Surapanman imprisoned the devas, as well as the year, month, nazhigai, stars, day, sun, moon and the others.
+
+15. Nine pearls fell from Uma Devi's anklet and turned into Umas. Seeing them, Uma grew angry and cursed them. Afraid of the curse, they began to sweat; from their sweat a hundred thousand warriors appeared.
+
+16. Through the navels of the aforesaid nine forms, the nine warriors, Viravahu and the others, appeared as young men.
+
+17. Because a ray of sunlight came through the roof, Bhanukopan captured the sun and brought him back, then tied him to a bedpost.
+
+18. The sparks of fire given forth by Siva swept throughout the world with such heat that no one could approach them at all. The winds dried up. The seas ran dry.
+
 ## Translator's Notes — working
 
 - Title: “The Treasure of the Periya Puranam” retains the named work and the ironic suggestion of a treasure sought within it. The Tamil title is retained above.
@@ -99,3 +147,6 @@ There are some friends whose hearts are truly pained, thinking that we are scoun
 - Part 1 Images 8–10: the warning about society continues from Image 8 into Image 9; the final industrial-development sentence on Image 9 remains open for Image 10. The four-star divider is preserved.
 - Part 1 Image 10: அக்ஷர கணிதம் and க்ஷேத்திர கணிதம் are rendered “algebra” and “geometry”; அனுபவ விஞ்ஞானம் is rendered “experimental science.” The critique of joint-family arrangements and charitable administration is the author's argument and is retained without qualification in the translation.
 - Part 1 Image 11: the one-third food shortfall and 2,664-pound annual American food figure are retained as printed historical claims, not updated or independently endorsed statistics. விஷ ஜுரம் is rendered “virulent fever,” without silently assigning a specific modern diagnosis. The closing conditional sentence continues in Part 2 Image 1.
+- Part 2 Images 1–2: all eighteen numbered examples retain their printed order, figures and narrative claims; item 9(b) crosses the page boundary. Item 9's two-thousand-limb description followed by three thousand hands is not harmonized. These are the author's representations of puranic narratives, not a substituted standard retelling.
+- Part 2 Image 1: yojana is retained as a traditional distance unit without assigning a fixed modern length. வள்ளிக் கிடங்கு is rendered a pit of valli tubers; “the spear-bearer” retains வேலன் as an epithet. The footer recovery marker is an editorial draft marker, not source text, and must be resolved before final assembly.
+- Part 2 Image 2: அஷ்டகுல பர்வதங்கள் is rendered “the eight great mountain ranges”; நாழிகை is retained as nazhigai, a traditional division of time. The printed pearls, the multiple Uma forms, emergence through navels, and the drying of the winds are retained without replacing them with other versions of the stories.
