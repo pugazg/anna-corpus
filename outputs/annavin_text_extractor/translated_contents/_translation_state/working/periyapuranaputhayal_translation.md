@@ -1,6 +1,6 @@
 # The Treasure of the Periya Puranam / பெரிய புராணப் புதையல் — working translation
 
-Status: INCOMPLETE; not a canonical bilingual document. All 11 Part 1 scans and the prose/numbered examples of Part 2 Images 1–2 are translated and compared with the reconciled Tamil. Part 2 Image 1's printer footer remains unresolved and is explicitly marked in this draft. Next: Part 2 Image 3, `003-cbb7696042.png`, beginning `19. வாயு அக்கினிப் பொறிகளை தாங்கமுடியாமல்`.
+Status: INCOMPLETE; not a canonical bilingual document. All 11 Part 1 scans and the prose/numbered examples of Part 2 Images 1–4 are translated and compared with the reconciled Tamil. Part 2 Image 1's printer footer remains unresolved and is explicitly marked in this draft. Next: Part 2 Image 5, `005-7df6142e3b.png`, beginning `என்று கருதுகிறீரா தேவி! அவர்களல்ல.` Continue the open question across the scan boundary.
 
 Source recovery: all 70 scans visually reviewed. The printer footers at Part 2 Image 1 and Part 5 Image 3 remain unresolved; keep their current Tamil unchanged and retain the recovery hold. This draft translates only reconciled passages. No translation-state refresh or pending-count reduction is authorized by this partial checkpoint.
 
@@ -131,6 +131,48 @@ hands, tried to pick up Viravahu and swallow him, Viravahu cut them off.
 
 18. The sparks of fire given forth by Siva swept throughout the world with such heat that no one could approach them at all. The winds dried up. The seas ran dry.
 
+### Image 3: 003-cbb7696042.png
+
+19. Unable to bear the sparks of fire, Vayu put them in the Ganges; Ganga put them in the Saravana pond.
+
+20. When Parvati Devi went to the bathing room, she gathered dirt, fashioned a figure from it, gave it life, and stationed it as a guard at the entrance. Siva arrived there and, angered because it would not allow him to enter, cut down the figure with his sword. Afterwards, when Parvati learned what had happened and lamented in grief for her son, Siva consoled her and went outside to look, but the figure's head was missing. Though they searched the three worlds, it could not be found. Immediately, an elephant's head was cut off and attached, and life was restored: it became the elephant-faced Vinayaka.
+
+* * * *
+
+The bell rang!
+
+There was the sound of a door opening.
+
+Karuppannasami ran inside, crying out. He searched for somewhere to hide.
+
+A chuckle rang out. Angered, Karuppannasami looked at Devi, who approached him laughing, and asked, “I am in distress—and at a time like this, are you making fun of me as well?”
+
+“Karuppanna! Why this agitation? Why are you running and hiding?” Devi asked.
+
+“Didn't you hear it—the sound of the bell?” Karuppannasami asked.
+
+“I heard it. Why should that frighten you? How strange!” Devi asked.
+
+“You don't understand anything. Some devotees are coming, aren't they . . . !” Karuppannar said fearfully.
+
+“You fool! Why should you be afraid if devotees come? They are coming to worship you, burn camphor, perform the sixteen ritual services, and lay out food offerings. Why should you be afraid of that . . . ? Oh! Are you afraid those devotees will get angry and say, ‘Karuppannasami! You accept all this worship and still do nothing to relieve our troubles!’?” Devi said.
+
+### Image 4: 004-48682c6263.png
+
+“Enough of your pestering, Devi! I am not afraid that they will rage at me because I have not granted boons and removed their grievances. Am I inexperienced at reigning over a temple . . . ? The devotees will tell themselves that, even if not here, they will obtain the reward of worshipping me in the world above. I know the doctrine that they will not rage at me for failing to remedy their troubles here. That is not why I was frightened,” Karuppannasami said, speaking so rapidly that he was left heaving a sigh.
+
+Devi hurried to the entrance, looked out, and returned. “Karuppanna! There are no devotees. The bell sounded because the wind was blowing hard. Don't be frightened. Now tell me: why does the thought of devotees coming frighten you?” she asked. Reassured by the knowledge that no devotees had come, Karuppannasami sat on his pedestal and began explaining to Devi, who sat on a pedestal opposite him.
+
+“Devi! What do you know of the danger and distress the devotees have caused me? More and more, I am growing disgusted with this ‘job.’ A fellow thinks he can conceal the fraud he has committed in the smoke of half a palam of camphor. He expects me to be his accomplice. He thinks I must assist his greed. If asked why, he says, ‘I have laid out a great offering.’”
+
+Devi interrupted: “Is this anything new, Karuppannar? Have we not seen devotees like these and grown accustomed to them over a very long time?”
+
+Seething, Karuppannasami replied, “The devotees haven't stopped at that, Devi. They humiliate me. They have brought me to the point where I must live under police protection.”
+
+“Humiliated you! Who?” Devi asked in astonishment.
+
+As though mocking her, Karuppannar repeated “Who?” once, then said, “Do you imagine that it was the atheists who humiliated me,
+
 ## Translator's Notes — working
 
 - Title: “The Treasure of the Periya Puranam” retains the named work and the ironic suggestion of a treasure sought within it. The Tamil title is retained above.
@@ -150,3 +192,5 @@ hands, tried to pick up Viravahu and swallow him, Viravahu cut them off.
 - Part 2 Images 1–2: all eighteen numbered examples retain their printed order, figures and narrative claims; item 9(b) crosses the page boundary. Item 9's two-thousand-limb description followed by three thousand hands is not harmonized. These are the author's representations of puranic narratives, not a substituted standard retelling.
 - Part 2 Image 1: yojana is retained as a traditional distance unit without assigning a fixed modern length. வள்ளிக் கிடங்கு is rendered a pit of valli tubers; “the spear-bearer” retains வேலன் as an epithet. The footer recovery marker is an editorial draft marker, not source text, and must be resolved before final assembly.
 - Part 2 Image 2: அஷ்டகுல பர்வதங்கள் is rendered “the eight great mountain ranges”; நாழிகை is retained as nazhigai, a traditional division of time. The printed pearls, the multiple Uma forms, emergence through navels, and the drying of the winds are retained without replacing them with other versions of the stories.
+- Part 2 Image 3: the final two examples retain the printed sequence and agency without supplying a different standard version of the Vinayaka story. சோடசோபசாரம் is rendered “the sixteen ritual services.” The transition into the Karuppannasami–Devi satire and its four-star divider are retained.
+- Part 2 Images 3–4: Karuppannasami, Karuppannar and Karuppanna preserve the source's varying forms of address; Devi is retained without imposing a more specific goddess identity. Palam is retained as the traditional weight unit in the half-palam camphor remark. The short exchanges and the open question leading into Image 5 are preserved; quotation marks in English clarify speakers without modifying the irregular Tamil punctuation.
