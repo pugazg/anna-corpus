@@ -2,9 +2,9 @@
 
 Canonical file: katturaigal/periyapuranaputhayal.md. Seven parts, 70 scans; no partial bilingual assembly or state refresh.
 
-Coverage: Part 1 Images 1–11 and Part 2 Images 1–10 and Part 3 Images 1–10 and Part 4 Images 1–10 and Part 5 Images 1–10 and Part 6 Images 1–10 and Part 7 Images 1–6 compared visually (67/70 scans; two printer-footer concerns remain open). Title/date confirmed; opening prose repaired only where scan-proven. Corrections recorded in ocr_concerns.csv. Printed historical spellings and unusual wording retained.
+Coverage: Part 1 Images 1–11 and Part 2 Images 1–10 and Part 3 Images 1–10 and Part 4 Images 1–10 and Part 5 Images 1–10 and Part 6 Images 1–10 and Part 7 Images 1–9 compared visually (70/70 scans; two printer-footer concerns remain open). Title/date confirmed; opening prose repaired only where scan-proven. Corrections recorded in ocr_concerns.csv. Printed historical spellings and unusual wording retained.
 
-Next: Part 7 Image 7, 007-3d8b0ef53e.png, beginning தோஷம் போக. It continues Image 6’s கிரஹண. Continue through every scan before translation. Part 5 local scans exist despite absent link in pending report; use RMRL if any missing or unreadable evidence is encountered.
+Next: Resolve the printer-footer readings in Part 2 Image 1 and Part 5 Image 3 using a clearer witness before source release. All 70 scans have now been compared; translation has not begun. Continue through every scan before translation. Part 5 local scans exist despite absent link in pending report; use RMRL if any missing or unreadable evidence is encountered.
 
 Images 3–4: inoculation comparison, reformers’ paths, coconut-tree thief analogy and the five-eyed bogeyman discussion fully reconciled. All correction groups logged; printed unusual forms retained.
 
@@ -69,3 +69,5 @@ Part 7 Images 1–2: literary commentary conclusion and solar-chariot account fu
 Part 7 Images 3–4: solar mythology and transition to scientific description fully compared. Three dividers restored; displaced ஒரு returned to its printed position and OCR noise removed. Unusual printed mythological names retained.
 
 Part 7 Images 5–6: scientific solar description, all printed figures and planetary discussion fully compared. Clear OCR errors repaired; dated scientific statements and unusual quotation boundaries retained.
+
+Part 7 Images 7–9: eclipse discussion, final comparison and both numbered news items fully compared. Closing three-floret ornament retained using floral symbols. Printed போச, மானிலம் and astronomical numbers retained. All seven parts now visually reviewed; two printer-footer concerns remain open.
