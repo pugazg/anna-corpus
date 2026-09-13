@@ -1,6 +1,6 @@
 # The Treasure of the Periya Puranam / பெரிய புராணப் புதையல் — working translation
 
-Status: INCOMPLETE; not a canonical bilingual document. All 11 Part 1 scans and the prose/numbered examples of Part 2 Images 1–8 are translated and compared with the reconciled Tamil. Part 2 Image 1's printer footer remains unresolved and is explicitly marked in this draft. Next: Part 2 Image 9, `009-f0dde6d08e.png`, beginning `தேவி! இரு பிரிவும் இப்படிகொக்கரித்தன`. Karuppannar’s narrated dialogue remains open.
+Status: INCOMPLETE; not a canonical bilingual document. All 11 Part 1 scans and the prose/numbered examples of Part 2 Images 1–10 are translated and compared with the reconciled Tamil. Part 2 Image 1's printer footer remains unresolved and is explicitly marked in this draft. Next: Part 3 Image 1, `001-a5e19231ca.png`, beginning `மீட்க அரும்பாடுபடலானார்,`. Continue the open release-from-confinement sentence; its English predicate begins before the part boundary for grammatical continuity.
 
 Source recovery: all 70 scans visually reviewed. The printer footers at Part 2 Image 1 and Part 5 Image 3 remain unresolved; keep their current Tamil unchanged and retain the recovery hold. This draft translates only reconciled passages. No translation-state refresh or pending-count reduction is authorized by this partial checkpoint.
 
@@ -243,6 +243,54 @@ they must have organized a ‘grand conference.’ I went happily in procession.
 
 “‘We'll break your leg.’
 
+### Image 9: 009-f0dde6d08e.png
+
+“Devi! Both sides bellowed like this, while I sat enthroned in the mandapam! One side tried to take me back to the temple as before; the other said no and stopped them. What could I do? Both sides were my devotees! Whose side could I take? I thought, ‘Let the two sides fight. I'll just go to the temple. I don't need the favour of either side.’ But how could I get to the temple? I was in a terrible fix, Devi! I was bewildered.
+
+“In out-of-the-way villages, when a wedding dispute breaks out, one crowd shouts, ‘Bring the girl!’ and another shouts, ‘Don't take the girl away!’ The girl caught in the quarrel between the two crowds may weep and lament. My situation had become like hers. But could I lament? I was a god! Those subjecting me to this cruelty were devotees who worshipped me! What was I to do?
+
+“The Karuppa band of devotees kept saying, ‘The proper thing is to take the god back to the temple.’ The Pichchai band said, ‘Settle the dispute before touching the god. If you touch him before the matter is settled, we won't let you get away with it.’
+
+“I wanted to ask, ‘You sinners! If you have some dispute among yourselves, why torment me over it? After I go to the temple, can't you discuss your affair and settle it? Is it right to humiliate me like this?’ But how could I ask?
+
+“Meanwhile, the things being said in the village were more than I could bear to hear.
+
+“‘Hasn't the god set off yet?’
+
+“‘No. Apparently they're saying they won't let the god go.’
+
+“‘Why? Who?’
+
+“‘That Pichchaiya's lot.’
+
+### Image 10: 010-46680d251e.png
+
+“‘Why?’
+
+“‘Apparently there's some dispute with Karuppaiya. They're saying, “Settle that matter before touching the god; otherwise we won't let you.”’
+
+“‘Is the god still in the mandapam?’
+
+“‘Yes, poor thing, still there in the mandapam.’
+
+“‘He would have reached the temple by this time.’
+
+“‘Yes—if only they'd let him!’
+
+“‘If they have a quarrel among themselves, what has the god done, poor thing? Must they keep him waiting in the mandapam?’
+
+“That is how the women talk.
+
+“The boys, meanwhile, keep shouting, ‘Hey! The god's got caught in the mandapam!’
+
+“Devi! Apparently those two sides had some dispute concerning the administration of the temple. That is why they reduced me to this state.
+
+“They declared firmly that I must not be taken out of the mandapam unless the temple dispute was resolved. Having said decisively, ‘Unless the accounts are settled, we will not let Karuppannasami be taken to the temple,’ the Pichcha crowd of devotees, Devi, left me inside the mandapam, pulled the door shut, locked it and went away. I was confined inside. They had locked the mandapam. If I had not hankered after a festival, I could have remained peacefully in the temple. Now they had put me in the mandapam and locked it.
+
+“‘Hey, the god's inside, man! They've locked him in!’ they shout, jumping about.
+
+“‘Poor Karuppannasami! The fellow has locked him up,’ the women say, resting their hands against their chins. I was imprisoned inside. Karuppa, the devotee who had brought me to this plight, began striving to secure my
+
 ## Translator's Notes — working
 
 - Title: “The Treasure of the Periya Puranam” retains the named work and the ironic suggestion of a treasure sought within it. The Tamil title is retained above.
@@ -268,3 +316,5 @@ they must have organized a ‘grand conference.’ I went happily in procession.
 - Part 2 Image 6: “Aligarh lock” retains the named reference without adding unsupported claims about the particular lock. The violent threats are hypothetical words the god asks whether he could utter; they are not converted into acts that occurred. All three lock-related shouts and the question-and-answer exchanges are retained.
 - Part 2 Image 7: பக்தகோடிகள் is rendered idiomatically as “countless devotees,” not treated as a census figure. “Self-Respect” retains the movement reference in the god's imagined taunt; Vaikasi retains the Tamil month. The food list, illness comparison and change from pride to danger are preserved.
 - Part 2 Image 8: mandapam denotes the hall in which the deity is displayed for worship. Pichcha/Pichchai preserves the printed name variation rather than silently harmonizing it. “Mighty tigers” retains the sarcastic challenge சூரப் புலிகளோ. Every competing shout is translated in order within Karuppannar's continuing account; the English nesting marks do not alter the Tamil quotation boundaries.
+- Part 2 Images 9–10: all villagers' exchanges and children's taunts are retained in sequence within Karuppannar's narration. Pichchaiya/Karuppaiya retain the colloquial name forms. தாய்மார்கள் is rendered “the women” in this village conversation; their chin-resting gesture is retained.
+- Part 2 Image 10–Part 3 Image 1: Tamil splits சிறை / மீட்க across the part boundary. English leaves “secure my” open for “release from confinement”; the predicate “began striving” is placed before the boundary for English syntax, not duplicated in the continuation. கருப்ப பக்தர் is retained as Karuppa the devotee, without silently substituting the rival faction's name.
