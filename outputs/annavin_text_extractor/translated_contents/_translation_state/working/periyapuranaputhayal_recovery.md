@@ -4,7 +4,7 @@ Canonical file: katturaigal/periyapuranaputhayal.md. Seven parts, 70 scans; no p
 
 Coverage: Part 1 Images 1–11 and Part 2 Images 1–10 and Part 3 Images 1–10 and Part 4 Images 1–10 and Part 5 Images 1–10 and Part 6 Images 1–10 and Part 7 Images 1–9 compared visually (70/70 scans; two printer-footer concerns remain open). Title/date confirmed; opening prose repaired only where scan-proven. Corrections recorded in ocr_concerns.csv. Printed historical spellings and unusual wording retained.
 
-Next: Resolve the printer-footer readings in Part 2 Image 1 and Part 5 Image 3 using a clearer witness before source release. All 70 scans have now been compared. A separate working English draft now covers Part 1 Images 1–5; continue at Part 1 Image 6 while retaining the footer recovery hold. Do not release the source or build the canonical bilingual file until the two footers are resolved. Part 5 local scans exist despite absent link in pending report; use RMRL if any missing or unreadable evidence is encountered.
+Next: Resolve the printer-footer readings in Part 2 Image 1 and Part 5 Image 3 using a clearer witness before source release. All 70 scans have now been compared. A separate working English draft now covers Part 1 Images 1–7; continue at Part 1 Image 8 while retaining the footer recovery hold. Do not release the source or build the canonical bilingual file until the two footers are resolved. Part 5 local scans exist despite absent link in pending report; use RMRL if any missing or unreadable evidence is encountered.
 
 Images 3–4: inoculation comparison, reformers’ paths, coconut-tree thief analogy and the five-eyed bogeyman discussion fully reconciled. All correction groups logged; printed unusual forms retained.
 
@@ -75,3 +75,5 @@ Part 7 Images 7–9: eclipse discussion, final comparison and both numbered news
 2026-09-13 continuation: re-inspected both original footer scans; neither uncertain abbreviation has been replaced by conjecture. Web searches for the title, including an RMRL-restricted query, did not produce a usable clearer witness. Search absence is not proof that RMRL lacks the work. Began the separate English draft through Part 1 Image 3, including the cross-scan inoculation sentence. Counts unchanged; no state refresh.
 
 English checkpoint: Part 1 Images 4–5 translated in full, preserving the page-spanning five-eyed-one wordplay, religious/medical analogies and four-star divider. Next: Part 1 Image 6. Footer concerns remain open; no canonical assembly or state refresh.
+
+English checkpoint: Part 1 Images 6–7 translated and compared, including the waterworks page join, all three guide examples and the social-reform questions. Printed திருத்தாவிட்டால் is translated literally with an explicit anomaly note. Next: Part 1 Image 8. Recovery hold and counts unchanged.
