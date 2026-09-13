@@ -1,6 +1,6 @@
 # The Treasure of the Periya Puranam / பெரிய புராணப் புதையல் — working translation
 
-Status: INCOMPLETE; not a canonical bilingual document. All 11 Part 1 scans and the prose/numbered examples of Part 2 Images 1–4 are translated and compared with the reconciled Tamil. Part 2 Image 1's printer footer remains unresolved and is explicitly marked in this draft. Next: Part 2 Image 5, `005-7df6142e3b.png`, beginning `என்று கருதுகிறீரா தேவி! அவர்களல்ல.` Continue the open question across the scan boundary.
+Status: INCOMPLETE; not a canonical bilingual document. All 11 Part 1 scans and the prose/numbered examples of Part 2 Images 1–6 are translated and compared with the reconciled Tamil. Part 2 Image 1's printer footer remains unresolved and is explicitly marked in this draft. Next: Part 2 Image 7, `007-6761ecfc62.png`, beginning `பூட்டி வைத்தார்கள். அவ்வளவு 'பக்தி' என்னிடம்.` Continue the unfinished sentence across the scan boundary.
 
 Source recovery: all 70 scans visually reviewed. The printer footers at Part 2 Image 1 and Part 5 Image 3 remain unresolved; keep their current Tamil unchanged and retain the recovery hold. This draft translates only reconciled passages. No translation-state refresh or pending-count reduction is authorized by this partial checkpoint.
 
@@ -173,6 +173,36 @@ Seething, Karuppannasami replied, “The devotees haven't stopped at that, Devi.
 
 As though mocking her, Karuppannar repeated “Who?” once, then said, “Do you imagine that it was the atheists who humiliated me,
 
+### Image 5: 005-7df6142e3b.png
+
+Devi? It was not them. They spend their time associating with human beings and attending to human problems. It was the devotees who humiliated me—the very devotees who worship with folded hands, tap their cheeks and burn camphor. They did this to me—shame, shame! Even now, thinking of it makes me ashamed. They humiliated me. I was rescued with the help of the police,” he said. Devi could scarcely contain her astonishment.
+
+“Karuppannar! What are you saying? Devotees—your words seem to have no connection with one another,” she said.
+
+“Devi, listen to this. I have never asked these devotees to do particular things to please me or to make particular offerings. They come of their own accord and do all sorts of things, whatever occurs to them. I put up with everything, quietly saying, ‘Siva!’ Seeing my patience and magnanimity, these devotees grew bold enough to think they could do anything they liked to me . . .” Karuppannar's throat choked with grief. Devi's astonishment increased. “Grew bold enough . . . Tell me, Karuppannar! Grew bold enough . . .” Devi put her eagerness into words. Karuppannasami burst out angrily: “They put me in a room and locked it!” Devi too felt a little frightened.
+
+“They locked you up? You? The devotees?” Devi asked in bewilderment.
+
+“Devi! You feel such horror merely hearing about it! What must my heart have suffered when they put me in a room and locked it? Am I some Karuppan who works in the fields, to cry out, ‘Master, master, let me go’? I am the Karuppannasami whom they call upon and ask for boons! Yet they pushed me into a room and locked it. What could I do?” Karuppannasami said, exhausted.
+
+Devi began to feel real sympathy.
+
+### Image 6: 006-fef0767114.png
+
+“This is a disgraceful situation. The devotees have practically put you in prison,” she said sadly.
+
+“Devi! If you had heard the shouting they did then, you would have understood their conduct and character. One fellow bellows, ‘Shut him in and lock it, man! Let's see what happens!’
+
+“Another shouts, ‘Bring a big lock!’
+
+“Another asks, ‘Do you want an Aligarh lock?’ Such shouting, such audacity! ‘Go on, shut him in and lock it! Let's see who comes and what he can do . . .’ they shouted. Devi, they put me in a large room, locked it, and went away.
+
+“Outside they laugh: ‘Now let's see what happens!’ I am confined inside . . . The ‘sinners’ who locked me up are laughing! Could I ask them, ‘What is this injustice? Open up and let me out! Otherwise I will make blood flow from your noses and mouths and break your arms and legs’? Could I speak like that? They are devotees! I am the god they worship! Devi, think how distressed my heart must have been,” Karuppannar said.
+
+“Karuppannar! Leave that aside. Why did they lock you up . . . ? What did you do?” Devi asked. Karuppannar laughed and said, “Me? What did I do? I listened patiently to all the lies they kept telling as they stood before me. That was my mistake. If I had rebuked even one devotee even once, saying, ‘Enough! Stop lying,’ they would not have had so much nerve that day.”
+
+“What made it necessary to put you in a separate place and lock you up?” Devi asked again. In a voice mingling weariness and disgust, Karuppannar said, “Are you asking why they locked me up, Devi? Apparently I am ‘their god.’ So, to prevent some other devotees from taking me away, they shut me in and
+
 ## Translator's Notes — working
 
 - Title: “The Treasure of the Periya Puranam” retains the named work and the ironic suggestion of a treasure sought within it. The Tamil title is retained above.
@@ -194,3 +224,5 @@ As though mocking her, Karuppannar repeated “Who?” once, then said, “Do yo
 - Part 2 Image 2: அஷ்டகுல பர்வதங்கள் is rendered “the eight great mountain ranges”; நாழிகை is retained as nazhigai, a traditional division of time. The printed pearls, the multiple Uma forms, emergence through navels, and the drying of the winds are retained without replacing them with other versions of the stories.
 - Part 2 Image 3: the final two examples retain the printed sequence and agency without supplying a different standard version of the Vinayaka story. சோடசோபசாரம் is rendered “the sixteen ritual services.” The transition into the Karuppannasami–Devi satire and its four-star divider are retained.
 - Part 2 Images 3–4: Karuppannasami, Karuppannar and Karuppanna preserve the source's varying forms of address; Devi is retained without imposing a more specific goddess identity. Palam is retained as the traditional weight unit in the half-palam camphor remark. The short exchanges and the open question leading into Image 5 are preserved; quotation marks in English clarify speakers without modifying the irregular Tamil punctuation.
+- Part 2 Image 5: the cheek-tapping gesture of worship is retained. சிவனே என்று is translated with both the invocation “Siva!” and the sense of quietly enduring things. The field-worker comparison depends on சாமி meaning “master” as an address to a superior as well as “god”; English distinguishes the two uses without changing the source.
+- Part 2 Image 6: “Aligarh lock” retains the named reference without adding unsupported claims about the particular lock. The violent threats are hypothetical words the god asks whether he could utter; they are not converted into acts that occurred. All three lock-related shouts and the question-and-answer exchanges are retained.
