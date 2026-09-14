@@ -1,6 +1,6 @@
 # The Treasure of the Periya Puranam / பெரிய புராணப் புதையல் — working translation
 
-Status: INCOMPLETE; not a canonical bilingual document. All 11 Part 1 scans and the prose/numbered examples of Part 2 Images 1–10, plus all 10 Part 3 images and Part 4 Images 1–6, are translated and compared with the reconciled Tamil. Part 2 Image 1's printer footer remains unresolved and is explicitly marked in this draft. Next: Part 4 Image 7, `007-c3a8cb397a.png`. Continue the open description after “a golden”; inspect its opening before appending.
+Status: INCOMPLETE; not a canonical bilingual document. All 11 Part 1 scans and the prose/numbered examples of Part 2 Images 1–10, plus all 10 Part 3 images and Part 4 Images 1–8, are translated and compared with the reconciled Tamil. Part 2 Image 1's printer footer remains unresolved and is explicitly marked in this draft. Next: Part 4 Image 9, `009-caf5ed65a9.png`, beginning `பாடியும் பதிகம் கோர்த்தும், தேவார திருவாசகம் ஓதியும்`. Continue after “they sing” with the pann/music and hymn discussion.
 
 Source recovery: all 70 scans visually reviewed. The printer footers at Part 2 Image 1 and Part 5 Image 3 remain unresolved; keep their current Tamil unchanged and retain the recovery hold. This draft translates only reconciled passages. No translation-state refresh or pending-count reduction is authorized by this partial checkpoint.
 
@@ -523,6 +523,30 @@ How do people see monastery heads today?
 
 A monastery like a palace; a flower garden around it; a canal like a little river; a garden adorned with red tender-coconut trees, red-banana plants, oleanders and roses; figures strolling there without fatigue; ruddy complexions with a sheen upon them; saffron robes with a glitter to them; a rudraksha necklace with gold casings; sacred ash on the forehead with a fragrant application upon it; a golden
 
+### Image 7: 007-c3a8cb397a.png
+
+platter bearing a royal feast; hot water in a silver cup; fragrant water in a crystal bowl; javvadu perfume and civet in a little container, nutmeg and mace in another; an audience hall with globe lamps and chandeliers; beside it an ornate bedchamber fit to be called a royal inner apartment; a full-length mirror there, and directly before it an eye-catching bed; on it a silk mattress, and on that fragrant jasmine; splendid bolsters and pillows. Reclining comfortably upon them, the handsome thambiran shines as the representative of Saivism. This is what the people see! But is this what they desire? Was it for this spectacle that former kings gave the people's wealth to monasteries and made some among them monastery heads? No! No! Other people, caught up in life's struggles, languish without the opportunity or time to serve the righteous path and Tamil. With the good intention of remedying that lack and providing some people exclusively for public service, they established monasteries and set heads over them. Alas, what a perversion! We see monastery heads ruling their monasteries; they do not rule among the people or even come among them. If they have now become like petty princes, wealthy gentlemen or capitalists, how will the people support them? How will they tolerate them?
+
+What Are the Conditions of the Times?
+
+What age are we living in? Is it an age of “turning bones into a woman,” an age when a palm-leaf manuscript travels against the current, a time when a fox becomes a horse? No! It is an age of inquiry, an age in which reason has become the guide; an age of replacing monarchy with government by the people, of removing capitalism and establishing social equality; a time when fresh ideas blossom—a revolutionary age!
+
+If monastery heads live like this in such an age, can one say that respect and affection for them will flow in people's hearts? To say so would conceal the truth. How can the people revere “thambirans” who, for their ceremonial entry into town, parade before them in palanquins, adorned with fragrance, surrounded by countless lamps that turn night into day?
+
+### Image 8: 008-ebd8c3a902.png
+
+If people see the thambiran's golden body and then see the frailty of their own bodies, they cannot help lamenting: “The glory of Saivism has gone to the thambiran; we see none of it for ourselves.” When one who has come to spread Saivism processes in a golden palanquin, wearing a string of pearls, a coral ring, gold earrings and white silk, what will people think as they watch—people with hands that have laboured, ploughed, cut and split, with wounded feet and sunken bellies? Will they rejoice, “How glorious is the glory of Saivism!”?
+
+“‘He whose ear bears an earring—riding the bull’ has apparently ‘bestowed grace’ so that thambirans may live thus, while for us he has granted homes like wilderness and family members like skeletons! What justice is his!” Why would they not think so? In this age, when a capitalist employing a thousand workers in a cotton mill is caught in a storm of strikes once every six days, can monastery heads make life a pleasure swing and Saivism a sofa to recline upon, yet expect people to lend their ears to the song, “The ash is the mantra—the ash is upon the heavenly ones”? Is that something that can happen?
+
+Our View of Monasteries
+
+We hold that monasteries should be centres of the righteous path, a forum for the Tamil person, and training grounds for the good life of the Tamils. All monastic property should be used for such work. It should not be used to display thambirans whose diamond ring tries and fails to outshine their emerald ring, while the golden earrings hanging from their ears laugh at the sight with glittering flashes. No one will deny that our view is a mirror of the times.
+
+The Tamil kings of those days entrusted vast properties to the monastery heads precisely so that the people's understanding and character would develop through them. If the monastery heads had used these resources to move among the people and serve them, Tamil Nadu would have advanced in so many ways.
+
+We know that in some monasteries scholars study lessons, practise philosophy and learn poetry; they sing
+
 ## Translator's Notes — working
 
 - Title: “The Treasure of the Periya Puranam” retains the named work and the ironic suggestion of a treasure sought within it. The Tamil title is retained above.
@@ -570,3 +594,5 @@ A monastery like a palace; a flower garden around it; a canal like a little rive
 - Part 4 Images 4–5: the sentence on verifying reports crosses the scan boundary. Its subject and negative predicate are moved earlier in English for syntax; the continuation supplies “ascertaining all the facts,” completing the source sentence without duplication.
 - Part 4 Image 5: the source's 465-year age is retained, distinct from the previous scan's 400/500 figures. The quoted verse keeps its separate segments and ironic “began his Saivism.” “Bundles of sugarcane” preserves கட்டிக் கரும்பினங்கள், an erotic sweetness image in context, without replacing it with unprinted anatomical detail. The poet is not named in this passage; no attribution is supplied by inference.
 - Part 4 Image 6: veli is retained as the land-area unit without imposing a fixed conversion. Chandrakantha retains the named film reference; the deferential yoga invitation conveys the honorific irony. The garden, ornaments and bodily descriptions remain a continuous catalogue crossing into Image 7. உத்திராக்கம் is rendered “rudraksha” without modernizing the Tamil spelling.
+- Part 4 Image 7: thambiran retains the monastic title; javvadu and civet retain the named perfumes. பனிநீர் is rendered “fragrant water” in the luxury catalogue. பட்டணப் பிரவேசம் is a ceremonial entry into town. The political transformations are the author's characterization of his age, not newly asserted present-day developments.
+- Part 4 Image 8: the two hymn fragments are translated separately in quotation marks. The six-day strike interval, thousand workers and jewel comparison are retained as printed rhetoric. தமிழன் மன்றம் is rendered “a forum for the Tamil person,” preserving the singular formulation instead of silently replacing it with தமிழர். The final clause crosses into Image 9.
