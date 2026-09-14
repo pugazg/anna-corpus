@@ -1,6 +1,6 @@
 # The Treasure of the Periya Puranam / பெரிய புராணப் புதையல் — working translation
 
-Status: INCOMPLETE; not a canonical bilingual document. All 11 Part 1 scans and the prose/numbered examples of Part 2 Images 1–10, plus Part 3 Images 1–6, are translated and compared with the reconciled Tamil. Part 2 Image 1's printer footer remains unresolved and is explicitly marked in this draft. Next: Part 3 Image 7, `007-8551e45311.png`, beginning `திருவிழாக்கள் நடத்தி, கோயில் வெடிச் சத்தத்தைக் கேட்டு`. Continue the refugees’ unfinished lament; some temple-fireworks wording precedes the boundary for English syntax and must not be repeated.
+Status: INCOMPLETE; not a canonical bilingual document. All 11 Part 1 scans and the prose/numbered examples of Part 2 Images 1–10, plus Part 3 Images 1–8, are translated and compared with the reconciled Tamil. Part 2 Image 1's printer footer remains unresolved and is explicitly marked in this draft. Next: Part 3 Image 9, `009-894b4450ab.png`. Beginning `பூரிப்படைவேன். தேவி! பாம்பை அணிபவன்`. Continue the open question with “be delighted?” before the address to Devi.
 
 Source recovery: all 70 scans visually reviewed. The printer footers at Part 2 Image 1 and Part 5 Image 3 remain unresolved; keep their current Tamil unchanged and retain the recovery hold. This draft translates only reconciled passages. No translation-state refresh or pending-count reduction is authorized by this partial checkpoint.
 
@@ -349,6 +349,36 @@ she said, taking a dig at Paramasiva. ‘You ask what I am angry about and why I
 
 “‘Lord! Have you no eyes? Is your heart stone? Are you called the Compassionate One when you leave us to suffer like this? With the very hands that built your temple, we now wring our hands, not knowing what to do. Have you no compassion? The feet that walked around your temple now serve only to run through forests and over hills, searching for somewhere to survive. Do our cries not reach your ears? Our ears, which delighted in hearing the temple fireworks when we held
 
+### Image 7: 007-8551e45311.png
+
+festivals for you, are now pierced by the sound of artillery fire. Will your heart not soften?’ those people cried. I longed to ask who they were and why they were weeping like that. But I restrained myself, afraid that speaking would reveal my presence. As though she knew what I wanted to learn, Parvati began speaking further.
+
+“‘That place is Imphal! To avoid falling into Japanese hands and being ruined, villagers have left their homes as refugees and are making their way towards Imphal in great distress. They ask whether you have no eyes. In short, they are asking, “Are you blind?” They ask whether your heart is iron. My lord! They did not merely speak like this; they abused you still more harshly. Previously, the pitiable people who died of starvation in Bengal spoke blamefully in the same way. In many places beset by famine and disease, people call you blind, hard-hearted, cruel, one who does not protect the poor. What must a wife's heart suffer when she hears others speak of her husband like that? At least out of consideration for that, shouldn't you remove these people's suffering? If you cannot, shouldn't you at least tell them so? Can you remain without looking up or listening, content with dwelling in Kailasa, my love, Narada's music, Nandi's mridangam, Ganga's amorous conversation and all your other pleasures?’ she asked.
+
+“I thought the Mother's words would anger the Lord. Sakti's words did not anger Siva. Strolling calmly, he began to explain the matter. ‘Parvati! I have given the earthly world everything I ought to give it. I have done everything I ought to do. There is nothing more I can do,’ he said. Parvati hurried after him, grasped his shoulder and shook him. ‘Splendid! Have you done everything you ought to do? What fine reasoning! Because there is no one to question you, you have grown bold enough to do whatever you please and speak however you like,’ she challenged him. At that very moment, the same thought leapt into my mind. Lord Siva said, ‘Sivakami, put aside your
+
+### Image 8: 008-712fa7b2b8.png
+
+anger! I created the world! I created life! I created the means to sustain life! I created enchanting forests and groves of fruit trees. I made forest streams and commanded air and fire to perform their duties. I provided unfailing rivers and fertile land. I gave every substance needed for people's enjoyment and comfort. I created the sea and gave vessels to cross it. I created pearls in the sea and set sharks and swirling waves to guard them, so that not everyone who saw them could carry them off. I created gold and hid it away so that it would not be used indiscriminately. I also gave people intelligence to discover these things. What else can I give? What else is there? What have they given me, who gave so much?’ Paramasiva began to ask.
+
+“‘My lord! What sort of question is this?’ Parvati asked, just as any of us might think to ask. ‘What have they given?’ Paraman asked again angrily. Then this conversation took place.
+
+“‘Why, haven't they given you beautiful temples?’
+
+“‘For me? Or for the thieves who move into temples, stage fraudulent dramas and grab money? Whom is the temple for, Kamakshi? For me? Did I ask for somewhere to live? That wasn't what I asked for. My temple is in the hall of people's hearts. Do I need another?’
+
+“‘They perform ritual bathing and worship for you.’
+
+“‘For me? Isn't that a clownish performance conducted so that those who do no work can live on the money of the gullible?’
+
+“‘They hold temple-car processions and street festivals for the town to honour you.’
+
+“‘To honour me, or to honour the flute-player, the smiling man, the musician and the pleasure-giving women?’
+
+“‘They spend vast sums on jewels, adornments and the like for you.’
+
+“‘Is that expenditure made for me? On seeing the gold I created as earth mingled with earth, would I
+
 ## Translator's Notes — working
 
 - Title: “The Treasure of the Periya Puranam” retains the named work and the ironic suggestion of a treasure sought within it. The Tamil title is retained above.
@@ -384,3 +414,5 @@ she said, taking a dig at Paramasiva. ‘You ask what I am angry about and why I
 - Part 3 Images 3–5: the threatened death sentence crosses Images 3–4; Viran's reply crosses Images 4–5. English retains those narrative joins without repeating the predicates.
 - Part 3 Image 5: கீர்த்திக் கணவாய் is retained as the metaphor “mountain pass of glory.” The Japanese approach to Imphal and danger to Kohima remain the narrator's contemporary wartime claims, without assigning an unprinted date. The flood/stone comparison and Viran's return to the divine conversation are retained in full.
 - Part 3 Image 6: Kapali, Kamakshi and the tiger-skin epithet preserve the changing divine names in the scene. The narrator explicitly says Paramasiva “did something”; no physical action beyond the printed chin gesture is invented. The unfinished amorous suggestion remains unfinished. The refugees' temple/flight contrasts continue into Image 7, with English clause order adjusted across the boundary but no omission or duplication intended.
+- Part 3 Image 7: the refugees' artillery/fireworks contrast completes the clause begun in Image 6. Imphal, Japanese forces and Bengal starvation remain the scene's historical references, not independently dated here. The list of divine pleasures is retained, including Ganga's amorous conversation and Nandi's mridangam drum.
+- Part 3 Image 8: the source's unusual `“பரமன் என்ன தந்தார்கள்?” என்று மீண்டும் கேட்டார்` is read in context as Paraman repeating “What have they given?”; Tamil remains unchanged. “The smiling man” retains குறுநகை புரிவோன் without imposing an unprinted identity. “Pleasure-giving women” preserves the connotation of இன்பவல்லிகள் without specifying a profession. The dialogue's temple, ritual, festival and jewellery questions are retained in sequence.
