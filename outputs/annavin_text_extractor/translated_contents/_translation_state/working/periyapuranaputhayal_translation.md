@@ -1,6 +1,6 @@
 # The Treasure of the Periya Puranam / பெரிய புராணப் புதையல் — working translation
 
-Status: INCOMPLETE; not a canonical bilingual document. All 11 Part 1 scans and the prose/numbered examples of Part 2 Images 1–10, plus Part 3 Images 1–8, are translated and compared with the reconciled Tamil. Part 2 Image 1's printer footer remains unresolved and is explicitly marked in this draft. Next: Part 3 Image 9, `009-894b4450ab.png`. Beginning `பூரிப்படைவேன். தேவி! பாம்பை அணிபவன்`. Continue the open question with “be delighted?” before the address to Devi.
+Status: INCOMPLETE; not a canonical bilingual document. All 11 Part 1 scans and the prose/numbered examples of Part 2 Images 1–10, plus all 10 Part 3 images, are translated and compared with the reconciled Tamil. Part 2 Image 1's printer footer remains unresolved and is explicitly marked in this draft. Next: Part 4 Image 1, `001-8312480c3f.png`, beginning `“பரதா! கூறினது மட்டுமல்ல, இது இந்தக் கிழமை`. The dream has ended, but Viran’s conversation with the narrator continues.
 
 Source recovery: all 70 scans visually reviewed. The printer footers at Part 2 Image 1 and Part 5 Image 3 remain unresolved; keep their current Tamil unchanged and retain the recovery hold. This draft translates only reconciled passages. No translation-state refresh or pending-count reduction is authorized by this partial checkpoint.
 
@@ -379,6 +379,50 @@ anger! I created the world! I created life! I created the means to sustain life!
 
 “‘Is that expenditure made for me? On seeing the gold I created as earth mingled with earth, would I
 
+### Image 9: 009-894b4450ab.png
+
+be delighted? Devi! Do you think those same ordinary people who call me the wearer of serpents spend gold sovereigns for my sake? Isn't it the fraudulent play of a rich man who thinks he can enslave the simple by presenting himself as devout?’
+
+“‘They have adorned you with garlands of verse.’
+
+“‘To display their learning.’
+
+“‘They adorn you with garlands of flowers.’
+
+“‘For the priest to give affectionately to women—not for me.’
+
+“‘They praise you, saying that you alone are their support in everything.’
+
+“‘Isn't that a doctrine introduced by the self-seeking, who think, “If the ignorant lose their self-confidence, they will become nodding dolls; then we can conveniently hold our court”? How is that praise of me?’
+
+“‘They worship you, saying there is happiness for those who bow at your feet.’
+
+“‘That is what the selfish man says in his leisure. It is what an unsuspecting person says when deceived by another's goodness. Will that satisfy me?’
+
+“‘They go in crowds to all the sacred places where you have your temples.’
+
+“‘That is the mental delusion of the foolish. Taking advantage of it, the priestly class lives in smiling comfort.’
+
+“‘They have appointed priests and temple servants.’
+
+“‘So that they may live! Not to meet my needs!’
+
+“‘They have appointed sweet-voiced singing cuckoos and beautiful dancers in the temples for divine worship.’
+
+“‘To draw people in—not to serve me.’
+
+“‘They call you Mahesvara, whose greatness makes even kings of kings kneel.’
+
+### Image 10: 010-42a2c95a14.png
+
+“‘It was by speaking those beguiling words that clever rogues subdued crowned kings.’
+
+“The exchange ended. Parvati had run out of questions, but Paramasiva had not stopped speaking. ‘Parvati! The rogues turned me into stone and copper. They turned me, who gave them so many benefits, into stone and copper! Is that right? They wrote stories about me filled with repulsive obscenity, erotic antics. Do you know what thoughts arise in the minds of intelligent people? Beloved! Apparently I went to a devotee and asked him to send his wife along with me. Should anyone write a story like that? Yet they went and wrote it! As understanding grows, shouldn't such obscene stories be rejected as unnecessary? Apparently I went to another devotee and asked for a child's flesh to eat; I plucked out another devotee's eyes; I was struck with a bow, with stones and with a cane; I made pigs into ministers; I went as a messenger to a courtesan's house. Devi! Listen to this outrage: apparently I went as a messenger to a courtesan's house for a devotee called Sundaran. Should stories like these be written? What is to be done with the scoundrels who revile me like this, the poets who deceive people by invoking my name?’ Paramasiva asked.
+
+“I felt I simply must say, ‘What is to be done? Why not drag them here and tell each of them to study for six months in a Self-Respect school?’ Meanwhile, Parvati said, ‘Lord! After hearing you, my confusion has cleared. What can you do? People ruin themselves, and they have degraded us too. There is no way for them to recover except by developing their understanding.’ Then she said, ‘It is getting late, and I am sleepy.’ At that very moment, my younger brother tapped my back and said, ‘It is getting late. Get up!’ I awoke, and my dream of the conversation in Kailasa dissolved,” Viran said.
+
+“What a dream you had! And you came to tell it as though it were something tremendous!” I teased him.
+
 ## Translator's Notes — working
 
 - Title: “The Treasure of the Periya Puranam” retains the named work and the ironic suggestion of a treasure sought within it. The Tamil title is retained above.
@@ -416,3 +460,5 @@ anger! I created the world! I created life! I created the means to sustain life!
 - Part 3 Image 6: Kapali, Kamakshi and the tiger-skin epithet preserve the changing divine names in the scene. The narrator explicitly says Paramasiva “did something”; no physical action beyond the printed chin gesture is invented. The unfinished amorous suggestion remains unfinished. The refugees' temple/flight contrasts continue into Image 7, with English clause order adjusted across the boundary but no omission or duplication intended.
 - Part 3 Image 7: the refugees' artillery/fireworks contrast completes the clause begun in Image 6. Imphal, Japanese forces and Bengal starvation remain the scene's historical references, not independently dated here. The list of divine pleasures is retained, including Ganga's amorous conversation and Nandi's mridangam drum.
 - Part 3 Image 8: the source's unusual `“பரமன் என்ன தந்தார்கள்?” என்று மீண்டும் கேட்டார்` is read in context as Paraman repeating “What have they given?”; Tamil remains unchanged. “The smiling man” retains குறுநகை புரிவோன் without imposing an unprinted identity. “Pleasure-giving women” preserves the connotation of இன்பவல்லிகள் without specifying a profession. The dialogue's temple, ritual, festival and jewellery questions are retained in sequence.
+- Part 3 Image 9: பாமாலை/பூமாலை contrasts verse-garlands with flower-garlands; both exchanges remain separate. The unusual printed பிறனுடைய நலத்தால் ஏமாறும்போது is rendered literally “when deceived by another's goodness,” not silently changed to “wickedness” or “self-interest.” தற்குறிகள் is rendered “the ignorant”; the nodding-doll image is retained.
+- Part 3 Image 10: every alleged divine exploit in the speech is retained, including the printed agency in the plucking of the devotee's eyes; no familiar alternative retelling replaces it. தாசி is rendered “courtesan” in the messenger episode. “Six months” retains ஆறாறு மாதம் for each person, and the Self-Respect school preserves the movement reference. The dream revelation identifies Viran as the dreamer and is not turned into an event witnessed by the framing narrator.
