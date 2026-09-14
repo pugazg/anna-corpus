@@ -1,6 +1,6 @@
 # The Treasure of the Periya Puranam / பெரிய புராணப் புதையல் — working translation
 
-Status: INCOMPLETE; not a canonical bilingual document. All 11 Part 1 scans and the prose/numbered examples of Part 2 Images 1–10, plus all 10 Part 3 images and Part 4 Images 1–2, are translated and compared with the reconciled Tamil. Part 2 Image 1's printer footer remains unresolved and is explicitly marked in this draft. Next: Part 4 Image 3, `003-92c80ea9e1.png`, beginning `அந்தந்த மதவாதிகள், தங்கள் தங்கள் சமயங்களுக்கு ஆள்`.
+Status: INCOMPLETE; not a canonical bilingual document. All 11 Part 1 scans and the prose/numbered examples of Part 2 Images 1–10, plus all 10 Part 3 images and Part 4 Images 1–4, are translated and compared with the reconciled Tamil. Part 2 Image 1's printer footer remains unresolved and is explicitly marked in this draft. Next: Part 4 Image 5, `005-51d1a1c548.png`, beginning `வேண்டுமென்ற நல்லெண்ணம் பெரும்பான்மைப் பத்திரிகை`. Complete the English sentence with “ascertaining all the facts.” The Tamil clause order is reordered across the scan boundary; do not duplicate it.
 
 Source recovery: all 70 scans visually reviewed. The printer footers at Part 2 Image 1 and Part 5 Image 3 remain unresolved; keep their current Tamil unchanged and retain the recovery hold. This draft translates only reconciled passages. No translation-state refresh or pending-count reduction is authorized by this partial checkpoint.
 
@@ -449,6 +449,36 @@ A buffalo calf with six legs, a cow with three eyes, a fowl that is neither male
 
 A Siva lingam giving testimony; bones becoming a woman; a piece of palm leaf going against a flood; a rock of hard stone floating; a fox leaping; a child cut up and cooked as meat coming back to life and rising; a boar and a swan seeking the foot and the crown; a cane striking one person's back and the blow falling on everyone's back; the Lord arriving when an elephant cries out; a spider making a canopy; an elephant that worshipped Siva attaining Siva's abode—these are fabricated stories that could never have happened anywhere at any time, colossal lies.
 
+### Image 3: 003-92c80ea9e1.png
+
+They are merely stratagems devised by the adherents of each religion to recruit people to their respective faiths, deceive those they recruit, and pass their lives in comfort.
+
+All these are imaginative pictures from an age of barbarism. This blind tendency once existed among people in every country, not merely in this one. In all the other countries, this degraded condition, this darkness of mind, changed many years ago, and a new outlook suited to reason arose.
+
+The educated people there did not undertake the pernicious work of polishing antiquity to make it shine, assigning philosophical meanings to ideas that had lost their attraction with time, and keeping the people's minds forever crawling about in that old age. Even if they had to die under the punishments of foolish crowned rulers and the wrath of religious teachers, or endure cruelty while alive, they did not shrink from finding ways to enlighten the people. They sought to foster the growth of scientific understanding among them. Without favour or indulgence, they exposed the gods in temples and the imaginings told about them as storehouses of absurdity that undermine reason. Thought developed. A new age was born. People acquired new lives and prosperity.
+
+Leave aside educated intellectuals working in other fields. What approach have newspaper editors adopted—people who have studied, obtained degrees, travelled through many countries and gained experience, and who are in a position to sway people's understanding?
+
+Do they not allot column after column to the glories of Kokilattami, the glories of Sivaratri and the like—more space than they give to the Berlin question, American dominance, Soviet industrial prosperity and such matters? Have they the tongue to deny that they do this?
+
+“An eight-year-old village girl, Suras, says that she has been in the company of the gods. For the past ten days this has caused
+
+### Image 4: 004-e895173726.png
+
+a sensation in the town. Everyone comes to see the girl. She lives in a village on the bank of the Sabarmati.
+
+“The girl is said to have told her mother that she had seen Sri Krishna Bhagavan and other Hindu gods in person. From this she considers that she has returned after spending time with the gods. Occasionally she dances and plays the flute.”
+
+This report appeared in the 6 October 1948 issue of Dinamani. Now tell us what our educated people are doing!
+
+Teleprinting; machinery that prints several colours simultaneously on multiple pages and turns out thousands an hour; the experience of travelling through many countries—have you seen what all this is being used for? To what can we compare the condition of the educated people who carry on such propaganda?
+
+This is not a curiosity of nature of the kind mentioned at the beginning of the article. It is a puranic absurdity of the kind mentioned afterwards.
+
+Perhaps the puranic lore taught to the girl by her parents has developed so far that her frenzy has risen to the point where she imagines herself to be one of the gopi women—if the report was published on the basis of even some truth. But when even educated newspaper editors have yet to gain clarity, it is no wonder that the girl's thinking is disturbed!
+
+Somehow, as soon as newspaper people receive reports that such “miracles” are happening, they feel they must set aside even the most essential news and give these stories priority. If they receive a report that someone four hundred or five hundred years old is alive, most newspaper editors do not have the good sense to think they should publish it only after
+
 ## Translator's Notes — working
 
 - Title: “The Treasure of the Periya Puranam” retains the named work and the ironic suggestion of a treasure sought within it. The Tamil title is retained above.
@@ -491,3 +521,6 @@ A Siva lingam giving testimony; bones becoming a woman; a piece of palm leaf goi
 - Part 4 Image 1: the one-and-a-quarter-anna price is retained. Iyer, Brahmasri and Ganapati retain the caste/scholarly designations in Viran's satire; Ganapati here denotes a Vedic recitation scholar, not the deity. The Gandhi–Birla dream and Hindustan Times editorship statements remain the character's claims; the newspaper issue has not been independently checked.
 - Part 4 Image 2: “Right Honourable” renders மகா கனம் in the Srinivasa Sastri reference. The reported Swadesamitran dream and the list of world affairs are translated without treating the claims as independently verified. அலி, applied to a fowl, is rendered “intersex” in the source's neither-male-nor-female description, without assigning a specific biological diagnosis.
 - Part 4 Image 2: all natural curiosities and puranic examples are retained separately. The printed நரி பாய்வது is rendered literally “a fox leaping,” not expanded into the familiar fox-to-horse story. “The foot and the crown” preserves அடிமுடி; no missing mythological explanation is inserted into the body.
+- Part 4 Image 3: கோகிலாட்டமி is transliterated “Kokilattami” as printed; identification with a more familiar festival name is not assumed. மகாத்மியம் is rendered “the glories of.” Suras retains the uncertain printed personal name சுரஸ் without silently replacing it.
+- Part 4 Image 4: the Dinamani attribution, 6-10-48, is translated as 6 October 1948, without independently claiming to have checked the newspaper issue. The author's speculative explanation of the child's behaviour remains explicitly conditional; it is not a medical diagnosis by the translator. Gopi refers to the cowherd women associated with Krishna. The printed 400/500-year ages remain claims under criticism.
+- Part 4 Images 4–5: the sentence on verifying reports crosses the scan boundary. Its subject and negative predicate are moved earlier in English for syntax; the continuation supplies “ascertaining all the facts,” completing the source sentence without duplication.
