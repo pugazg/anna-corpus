@@ -1,6 +1,6 @@
 # The Treasure of the Periya Puranam / பெரிய புராணப் புதையல் — working translation
 
-Status: INCOMPLETE; not a canonical bilingual document. All 11 Part 1 scans and the prose/numbered examples of Part 2 Images 1–10, plus all 10 Part 3 images, are translated and compared with the reconciled Tamil. Part 2 Image 1's printer footer remains unresolved and is explicitly marked in this draft. Next: Part 4 Image 1, `001-8312480c3f.png`, beginning `“பரதா! கூறினது மட்டுமல்ல, இது இந்தக் கிழமை`. The dream has ended, but Viran’s conversation with the narrator continues.
+Status: INCOMPLETE; not a canonical bilingual document. All 11 Part 1 scans and the prose/numbered examples of Part 2 Images 1–10, plus all 10 Part 3 images and Part 4 Images 1–2, are translated and compared with the reconciled Tamil. Part 2 Image 1's printer footer remains unresolved and is explicitly marked in this draft. Next: Part 4 Image 3, `003-92c80ea9e1.png`, beginning `அந்தந்த மதவாதிகள், தங்கள் தங்கள் சமயங்களுக்கு ஆள்`.
 
 Source recovery: all 70 scans visually reviewed. The printer footers at Part 2 Image 1 and Part 5 Image 3 remain unresolved; keep their current Tamil unchanged and retain the recovery hold. This draft translates only reconciled passages. No translation-state refresh or pending-count reduction is authorized by this partial checkpoint.
 
@@ -423,6 +423,32 @@ be delighted? Devi! Do you think those same ordinary people who call me the wear
 
 “What a dream you had! And you came to tell it as though it were something tremendous!” I teased him.
 
+## Part 4: periyapuranaputhayal_4.md
+
+### Image 1: 001-8312480c3f.png
+
+“Bharata! I haven't merely told you this. It must appear in this week's paper,” Viran insisted.
+
+“You have nothing else to do—go away! Apparently he went to Kailasa in a dream and heard Parvati and Paramasiva talking! Are we to put all this in the paper? A fine job!” I refused. Then Viran let off a bombshell!
+
+“Very well, Bharata! If I dream, you think it offers nothing of interest. If it were an Iyer's dream, it would become a divine utterance and occupy page after page in the paper,” he said.
+
+“No paper would publish every sort of dream that any and every person has,” I explained, describing how a newspaper is run.
+
+“You are very forgetful!” Viran said.
+
+“Me?” I asked. “Yes,” he replied, and continued: “Many people's dreams still circulate in this country under the name of Puranas; people believe and discuss them. Bharata! I am not even citing that as evidence. Leave aside your one-and-a-quarter-anna paper. Do you know that dreams like these are published in papers run by Brahmasris, papers with large capital and substantial revenue, and lodged in readers' minds? I will give just two examples. Listen. Apparently Gandhi appeared in Birla's dream and asked for money. That appeared in the paper, man! Its editor was no ordinary person: he was the Mahatma's son. The ‘dream’ appeared in the paper he edited. Nor did it remain merely a dream—it brought money too. Apparently, after having that dream, the millionaire actually gave money to Gandhi. If you doubt it, look at the Delhi paper called the Hindustan Times—an English paper, not your Tamil one! Then there is a Ganapati's journal that was born before the Congress: Swadesamitran. Is that an ordinary paper? If the paper has four pages, do you know how much advertising it contains? Such a newspaper published someone's dream, and no ordinary dream! When I say that I saw Kailasa
+
+### Image 2: 002-c9d777274d.png
+
+and heard Paraman and Parvati talking, you laugh! Similar news was sent to the editor of Swadesamitran. He didn't laugh, Bharata! Nor did he talk about journalistic ethics as you do, asking whether such things should be published in a newspaper. He printed it handsomely, with embellishment. Do you know what the dream was? Apparently Mahavishnu appeared in a dream to the Right Honourable Srinivasa Sastri. At first a little light was visible; then the light grew and grew; finally Mahavishnu granted a vision to the Saivite Right Honourable. The editor of Mitran published this in his paper—an editor whose mind dwells upon such weighty matters as the world economy, the course of the war, explanations of exchange rates, the country's public finances, Churchill's mistake, Stalin's inattention, China's diligence and America's concern. He published the news that Mahavishnu appeared in the Right Honourable's dream! Shall I tell you a few more?” Viran prepared to continue.
+
+“No, no, Vira! I am going to publish your dream this week,” I told him. And I have published it. My work is done. Thinking about it is now your work!
+
+A buffalo calf with six legs, a cow with three eyes, a fowl that is neither male nor female but intersex, a snake with a head at either end, a palmyra with branches, and many other things like these are called curiosities of nature because they depart from nature's usual pattern.
+
+A Siva lingam giving testimony; bones becoming a woman; a piece of palm leaf going against a flood; a rock of hard stone floating; a fox leaping; a child cut up and cooked as meat coming back to life and rising; a boar and a swan seeking the foot and the crown; a cane striking one person's back and the blow falling on everyone's back; the Lord arriving when an elephant cries out; a spider making a canopy; an elephant that worshipped Siva attaining Siva's abode—these are fabricated stories that could never have happened anywhere at any time, colossal lies.
+
 ## Translator's Notes — working
 
 - Title: “The Treasure of the Periya Puranam” retains the named work and the ironic suggestion of a treasure sought within it. The Tamil title is retained above.
@@ -462,3 +488,6 @@ be delighted? Devi! Do you think those same ordinary people who call me the wear
 - Part 3 Image 8: the source's unusual `“பரமன் என்ன தந்தார்கள்?” என்று மீண்டும் கேட்டார்` is read in context as Paraman repeating “What have they given?”; Tamil remains unchanged. “The smiling man” retains குறுநகை புரிவோன் without imposing an unprinted identity. “Pleasure-giving women” preserves the connotation of இன்பவல்லிகள் without specifying a profession. The dialogue's temple, ritual, festival and jewellery questions are retained in sequence.
 - Part 3 Image 9: பாமாலை/பூமாலை contrasts verse-garlands with flower-garlands; both exchanges remain separate. The unusual printed பிறனுடைய நலத்தால் ஏமாறும்போது is rendered literally “when deceived by another's goodness,” not silently changed to “wickedness” or “self-interest.” தற்குறிகள் is rendered “the ignorant”; the nodding-doll image is retained.
 - Part 3 Image 10: every alleged divine exploit in the speech is retained, including the printed agency in the plucking of the devotee's eyes; no familiar alternative retelling replaces it. தாசி is rendered “courtesan” in the messenger episode. “Six months” retains ஆறாறு மாதம் for each person, and the Self-Respect school preserves the movement reference. The dream revelation identifies Viran as the dreamer and is not turned into an event witnessed by the framing narrator.
+- Part 4 Image 1: the one-and-a-quarter-anna price is retained. Iyer, Brahmasri and Ganapati retain the caste/scholarly designations in Viran's satire; Ganapati here denotes a Vedic recitation scholar, not the deity. The Gandhi–Birla dream and Hindustan Times editorship statements remain the character's claims; the newspaper issue has not been independently checked.
+- Part 4 Image 2: “Right Honourable” renders மகா கனம் in the Srinivasa Sastri reference. The reported Swadesamitran dream and the list of world affairs are translated without treating the claims as independently verified. அலி, applied to a fowl, is rendered “intersex” in the source's neither-male-nor-female description, without assigning a specific biological diagnosis.
+- Part 4 Image 2: all natural curiosities and puranic examples are retained separately. The printed நரி பாய்வது is rendered literally “a fox leaping,” not expanded into the familiar fox-to-horse story. “The foot and the crown” preserves அடிமுடி; no missing mythological explanation is inserted into the body.
