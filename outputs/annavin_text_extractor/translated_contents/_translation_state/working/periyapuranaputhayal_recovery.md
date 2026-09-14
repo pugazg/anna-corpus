@@ -4,7 +4,7 @@ Canonical file: katturaigal/periyapuranaputhayal.md. Seven parts, 70 scans; no p
 
 Coverage: Part 1 Images 1–11 and Part 2 Images 1–10 and Part 3 Images 1–10 and Part 4 Images 1–10 and Part 5 Images 1–10 and Part 6 Images 1–10 and Part 7 Images 1–9 compared visually (70/70 scans; two printer-footer concerns remain open). Title/date confirmed; opening prose repaired only where scan-proven. Corrections recorded in ocr_concerns.csv. Printed historical spellings and unusual wording retained.
 
-Next: Resolve the printer-footer readings in Part 2 Image 1 and Part 5 Image 3 using a clearer witness before source release. All 70 scans have now been compared. A separate working English draft now covers all 11 Part 1 images and Part 2 Images 1–10 prose; and all Part 3 images plus Part 4 Images 1–4; continue at Part 4 Image 5, with Part 2 Image 1 footer still unresolved while retaining the footer recovery hold. Do not release the source or build the canonical bilingual file until the two footers are resolved. Part 5 local scans exist despite absent link in pending report; use RMRL if any missing or unreadable evidence is encountered.
+Next: Resolve the printer-footer readings in Part 2 Image 1 and Part 5 Image 3 using a clearer witness before source release. All 70 scans have now been compared. A separate working English draft now covers all 11 Part 1 images and Part 2 Images 1–10 prose; and all Part 3 images plus Part 4 Images 1–6; continue at Part 4 Image 7, with Part 2 Image 1 footer still unresolved while retaining the footer recovery hold. Do not release the source or build the canonical bilingual file until the two footers are resolved. Part 5 local scans exist despite absent link in pending report; use RMRL if any missing or unreadable evidence is encountered.
 
 Images 3–4: inoculation comparison, reformers’ paths, coconut-tree thief analogy and the five-eyed bogeyman discussion fully reconciled. All correction groups logged; printed unusual forms retained.
 
@@ -105,3 +105,5 @@ English checkpoint: Part 3 Images 9–10 translated and compared; Part 3 complet
 English checkpoint: Part 4 Images 1–2 translated and compared, preserving the newspaper-dream debate and every natural/puranic example. Newspaper claims and unusual fox wording are documented separately. Next: Part 4 Image 3. Footer hold unchanged; no state refresh.
 
 English checkpoint: Part 4 Images 3–4 translated and compared, retaining the complete quoted child-vision report, newspaper date and conditional author commentary. Uncertain names preserved in notes. Next: Part 4 Image 5, completing the reordered verification sentence. No source/state changes.
+
+English checkpoint: Part 4 Images 5–6 translated and compared, completing the press critique and retaining every quoted verse segment, monastery discussion and opening descriptive catalogue. Next: Part 4 Image 7 after “a golden”. Footer hold and counts unchanged.

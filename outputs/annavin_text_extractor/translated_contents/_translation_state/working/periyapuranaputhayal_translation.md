@@ -1,6 +1,6 @@
 # The Treasure of the Periya Puranam / பெரிய புராணப் புதையல் — working translation
 
-Status: INCOMPLETE; not a canonical bilingual document. All 11 Part 1 scans and the prose/numbered examples of Part 2 Images 1–10, plus all 10 Part 3 images and Part 4 Images 1–4, are translated and compared with the reconciled Tamil. Part 2 Image 1's printer footer remains unresolved and is explicitly marked in this draft. Next: Part 4 Image 5, `005-51d1a1c548.png`, beginning `வேண்டுமென்ற நல்லெண்ணம் பெரும்பான்மைப் பத்திரிகை`. Complete the English sentence with “ascertaining all the facts.” The Tamil clause order is reordered across the scan boundary; do not duplicate it.
+Status: INCOMPLETE; not a canonical bilingual document. All 11 Part 1 scans and the prose/numbered examples of Part 2 Images 1–10, plus all 10 Part 3 images and Part 4 Images 1–6, are translated and compared with the reconciled Tamil. Part 2 Image 1's printer footer remains unresolved and is explicitly marked in this draft. Next: Part 4 Image 7, `007-c3a8cb397a.png`. Continue the open description after “a golden”; inspect its opening before appending.
 
 Source recovery: all 70 scans visually reviewed. The printer footers at Part 2 Image 1 and Part 5 Image 3 remain unresolved; keep their current Tamil unchanged and retain the recovery hold. This draft translates only reconciled passages. No translation-state refresh or pending-count reduction is authorized by this partial checkpoint.
 
@@ -479,6 +479,50 @@ Perhaps the puranic lore taught to the girl by her parents has developed so far 
 
 Somehow, as soon as newspaper people receive reports that such “miracles” are happening, they feel they must set aside even the most essential news and give these stories priority. If they receive a report that someone four hundred or five hundred years old is alive, most newspaper editors do not have the good sense to think they should publish it only after
 
+### Image 5: 005-51d1a1c548.png
+
+ascertaining all the facts. The “miracle” stories published in this way disappear shortly after publication. What is the girl who spoke with God doing now? Where is the 465-year-old man now? Newspaper editors do not even stop to think: “We wrote about them in our papers with extravagant praise, in a manner calculated to captivate people's minds. Now we know nothing about them. Why?” Many editors act as though it is enough to offer ordinary people anything new and intriguing. They do not think they should examine the news they receive, remember that readers have intelligence as well as writers, and publish reports consistent with truth and experience. Until this regrettable condition changes, many miracles will continue to be manufactured in this country.
+
+* * * *
+
+“Clad in white silk—
+with sandal paste spread over his body,
+wearing eye-catching jewels—
+he walked towards the bedchamber,
+while many women—
+followed behind, sporting affectionately!”
+
+Who? The head of a monastery! Those heads of monasteries who administer and enjoy the “grants” bestowed by kings of old to make Saivism flourish and, through it, establish among the people the harmonious righteous path!
+
+Where did the monastery head go, walking ahead with women following? What did he do?
+
+“On the silken mattress—upon flowers
+whose fragrance spread everywhere,
+eating delicacies from a plate—
+he began his Saivism.”
+
+Once Saivism had begun so splendidly,
+
+“Together with the bundles of sugarcane—his eyes fell asleep.”
+
+More things happened in the monastery head's dream.
+
+### Image 6: 006-6243bc35f1.png
+
+The poet wrote this imaginative poem to show that this was the manner of the monastery head's life. The dream and other things in it may be imaginary. But no one would dare call its depiction of the lives of monastery heads imaginary!
+
+In the South, many monasteries have been established and endowed with supposed “glories” like those attributed to “divine sacred places.” Former kings granted village after village as endowments to monasteries. Thousands upon thousands of velis of land and the beautiful villages around them remain the property of many great monasteries today. The head resides in the monastery as a king resides over a country. But it was because the “dignity” of monastery heads was as the poet described that they were criticized in stories, portrayed through plays, and exposed through films as well.
+
+People's Views of Monastery Heads
+
+People in the South and Tamils living overseas cannot have forgotten the scene in the film Chandrakantha in which one monastery head says to another, “Revered Swami, shall we graciously proceed to practise yoga?” When that film was shown, this was the talk of every town, every street and every home! The cry “Revered Swami!” laughter, ridicule, condemnation—all of these followed.
+
+The “tremendous” reception given to that film made quite clear how people regarded the heads of monasteries established to find ways and means and work for Saivism to flourish and Tamil to grow and live.
+
+How do people see monastery heads today?
+
+A monastery like a palace; a flower garden around it; a canal like a little river; a garden adorned with red tender-coconut trees, red-banana plants, oleanders and roses; figures strolling there without fatigue; ruddy complexions with a sheen upon them; saffron robes with a glitter to them; a rudraksha necklace with gold casings; sacred ash on the forehead with a fragrant application upon it; a golden
+
 ## Translator's Notes — working
 
 - Title: “The Treasure of the Periya Puranam” retains the named work and the ironic suggestion of a treasure sought within it. The Tamil title is retained above.
@@ -524,3 +568,5 @@ Somehow, as soon as newspaper people receive reports that such “miracles” ar
 - Part 4 Image 3: கோகிலாட்டமி is transliterated “Kokilattami” as printed; identification with a more familiar festival name is not assumed. மகாத்மியம் is rendered “the glories of.” Suras retains the uncertain printed personal name சுரஸ் without silently replacing it.
 - Part 4 Image 4: the Dinamani attribution, 6-10-48, is translated as 6 October 1948, without independently claiming to have checked the newspaper issue. The author's speculative explanation of the child's behaviour remains explicitly conditional; it is not a medical diagnosis by the translator. Gopi refers to the cowherd women associated with Krishna. The printed 400/500-year ages remain claims under criticism.
 - Part 4 Images 4–5: the sentence on verifying reports crosses the scan boundary. Its subject and negative predicate are moved earlier in English for syntax; the continuation supplies “ascertaining all the facts,” completing the source sentence without duplication.
+- Part 4 Image 5: the source's 465-year age is retained, distinct from the previous scan's 400/500 figures. The quoted verse keeps its separate segments and ironic “began his Saivism.” “Bundles of sugarcane” preserves கட்டிக் கரும்பினங்கள், an erotic sweetness image in context, without replacing it with unprinted anatomical detail. The poet is not named in this passage; no attribution is supplied by inference.
+- Part 4 Image 6: veli is retained as the land-area unit without imposing a fixed conversion. Chandrakantha retains the named film reference; the deferential yoga invitation conveys the honorific irony. The garden, ornaments and bodily descriptions remain a continuous catalogue crossing into Image 7. உத்திராக்கம் is rendered “rudraksha” without modernizing the Tamil spelling.
