@@ -1,6 +1,6 @@
 # The Treasure of the Periya Puranam / பெரிய புராணப் புதையல் — working translation
 
-Status: INCOMPLETE; not a canonical bilingual document. All 11 Part 1 scans and the prose/numbered examples of Part 2 Images 1–10, plus Part 3 Images 1–4, are translated and compared with the reconciled Tamil. Part 2 Image 1's printer footer remains unresolved and is explicitly marked in this draft. Next: Part 3 Image 5, `005-ba06f75212.png`, beginning `நோக்கி நின்று, “உணரப்பா தமிழ் வீரத்தை!”`. Continue Viran’s unfinished reply.
+Status: INCOMPLETE; not a canonical bilingual document. All 11 Part 1 scans and the prose/numbered examples of Part 2 Images 1–10, plus Part 3 Images 1–6, are translated and compared with the reconciled Tamil. Part 2 Image 1's printer footer remains unresolved and is explicitly marked in this draft. Next: Part 3 Image 7, `007-8551e45311.png`, beginning `திருவிழாக்கள் நடத்தி, கோயில் வெடிச் சத்தத்தைக் கேட்டு`. Continue the refugees’ unfinished lament; some temple-fireworks wording precedes the boundary for English syntax and must not be repeated.
 
 Source recovery: all 70 scans visually reviewed. The printer footers at Part 2 Image 1 and Part 5 Image 3 remain unresolved; keep their current Tamil unchanged and retain the recovery hold. This draft translates only reconciled passages. No translation-state refresh or pending-count reduction is authorized by this partial checkpoint.
 
@@ -331,6 +331,24 @@ would be blown to pieces. But he did not know it; he did not know that death was
 
 Viran remained deep in thought for a few seconds, then said, “Bharata! The incident you have related is indeed an act of bravery for which all Tamils may proudly face the world and
 
+### Image 5: 005-ba06f75212.png
+
+say, ‘Recognize Tamil valour!’ There is no objection to that. Nor do I fail to take pride in hearing of such heroic deeds. I will make the fame of Subedar Subramaniam, who entered the mountain pass of glory, known throughout Tamil Nadu. That is certain,” he said. I too was pleased. I thought of saying more, but Viran began the old refrain: “Listen to my story. When I heard Paramasiva speaking thus to Parvati . . .”
+
+“What, Vira? Parvati and Paramasiva talking, and you listening beside them—is that the matter? Who will believe it?” I interrupted. Will a rushing flood stop if you put a stone a span wide in its path? Would Viran be checked by my little cross-dam? He cleared his throat and began to speak. I had no choice but to listen! Still, I thought I would try once more to shut Viran's mouth. “Vira! Have you heard the news? The Japanese have come close to Imphal. Kohima too is in danger. The war has drawn near us,” I began, hoping to draw his attention away from Paramasiva and Parvati's bedchamber to the battlefield. But he told me, “That is precisely what they were talking about.”
+
+“How extraordinary! Did Paramasiva and Parvati discuss this too? I had been distressed that they seemed never to turn their sacred gaze in our direction,” I said, since Viran enjoyed mockery.
+
+“Bharata! Listen to what happened. Paramasiva took the angry Parvati by the chin. Then he did something. The lady laughed merrily, and the wearer of the tiger skin spoke endearingly: ‘Ah! Did it take so long for a smile to come? Has your anger gone?’ But the lady resumed her former expression. ‘When women are angry, isn't it men's habit to say something or do something to make them laugh, and then get their own way? And aren't you the master of that art?’
+
+### Image 6: 006-347d855b75.png
+
+she said, taking a dig at Paramasiva. ‘You ask what I am angry about and why I am upset. Why shouldn't I be angry? If a wife hears many people abusing her husband, won't her heart be wounded? You remain unconcerned: let the world say whatever it likes! But I cannot bear it,’ she said, wiping her eyes. Kapali opened his eyes wide and spoke furiously: ‘Parvati! Who has been belittling and blaming me? Tell me quickly. I will grind them to dust!’
+
+“‘See directly with your own eyes and hear with your own ears who is reviling you and what they are saying,’ Kamakshi said, taking Paramasiva upstairs. I too went upstairs quietly, without making a sound or letting them see me. Seeing the radiant full moon surrounded by many stars in the spotless sky, Paramasiva said, ‘Beloved! Look there! See how the moon appears like a young princess strolling with a retinue of beauties around her. At such a time, in the moonlight, you and I, instead of talking about someone blaming us for something . . .’ Before he could finish, Parvati said, ‘Look there,’ and pointed to a scene on earth. I looked, and so did Paramasiva! It was somewhere on earth. I saw people crossing forests and mountains, carrying children and pulling one another along, their eyes streaming, their bodies trembling and their hearts steeped in terror. ‘Kamakshi! What is this scene?’ Paramasiva asked. ‘Have you seen it? Now listen to what they are saying,’ the lady replied. Having witnessed that dreadful scene, I could also hear their words.
+
+“‘Lord! Have you no eyes? Is your heart stone? Are you called the Compassionate One when you leave us to suffer like this? With the very hands that built your temple, we now wring our hands, not knowing what to do. Have you no compassion? The feet that walked around your temple now serve only to run through forests and over hills, searching for somewhere to survive. Do our cries not reach your ears? Our ears, which delighted in hearing the temple fireworks when we held
+
 ## Translator's Notes — working
 
 - Title: “The Treasure of the Periya Puranam” retains the named work and the ironic suggestion of a treasure sought within it. The Tamil title is retained above.
@@ -364,3 +382,5 @@ Viran remained deep in thought for a few seconds, then said, “Bharata! The inc
 - Part 3 Image 3: Viran/Vira preserves the name and vocative; Bharata in Image 4 preserves the narrator's form of address. மிட்டாமிராசு denotes landed estates/hereditary landed rights. “Naik” retains the printed military rank, while the narrator's ensuing உத்தியோகஸ்தர் is translated “officer” without harmonizing the terminology.
 - Part 3 Image 4: “Subedar Subramaniam,” the Cassino location, village/district references, Wingate account and “a few days ago” are retained as the author's historical narrative. No rank, event chronology or identification has been silently corrected, and these assertions are not independently verified by this translation. The goddess-of-freedom image and the lamp/garden metaphor are retained. சொல்லம்பரின் is interpreted contextually as “of mere word-spinners”; its unusual printed form is unchanged in Tamil.
 - Part 3 Images 3–5: the threatened death sentence crosses Images 3–4; Viran's reply crosses Images 4–5. English retains those narrative joins without repeating the predicates.
+- Part 3 Image 5: கீர்த்திக் கணவாய் is retained as the metaphor “mountain pass of glory.” The Japanese approach to Imphal and danger to Kohima remain the narrator's contemporary wartime claims, without assigning an unprinted date. The flood/stone comparison and Viran's return to the divine conversation are retained in full.
+- Part 3 Image 6: Kapali, Kamakshi and the tiger-skin epithet preserve the changing divine names in the scene. The narrator explicitly says Paramasiva “did something”; no physical action beyond the printed chin gesture is invented. The unfinished amorous suggestion remains unfinished. The refugees' temple/flight contrasts continue into Image 7, with English clause order adjusted across the boundary but no omission or duplication intended.

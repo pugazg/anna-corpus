@@ -4,7 +4,7 @@ Canonical file: katturaigal/periyapuranaputhayal.md. Seven parts, 70 scans; no p
 
 Coverage: Part 1 Images 1–11 and Part 2 Images 1–10 and Part 3 Images 1–10 and Part 4 Images 1–10 and Part 5 Images 1–10 and Part 6 Images 1–10 and Part 7 Images 1–9 compared visually (70/70 scans; two printer-footer concerns remain open). Title/date confirmed; opening prose repaired only where scan-proven. Corrections recorded in ocr_concerns.csv. Printed historical spellings and unusual wording retained.
 
-Next: Resolve the printer-footer readings in Part 2 Image 1 and Part 5 Image 3 using a clearer witness before source release. All 70 scans have now been compared. A separate working English draft now covers all 11 Part 1 images and Part 2 Images 1–10 prose; and Part 3 Images 1–4; continue at Part 3 Image 5, with Part 2 Image 1 footer still unresolved while retaining the footer recovery hold. Do not release the source or build the canonical bilingual file until the two footers are resolved. Part 5 local scans exist despite absent link in pending report; use RMRL if any missing or unreadable evidence is encountered.
+Next: Resolve the printer-footer readings in Part 2 Image 1 and Part 5 Image 3 using a clearer witness before source release. All 70 scans have now been compared. A separate working English draft now covers all 11 Part 1 images and Part 2 Images 1–10 prose; and Part 3 Images 1–6; continue at Part 3 Image 7, with Part 2 Image 1 footer still unresolved while retaining the footer recovery hold. Do not release the source or build the canonical bilingual file until the two footers are resolved. Part 5 local scans exist despite absent link in pending report; use RMRL if any missing or unreadable evidence is encountered.
 
 Images 3–4: inoculation comparison, reformers’ paths, coconut-tree thief analogy and the five-eyed bogeyman discussion fully reconciled. All correction groups logged; printed unusual forms retained.
 
@@ -95,3 +95,5 @@ English checkpoint: Part 2 Images 9–10 translated and compared; all Part 2 pro
 English checkpoint: Part 3 Images 1–2 translated and compared, completing the rescue narrative and conference proposal, preserving the newspaper attribution and opening goddess-name sequence. The 1951 attribution/title-date discrepancy is documented without revision. Next: Part 3 Image 3. No state refresh.
 
 English checkpoint: Part 3 Images 3–4 translated and compared. Retained the complete Viran exchanges and Cassino sacrifice narrative with printed rank/name and historical-claim notes. Next: Part 3 Image 5, continuing Viran’s reply. No state refresh or source alteration.
+
+English checkpoint: Part 3 Images 5–6 translated and compared, retaining Viran’s reply, the Imphal/Kohima references, divine dialogue and opening refugee lament. Next: Part 3 Image 7; complete the temple-fireworks/artillery contrast without repeating the preceding English clause. Footer hold unchanged; no state refresh.
