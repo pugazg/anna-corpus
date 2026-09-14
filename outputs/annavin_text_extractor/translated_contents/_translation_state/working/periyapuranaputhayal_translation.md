@@ -1,6 +1,6 @@
 # The Treasure of the Periya Puranam / பெரிய புராணப் புதையல் — working translation
 
-Status: INCOMPLETE; not a canonical bilingual document. All 11 Part 1 scans and the prose/numbered examples of Part 2 Images 1–10, plus all 10 Part 3 images and Part 4 Images 1–8, are translated and compared with the reconciled Tamil. Part 2 Image 1's printer footer remains unresolved and is explicitly marked in this draft. Next: Part 4 Image 9, `009-caf5ed65a9.png`, beginning `பாடியும் பதிகம் கோர்த்தும், தேவார திருவாசகம் ஓதியும்`. Continue after “they sing” with the pann/music and hymn discussion.
+Status: INCOMPLETE; not a canonical bilingual document. All 11 Part 1 scans and the prose/numbered examples of Part 2 Images 1–10, plus all 10 Part 3 images and all 10 Part 4 images, are translated and compared with the reconciled Tamil. Part 2 Image 1's printer footer remains unresolved and is explicitly marked in this draft. Next: Part 5 Image 1, `001-periyapurana-41.png`, beginning `உறுதி கூறமுடியும்? மடாதிபதிகள் மக்களின் அதிபர்களாகி,`. Continue “who can” with the assurance that a monastery-abolition bill will never come; this phrase remains to translate from the Part 4 ending.
 
 Source recovery: all 70 scans visually reviewed. The printer footers at Part 2 Image 1 and Part 5 Image 3 remain unresolved; keep their current Tamil unchanged and retain the recovery hold. This draft translates only reconciled passages. No translation-state refresh or pending-count reduction is authorized by this partial checkpoint.
 
@@ -547,6 +547,32 @@ The Tamil kings of those days entrusted vast properties to the monastery heads p
 
 We know that in some monasteries scholars study lessons, practise philosophy and learn poetry; they sing
 
+### Image 9: 009-caf5ed65a9.png
+
+in the pann modes and compose hymns. We also know that monasteries have provided a place for pandits who recite the Tevaram and Tiruvacakam, explain the inner meanings of the Tiruvilaiyadal Puranam, sing the Tiruttantakam—“Our Siva is of the colour of fire”—and learn the meaning of the pranava. We know of monasteries that award prizes. But these things are insufficient; nor do we consider these alone the proper course.
+
+Those educated in monasteries may have learned flawless Tamil. But their scholarship served to spread antiquity among the people again, rather than inspire work suited to the times. It helped them offer another philosophical interpretation of “the sacred dance of Nataraja of Tillai,” or a simile for the form of him whose one half is Uma. It did not help explain the changes in outward form and inward thought between the world and our country.
+
+“Those before us sang and sang only of religions and reached an exalted state of devotion. They never even thought of singing about other things. If anyone did anything outside the three categories—original work, derivative work and ancillary work—the great poets attached to the kings of those days would order that person's ear or nose cut off. Have you seen books from fifty years ago that did not sing of the relationship between God and humanity? Some who wished to escape the difficulty of having to sing only of God began composing poems with God as the hero. Only if one sang of God was one a good man! Otherwise one was no poet.”
+
+The Duty of Monastery Heads
+
+Just as he said, the poets of our country drove our rolling cart along the worn path, because it was convenient, and that too was available. Some monastery heads supported this. As a result, “if you pick up a volume in a Tamil library,” it invariably begins, “Without being confined to here or there.” That antiquity writhes through it. At the mention of something new, the scholars wrinkle their brows and leave. “What existed before was the old edition;
+
+### Image 10: 010-9cf97c878a.png
+
+what exists now is a new pocket-size edition.” That is the only difference.
+
+Are there no other ideas in the world? There are! There are countless fresh ideas. Many excellences lie hidden. Bringing these to light and spreading new ideas are the duties monastery heads should perform.
+
+Superstition, blind doctrine, dark thought and a stooping mentality have been cultivated among the people through the Puranas and epics. Monastery heads should drive these away, support eloquent speakers in whom scholarship and new thought blossom, and publish and circulate small books. They should arrange worthy lectures. They should spread the rays of knowledge and inquiry everywhere. They should put down the mad child's play of caste and religious divisions. They should spread love and peace. They should end the disposition to gaze up at the heavens and weep, and inspire confidence in labour and in the world. These are suited to the character of the times. If, leaving these aside, we go on spreading only the song “Mad One, wearer of the crescent,” no medicine will be found to clear the madness.
+
+Today the people are steeped in Aryanism. We have heard Saivites proudly declare themselves lovers of Tamil and Tamil life. What have they done to remove Aryanism? What do they intend to do? Will they once again go on writing appreciations of that “Episode of Carrying Earth”? We ask whether monastery heads intend to regard this alone as “the scholarly manner.”
+
+One Thing We Wish to Say
+
+We wish to say one thing to monastery heads. At this time when the people's eyes are open, it is only proper that you conduct yourselves so that their hearts are drawn towards you with affection. In an age when laws come forward as bills to abolish zamindars, abolish debt and abolish child marriage, who can
+
 ## Translator's Notes — working
 
 - Title: “The Treasure of the Periya Puranam” retains the named work and the ironic suggestion of a treasure sought within it. The Tamil title is retained above.
@@ -596,3 +622,6 @@ We know that in some monasteries scholars study lessons, practise philosophy and
 - Part 4 Image 6: veli is retained as the land-area unit without imposing a fixed conversion. Chandrakantha retains the named film reference; the deferential yoga invitation conveys the honorific irony. The garden, ornaments and bodily descriptions remain a continuous catalogue crossing into Image 7. உத்திராக்கம் is rendered “rudraksha” without modernizing the Tamil spelling.
 - Part 4 Image 7: thambiran retains the monastic title; javvadu and civet retain the named perfumes. பனிநீர் is rendered “fragrant water” in the luxury catalogue. பட்டணப் பிரவேசம் is a ceremonial entry into town. The political transformations are the author's characterization of his age, not newly asserted present-day developments.
 - Part 4 Image 8: the two hymn fragments are translated separately in quotation marks. The six-day strike interval, thousand workers and jewel comparison are retained as printed rhetoric. தமிழன் மன்றம் is rendered “a forum for the Tamil person,” preserving the singular formulation instead of silently replacing it with தமிழர். The final clause crosses into Image 9.
+- Part 4 Image 9: pann denotes musical modes; pranava denotes the sacred syllable. The unnamed quoted speaker remains unnamed, including the following “he said.” முதல் நூல்/வழி நூல்/சார்வு நூல் are rendered original, derivative and ancillary works. The unusual அதுவும் கிடைத்தது is retained literally as “that too was available” rather than supplied with an inferred financial object.
+- Part 4 Image 10: the printed ஓட்டப்பட்ட is syntactically awkward; “should drive these away” renders the apparent intended connection to the duties that follow. Tamil is unchanged and the interpretive repair is explicit here. The hymn's பித்தா/பித்தம் wordplay is retained as “Mad One”/“madness.” Aryanism translates the author's ideological ஆரியம். The named abolition bills are his rhetorical examples, not verified legislative titles or enactment dates.
+- Part 4 Image 10–Part 5 Image 1: the final question crosses the part boundary. English defers “assure us that a bill abolishing monasteries will never come?” to the next scan for syntax; those words must be supplied there, not omitted.

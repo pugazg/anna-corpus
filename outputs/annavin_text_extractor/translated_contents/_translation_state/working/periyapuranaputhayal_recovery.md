@@ -4,7 +4,7 @@ Canonical file: katturaigal/periyapuranaputhayal.md. Seven parts, 70 scans; no p
 
 Coverage: Part 1 Images 1–11 and Part 2 Images 1–10 and Part 3 Images 1–10 and Part 4 Images 1–10 and Part 5 Images 1–10 and Part 6 Images 1–10 and Part 7 Images 1–9 compared visually (70/70 scans; two printer-footer concerns remain open). Title/date confirmed; opening prose repaired only where scan-proven. Corrections recorded in ocr_concerns.csv. Printed historical spellings and unusual wording retained.
 
-Next: Resolve the printer-footer readings in Part 2 Image 1 and Part 5 Image 3 using a clearer witness before source release. All 70 scans have now been compared. A separate working English draft now covers all 11 Part 1 images and Part 2 Images 1–10 prose; and all Part 3 images plus Part 4 Images 1–8; continue at Part 4 Image 9, with Part 2 Image 1 footer still unresolved while retaining the footer recovery hold. Do not release the source or build the canonical bilingual file until the two footers are resolved. Part 5 local scans exist despite absent link in pending report; use RMRL if any missing or unreadable evidence is encountered.
+Next: Resolve the printer-footer readings in Part 2 Image 1 and Part 5 Image 3 using a clearer witness before source release. All 70 scans have now been compared. A separate working English draft now covers all 11 Part 1 images and Part 2 Images 1–10 prose; and all Part 3 images plus all Part 4 images; continue at Part 5 Image 1, with Part 2 Image 1 footer still unresolved while retaining the footer recovery hold. Do not release the source or build the canonical bilingual file until the two footers are resolved. Part 5 local scans exist despite absent link in pending report; use RMRL if any missing or unreadable evidence is encountered.
 
 Images 3–4: inoculation comparison, reformers’ paths, coconut-tree thief analogy and the five-eyed bogeyman discussion fully reconciled. All correction groups logged; printed unusual forms retained.
 
@@ -109,3 +109,5 @@ English checkpoint: Part 4 Images 3–4 translated and compared, retaining the c
 English checkpoint: Part 4 Images 5–6 translated and compared, completing the press critique and retaining every quoted verse segment, monastery discussion and opening descriptive catalogue. Next: Part 4 Image 7 after “a golden”. Footer hold and counts unchanged.
 
 English checkpoint: Part 4 Images 7–8 translated and compared, retaining the luxury catalogue, public-hardship contrast, hymn fragments and proposed purpose of monasteries. Next: Part 4 Image 9; the learning/music sentence remains open. Footer hold unchanged; no state refresh.
+
+English checkpoint: Part 4 Images 9–10 translated and compared, completing Part 4 draft with its final question continuing into Part 5. Literary categories, unnamed quotation, hymn wordplay and printed anomalies are documented. Next: Part 5 Image 1. Footer concerns remain open; no state refresh.
