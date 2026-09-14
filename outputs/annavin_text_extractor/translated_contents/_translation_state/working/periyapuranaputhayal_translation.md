@@ -1,6 +1,6 @@
 # The Treasure of the Periya Puranam / பெரிய புராணப் புதையல் — working translation
 
-Status: INCOMPLETE; not a canonical bilingual document. All 11 Part 1 scans and the prose/numbered examples of Part 2 Images 1–10, plus all 10 Part 3 images and all 10 Part 4 images, are translated and compared with the reconciled Tamil. Part 2 Image 1's printer footer remains unresolved and is explicitly marked in this draft. Next: Part 5 Image 1, `001-periyapurana-41.png`, beginning `உறுதி கூறமுடியும்? மடாதிபதிகள் மக்களின் அதிபர்களாகி,`. Continue “who can” with the assurance that a monastery-abolition bill will never come; this phrase remains to translate from the Part 4 ending.
+Status: INCOMPLETE; not a canonical bilingual document. All 11 Part 1 scans and the prose/numbered examples of Part 2 Images 1–10, plus all 10 Part 3 images and all 10 Part 4 images, plus Part 5 Images 1–2, are translated and compared with the reconciled Tamil. Part 2 Image 1's printer footer remains unresolved and is explicitly marked in this draft. Next: Part 5 Image 3, `003-periyapurana-43.png`. This scan contains the second unresolved printer footer; retain an explicit recovery marker and do not guess its reading.
 
 Source recovery: all 70 scans visually reviewed. The printer footers at Part 2 Image 1 and Part 5 Image 3 remain unresolved; keep their current Tamil unchanged and retain the recovery hold. This draft translates only reconciled passages. No translation-state refresh or pending-count reduction is authorized by this partial checkpoint.
 
@@ -573,6 +573,36 @@ One Thing We Wish to Say
 
 We wish to say one thing to monastery heads. At this time when the people's eyes are open, it is only proper that you conduct yourselves so that their hearts are drawn towards you with affection. In an age when laws come forward as bills to abolish zamindars, abolish debt and abolish child marriage, who can
 
+## Part 5: periyapuranaputhayal_5.md
+
+### Image 1: 001-periyapurana-41.png
+
+assure us that a bill abolishing monasteries will never come? Monastery heads can escape only by becoming leaders of the people and serving them. Otherwise, as the poet imagined, the law will declare, “I have made all the monastery's assets the common property of the people.”
+
+Even if the thambiran leaps up, falls down and weeps,
+
+“How can I part—alas!—with all these things of pleasure,”
+
+the people will say,
+
+“He never consented to labour—not even a little did his body move!”
+
+Many monastery heads should give many lakhs and ensure that the money does not go merely to reciters of Puranas, but reaches those who work for new ideas, helping new thought spread, baseness disappear, the country and well-being flourish, and Tamil thrive. When Hindi entered to the detriment of Tamil, and turmoil and struggle arose in Tamil Nadu, the Tamil thambirans lay in corners, afraid that their noses would be cut off if they breathed a word against Aryan rule. The Tamils have not forgotten this. They seethed. Before that anger ripens, monastery heads must take the initiative, foster the three branches of Tamil, and engage in the work of making Tamil Nadu the Tamils' own. If they do this, people will joyfully say with affection, “Our monastery head.” Otherwise, people will come forward and say, “Enough of striving every day to spread Saivism far across the earth; now let the monastery belong to the people.” Time will assist them. The law will say, “Yes!”
+
+Kings of old and certain other wealthy people took part of their property and entrusted it either to the monastery heads then in existence or to heads appointed for that purpose in response to a perceived need. It is said that this was done to promote the growth of religion and language. But if we ask whether religion and language have developed through these monastery heads, we must conclude that they have not. We know that, if we state this conclusion, some who advertise themselves as believers will be ready to put us in the atheist category and very easily accuse us: “How else would these people speak?” But it is not we who bring this charge against the monastery heads. Whatever we
+
+### Image 2: 002-periyapurana-42.png
+
+do is regarded by those who have lost their judgment as atheism, hatred of religion, communalism, or blame deliberately cast upon others.
+
+Thus, before this “charge” could be levelled against us, before we could be blamed with “These people are interfering in this too,” the accusation has arisen from another direction. We rejoice to see the work we ought to do arise and proceed from the very quarter that continually abuses us as atheists. We are delighted that our campaigning has entered directions we did not expect, creating a disposition to share in our work. We are pleased to see every action we undertake for the people's good welcomed by those who revile us.
+
+“Year after year those same Hindus continue to change their religion. The monastery heads have been unable to prevent all this and strengthen the religion.”
+
+We ask you to compare the statement that kings and wealthy men gave property to monasteries for the growth of Hinduism with the passage above. Who said these words? Did we say them—we who have been branded “haters of religion” without cause? No, no! One of the papers that knowingly lies in calling us haters of religion has published this truth. The passage appeared in the paper Dinachari on 25 January 1949—and specifically in its editorial, written as an expression of public opinion.
+
+Can anyone therefore call Dinachari a paper that fosters hatred of religion or a journal that spreads atheism? Yet that paper says that religion is not protected by monastery heads but is being destroyed. Had we said this, we would by now have been publicized as “enemies of monastery heads” and subjected to many people's condemnation—why, even to a torrent of abuse from Dinachari itself, which now condemns the conduct of monastery heads.
+
 ## Translator's Notes — working
 
 - Title: “The Treasure of the Periya Puranam” retains the named work and the ironic suggestion of a treasure sought within it. The Tamil title is retained above.
@@ -625,3 +655,5 @@ We wish to say one thing to monastery heads. At this time when the people's eyes
 - Part 4 Image 9: pann denotes musical modes; pranava denotes the sacred syllable. The unnamed quoted speaker remains unnamed, including the following “he said.” முதல் நூல்/வழி நூல்/சார்வு நூல் are rendered original, derivative and ancillary works. The unusual அதுவும் கிடைத்தது is retained literally as “that too was available” rather than supplied with an inferred financial object.
 - Part 4 Image 10: the printed ஓட்டப்பட்ட is syntactically awkward; “should drive these away” renders the apparent intended connection to the duties that follow. Tamil is unchanged and the interpretive repair is explicit here. The hymn's பித்தா/பித்தம் wordplay is retained as “Mad One”/“madness.” Aryanism translates the author's ideological ஆரியம். The named abolition bills are his rhetorical examples, not verified legislative titles or enactment dates.
 - Part 4 Image 10–Part 5 Image 1: the final question crosses the part boundary. English defers “assure us that a bill abolishing monasteries will never come?” to the next scan for syntax; those words must be supplied there, not omitted.
+- Part 5 Image 1: the question about a monastery-abolition bill completes the sentence begun in Part 4. All three quoted poetic/proclamatory fragments remain separate. Lakhs retains the Indian numerical unit; “three branches of Tamil” renders முத்தமிழ். The anti-Hindi struggle and “Aryan rule” remain the author's political characterization, without supplying an unprinted event date.
+- Part 5 Image 2: வகுப்பு வாதம் is rendered “communalism” in the list of accusations. The Dinachari editorial quotation and printed 25-1-49 date are retained as 25 January 1949; the issue has not been independently checked here. The author's argument about conversion is preserved without presenting the quoted claim as newly verified data.
