@@ -135,3 +135,5 @@ English checkpoint: Part 6 Images 9–10 translated and compared; Part 6 draft c
 English checkpoint: Part 7 Images 1–2 translated and compared, retaining the complete conch-field commentary, propaganda critique and solar-chariot lists. Next: Part 7 Image 3. Footer hold unchanged; no state refresh. Default git now triggers an Xcode licence prompt; /Library/Developer/CommandLineTools/usr/bin/git works and pushed the preceding 601d929 checkpoint successfully.
 
 English checkpoint: Part 7 Images 3–4 translated and compared, retaining all name lists, the horse episode, three dividers and the wisdom/science contrast. Next: Part 7 Image 5. Footer hold unchanged; no state refresh.
+
+English checkpoint: Part 7 Images 5–6 translated and compared with reconciled Tamil; historical scientific figures retained. Next Part 7 Image 7 (`007-3d8b0ef53e.png`), continuing the eclipse-ritual sentence. Both printer footers remain unresolved; no source release, canonical completion, or state refresh.

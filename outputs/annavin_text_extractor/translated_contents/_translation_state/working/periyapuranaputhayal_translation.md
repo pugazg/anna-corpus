@@ -1,6 +1,6 @@
 # The Treasure of the Periya Puranam / பெரிய புராணப் புதையல் — working translation
 
-Status: INCOMPLETE; not a canonical bilingual document. All 11 Part 1 scans and the prose/numbered examples of Part 2 Images 1–10, plus all 10 Part 3 images and all 10 Part 4 images, plus the prose of all 10 Part 5 images and all 10 Part 6 images, plus Part 7 Images 1–4, are translated and compared with the reconciled Tamil. The printer footers in Part 2 Image 1 and Part 5 Image 3 remain unresolved and are explicitly marked in this draft. Next: Part 7 Image 5, `005-0e5dfb9797.png`. Continue the open sentence contrasting the scientific view with god and chariot.
+Status: INCOMPLETE; not a canonical bilingual document. All 11 Part 1 scans and the prose/numbered examples of Part 2 Images 1–10, plus all 10 Part 3 images and all 10 Part 4 images, plus the prose of all 10 Part 5 images and all 10 Part 6 images, plus Part 7 Images 1–6, are translated and compared with the reconciled Tamil. The printer footers in Part 2 Image 1 and Part 5 Image 3 remain unresolved and are explicitly marked in this draft. Next: Part 7 Image 7, `007-3d8b0ef53e.png`. Continue the open sentence about rituals prescribed to remove eclipse ill effects.
 
 Source recovery: all 70 scans visually reviewed. The printer footers at Part 2 Image 1 and Part 5 Image 3 remain unresolved; keep their current Tamil unchanged and retain the recovery hold. This draft translates only reconciled passages. No translation-state refresh or pending-count reduction is authorized by this partial checkpoint.
 
@@ -940,6 +940,32 @@ Now let us consider how the sun seen by the eyes of wisdom appears to today's ey
 
 The sun seen by the eyes of wisdom is a god who rides round in a chariot! To scientific eyes, neither god nor chariot
 
+### Image 5: 005-0e5dfb9797.png
+
+nor wheel is visible. What they see as the sun is a sphere—and not one circling Meru. They see a sun around which several planets revolve. In an age of confused thought, those with eyes of wisdom merely claimed to have seen. Those with scientific eyes have not only seen what they describe; they show it to others. It can be seen with the aid of an appropriate scientific instrument, without magical incantations that make it visible only to the virtuous. Even if an ordinary stickler for ritual purity here challenges them, “Let us see! Is the sun really as you describe it?” they can say, “Come, my good man!” take him along, and show him the celestial bodies through a telescope devised by keen intellects. “It would be enough if even four of the eight arms were visible!” “It would be enough if even three of the seven horses were visible!” However much one pleads, makes a fuss, speaks mockingly or issues a challenge, no Sankaracharya, thambiran, Vedantin or religious advocate here can show us the Sun God! For the Sun God who reigns while Aha and Uhu sing and Arambai and Urvasi dance is a superstition—a gilded superstition. Will the world accept it? If the cunning minds that introduced this superstition had any sense of shame, should they not drive the scientific sun out of books and out of scholars' minds? They cannot drive the scientific sun even out of the minds of the children in their own homes!
+
+* * * *
+
+Among the celestial bodies seen in space, the sun too is a sphere. Clouds of fire surround it. Eight planets revolve with it as their centre: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus and Neptune.
+
+Its circumference is approximately more than 2,600,000 miles. Its diameter is more than 870,000 miles.
+
+Its extent is 1,250,000 times greater than the earth's.
+
+### Image 6: 006-e6ef946b88.png
+
+Its bulk is 1,300,000 times greater than the earth's. It lies approximately 92,830,000 miles from the earth.
+
+There are many spots on it. They are 1,000 miles deep.
+
+* * * *
+
+All this is not knowledge obtained through Narada's grace. It is the result of research pursued without regard to day or night, continually making conclusions into new beginnings.
+
+Following our Purana, we portrayed the moon as one who conducted an illicit love affair with Tara, and were satisfied with that. Scholars, however, began extensive research into the lunar realm! They discovered many new truths—not merely astonishing truths, but useful ones. In the days when we read stories of the Sun God, the Moon God, the Earth Goddess and the Ocean King, believed them and arranged our forms of worship accordingly, the “geniuses” of other countries laboured to discover more and more truth, considering what they already knew insufficient. In those days, people with eyes of wisdom pointed to the stars and told stories: “There is Arundhati! Hear the noble tale of that shining woman!” They told stories embodying the nine aesthetic sentiments about many stars. Scholars, however, went beyond these stories and discovered new truths. They discovered, calculated and explained that not everything visible in the sky is a star: there are stars and there are planets. Stars twinkle; planets shine with light. They are two different kinds of body. Stars emit their own light. Planets shine by receiving sunlight. Stars lie many thousands of miles beyond the places where the planets are.
+
+For solar and lunar eclipses, we told the story of Rahu and Ketu: an eclipse, we said, is the event in which evil beings in serpent form seize and try to swallow the sun at some times and the moon at others; and to remove the ill effects of an eclipse,
+
 ## Translator's Notes — working
 
 - Title: “The Treasure of the Periya Puranam” retains the named work and the ironic suggestion of a treasure sought within it. The Tamil title is retained above.
@@ -1016,3 +1042,5 @@ The sun seen by the eyes of wisdom is a god who rides round in a chariot! To sci
 - Part 7 Image 2: the names in both monthly lists are transliterated from the printed forms rather than harmonized with a standard mythological list. The printed நாங்கள் (“we”) is contextually interpreted as nagas in the sequence of serpent names; this is an explicit translation interpretation, not a Tamil correction. The eight arms and five named held objects remain as printed. The closing sentence continues into Image 3.
 - Part 7 Image 3: the singer/dancer lists and the unusual child-name வைவச்சு தமது are transliterated provisionally rather than replaced with names from other mythological versions. Sanjna/Sanja and Uruppasi/Urvasi preserve printed variations. The horse episode, including the printed nostril/semen agency, is translated without substituting a standard retelling.
 - Part 7 Image 4: “eyes of wisdom” and “eyes of science” preserve the repeated contrast. Claims about worldwide belief remain the author's rhetoric. All three dividers across Images 3–4 are retained, and the final scientific-description sentence continues into Image 5.
+
+- Part 7 Images 5–6: all astronomical figures and the eight-planet list are retained as historical source claims, without modern correction. பரப்பு is rendered “extent” and கனம் “bulk”; the adjacent numerical comparisons are not silently reconciled with modern area, volume or mass values. மடிசஞ்சி is rendered “stickler for ritual purity.” The eclipse explanation continues into Image 7.
