@@ -1,6 +1,6 @@
 # The Treasure of the Periya Puranam / பெரிய புராணப் புதையல் — working translation
 
-Status: INCOMPLETE; not a canonical bilingual document. All 11 Part 1 scans and the prose/numbered examples of Part 2 Images 1–10, plus all 10 Part 3 images and all 10 Part 4 images, plus the prose of Part 5 Images 1–6, are translated and compared with the reconciled Tamil. The printer footers in Part 2 Image 1 and Part 5 Image 3 remain unresolved and are explicitly marked in this draft. Next: Part 5 Image 7, `007-periyapurana-47.png`, beginning `இப்படிப் பெரும் பொருள் பல தலைமுறைகளாக -`.
+Status: INCOMPLETE; not a canonical bilingual document. All 11 Part 1 scans and the prose/numbered examples of Part 2 Images 1–10, plus all 10 Part 3 images and all 10 Part 4 images, plus the prose of Part 5 Images 1–8, are translated and compared with the reconciled Tamil. The printer footers in Part 2 Image 1 and Part 5 Image 3 remain unresolved and are explicitly marked in this draft. Next: Part 5 Image 9, `009-periyapurana-49.png`, beginning `இந்தப் பெரும் பொருள், விடுதலைப்பெற்று நாட்டிலே`. Continue the Self-Respecter’s imagined prospect.
 
 Source recovery: all 70 scans visually reviewed. The printer footers at Part 2 Image 1 and Part 5 Image 3 remain unresolved; keep their current Tamil unchanged and retain the recovery hold. This draft translates only reconciled passages. No translation-state refresh or pending-count reduction is authorized by this partial checkpoint.
 
@@ -673,6 +673,38 @@ Even during all the harrowing calamities here—the famine of the Dhatu year, th
 
 No thought arose of the enormous economic loss and shortfall in industrial development caused by so much wealth lying idle. They went on making further contributions, each according to their means. From time to time the goddess's marriage pendant, the Lord's sacred thread, the horse's tail, the elephant's tusk, the peacock's train or an emerald bangle would disappear. What if they did? The devotees would panic and investigate. Before the outcome was known, a new devotee would hasten forward to have the missing article made anew! He might have become enormously wealthy through forged signatures. What if he had? Could the object he gave as an offering tell that story?
 
+### Image 7: 007-periyapurana-47.png
+
+Great wealth has remained like this for many generations, without proper accounts or records. Over this long period, the Thanjavur palace has become dilapidated, Gingee Fort has fallen into ruin, and Umaiyan's fort has become an earthen mound. So many changes have occurred—changes and disturbances, upheavals, changes of government and minor invasions. In these circumstances, who knows how many costly jewels offered in temples generations ago have disappeared, or how many precious gems have changed hands? Such immense wealth remains in temples without records or purpose.
+
+It was the Self-Respecters who first brought this situation to public attention—and, by doing so, even incurred the public's anger.
+
+It was the Self-Respecters who set the country's poverty beside the wealth in its sacred temples and declared that the government's apparent distress at being unable to find a way to uplift the poor resembled crying that there was no ghee when butter was at hand. They kept saying this amid powerful opposition! The country knows it; the government ruling the country knows it too.
+
+Not merely in this “holy land,” but in every country on earth, when wealth accumulated, the devout initially heaped great riches in places of worship in this way.
+
+Mahalingam keeps the accounts in a wholesale shop. Once he has earned some money, opened a shop of his own and become a person of consequence, he replaces the ordinary rudraksha beads formerly around his neck with gold-encased ones, replaces his wooden sacred-ash container with a silver one, and, instead of going to Palani and feeding three pandarams, has the steps of the Palani temple plated with gold. It is in such ways that he makes his devotion shine.
+
+### Image 8: 008-periyapurana-48.png
+
+This individual's disposition becomes the disposition of the country too.
+
+In this way, the devotee who in early times offered wildflowers and cooked meat, as told in the story of “Kannappa Nayanar,” later made gold and jewels into articles of worship.
+
+In many countries the habit of piling up offerings spread, and temples became repositories of greater wealth than the houses of kings.
+
+Only after clarity of understanding, and consequently clarity about God, arose did people in many countries develop this worthy outlook: immobilizing wealth in this manner—wasting resources that could uplift the poor and enrich life by tying them up as crowns, pendants, armour, vessels, sandals, palanquins, serpent forms and chariot forms—serves neither devotion, nor the purpose of making the Lord's greatness known to the world, nor the enrichment of ordinary people's lives. Therefore this futile work must stop. These resources must be transformed into schools, hospitals, homes for the poor and institutions of relief that administer a remedy for the disease of deprivation.
+
+This attitude developed rapidly in many countries.
+
+The esteem accorded to someone who built a temple and performed its consecration waned, while respect began to grow for someone who established a school and served education.
+
+A few who could not let go of the past clung painfully to the futile work of building devotional-singing halls. People of the new outlook began establishing universities.
+
+Even while so many changes were taking place in the world, in our country alone Siva continued to go in procession upon a golden bull. Continued? He continues still!
+
+Only the Self-Respecter, subjected to condemnation and ridicule, kept imagining in his mind—
+
 ## Translator's Notes — working
 
 - Title: “The Treasure of the Periya Puranam” retains the named work and the ironic suggestion of a treasure sought within it. The Tamil title is retained above.
@@ -731,3 +763,5 @@ No thought arose of the enormous economic loss and shortfall in industrial devel
 - Part 5 Image 4: “as rarely as the fig flowers” retains the idiom அத்திப் பூப்பது போல். The land/gold/women triad and the imagined fasting appeal remain complete. “He whose one half is Unnamulai Ammai” renders the divine epithet without inventing an identity for the fasting swami. The printed அரசன் is retained as “the king,” not silently changed to “the Lord.” The source's fragmentary உறக்க நேரத்தில். is joined syntactically in English; Tamil punctuation remains unchanged.
 - Part 5 Image 5: all jewellery valuations are retained as the source's claims, without modern appraisal or currency conversion. Lakh and crore retain Indian numerical units. Kubera is invoked as the figure of wealth. Kuppan and Suppan are ordinary personal names used as representative villagers, not independently identified individuals.
 - Part 5 Image 6: navaratna is rendered “the nine precious gems”; கோமேதகம் as hessonite and குங்குமக் கெம்பு as vermilion-red ruby. Every item in the ornament and calamity catalogues is retained. The banking, interest and sleeping/imprisoned-wealth metaphors remain distinct. The donor's possible forgery is conditional in the source and remains so in English. No dates or independent verification are supplied for the named disasters.
+- Part 5 Image 7: Umaiyan's fort retains the printed name without assigning an unverified site or historical identity. The butter/ghee comparison is retained as the author's analogy. Pandarams here are religious mendicants; the illustrative Mahalingam is not identified as a documented historical person.
+- Part 5 Image 8: the printed சுவாபம் is rendered “disposition/habit,” அறிவுத் தெளியும் is read as clarity of understanding in context, and இதம்புரிச்சாலைகள் as institutions of relief. These contextual interpretations do not alter the unusual Tamil forms. The full catalogue of immobilized wealth and the shift from past to present in இருந்தாரா? - இருக்கிறார்!! are retained. The international reform narrative remains the author's generalized historical argument.
