@@ -4,7 +4,7 @@ Canonical file: katturaigal/periyapuranaputhayal.md. Seven parts, 70 scans; no p
 
 Coverage: Part 1 Images 1–11 and Part 2 Images 1–10 and Part 3 Images 1–10 and Part 4 Images 1–10 and Part 5 Images 1–10 and Part 6 Images 1–10 and Part 7 Images 1–9 compared visually (70/70 scans; two printer-footer concerns remain open). Title/date confirmed; opening prose repaired only where scan-proven. Corrections recorded in ocr_concerns.csv. Printed historical spellings and unusual wording retained.
 
-Next: Resolve the printer-footer readings in Part 2 Image 1 and Part 5 Image 3 using a clearer witness before source release. All 70 scans have now been compared. A separate working English draft now covers all 11 Part 1 images and Part 2 Images 1–10 prose; and all Part 3 images plus all Part 4 images and all Part 5 prose plus Part 6 Images 1–4; continue at Part 6 Image 5, with Part 2 Image 1 footer still unresolved while retaining the footer recovery hold. Do not release the source or build the canonical bilingual file until the two footers are resolved. Part 5 local scans exist despite absent link in pending report; use RMRL if any missing or unreadable evidence is encountered.
+Next: Resolve the printer-footer readings in Part 2 Image 1 and Part 5 Image 3 using a clearer witness before source release. All 70 scans have now been compared. A separate working English draft now covers all 11 Part 1 images and Part 2 Images 1–10 prose; and all Part 3 images plus all Part 4 images and all Part 5 prose plus Part 6 Images 1–6; continue at Part 6 Image 7, with Part 2 Image 1 footer still unresolved while retaining the footer recovery hold. Do not release the source or build the canonical bilingual file until the two footers are resolved. Part 5 local scans exist despite absent link in pending report; use RMRL if any missing or unreadable evidence is encountered.
 
 Images 3–4: inoculation comparison, reformers’ paths, coconut-tree thief analogy and the five-eyed bogeyman discussion fully reconciled. All correction groups logged; printed unusual forms retained.
 
@@ -125,3 +125,5 @@ English checkpoint: Part 5 Images 9–10 translated and compared; all Part 5 pro
 English checkpoint: Part 6 Images 1–2 translated and compared, retaining the rain ritual/science comparison, two-line lyric, grant claims, five-element list and inquiry examples. Next: Part 6 Image 3. Footer hold unchanged; no source changes or state refresh.
 
 English checkpoint: Part 6 Images 3–4 translated and compared, retaining the astronomy, Piccard and mosquito-trap accounts with all figures and printed “sound energy.” Next: Part 6 Image 5. Footer hold unchanged; no source changes or state refresh.
+
+English checkpoint: Part 6 Images 5–6 translated and compared, retaining both verses, full action catalogues, repeated wording and the open concluding clause. Provisional lexical readings documented separately. Next: Part 6 Image 7. Footer hold unchanged; no state refresh.

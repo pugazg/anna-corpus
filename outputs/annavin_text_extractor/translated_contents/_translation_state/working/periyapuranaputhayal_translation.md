@@ -1,6 +1,6 @@
 # The Treasure of the Periya Puranam / பெரிய புராணப் புதையல் — working translation
 
-Status: INCOMPLETE; not a canonical bilingual document. All 11 Part 1 scans and the prose/numbered examples of Part 2 Images 1–10, plus all 10 Part 3 images and all 10 Part 4 images, plus the prose of all 10 Part 5 images and Part 6 Images 1–4, are translated and compared with the reconciled Tamil. The printer footers in Part 2 Image 1 and Part 5 Image 3 remain unresolved and are explicitly marked in this draft. Next: Part 6 Image 5, `005-4a4cc317d7.png`, continuing the mosquito-trap discussion.
+Status: INCOMPLETE; not a canonical bilingual document. All 11 Part 1 scans and the prose/numbered examples of Part 2 Images 1–10, plus all 10 Part 3 images and all 10 Part 4 images, plus the prose of all 10 Part 5 images and Part 6 Images 1–6, are translated and compared with the reconciled Tamil. The printer footers in Part 2 Image 1 and Part 5 Image 3 remain unresolved and are explicitly marked in this draft. Next: Part 6 Image 7, `007-ecd50c32bc.png`, beginning `மிராண்டிகளாகி விட்டதைக் காணும்போது,`. Continue after the English subordinate clause; its initial Tamil words have already been rendered for English syntax.
 
 Source recovery: all 70 scans visually reviewed. The printer footers at Part 2 Image 1 and Part 5 Image 3 remain unresolved; keep their current Tamil unchanged and retain the recovery hold. This draft translates only reconciled passages. No translation-state refresh or pending-count reduction is authorized by this partial checkpoint.
 
@@ -806,6 +806,34 @@ A box six feet high and three feet wide, with electrically operated screens insi
 
 He has used electricity to record the sound of a female mosquito and make gramophone records. Through these records, the female mosquito's song is heard inside the box. As soon as this “music” begins—a love song, after all—the mosquitoes are apparently entranced. They come in swarms to the place where the song is heard, enter the box, and are caught and killed in the screens installed there!
 
+### Image 5: 005-4a4cc317d7.png
+
+How much thought must have gone into constructing such a device!
+
+Even though it concerns mosquitoes, the researchers' “brains” have not neglected to think about it. Apparently the American government bore the cost of developing this device. This “singing box” is said to cost about two hundred dollars.
+
+Their intelligence works to learn and explain everything from celestial bodies to mosquitoes. We, meanwhile, still delight in reading the story of “the stone elephant eating sugarcane.” The Purana takes pride of place in exuberantly praising women! Those ranked among holy men and renunciants may have sung of the body's condition and its repulsiveness:
+
+“A skin-bag of food, around which crowd
+crows, vultures, ghouls, dogs and foxes;
+with two legs and nine portals it grows,
+a dance hall for the lord of desire;
+a chest containing the deed of delusive desire,
+a well from which the three impurities ooze.”
+
+But when they begin singing of this unstable, repulsive body, and especially a woman's body, we find that the composers of devotional hymns, compilers of texts for recitation and recipients of the Lord's grace have no equals in setting each limb beautifully before the mind's eye, observing its dimensions and character, and describing it in sweet language. We ask you to see how another devotee describes the well of three impurities:
+
+“In the flower-adorned knot of hair!
+In the proud delight of her resounding speech,
+in the swaying of moonlit limbs,
+in the enduringly fragrant breast-pots!”
+
+Having shown such “close-ups” as would make even a first-rate film director envious,
+
+### Image 6: 006-5845047cfe.png
+
+he tells of having “joined for a moment,” then says that, as a result, the woman comes “in a dream,” and finally concludes, “Murugan! Nephew of Mal! Save me from this.” The measure of their praise for victorious speech, killing eyes, a desirous smile, a narrow forehead, dark hair, full breasts, beguiling eyes and sweet lips will exceed their praise for the Six-Faced One or his father! The puranic narrators' words recall the behaviour of a mischievous fellow who, after enjoying a feast with payasam, sits on the street-side veranda and says, “Well, all one needs is a little food to quiet hunger. What does it matter what that food is? Even gruel will do, so long as it fills the belly.” Even in descriptions of the Lord's actions, when men are involved the greater part consists of deeds such as stab, cut, strike, seize, crush, conquer and speak. When women are involved, the actions described are to sport affectionately, embrace, unite, sing, soften, consort, desire, draw near, clasp tightly, dance until the waist grows weary, frolic in moonlight, sing in the water and sing songs. That is, they are depicted with an awareness of the pleasure that naturalistic descriptions might provide. This is why we called the Puranas “an intoxicating medicinal paste.” Just as intoxication damages bodily health and destroys mental strength, the Purana dulls people's understanding. That is why those concerned that people's intelligence should shine say, “Do not consume this puranic intoxicant.” Just as there are those absorbed in the pleasure of intoxication and those who sell the intoxicating substance, there are those sunk in puranic delusion and those who trade in the Puranas. Is there not a reason for their distress? Considering their distress, considering our purpose, can we abandon our purpose? Would it be right to abandon it? We wish to repair and rebuild a society that is collapsing. We seek a way for a people brought low to raise their heads and live again. When we see that, for lack of such efforts, a people who once lived wearing crowns have today become savages wandering in a corner,
+
 ## Translator's Notes — working
 
 - Title: “The Treasure of the Periya Puranam” retains the named work and the ironic suggestion of a treasure sought within it. The Tamil title is retained above.
@@ -872,3 +900,5 @@ He has used electricity to record the sound of a female mosquito and make gramop
 - Part 6 Image 2: appu, prithuvi, teyu, vayu and akasam retain the source's traditional five-element terms, corresponding to water, earth, fire, air and space. The universal claims about inquiry and superstition remain the author's rhetoric. The transition from celestial bodies to mosquitoes and the sky/sea pairing are retained in full.
 - Part 6 Image 3: ஒலி சக்தி is retained literally as “sound energy,” not silently changed to radio waves or light. Piccard's printed age of sixty-three, the proposed two-and-a-half-mile descent and both “last week” references remain the author's historical claims; no unprinted date or independent identification is supplied.
 - Part 6 Image 4: மார்டின் - சி - கான் is rendered “Martin C. Kahn”; the name and invention account are not independently verified here. The six-by-three-foot dimensions, female-mosquito recording and electrically operated screens are retained as described, without adding modern technical explanations. The stone-fibre/sand-rope comparisons remain two distinct images.
+- Part 6 Image 5: both quoted verses retain their six- and four-line shapes. The skin-bag, nine portals, deed/chest and well imagery remain distinct. The unusual காமவவேள் is understood as the lord of desire; கொலுமொழி is provisionally rendered “resounding speech.” மும்மலம் retains “three impurities,” allowing its doctrinal/body-image resonance without replacing the verse with a gloss. கரும்பி is rendered sugarcane in the stone-elephant story; the Tamil remains unchanged.
+- Part 6 Image 6: Mal is retained as the divine name in “nephew of Mal”; the Six-Faced One is Murugan. Every item in both action catalogues is retained, including printed சொல் (“speak”) and புனல் பாடுதல் (“sing in the water”), rather than silently normalizing them. The repeated நோக்கத்தை is reflected in English. The dated “savages” characterization remains the author's rhetoric, not the translator's description of any people. The closing subordinate clause crosses into Image 7.
