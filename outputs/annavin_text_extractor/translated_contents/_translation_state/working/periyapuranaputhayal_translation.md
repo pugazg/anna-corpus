@@ -1,6 +1,6 @@
 # The Treasure of the Periya Puranam / பெரிய புராணப் புதையல் — working translation
 
-Status: INCOMPLETE; not a canonical bilingual document. All 11 Part 1 scans and the prose/numbered examples of Part 2 Images 1–10, plus all 10 Part 3 images and all 10 Part 4 images, plus Part 5 Images 1–2, are translated and compared with the reconciled Tamil. Part 2 Image 1's printer footer remains unresolved and is explicitly marked in this draft. Next: Part 5 Image 3, `003-periyapurana-43.png`. This scan contains the second unresolved printer footer; retain an explicit recovery marker and do not guess its reading.
+Status: INCOMPLETE; not a canonical bilingual document. All 11 Part 1 scans and the prose/numbered examples of Part 2 Images 1–10, plus all 10 Part 3 images and all 10 Part 4 images, plus the prose of Part 5 Images 1–4, are translated and compared with the reconciled Tamil. The printer footers in Part 2 Image 1 and Part 5 Image 3 remain unresolved and are explicitly marked in this draft. Next: Part 5 Image 5, `005-periyapurana-45.png`, beginning `வைப்பார்! அஞ்சேல்! அஞ்சேல்!!`. Continue the imagined speech after “keep us”.
 
 Source recovery: all 70 scans visually reviewed. The printer footers at Part 2 Image 1 and Part 5 Image 3 remain unresolved; keep their current Tamil unchanged and retain the recovery hold. This draft translates only reconciled passages. No translation-state refresh or pending-count reduction is authorized by this partial checkpoint.
 
@@ -603,6 +603,38 @@ We ask you to compare the statement that kings and wealthy men gave property to 
 
 Can anyone therefore call Dinachari a paper that fosters hatred of religion or a journal that spreads atheism? Yet that paper says that religion is not protected by monastery heads but is being destroyed. Had we said this, we would by now have been publicized as “enemies of monastery heads” and subjected to many people's condemnation—why, even to a torrent of abuse from Dinachari itself, which now condemns the conduct of monastery heads.
 
+### Image 3: 003-periyapurana-43.png
+
+Dinachari, which came forward to condemn the conduct of monastery heads, did not stop there.
+
+“Religion will suffer no loss through a reduction in the authority of these monastery heads.”
+
+It went further, condemning their conduct in these words. What truth follows from Dinachari's statement that no loss will result from reducing their authority—that is, from the government taking over and administering the temple properties now under their supervision? Surely the truth contained in its words is that continued control of these public properties by monastery heads will bring only loss, whereas government administration will bring benefit. The reason Dinachari gives for this cannot be denied by anyone:
+
+“No upright person can say there is greatness in the administration of the present monastery heads and pandara sannidhis; there is only corruption and extravagance.”
+
+So it has written. As though gathering together all the observations we have made here and there in this article about the sumptuous lives of monastery heads, it has compressed them into just two words. We ask our friends to consider whether “corruption” and “extravagance” are certificates of good conduct that uphold the greatness of monastery heads. The “exalted” situation in which the very mention of a monastery head called for hearts to melt and knees to bend in reverence has changed. Their private lives of luxury have been exposed to the point where people openly say that corruption fills their ranks and extravagance abounds. Can this still be concealed or denied? That is what we ask.
+
+In these circumstances, it is indeed strange that some comrades stand on the side of monastery heads and argue for them. Those who oppose the bill to bring the properties now administered by monastery heads
+
+[Working-draft recovery marker: the printer footer here remains unresolved. The current canonical OCR transcription is `13 பே.௮.க பூவே. எண் 470`; this is not a verified reading or a completed translation of the footer. Resolve before canonical assembly.]
+
+### Image 4: 004-periyapurana-44.png
+
+under government administration—who can deny that they oppose the government when, as rarely as the fig flowers, it attempts some good deed, and thus stand as obstacles to the country's progress? If there is any truth or justice in their opposition, let them convene a public meeting, state their reasons and test whether they can prevail. Not only we but many others who wish the country well will readily come forward for this. The country has awakened to that extent today.
+
+As Dinachari says, “A man who has taken the title of swami as a sign that he is a renunciant who does not even value land, gold or women in his thoughts now says he will give up his life so that land and gold remain under the control of monastery heads.” If this is so, what thoughts must have arisen in his mind, surged about and buffeted him! How many pandara sannidhis must have appeared before his mind's eye, saying:
+
+“Noble one who has come to save us! Through your fast, let our cherished lives, sweet as fruit juice, be preserved!
+
+“Let the government change its mind so that the properties we possess remain with us!
+
+“Be steadfast in your resolve not to give up your fast until death—until the government abandons this bill! He whose one half is Unnamulai Ammai will not forsake you! During your sleep, he himself will come in disguise, just as our Puranas and other texts relate, feed you ‘the milk of wisdom’ and preserve your life!
+
+“Even if someone secretly watches and tells others about this, our devotees are ready to conceal it!
+
+“There is nothing to fear; nothing fearful will come. Dear friend! The king will protect you too! He will also keep us
+
 ## Translator's Notes — working
 
 - Title: “The Treasure of the Periya Puranam” retains the named work and the ironic suggestion of a treasure sought within it. The Tamil title is retained above.
@@ -657,3 +689,5 @@ Can anyone therefore call Dinachari a paper that fosters hatred of religion or a
 - Part 4 Image 10–Part 5 Image 1: the final question crosses the part boundary. English defers “assure us that a bill abolishing monasteries will never come?” to the next scan for syntax; those words must be supplied there, not omitted.
 - Part 5 Image 1: the question about a monastery-abolition bill completes the sentence begun in Part 4. All three quoted poetic/proclamatory fragments remain separate. Lakhs retains the Indian numerical unit; “three branches of Tamil” renders முத்தமிழ். The anti-Hindi struggle and “Aryan rule” remain the author's political characterization, without supplying an unprinted event date.
 - Part 5 Image 2: வகுப்பு வாதம் is rendered “communalism” in the list of accusations. The Dinachari editorial quotation and printed 25-1-49 date are retained as 25 January 1949; the issue has not been independently checked here. The author's argument about conversion is preserved without presenting the quoted claim as newly verified data.
+- Part 5 Image 3: pandara sannidhi retains the monastic honorific. Both Dinachari quotations and the author's conclusions are kept distinct. The second printer footer has an explicit editorial recovery marker; neither footer is counted fully translated or verified.
+- Part 5 Image 4: “as rarely as the fig flowers” retains the idiom அத்திப் பூப்பது போல். The land/gold/women triad and the imagined fasting appeal remain complete. “He whose one half is Unnamulai Ammai” renders the divine epithet without inventing an identity for the fasting swami. The printed அரசன் is retained as “the king,” not silently changed to “the Lord.” The source's fragmentary உறக்க நேரத்தில். is joined syntactically in English; Tamil punctuation remains unchanged.
