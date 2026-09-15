@@ -1,6 +1,6 @@
 # The Treasure of the Periya Puranam / பெரிய புராணப் புதையல் — working translation
 
-Status: INCOMPLETE; not a canonical bilingual document. All 11 Part 1 scans and the prose/numbered examples of Part 2 Images 1–10, plus all 10 Part 3 images and all 10 Part 4 images, plus the prose of all 10 Part 5 images and all 10 Part 6 images, plus Part 7 Images 1–9, are translated and compared with the reconciled Tamil. The printer footers in Part 2 Image 1 and Part 5 Image 3 remain unresolved and are explicitly marked in this draft. All seven parts now have English prose drafts. Full comparative review checked all 11 Part 1 images and Part 2 Images 1–4 prose; next review: Part 2 Image 5. Resolve both printer footers and finish comparative review before canonical assembly.
+Status: INCOMPLETE; not a canonical bilingual document. All 11 Part 1 scans and the prose/numbered examples of Part 2 Images 1–10, plus all 10 Part 3 images and all 10 Part 4 images, plus the prose of all 10 Part 5 images and all 10 Part 6 images, plus Part 7 Images 1–9, are translated and compared with the reconciled Tamil. The printer footers in Part 2 Image 1 and Part 5 Image 3 remain unresolved and are explicitly marked in this draft. All seven parts now have English prose drafts. Full comparative review checked all 11 Part 1 images and Part 2 Images 1–8 prose; next review: Part 2 Image 9. Resolve both printer footers and finish comparative review before canonical assembly.
 
 Source recovery: all 70 scans visually reviewed. The printer footers at Part 2 Image 1 and Part 5 Image 3 remain unresolved; keep their current Tamil unchanged and retain the recovery hold. This draft translates only reconciled passages. No translation-state refresh or pending-count reduction is authorized by this partial checkpoint.
 
@@ -183,7 +183,7 @@ Devi? It was not them. They spend their time associating with human beings and a
 
 “They locked you up? You? The devotees?” Devi asked in bewilderment.
 
-“Devi! You feel such horror merely hearing about it! What must my heart have suffered when they put me in a room and locked it? Am I some Karuppan who works in the fields, to cry out, ‘Master, master, let me go’? I am the Karuppannasami whom they call upon and ask for boons! Yet they pushed me into a room and locked it. What could I do?” Karuppannasami said, exhausted.
+“Devi! You feel such horror merely hearing about it! What must my heart have suffered when they put me in a room and locked it? Am I some Karuppanna who works in the fields, to cry out, ‘Master, master, let me go’? I am the Karuppannasami whom they call upon and ask for boons! Yet they pushed me into a room and locked it. What could I do?” Karuppannasami said, exhausted.
 
 Devi began to feel real sympathy.
 
