@@ -1,6 +1,6 @@
 # The Treasure of the Periya Puranam / பெரிய புராணப் புதையல் — working translation
 
-Status: INCOMPLETE; not a canonical bilingual document. All 11 Part 1 scans and the prose/numbered examples of Part 2 Images 1–10, plus all 10 Part 3 images and all 10 Part 4 images, plus the prose of Part 5 Images 1–4, are translated and compared with the reconciled Tamil. The printer footers in Part 2 Image 1 and Part 5 Image 3 remain unresolved and are explicitly marked in this draft. Next: Part 5 Image 5, `005-periyapurana-45.png`, beginning `வைப்பார்! அஞ்சேல்! அஞ்சேல்!!`. Continue the imagined speech after “keep us”.
+Status: INCOMPLETE; not a canonical bilingual document. All 11 Part 1 scans and the prose/numbered examples of Part 2 Images 1–10, plus all 10 Part 3 images and all 10 Part 4 images, plus the prose of Part 5 Images 1–6, are translated and compared with the reconciled Tamil. The printer footers in Part 2 Image 1 and Part 5 Image 3 remain unresolved and are explicitly marked in this draft. Next: Part 5 Image 7, `007-periyapurana-47.png`, beginning `இப்படிப் பெரும் பொருள் பல தலைமுறைகளாக -`.
 
 Source recovery: all 70 scans visually reviewed. The printer footers at Part 2 Image 1 and Part 5 Image 3 remain unresolved; keep their current Tamil unchanged and retain the recovery hold. This draft translates only reconciled passages. No translation-state refresh or pending-count reduction is authorized by this partial checkpoint.
 
@@ -635,6 +635,44 @@ As Dinachari says, “A man who has taken the title of swami as a sign that he i
 
 “There is nothing to fear; nothing fearful will come. Dear friend! The king will protect you too! He will also keep us
 
+### Image 5: 005-periyapurana-45.png
+
+alive! Fear not! Fear not!” Though scenes of them saying such things may appear again and again before his mind's eye and encourage him, one thing is certain: the country will no longer tolerate a situation in which most people wither in poverty while pandara sannidhis, in religion's name, remain in the shade—neither straightening nor bending, neither cutting nor digging, doing no labour—eating milk and fruit and riding in palanquins in procession.
+
+* * * *
+
+The Mother's nose ornament is worth three and a half lakh rupees.
+
+The Lord's diamond crown is said to be worth thirty lakhs!
+
+Is Rangan's pearl robe worth some trifling sum? Even a thief would give fifty lakhs for it!
+
+The emerald set in the necklace on Pandurangan's chest is as broad as a palm. There is no emerald like it anywhere in the world. As for its price, no one has yet valued it!
+
+The divine ornaments at Tirumala Tirupati alone are said to be worth many crores of rupees.
+
+Is there any less at Tillai? Is what Annamalaiyar possesses at Tiruvannamalai a small amount?
+
+* * * *
+
+This is how countless devotees speak with ecstasy, and economists with astonishment mingled with pity, about the immense value of the jewels in our country's temples.
+
+Temple administrators spread a silk robe before the white governors and lay these ornaments upon it for display—with delight and pride.
+
+After seeing this “wealth of Kubera,” the governors meet local notables who explain that Kuppan and Suppan, clad in nothing but loincloths, are half-starved because the village
+
+### Image 6: 006-periyapurana-46.png
+
+has no river, or has a tank without a proper embankment, and give other such details. These notables “pray” and submit petitions asking the “generous benefactor” to show mercy to the poor, and the “most compassionate government” to provide “financial assistance” to relieve their suffering. Having seen them, the governors get into their motorcars.
+
+They have seen the nine precious gems. They have also seen the poor becoming walking corpses! This has been the situation for a long time.
+
+For many generations, costly gems of the nine kinds, gem-set jewels, gold ornaments, articles of gold and silver—a lion in gold, a bull in silver, a peacock set with emeralds, Garuda with hessonite eyes, a swan set with vermilion-red rubies, a silver chariot with a golden canopy—things like these, worth many crores of rupees, have lain sleeping in the temples.
+
+Even during all the harrowing calamities here—the famine of the Dhatu year, the Bengal famine, the Bihar earthquake, the flooding of the Ganges, breaches of the Kaveri, the ravages of cholera and food shortages—all this remained imprisoned in the Lord's name. Believing that the place where they would receive interest on this money was heaven, devotees deposited great wealth in this Bank of God, generation after generation.
+
+No thought arose of the enormous economic loss and shortfall in industrial development caused by so much wealth lying idle. They went on making further contributions, each according to their means. From time to time the goddess's marriage pendant, the Lord's sacred thread, the horse's tail, the elephant's tusk, the peacock's train or an emerald bangle would disappear. What if they did? The devotees would panic and investigate. Before the outcome was known, a new devotee would hasten forward to have the missing article made anew! He might have become enormously wealthy through forged signatures. What if he had? Could the object he gave as an offering tell that story?
+
 ## Translator's Notes — working
 
 - Title: “The Treasure of the Periya Puranam” retains the named work and the ironic suggestion of a treasure sought within it. The Tamil title is retained above.
@@ -691,3 +729,5 @@ As Dinachari says, “A man who has taken the title of swami as a sign that he i
 - Part 5 Image 2: வகுப்பு வாதம் is rendered “communalism” in the list of accusations. The Dinachari editorial quotation and printed 25-1-49 date are retained as 25 January 1949; the issue has not been independently checked here. The author's argument about conversion is preserved without presenting the quoted claim as newly verified data.
 - Part 5 Image 3: pandara sannidhi retains the monastic honorific. Both Dinachari quotations and the author's conclusions are kept distinct. The second printer footer has an explicit editorial recovery marker; neither footer is counted fully translated or verified.
 - Part 5 Image 4: “as rarely as the fig flowers” retains the idiom அத்திப் பூப்பது போல். The land/gold/women triad and the imagined fasting appeal remain complete. “He whose one half is Unnamulai Ammai” renders the divine epithet without inventing an identity for the fasting swami. The printed அரசன் is retained as “the king,” not silently changed to “the Lord.” The source's fragmentary உறக்க நேரத்தில். is joined syntactically in English; Tamil punctuation remains unchanged.
+- Part 5 Image 5: all jewellery valuations are retained as the source's claims, without modern appraisal or currency conversion. Lakh and crore retain Indian numerical units. Kubera is invoked as the figure of wealth. Kuppan and Suppan are ordinary personal names used as representative villagers, not independently identified individuals.
+- Part 5 Image 6: navaratna is rendered “the nine precious gems”; கோமேதகம் as hessonite and குங்குமக் கெம்பு as vermilion-red ruby. Every item in the ornament and calamity catalogues is retained. The banking, interest and sleeping/imprisoned-wealth metaphors remain distinct. The donor's possible forgery is conditional in the source and remains so in English. No dates or independent verification are supplied for the named disasters.
