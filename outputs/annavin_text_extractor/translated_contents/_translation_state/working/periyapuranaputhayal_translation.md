@@ -1,6 +1,6 @@
 # The Treasure of the Periya Puranam / பெரிய புராணப் புதையல் — working translation
 
-Status: INCOMPLETE; not a canonical bilingual document. All 11 Part 1 scans and the prose/numbered examples of Part 2 Images 1–10, plus all 10 Part 3 images and all 10 Part 4 images, plus the prose of all 10 Part 5 images and all 10 Part 6 images, plus Part 7 Images 1–2, are translated and compared with the reconciled Tamil. The printer footers in Part 2 Image 1 and Part 5 Image 3 remain unresolved and are explicitly marked in this draft. Next: Part 7 Image 3, `003-a7050b911c.png`, beginning `முறை வைத்துக் கொண்டு, ஏழு குதிரைகள் பூட்டப்பட்ட அந்த`. Complete the open naga/chariot sentence without repeating the monthly rotation.
+Status: INCOMPLETE; not a canonical bilingual document. All 11 Part 1 scans and the prose/numbered examples of Part 2 Images 1–10, plus all 10 Part 3 images and all 10 Part 4 images, plus the prose of all 10 Part 5 images and all 10 Part 6 images, plus Part 7 Images 1–4, are translated and compared with the reconciled Tamil. The printer footers in Part 2 Image 1 and Part 5 Image 3 remain unresolved and are explicitly marked in this draft. Next: Part 7 Image 5, `005-0e5dfb9797.png`. Continue the open sentence contrasting the scientific view with god and chariot.
 
 Source recovery: all 70 scans visually reviewed. The printer footers at Part 2 Image 1 and Part 5 Image 3 remain unresolved; keep their current Tamil unchanged and retain the recovery hold. This draft translates only reconciled passages. No translation-state refresh or pending-count reduction is authorized by this partial checkpoint.
 
@@ -912,6 +912,34 @@ When the Sun God sets out in this manner in his chariot, Pulattiyan, Pulakan, Va
 
 Kangan, Takkan, Nagan, Kambalachuvan, Niran, Airavatan, Elapattiran, Karkkotakan, Sangapalan, Dhananjayan, Paraman and Vasuki—the nagas named thus—each taking a month in turn,
 
+### Image 3: 003-a7050b911c.png
+
+pull that single-wheeled chariot to which seven horses are harnessed!
+
+Is that all? There is dancing and singing before the chariot too. Taking turns, one each month, Urunayu, Tumburu, Nadarar, Aha, Uhu, Visuvavasu, Dhritarashtran, Suriyan, Vachan, Ukkirasenan, Vararuchi and Chitran Kantaru sing. The beauties Kirukattalai, Sikattalai, Menakai, Sakasannisai, Pramalosatti, Anumulosai, Kritasi, Visuvasi, Uruppasi, Purvasitti, Tilottamai and Arambai dance! Do not imagine that, because of his ceaseless daily work of mounting the chariot and circling Meru, the Sun God neglected family affairs. He has two wives! One arose from the other. Taking Sanjna Devi as his wife, amid all his many duties the Sun God became the father of Vaivachu Tamadu, Yama and Yamuna. Until she bore three children, love apparently became a breeze for Sanja Devi and enabled her to endure the sun's heat! Afterwards, unable to bear it, she suffered, made her own “semblance” into a woman, and went to her mother's house. The Sun God continued his amorous pleasures with that Chaya Devi, not knowing she was another woman.
+
+Only after some time, apparently, did the Sun God discover that the woman yielding to his amorous advances was not Sanja Devi but Chaya Devi. On discovering this, he went in search of his wife. For some reason, the lady had taken the form of a mare and was practising austerities on some mountainside. On seeing her, did the Sun God ask, “Devi, what is this form? Why did you leave me?” No! He immediately took the form of a stallion and pursued the mare-lady! It did not remain a mere chase. It became a game of love, and as semen flowed from the solar horse's nostrils, the Asvini gods were born!
+
+* * * *
+
+This is our country's sun—the truth discovered by the foremost rishis, ascetic sages and experts in the Vedas!
+
+### Image 4: 004-f2026a8201.png
+
+With Aha and Uhu singing, and Arambai and Urvasi dancing, the Sun God travels round in a single-wheeled chariot!
+
+Those who declared this “truth” are said to have been no ordinary people, nor merely masters of every art, but pure ones who subdued the three impurities, discovered the primal source and entered into friendship with God. It is said and believed that they discovered through their eyes of wisdom truths invisible to fleshly eyes. Worship of the Sun God and its prescribed procedures have been laid down.
+
+The sun they saw had one face and eight arms! The sight witnessed by those with eyes of wisdom was magnificent. They saw the chariot circling Meru amid song and dance, drawn by seven horses with serpents helping to pull it—or said that they saw it. Those who accepted this as correct were called virtuous; those who doubted were considered atheists.
+
+* * * *
+
+Now let us consider how the sun seen by the eyes of wisdom appears to today's eyes of science. There are many reasons to consider this. The most important is that, in the days in which we now live, we chiefly receive the assistance of those with scientific eyes, rather than those with eyes of wisdom. Apart from the difference between these two kinds of “eyes,” we ask you to recognize another truth. Only the ordinary people here have accepted the form of the Sun God supposedly seen by the eyes of wisdom. Nowhere else in the world does anyone say that the sun has eight arms, one face and two wives. Even here, the schoolchildren in our homes do not see the sun presented by the eyes of wisdom. They, and everyone of ordinary intelligence throughout the world, see a different sun.
+
+* * * *
+
+The sun seen by the eyes of wisdom is a god who rides round in a chariot! To scientific eyes, neither god nor chariot
+
 ## Translator's Notes — working
 
 - Title: “The Treasure of the Periya Puranam” retains the named work and the ironic suggestion of a treasure sought within it. The Tamil title is retained above.
@@ -986,3 +1014,5 @@ Kangan, Takkan, Nagan, Kambalachuvan, Niran, Airavatan, Elapattiran, Karkkotakan
 - Part 6 Image 10: “the sage of Vadalur” retains வடலூரார்; Arutpa and Pusam retain the text/festival terms and their verbal proximity to பூசுர. The unusual பிச்சப் பிள்ளை விளையாட்டு is provisionally rendered “foolish child's play.” The three-line verse is translated without supplying the monkeys until the following prose commentary names them. Its conches are confirmed by that commentary; both verse and continuing interpretation remain distinct.
 - Part 7 Image 1: Su-Na-Ma-Na retains the spoken-letter nickname சூனாமானா for Self-Respect in this context. The full conch-field commentary, two poetic quotations and list of honorifics are retained. “Ganapati” continues the Vedic-scholar usage rather than identifying the deity.
 - Part 7 Image 2: the names in both monthly lists are transliterated from the printed forms rather than harmonized with a standard mythological list. The printed நாங்கள் (“we”) is contextually interpreted as nagas in the sequence of serpent names; this is an explicit translation interpretation, not a Tamil correction. The eight arms and five named held objects remain as printed. The closing sentence continues into Image 3.
+- Part 7 Image 3: the singer/dancer lists and the unusual child-name வைவச்சு தமது are transliterated provisionally rather than replaced with names from other mythological versions. Sanjna/Sanja and Uruppasi/Urvasi preserve printed variations. The horse episode, including the printed nostril/semen agency, is translated without substituting a standard retelling.
+- Part 7 Image 4: “eyes of wisdom” and “eyes of science” preserve the repeated contrast. Claims about worldwide belief remain the author's rhetoric. All three dividers across Images 3–4 are retained, and the final scientific-description sentence continues into Image 5.
