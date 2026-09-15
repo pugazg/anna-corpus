@@ -1,6 +1,6 @@
 # The Treasure of the Periya Puranam / பெரிய புராணப் புதையல் — working translation
 
-Status: INCOMPLETE; not a canonical bilingual document. All 11 Part 1 scans and the prose/numbered examples of Part 2 Images 1–10, plus all 10 Part 3 images and all 10 Part 4 images, plus the prose of all 10 Part 5 images and Part 6 Images 1–6, are translated and compared with the reconciled Tamil. The printer footers in Part 2 Image 1 and Part 5 Image 3 remain unresolved and are explicitly marked in this draft. Next: Part 6 Image 7, `007-ecd50c32bc.png`, beginning `மிராண்டிகளாகி விட்டதைக் காணும்போது,`. Continue after the English subordinate clause; its initial Tamil words have already been rendered for English syntax.
+Status: INCOMPLETE; not a canonical bilingual document. All 11 Part 1 scans and the prose/numbered examples of Part 2 Images 1–10, plus all 10 Part 3 images and all 10 Part 4 images, plus the prose of all 10 Part 5 images and Part 6 Images 1–8, are translated and compared with the reconciled Tamil. The printer footers in Part 2 Image 1 and Part 5 Image 3 remain unresolved and are explicitly marked in this draft. Next: Part 6 Image 9, `009-52e7240dd9.png`, beginning `ஆனால் பழமையின் ஏஜெண்டாகவே மறைமுகத்தில் வேலை`. Continue the open sentence about the Kesavans.
 
 Source recovery: all 70 scans visually reviewed. The printer footers at Part 2 Image 1 and Part 5 Image 3 remain unresolved; keep their current Tamil unchanged and retain the recovery hold. This draft translates only reconciled passages. No translation-state refresh or pending-count reduction is authorized by this partial checkpoint.
 
@@ -834,6 +834,50 @@ Having shown such “close-ups” as would make even a first-rate film director 
 
 he tells of having “joined for a moment,” then says that, as a result, the woman comes “in a dream,” and finally concludes, “Murugan! Nephew of Mal! Save me from this.” The measure of their praise for victorious speech, killing eyes, a desirous smile, a narrow forehead, dark hair, full breasts, beguiling eyes and sweet lips will exceed their praise for the Six-Faced One or his father! The puranic narrators' words recall the behaviour of a mischievous fellow who, after enjoying a feast with payasam, sits on the street-side veranda and says, “Well, all one needs is a little food to quiet hunger. What does it matter what that food is? Even gruel will do, so long as it fills the belly.” Even in descriptions of the Lord's actions, when men are involved the greater part consists of deeds such as stab, cut, strike, seize, crush, conquer and speak. When women are involved, the actions described are to sport affectionately, embrace, unite, sing, soften, consort, desire, draw near, clasp tightly, dance until the waist grows weary, frolic in moonlight, sing in the water and sing songs. That is, they are depicted with an awareness of the pleasure that naturalistic descriptions might provide. This is why we called the Puranas “an intoxicating medicinal paste.” Just as intoxication damages bodily health and destroys mental strength, the Purana dulls people's understanding. That is why those concerned that people's intelligence should shine say, “Do not consume this puranic intoxicant.” Just as there are those absorbed in the pleasure of intoxication and those who sell the intoxicating substance, there are those sunk in puranic delusion and those who trade in the Puranas. Is there not a reason for their distress? Considering their distress, considering our purpose, can we abandon our purpose? Would it be right to abandon it? We wish to repair and rebuild a society that is collapsing. We seek a way for a people brought low to raise their heads and live again. When we see that, for lack of such efforts, a people who once lived wearing crowns have today become savages wandering in a corner,
 
+### Image 7: 007-ecd50c32bc.png
+
+not only does the thought that we must perform our duty grow stronger, but so does the resolve to do it swiftly and without the slightest hesitation. What became of the Todas? What became of the Red Indians? Why were they reduced to that condition? If we examine the “secret” of this, we can understand that attitudes such as expecting a concealed evil to disappear of itself brought about these afflictions.
+
+* * * *
+
+It is true that many ideas in the Puranas disappear with time, and that, as general knowledge spreads, many ideas are ridiculed and rejected. But some retain their strength. Some are deliberately strengthened. Why? Which ideas? Those that enable a small group to live in luxury, that provide a band of people with a way to live without labour. Though such ideas are assailed by the onward rush of time and the spread of general knowledge, the small group that profits from their continued existence takes the greatest care to keep them from perishing and to nourish them. Here, since that very small group has the “propaganda machine” in its grip, its members use the machine to keep alive the ideas favourable to their comfortable lives.
+
+* * * *
+
+Kesavan the compounder spoke pleasantly and behaved properly, causing Dr Damodaram no trouble. The doctor would call, “Kesava! Kesava!” at least a hundred times a day, and Kesavan would respond with affection and deference. Kesavan was Dr Damodaran's compounder. But he was also his father's son! His father was a gem-and-incantation healer: that is, he would give medicine to cure disease and perform incantations too. The doctor took the patient's pulse, asked him to put out his tongue, examined him and wrote a prescription. Then, when the patient came into the inner room and showed the slip,
+
+### Image 8: 008-83d7e1a947.png
+
+Kesavan the compounder would welcome him with a smile, ask him to sit down, and talk as he mixed the medicine.
+
+“How long have you had this stomach pain, sir?”
+
+“Why ask? It's my bad luck, I suppose. This curse has been tormenting me since last Karttikai.”
+
+“Oh, poor man! But why haven't you taken medicine all this time?”
+
+“Haven't taken medicine? By now a whole wellful of medicine must have gone into my stomach. I've been through Dr Sekhar, Dr Lokanathan and the government hospital, and now I've come here.”
+
+“Oh! So you've taken medicine in many places? (A moment's silence.) Just peep out and see what the doctor is doing.”
+
+(After looking)
+
+“He's reading the paper.”
+
+“Sir, keep something to yourself. For stomach pain like this, taking medicine alone isn't enough. What comes from the body will go with medicine; some things go only with incantations. Mahadeva Mudaliar's pain stopped only after the irattai was tied on.”
+
+“Is that so? Where do they perform these incantations?”
+
+“You mustn't misunderstand me. My father performs them too.”
+
+“His name?”
+
+“Mannar Chettiar of the Mani-Mantra Dispensary.”
+
+After this conversation, the patient goes to the Mani-Mantra Dispensary! What use is Kesavan to the doctor as a compounder?
+
+There is a whole company of such Kesavans here. They work even in the temple of the new world,
+
 ## Translator's Notes — working
 
 - Title: “The Treasure of the Periya Puranam” retains the named work and the ironic suggestion of a treasure sought within it. The Tamil title is retained above.
@@ -902,3 +946,5 @@ he tells of having “joined for a moment,” then says that, as a result, the w
 - Part 6 Image 4: மார்டின் - சி - கான் is rendered “Martin C. Kahn”; the name and invention account are not independently verified here. The six-by-three-foot dimensions, female-mosquito recording and electrically operated screens are retained as described, without adding modern technical explanations. The stone-fibre/sand-rope comparisons remain two distinct images.
 - Part 6 Image 5: both quoted verses retain their six- and four-line shapes. The skin-bag, nine portals, deed/chest and well imagery remain distinct. The unusual காமவவேள் is understood as the lord of desire; கொலுமொழி is provisionally rendered “resounding speech.” மும்மலம் retains “three impurities,” allowing its doctrinal/body-image resonance without replacing the verse with a gloss. கரும்பி is rendered sugarcane in the stone-elephant story; the Tamil remains unchanged.
 - Part 6 Image 6: Mal is retained as the divine name in “nephew of Mal”; the Six-Faced One is Murugan. Every item in both action catalogues is retained, including printed சொல் (“speak”) and புனல் பாடுதல் (“sing in the water”), rather than silently normalizing them. The repeated நோக்கத்தை is reflected in English. The dated “savages” characterization remains the author's rhetoric, not the translator's description of any people. The closing subordinate clause crosses into Image 7.
+- Part 6 Image 7: the dated Indigenous references and explanation of decline remain the author's argument; தொதவர் is rendered Todas consistently with the earlier passage. Compounder denotes a medical dispenser who prepares prescribed medicines. Damodaram/Damodaran retains the printed variation; the father's Mani-Mantra practice combines medicine with ritual healing.
+- Part 6 Image 8: the unusual உடம்பா லொத்தது is provisionally interpreted as a bodily cause of illness. Printed இரட்டை is retained as irattai, an unidentified tied object in this healing context; it is not silently replaced with இரட்சை or assigned a definite form. Karttikai retains the Tamil month. சாமியாலயம் is literally reflected in “temple of the new world,” preserving the metaphor rather than substituting a modern institution. The cure claims are the compounder's dialogue, not medical guidance.
