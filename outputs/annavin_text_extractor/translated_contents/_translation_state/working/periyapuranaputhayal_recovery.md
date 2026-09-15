@@ -137,3 +137,5 @@ English checkpoint: Part 7 Images 1–2 translated and compared, retaining the c
 English checkpoint: Part 7 Images 3–4 translated and compared, retaining all name lists, the horse episode, three dividers and the wisdom/science contrast. Next: Part 7 Image 5. Footer hold unchanged; no state refresh.
 
 English checkpoint: Part 7 Images 5–6 translated and compared with reconciled Tamil; historical scientific figures retained. Next Part 7 Image 7 (`007-3d8b0ef53e.png`), continuing the eclipse-ritual sentence. Both printer footers remain unresolved; no source release, canonical completion, or state refresh.
+
+English checkpoint: Part 7 Images 7–9 translated and compared with reconciled Tamil, including the closing numbered reports and ornaments. English prose for all seven parts is now drafted. Next: resolve both printer footers and full comparative review before canonical assembly; recovery hold remains open and state is unchanged.

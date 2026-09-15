@@ -1,6 +1,6 @@
 # The Treasure of the Periya Puranam / பெரிய புராணப் புதையல் — working translation
 
-Status: INCOMPLETE; not a canonical bilingual document. All 11 Part 1 scans and the prose/numbered examples of Part 2 Images 1–10, plus all 10 Part 3 images and all 10 Part 4 images, plus the prose of all 10 Part 5 images and all 10 Part 6 images, plus Part 7 Images 1–6, are translated and compared with the reconciled Tamil. The printer footers in Part 2 Image 1 and Part 5 Image 3 remain unresolved and are explicitly marked in this draft. Next: Part 7 Image 7, `007-3d8b0ef53e.png`. Continue the open sentence about rituals prescribed to remove eclipse ill effects.
+Status: INCOMPLETE; not a canonical bilingual document. All 11 Part 1 scans and the prose/numbered examples of Part 2 Images 1–10, plus all 10 Part 3 images and all 10 Part 4 images, plus the prose of all 10 Part 5 images and all 10 Part 6 images, plus Part 7 Images 1–9, are translated and compared with the reconciled Tamil. The printer footers in Part 2 Image 1 and Part 5 Image 3 remain unresolved and are explicitly marked in this draft. All seven parts now have English prose drafts. Next: resolve the two printer footers and perform the full comparative review before canonical assembly.
 
 Source recovery: all 70 scans visually reviewed. The printer footers at Part 2 Image 1 and Part 5 Image 3 remain unresolved; keep their current Tamil unchanged and retain the recovery hold. This draft translates only reconciled passages. No translation-state refresh or pending-count reduction is authorized by this partial checkpoint.
 
@@ -966,6 +966,34 @@ Following our Purana, we portrayed the moon as one who conducted an illicit love
 
 For solar and lunar eclipses, we told the story of Rahu and Ketu: an eclipse, we said, is the event in which evil beings in serpent form seize and try to swallow the sun at some times and the moon at others; and to remove the ill effects of an eclipse,
 
+### Image 7: 007-3d8b0ef53e.png
+
+such-and-such acts of worship must be performed. In the days when we passed our time telling these tales, pinching off darbha grass and putting it into vessels during an eclipse to remove its ill effects, and giving ritual fees to the priest who sat muttering on the tank bank, scientists invented instruments called telescopes, microscopes and magnifiers. With their help, linking astronomy with mathematics, they explained why eclipses occur and disclosed many related new truths. Even the children in our homes now study the truths explained by scientists, rather than the story of the swallowing serpent. Whether one worships Ramana's sacred feet, bows at Aurobindo's feet, carries a kavadi in the month of Adi or observes a vow of silence, however orthodox one may be, one cannot rewrite even our own country's curriculum—let alone the world's—to make the Rahu–Ketu story the explanation of eclipses, declaring: “We shall accept that. We shall believe only the truth discovered and stated by our sages. Eclipses occur solely because of the Rahu–Ketu episode arising from a quarrel in the celestial world!” The world would laugh!
+
+The inability to deny new truths, the unwillingness to relinquish the benefits arising from them, and, at the same time, the lack of courage to cast off old attachments combine to make even knowledgeable people in our country strange creatures! Our government declares a holiday for an eclipse in accordance with ancient tradition. It also spends money on an astronomical research station, because it cannot dismiss the new truth.
+
+In the days when we were calculating how many padis of sesame, how much horse gram, how many areca nuts and betel leaves, and how much money were needed to remove planetary afflictions, scholars over there were calculating the number of stars. About six thousand are visible to the naked eye; about five hundred thousand can be detected through a telescope! They have not merely counted them but photographed and shown them,
+
+### Image 8: 008-64ac26f90d.png
+
+and they think that, if telescopes are made by a better method than those now available, many hundreds of thousands more stars could be seen. They are conducting research towards that end too.
+
+Our thirst for knowledge was quenched by telling stories that the earth is flat, that Adisesha who supports it has a thousand heads, and that the earth is a goddess whose ornament is patience. Scholars over there did not content themselves with the pleasure of such stories. They conducted research. To the scientist's eyes, neither the thousand-headed serpent visible to our country's eyes of wisdom nor the goddess it supported was visible. Instead, what appeared was the earth, perpetually rotating upon itself and revolving around the sun! The world—including ourselves—has accepted this as the truth. However repeatedly one describes the matted hair, saffron robes, water vessels, sacrifices and yogic practices of the ancestors who assigned those attributes to the earth, the world has not accepted that “ancient truth,” the truth declared by the eyes of wisdom! Even the fiercest orthodox believer among us would not find the courage to do so!
+
+They have determined the distance between the sun and ourselves. They have calculated and stated that the earth travels round at seventy-two thousand miles an hour. They have calculated its weight, nature, speed and course—all of them. The truths supposedly discovered by the eyes of wisdom have become mere imagination, conjecture or philosophical symbolism. In the world's forum of knowledge, it is the truths discovered and stated by scientific eyes that have been accepted. In those places, knowing these new truths is considered the mark of an educated person; communicating them to the public is considered true instruction; and seeking truths beyond these is considered the scholar's duty. Here, believing ancient tradition and acting accordingly is regarded not merely as the conduct of a wise person but as the mark of a devotee.
+
+### Image 9: 009-c4a18893bc.png
+
+We give the world these two pieces of news.
+
+1. The government is granting a holiday today for the solar eclipse. Protective arrangements have been made for bathing in the sea.
+
+2. Staff at the government's observatory in Kodaikanal are studying the comet that has newly appeared over the past few days.
+
+When the world, the forum of knowledge, considers these two reports together, surely it will begin to investigate our people's state of mind! An observatory at Kodaikanal! Bathing in the sea to remove the eclipse's ill effects, with advance arrangements by the government! Surely anyone would be moved to investigate why these people display this strange tendency! Everything that our people, these “strange-minded adepts,” enjoy today consists of benefits obtained through truths discovered by scientific eyes. Yet at the same time, what they believe and worship are superstitions built upon various conjectures supposedly perceived by the eyes of wisdom, which today remain inaccessible to the forum of knowledge! As long as we remain such strange-minded adepts, we cannot find a place in the world of knowledge.
+
+❦ ❦ ❦
+
 ## Translator's Notes — working
 
 - Title: “The Treasure of the Periya Puranam” retains the named work and the ironic suggestion of a treasure sought within it. The Tamil title is retained above.
@@ -1044,3 +1072,5 @@ For solar and lunar eclipses, we told the story of Rahu and Ketu: an eclipse, we
 - Part 7 Image 4: “eyes of wisdom” and “eyes of science” preserve the repeated contrast. Claims about worldwide belief remain the author's rhetoric. All three dividers across Images 3–4 are retained, and the final scientific-description sentence continues into Image 5.
 
 - Part 7 Images 5–6: all astronomical figures and the eight-planet list are retained as historical source claims, without modern correction. பரப்பு is rendered “extent” and கனம் “bulk”; the adjacent numerical comparisons are not silently reconciled with modern area, volume or mass values. மடிசஞ்சி is rendered “stickler for ritual purity.” The eclipse explanation continues into Image 7.
+
+- Part 7 Images 7–9: darbha is ritual grass; padi is a traditional volume measure, retained without conversion. Kavadi and Adi retain the ritual object and Tamil month. The star counts and orbital speed remain the author’s historical figures. “Strange-minded adepts” preserves the ironic சித்தர் wording in விசித்திர சித்தர்கள். The two numbered reports and final ornaments are retained; the reported holiday and comet belong to the source’s time, not the translation date.
