@@ -4,7 +4,7 @@ Canonical file: katturaigal/periyapuranaputhayal.md. Seven parts, 70 scans; no p
 
 Coverage: Part 1 Images 1–11 and Part 2 Images 1–10 and Part 3 Images 1–10 and Part 4 Images 1–10 and Part 5 Images 1–10 and Part 6 Images 1–10 and Part 7 Images 1–9 compared visually (70/70 scans; two printer-footer concerns remain open). Title/date confirmed; opening prose repaired only where scan-proven. Corrections recorded in ocr_concerns.csv. Printed historical spellings and unusual wording retained.
 
-Next: Resolve the printer-footer readings in Part 2 Image 1 and Part 5 Image 3 using a clearer witness before source release. All 70 scans have now been compared. A separate working English draft now covers all 11 Part 1 images and Part 2 Images 1–10 prose; and all Part 3 images plus all Part 4 images and Part 5 Images 1–8 prose; continue at Part 5 Image 9, with Part 2 Image 1 footer still unresolved while retaining the footer recovery hold. Do not release the source or build the canonical bilingual file until the two footers are resolved. Part 5 local scans exist despite absent link in pending report; use RMRL if any missing or unreadable evidence is encountered.
+Next: Resolve the printer-footer readings in Part 2 Image 1 and Part 5 Image 3 using a clearer witness before source release. All 70 scans have now been compared. A separate working English draft now covers all 11 Part 1 images and Part 2 Images 1–10 prose; and all Part 3 images plus all Part 4 images and all Part 5 prose; continue at Part 6 Image 1, with Part 2 Image 1 footer still unresolved while retaining the footer recovery hold. Do not release the source or build the canonical bilingual file until the two footers are resolved. Part 5 local scans exist despite absent link in pending report; use RMRL if any missing or unreadable evidence is encountered.
 
 Images 3–4: inoculation comparison, reformers’ paths, coconut-tree thief analogy and the five-eyed bogeyman discussion fully reconciled. All correction groups logged; printed unusual forms retained.
 
@@ -119,3 +119,5 @@ English checkpoint: Part 5 Images 3–4 prose translated and compared, retaining
 English checkpoint: Part 5 Images 5–6 translated and compared, retaining both dividers, all jewel values and catalogues, the governors/villagers page join and conditional forged-signature example. Next: Part 5 Image 7. Both footer markers remain unresolved; no state refresh.
 
 English checkpoint: Part 5 Images 7–8 translated and compared, retaining the recordkeeping argument, Mahalingam example, wealth catalogue and proposed social uses. Unusual printed forms documented separately. Next: Part 5 Image 9. Footer hold unchanged; no state refresh.
+
+English checkpoint: Part 5 Images 9–10 translated and compared; all Part 5 prose drafted, with its Image 3 footer still unresolved. Retained reform outlook, fatalism critique, printed ocean anomaly and all inquiry examples. Next: Part 6 Image 1. No state refresh.

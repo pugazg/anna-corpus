@@ -1,6 +1,6 @@
 # The Treasure of the Periya Puranam / பெரிய புராணப் புதையல் — working translation
 
-Status: INCOMPLETE; not a canonical bilingual document. All 11 Part 1 scans and the prose/numbered examples of Part 2 Images 1–10, plus all 10 Part 3 images and all 10 Part 4 images, plus the prose of Part 5 Images 1–8, are translated and compared with the reconciled Tamil. The printer footers in Part 2 Image 1 and Part 5 Image 3 remain unresolved and are explicitly marked in this draft. Next: Part 5 Image 9, `009-periyapurana-49.png`, beginning `இந்தப் பெரும் பொருள், விடுதலைப்பெற்று நாட்டிலே`. Continue the Self-Respecter’s imagined prospect.
+Status: INCOMPLETE; not a canonical bilingual document. All 11 Part 1 scans and the prose/numbered examples of Part 2 Images 1–10, plus all 10 Part 3 images and all 10 Part 4 images, plus the prose of all 10 Part 5 images, are translated and compared with the reconciled Tamil. The printer footers in Part 2 Image 1 and Part 5 Image 3 remain unresolved and are explicitly marked in this draft. Next: Part 6 Image 1, `001-8663e6dfba.png`, beginning `நோய்க்குக் காரணம், தடுப்பு முறைகள், போக்கும் வகைகள்,`.
 
 Source recovery: all 70 scans visually reviewed. The printer footers at Part 2 Image 1 and Part 5 Image 3 remain unresolved; keep their current Tamil unchanged and retain the recovery hold. This draft translates only reconciled passages. No translation-state refresh or pending-count reduction is authorized by this partial checkpoint.
 
@@ -705,6 +705,36 @@ Even while so many changes were taking place in the world, in our country alone 
 
 Only the Self-Respecter, subjected to condemnation and ridicule, kept imagining in his mind—
 
+### Image 9: 009-periyapurana-49.png
+
+he kept seeing a vision of this great wealth set free and transformed into factories, educational institutions, hospitals and homes caring for those without means. Even today these are only imagined scenes! For some time yet they will remain so—but not for long. The day of awakening approaches swiftly; a thousand signs are visible.
+
+A few days ago, a government official speaking on some official occasion at Tiruvannamalai asked, “Could not at least a portion of the money spent on temples be given for education?” That is all he could ask. Even that would have aroused suspicion in some. “Has the fellow caught Erode fever?” they would ask.
+
+Limited though it may be, does not this incident show that a senior official recognizes that people in this country spend a great deal on temple affairs but lack the same enthusiasm for spending on education—and that he comes forward to tell the people what he has recognized, with conviction? Does it not mean that the cock is crowing? Self-Respecters rejoice at these signs.
+
+* * * *
+
+“What can we do? What can we accomplish?”—this language of sighs is our hereditary accomplishment!
+
+Whatever happens, from a disturbance of nature to a ruler's tyranny, it is here that we have displayed our attitude.
+
+Whether a river floods, the country becomes a wilderness, or the king becomes a beast, we have not tried to bring these things under control or correct them. We do not even make room for the thought. “There is someone to see that everything proceeds properly. If disasters occur even while he is there, how can we prevent them? Is it something within our power?” Thinking in this way, our
+
+### Image 10: 010-periyapurana-50.png
+
+ancestors left many problems unattended.
+
+“Does not the deep ocean stand without a shore? . . . Is it through us that this wonder occurs? Does the Lord fail to feed the toad within the stone or the egg within the womb? Who feeds the countless creatures growing in the forest?” Many have been intent on speaking like this and acquiring a reputation not merely as intellectuals but as possessors of spiritual wisdom. Even the claims that, on certain occasions, miracles occurred—turning a male palmyra into a female one, or bones into a beautiful maiden—were presented as divine exploits, not as the results of inquiry.
+
+A man has leprosy. Even today, many of us can only think, on seeing him, “What evil deed must he have done before, to suffer like this now?” Our minds do not turn to questions such as what causes leprosy or how it can be cured. Is it only us? Even the physician is like that!
+
+“Well, my friend, I will give you the rare medicine I have. Let things happen according to your ‘fate,’ whatever it may be,” he says as he dispenses it.
+
+The reason for so much despondency, doubt and weariness is the absence of the intellectual alertness that, on seeing an event or condition, asks why it is like this and what could change it. Because of this attitude we have left thousands upon thousands of matters unattended. We have lost the habit of noticing changing times and conditions in other parts of the world. We merely joke, “Why is the crow always black? Why does a black hen lay a white egg? Why is seawater salty?” and make no attempt to obtain an explanation for anything.
+
+Others are not like this—fortunately they are not . . . If they too had remained like us, what would the state of the world have been?
+
 ## Translator's Notes — working
 
 - Title: “The Treasure of the Periya Puranam” retains the named work and the ironic suggestion of a treasure sought within it. The Tamil title is retained above.
@@ -765,3 +795,5 @@ Only the Self-Respecter, subjected to condemnation and ridicule, kept imagining 
 - Part 5 Image 6: navaratna is rendered “the nine precious gems”; கோமேதகம் as hessonite and குங்குமக் கெம்பு as vermilion-red ruby. Every item in the ornament and calamity catalogues is retained. The banking, interest and sleeping/imprisoned-wealth metaphors remain distinct. The donor's possible forgery is conditional in the source and remains so in English. No dates or independent verification are supplied for the named disasters.
 - Part 5 Image 7: Umaiyan's fort retains the printed name without assigning an unverified site or historical identity. The butter/ghee comparison is retained as the author's analogy. Pandarams here are religious mendicants; the illustrative Mahalingam is not identified as a documented historical person.
 - Part 5 Image 8: the printed சுவாபம் is rendered “disposition/habit,” அறிவுத் தெளியும் is read as clarity of understanding in context, and இதம்புரிச்சாலைகள் as institutions of relief. These contextual interpretations do not alter the unusual Tamil forms. The full catalogue of immobilized wealth and the shift from past to present in இருந்தாரா? - இருக்கிறார்!! are retained. The international reform narrative remains the author's generalized historical argument.
+- Part 5 Image 9: “Erode fever” preserves the political sneer associated with the Self-Respect movement, not a medical condition. The unnamed official and occasion remain unnamed. The printed இங்கே is retained as “here,” rather than silently changed to “this same.” The cockcrow retains the awakening metaphor.
+- Part 5 Image 10: the anomalous printed ஆழாழி கரையின்றி is rendered literally as “the deep ocean ... without a shore,” not corrected to a familiar alternative. The toad/stone and egg/womb images are retained. The comments about leprosy and physicians are the author's critique of fatalism, not a present-day clinical assertion. The three closing natural-science questions remain separate and complete.
