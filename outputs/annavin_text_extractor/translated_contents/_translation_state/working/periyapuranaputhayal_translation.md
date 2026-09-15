@@ -1,6 +1,6 @@
 # The Treasure of the Periya Puranam / பெரிய புராணப் புதையல் — working translation
 
-Status: INCOMPLETE; not a canonical bilingual document. All 11 Part 1 scans and the prose/numbered examples of Part 2 Images 1–10, plus all 10 Part 3 images and all 10 Part 4 images, plus the prose of all 10 Part 5 images and Part 6 Images 1–2, are translated and compared with the reconciled Tamil. The printer footers in Part 2 Image 1 and Part 5 Image 3 remain unresolved and are explicitly marked in this draft. Next: Part 6 Image 3, `003-3d526bc2d7.png`.
+Status: INCOMPLETE; not a canonical bilingual document. All 11 Part 1 scans and the prose/numbered examples of Part 2 Images 1–10, plus all 10 Part 3 images and all 10 Part 4 images, plus the prose of all 10 Part 5 images and Part 6 Images 1–4, are translated and compared with the reconciled Tamil. The printer footers in Part 2 Image 1 and Part 5 Image 3 remain unresolved and are explicitly marked in this draft. Next: Part 6 Image 5, `005-4a4cc317d7.png`, continuing the mosquito-trap discussion.
 
 Source recovery: all 70 scans visually reviewed. The printer footers at Part 2 Image 1 and Part 5 Image 3 remain unresolved; keep their current Tamil unchanged and retain the recovery hold. This draft translates only reconciled passages. No translation-state refresh or pending-count reduction is authorized by this partial checkpoint.
 
@@ -766,6 +766,46 @@ They circle through the sky and dive beneath the sea to discover what sights and
 
 As a result, they can create today what did not exist yesterday. Their aim—that tomorrow's life should contain more conveniences than yesterday's—is being fulfilled.
 
+### Image 3: 003-3d526bc2d7.png
+
+We, meanwhile, sing the sorrowful refrain, “There is no certainty even to think that those alive today will be alive tomorrow,” and lie idle.
+
+To say that they investigate everything from celestial bodies to mosquitoes was no mere turn of phrase. It is true.
+
+Last week an Australian scientist reported that, through research, he had discovered another new star besides those already known to investigation, and that sound energy was continually emanating from it.
+
+Where that star is and what it is like have not yet been discovered. But they have determined that it must exist in a particular region! Further research continues. In time, many new truths may emerge, and new benefits may become available.
+
+Last week another famous scientist, Piccard, devised an apparatus for investigating conditions beneath the sea and descended into it. He is sixty-three years old. Even at this age, such is his enthusiasm for research. Apparently he next intends to descend two and a half miles beneath the sea to discover everything that is there.
+
+Research into Mars, the moon and the like continues.
+
+They investigate all the conditions found on the planets.
+
+Because of this outlook, they are able to discover so many useful methods and ways of making life easier.
+
+Have only celestial bodies attracted the researchers' attention? As stated earlier, mosquitoes have too!
+
+### Image 4: 004-cb289f0deb.png
+
+Some tracts of land are fertile because there is rain, yet they have become unsuitable for human habitation.
+
+We would say, “Will you strip fibre from stone? Will you make sand into rope?”
+
+They do not speak like that. They have not left unexamined even those marshlands whose conditions are inhospitable to human life.
+
+In some marshy regions, what prevents human beings and green crops from flourishing is not even a fierce animal. It is a very, very ordinary creature—the mosquito!
+
+Unable to remove this affliction, people struggled and were forced to abandon those tracts of land.
+
+In the American region called Cuba, there is such marshland. The mosquito nuisance became unbearable, and disease began to spread! It became clear that life could not be comfortable unless the mosquitoes were destroyed. They began investigating how to do it.
+
+A researcher called Martin C. Kahn has worked in this field and succeeded. He has invented a remarkable “net” for catching and killing mosquitoes and given it to the American government. Consider how much ingenuity has gone into constructing this “net.”
+
+A box six feet high and three feet wide, with electrically operated screens inside: this box sings—a mosquito song, and a love song at that!
+
+He has used electricity to record the sound of a female mosquito and make gramophone records. Through these records, the female mosquito's song is heard inside the box. As soon as this “music” begins—a love song, after all—the mosquitoes are apparently entranced. They come in swarms to the place where the song is heard, enter the box, and are caught and killed in the screens installed there!
+
 ## Translator's Notes — working
 
 - Title: “The Treasure of the Periya Puranam” retains the named work and the ironic suggestion of a treasure sought within it. The Tamil title is retained above.
@@ -830,3 +870,5 @@ As a result, they can create today what did not exist yesterday. Their aim—tha
 - Part 5 Image 10: the anomalous printed ஆழாழி கரையின்றி is rendered literally as “the deep ocean ... without a shore,” not corrected to a familiar alternative. The toad/stone and egg/womb images are retained. The comments about leprosy and physicians are the author's critique of fatalism, not a present-day clinical assertion. The three closing natural-science questions remain separate and complete.
 - Part 6 Image 1: Kodumpavi is the named rain-seeking effigy ritual; Gopala, Varuna and Pachai Amman retain the named devotional references. Pongal is the cooked-rice offering; inam is a grant. The lyric's printed வான மழை is retained as “rain of the sky,” not silently changed to “rain cloud.” The artificial-rain and hereditary-grant statements remain the author's claims, without independently verified dates or modern scientific qualification added to the body.
 - Part 6 Image 2: appu, prithuvi, teyu, vayu and akasam retain the source's traditional five-element terms, corresponding to water, earth, fire, air and space. The universal claims about inquiry and superstition remain the author's rhetoric. The transition from celestial bodies to mosquitoes and the sky/sea pairing are retained in full.
+- Part 6 Image 3: ஒலி சக்தி is retained literally as “sound energy,” not silently changed to radio waves or light. Piccard's printed age of sixty-three, the proposed two-and-a-half-mile descent and both “last week” references remain the author's historical claims; no unprinted date or independent identification is supplied.
+- Part 6 Image 4: மார்டின் - சி - கான் is rendered “Martin C. Kahn”; the name and invention account are not independently verified here. The six-by-three-foot dimensions, female-mosquito recording and electrically operated screens are retained as described, without adding modern technical explanations. The stone-fibre/sand-rope comparisons remain two distinct images.
