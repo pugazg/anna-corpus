@@ -1,6 +1,6 @@
 # The Treasure of the Periya Puranam / பெரிய புராணப் புதையல் — working translation
 
-Status: INCOMPLETE; not a canonical bilingual document. All 11 Part 1 scans and the prose/numbered examples of Part 2 Images 1–10, plus all 10 Part 3 images and all 10 Part 4 images, plus the prose of all 10 Part 5 images, are translated and compared with the reconciled Tamil. The printer footers in Part 2 Image 1 and Part 5 Image 3 remain unresolved and are explicitly marked in this draft. Next: Part 6 Image 1, `001-8663e6dfba.png`, beginning `நோய்க்குக் காரணம், தடுப்பு முறைகள், போக்கும் வகைகள்,`.
+Status: INCOMPLETE; not a canonical bilingual document. All 11 Part 1 scans and the prose/numbered examples of Part 2 Images 1–10, plus all 10 Part 3 images and all 10 Part 4 images, plus the prose of all 10 Part 5 images and Part 6 Images 1–2, are translated and compared with the reconciled Tamil. The printer footers in Part 2 Image 1 and Part 5 Image 3 remain unresolved and are explicitly marked in this draft. Next: Part 6 Image 3, `003-3d526bc2d7.png`.
 
 Source recovery: all 70 scans visually reviewed. The printer footers at Part 2 Image 1 and Part 5 Image 3 remain unresolved; keep their current Tamil unchanged and retain the recovery hold. This draft translates only reconciled passages. No translation-state refresh or pending-count reduction is authorized by this partial checkpoint.
 
@@ -735,6 +735,37 @@ The reason for so much despondency, doubt and weariness is the absence of the in
 
 Others are not like this—fortunately they are not . . . If they too had remained like us, what would the state of the world have been?
 
+## Part 6: periyapuranaputhayal_6.md
+
+### Image 1: 001-8663e6dfba.png
+
+They devoted—and continue to devote—attention to investigating the causes of disease, methods of prevention and cure, and ways to stop it spreading.
+
+If rain does not fall, our minds turn only to making and dragging a Kodumpavi effigy or holding devotional singing for Gopala. This is mere gullibility. When the schemer's mind begins to work upon it too, they start prayers to Varuna to bring rain. This is the direction our people's thinking takes. Does it proceed like that of Western scientists, asking, “Though rain is a natural occurrence, can we not produce it by some artificial means?” Their thought has turned to that field as well; they have now discovered a scientific method of producing rain and continue further research in the field.
+
+Here?
+
+“Like the rain of the sky
+is the colour of his body.”
+
+We pass our time singing this. A few years ago, when rain failed in a northern town, its clever people threw stones at the sun, demanding rain. If crops do not grow as expected, our people's thoughts do not turn to whether the fault lies in the seed or the method of cultivation, whether insects or worms are eating the crop, or whether the soil has lost its fertility. Their thoughts turn instead to something meaningless—offering pongal to Pachai Amman or smearing turmeric on a peepal tree. Many later kings of Tamil Nadu, afraid of what would happen if rain failed to fall in season, appointed Brahmins at court expense to perform prayers to Varuna to bring rain. Grants and inams were given to them specifically for performing these prayers. In Thanjavur district, inams granted for that purpose remain with their descendants even today.
+
+### Image 2: 002-df7309d7ca.png
+
+In early times, people in many countries thought that any disturbance in nature—failure of rain, excessive rain or something similar—was caused by God's anger. They believed terrifying thunder to be the Lord's angry laughter, and lightning that could damage one's sight to be the sweep of the spear in his hand. They therefore believed that, if they performed some worship and appeased God's anger, he would be pleased and make nature behave properly. They acted accordingly. But clarity of understanding arose in those places; people left behind imaginings and fabricated stories, attended to explanations of causes, and acquired an inquiring cast of mind.
+
+Only here does that old belief remain intact today. The reason is that cunning people here profit from preserving it exactly as it was.
+
+We have been content to begin, “Concerning the five elements—appu, prithuvi, teyu, vayu and akasam—” and sing devotional songs. Others began investigating them and accomplished many remarkable things; they continue doing so today.
+
+They have never panicked before even the greatest disturbance of nature and allowed their minds to become numb. They have never failed to investigate and make use of even the smallest occurrence.
+
+They investigate celestial bodies; they also conduct research into mosquitoes.
+
+They circle through the sky and dive beneath the sea to discover what sights and ideas are to be found in each place.
+
+As a result, they can create today what did not exist yesterday. Their aim—that tomorrow's life should contain more conveniences than yesterday's—is being fulfilled.
+
 ## Translator's Notes — working
 
 - Title: “The Treasure of the Periya Puranam” retains the named work and the ironic suggestion of a treasure sought within it. The Tamil title is retained above.
@@ -797,3 +828,5 @@ Others are not like this—fortunately they are not . . . If they too had remain
 - Part 5 Image 8: the printed சுவாபம் is rendered “disposition/habit,” அறிவுத் தெளியும் is read as clarity of understanding in context, and இதம்புரிச்சாலைகள் as institutions of relief. These contextual interpretations do not alter the unusual Tamil forms. The full catalogue of immobilized wealth and the shift from past to present in இருந்தாரா? - இருக்கிறார்!! are retained. The international reform narrative remains the author's generalized historical argument.
 - Part 5 Image 9: “Erode fever” preserves the political sneer associated with the Self-Respect movement, not a medical condition. The unnamed official and occasion remain unnamed. The printed இங்கே is retained as “here,” rather than silently changed to “this same.” The cockcrow retains the awakening metaphor.
 - Part 5 Image 10: the anomalous printed ஆழாழி கரையின்றி is rendered literally as “the deep ocean ... without a shore,” not corrected to a familiar alternative. The toad/stone and egg/womb images are retained. The comments about leprosy and physicians are the author's critique of fatalism, not a present-day clinical assertion. The three closing natural-science questions remain separate and complete.
+- Part 6 Image 1: Kodumpavi is the named rain-seeking effigy ritual; Gopala, Varuna and Pachai Amman retain the named devotional references. Pongal is the cooked-rice offering; inam is a grant. The lyric's printed வான மழை is retained as “rain of the sky,” not silently changed to “rain cloud.” The artificial-rain and hereditary-grant statements remain the author's claims, without independently verified dates or modern scientific qualification added to the body.
+- Part 6 Image 2: appu, prithuvi, teyu, vayu and akasam retain the source's traditional five-element terms, corresponding to water, earth, fire, air and space. The universal claims about inquiry and superstition remain the author's rhetoric. The transition from celestial bodies to mosquitoes and the sky/sea pairing are retained in full.
