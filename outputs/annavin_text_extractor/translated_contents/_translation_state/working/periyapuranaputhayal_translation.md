@@ -1,6 +1,6 @@
 # The Treasure of the Periya Puranam / பெரிய புராணப் புதையல் — working translation
 
-Status: INCOMPLETE; not a canonical bilingual document. All 11 Part 1 scans and the prose/numbered examples of Part 2 Images 1–10, plus all 10 Part 3 images and all 10 Part 4 images, plus the prose of all 10 Part 5 images and all 10 Part 6 images, plus Part 7 Images 1–9, are translated and compared with the reconciled Tamil. The printer footers in Part 2 Image 1 and Part 5 Image 3 remain unresolved and are explicitly marked in this draft. All seven parts now have English prose drafts. Full comparative review checked all 11 Part 1 images and all Part 2 prose and all 10 Part 3 images and Part 4 Images 1–4; next review: Part 4 Image 5. Resolve both printer footers and finish comparative review before canonical assembly.
+Status: INCOMPLETE; not a canonical bilingual document. All 11 Part 1 scans and the prose/numbered examples of Part 2 Images 1–10, plus all 10 Part 3 images and all 10 Part 4 images, plus the prose of all 10 Part 5 images and all 10 Part 6 images, plus Part 7 Images 1–9, are translated and compared with the reconciled Tamil. The printer footers in Part 2 Image 1 and Part 5 Image 3 remain unresolved and are explicitly marked in this draft. All seven parts now have English prose drafts. Full comparative review checked all 11 Part 1 images and all Part 2 prose and all 10 Part 3 images and Part 4 Images 1–8; next review: Part 4 Image 9. Resolve both printer footers and finish comparative review before canonical assembly.
 
 Source recovery: all 70 scans visually reviewed. The printer footers at Part 2 Image 1 and Part 5 Image 3 remain unresolved; keep their current Tamil unchanged and retain the recovery hold. This draft translates only reconciled passages. No translation-state refresh or pending-count reduction is authorized by this partial checkpoint.
 
@@ -515,7 +515,7 @@ In the South, many monasteries have been established and endowed with supposed �
 
 People's Views of Monastery Heads
 
-People in the South and Tamils living overseas cannot have forgotten the scene in the film Chandrakantha in which one monastery head says to another, “Revered Swami, shall we graciously proceed to practise yoga?” When that film was shown, this was the talk of every town, every street and every home! The cry “Revered Swami!” laughter, ridicule, condemnation—all of these followed.
+People in the South and Tamils living overseas cannot have forgotten the scene in the film Chandrakantha in which one monastery head says to another, “Revered Swami, would you graciously come to practise yoga?” When that film was shown, this was the talk of every town, every street and every home! The cry “Revered Swami!” laughter, ridicule, condemnation—all of these followed.
 
 The “tremendous” reception given to that film made quite clear how people regarded the heads of monasteries established to find ways and means and work for Saivism to flourish and Tamil to grow and live.
 
