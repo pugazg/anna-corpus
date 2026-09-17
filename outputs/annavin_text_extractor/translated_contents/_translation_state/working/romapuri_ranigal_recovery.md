@@ -8,7 +8,7 @@ Canonical source: `katturaigal/romapuri_ranigal.md` (eight parts, 82 scans).
 
 Part 1 Images 1–2 visually compared in full. Restored scan punctuation and joined the OCR-split opening word; corrections are recorded in ocr_concerns.csv. Retained the printed anomalous தேய்ந்துரோன and அவனது in the widowhood sentence. These need separate translation notes, not silent modernization. Retained the author's four-wife claim and all geographical and personal names as printed.
 
-Next: Part 6 Image 7, beginning ஆனால், மாலையிலே. Remaining 26 scans plus Part 3 Image 3 printer footer and suspected missing passages between Part 4 Images 4–5 and Part 4 Image 9 / Part 5 Image 1 require sequential reconciliation before complete translation. The pre-existing recovery hold remains open. No canonical bilingual file or state refresh. Tests not rerun for this source-only checkpoint.
+Next: Part 6 Image 9, beginning வாழ்வதிலே ருசி இருக்கமுடியுமா? Remaining 24 scans plus Part 3 Image 3 printer footer and suspected missing passages between Part 4 Images 4–5 and Part 4 Image 9 / Part 5 Image 1 require sequential reconciliation before complete translation. The pre-existing recovery hold remains open. No canonical bilingual file or state refresh. Tests not rerun for this source-only checkpoint.
 
 Periyapuranaputhayal recovery remains a separate unfinished obligation: both tiny footer abbreviations need stronger evidence; number 470 was already restored. Publisher-number/title searches in this continuation yielded no same-edition scan witness.
 
@@ -67,3 +67,5 @@ Part 6 Image 2 checkpoint: full visual comparison of court influence and instruc
 Part 6 Images 3–4 checkpoint: complete visual comparison of Vitellius accession and Galeria narrative; bounded corrections logged, printed anomalies preserved. Coverage 54/82 inspected, two footers and four gap concerns unresolved. Next Part 6 Image 5. Prior delivery restriction resolved: checkpoint 7961b53 pushed successfully. No state refresh or tests.
 
 Part 6 Images 5–6 checkpoint: complete visual comparison of Vitellius conclusion and Sabinus/Eponia account. Bounded errors and divider restored; printed anomalies retained. Coverage 56/82 inspected. FIFTH GAP: Image 5 ends unfinished speech இடறுற்று இறப்பதைவிட; Image 6 resumes ஆனால் சாபீனஸ் இறக்கவில்லை without intervening account. Two footer readings and all five transitions require recovery. Next Part 6 Image 7. No state refresh or tests.
+
+Part 6 Images 7–8 checkpoint: full visual comparison of Eponia appeal, Vespasian account and Judea section opening. Eleven bounded corrections and divider restoration; printed anomalies retained. Coverage 58/82 inspected, five gaps and two footers unresolved. Next Part 6 Image 9. No state refresh or tests.
