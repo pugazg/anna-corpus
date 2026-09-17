@@ -8,7 +8,7 @@ Canonical source: `katturaigal/romapuri_ranigal.md` (eight parts, 82 scans).
 
 Part 1 Images 1–2 visually compared in full. Restored scan punctuation and joined the OCR-split opening word; corrections are recorded in ocr_concerns.csv. Retained the printed anomalous தேய்ந்துரோன and அவனது in the widowhood sentence. These need separate translation notes, not silent modernization. Retained the author's four-wife claim and all geographical and personal names as printed.
 
-Next: Part 3 Image 11, beginning என்றான் நர்த்தன நாயகன். Remaining 52 scans plus Part 3 Image 3 printer footer require sequential reconciliation before complete translation. The pre-existing recovery hold remains open. No canonical bilingual file or state refresh. Tests not rerun for this source-only checkpoint.
+Next: Part 4 Image 2, beginning எம் மனதுக்கு மருந்தே. Remaining 50 scans plus Part 3 Image 3 printer footer require sequential reconciliation before complete translation. The pre-existing recovery hold remains open. No canonical bilingual file or state refresh. Tests not rerun for this source-only checkpoint.
 
 Periyapuranaputhayal recovery remains a separate unfinished obligation: both tiny footer abbreviations need stronger evidence; number 470 was already restored. Publisher-number/title searches in this continuation yielded no same-edition scan witness.
 
@@ -39,3 +39,5 @@ Part 3 Images 5–6 checkpoint: complete visual comparison of Caligula conclusio
 Part 3 Images 7–8 checkpoint: full visual comparison of coercion narrative, Claudius accession, banquet figures and court catalogues. Restored bounded OCR errors; retained printed anomalies தராவிட்டாள், அலுவலிலிருந்த, question marks and unclosed quotation after வீசு. Coverage 28/82 inspected (27 fully reconciled plus Image 3 prose). Next Part 3 Image 9. Footer hold remains open; no state refresh or tests.
 
 Part 3 Images 9–10 checkpoint: full visual comparison of Vinicius narrative, palace description and dancer dialogue. Restored bounded letters and punctuation; retained printed சனாகீதம், இலக்கிய மனமும், சோபிப்பாளாம், பொல்லோம் and என்றால் plus anomalous quotation boundaries for separate translation notes. Coverage 30/82 inspected (29 fully reconciled plus Image 3 prose). Next Part 3 Image 11. Footer hold remains open; no state refresh or tests.
+
+Part 3 Image 11 and Part 4 Image 1 checkpoint: full visual comparison of Messalina marriage/death narrative, three-flower divider and Agrippina opening dialogue. Restored only scan-proven OCR errors; preserved printed name variants and quotation anomalies. Cross-part கை / நடுங்கிற்று checked. Coverage 32/82 inspected (31 fully reconciled plus Part 3 Image 3 prose). Next Part 4 Image 2. Footer hold remains open; no state refresh or tests.
