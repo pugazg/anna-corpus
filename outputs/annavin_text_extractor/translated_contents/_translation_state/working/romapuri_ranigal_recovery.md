@@ -8,7 +8,7 @@ Canonical source: `katturaigal/romapuri_ranigal.md` (eight parts, 82 scans).
 
 Part 1 Images 1–2 visually compared in full. Restored scan punctuation and joined the OCR-split opening word; corrections are recorded in ocr_concerns.csv. Retained the printed anomalous தேய்ந்துரோன and அவனது in the widowhood sentence. These need separate translation notes, not silent modernization. Retained the author's four-wife claim and all geographical and personal names as printed.
 
-Next: Part 2 Image 8, continuing வேண்டினோர். Remaining 64 scans require sequential reconciliation before complete translation. The pre-existing recovery hold remains open. No canonical bilingual file or state refresh. Tests not rerun for this source-only checkpoint.
+Next: Part 3 Image 1, காமவெறியன் காலிகூலா. Remaining 62 scans require sequential reconciliation before complete translation. The pre-existing recovery hold remains open. No canonical bilingual file or state refresh. Tests not rerun for this source-only checkpoint.
 
 Periyapuranaputhayal recovery remains a separate unfinished obligation: both tiny footer abbreviations need stronger evidence; number 470 was already restored. Publisher-number/title searches in this continuation yielded no same-edition scan witness.
 
@@ -27,3 +27,5 @@ Part 2 Images 2–3 checkpoint: full visual comparison completed for Livia’s c
 Part 2 Images 4–5 checkpoint (2026-09-17): full visual comparison completed for Augustus death, divider and ஜாலக்காரி ஜூலியா opening, labour analogy, pearl-diver continuation and Julia introduction. Restored scan-proven letters, punctuation and three-flower ornament. Printed காயப்படுத்திற்று, குளித்தும், அவன்மீது and இவனுக்குப் பிறகு retained for separate translation notes. Recovery coverage 16/82 scans; next Part 2 Image 6. No canonical release, state refresh or tests.
 
 Part 2 Images 6–7 checkpoint: full visual comparison completed for Julia’s upbringing, court catalogue, two-line song, marriage festivities and Marcellus death. Restored bounded name/letter/punctuation errors; retained printed தோற்கடித்து, யாருக்கும் கடாட்சிக்கும் and காரணுமல்ல for separate translator notes. Age 24 and cross-page joins checked. Recovery coverage 18/82 scans; next Part 2 Image 8, continuing வேண்டினோர். No source release, state refresh or tests.
+
+Part 2 Images 8–9 checkpoint: complete visual comparison of Julia remarriages, exile and death; Part 2 now fully reconciled. Restored bounded OCR and divider; retained printed அவனை. வயோதிகத்தை and பாண்டர்டோரியா for separate notes. Incoming split word and closing ornament checked. Recovery coverage 20/82 scans. Next Part 3 Image 1, காமவெறியன் காலிகூலா. No canonical completion, state refresh or tests.
