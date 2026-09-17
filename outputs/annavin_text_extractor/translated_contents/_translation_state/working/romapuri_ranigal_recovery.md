@@ -8,7 +8,7 @@ Canonical source: `katturaigal/romapuri_ranigal.md` (eight parts, 82 scans).
 
 Part 1 Images 1–2 visually compared in full. Restored scan punctuation and joined the OCR-split opening word; corrections are recorded in ocr_concerns.csv. Retained the printed anomalous தேய்ந்துரோன and அவனது in the widowhood sentence. These need separate translation notes, not silent modernization. Retained the author's four-wife claim and all geographical and personal names as printed.
 
-Next: Part 5 Image 3. Remaining 40 scans plus Part 3 Image 3 printer footer and suspected missing passages between Part 4 Images 4–5 and Part 4 Image 9 / Part 5 Image 1 require sequential reconciliation before complete translation. The pre-existing recovery hold remains open. No canonical bilingual file or state refresh. Tests not rerun for this source-only checkpoint.
+Next: Part 5 Image 5, beginning சேடியர் மூலம் விரகதாபத்தைப் பற்றிக் கூறியனுப்பிய. Remaining 38 scans plus Part 3 Image 3 printer footer and suspected missing passages between Part 4 Images 4–5 and Part 4 Image 9 / Part 5 Image 1 require sequential reconciliation before complete translation. The pre-existing recovery hold remains open. No canonical bilingual file or state refresh. Tests not rerun for this source-only checkpoint.
 
 Periyapuranaputhayal recovery remains a separate unfinished obligation: both tiny footer abbreviations need stronger evidence; number 470 was already restored. Publisher-number/title searches in this continuation yielded no same-edition scan witness.
 
@@ -51,3 +51,5 @@ Part 4 Images 6–7 checkpoint: full visual comparison of Poppaea heading, proce
 Part 4 Images 8–9 checkpoint: full visual comparison of Poppaea courtship, Crispinus and Otho narrative. Restored six bounded OCR errors; retained printed சூரையாடிச், சாலக்கான and quotation/punctuation anomalies for notes. Coverage 40/82 inspected (39 scan texts reconciled plus Part 3 Image 3 prose). Next Part 5 Image 1; verify apparent discontinuity after Part 4 ending இந்த. Existing gap/footer holds remain; no state refresh or tests.
 
 Part 5 Images 1–2 checkpoint: full visual comparison of Otho marriage and Nero encounter/dialogue. Four bounded OCR corrections; printed anomalies retained. Coverage 42/82 inspected (41 scan texts reconciled plus Part 3 Image 3 prose). Second suspected gap confirmed as a broken scan transition: Part 4 Image 9 ends இந்த; Part 5 Image 1 resumes speech தானும் தற்கொலை செய்துகொள்வான். Recover missing witness before release. Next Part 5 Image 3. No state refresh or tests.
+
+Part 5 Images 3–4 checkpoint: full visual comparison of exile, Poppaea accession/death and following section opening. Five bounded OCR corrections including divider and missing opening ஆ; printed anomalies preserved. Coverage 44/82 inspected (43 scan texts reconciled plus Part 3 Image 3 prose). Next Part 5 Image 5. Both gap concerns and printer footer remain unresolved; no state refresh or tests.
