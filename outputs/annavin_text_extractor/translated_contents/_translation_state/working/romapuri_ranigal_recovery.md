@@ -8,7 +8,7 @@ Canonical source: `katturaigal/romapuri_ranigal.md` (eight parts, 82 scans).
 
 Part 1 Images 1–2 visually compared in full. Restored scan punctuation and joined the OCR-split opening word; corrections are recorded in ocr_concerns.csv. Retained the printed anomalous தேய்ந்துரோன and அவனது in the widowhood sentence. These need separate translation notes, not silent modernization. Retained the author's four-wife claim and all geographical and personal names as printed.
 
-Next: Part 2 Image 4, continuing இரகசியமாகச் சந்தித்த / செய்தி. Remaining 68 scans require sequential reconciliation before complete translation. The pre-existing recovery hold remains open. No canonical bilingual file or state refresh. Tests not rerun for this source-only checkpoint.
+Next: Part 2 Image 6, continuing மங்கைப் பருவத்திலேயே / இந்த மரகதவல்லியின். Remaining 66 scans require sequential reconciliation before complete translation. The pre-existing recovery hold remains open. No canonical bilingual file or state refresh. Tests not rerun for this source-only checkpoint.
 
 Periyapuranaputhayal recovery remains a separate unfinished obligation: both tiny footer abbreviations need stronger evidence; number 470 was already restored. Publisher-number/title searches in this continuation yielded no same-edition scan witness.
 
@@ -23,3 +23,5 @@ Part 1 Images 9–10 checkpoint: visually compared Fulvia narrative, Octavia mar
 Part 1 Image 11 and Part 2 Image 1 checkpoint: full visual comparison completed; Part 1 now reconciled in full. Checked palace vignette, categories of wives and Livia’s political authority. Restored bounded OCR and quotation errors. Printed சீசரின் வீட்டுச், the counterintuitive வேறு எங்கு ... முடியும்! and unmatched quote before பங்கு remain; document interpretation separately during translation. Recovery coverage 12/82 scans. Next Part 2 Image 2, continuing அவன் / குணமறிந்து. No completion-state refresh or tests.
 
 Part 2 Images 2–3 checkpoint: full visual comparison completed for Livia’s court strategy, sons, succession deaths, Agrippa exile and secret visit. Restored bounded OCR errors including printed அந்திய நாட்களில். Retained source anomalies லிபியாவுக்குத், அவளிடம் and சந்தேகித்தான், and name variant டைபீரிசை; flag separately in translation notes. Cross-scan sentence verified. Recovery coverage 14/82 scans; next Part 2 Image 4. No source release, state refresh or tests.
+
+Part 2 Images 4–5 checkpoint (2026-09-17): full visual comparison completed for Augustus death, divider and ஜாலக்காரி ஜூலியா opening, labour analogy, pearl-diver continuation and Julia introduction. Restored scan-proven letters, punctuation and three-flower ornament. Printed காயப்படுத்திற்று, குளித்தும், அவன்மீது and இவனுக்குப் பிறகு retained for separate translation notes. Recovery coverage 16/82 scans; next Part 2 Image 6. No canonical release, state refresh or tests.
