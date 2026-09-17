@@ -8,7 +8,7 @@ Canonical source: `katturaigal/romapuri_ranigal.md` (eight parts, 82 scans).
 
 Part 1 Images 1–2 visually compared in full. Restored scan punctuation and joined the OCR-split opening word; corrections are recorded in ocr_concerns.csv. Retained the printed anomalous தேய்ந்துரோன and அவனது in the widowhood sentence. These need separate translation notes, not silent modernization. Retained the author's four-wife claim and all geographical and personal names as printed.
 
-Next: Part 6 Image 3, beginning உள்ளமுடையோன். Remaining 30 scans plus Part 3 Image 3 printer footer and suspected missing passages between Part 4 Images 4–5 and Part 4 Image 9 / Part 5 Image 1 require sequential reconciliation before complete translation. The pre-existing recovery hold remains open. No canonical bilingual file or state refresh. Tests not rerun for this source-only checkpoint.
+Next: Part 6 Image 5, beginning னான். ஆணவம் அழிந்து. Remaining 28 scans plus Part 3 Image 3 printer footer and suspected missing passages between Part 4 Images 4–5 and Part 4 Image 9 / Part 5 Image 1 require sequential reconciliation before complete translation. The pre-existing recovery hold remains open. No canonical bilingual file or state refresh. Tests not rerun for this source-only checkpoint.
 
 Periyapuranaputhayal recovery remains a separate unfinished obligation: both tiny footer abbreviations need stronger evidence; number 470 was already restored. Publisher-number/title searches in this continuation yielded no same-edition scan witness.
 
@@ -63,3 +63,5 @@ Part 5 Images 9–10 checkpoint: full comparison of Lepida/Galba account and dow
 Part 6 Image 1 inspected at native resolution: prose compared and five bounded corrections recorded. Coverage 51/82 inspected, including two scans with unresolved tiny footers (Part 3 Image 3 and Part 6 Image 1). Fourth broken transition verified at Part 5/6 boundary. Next: Part 6 Image 2; 31 uninspected scans remain. Commit/push of Part 5 final scans was rejected by automatic approval review due to its usage limit; all subsequent changes remain local, latest pushed commit a7c6fb6. Do not bypass rejection; retry authorized checkpoint only when approval service is available. No state refresh or tests.
 
 Part 6 Image 2 checkpoint: full visual comparison of court influence and instructor dialogue; five bounded OCR corrections logged. Coverage 52/82 inspected, two printer footers unresolved and four broken transitions awaiting recovery. Next Part 6 Image 3. No source release, state refresh or tests.
+
+Part 6 Images 3–4 checkpoint: complete visual comparison of Vitellius accession and Galeria narrative; bounded corrections logged, printed anomalies preserved. Coverage 54/82 inspected, two footers and four gap concerns unresolved. Next Part 6 Image 5. Prior delivery restriction resolved: checkpoint 7961b53 pushed successfully. No state refresh or tests.
