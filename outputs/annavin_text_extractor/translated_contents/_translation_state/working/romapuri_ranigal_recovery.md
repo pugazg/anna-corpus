@@ -8,7 +8,7 @@ Canonical source: `katturaigal/romapuri_ranigal.md` (eight parts, 82 scans).
 
 Part 1 Images 1–2 visually compared in full. Restored scan punctuation and joined the OCR-split opening word; corrections are recorded in ocr_concerns.csv. Retained the printed anomalous தேய்ந்துரோன and அவனது in the widowhood sentence. These need separate translation notes, not silent modernization. Retained the author's four-wife claim and all geographical and personal names as printed.
 
-Next: Part 3 Image 3, continuing மன்னனின் / கட்டளைப்படி. Remaining 60 scans require sequential reconciliation before complete translation. The pre-existing recovery hold remains open. No canonical bilingual file or state refresh. Tests not rerun for this source-only checkpoint.
+Next: Part 3 Image 5, continuing கொலை செய்யச். Remaining 58 scans plus Part 3 Image 3 printer footer require sequential reconciliation before complete translation. The pre-existing recovery hold remains open. No canonical bilingual file or state refresh. Tests not rerun for this source-only checkpoint.
 
 Periyapuranaputhayal recovery remains a separate unfinished obligation: both tiny footer abbreviations need stronger evidence; number 470 was already restored. Publisher-number/title searches in this continuation yielded no same-edition scan witness.
 
@@ -31,3 +31,5 @@ Part 2 Images 6–7 checkpoint: full visual comparison completed for Julia’s u
 Part 2 Images 8–9 checkpoint: complete visual comparison of Julia remarriages, exile and death; Part 2 now fully reconciled. Restored bounded OCR and divider; retained printed அவனை. வயோதிகத்தை and பாண்டர்டோரியா for separate notes. Incoming split word and closing ornament checked. Recovery coverage 20/82 scans. Next Part 3 Image 1, காமவெறியன் காலிகூலா. No canonical completion, state refresh or tests.
 
 Part 3 Images 1–2 checkpoint: visually compared complete opening Caligula section, murder dialogue, succession, misconduct account and Piso/Orestilla wedding opening. Restored bounded letters and quotation/punctuation errors. Printed கூறிய வாள், சுடலைவாசியானால் and வெளியிடப்பட்டிருப்பினும் retained for separate interpretation notes. Historical claims preserved. Recovery coverage 22/82 scans; next Part 3 Image 3. No source release, state refresh or tests.
+
+Part 3 Images 3–4 prose checkpoint: compared both entire scans at full resolution; restored bounded letters and punctuation in marriage narratives. Preserved printed name variants. A tiny printer footer on Image 3 remains unresolved; its OCR is unchanged and logged separately. Coverage: 24/82 scans inspected, 23 fully reconciled plus Image 3 prose only. Next Part 3 Image 5. Footer resembles the held Periyapuranaputhayal abbreviations, a lead for later comparison only. No hold release, state refresh or tests.
