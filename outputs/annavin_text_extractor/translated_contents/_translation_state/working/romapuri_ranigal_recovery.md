@@ -8,7 +8,7 @@ Canonical source: `katturaigal/romapuri_ranigal.md` (eight parts, 82 scans).
 
 Part 1 Images 1–2 visually compared in full. Restored scan punctuation and joined the OCR-split opening word; corrections are recorded in ocr_concerns.csv. Retained the printed anomalous தேய்ந்துரோன and அவனது in the widowhood sentence. These need separate translation notes, not silent modernization. Retained the author's four-wife claim and all geographical and personal names as printed.
 
-Next: Part 7 Image 10 (010-d4160a4f82.png), beginning சம்பவத்தை நடிக்கும் போதும். Remaining 14 scans, two unresolved printer footers (Part 3 Image 3 and Part 6 Image 1), and five recorded broken transitions require recovery before complete translation. The recovery hold remains open. No canonical bilingual file or state refresh. Tests not rerun for this source-only checkpoint.
+Next: Part 8 Image 1 (001-be2afcfac9.png), beginning யாருக்கும் உரிமை இல்லை. Remaining 12 scans, two unresolved printer footers (Part 3 Image 3 and Part 6 Image 1), and five recorded broken transitions require recovery before complete translation. The recovery hold remains open. No canonical bilingual file or state refresh. Tests not rerun for this source-only checkpoint.
 
 Periyapuranaputhayal recovery remains a separate unfinished obligation: both tiny footer abbreviations need stronger evidence; number 470 was already restored. Publisher-number/title searches in this continuation yielded no same-edition scan witness.
 
@@ -79,3 +79,7 @@ Part 7 Images 4–5 checkpoint: complete visual comparison of Domitian/Domitia c
 Part 7 Images 6–7 checkpoint: both scans visually compared in full, covering dialogue and Nerva/Trajan/Hadrian/Antoninus narrative. Bounded letters, names and punctuation restored; printed historical claims and unusual forms retained separately. Incoming sentence and இறுமாப்புடன் / கிடந்தான் join checked. Coverage 66/82 inspected, five earlier gaps and two footer readings unresolved. Next Part 7 Image 8. No source release, state refresh or tests.
 
 Part 7 Images 8–9 checkpoint: full visual comparison of Faustina account, சூறையாடினாள் heading, stage dialogue and Marcus Aurelius narration. Six bounded corrections including floral divider restored; printed anomalies retained separately. Dialogue question/answer page join and இந்த / சம்பவத்தை continuation checked. Coverage 68/82 inspected; five earlier gaps and two footer readings remain unresolved. Next Part 7 Image 10. No source release, state refresh or tests.
+
+Part 7 Images 10–11 checkpoint: full visual comparison of younger Faustina/Marcus Aurelius narrative and embedded lyric. Bounded OCR corrections logged; unusual printed wording and punctuation retained separately. Part 7 inspection complete. Incoming இந்த / சம்பவத்தை and outgoing தடைசெய்ய / யாருக்கும் joins checked. Coverage 70/82 inspected; five earlier gaps and two footer readings remain open. Next Part 8 Image 1. No source release, state refresh or tests.
+
+Additional open reading: Part 7 Image 10, நாற்றமெடுத்துக்போன, needs a clearer witness for its consonant sequence; original OCR retained.
