@@ -8,7 +8,7 @@ Canonical source: `katturaigal/romapuri_ranigal.md` (eight parts, 82 scans).
 
 Part 1 Images 1–2 visually compared in full. Restored scan punctuation and joined the OCR-split opening word; corrections are recorded in ocr_concerns.csv. Retained the printed anomalous தேய்ந்துரோன and அவனது in the widowhood sentence. These need separate translation notes, not silent modernization. Retained the author's four-wife claim and all geographical and personal names as printed.
 
-Next: Part 8 Image 3 (003-73b9ed476e.png), heading போகப் பூனை. Remaining 10 scans, two unresolved printer footers (Part 3 Image 3 and Part 6 Image 1), and five recorded broken transitions require recovery before complete translation. The recovery hold remains open. No canonical bilingual file or state refresh. Tests not rerun for this source-only checkpoint.
+Next: Part 8 Image 5 (005-32fbc62621.png), beginning கிளம்பிக் கொண்டிருந்தது. Remaining 8 scans, two unresolved printer footers (Part 3 Image 3 and Part 6 Image 1), and five recorded broken transitions require recovery before complete translation. The recovery hold remains open. No canonical bilingual file or state refresh. Tests not rerun for this source-only checkpoint.
 
 Periyapuranaputhayal recovery remains a separate unfinished obligation: both tiny footer abbreviations need stronger evidence; number 470 was already restored. Publisher-number/title searches in this continuation yielded no same-edition scan witness.
 
@@ -85,3 +85,5 @@ Part 7 Images 10–11 checkpoint: full visual comparison of younger Faustina/Mar
 Additional open reading: Part 7 Image 10, நாற்றமெடுத்துக்போன, needs a clearer witness for its consonant sequence; original OCR retained.
 
 Part 8 Images 1–2 checkpoint: full visual comparison of Marcus Aurelius philosophy/war narrative and Faustina conclusion. Bounded OCR errors and closing floral divider restored; printed anomalies retained separately. Cross-part quotation and இழுத்திடும் / இயல்பினர் join checked. Coverage 72/82 inspected; five earlier gaps, two footer readings and Part 7 Image 10 word remain open. Next Part 8 Image 3. No source release, state refresh or tests.
+
+Part 8 Images 3–4 checkpoint: full visual comparison of போகப் பூனை opening, Lucilla/maid dialogue and Verus campaign narrative. Twelve bounded corrections logged; unusual printed wording, punctuation and historical assertions retained separately. திருமணம் செய்துகொள்ளப் / போகிறார் and வேதனைக் குரல் / கிளம்பிக் joins checked. Coverage 74/82 inspected; five earlier gaps, two footers and Part 7 Image 10 word remain unresolved. Next Part 8 Image 5. No source release, state refresh or tests.
