@@ -8,7 +8,7 @@ Canonical source: `katturaigal/romapuri_ranigal.md` (eight parts, 82 scans).
 
 Part 1 Images 1–2 visually compared in full. Restored scan punctuation and joined the OCR-split opening word; corrections are recorded in ocr_concerns.csv. Retained the printed anomalous தேய்ந்துரோன and அவனது in the widowhood sentence. These need separate translation notes, not silent modernization. Retained the author's four-wife claim and all geographical and personal names as printed.
 
-Next: Part 8 Image 9 (009-1585864354.png), beginning விஷயத்தை விளக்குவோம். Remaining 4 scans, two unresolved printer footers (Part 3 Image 3 and Part 6 Image 1), and five recorded broken transitions require recovery before complete translation. The recovery hold remains open. No canonical bilingual file or state refresh. Tests not rerun for this source-only checkpoint.
+Next: Part 8 Image 11 (011-736b248461.png), beginning ஆனந்த அபின். Remaining 2 scans, two unresolved printer footers (Part 3 Image 3 and Part 6 Image 1), and five recorded broken transitions require recovery before complete translation. The recovery hold remains open. No canonical bilingual file or state refresh. Tests not rerun for this source-only checkpoint.
 
 Periyapuranaputhayal recovery remains a separate unfinished obligation: both tiny footer abbreviations need stronger evidence; number 470 was already restored. Publisher-number/title searches in this continuation yielded no same-edition scan witness.
 
@@ -91,3 +91,5 @@ Part 8 Images 3–4 checkpoint: full visual comparison of போகப் பூ
 Part 8 Images 5–6 checkpoint: full visual comparison of Verus campaign/revelry, Lucilla marriage and return to Rome. Fifteen bounded corrections logged; printed anomalies retained separately. Incoming குரல் / கிளம்பிக், தான் / பெறவே and கண்டுபிடிக்க / உல்லாச joins checked. Coverage 76/82 inspected; five earlier gaps, two footers and Part 7 Image 10 word remain open. Next Part 8 Image 7. No source release, state refresh or tests.
 
 Part 8 Images 7–8 checkpoint: full visual comparison of Lucilla remarriage, conspiracy/exile and Pertinax accession dialogue. Eight bounded corrections logged; printed historical claims and name variants retained separately. Page joins checked; transition to Pertinax occurs within Image 8, not at a missing scan boundary. Coverage 78/82 inspected; five earlier gaps, two footers and Part 7 Image 10 word remain unresolved. Next Part 8 Image 9. No source release, state refresh or tests.
+
+Part 8 Images 9–10 checkpoint: full visual comparison of Commodus death, Pertinax/Didiana and auction of Rome narrative. Twelve bounded corrections logged; printed anomalies retained separately. என்ற / கவலையும் and விளையாடலாயிற்று / ஆனந்த joins checked. Coverage 80/82 inspected; five earlier gaps, two footers and Part 7 Image 10 word remain open. Next Part 8 Image 11. No source release, state refresh or tests.
