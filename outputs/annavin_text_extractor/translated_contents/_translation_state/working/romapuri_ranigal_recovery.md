@@ -8,7 +8,7 @@ Canonical source: `katturaigal/romapuri_ranigal.md` (eight parts, 82 scans).
 
 Part 1 Images 1–2 visually compared in full. Restored scan punctuation and joined the OCR-split opening word; corrections are recorded in ocr_concerns.csv. Retained the printed anomalous தேய்ந்துரோன and அவனது in the widowhood sentence. These need separate translation notes, not silent modernization. Retained the author's four-wife claim and all geographical and personal names as printed.
 
-Next: Part 7 Image 2 (002-3eb22c9056.png), beginning ஈடாகுமோ என்றே கூறுவான். Remaining 22 scans, two unresolved printer footers (Part 3 Image 3 and Part 6 Image 1), and five recorded broken transitions require recovery before complete translation. The recovery hold remains open. No canonical bilingual file or state refresh. Tests not rerun for this source-only checkpoint.
+Next: Part 7 Image 4 (004-01b47fb077.png), beginning தையலும் அதற்கேதும் தடை சொல்லவில்லை. Remaining 20 scans, two unresolved printer footers (Part 3 Image 3 and Part 6 Image 1), and five recorded broken transitions require recovery before complete translation. The recovery hold remains open. No canonical bilingual file or state refresh. Tests not rerun for this source-only checkpoint.
 
 Periyapuranaputhayal recovery remains a separate unfinished obligation: both tiny footer abbreviations need stronger evidence; number 470 was already restored. Publisher-number/title searches in this continuation yielded no same-edition scan witness.
 
@@ -71,3 +71,5 @@ Part 6 Images 5–6 checkpoint: complete visual comparison of Vitellius conclusi
 Part 6 Images 7–8 checkpoint: full visual comparison of Eponia appeal, Vespasian account and Judea section opening. Eleven bounded corrections and divider restoration; printed anomalies retained. Coverage 58/82 inspected, five gaps and two footers unresolved. Next Part 6 Image 9. No state refresh or tests.
 
 Part 6 Image 9 and Part 7 Image 1 checkpoint: both scans visually compared in full, completing inspection of Part 6. Restored ten bounded letter/punctuation errors in the Titus–Berenice dialogue; preserved printed anomalies and quotation boundaries separately in the concern log. Cross-part dialogue continues without a new gap; the final simile continues into Part 7 Image 2. Coverage 60/82 inspected; two footer readings and five earlier broken transitions remain open. Next Part 7 Image 2. No source release, state refresh or tests.
+
+Part 7 Images 2–3 checkpoint: full visual comparison of Titus/Berenice conclusion and Domitian/Domitia/Julia narrative. Seventeen bounded OCR corrections logged; printed anomalies and historical assertions retained for separate translation notes. Incoming simile and outgoing அந்தத் / தையலும் sentence joins checked. Coverage 62/82 inspected; five earlier gaps and two footer readings remain unresolved. Next Part 7 Image 4. No source release, state refresh or tests.
