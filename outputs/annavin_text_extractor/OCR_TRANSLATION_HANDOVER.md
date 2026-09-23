@@ -60,7 +60,7 @@ this handover after work resumes.
 
 ## Next Work
 
-Latest serial mapping: **12 April 1942**, printed pages **5 → 8**, contains ஜாலக்காரி ஜூலியா, corresponding to archive Part 2 Images 4–9. Both native scans inspected and saved. Next inspect **19 April 1942** through RMRL's catalogue. Five gaps, two footers and uncertain word remain unresolved; no canonical changes, refresh or tests. Category correction raised by user remains pending clarification of revised category totals. Previous pushed checkpoint `d17abad`.
+Latest serial mapping: **19 April 1942**, printed pages **3 → 10 (left column only)**, contains காமவெறியன் காலிகூலா, mapping archive Part 3 Images 1–5. Both native scans inspected and saved. Next inspect **26 April 1942** via RMRL catalogue. Five gaps, two footers and uncertain word remain unresolved; no canonical changes, refresh or tests. Category correction raised by user remains pending clarification of revised category totals. Previous pushed checkpoint `1a71054`.
 
 
 Latest 2026-09-23 evidence: matching Romapuri serial located in RMRL **15 March 1942, printed pages 9–11**, headed ரோமாபுரி ராணிகளின் லீலா விநோதம்!, covering Julius Caesar's wives. Three native scan images saved in `working/romapuri_ranigal_evidence/`; no canonical Tamil edits yet. Next screen **22 March 1942** and map installments toward the five gap locations. See recovery ledger for exact URLs and edition-variant caution. All holds and 886/962 count unchanged; no state refresh/tests. Previous pushed checkpoint `b8ec9fc`.
