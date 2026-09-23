@@ -60,6 +60,9 @@ this handover after work resumes.
 
 ## Next Work
 
+Latest serial mapping: 22 March 1942 screened without an identifiable match; installment 2 located **29 March 1942**, லிவியாவின் லீலைகள், with verified reading order **printed pages 5 → 8 → 7**. Three native images saved and inspected. Next inspect **5 April 1942**; follow continuation markers rather than numerical page order. Five gaps, two footers and uncertain word remain unresolved; no canonical changes, refresh or tests. Previous pushed checkpoint `848affa`.
+
+
 Latest 2026-09-23 evidence: matching Romapuri serial located in RMRL **15 March 1942, printed pages 9–11**, headed ரோமாபுரி ராணிகளின் லீலா விநோதம்!, covering Julius Caesar's wives. Three native scan images saved in `working/romapuri_ranigal_evidence/`; no canonical Tamil edits yet. Next screen **22 March 1942** and map installments toward the five gap locations. See recovery ledger for exact URLs and edition-variant caution. All holds and 886/962 count unchanged; no state refresh/tests. Previous pushed checkpoint `b8ec9fc`.
 
 
