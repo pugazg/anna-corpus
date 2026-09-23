@@ -60,6 +60,9 @@ this handover after work resumes.
 
 ## Next Work
 
+Latest 2026-09-23 evidence: matching Romapuri serial located in RMRL **15 March 1942, printed pages 9–11**, headed ரோமாபுரி ராணிகளின் லீலா விநோதம்!, covering Julius Caesar's wives. Three native scan images saved in `working/romapuri_ranigal_evidence/`; no canonical Tamil edits yet. Next screen **22 March 1942** and map installments toward the five gap locations. See recovery ledger for exact URLs and edition-variant caution. All holds and 886/962 count unchanged; no state refresh/tests. Previous pushed checkpoint `b8ec9fc`.
+
+
 2026-09-23 complete-witness search checkpoint: remote main confirmed at `a04a942` before work. RMRL books search `ரோமாபுரி` returned no rendered entries. The 1942 திராவிடநாடு group lists 13 March–May issues; 8 March 1942 (13 viewer pages) was visually screened without an identifiable match, not fully transcribed. Continue with 15 March 1942 via the collection issue list. See the dated search ledger in `working/romapuri_ranigal_recovery.md` for URLs and the May 3 catalogue-date anomaly. All recovery holds unchanged; 886/962 verified, 76 pending. No state refresh or tests for this search-only checkpoint.
 
 
