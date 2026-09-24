@@ -23,3 +23,14 @@ Archive anchors: Part 4 Image 4 ends `பாராளும்`; Part 4 Image 5 
 The enlarged scan establishes the subject and sequence above, replacing the unrelated earlier draft. Some small letter sequences still need a second visual check, especially `சகிலேலீலிக்குத்`, `ஆசைக்குருப்பாகம்`, `குடியுலாயினர்`, `துதிபாடுவோர்க்கு` and physician name `ஜெனோபன்`. These are provisional readings, not approved source corrections. Recheck the quotation punctuation and the sentence ending `தந்துவிட்டது` against the scan as well; preserve any printed anomaly rather than silently rewriting it.
 
 Compare archive Part 4 Images 4 and 5 themselves to establish insertion boundaries and record serial/collected-edition differences. Do not duplicate the anchors. No gap closure, translation, state refresh or completion-count change yet.
+
+## Collected-edition boundary verification — 2026-09-24
+
+Visually re-opened the two original archive scans at native source resolution:
+
+- `ocr_images/katturaigal/romapuri_ranigal_4/004-e306cf66c3.png`: the final paragraph is the Claudius marriage/court appointments paragraph. Its last printed line ends `மண்டபத்தில் இத்தகையவர்களே நிறையலாயினர்; பாராளும்`. There is no additional text below it.
+- `ocr_images/katturaigal/romapuri_ranigal_4/005-6eb996f151.png`: its first printed words are `அழகியுடன் குலவினான்.` followed by the refusal to share authority with his mother. The page proceeds through the shipwreck and Agrippina's death.
+
+The newspaper overlaps establish insertion after the retained `பாராளும்` and before the retained `அழகியுடன் குலவினான்.` The newspaper has an opening quotation before `பாராளும்`, whereas the collected scan does not show that quotation. Preserve the retained collected-edition text and record this punctuation variant separately; do not silently add the missing opening quote to Image 4. The newspaper’s closing quotation occurs inside the recovered span; explain the unmatched quotation in a separate note during assembly.
+
+The serial uses `அக்ரிப்பானு` where these collected-edition pages use `அக்ரிப்பானா`; retain the witness's own spelling within any explicitly labelled recovered section rather than harmonizing it. These overlap checks confirm the missing span's location, not the provisional letter sequences inside it. Those remain unresolved.

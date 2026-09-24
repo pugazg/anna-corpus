@@ -169,3 +169,7 @@ Created `romapuri_ranigal_gap_1_transcription.md` with a bounded first-pass tran
 ### Gap 1 enlarged review — replacement draft, 2026-09-24
 
 Enlarged the lower-left and upper-right portions of the saved 10 May page 8 solely for inspection. This exposed a substantive error: the earlier draft in 1585962 did not match the printed passage. It has been withdrawn and replaced in `romapuri_ranigal_gap_1_transcription.md`. Canonical Tamil was never changed. The replacement now covers the full boundary-to-boundary span: Senate membership, Agrippina's court, Claudius's poisoning and Nero's accession/Acte. Several small letter sequences are explicitly provisional and require another visual check; collected-edition boundary scans must also be compared before insertion. No gap closure, state refresh, translation or tests.
+
+### Gap 1 collected-edition boundaries verified — 2026-09-24
+
+Reopened both archive originals, Part 4 Images 4 and 5, and visually confirmed the precise insertion boundaries against the newspaper. Recorded the absent opening quotation in the collected edition and the அக்ரிப்பானு / அக்ரிப்பானா spelling variation in the working transcription. Do not silently harmonize these. The transcription's provisional internal readings remain unresolved, so no canonical insertion or gap closure. Both inspected originals are local under `ocr_images/katturaigal/romapuri_ranigal_4/` (004-e306cf66c3.png and 005-6eb996f151.png). No state refresh or tests. Previous pushed checkpoint `54be6e5`.
