@@ -155,3 +155,9 @@ Next inspect **26 April 1942** via catalogue for the next section, approaching a
 ### May 3 issue screening — 2026-09-24
 
 Screened all 13 viewer pages of https://rmrl.in/en/dl/periodicals/periodical/issue?id=116305_19420503_001_009 . Printed masthead and page dates confirm **3 May 1942**, despite catalogue label 1987. No identifiable Romapuri serial heading or matching section found at screening scale; this is not full transcription or categorical proof of absence. Viewer page 13 is blank. Next inspect **10 May 1942** through the catalogue. Five missing transitions, two footers and uncertain word remain unresolved. No canonical source changes, translation, state refresh, count changes or tests. Previous pushed checkpoint `8028b26`.
+
+### May 10 — first gap witness located, 2026-09-24
+
+10 May 1942 installment **அக்ரிப்பானாவின் அக்கிரமம்**, printed pages **5 → 8**, visually inspected and saved as `romapuri_ranigal_evidence/rmrl_19420510_page_05.png` and `_08.png`. Printed dates confirm 10-5-42. Page 5 directs to 8; page 8 explicitly continues from 5. Source viewer: https://d2pqb2rl3mcws3.cloudfront.net/Periodicals/116305_19420510_001_010/index.html ; native image URLs use its `files/page/5.png` and `8.png`.
+
+**First gap witness located:** page 8 contains both archive Part 4 Image 4's ending “பாராளும்” (left column) and Image 5's beginning “அழகியுடன் குலவினான்” (right column), with intervening prose present. Next transcribe this bounded passage directly from the saved native scan, compare its surrounding text to the collected edition, and record any differences before inserting a recovered source section. Do not mark the gap resolved until transcription and comparison are complete. Page 8 also ends with Agrippina's shipwreck escape, so later installments are still needed. No canonical changes, translation, hold release, state refresh, count changes or tests. Previous pushed checkpoint `7549665`.

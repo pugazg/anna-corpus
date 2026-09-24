@@ -60,7 +60,7 @@ this handover after work resumes.
 
 ## Next Work
 
-Latest serial search: Screened all 13 viewer pages of https://rmrl.in/en/dl/periodicals/periodical/issue?id=116305_19420503_001_009 . Printed masthead and page dates confirm **3 May 1942**, despite catalogue label 1987. No identifiable Romapuri serial heading or matching section found at screening scale; this is not full transcription or categorical proof of absence. Viewer page 13 is blank. Next inspect **10 May 1942** through the catalogue. Five missing transitions, two footers and uncertain word remain unresolved. No canonical source changes, translation, state refresh, count changes or tests. Previous pushed checkpoint `8028b26`.
+Latest recovery: **10 May 1942, printed page 8 bridges the first gap (Part 4 Image 4 → Image 5)**. Native pages 5 and 8 saved; next transcribe and compare the bounded missing passage before changing canonical source. Read the latest recovery-ledger entry. Five gaps remain formally unresolved until reconciliation; both footers and uncertain word remain held. No state refresh or tests. Previous pushed checkpoint `7549665`.
 
 
 Latest 2026-09-23 evidence: matching Romapuri serial located in RMRL **15 March 1942, printed pages 9–11**, headed ரோமாபுரி ராணிகளின் லீலா விநோதம்!, covering Julius Caesar's wives. Three native scan images saved in `working/romapuri_ranigal_evidence/`; no canonical Tamil edits yet. Next screen **22 March 1942** and map installments toward the five gap locations. See recovery ledger for exact URLs and edition-variant caution. All holds and 886/962 count unchanged; no state refresh/tests. Previous pushed checkpoint `b8ec9fc`.
