@@ -60,7 +60,7 @@ this handover after work resumes.
 
 ## Next Work
 
-Latest recovery: the first gap's full boundary-to-boundary **working transcription** is in `working/romapuri_ranigal_gap_1_transcription.md`, based on enlarged 10 May 1942 page 8 inspection. This replaces the erroneous earlier draft from 1585962; canonical source was never changed. Next resolve the explicitly provisional letter sequences and compare archive Part 4 Images 4–5 before insertion. All five gaps remain formally open, as do both footers and the uncertain word. No state refresh or tests.
+Latest recovery: **17 May 1942, printed pages 4 → 9**, Poppaea installment saved. Page 9 contains a candidate witness for gap 2 (Part 4 Image 9 → Part 5 Image 1); exact transcription remains. Next inspect page 10 to follow this installment, then collate gap 2. Gap 1's draft still has three provisional readings. No canonical changes or state refresh. Previous pushed checkpoint `455fcf5`.
 
 
 Latest 2026-09-23 evidence: matching Romapuri serial located in RMRL **15 March 1942, printed pages 9–11**, headed ரோமாபுரி ராணிகளின் லீலா விநோதம்!, covering Julius Caesar's wives. Three native scan images saved in `working/romapuri_ranigal_evidence/`; no canonical Tamil edits yet. Next screen **22 March 1942** and map installments toward the five gap locations. See recovery ledger for exact URLs and edition-variant caution. All holds and 886/962 count unchanged; no state refresh/tests. Previous pushed checkpoint `b8ec9fc`.

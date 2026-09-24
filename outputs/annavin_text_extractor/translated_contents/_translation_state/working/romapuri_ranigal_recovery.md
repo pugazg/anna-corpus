@@ -177,3 +177,9 @@ Reopened both archive originals, Part 4 Images 4 and 5, and visually confirmed t
 ### Gap 1 letter review — 2026-09-24
 
 A tighter inspection crop resolves the draft's `ஆசைக்குருப்பாகம்` as `ஆசைக்குப்பங்கம்`. Rechecked and retained newspaper `ஜெனோபன்` and `தந்துவிட்டது`; the latter is a printed anomaly, not licence to rewrite grammar. Three left-column readings remain provisional, listed in the working transcription. Further enlargement adds no source detail; next continue independent recovery in the 17 May 1942 issue, while keeping gap 1 held for stronger evidence. No canonical changes, state refresh or tests.
+
+### May 17 — Poppaea witness, 2026-09-24
+
+Located **அழகியும் 500 கழுதைகளும்!** in the 17 May 1942 issue, printed pages **4 → 9**. Page 4's marker directs to 9; page 9 explicitly continues from 4. Both native scans visually inspected and saved as `romapuri_ranigal_evidence/rmrl_19420517_page_04.png` and `_09.png`. Source issue https://rmrl.in/en/dl/periodicals/periodical/issue?id=116305_19420517_001_011 ; native URLs share `https://d2pqb2rl3mcws3.cloudfront.net/Periodicals/116305_19420517_001_011/files/page/` with filenames `4.png` and `9.png`.
+
+**Gap 2 candidate witness:** page 9 contains the Otho/Poppaea dialogue crossing archive Part 4 Image 9 → Part 5 Image 1, including the retained `தானும் தற்கொலை` continuation in its right column. Exact bounded transcription and comparison have not yet been done. Page 9 itself ends in Nero's dialogue about Acte; the installment continues beyond these two saved scans. Next inspect printed page 10 and follow continuation markers, then transcribe gap 2 from page 9 at enlarged scale. Gap 1 still has three provisional readings. No canonical changes, gap closure, English translation, state refresh or tests. Previous pushed checkpoint `455fcf5`.
