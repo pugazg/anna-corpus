@@ -165,3 +165,7 @@ Screened all 13 viewer pages of https://rmrl.in/en/dl/periodicals/periodical/iss
 ### Gap 1 transcription started — 2026-09-24
 
 Created `romapuri_ranigal_gap_1_transcription.md` with a bounded first-pass transcription of the missing passage opening from the 10 May page 8 witness. The following quoted speech contains a still-uncertain short span; it and the remaining right-column continuation are deliberately left untranscribed. Next recheck the opening, finish the bounded transcription directly from the scan, then compare both edition overlaps. No canonical insertion or gap closure yet. No state refresh or tests. Previous pushed checkpoint `1bfdaad`.
+
+### Gap 1 enlarged review — replacement draft, 2026-09-24
+
+Enlarged the lower-left and upper-right portions of the saved 10 May page 8 solely for inspection. This exposed a substantive error: the earlier draft in 1585962 did not match the printed passage. It has been withdrawn and replaced in `romapuri_ranigal_gap_1_transcription.md`. Canonical Tamil was never changed. The replacement now covers the full boundary-to-boundary span: Senate membership, Agrippina's court, Claudius's poisoning and Nero's accession/Acte. Several small letter sequences are explicitly provisional and require another visual check; collected-edition boundary scans must also be compared before insertion. No gap closure, state refresh, translation or tests.
