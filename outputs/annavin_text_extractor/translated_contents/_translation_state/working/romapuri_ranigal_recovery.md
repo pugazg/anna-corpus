@@ -173,3 +173,7 @@ Enlarged the lower-left and upper-right portions of the saved 10 May page 8 sole
 ### Gap 1 collected-edition boundaries verified — 2026-09-24
 
 Reopened both archive originals, Part 4 Images 4 and 5, and visually confirmed the precise insertion boundaries against the newspaper. Recorded the absent opening quotation in the collected edition and the அக்ரிப்பானு / அக்ரிப்பானா spelling variation in the working transcription. Do not silently harmonize these. The transcription's provisional internal readings remain unresolved, so no canonical insertion or gap closure. Both inspected originals are local under `ocr_images/katturaigal/romapuri_ranigal_4/` (004-e306cf66c3.png and 005-6eb996f151.png). No state refresh or tests. Previous pushed checkpoint `54be6e5`.
+
+### Gap 1 letter review — 2026-09-24
+
+A tighter inspection crop resolves the draft's `ஆசைக்குருப்பாகம்` as `ஆசைக்குப்பங்கம்`. Rechecked and retained newspaper `ஜெனோபன்` and `தந்துவிட்டது`; the latter is a printed anomaly, not licence to rewrite grammar. Three left-column readings remain provisional, listed in the working transcription. Further enlargement adds no source detail; next continue independent recovery in the 17 May 1942 issue, while keeping gap 1 held for stronger evidence. No canonical changes, state refresh or tests.
