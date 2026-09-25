@@ -213,3 +213,11 @@ Next transcribe gap 3 directly from the saved scan and compare archive Part 5 Im
 ### Gap 3 boundary collation and working draft — 2026-09-25
 
 Reopened archive Part 5 Images 5–6 and confirmed both broken boundaries against enlarged portions of 24 May page 5. Created `romapuri_ranigal_gap_3_transcription.md`, a boundary-to-boundary first-pass witness draft with two explicitly untranscribed spans and a separate register of provisional readings. The collected edition’s `குலாவிக்கொண்டு...நிழலை` differs from the serial; preserve this distinction during assembly. Entire draft still requires a second visual pass. No canonical source insertion, gap closure, English translation, completion refresh or tests. Next recheck the draft and inspect the 31 May issue for gaps 4–5. Previous pushed checkpoint `671d0a7`.
+
+### Enlarged readings and Part 7 word — 2026-09-25
+
+Rechecked the saved May 24 page 5 witness in enlarged column crops: resolved gap 3’s U1 as `குறும்புத்தனமான` and corrected the draft’s `சகவாசம்` to `சரசம்`. U2 and other provisional phrases remain, including the political comparison clause newly flagged for renewed scrutiny. Gap 3 remains open.
+
+Reopened archive Part 7 Image 10 (`ocr_images/katturaigal/romapuri_ranigal_7/010-d4160a4f82.png`) and inspected its word-level crop at 3× display size (original coordinates x=510–1050, y=590–680). The scan visibly supports the already-retained `நாற்றமெடுத்துக்போன`, including the anomalous `க்` before `போன`. This is a printed anomaly to retain, not a spelling to normalize. The reading uncertainty for this word is resolved; its unusual spelling must be explained separately in final translator notes. No Tamil edit was necessary.
+
+All five missing transitions and both printer footers remain open; no English translation, hold release, completion refresh or pending-count change. Periyapuranaputhayal is untouched. Next inspect the 31 May serial for gaps 4–5 and return to the remaining provisional drafts with stronger evidence as needed. Previous pushed checkpoint `8e1bc18`.
