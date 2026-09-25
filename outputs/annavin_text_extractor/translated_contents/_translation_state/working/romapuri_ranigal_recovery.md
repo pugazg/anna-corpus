@@ -199,3 +199,13 @@ Rechecked the right column in a larger inspection crop and corrected five first-
 Applied the user’s correction: canonical `nadagangal/romapuri_ranigal.md`, with corrected Tamil moved byte-for-byte and organized source link moved. Original archive URLs, raw OCR and scan folders retain their historical katturaigal paths as provenance. Recovery drafts and holds remain; Periyapuranaputhayal is unchanged. Category targets are now 551 katturaigal / 62 nadagangal / 108 sirukathaigal / 241 sorpozhivugal. Completed total remains 886/962, pending 76 (4 / 27 / 0 / 45). Category reports updated for this classification correction only; no completion refresh or recovery release.
 
 Validation: corrected Tamil SHA-256 unchanged (`17a2420900a5d69efa230f6d3e3ee3fa5ee18611648097b25fe4ebd0eb3b5659`); bilingual audit reports zero issues; all 16 tests pass, including preservation of original multipart website links after category migration.
+
+### May 24 — third gap witness located, 2026-09-25
+
+Opened the 24 May entry through RMRL’s 1942 catalogue. Direct viewer: https://d2pqb2rl3mcws3.cloudfront.net/Periodicals/116305_19420524_001_012/index.html . Printed masthead and page dates confirm 24-5-42. The installment **ஐந்து நாயகர் அவளுக்கு** reads **printed pages 5 → 8, left column only on page 8**. Page 5 explicitly directs to 8; page 8 explicitly continues from 5 and ends above a short horizontal rule. Its right column contains unrelated news; exclude that material.
+
+Saved and visually inspected both native scans as `romapuri_ranigal_evidence/rmrl_19420524_page_05.png` and `_08.png`. Exact native URLs use the viewer’s `files/page/5.png` and `8.png`. The installment maps from archive Part 5 Image 4 through Image 7, concluding the Messalina/Nero account before the next subsection. It does not yet reach gaps 4–5.
+
+**Gap 3 witness located:** page 5’s right column contains `இடியும் மின்னலும்` near its top and `குலவிக்கொண்டு வந்த குளிர் நிழலிலே` near its bottom, with intervening storm/political analogy and Messalina narrative. The archive resumes `குலாவிக்கொண்டு வந்த குளிர் நிழலை`; these visible wording differences need collation, not silent harmonization. Enlarged column portions were inspected to establish these boundaries only; no full transcription or canonical insertion has been made.
+
+Next transcribe gap 3 directly from the saved scan and compare archive Part 5 Images 5–6, then inspect the 31 May catalogue issue for gaps 4–5. Gaps 1–2 drafts retain their provisional readings. Both printer footers, Part 7 Image 10 word and all recovery holds remain unresolved. No English translation, completion refresh, pending-count reduction or tests for this evidence-only checkpoint. Previous pushed checkpoint `e11f171`.

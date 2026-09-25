@@ -60,7 +60,7 @@ this handover after work resumes.
 
 ## Next Work
 
-Latest recovery: May 17 serial mapped through pages 4 → 9 → 10. Gap 2 draft rechecked in `6ac735a`; three phrases remain provisional. Next verify collected-edition boundaries and inspect 24 May for gaps 3–5. Gap 1 also remains provisional. Canonical category corrected to nadagangal at the user’s direction; source recovery remains incomplete.
+Latest recovery: **24 May 1942, printed pages 5 → 8 (left column)** mapped through archive Part 5 Image 7. Page 5 contains gap 3’s two boundary passages; native evidence saved, transcription and edition collation pending. Next transcribe gap 3 and inspect 31 May for gaps 4–5. Gaps 1–2 drafts retain provisional readings. Canonical category is nadagangal; recovery remains incomplete. Previous pushed checkpoint `e11f171`.
 
 
 Latest 2026-09-23 evidence: matching Romapuri serial located in RMRL **15 March 1942, printed pages 9–11**, headed ரோமாபுரி ராணிகளின் லீலா விநோதம்!, covering Julius Caesar's wives. Three native scan images saved in `working/romapuri_ranigal_evidence/`; no canonical Tamil edits yet. Next screen **22 March 1942** and map installments toward the five gap locations. See recovery ledger for exact URLs and edition-variant caution. All holds and 886/962 count unchanged; no state refresh/tests. Previous pushed checkpoint `b8ec9fc`.
