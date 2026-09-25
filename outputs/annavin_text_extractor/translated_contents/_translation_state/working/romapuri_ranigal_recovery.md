@@ -189,3 +189,7 @@ Located **அழகியும் 500 கழுதைகளும்!** in the 
 Saved and visually inspected printed page 10 (`romapuri_ranigal_evidence/rmrl_19420517_page_10.png`), from https://d2pqb2rl3mcws3.cloudfront.net/Periodicals/116305_19420517_001_011/files/page/10.png . Its opening dialogue continues page 9; the serial ends with Poppaea's death above unrelated notices in the right column. Thus this installment reads **4 → 9 → 10** and reaches archive Part 5 Image 4, before ஐந்து நாயகர் அவளுக்கு. It does not reach gap 3.
 
 Created `romapuri_ranigal_gap_2_transcription.md` from enlarged page 9 column views. It covers both anchors but is a first-pass draft with explicit uncertain readings, requiring a complete second visual review and comparison to archive originals before insertion. No canonical changes or gap closure. Next review that draft and inspect **24 May 1942** for the next section and gaps 3–5. No state refresh or tests. Previous pushed checkpoint `1864551`.
+
+### Gap 2 second visual pass — 2026-09-25
+
+Rechecked the right column in a larger inspection crop and corrected five first-draft misreadings, recorded in `romapuri_ranigal_gap_2_transcription.md`. Three phrase-level readings still need review, including a previously unflagged sentence after the reference to a brave man. The draft explicitly marks them as provisional. No canonical insertion, gap closure, state refresh or tests. Next finish these readings, verify the two archive boundaries, and continue the 24 May search for later gaps. Previous pushed checkpoint `d20a66a`.
