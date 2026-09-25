@@ -1,6 +1,6 @@
 # ரோமாபுரி ராணிகள் — source recovery checkpoint
 
-Canonical source: `katturaigal/romapuri_ranigal.md` (eight parts, 82 scans).
+Canonical source: `nadagangal/romapuri_ranigal.md` (eight parts, 82 scans).
 
 2026-09-16: Began sequential visual reconciliation while Periyapuranaputhayal remains held for its two printer-footer abbreviations. No completion counts changed.
 
@@ -132,7 +132,7 @@ Native scans of printed pages **5 → 8** of https://rmrl.in/en/dl/periodicals/p
 
 The installment continues the palace/garden description in archive Part 1 Image 11 and finishes the Livia section with Augustus's death, corresponding through archive Part 2 Image 4. This is a verified structural mapping, not a verbatim collation or permission to replace collected-edition readings. No five-gap passage is reached yet. Next inspect **12 April 1942**, using the catalogue issue link, toward Julia, Caligula and Agrippina. The five broken transitions, two printer footers and Part 7 Image 10 reading remain unresolved. English translation has not begun. No source changes, hold release, state refresh or tests; 886/962 complete remains unchanged.
 
-The user has identified Romapuri Ranigal as nadagangal. Existing canonical inventory and paths still say katturaigal. The requested clarification about changing the original category targets (552/61 to 551/62) is pending; preserve the work and evidence while continuing independent recovery.
+The user identified Romapuri Ranigal as nadagangal. Category correction implemented on 2026-09-25; see the latest entry below.
 
 ### April 12 Julia installment — 2026-09-23
 
@@ -193,3 +193,9 @@ Created `romapuri_ranigal_gap_2_transcription.md` from enlarged page 9 column vi
 ### Gap 2 second visual pass — 2026-09-25
 
 Rechecked the right column in a larger inspection crop and corrected five first-draft misreadings, recorded in `romapuri_ranigal_gap_2_transcription.md`. Three phrase-level readings still need review, including a previously unflagged sentence after the reference to a brave man. The draft explicitly marks them as provisional. No canonical insertion, gap closure, state refresh or tests. Next finish these readings, verify the two archive boundaries, and continue the 24 May search for later gaps. Previous pushed checkpoint `d20a66a`.
+
+### Canonical category correction — 2026-09-25
+
+Applied the user’s correction: canonical `nadagangal/romapuri_ranigal.md`, with corrected Tamil moved byte-for-byte and organized source link moved. Original archive URLs, raw OCR and scan folders retain their historical katturaigal paths as provenance. Recovery drafts and holds remain; Periyapuranaputhayal is unchanged. Category targets are now 551 katturaigal / 62 nadagangal / 108 sirukathaigal / 241 sorpozhivugal. Completed total remains 886/962, pending 76 (4 / 27 / 0 / 45). Category reports updated for this classification correction only; no completion refresh or recovery release.
+
+Validation: corrected Tamil SHA-256 unchanged (`17a2420900a5d69efa230f6d3e3ee3fa5ee18611648097b25fe4ebd0eb3b5659`); bilingual audit reports zero issues; all 16 tests pass, including preservation of original multipart website links after category migration.

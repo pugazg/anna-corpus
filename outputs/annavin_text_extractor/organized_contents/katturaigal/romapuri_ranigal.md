@@ -1,1 +1,0 @@
-../../ocr_text_corrected/katturaigal/romapuri_ranigal.md

@@ -13,6 +13,17 @@ SPEC.loader.exec_module(MODULE)
 
 
 class BlankOcrMarkerTests(unittest.TestCase):
+    def test_reclassified_work_retains_original_multipart_urls(self):
+        pages = {
+            "katturaigal/romapuri_ranigal_1": ["https://example.org/part1"],
+            "katturaigal/romapuri_ranigal_2": ["https://example.org/part2"],
+            "katturaigal/other": ["https://example.org/other"],
+        }
+        self.assertEqual(
+            MODULE.urls_for("nadagangal/romapuri_ranigal.md", pages),
+            ["https://example.org/part1", "https://example.org/part2"],
+        )
+
     def test_no_ocr_text_detected_marker_requires_recovery(self):
         with tempfile.TemporaryDirectory() as directory:
             source = Path(directory) / "source.md"

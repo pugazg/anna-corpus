@@ -1,6 +1,6 @@
 # கட்டுரைகள் / Articles
 
-Total source works: 1388
+Total source works: 1387
 
 - [15 கோடி பாழ்!](15_koadi_paazh.md) - pending
 - [katturaigal/1858-1948](1858-1948.md) - translated
@@ -1001,7 +1001,6 @@ Total source works: 1388
 - [REJECTED! SO, WHAT...!!](rejected_so_what.md) - pending
 - [PRESIDENT JOHNSON AND GENERAL DEGAULLE](resident_johnson_and_general_degaulle.md) - pending
 - [katturaigal/ribbon_mandapathu](ribbon_mandapathu.md) - translated
-- [katturaigal/romapuri_ranigal](romapuri_ranigal.md) - pending
 - [ராயலசீமா!](royalaseema.md) - pending
 - [RUPEE IS SICK...](rupee_is_sick.md) - pending
 - [S. O. S.](s_o_s.md) - pending

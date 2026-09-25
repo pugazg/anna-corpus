@@ -1,6 +1,6 @@
 # நாடகங்கள் / Plays
 
-Total source works: 62
+Total source works: 63
 
 - [nadagangal/aadiyapatham](aadiyapatham.md) - pending
 - [nadagangal/aalai_arumugam](aalai_arumugam.md) - pending
@@ -54,6 +54,7 @@ Total source works: 62
 - [nadagangal/puthiya_cong_1](puthiya_cong_1.md) - translated
 - [nadagangal/ragavayanam_1](ragavayanam_1.md) - translated
 - [nadagangal/roam_erigirathu_1](roam_erigirathu_1.md) - translated
+- [ரோமாபுரி ராணிகள்](romapuri_ranigal.md) - pending
 - [nadagangal/rottithundu](rottithundu.md) - pending
 - [nadagangal/sanmanam](sanmanam.md) - pending
 - [nadagangal/seeman_1](seeman_1.md) - translated

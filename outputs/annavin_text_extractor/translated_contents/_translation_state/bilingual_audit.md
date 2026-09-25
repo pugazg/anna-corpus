@@ -6,10 +6,10 @@
 |---|---:|---:|---:|---:|
 | english | 1 | 1 | 1 | 0 |
 | kadithangal | 275 | 8 | 8 | 267 |
-| katturaigal | 1388 | 548 | 548 | 840 |
+| katturaigal | 1387 | 548 | 548 | 839 |
 | kavithaigal | 77 | 77 | 77 | 0 |
 | Kurunavalgal | 25 | 0 | 0 | 25 |
-| nadagangal | 62 | 35 | 35 | 27 |
+| nadagangal | 63 | 35 | 35 | 28 |
 | navalgal | 6 | 0 | 0 | 6 |
 | paettigal | 26 | 26 | 26 | 0 |
 | root | 5 | 5 | 5 | 0 |
@@ -21,8 +21,8 @@
 
 | Section | OCR target | Completed | Bilingual with source retained | Pending |
 |---|---:|---:|---:|---:|
-| katturaigal | 552 | 547 | 547 | 5 |
-| nadagangal | 61 | 35 | 35 | 26 |
+| katturaigal | 551 | 547 | 547 | 4 |
+| nadagangal | 62 | 35 | 35 | 27 |
 | sirukathaigal | 108 | 108 | 108 | 0 |
 | sorpozhivugal | 241 | 196 | 196 | 45 |
 | **All OCR-origin sections** | **962** | **886** | **886** | **76** |
@@ -73,7 +73,7 @@ A blank image section has an explicit no-text marker or no OCR body after its im
 ### Manually Verified Recovery Holds
 
 - `katturaigal/periyapuranaputhayal.md`: The complete 70-scan, seven-part collection பெரிய புராணப் புதையல் is present, including the locally stored ten-scan Part 5 for which the live pending report has no website link, but the OCR is not translation-safe. Direct scan comparison corrected the printed 1-7-1945 date, two list numbers on Part 2 Image 1, a village-word reading on Part 4 Image 3, the 12 1/2 இலட்சம் scientific figure, two ஐதீகம் readings and the numbered closing comparison; two ornament rows were restored and scan-absent trailing noise removed. Recurring dropped and substituted Tamil, false numerals, malformed quotations, names, citations and scientific figures remain throughout all seven parts. Re-OCR and visually reconcile all 70 scans before translation.
-- `katturaigal/romapuri_ranigal.md`: The complete 82-scan, eight-part collection ரோமாபுரி ராணிகள் is present but not translation-safe. Direct scan comparison restored the ஜூலியஸ் subtitle, a damaged opening word, three ornament transitions, the feminine ending in அக்ரிப்பானா மாண்டாள், the Part 6 opening quotation, two மதுரகீதம் readings, கீர்த்தியைத், ஜூலியானஸ் and the final ornament. Representative scans from every part show recurring dropped and substituted Tamil, false glyphs, malformed historical names, section transitions and quotations throughout the Roman biographical narrative. Re-OCR all 82 scans and visually reconcile every title, historical name, quotation, section heading, ornament and page join before translation.
+- `nadagangal/romapuri_ranigal.md`: The complete 82-scan, eight-part collection ரோமாபுரி ராணிகள் is present but not translation-safe. Direct scan comparison restored the ஜூலியஸ் subtitle, a damaged opening word, three ornament transitions, the feminine ending in அக்ரிப்பானா மாண்டாள், the Part 6 opening quotation, two மதுரகீதம் readings, கீர்த்தியைத், ஜூலியானஸ் and the final ornament. Representative scans from every part show recurring dropped and substituted Tamil, false glyphs, malformed historical names, section transitions and quotations throughout the Roman biographical narrative. Re-OCR all 82 scans and visually reconcile every title, historical name, quotation, section heading, ornament and page join before translation.
 - `katturaigal/ulaga_periyar.md`: The complete 45-scan, two-part 8 February 1948 memorial collection உலகப் பெரியார் காந்தி is present but not translation-safe. The chronological table on Part 1 Images 2-6 has dozens of destroyed year labels and mixed-script insertions, including an entire malformed block on Image 3. Direct scan comparison corrected the printed title date, the 31 January cremation date and time, three funeral-procession figures, two malformed Tamil readings on Part 2 Image 4, and removed scan-absent garbage after the conclusion. Recurring dropped letters, substitutions, false punctuation and broken names and figures continue across both parts. Re-OCR all 45 scans and visually reconcile the complete chronology and prose before translation.
 - `katturaigal/valarppupen.md`: The sixth and final extracted image ends mid-argument after Periyar's claimed five or six years of trust in Maniammai; recover the continuation before producing a complete translation
 - `katturaigal/viduthalaippor.md`: The complete 33-scan, three-part 9 December 1945 collection விடுதலைப் போர் is present but not translation-safe. Direct scan comparison corrected the title date from '59-12-1945' to '9-12-1945', restored the destroyed English name '(Dravidian League)' on Part 1 Image 3, corrected the population figure to '4 1/2 கோடி' on Part 2 Image 10, and removed a nonexistent mixed-script line inserted on Part 3 Image 10. Recurring dropped letters, substitutions, broken words, malformed names and figures remain across all three parts. Re-OCR all 33 scans with Tamil and English models and visually reconcile every title, date, name, figure, quotation and page join before translation.

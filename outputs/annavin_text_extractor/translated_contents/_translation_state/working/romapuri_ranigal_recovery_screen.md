@@ -1,10 +1,10 @@
-# Recovery screen — `katturaigal/romapuri_ranigal.md`
+# Recovery screen — `nadagangal/romapuri_ranigal.md`
 
 Status: `needs_source_recovery`
 
 ## Canonical work
 
-- OCR source: `outputs/annavin_text_extractor/ocr_text_corrected/katturaigal/romapuri_ranigal.md`
+- OCR source: `outputs/annavin_text_extractor/ocr_text_corrected/nadagangal/romapuri_ranigal.md`
 - Website parts: `romapuri_ranigal_1.htm` through `romapuri_ranigal_8.htm`
 - Printed Tamil title: `ரோமாபுரி ராணிகள்`
 - English title: `Queens of Rome`

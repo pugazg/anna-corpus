@@ -59,6 +59,8 @@ def main() -> None:
             rel = Path(row["file"])
             source = BASE / "organized_contents" / rel
             label = display_title(source)
+            if rel.as_posix() == "nadagangal/romapuri_ranigal.md":
+                label = "ரோமாபுரி ராணிகள்"
             target = rel.name
             if rel.as_posix() in incorrect_sources:
                 mark = "incorrect source - skipped"

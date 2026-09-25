@@ -1,6 +1,6 @@
 # OCR-Origin Translation Handover
 
-Updated: 2026-09-09
+Updated: 2026-09-25
 
 ## Objective
 
@@ -8,8 +8,8 @@ Complete all 962 canonical OCR-origin works as bilingual Markdown documents:
 
 | Category | OCR target | Translated | Pending |
 |---|---:|---:|---:|
-| katturaigal | 552 | 547 | 5 |
-| nadagangal | 61 | 35 | 26 |
+| katturaigal | 551 | 547 | 4 |
+| nadagangal | 62 | 35 | 27 |
 | sirukathaigal | 108 | 108 | 0 |
 | sorpozhivugal | 241 | 196 | 45 |
 | **Total** | **962** | **886** | **76** |
@@ -60,7 +60,7 @@ this handover after work resumes.
 
 ## Next Work
 
-Latest recovery: **17 May 1942, printed pages 4 → 9**, Poppaea installment saved. Page 9 contains a candidate witness for gap 2 (Part 4 Image 9 → Part 5 Image 1); exact transcription remains. Next inspect page 10 to follow this installment, then collate gap 2. Gap 1's draft still has three provisional readings. No canonical changes or state refresh. Previous pushed checkpoint `455fcf5`.
+Latest recovery: May 17 serial mapped through pages 4 → 9 → 10. Gap 2 draft rechecked in `6ac735a`; three phrases remain provisional. Next verify collected-edition boundaries and inspect 24 May for gaps 3–5. Gap 1 also remains provisional. Canonical category corrected to nadagangal at the user’s direction; source recovery remains incomplete.
 
 
 Latest 2026-09-23 evidence: matching Romapuri serial located in RMRL **15 March 1942, printed pages 9–11**, headed ரோமாபுரி ராணிகளின் லீலா விநோதம்!, covering Julius Caesar's wives. Three native scan images saved in `working/romapuri_ranigal_evidence/`; no canonical Tamil edits yet. Next screen **22 March 1942** and map installments toward the five gap locations. See recovery ledger for exact URLs and edition-variant caution. All holds and 886/962 count unchanged; no state refresh/tests. Previous pushed checkpoint `b8ec9fc`.
@@ -69,13 +69,13 @@ Latest 2026-09-23 evidence: matching Romapuri serial located in RMRL **15 March 
 2026-09-23 complete-witness search checkpoint: remote main confirmed at `a04a942` before work. RMRL books search `ரோமாபுரி` returned no rendered entries. The 1942 திராவிடநாடு group lists 13 March–May issues; 8 March 1942 (13 viewer pages) was visually screened without an identifiable match, not fully transcribed. Continue with 15 March 1942 via the collection issue list. See the dated search ledger in `working/romapuri_ranigal_recovery.md` for URLs and the May 3 catalogue-date anomaly. All recovery holds unchanged; 886/962 verified, 76 pending. No state refresh or tests for this search-only checkpoint.
 
 
-Active sequential recovery while the Periyapuranaputhayal footer hold remains open: `katturaigal/romapuri_ranigal.md`, All eight parts inspected (82/82; Part 3 Image 3 and Part 6 Image 1 printer footers unresolved, prose reconciled); next recover the five missing transitions from a complete witness (RMRL preferred), resolve both footers and the Part 7 Image 10 uncertain word, then review the source before translation. Fifth broken transition identified between Part 6 Images 5–6. Fourth broken transition confirmed at Part 5/6 boundary; recover before release. A third broken transition, Part 5 Images 5–6, requires recovery. The broken Part 4 Image 9 / Part 5 Image 1 transition is now visually confirmed and requires recovery. A suspected missing passage between Part 4 Images 4–5 also needs a complete witness before release. See `working/romapuri_ranigal_recovery.md`. No state refresh or tests for this source-only checkpoint. Previous pushed checkpoint: `6ae1e42`.
+Active sequential recovery while the Periyapuranaputhayal footer hold remains open: `nadagangal/romapuri_ranigal.md`, All eight parts inspected (82/82; Part 3 Image 3 and Part 6 Image 1 printer footers unresolved, prose reconciled); next recover the five missing transitions from a complete witness (RMRL preferred), resolve both footers and the Part 7 Image 10 uncertain word, then review the source before translation. Fifth broken transition identified between Part 6 Images 5–6. Fourth broken transition confirmed at Part 5/6 boundary; recover before release. A third broken transition, Part 5 Images 5–6, requires recovery. The broken Part 4 Image 9 / Part 5 Image 1 transition is now visually confirmed and requires recovery. A suspected missing passage between Part 4 Images 4–5 also needs a complete witness before release. See `working/romapuri_ranigal_recovery.md`. No state refresh or tests for this source-only checkpoint. Previous pushed checkpoint: `6ae1e42`.
 
 Continue source recovery with `katturaigal/periyapuranaputhayal.md` (பெரிய புராணப் புதையல்), the first remaining OCR-origin work. All seven parts and 70 scans are locally present; the pending report lacks a live link for Part 5 but its ten scans exist. Reconcile all scans before translation, starting Part 1 Image 1. Part 1 Images 1–11 and Part 2 Images 1–10 and Part 3 Images 1–10 and Part 4 Images 1–10 and Part 5 Images 1–10 and Part 6 Images 1–10 and Part 7 Images 1–9 are visually compared (70/70; Part 2 Image 1 and Part 5 Image 3 printer footers remain unresolved); resolve those two footer readings before source release and complete translation. English working draft now covers all 11 Part 1 images and the prose/examples/dialogue of Part 2 Images 1–10, plus all 10 Part 3 images and all 10 Part 4 images, plus all Part 5 prose and all 10 Part 6 images, plus Part 7 Images 1–9. The Part 2 Image 1 and Part 5 Image 3 printer footers are explicitly unresolved in the draft; do not count those scans fully translated. All seven parts now have complete English prose drafts. Full comparative prose review is complete across all seven parts and 70 scan sections, excluding the two unresolved printer footers. Next: recover both footer readings, reconcile the consolidated notes in `working/periyapuranaputhayal_final_notes.md` (48 term records are prepared), then assemble and audit the canonical bilingual document. Do not release the recovery hold or refresh state before those requirements are met. See `working/periyapuranaputhayal_translation.md` and `working/periyapuranaputhayal_recovery.md` for the checkpoints. The footer hold remains open. No state refresh; last completed-work test result remains 15 passing tests, not rerun for this partial prose checkpoint. Previous pushed checkpoint: `e63ef44`. Native-resolution check on 2026-09-16 restored the visible footer number 470 in Part 2 Image 1 (OCR had 70); adjacent abbreviations remain unresolved. Seek the collected-essay edition for a clearer footer witness. Use `/Library/Developer/CommandLineTools/usr/bin/git` while the default git triggers the Xcode licence prompt. Use RMRL for missing or unreadable evidence as requested.
 
 `katturaigal/nirubarin_nilai.md` (நிருபரின் நிலைமை / The Reporter's Predicament) is complete. Nine retained archive scans plus the missing dialogue recovered from RMRL 2 January 1944 page 6 are fully translated and comparatively reviewed. Unrelated Image 9 and original mixed OCR remain preserved separately. Exact retained Tamil SHA-256: `4c87934de6e7cb70f548286f5d45f23a676b56eb7fc4144a6de2db09f134d130`. Hold released, state refreshed, absent from pending list; audit zero issues and all 15 tests pass. The recovery-hold test now checks current inventory entries rather than permanently requiring this completed work.
 
-Current OCR total: **886/962 complete and verified, 76 pending**: 5 katturaigal, 26 nadagangal, 0 sirukathaigal and 45 sorpozhivugal.
+Current OCR total: **886/962 complete and verified, 76 pending**: 4 katturaigal, 27 nadagangal, 0 sirukathaigal and 45 sorpozhivugal.
 
 ## Historical Kambarasam Recovery Chronology
 
@@ -180,7 +180,7 @@ to recovery:
 All seven screening commits were pushed to `origin/main`. The final two
 translation-ready works were then screened and moved to recovery:
 
-- `katturaigal/romapuri_ranigal.md` (82 scans, eight parts): representative
+- `nadagangal/romapuri_ranigal.md` (82 scans, eight parts): representative
   scans from every part proved recurring historical-name, quotation and prose
   corruption; bounded scan-visible readings and ornaments were restored;
   commit `a68d257`.
@@ -202,6 +202,10 @@ sources; this is a classification correction, not a new source defect.
 The other explicit recovery hold encountered immediately before this work is
 `sorpozhivugal/sattamandram_first.md`; its embedded English was badly damaged by
 Tamil-only OCR and needs bilingual re-OCR or visual reconstruction.
+
+## Canonical category correction
+
+Romapuri Ranigal is `nadagangal/romapuri_ranigal.md` at the user’s direction. Raw archive URLs, OCR scans and historical extraction indexes still use katturaigal. Preserve this override if rebuilding the merged inventory; do not reintroduce a second canonical work from the original HTML path.
 
 ## Authoritative Inputs
 

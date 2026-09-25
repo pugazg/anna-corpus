@@ -1,1 +1,1 @@
-../../ocr_text_corrected/katturaigal/romapuri_ranigal.md
+../../ocr_text_corrected/nadagangal/romapuri_ranigal.md

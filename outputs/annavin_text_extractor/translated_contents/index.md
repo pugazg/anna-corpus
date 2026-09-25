@@ -1,5 +1,7 @@
 # அண்ணாவின் படைப்புகள் - ஒருங்கிணைந்த Markdown காப்பக அட்டவணை
 
+Current category correction: [ரோமாபுரி ராணிகள்](nadagangal/CONTENTS.md) belongs to நாடகங்கள் / Plays. The verbatim archive index below preserves its original classification.
+
 ## Source English (verbatim)
 
 - Generated: 2026-08-09T17:33:34+05:30

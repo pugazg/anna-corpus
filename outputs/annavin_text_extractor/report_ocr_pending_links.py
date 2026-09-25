@@ -48,6 +48,9 @@ def load_page_urls():
 
 
 def urls_for(relative, page_urls):
+    # Canonical category corrected by the user; scan provenance keeps the archive path.
+    if relative == "nadagangal/romapuri_ranigal.md":
+        relative = "katturaigal/romapuri_ranigal.md"
     path = Path(relative)
     section = path.parent.as_posix()
     stem = path.stem
