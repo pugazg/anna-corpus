@@ -49,3 +49,9 @@ Re-OCRed both scans with tam+eng/PSM 3 and visually reviewed the full pages, plu
 Image 6 ends `அதனால்`, continuing into Image 7 `பல தொல்லை.` Image 7 ends `இந்து`, awaiting Image 8 continuation. Preserve both scan boundaries. The dialogue’s historical claims are source content, not facts to silently correct during transcription.
 
 Two Image 6 readings remain unresolved: the adjective currently `ஓழ்மையான` in `மிக்க ... மாகாணம்`, and the printer-footer abbreviations between clear `14` and `:470`. Existing OCR is retained provisionally; the footer is not endorsed by this review. Do not infer its expansion from other works or normalize the adjective by context. Seven of 33 scans have now been inspected sequentially; Image 6 is only partially reconciled. Next Image 8, with 26 scans remaining for sequential inspection. No translation, hold release, state refresh or tests. Previous pushed checkpoint `bada694`.
+
+## Part 1 Images 8–9 — 2026-09-26
+
+Re-OCRed tam+eng/PSM 3 and visually compared both full scans. Image 8: restored `ஜகன்னாதர்தான்`, short-vowel `ஒரியர்கள்`/`ஒரிசா`, `ஒவ்வோர்`, `சூத்திரக்`, `கனம் ஆனே`; removed the scan-absent leading dot before `கம்பெனியின்`. Confirmed the five Bengali/two European director figures. Image 9: restored the complete visible numbering 1–5 (frontier/Baluchistan/Punjab; Bengal/Assam; Central/United Provinces; Bombay; Dravidian country/Madras), replacing OCR noise `ததத அவ`; corrected `ஆட்சிக்காலத்திலே`. Retained the source’s `ஆதிபாசி`/`ஆதிவாசி` explanation and unusual quotation punctuation without editorial normalization.
+
+Image 7→8 continues `இந்து / ஆதிக்கம் குறையும்`; Image 8 ends the Vidarbha paragraph before Image 9’s Bihar discussion. Both joins are continuous. Nine of 33 scans now inspected; Image 6 adjective and footer remain unresolved. Next Part 1 Image 10; 24 scans remain for sequential inspection. No English translation, hold release, completion refresh or tests. Previous pushed checkpoint `e95bc89`.
