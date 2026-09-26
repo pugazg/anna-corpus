@@ -60,7 +60,7 @@ this handover after work resumes.
 
 ## Next Work
 
-Independent recovery now proceeds with விடுதலைப் போர்: Part 1 Images 1–5 visually compared and corrected; Image 3’s `கோருகின்றனர்` confirmed. Next continue Image 6, then the remaining 27 scans. See `working/viduthalaippor_recovery_screen.md`. Romapuri’s five gaps and two footer abbreviations still require stronger evidence; Periyapuranaputhayal hold untouched. Counts remain 886/962.
+Independent recovery now proceeds with விடுதலைப் போர்: Part 1 Images 1–7 inspected; Image 6 adjective and printer-footer abbreviations remain unresolved. Next Image 8 and the remaining scans. See `working/viduthalaippor_recovery_screen.md`. Romapuri’s five gaps and two footer abbreviations still require stronger evidence; Periyapuranaputhayal hold untouched. Counts remain 886/962.
 
 Latest recovery: RMRL shelf mark **134257**, பேரறிஞர் அண்ணாவின் கட்டுரைகள் (பூம்புகார், 2001, 599 pages), is a possible collected-edition lead, not a verified match. No digital copy obtained. Next resume bounded review of the saved first-gap witness; all five gaps and two footer abbreviations remain held. Previous pushed checkpoint `4108516`.
 
