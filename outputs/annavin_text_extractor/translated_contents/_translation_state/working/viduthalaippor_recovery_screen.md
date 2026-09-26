@@ -109,3 +109,9 @@ Image 1→2 joins `வஞ்சகத்தால் உயர்ந்து, /
 Re-OCRed tam+eng/PSM 3 and compared both full scans. Image 4: restored `அடிமை`, `ஆராய்ச்சியிலே`, `ஒடிந்து`, and removed false stop in `வண்டி பூட்டி`. Image 5: restored `குடி ஏறி`, `ஓட்ட`, `ஒழிக்கத்தொடங்கினால்`, `உருண்டை என்று`, and joined `சிறு`. Retained the scanned spellings of the named reformers/writers and the author’s historical claims without replacing them with modern spellings or factual revisions.
 
 Image 3→4 joins `மேனி / கருத்தவனை`; Image 4→5 joins `தப்பித் தவறி / ஓடினாலும்`. The final paragraph on Image 5 ends with a complete question/exclamation about Periyar. Twenty-seven of 33 scans inspected; six remain. Next Part 3 Image 6. Part 1 Image 6 adjective/footer hold remains; Romapuri and Periyapuranaputhayal holds untouched. No translation, release, state refresh or tests. Previous pushed checkpoint `a701662`.
+
+## Part 3 Images 6–7 — 2026-09-26
+
+Re-OCRed tam+eng/PSM 3 and visually compared both full scans. Image 6 restores `ஆண்டுதோறும்`, `வளர்ந்து`, removes false stops in `முறைப்படி`, `அப்படி`, `ஆடு ராட்டே`, `கேட்டி / னாலேயே`, and restores the exclamation before the page-final `தோழமை`. Image 7 restores `ஒரே`, `இருக் / கிறது`, `திராவிடநாடு`, `ஒவ்வோர்`, `ஒழிந்தாக`, and removes the false stop after `விரட்டி`. Retained the visibly printed opening `சபலமுள்ள` and the statement that India had obtained freedom: do not normalize the first by context or alter the latter to fit the collection’s title date. Record both separately in final notes.
+
+Image 6→7 joins `தோழமை / சபலமுள்ள இருவருக்குள்`; Image 7 ends with the complete call to action. Twenty-nine of 33 scans inspected; four remain. Next Part 3 Image 8. Part 1 Image 6 adjective/footer hold remains; other works’ holds untouched. No translation, release, state refresh or tests. Previous pushed checkpoint `0982425`.
