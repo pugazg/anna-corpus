@@ -254,3 +254,9 @@ Internet Archive’s native search for `romapuri` returned three text items, all
 Tamil Digital Library’s native title/author search for `ரோமாபுரி` completed at https://tamildigitallibrary.in/book-search-new/%E0%AE%B0%E0%AF%8B%E0%AE%AE%E0%AE%BE%E0%AE%AA%E0%AF%81%E0%AE%B0%E0%AE%BF and explicitly reported 1 of 1 results: `ரோமாபுரிப் பாண்டியன்`, author கருணாநிதி, கலைஞர் மு. This is not the work sought. No matching collected-edition scan was obtained.
 
 The RMRL physical shelf marks remain the strongest complete-edition leads. Next re-examine the two local printer footers at word scale, as that can advance recovery independently of finding another edition; keep unresolved missing transitions and provisional drafts held. No source change, completion refresh, translation, or tests. Previous pushed checkpoint `50441a0`.
+
+### Printer-footer number/punctuation review — 2026-09-26
+
+Reopened original Part 3 Image 3 (`003-00684dd444.png`) and Part 6 Image 1 (`001-b3f6ebd2d9.png`), each 1600×2443. Inspected the lower 550 pixels, then enlarged footer detail x=120–490, y=2283–2341 by 4× for display. The signature numbers are visibly 2 and 3 respectively, with `:470` at the end of each line. Corrected only Part 3’s misread semicolon and Part 6’s misread leading Tamil mark (`ு` → `3`) plus the omitted colon. Logged both bounded corrections in `ocr_concerns.csv`.
+
+The intervening abbreviations remain too blurred for exact transcription. Their existing OCR is deliberately not endorsed or normalized. Both footers remain on hold; enlargement adds no underlying detail. A same-edition copy is still required to settle those letters. The serial evidence cannot identify a collected-edition printer signature. Next pursue the concrete RMRL edition leads or another complete witness; source recovery and English translation remain incomplete. No completion refresh, count change or tests for these bounded source corrections. Previous pushed checkpoint `6a36d87`.

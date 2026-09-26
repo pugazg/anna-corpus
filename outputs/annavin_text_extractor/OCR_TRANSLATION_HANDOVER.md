@@ -60,7 +60,7 @@ this handover after work resumes.
 
 ## Next Work
 
-Latest recovery: Internet Archive and Tamil Digital Library native catalogue searches found no matching collected edition; the latter returned only Karunanidhi’s Romapuri Pandiyan. RMRL physical holdings remain concrete complete-edition leads. Next recheck both local printer footers at word scale while keeping five gaps and provisional drafts held. Previous pushed checkpoint `50441a0`.
+Latest recovery: both local printer footers rechecked at enlarged word scale. Corrected only signature number 3 and colon punctuation; both abbreviated texts remain unresolved. Five gap recoveries remain open and drafts provisional. Complete/same-edition witness still needed; RMRL physical holdings are recorded. Previous pushed checkpoint `6a36d87`.
 
 
 Latest 2026-09-23 evidence: matching Romapuri serial located in RMRL **15 March 1942, printed pages 9–11**, headed ரோமாபுரி ராணிகளின் லீலா விநோதம்!, covering Julius Caesar's wives. Three native scan images saved in `working/romapuri_ranigal_evidence/`; no canonical Tamil edits yet. Next screen **22 March 1942** and map installments toward the five gap locations. See recovery ledger for exact URLs and edition-variant caution. All holds and 886/962 count unchanged; no state refresh/tests. Previous pushed checkpoint `b8ec9fc`.
