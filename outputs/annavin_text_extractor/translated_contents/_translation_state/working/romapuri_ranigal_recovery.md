@@ -246,3 +246,11 @@ Searched RMRL’s full online catalogue (distinct from the empty digital-books s
 The actual “Show only e-books” switch was enabled and the resulting URL added `&digitized=true`; the catalogue explicitly returned **0 results**. These are verified physical/catalogue holdings, not downloadable witnesses. Clicking a title did not expose a viewer. Do not claim absence from RMRL: the library demonstrably holds multiple editions. These shelf marks provide concrete leads for obtaining a complete witness if public digital alternatives fail. No contact was sent to the library.
 
 Focused web searches for the exact Tamil title with PDF/Internet Archive/Tamil Digital Library restrictions returned mentions, bibliographies and booksellers, without a verified full-text edition. Search results alone do not establish exhaustive absence. Next inspect another public library’s own catalogue rather than repeat the same broad queries; retain all recovery holds. No source text or translation state changed. Previous pushed checkpoint `7dd68de`.
+
+### Other public catalogues screened — 2026-09-26
+
+Internet Archive’s native search for `romapuri` returned three text items, all Karunanidhi’s Romapuri Pandiyan, not Anna’s title: https://archive.org/search?query=romapuri . Searching the Tamil fragment `ரோமாபுரி` through the same UI returned unrelated books and media; no Romapuri Ranigal edition was identified among displayed results. This is a bounded catalogue search, not proof of absence under alternate metadata.
+
+Tamil Digital Library’s native title/author search for `ரோமாபுரி` completed at https://tamildigitallibrary.in/book-search-new/%E0%AE%B0%E0%AF%8B%E0%AE%AE%E0%AE%BE%E0%AE%AA%E0%AF%81%E0%AE%B0%E0%AE%BF and explicitly reported 1 of 1 results: `ரோமாபுரிப் பாண்டியன்`, author கருணாநிதி, கலைஞர் மு. This is not the work sought. No matching collected-edition scan was obtained.
+
+The RMRL physical shelf marks remain the strongest complete-edition leads. Next re-examine the two local printer footers at word scale, as that can advance recovery independently of finding another edition; keep unresolved missing transitions and provisional drafts held. No source change, completion refresh, translation, or tests. Previous pushed checkpoint `50441a0`.
