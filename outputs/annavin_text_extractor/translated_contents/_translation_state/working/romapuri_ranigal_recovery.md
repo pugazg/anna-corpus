@@ -231,3 +231,18 @@ Located Romapuri on **printed page 10 → printed page 9, right column below A.R
 Printed page 10 begins the Lepida account corresponding to archive Part 5 Image 7 and continues through Galba’s revolt. Printed page 9’s right column continues through Galba’s death and the retrospective account of his fidelity to Lepida, approaching the fourth gap. Its lower-right edge is physically lost, obscuring line endings. Printed page 10 also bears the library note “copy imperfect at after p. 10 wanting”. Thus this copy cannot yet establish a complete fourth-gap passage; do not invent text at the torn edge or assume the missing sequel’s wording. The newspaper’s order/wording around the Lepida retrospective differs from the collected edition and needs exact collation.
 
 All thirteen listed 1942 issues (March–May) have now been screened, with positive serial witnesses saved. The catalogue’s 1942 group offers no later June issue in the inspected list. Next seek a fuller serial or collected-edition witness, using RMRL’s full catalogue and other public archives as necessary, while keeping the first three drafts provisional. No canonical insertion, gap closure, English translation, completion refresh or tests. All five gaps and both printer footers remain open; Part 7 word remains resolved as a printed anomaly. Counts stay 886/962 complete, 76 pending. Previous pushed checkpoint `5786e00`.
+
+### Full RMRL catalogue holdings — 2026-09-26
+
+Searched RMRL’s full online catalogue (distinct from the empty digital-books search): https://rmrl.in/en/onlinecat/result?text=%E0%AE%B0%E0%AF%8B%E0%AE%AE%E0%AE%BE%E0%AE%AA%E0%AF%81%E0%AE%B0%E0%AE%BF&searchby=all&item=books . Eight results include four Romapuri Ranigal editions by C. N. Annadurai:
+
+| Edition | Publisher/place | Extent | Shelf mark |
+|---|---|---|---|
+| 1948, third | திராவிடப் பண்ணை, திருச்சி | vi, 127 pages; 18 cm | 006075; 006738 |
+| 1951, fifth | திராவிடப் பண்ணை, திருச்சி | vi, [1], 127 pages; 18 cm | 152674 |
+| 1977, fifteenth | திராவிடப்பண்ணை, திருச்சிராப்பள்ளி | 120 pages; 18 cm | 83430 |
+| 2002, first | பூம்புகார் பதிப்பகம், சென்னை | 128 pages; 18 cm | 136479 |
+
+The actual “Show only e-books” switch was enabled and the resulting URL added `&digitized=true`; the catalogue explicitly returned **0 results**. These are verified physical/catalogue holdings, not downloadable witnesses. Clicking a title did not expose a viewer. Do not claim absence from RMRL: the library demonstrably holds multiple editions. These shelf marks provide concrete leads for obtaining a complete witness if public digital alternatives fail. No contact was sent to the library.
+
+Focused web searches for the exact Tamil title with PDF/Internet Archive/Tamil Digital Library restrictions returned mentions, bibliographies and booksellers, without a verified full-text edition. Search results alone do not establish exhaustive absence. Next inspect another public library’s own catalogue rather than repeat the same broad queries; retain all recovery holds. No source text or translation state changed. Previous pushed checkpoint `7dd68de`.
