@@ -79,3 +79,9 @@ Image 2→3 joins `சிறைக் / கோட்டத்துக்கு�
 Re-OCRed tam+eng/PSM 3 and visually compared both full pages. Image 5: restored `கழிகொண்டோன்`, `இப்படிப்பட்ட`, `காளைபருவ`, `புண்படுமே`, and the exclamation mark after `கிளர்ச்சிக்காரர்`. Image 6: restored `கிழவரொருவர்` and the exclamation after `முகம் மலருகிறது`. Preserved Image 5’s visibly unusual `பெரியர்` and `நாயக்கருக்கத்` rather than normalizing by grammar; explain these separately if retained after final comparative review.
 
 Image 4→5 continues `மொழி சிதைந்து, / பழி மிகுந்து`; Image 5→6 continues the portrait of the leader without an incomplete sentence at the boundary. Image 6 ends `எதிரே ஒரு`, awaiting Image 7. Seventeen of 33 scans inspected; 16 remain. Next Part 2 Image 7. Part 1 Image 6 adjective/footer hold remains. No translation, release, state refresh or tests. Previous pushed checkpoint `51dc527`.
+
+## Part 2 Images 7–8 — 2026-09-26
+
+Re-OCRed tam+eng/PSM 3 and visually compared both complete pages. Image 7 restores `அஞ்சும்`, `கிடக்கின்றன`, `ஏதேதோ`, `ஓவியக்காரன்`, and removes false internal stops in `ஏது`, `இருக்குமிடமும்`, `பெரிதெனக்கொண்ட`. Retained the visible full stop after `போதிலும்.` rather than smoothing the continuing sentence. Image 8 restores the opening semicolon, `தீட்டப் / பட்டுக்`, `ஏடுதூக்கியதாக`, `மெம்பராவது`, `ஒரு`, and `ஆண்டு`.
+
+Image 6→7 continues `எதிரே ஒரு / திரை`; Image 7→8 continues `கொள்கைகளை / அவர்கள் நீக்கிவிட்டால்`. The embedded quotation `கொலை வாளினை எடடா, மிகு கொடியோர் செயல் அறவே` is retained as printed, without substituting wording from another edition. Image 8 ends `ஏமாந்ததால்`, awaiting Image 9. Nineteen of 33 scans inspected; 14 remain. Next Part 2 Image 9. Part 1 Image 6 adjective/footer hold remains. No translation, release, state refresh or tests. Previous pushed checkpoint `9ad53b0`.
