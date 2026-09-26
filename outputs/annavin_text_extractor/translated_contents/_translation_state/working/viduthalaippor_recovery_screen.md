@@ -23,3 +23,13 @@ Status: `needs_source_recovery`
 ## Required recovery
 
 Re-OCR all 33 scans with Tamil and English models and visually reconcile every title, date, name, figure, quotation and page join. Preserve the three parts as one canonical work and retain the four scan-proven corrections above. Do not create the bilingual document until the complete source is scan-safe.
+
+## Sequential recovery — 2026-09-26
+
+Reopened Part 1 Images 1–3 at full-page resolution and re-OCRed those three scans with installed Tesseract `tam+eng`, PSM 3. Raw machine output is preserved in `working/viduthalaippor_reocr/`; it is explicitly unverified and repeats many original OCR mistakes. It must not overwrite the corrected source.
+
+- Image 1: title and date `விடுதலைப் போர்`, `9-12-1945` visually confirmed; no change.
+- Image 2: reviewed heading, five-line poem and all prose. Restored the poem’s five consecutive lines/opening quotation and `மகிழ்வூட்டி வருகிறது.` from malformed OCR. Preserved the printed page-final `தனது`, which joins Image 3’s `நாட்டை`.
+- Image 3: restored visible `நமக்குக்`, `கொள்கையாக்கப்`, `ஊக்கமும்`, `நமது கட்சி`; removed false periods in `நாட்டை`, `மிரட்டி`, `திராவிட`, `நாட்டுக்குடை`, `கமிட்டி`, and the stray apostrophe after `காசியிலே`. The `(Dravidian League)` reading remains intact.
+
+Image 3’s `கோருகின்றனர்` still needs a close letter-level check: fresh OCR repeats it, but this is not independent confirmation. Keep its current spelling provisional rather than silently normalizing the honorific. The complete three-scan batch has been visually inspected, but Image 3 is not yet fully reconciled. Next resolve that reading and continue Part 1 Image 4; verify the `கொள்ள / வேண்டுமென்பது` page join. The remaining 30 scans have not received sequential review. No English translation or hold release. Romapuri and Periyapuranaputhayal remain on their existing holds.
