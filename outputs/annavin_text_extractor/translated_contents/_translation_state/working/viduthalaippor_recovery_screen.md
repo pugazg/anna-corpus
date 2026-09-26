@@ -103,3 +103,9 @@ Part 2 Images 10→11 joins `சகல / சாதனங்களையும்
 Re-OCRed tam+eng/PSM 3 and visually compared both full pages. Image 2: removed false internal stop in `அடிபணியும்`; confirmed the quoted `முப்பத்து முக்கோடி` passage and retained its wording. Image 3: restored `ஒப்புக்`, `கவனமிருக்கட்டும்`, both line-broken `பார்க்கி / றீர்கள்` readings, and the closing quotation after `மனிதனை`; removed false stop after `மொழிப்படி` and the OCR paragraph break before `காட்டேரி`. Preserved visible `கற்றக் கொண்டவைகள்` and `நின்ற இருக்கிறோம்` as printed, without grammatical normalization.
 
 Image 1→2 joins `வஞ்சகத்தால் உயர்ந்து, / உயர்ந்த நிலையிலே`; Image 2 ends the contrast about memorials and Image 3 continues the series of contrasts. Image 3 ends `மேனி`, awaiting Image 4. Twenty-five of 33 scans inspected; eight remain. Next Part 3 Image 4. Part 1 Image 6 adjective/footer hold remains; other works’ holds untouched. No translation, release, state refresh or tests. Previous pushed checkpoint `72c55d0`.
+
+## Part 3 Images 4–5 — 2026-09-26
+
+Re-OCRed tam+eng/PSM 3 and compared both full scans. Image 4: restored `அடிமை`, `ஆராய்ச்சியிலே`, `ஒடிந்து`, and removed false stop in `வண்டி பூட்டி`. Image 5: restored `குடி ஏறி`, `ஓட்ட`, `ஒழிக்கத்தொடங்கினால்`, `உருண்டை என்று`, and joined `சிறு`. Retained the scanned spellings of the named reformers/writers and the author’s historical claims without replacing them with modern spellings or factual revisions.
+
+Image 3→4 joins `மேனி / கருத்தவனை`; Image 4→5 joins `தப்பித் தவறி / ஓடினாலும்`. The final paragraph on Image 5 ends with a complete question/exclamation about Periyar. Twenty-seven of 33 scans inspected; six remain. Next Part 3 Image 6. Part 1 Image 6 adjective/footer hold remains; Romapuri and Periyapuranaputhayal holds untouched. No translation, release, state refresh or tests. Previous pushed checkpoint `a701662`.
