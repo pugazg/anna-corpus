@@ -85,3 +85,9 @@ Image 4→5 continues `மொழி சிதைந்து, / பழி மி
 Re-OCRed tam+eng/PSM 3 and visually compared both complete pages. Image 7 restores `அஞ்சும்`, `கிடக்கின்றன`, `ஏதேதோ`, `ஓவியக்காரன்`, and removes false internal stops in `ஏது`, `இருக்குமிடமும்`, `பெரிதெனக்கொண்ட`. Retained the visible full stop after `போதிலும்.` rather than smoothing the continuing sentence. Image 8 restores the opening semicolon, `தீட்டப் / பட்டுக்`, `ஏடுதூக்கியதாக`, `மெம்பராவது`, `ஒரு`, and `ஆண்டு`.
 
 Image 6→7 continues `எதிரே ஒரு / திரை`; Image 7→8 continues `கொள்கைகளை / அவர்கள் நீக்கிவிட்டால்`. The embedded quotation `கொலை வாளினை எடடா, மிகு கொடியோர் செயல் அறவே` is retained as printed, without substituting wording from another edition. Image 8 ends `ஏமாந்ததால்`, awaiting Image 9. Nineteen of 33 scans inspected; 14 remain. Next Part 2 Image 9. Part 1 Image 6 adjective/footer hold remains. No translation, release, state refresh or tests. Previous pushed checkpoint `9ad53b0`.
+
+## Part 2 Images 9–10 — 2026-09-26
+
+Re-OCRed tam+eng/PSM 3 and visually compared both full scans. Image 9 restores the opening `தமிழா!`, `கிளம்பிற்று`, two exclamations after `உழைப்பு`, both `ஆள` readings, `இலட்சியம்`, `ஒரு`; removes the scan-absent trailing Tamil mark after the question. Image 10 restores `ஒப்பிட்டுப்` and `குடிவளம்`. Confirmed the already-corrected `4 1/2 கோடி`, `142000` square miles, and all printed comparative figures (14, 27, 4, 10, 2, 3, 4, 10, 4, 14); these are retained historical claims, not recalculated figures.
+
+Image 8→9 joins `ஏமாந்ததால் / இகத்தை`; Image 9 ends the self-government introduction and Image 10 elaborates size/population/resources. Image 10 ends `சகல`, awaiting Image 11. Twenty-one of 33 scans inspected; 12 remain. Next Part 2 Image 11 and Part 3. Part 1 Image 6 adjective/footer hold remains. No translation, release, state refresh or tests. Previous pushed checkpoint `939f0af`.
