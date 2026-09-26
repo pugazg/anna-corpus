@@ -121,3 +121,9 @@ Image 6→7 joins `தோழமை / சபலமுள்ள இருவரு
 Re-OCRed tam+eng/PSM 3 and visually compared both full scans. Image 8 restores `சுயமரியாதைக்`, `கினாலேயே`, and two exclamation marks after `வாழ்கவே`. Preserved the printed question mark after `முரசு கொட்டுக` and period after `ஒருசிலர்`. Image 9 restores `ஒழுக்கக்கேடுகள்`, `ஒய்யாரமான`, `நடிப்பது`, `தொலைநோக்கித்`, `ஆண்மையாளருக்`, `ஆனந்தம்`, `சீமான்களின்`; removes false stops after `ஏய்த்துவிட` and `கொண்டே`.
 
 Image 8 contains the new heading `வீரர் வேண்டும்`; its ending `ஒரு துளியும்` continues into Image 9 `கவலைப்படாமல்`. Image 9 ends `சீமான்களின் தோழமை`, awaiting Image 10. Thirty-one of 33 scans inspected; two remain. Next Part 3 Images 10–11. Part 1 Image 6 adjective/footer hold remains; other works’ holds untouched. No translation, release, state refresh or tests. Previous pushed checkpoint `a386881`.
+
+## Part 3 Images 10–11 — 2026-09-26
+
+Re-OCRed tam+eng/PSM 3 and visually compared both full scans. Image 10 restores `அகங்`, `இருதயகீதம்`, `வேண்டுவோர்`, `அனந்தாச்சாரிக்கு கிடைக்கும்`; removes the false stop after `அடி` and false paragraph break before `பிள்ளைக்கும்`. Retained the printed `கரிக்குக்` and `தந் நலத்துக்காக` without contextual normalization. Image 11 restores `ஆள்மாற்றமே`, `ஒழித்தாக`, `வீரராகப்`; removes false stops after `நாட்டை` and `பெருங்குடி`. Retained printed `சூள்`, and the full stop after `ஒடிந்திருக்கிறது`.
+
+Image 9→10 joins `சீமான்களின் தோழமை / யைப் பெறுவதும்`; Image 10→11 joins `விதியற்றவர், / கதியற்றவர்`. The work ends with `திராவிடருக்கே!!`. All 33 scans now have initial sequential visual inspection. Source release remains withheld: Part 1 Image 6 adjective and printer-footer abbreviations require stronger evidence, followed by a complete comparative review. No English translation, state refresh or tests. Other works’ recovery holds untouched. Previous pushed checkpoint `6c6fff9`.
