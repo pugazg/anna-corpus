@@ -73,3 +73,9 @@ Part 1→2 opening now corrected from direct evidence. Image 1→2 runs `பக�
 Re-OCRed tam+eng/PSM 3 and visually compared both full scans. Image 3: restored `தமிழர்கள்` from `ஹமிழர்கள்`, `1945-ஆம் ஆண்டு`, and `உபநிஷத்து களுக்குள்ளது`; corrected three exclamation marks after `தேவையாம்` to the printed two. Confirmed the quotation’s `16-ல் ஒரு பங்கு` and May 28, 1945 date. Preserved the visible stray single quote before `தவறில்லை` as source punctuation. Image 4: removed the false full stop after `எப்படி` and restored `ஆனவைகளையே`. A close crop (x=620–930, y=1335–1390) confirms retained `மட்டுமல்ல`; a tentative alternative was rejected before checkpoint.
 
 Image 2→3 joins `சிறைக் / கோட்டத்துக்கும்`. Image 3’s concluding paragraph is followed by Image 4’s analysis of `தமிழர்கள் மட்டுமே`; Image 4 ends `மொழி சிதைந்து,`, continuing next page. Fifteen of 33 scans inspected; 18 remain. Next Part 2 Image 5. Part 1 Image 6 adjective/footer hold remains. No translation, release, state refresh or tests. Previous pushed checkpoint `63c4651`.
+
+## Part 2 Images 5–6 — 2026-09-26
+
+Re-OCRed tam+eng/PSM 3 and visually compared both full pages. Image 5: restored `கழிகொண்டோன்`, `இப்படிப்பட்ட`, `காளைபருவ`, `புண்படுமே`, and the exclamation mark after `கிளர்ச்சிக்காரர்`. Image 6: restored `கிழவரொருவர்` and the exclamation after `முகம் மலருகிறது`. Preserved Image 5’s visibly unusual `பெரியர்` and `நாயக்கருக்கத்` rather than normalizing by grammar; explain these separately if retained after final comparative review.
+
+Image 4→5 continues `மொழி சிதைந்து, / பழி மிகுந்து`; Image 5→6 continues the portrait of the leader without an incomplete sentence at the boundary. Image 6 ends `எதிரே ஒரு`, awaiting Image 7. Seventeen of 33 scans inspected; 16 remain. Next Part 2 Image 7. Part 1 Image 6 adjective/footer hold remains. No translation, release, state refresh or tests. Previous pushed checkpoint `51dc527`.
