@@ -115,3 +115,9 @@ Image 3→4 joins `மேனி / கருத்தவனை`; Image 4→5 join
 Re-OCRed tam+eng/PSM 3 and visually compared both full scans. Image 6 restores `ஆண்டுதோறும்`, `வளர்ந்து`, removes false stops in `முறைப்படி`, `அப்படி`, `ஆடு ராட்டே`, `கேட்டி / னாலேயே`, and restores the exclamation before the page-final `தோழமை`. Image 7 restores `ஒரே`, `இருக் / கிறது`, `திராவிடநாடு`, `ஒவ்வோர்`, `ஒழிந்தாக`, and removes the false stop after `விரட்டி`. Retained the visibly printed opening `சபலமுள்ள` and the statement that India had obtained freedom: do not normalize the first by context or alter the latter to fit the collection’s title date. Record both separately in final notes.
 
 Image 6→7 joins `தோழமை / சபலமுள்ள இருவருக்குள்`; Image 7 ends with the complete call to action. Twenty-nine of 33 scans inspected; four remain. Next Part 3 Image 8. Part 1 Image 6 adjective/footer hold remains; other works’ holds untouched. No translation, release, state refresh or tests. Previous pushed checkpoint `0982425`.
+
+## Part 3 Images 8–9 — 2026-09-26
+
+Re-OCRed tam+eng/PSM 3 and visually compared both full scans. Image 8 restores `சுயமரியாதைக்`, `கினாலேயே`, and two exclamation marks after `வாழ்கவே`. Preserved the printed question mark after `முரசு கொட்டுக` and period after `ஒருசிலர்`. Image 9 restores `ஒழுக்கக்கேடுகள்`, `ஒய்யாரமான`, `நடிப்பது`, `தொலைநோக்கித்`, `ஆண்மையாளருக்`, `ஆனந்தம்`, `சீமான்களின்`; removes false stops after `ஏய்த்துவிட` and `கொண்டே`.
+
+Image 8 contains the new heading `வீரர் வேண்டும்`; its ending `ஒரு துளியும்` continues into Image 9 `கவலைப்படாமல்`. Image 9 ends `சீமான்களின் தோழமை`, awaiting Image 10. Thirty-one of 33 scans inspected; two remain. Next Part 3 Images 10–11. Part 1 Image 6 adjective/footer hold remains; other works’ holds untouched. No translation, release, state refresh or tests. Previous pushed checkpoint `a386881`.
