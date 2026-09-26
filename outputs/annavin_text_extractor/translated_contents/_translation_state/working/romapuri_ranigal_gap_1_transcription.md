@@ -8,7 +8,7 @@ Archive anchors: Part 4 Image 4 ends `பாராளும்`; Part 4 Image 5 
 
 ## Left column
 
-“பாராளும் மன்றத்திலே இதோ பச்சைநிறச்சால்வையும் பால்நிற அங்கியுந்தரித்துக் கொண்டுள்ளவன், எத்தக்களத்திலே வென்றவன், எந்தநாட்டை ரோம் சாம்ராஜ்யத்துக்குட்பணியச் செய்தவன்” என்று கேட்பர் முன்பெல்லாம், ரோம் செனட் மெம்பர்களை! அத்தகைய வீரர்கள் கோட்டமாக செனட் விளங்கியது. அக்ரிப்பானுவின் காலத்திலே, அரசிக்கு இத்தகைய உதவியை இந்த நேரத்தில் இவ்விதம் செய்தவர் இவர் என்று கூறித்தான் செனட் மெம்பர்களின் பிரதாபத்தைக் கூறமுடியும். அரசிக்குத் தூதுவர், மாஜிகாதலர், சகிலேலீலிக்குத் துணைபுரிந்தவர்கள், அரசியின் ஆசைக்குப்பங்கம் விளைவித்தவர்களைக் கொன்றவர்கள், என்று இத்தகையவர்களே கொலு மண்டபத்திலும், ஆட்சிமன்றத்திலும் குடியுலாயினர். அரசன் கிளாடியசே, அக்ரிப்பானுவின் அடிமையானான்! அரசி அக்ரிப்பானுவின் கட்டளைக்காக வெளிநாட்டு வேந்தர்களும் வீரர்களும், ராஜதந்திரிகளும் காத்துக்கொண்டிருப்பர். உலகின் பலபாகங்களிலுமிருந்து, அவளை மகிழ்விக்கப் பலர் பலவிதமான பரிசுகளை அனுப்புவர்! தங்கத்தேர், அதிலே வெண்புரவிகள், பொன் இழைத்த ஆடை, அணிமணிகளும் பணிபூண்டு, அரசி அக்ரிப்பானு ஊர்வலம் வருவாள். அவளைத் துதிபாடுவோர்க்கு அரச அவையிலே இடம், மற்றவருக்கோ காராக்கிருகம்!
+“பாராளும் மன்றத்திலே இதோ பச்சைநிறச்சால்வையும் பால்நிற அங்கியுந்தரித்துக் கொண்டுள்ளவன், எத்தக்களத்திலே வென்றவன், எந்தநாட்டை ரோம் சாம்ராஜ்யத்துக்குட்பணியச் செய்தவன்” என்று கேட்பர் முன்பெல்லாம், ரோம் செனட் மெம்பர்களை! அத்தகைய வீரர்கள் கோட்டமாக செனட் விளங்கியது. அக்ரிப்பானுவின் காலத்திலே, அரசிக்கு இத்தகைய உதவியை இந்த நேரத்தில் இவ்விதம் செய்தவர் இவர் என்று கூறித்தான் செனட் மெம்பர்களின் பிரதாபத்தைக் கூறமுடியும். அரசிக்குத் தூதுவர், மாஜிகாதலர், சகிலேலீலிக்குத் துணைபுரிந்தவர்கள், அரசியின் ஆசைக்குப்பங்கம் விளைவித்தவர்களைக் கொன்றவர்கள், என்று இத்தகையவர்களே கொலு மண்டபத்திலும், ஆட்சிமன்றத்திலும் குடியுலாயினர். அரசன் கிளாடியசே, அக்ரிப்பானுவின் அடிமையானான்! அரசி அக்ரிப்பானுவின் கட்டளைக்காக வெளிநாட்டு வேந்தர்களும் வீரர்களும், ராஜதந்திரிகளும் காத்துக்கொண்டிருப்பர். உலகின் பலபாகங்களிலுமிருந்து, அவளை மகிழ்விக்கப் பலர் பலவிதமான பரிசுகளை அனுப்புவர்! தங்கத்தேர், அதிலே வெண்புரவிகள், பொன் இழைத்த ஆடை, அங்கமெங்கும் பணிபூண்டு, அரசி அக்ரிப்பானு ஊர்வலம் வருவாள். அவளைத் துதிபாடுவோர்க்கு அரச அவையிலே இடம், மற்றவருக்கோ காராக்கிருகம்!
 
 ## Right column
 
@@ -20,7 +20,7 @@ Archive anchors: Part 4 Image 4 ends `பாராளும்`; Part 4 Image 5 
 
 ## Required reading checks before insertion
 
-A tighter crop establishes `ஆசைக்குப்பங்கம்`, replacing the earlier erroneous `ஆசைக்குருப்பாகம்`. The right-column physician name `ஜெனோபன்` and anomalous sentence ending `தந்துவிட்டது` were rechecked against the enlarged scan and retained as printed. The left-column readings `சகிலேலீலிக்குத்`, `குடியுலாயினர்` and `துதிபாடுவோர்க்கு` remain provisional; do not treat them as approved source corrections. A clearer witness is preferable to repeatedly enlarging the same pixels.
+A tighter crop establishes `ஆசைக்குப்பங்கம்`, replacing the earlier erroneous `ஆசைக்குருப்பாகம்`. The right-column physician name `ஜெனோபன்` was rechecked against the enlarged scan. The previous endorsement of `தந்துவிட்டது` as printed is withdrawn: the renewed review below finds the letter sequence insufficiently established. The left-column readings `சகிலேலீலிக்குத்`, `குடியுலாயினர்` and `துதிபாடுவோர்க்கு` remain provisional; do not treat them as approved source corrections. A clearer witness is preferable to repeatedly enlarging the same pixels.
 
 The collected-edition insertion boundaries have now been checked (below). No gap closure, canonical insertion, translation, state refresh or completion-count change yet. Continue independent recovery with the 17 May 1942 issue for the later missing passages while seeking stronger evidence for the remaining word shapes.
 
@@ -34,3 +34,9 @@ Visually re-opened the two original archive scans at native source resolution:
 The newspaper overlaps establish insertion after the retained `பாராளும்` and before the retained `அழகியுடன் குலவினான்.` The newspaper has an opening quotation before `பாராளும்`, whereas the collected scan does not show that quotation. Preserve the retained collected-edition text and record this punctuation variant separately; do not silently add the missing opening quote to Image 4. The newspaper’s closing quotation occurs inside the recovered span; explain the unmatched quotation in a separate note during assembly.
 
 The serial uses `அக்ரிப்பானு` where these collected-edition pages use `அக்ரிப்பானா`; retain the witness's own spelling within any explicitly labelled recovered section rather than harmonizing it. These overlap checks confirm the missing span's location, not the provisional letter sequences inside it. Those remain unresolved.
+
+## Renewed visual review — 2026-09-26
+
+Inspected native-image crops x=65–385, y=930–1230 (left column) and x=385–705, y=112–500 (right column), enlarged for display. Corrected the draft’s `அணிமணிகளும் பணிபூண்டு` to the scan-visible `அங்கமெங்கும் பணிபூண்டு`. This correction concerns the working witness transcription only.
+
+The right-column sentence endings currently transcribed `தந்துவிட்டது` and `இனி இறந்ததாலே` are also provisional. The first contains more visible letter shapes before the line break than the draft accounts for; the second is not securely supported by this review. Do not endorse either as a printed anomaly or translate it as settled text. A clearer witness is needed; no contextual replacement has been supplied. The three previously flagged left-column readings remain held. No canonical insertion or gap closure.

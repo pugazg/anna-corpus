@@ -268,3 +268,9 @@ RMRL full catalogue search for `அண்ணாவின் கட்டுர�
 The 599-page volume is an acquisition lead only. Its contents, publication number and typography have not been inspected; do not expand footer abbreviations or claim an edition match from this metadata. Tamil Digital Library’s native search for `அண்ணாவின் கட்டுரைகள்` displayed no result cards and suggested special search. No digital copy obtained. The user’s canonical nadagangal classification remains unchanged.
 
 Next return to bounded collation of the saved first-gap witness; wider searches have yielded physical holdings but no stronger scan. Same-edition acquisition remains necessary for unresolved footer letters and possibly later missing transitions. No Tamil changes, release, translation, tests or completion refresh in this search checkpoint. Previous pushed checkpoint `4108516`.
+
+### First-gap transcription correction — 2026-09-26
+
+Rechecked enlarged left and right portions of saved 10 May page 8. Corrected the working draft’s `அணிமணிகளும் பணிபூண்டு` to visible `அங்கமெங்கும் பணிபூண்டு`. Withdrew the earlier claim that `தந்துவிட்டது` is a verified printed anomaly and flagged it together with `இனி இறந்ததாலே` for stronger evidence. Exact crop coordinates and limitations are recorded in the gap-1 draft. Repeated enlargement cannot establish the remaining blurred letters.
+
+No canonical Tamil changes, translation, gap closure, state refresh or tests. Counts remain 886/962 and all five gaps/two footer abbreviations remain held. Next obtain stronger witness evidence for these unresolved passages; meanwhile other pending works can undergo independent source recovery without releasing Romapuri or Periyapuranaputhayal. Previous pushed checkpoint `b7e9113`.
