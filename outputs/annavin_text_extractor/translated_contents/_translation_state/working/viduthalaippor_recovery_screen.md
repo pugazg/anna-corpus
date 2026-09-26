@@ -33,3 +33,11 @@ Reopened Part 1 Images 1–3 at full-page resolution and re-OCRed those three sc
 - Image 3: restored visible `நமக்குக்`, `கொள்கையாக்கப்`, `ஊக்கமும்`, `நமது கட்சி`; removed false periods in `நாட்டை`, `மிரட்டி`, `திராவிட`, `நாட்டுக்குடை`, `கமிட்டி`, and the stray apostrophe after `காசியிலே`. The `(Dravidian League)` reading remains intact.
 
 Image 3’s `கோருகின்றனர்` still needs a close letter-level check: fresh OCR repeats it, but this is not independent confirmation. Keep its current spelling provisional rather than silently normalizing the honorific. The complete three-scan batch has been visually inspected, but Image 3 is not yet fully reconciled. Next resolve that reading and continue Part 1 Image 4; verify the `கொள்ள / வேண்டுமென்பது` page join. The remaining 30 scans have not received sequential review. No English translation or hold release. Romapuri and Periyapuranaputhayal remain on their existing holds.
+
+## Part 1 Images 4–5 — 2026-09-26
+
+Resolved Image 3’s provisional `கோருகின்றனர்` against native crop x=990–1510, y=745–815, enlarged 3×. The retained spelling is supported; no normalization to a different honorific ending.
+
+Re-OCRed Images 4–5 with tam+eng/PSM 3 and visually compared both complete pages. Corrected Image 4’s `ஆண்டவனின்`, `உப கண்டத்தில்`, two instances of `ஒன்று`, and closing full stop. Retained the scan-visible internal full stop after `நமக்கென்ன.` rather than editorially smoothing it. Corrected Image 5’s `பூகோளத்தையுங்கூட`, `தென்பீட`, `கசிந்து கிடந்த`, `ஐபீரியன்` and false periods after `பாடி`, `கோடி`, `நாலுகோடி`. Preserved all four lines of each quoted poem. The Image 5 poem has no visible closing quotation mark after `ஆடுவோமே`; retain that omission and explain it separately in final notes.
+
+Image 3→4 continues `கொள்ள / வேண்டுமென்பது`; Image 4 ends a full sentence before Image 5’s `சரிதமும் பூகோளமும்`. No missing passage detected at those joins. Images 1–5 now have sequential visual comparison and corrected source; 28 scans remain. Next Part 1 Image 6, including the transition from the geographical argument into `ஐந்து அரசுகள்`. No translation, state refresh, pending-count reduction or tests for this incomplete source checkpoint. Previous pushed checkpoint `ac03f67`.
