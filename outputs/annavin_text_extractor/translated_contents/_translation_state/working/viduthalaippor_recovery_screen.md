@@ -91,3 +91,9 @@ Image 6→7 continues `எதிரே ஒரு / திரை`; Image 7→8 co
 Re-OCRed tam+eng/PSM 3 and visually compared both full scans. Image 9 restores the opening `தமிழா!`, `கிளம்பிற்று`, two exclamations after `உழைப்பு`, both `ஆள` readings, `இலட்சியம்`, `ஒரு`; removes the scan-absent trailing Tamil mark after the question. Image 10 restores `ஒப்பிட்டுப்` and `குடிவளம்`. Confirmed the already-corrected `4 1/2 கோடி`, `142000` square miles, and all printed comparative figures (14, 27, 4, 10, 2, 3, 4, 10, 4, 14); these are retained historical claims, not recalculated figures.
 
 Image 8→9 joins `ஏமாந்ததால் / இகத்தை`; Image 9 ends the self-government introduction and Image 10 elaborates size/population/resources. Image 10 ends `சகல`, awaiting Image 11. Twenty-one of 33 scans inspected; 12 remain. Next Part 2 Image 11 and Part 3. Part 1 Image 6 adjective/footer hold remains. No translation, release, state refresh or tests. Previous pushed checkpoint `939f0af`.
+
+## Part 2 Image 11 / Part 3 Image 1 — 2026-09-26
+
+Re-OCRed both scans with tam+eng/PSM 3 and compared their full pages visually. Part 2 Image 11: removed false stops after `உடை` and `திராவிட`; restored the final four-line poem’s consecutive lineation. Preserved the printed apostrophe after `இருக்கிறது` and full stop after `ஆறுகளெல்லாம்.` as anomalies, not editorial errors to silently fix. Part 3 Image 1: restored `கீழே`, joined `அடிமையாயினர்`, restored `கொடுமை;`, removed false stops after `ஆடி` and `முடியாதபடி`.
+
+Part 2 Images 10→11 joins `சகல / சாதனங்களையும்`. Its closing poem `இதழ்ச் சேயிழையா ரொடும்` continues into Part 3’s `ஆடி இன்புற்ற நாடுதான் நம் நாடு.` Both poem boundaries remain intact. Part 3 Image 1 ends `வஞ்சகத்தால் உயர்ந்து,`, awaiting Image 2. Twenty-three of 33 scans inspected; ten remain. Next Part 3 Image 2. Part 1 Image 6 adjective/footer hold remains; Romapuri and Periyapuranaputhayal holds untouched. No translation, release, state refresh or tests. Previous pushed checkpoint `e95ce91`.
