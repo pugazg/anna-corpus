@@ -18,3 +18,16 @@ Visually inspected full PDF pages 11–13 and reopened archive Part 1 Images 2�
 | Part 1 Image 3 from `பரவிற்று` through party-renaming discussion | PDF 13 | First edition also prints `கோருகின்றனர்`. This corroborates preserving the unusual reading already checked on the archive scan, without grammatical normalization. PDF 13 ends `தென்னிந்திய திராவிடர்`; the archive continues further. |
 
 This is a bounded comparison, not a whole-work verification. No canonical change made. Next PDF 14 onward, starting with the continuation of the party name and the end of archive Part 1 Image 3, then Image 4. The Part 1 Image 6 adjective/footer hold remains.
+
+## Party name and geography — 2026-09-27
+
+Visually inspected PDF pages 14–16 (printed 13–15), reopened full archive Part 1 Images 4–5, and compared the corrected transcription.
+
+| Archive section | First-edition correspondence | Finding |
+|---|---|---|
+| Part 1 Image 3 final party-name paragraphs and Image 4 identity argument | PDF 14 | Party-name continuation and `(Dravidian League)` are intact. First edition has a comma after `நமக்கென்ன`; archive visibly has a period. Preserve archive punctuation. |
+| Part 1 Image 4 ending identity argument and `பூகோள போதனை!` section | PDF 15 | Same argument and four-line poem. First edition reads `வாழ்க்கை ஓர் விருந்தாக`; archive prints `வாழ்க்கை ஒரு விருந்தாக`. Preserve the archive variant. |
+| Part 1 Image 5 opening `சரிதமும் பூகோளமும்` | PDF 15 ending | Complete paragraph appears before the first edition’s page turn; archive boundary is different, with no missing text identified. |
+| Part 1 Image 5 physical-geography paragraph, poem, and European examples through Luxembourg | PDF 16 | Same sequence. First edition closes the quotation after `ஆடுவோமே`; archive does not visibly print a closing quotation there. Do not supply one from the alternate edition. PDF 16 ends `சிறுநாடு`, continuing the small-nations argument on the next page. |
+
+No canonical correction in this batch. Archive Image 5’s remaining small-nations/Islamic-world passage awaits comparison with PDF 17. Next PDF 17–19; PDF 18’s adjective was already separately inspected, but its surrounding dialogue and transition still need sequential comparison. All original recovery holds remain.

@@ -139,3 +139,7 @@ Inspected supplied PDF pages 1–3 in full. Title/author/publisher established: 
 ## Opening edition comparison — 2026-09-27
 
 Compared first-edition PDF pages 11–13 with archive Part 1 Images 2–3. Recorded the crosswalk in `viduthalaippor_edition_comparison.md` and saved three page renders. First-edition page 13 independently corroborates printed `கோருகின்றனர்`; no normalization needed. Matching opening poem, argument and page joins; no missing passage found in the bounded region. No canonical edits or hold release. Next PDF 14 and archive Image 4; the end of archive Image 3 extends beyond the reviewed alternate pages. Previous pushed checkpoint `b90595f`. No tests or state refresh.
+
+## Geography edition comparison — 2026-09-27
+
+Compared PDF 14–16 (printed 13–15) with archive Part 1 Image 3 ending and Images 4–5. Recorded comma/period, ஓர்/ஒரு, and poem-closing-quotation variants separately; preserved archive readings. No missing passage found in the compared region and no canonical edits. Saved three alternate-page renders. Next PDF 17–19, starting with archive Image 5’s small-nations passage. Source approval remains withheld. Previous pushed checkpoint `8aeafae`; no tests or state refresh.
