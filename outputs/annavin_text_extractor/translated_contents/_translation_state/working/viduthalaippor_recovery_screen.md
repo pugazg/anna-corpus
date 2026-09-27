@@ -178,3 +178,8 @@ Compared PDF 38–40 with Part 2 Image 7 ending, Image 8 and Image 9 in part; re
 ## திருமுகம் figures and resources — 2026-09-27
 
 Compared PDF 41–43 against Part 2 Images 9–11 in part, reopening Images 10–11. Corroborated section transition, 142000 square miles, all country multipliers and 4½ crore population; preserved edition-specific punctuation. Saved three renders. Next PDF 44–46 and Part 2→3 transition. No canonical edits, tests, release or state refresh. Previous pushed checkpoint `e0895dd`.
+
+
+## Part 2→3 verses and continuity — 2026-09-27
+
+Compared PDF 44–46 through Part 3 Image 2 opening. Verified both quoted verses and the continuous part boundary; reopened Part 3 Image 1 to confirm archive இழிவுக்குக் against alternate அழிவுக்குக். Saved three renders and retained the archive wording. Next PDF 47–49. No canonical edits, tests, release or state refresh. Previous pushed checkpoint `cbfb605`.

@@ -145,3 +145,16 @@ Visually inspected PDF pages 41–43 (printed 40–42), compared corrected Part 
 | Part 2 Image 10 natural resources and Image 11 opening/unity paragraph in part | PDF 43 | Continuous `பனி / மூடியோ` alternate-page join and `சகல / சாதனங்களையும்` archive join. Same electricity and linguistic-group argument. Archive visibly has an apostrophe-like mark after `இருக்கிறது` and full stop after `ஆறுகளெல்லாம்`; alternate has a full stop after இருக்கிறது and comma after ஆறுகளெல்லாம். Preserve archive punctuation. PDF ends `கெடுக்கக்`, with the remaining unity paragraph still to compare. |
 
 No canonical edits or missing passage identified in this bounded comparison. Next PDF 44–46, continuing Part 2 Image 11 and the Part 2→3 transition. Original adjective and collection-footer uncertainties remain held.
+
+
+## Verses and Part 2→3 continuity — 2026-09-27
+
+Visually inspected PDF pages 44–46 (printed 43–45), compared corrected Part 2 Image 11 and Part 3 Images 1–2, and reopened Part 3 Image 1 to verify the wording variant.
+
+| Archive section | First-edition correspondence | Finding |
+|---|---|---|
+| Part 2 Image 11 remaining unity paragraph and both verses, then Part 3 Image 1 opening | PDF 44 | Continues `கெடுக்கக் / கூடியன வல்ல` from PDF 43. Both four-line verses and the following prose occur in the same order. The archive part boundary after the second verse is continuous into `ஆடி இன்புற்ற நாடுதான் நம் நாடு`. Preserve the archive's verse lineation and boundaries. |
+| Part 3 Image 1 decline paragraph and Germany comparison through poisoned-lips analogy | PDF 45 | Archive visibly prints `ஒரு இனத்தின் இழிவுக்குக்`; alternate prints `ஒரு இனத்தின் அழிவுக்குக்`. Retain archive இழிவுக்குக் as an edition variant. Same sequence through the analogy; PDF ends `திராவிடநாடு,`. |
+| Part 3 Image 1 remainder and Image 2 opening through bird analogy in part | PDF 46 | Same domination imagery and merchant/servant analogy. Archive `வஞ்சகத்தால் உயர்ந்து, / உயர்ந்த நிலையிலே` join is continuous within the alternate page. PDF ends `மயிலுக்கு மந்தி நடனம் கற்றுக்`; remainder awaits PDF 47. |
+
+No canonical edits or missing passage identified in this bounded comparison. Next PDF 47–49, continuing Part 3 Image 2. The original adjective and collection-footer uncertainties remain held.
