@@ -193,3 +193,8 @@ Compared PDF 47–49 through Part 3 Image 4 opening, reopening Images 2–3. Rec
 ## Social reform and historical examples — 2026-09-27
 
 Compared PDF 50–52 with Part 3 Images 4–5, reopening both archive pages. Confirmed the continuous image join and retained அறிவுடைமையாகும், printed in both witnesses. Recorded word-order variation separately and saved three renders. Next PDF 53–55. No canonical edits, tests, release or state refresh. Previous pushed checkpoint `dfe9aab`.
+
+
+## Economic argument comparison — 2026-09-27
+
+Compared PDF 53–55 through Part 3 Image 7 in part. Reopened Image 7: confirmed archive சபலமுள்ள versus alternate சமபலமுள்ள and absence of alternate question என்ன நியாயம் இருக்கிறது? within an intact paragraph. Recorded both as edition differences without supplementation. Saved three renders. Next PDF 56–58. No canonical edits, tests, release or state refresh. Previous pushed checkpoint `19699f6`.

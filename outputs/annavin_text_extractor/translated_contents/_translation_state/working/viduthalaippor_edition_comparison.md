@@ -184,3 +184,16 @@ Visually inspected PDF pages 50–52 (printed 49–51), reopened archive Part 3 
 | Part 3 Image 5 historical examples and liberation argument in part | PDF 52 | Continues with Voltaire, then the same sequence from Rousseau through the reformers, Lincoln, Marx, Lenin, Sun Yat-sen, Kemal, Ingersoll, Shaw and the novelists. Preserve source-specific transliterations. The argument proceeds through the storm-of-revolution image; PDF ends `அதன் முன்பு, எந்தக்`. Archive Image 5's final sentences await PDF 53. |
 
 No canonical edits or missing passage identified in this bounded comparison. Next PDF 53–55, completing Image 5 and proceeding into Image 6. Original adjective/footer holds remain; no source release.
+
+
+## Economic argument and regional autonomy — 2026-09-27
+
+Visually inspected PDF pages 53–55 (printed 52–54), compared Part 3 Images 5–7 corrected text, and reopened archive Image 7 to distinguish textual differences from missing scans.
+
+| Archive section | First-edition correspondence | Finding |
+|---|---|---|
+| Part 3 Image 5 closing sentences and Image 6 economic critique | PDF 53 | Continues `எந்தக் / கொடியவனாலும்` from PDF 52. Same transition to labor, expenditure and manufacturing arguments. Archive Image 5→6 is continuous. PDF ends after the factory-owners sentence, before the spinning-wheel question. |
+| Part 3 Image 6 remaining paragraphs and Image 7 opening | PDF 54 | Same spinning-wheel question, Burma passage and proposal for autonomous divisions. Archive Image 6→7 is continuous, but archive visibly prints `சபலமுள்ள` where alternate prints `சமபலமுள்ள`. Retain the archive form as an edition variant. PDF ends in the Europe question at `நாம் யாவரும் ஒரே`. |
+| Part 3 Image 7 Europe question and liberation paragraph in part | PDF 55 | Alternate includes the additional question `என்ன நியாயம் இருக்கிறது?` after `என்ன அதிகாரம் இருக்கிறது?`; the archive scan proceeds directly to `மேலும்`. This is an edition-level omission within an intact archive paragraph, not evidence of a missing scan. Do not insert it into the canonical archive text. Both editions print that India obtained release from British imperialism. PDF ends `மனு,`, with the rest of the metaphor still to compare. |
+
+No canonical edits. Next PDF 56–58, continuing Part 3 Image 7 and the வீரர் வேண்டும் section. Original adjective/footer holds remain; source is not released.
