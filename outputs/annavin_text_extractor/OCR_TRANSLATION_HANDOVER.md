@@ -60,7 +60,7 @@ this handover after work resumes.
 
 ## Next Work
 
-Independent recovery now proceeds with விடுதலைப் போர்: All 33 images across Parts 1–3 inspected; Part 1 Image 6 adjective and printer-footer abbreviations remain unresolved. Next resolve Part 1 Image 6 readings from stronger evidence, then complete comparative source review before translation. See `working/viduthalaippor_recovery_screen.md`. Romapuri’s five gaps and two footer abbreviations still require stronger evidence; Periyapuranaputhayal hold untouched. Counts remain 886/962.
+Independent recovery now proceeds with விடுதலைப் போர்: All 33 images across Parts 1–3 inspected; Part 1 Image 6 adjective and printer-footer abbreviations remain unresolved. User-supplied TVA_BOK_0024546 PDF page 18 (printed 21) now verifies alternate reading `ஏழ்மையான`; reconcile the archive glyph before changing its text. The alternate footer differs and does not resolve the collection footer. See `working/viduthalaippor_evidence/`. Next inspect bibliographic front matter and complete source reconciliation/review before translation. See `working/viduthalaippor_recovery_screen.md`. Romapuri’s five gaps and two footer abbreviations still require stronger evidence; Periyapuranaputhayal hold untouched. Counts remain 886/962.
 
 Latest recovery: RMRL shelf mark **134257**, பேரறிஞர் அண்ணாவின் கட்டுரைகள் (பூம்புகார், 2001, 599 pages), is a possible collected-edition lead, not a verified match. No digital copy obtained. Next resume bounded review of the saved first-gap witness; all five gaps and two footer abbreviations remain held. Previous pushed checkpoint `4108516`.
 
