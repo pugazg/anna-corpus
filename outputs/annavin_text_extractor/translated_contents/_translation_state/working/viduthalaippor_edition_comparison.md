@@ -81,3 +81,15 @@ Visually inspected PDF pages 26–28 (printed 25–27) against corrected archive
 | Part 2 Image 1 ending and Image 2 opening through youth-organizing introduction | PDF 28 | Continuous soap/comb/mirror passage and `பகலிலே அது பற்றியே / பேச்சு` archive boundary. First edition supplies an opening quotation before `ஒன்று உமது`; the archive visibly omits it. Preserve the archive punctuation and explain the quotation boundary separately. PDF ends at `இருக்`, continuing the sentence about young people’s capacity. |
 
 No canonical edits. Next PDF 29–31 and remainder of Part 2 Image 2 onward. Close-check archive Part 2 Image 1 `அறிவார்கள்` against its pixels during that batch. Other recovery holds remain.
+
+## Mobilization and அந்தத் தைரியம் — 2026-09-27
+
+Visually inspected PDF pages 29–31 against archive Part 2 Images 2–4 corrected text. Reopened full archive Part 2 Image 1 and enlarged its word at native coordinates x=700–1150, y=890–960 (3× display). The archive clearly prints `அறிவார்கள்!!`; retain it as an edition variant against first-edition `அறிந்தவர்கள்!!`. Saved the crop; the previously flagged check is resolved without a canonical edit.
+
+| Archive section | First-edition correspondence | Finding |
+|---|---|---|
+| Part 2 Image 2 remainder and Image 3 opening | PDF 29 | Same call to organize youth and response to rival statements. The archive `சிறைக் / கோட்டத்துக்கும்` join is continuous within the alternate page. PDF ends at `பெரி`, continuing the reference to Periyar. |
+| Part 2 Image 3 Periyar leadership and call to action | PDF 30 | Same argument and complete conclusion before the next heading. No missing passage identified in the compared region. |
+| Part 2 Image 3 heading/quotation and Image 4 opening analysis | PDF 31 | Same அந்தத் தைரியம் heading, one-sixteenth comparison, De Valera reference, and May 28, 1945 date. Archive’s stray quote before தவறில்லை remains source-specific; no replacement from the alternate witness. PDF ends at `தமிழர் ஆட்சி என்ற`, so the rest of that sentence awaits the next page. |
+
+Next PDF 32–34, continuing Part 2 Image 4. The Part 1 adjective/footer hold remains; no canonical edits or release in this batch.

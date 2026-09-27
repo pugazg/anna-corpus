@@ -159,3 +159,7 @@ Compared PDF 23–25 with archive Part 1 Images 9 ending, 10, and 11 opening. Re
 ## Part-boundary / Shelley comparison — 2026-09-27
 
 Compared PDF 26–28 with Part 1 Image 11 ending and Part 2 Images 1–2 opening. Confirmed continuous part boundary; recorded comma/semicolon and Shelley opening-quotation variants, reopening archive Image 2. Flagged first-edition அறிந்தவர்கள் versus archive transcription அறிவார்கள் for a close archive check. No canonical change. Next PDF 29–31 plus that bounded check. Saved three renders. No tests, release or refresh. Previous pushed checkpoint `3f9effb`.
+
+## Mobilization / தைரியம் comparison — 2026-09-27
+
+Compared PDF 29–31 with Part 2 Images 2 remainder, 3, and 4 opening. Full scan plus enlarged crop positively confirms archive அறிவார்கள், resolving the newly flagged variant without editing. Corroborated the section transition and quoted May 28, 1945 date. Saved three alternate-page renders and the bounded archive crop. Next PDF 32–34 and Image 4 continuation. Original adjective/footer hold unchanged. No tests, release or state refresh. Previous pushed checkpoint `fc0a931`.
