@@ -171,3 +171,16 @@ Visually inspected PDF pages 47–49 (printed 46–48), compared corrected Part 
 | Part 3 Image 3 technology paragraph and Image 4 opening | PDF 49 | Continues `ஆரிய / மொழிப்படி`. The tools and inventions sequence agrees. Archive `மேனி / கருத்தவனை` join is continuous within the alternate page. PDF ends at `அதிகாரிகளை அடிமை கொள்ளும் அதிகாரி`, with the rest of that paragraph awaiting PDF 50. |
 
 No canonical change or missing passage identified in this bounded region. Next PDF 50–52, continuing Part 3 Image 4. The adjective and collection-footer holds remain unresolved; source is not released.
+
+
+## Social reform and historical examples — 2026-09-27
+
+Visually inspected PDF pages 50–52 (printed 49–51), reopened archive Part 3 Images 4–5 and compared their corrected text.
+
+| Archive section | First-edition correspondence | Finding |
+|---|---|---|
+| Part 3 Image 4 social contrasts and nationalism paragraph opening | PDF 50 | Continues `அதிகாரி / யாய்` from PDF 49. Same contrasts and sequence of questions. Archive prints `இந்த நிலை போக என்ன வழி`; alternate prints `இந்த நிலை போக வழி என்ன`. Preserve archive word order. PDF ends mid-word `இருப்`; footer `729—4` belongs to this alternate edition. |
+| Part 3 Image 4 nationalism paragraph and Image 5 opening through Galileo/Voltaire introduction | PDF 51 | Continues `இருப் / பதனால்`. Both witnesses print `அறிவுடைமையாகும்`; do not change this potentially surprising assertion from context. Same damaged-cart and rubbish-heap analogies, continuous across archive `தப்பித் தவறி / ஓடினாலும்`. PDF ends `வைதிகத்தின் மடமையை வாட்டினார்`, before Voltaire's name. |
+| Part 3 Image 5 historical examples and liberation argument in part | PDF 52 | Continues with Voltaire, then the same sequence from Rousseau through the reformers, Lincoln, Marx, Lenin, Sun Yat-sen, Kemal, Ingersoll, Shaw and the novelists. Preserve source-specific transliterations. The argument proceeds through the storm-of-revolution image; PDF ends `அதன் முன்பு, எந்தக்`. Archive Image 5's final sentences await PDF 53. |
+
+No canonical edits or missing passage identified in this bounded comparison. Next PDF 53–55, completing Image 5 and proceeding into Image 6. Original adjective/footer holds remain; no source release.

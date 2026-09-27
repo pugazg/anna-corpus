@@ -188,3 +188,8 @@ Compared PDF 44–46 through Part 3 Image 2 opening. Verified both quoted verses
 ## Social contrasts comparison — 2026-09-27
 
 Compared PDF 47–49 through Part 3 Image 4 opening, reopening Images 2–3. Recorded கூட்டிவாழும் / கட்டிவாழும், வீணருக்கு / வீணருக்கே, and கற்றக் / கற்றுக் edition variants without altering archive Tamil. Saved three renders. Next PDF 50–52. No canonical edits, tests, release or state refresh. Previous pushed checkpoint `27502a9`.
+
+
+## Social reform and historical examples — 2026-09-27
+
+Compared PDF 50–52 with Part 3 Images 4–5, reopening both archive pages. Confirmed the continuous image join and retained அறிவுடைமையாகும், printed in both witnesses. Recorded word-order variation separately and saved three renders. Next PDF 53–55. No canonical edits, tests, release or state refresh. Previous pushed checkpoint `dfe9aab`.
