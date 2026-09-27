@@ -135,3 +135,7 @@ User supplied the 64-page TVA_BOK_0024546 PDF. Full visual inspection of PDF pag
 ## First-edition identity verified — 2026-09-27
 
 Inspected supplied PDF pages 1–3 in full. Title/author/publisher established: விடுதலைப்போர், C. N. Annadurai, M.A.; திராவிடப் பண்ணை, தெப்பக்குளம், திருச்சி. Page 3 explicitly states first edition August 1947. Saved all three rendered pages in evidence. Preserve archive date 9-12-1945 separately; do not silently reconcile the discrepancy. Rechecked archive Image 6 bottom crop; no new character-level resolution or footer evidence. Next advance comparative source review and record edition variants, seeking the collection edition for its footer. No state refresh, translation release or tests. Previous pushed checkpoint `ec2ed68`.
+
+## Opening edition comparison — 2026-09-27
+
+Compared first-edition PDF pages 11–13 with archive Part 1 Images 2–3. Recorded the crosswalk in `viduthalaippor_edition_comparison.md` and saved three page renders. First-edition page 13 independently corroborates printed `கோருகின்றனர்`; no normalization needed. Matching opening poem, argument and page joins; no missing passage found in the bounded region. No canonical edits or hold release. Next PDF 14 and archive Image 4; the end of archive Image 3 extends beyond the reviewed alternate pages. Previous pushed checkpoint `b90595f`. No tests or state refresh.
