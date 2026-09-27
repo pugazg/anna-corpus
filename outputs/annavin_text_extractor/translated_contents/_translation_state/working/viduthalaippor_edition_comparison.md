@@ -57,3 +57,15 @@ Visually inspected PDF pages 20–22 (printed 19–21), reopened archive Part 1 
 | Part 1 Image 9 opening through proposed central government | PDF 22 | Same ஆதிபாசி/ஆதிவாசி explanation and five numbered divisions, including the abbreviated `ம. மாகாணம்`. No inferred expansion added to Tamil. PDF ends at `நாணய`, with the rest of the central-government sentence still to compare. |
 
 No missing passage identified in the compared region, and no canonical change. Next PDF 23–25, beginning with `நாணய` continuation and the remaining archive Image 9. The adjective and collection-footer uncertainties remain held.
+
+## Federal proposal and new section — 2026-09-27
+
+Visually inspected PDF pages 23–25 and reopened archive Part 1 Image 10. Compared against archive Images 9–11 corrected text; Image 11 still requires completion of its alternate-edition comparison on later pages.
+
+| Archive section | First-edition correspondence | Finding |
+|---|---|---|
+| Part 1 Image 9 central-government sentence and concluding paragraph, then Image 10 opening | PDF 23 | `நாணய / வாரி` continues across the first-edition page turn. Same New Zealand/Australia/South Africa examples and fifty-six governments argument. The archive Image 9→10 boundary is continuous. |
+| Part 1 Image 10 remaining argument | PDF 24 | Same Pakistan quotation, tulasi anecdote, and territorial demand. The archive’s full stops after `முனிவர்` and `உள் நாடு` differ from the alternate edition; preserve archive punctuation. Both versions end the section with the territorial demand before the new heading. |
+| Part 1 Image 11 opening | PDF 25 | Same `திராவிடர் கழகம்` heading and argument about titles, positions, and a liberation army. PDF page ends mid-word at `பெய`, corresponding to archive `என்ற பெயரைத் தாங்குவதா?`; comparison of that sentence continues next page. |
+
+No missing passage identified in this bounded comparison; no canonical edit. Next PDF 26–28, completing archive Part 1 Image 11 and comparing the transition into Part 2. Recovery holds remain.

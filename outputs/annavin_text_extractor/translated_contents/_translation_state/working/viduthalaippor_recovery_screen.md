@@ -151,3 +151,7 @@ Compared PDF 17–19, including the geography-to-dialogue transition and archive
 ## Figures and divisions comparison — 2026-09-27
 
 Compared PDF 20–22 with archive Image 7 ending and Images 8–9; reopened Images 8–9 in full. Verified agreement of 56/44 percentages, five Bengali/two European directors, and the numbered five-state proposal. Recorded punctuation variant separately. No canonical change. Next PDF 23–25, starting with the central-government sentence continuing after நாணய. Saved three evidence renders. Holds remain; no tests, release or refresh. Previous pushed checkpoint `59f95ee`.
+
+## Federal proposal / கழகம் comparison — 2026-09-27
+
+Compared PDF 23–25 with archive Part 1 Images 9 ending, 10, and 11 opening. Reopened Image 10 to confirm source-specific internal full stops; preserved them despite alternate-edition punctuation. Verified the new-section transition and recorded the first-edition mid-word endpoint. Saved three renders. Next PDF 26–28, completing Image 11 and the Part 1→2 boundary. No canonical edit, release, refresh or tests. Previous pushed checkpoint `31100c6`.
