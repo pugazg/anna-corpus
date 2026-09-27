@@ -155,3 +155,7 @@ Compared PDF 20–22 with archive Image 7 ending and Images 8–9; reopened Imag
 ## Federal proposal / கழகம் comparison — 2026-09-27
 
 Compared PDF 23–25 with archive Part 1 Images 9 ending, 10, and 11 opening. Reopened Image 10 to confirm source-specific internal full stops; preserved them despite alternate-edition punctuation. Verified the new-section transition and recorded the first-edition mid-word endpoint. Saved three renders. Next PDF 26–28, completing Image 11 and the Part 1→2 boundary. No canonical edit, release, refresh or tests. Previous pushed checkpoint `31100c6`.
+
+## Part-boundary / Shelley comparison — 2026-09-27
+
+Compared PDF 26–28 with Part 1 Image 11 ending and Part 2 Images 1–2 opening. Confirmed continuous part boundary; recorded comma/semicolon and Shelley opening-quotation variants, reopening archive Image 2. Flagged first-edition அறிந்தவர்கள் versus archive transcription அறிவார்கள் for a close archive check. No canonical change. Next PDF 29–31 plus that bounded check. Saved three renders. No tests, release or refresh. Previous pushed checkpoint `3f9effb`.

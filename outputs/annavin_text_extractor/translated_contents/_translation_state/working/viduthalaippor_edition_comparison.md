@@ -69,3 +69,15 @@ Visually inspected PDF pages 23–25 and reopened archive Part 1 Image 10. Compa
 | Part 1 Image 11 opening | PDF 25 | Same `திராவிடர் கழகம்` heading and argument about titles, positions, and a liberation army. PDF page ends mid-word at `பெய`, corresponding to archive `என்ற பெயரைத் தாங்குவதா?`; comparison of that sentence continues next page. |
 
 No missing passage identified in this bounded comparison; no canonical edit. Next PDF 26–28, completing archive Part 1 Image 11 and comparing the transition into Part 2. Recovery holds remain.
+
+## Part 1–2 continuity and Shelley quotation — 2026-09-27
+
+Visually inspected PDF pages 26–28 (printed 25–27) against corrected archive Part 1 Image 11 and Part 2 Images 1–2; reopened Part 2 Image 2 in full to check quotation punctuation.
+
+| Archive section | First-edition correspondence | Finding |
+|---|---|---|
+| Part 1 Image 11 ending and Part 2 Image 1 first paragraph | PDF 26 | Continuous argument across the archive `ஆரியர்களால் / அவமதிக்கப்பட்டு` part boundary. First edition uses comma after அவமதிக்கப்பட்டு; archive semicolon remains. |
+| Part 2 Image 1 middle paragraph | PDF 27 | Same contrast between ceremonial politicians and workers, followed by the sequence of Tamil achievements. First edition prints `அறிந்தவர்கள்`; archive transcription has `அறிவார்கள்`, previously inspected. Record as a variant requiring archive close-check before any correction, not an automatic substitution. PDF ends after `சோப்பும் சீப்பும்`. |
+| Part 2 Image 1 ending and Image 2 opening through youth-organizing introduction | PDF 28 | Continuous soap/comb/mirror passage and `பகலிலே அது பற்றியே / பேச்சு` archive boundary. First edition supplies an opening quotation before `ஒன்று உமது`; the archive visibly omits it. Preserve the archive punctuation and explain the quotation boundary separately. PDF ends at `இருக்`, continuing the sentence about young people’s capacity. |
+
+No canonical edits. Next PDF 29–31 and remainder of Part 2 Image 2 onward. Close-check archive Part 2 Image 1 `அறிவார்கள்` against its pixels during that batch. Other recovery holds remain.
