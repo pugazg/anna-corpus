@@ -131,3 +131,7 @@ Image 9→10 joins `சீமான்களின் தோழமை / யை�
 ## Alternate witness obtained — 2026-09-27
 
 User supplied the 64-page TVA_BOK_0024546 PDF. Full visual inspection of PDF page 18 (printed 21) confirms `மிக்க ஏழ்மையான மாகாணம்.` in the matching ஐந்து அரசுகள் dialogue. Saved rendered evidence and PDF checksum in `viduthalaippor_evidence/`. This is a verified alternate reading, not proof that the archive’s unclear glyph prints the same character. Canonical text remains unchanged pending direct reconciliation. The alternate footer `729—2` cannot resolve the collection-specific archive footer. Next inspect the PDF front matter and compare archive glyphs, then comparative source review. No translation, state refresh, completion release or tests. Previous pushed checkpoint `b00219a`.
+
+## First-edition identity verified — 2026-09-27
+
+Inspected supplied PDF pages 1–3 in full. Title/author/publisher established: விடுதலைப்போர், C. N. Annadurai, M.A.; திராவிடப் பண்ணை, தெப்பக்குளம், திருச்சி. Page 3 explicitly states first edition August 1947. Saved all three rendered pages in evidence. Preserve archive date 9-12-1945 separately; do not silently reconcile the discrepancy. Rechecked archive Image 6 bottom crop; no new character-level resolution or footer evidence. Next advance comparative source review and record edition variants, seeking the collection edition for its footer. No state refresh, translation release or tests. Previous pushed checkpoint `ec2ed68`.
