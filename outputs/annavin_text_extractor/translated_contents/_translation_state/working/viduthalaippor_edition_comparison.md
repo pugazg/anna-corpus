@@ -93,3 +93,16 @@ Visually inspected PDF pages 29–31 against archive Part 2 Images 2–4 correct
 | Part 2 Image 3 heading/quotation and Image 4 opening analysis | PDF 31 | Same அந்தத் தைரியம் heading, one-sixteenth comparison, De Valera reference, and May 28, 1945 date. Archive’s stray quote before தவறில்லை remains source-specific; no replacement from the alternate witness. PDF ends at `தமிழர் ஆட்சி என்ற`, so the rest of that sentence awaits the next page. |
 
 Next PDF 32–34, continuing Part 2 Image 4. The Part 1 adjective/footer hold remains; no canonical edits or release in this batch.
+
+
+## Tamil identity and Periyar portrait — 2026-09-27
+
+Visually inspected PDF pages 32–34 (printed 31–33) against the corrected Part 2 Images 4–6 text; reopened archive Image 5 to verify the edition-specific readings.
+
+| Archive section | First-edition correspondence | Finding |
+|---|---|---|
+| Part 2 Image 4 argument about Tamil rule and identity | PDF 32 | Continues `தமிழர் ஆட்சி என்ற / பிரச்சனையை` from PDF 31. The language and identity argument follows the same sequence; page ends `ஜாதியால் மதத்தால்`. |
+| Part 2 Image 4 ending and Image 5 portrait | PDF 33 | Continues `பேதப்பட்டுக் கிடக்கும் தமிழர்!` and the portrait through the paragraph ending `போதாதெனில்`. No missing passage identified in this bounded comparison. |
+| Part 2 Image 5 conclusion and Image 6 opening | PDF 34 | Alternate prints `பெரியார்` and `நாயக்கருக்குத்`; archive visibly has `பெரியர்` and `நாயக்கருக்கத்`. Preserve the archive readings as edition variants. The argument continues across the archive boundary into the Tamil/English newspapers sentence. PDF ends mid-word at `போக்`; its footer is `729—3`, from this separate edition. |
+
+No canonical changes or hold release. Next PDF 35–37, continuing Part 2 Image 6. The Part 1 Image 6 adjective and collection-footer abbreviations remain unresolved; English translation has not begun.
