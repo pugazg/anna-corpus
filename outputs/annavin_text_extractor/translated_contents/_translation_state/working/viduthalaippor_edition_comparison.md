@@ -45,3 +45,15 @@ Visually inspected PDF pages 17–19 and reopened archive Part 1 Image 7. Archiv
 Use PDF index 18 to identify the dialogue page reliably: its faint upper-right mark was previously described as printed 21, but adjacent pages visibly carry 16 and 18. That mark’s status as printed pagination is unverified. Do not infer missing pages solely from it; the prose transition is continuous.
 
 Next PDF 20–22, continuing archive Part 1 Images 7–8. No canonical edits or hold release in this batch.
+
+## Population, directors and five states — 2026-09-27
+
+Visually inspected PDF pages 20–22 (printed 19–21), reopened archive Part 1 Images 8–9, and compared the corrected transcription, including Image 7’s previously inspected ending.
+
+| Archive section | First-edition correspondence | Finding |
+|---|---|---|
+| Part 1 Image 7 ending and Image 8 dialogue ending | PDF 20 | The Gandhi reference continues from PDF 19; both witnesses give 56% Muslim and 44% Hindu. The archive `இந்து / ஆதிக்கம்` join falls within this page’s paragraph. Both witnesses retain the Chittagong claims as authorial content; no historical rewriting. |
+| Part 1 Image 8 narration and regional examples | PDF 21 | Same Punjab, Assam and Vidarbha sequence. Five Bengali and two European directors agree. The `சிந்து எல்லைப்புறம் தவிர` parenthesis agrees. First edition has an exclamation after `இப்படியா இருக்கிறது` on the preceding page’s dialogue question; the archive has a period. Preserve the archive punctuation. |
+| Part 1 Image 9 opening through proposed central government | PDF 22 | Same ஆதிபாசி/ஆதிவாசி explanation and five numbered divisions, including the abbreviated `ம. மாகாணம்`. No inferred expansion added to Tamil. PDF ends at `நாணய`, with the rest of the central-government sentence still to compare. |
+
+No missing passage identified in the compared region, and no canonical change. Next PDF 23–25, beginning with `நாணய` continuation and the remaining archive Image 9. The adjective and collection-footer uncertainties remain held.

@@ -147,3 +147,7 @@ Compared PDF 14–16 (printed 13–15) with archive Part 1 Image 3 ending and Im
 ## Dialogue edition comparison — 2026-09-27
 
 Compared PDF 17–19, including the geography-to-dialogue transition and archive Image 6→7 join. No missing passage identified in this bounded region. Recorded question-mark/full-stop variant after கிடைத்திருக்க முடியும்; preserved archive punctuation. Qualified the earlier identification of the faint mark on PDF 18 as printed page 21: its pagination status is unverified; use PDF index 18. Next PDF 20–22 and remaining archive Image 7/Image 8 discussion. No canonical edit, release, refresh or tests. Previous pushed checkpoint `b5cd4e1`.
+
+## Figures and divisions comparison — 2026-09-27
+
+Compared PDF 20–22 with archive Image 7 ending and Images 8–9; reopened Images 8–9 in full. Verified agreement of 56/44 percentages, five Bengali/two European directors, and the numbered five-state proposal. Recorded punctuation variant separately. No canonical change. Next PDF 23–25, starting with the central-government sentence continuing after நாணய. Saved three evidence renders. Holds remain; no tests, release or refresh. Previous pushed checkpoint `59f95ee`.
