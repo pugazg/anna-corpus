@@ -173,3 +173,8 @@ PDF 32–34 comparison was saved and pushed in `33660e7`. Now compared PDF 35–
 ## Self-rule comparison — 2026-09-27
 
 Compared PDF 38–40 with Part 2 Image 7 ending, Image 8 and Image 9 in part; reopened Images 8–9. Confirmed both archive page joins and recorded ஏடுதூக்கியதாக / ஏடுதாங்கியாக as an edition variant, retaining the archive. Saved three renders. Next PDF 41–43, continuing Image 9 into திருமுகம். No canonical changes, release, state refresh or tests. Previous pushed checkpoint `42687e8`.
+
+
+## திருமுகம் figures and resources — 2026-09-27
+
+Compared PDF 41–43 against Part 2 Images 9–11 in part, reopening Images 10–11. Corroborated section transition, 142000 square miles, all country multipliers and 4½ crore population; preserved edition-specific punctuation. Saved three renders. Next PDF 44–46 and Part 2→3 transition. No canonical edits, tests, release or state refresh. Previous pushed checkpoint `e0895dd`.

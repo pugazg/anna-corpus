@@ -132,3 +132,16 @@ Visually inspected PDF pages 38–40 (printed 37–39) and reopened archive Part
 | Part 2 Image 8 ending and Image 9 first two paragraphs in part | PDF 40 | Same `இகம்பரம்` passage and appeal to Tamil identity. The archive `ஏமாந்ததால் / இகத்தை` boundary is continuous within the alternate page. Both give the Ireland comparison and the critique of hesitant politicians. PDF ends after the question about Aryan rule and `பயப்படுகின்றனர்;`; the rest of the archive paragraph awaits PDF 41. |
 
 No missing passage identified in this bounded region; no canonical edit. Next PDF 41–43, continuing Image 9 and the திருமுகம் section. The adjective and collection-footer holds remain unresolved.
+
+
+## திருமுகம்: territory, population and resources — 2026-09-27
+
+Visually inspected PDF pages 41–43 (printed 40–42), compared corrected Part 2 Images 9–11, and reopened archive Images 10–11.
+
+| Archive section | First-edition correspondence | Finding |
+|---|---|---|
+| Part 2 Image 9 conclusion and திருமுகம் opening, then Image 10 opening | PDF 41 | Same conclusion of அந்தத் தைரியம் and new section. Archive Image 9→10 is continuous. Both witnesses print the territorial figure 142000; the alternate page ends at that number and carries the units onto PDF 42. |
+| Part 2 Image 10 country comparisons and population paragraph | PDF 42 | All listed multipliers agree: 14 Albania, 27 Ulster, 4 Austria, 10 Belgium, 2 Czechoslovakia, 3 Greece, 4 Ireland, 10 Holland, 4 Portugal, 14 Palestine. Both give 4½ crore population. These are retained authorial claims, not present-day geographical verification. PDF ends `பனி`. |
+| Part 2 Image 10 natural resources and Image 11 opening/unity paragraph in part | PDF 43 | Continuous `பனி / மூடியோ` alternate-page join and `சகல / சாதனங்களையும்` archive join. Same electricity and linguistic-group argument. Archive visibly has an apostrophe-like mark after `இருக்கிறது` and full stop after `ஆறுகளெல்லாம்`; alternate has a full stop after இருக்கிறது and comma after ஆறுகளெல்லாம். Preserve archive punctuation. PDF ends `கெடுக்கக்`, with the remaining unity paragraph still to compare. |
+
+No canonical edits or missing passage identified in this bounded comparison. Next PDF 44–46, continuing Part 2 Image 11 and the Part 2→3 transition. Original adjective and collection-footer uncertainties remain held.
