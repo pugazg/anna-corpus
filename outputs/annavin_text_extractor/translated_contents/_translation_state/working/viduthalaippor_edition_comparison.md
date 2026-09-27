@@ -197,3 +197,16 @@ Visually inspected PDF pages 53–55 (printed 52–54), compared Part 3 Images 5
 | Part 3 Image 7 Europe question and liberation paragraph in part | PDF 55 | Alternate includes the additional question `என்ன நியாயம் இருக்கிறது?` after `என்ன அதிகாரம் இருக்கிறது?`; the archive scan proceeds directly to `மேலும்`. This is an edition-level omission within an intact archive paragraph, not evidence of a missing scan. Do not insert it into the canonical archive text. Both editions print that India obtained release from British imperialism. PDF ends `மனு,`, with the rest of the metaphor still to compare. |
 
 No canonical edits. Next PDF 56–58, continuing Part 3 Image 7 and the வீரர் வேண்டும் section. Original adjective/footer holds remain; source is not released.
+
+
+## வீரர் வேண்டும் transition and obstructed witness — 2026-09-27
+
+Visually inspected PDF pages 56–58, compared Part 3 Images 7–9 corrected text, and reopened archive Image 8. PDF 57 has a white strip obscuring the right ends of many lines; obscured characters are not verified from this witness.
+
+| Archive section | First-edition correspondence | Finding |
+|---|---|---|
+| Part 3 Image 7 conclusion and Image 8 opening | PDF 56 (printed 55) | Continues the Manu/Marwar metaphor from PDF 55. Same final appeal and continuous archive Image 7→8 boundary. Archive has a question mark after `முரசு கொட்டுக`; alternate has an exclamation mark. Preserve archive punctuation. |
+| Part 3 Image 8 வீரர் வேண்டும் heading and opening paragraph in part | PDF 57 | Heading and opening arguments match, but the witness is partially obstructed. Visible alternate wording includes `வேறு எதையோ பேசுகிறார்கள்` and `பட்டம் பதவியை எண்ணிக்கொண்டு`, absent from the intact archive passage after எதையோ எண்ணிக்கொண்டு. Record as edition differences; do not supplement archive text or infer obscured line endings. |
+| Part 3 Image 8 paragraph conclusion and Image 9 opening critique | PDF 58 (printed 57) | Begins `கொண்டுள்ளவர்களின் வஞ்சக வலையிலே`, continuing the preceding page's visible ending. Same equality argument and critique of political opportunism. Archive `ஒரு துளியும் / கவலைப்படாமல்` join is continuous within the alternate page. PDF ends `அரசியலைப்பற்றியும் அவர்கட்கு அக்கரை`; remainder awaits PDF 59. |
+
+No canonical edits. Comparison coverage for PDF 57 is explicitly limited to visible text, not a full-page corroboration. Next PDF 59–61, continuing Part 3 Image 9. Original adjective/footer holds remain; no source release.

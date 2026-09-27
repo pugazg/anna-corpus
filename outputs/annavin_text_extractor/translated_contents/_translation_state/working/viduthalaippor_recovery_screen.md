@@ -198,3 +198,8 @@ Compared PDF 50–52 with Part 3 Images 4–5, reopening both archive pages. Con
 ## Economic argument comparison — 2026-09-27
 
 Compared PDF 53–55 through Part 3 Image 7 in part. Reopened Image 7: confirmed archive சபலமுள்ள versus alternate சமபலமுள்ள and absence of alternate question என்ன நியாயம் இருக்கிறது? within an intact paragraph. Recorded both as edition differences without supplementation. Saved three renders. Next PDF 56–58. No canonical edits, tests, release or state refresh. Previous pushed checkpoint `19699f6`.
+
+
+## வீரர் வேண்டும் alternate-witness limitation — 2026-09-27
+
+Confirmed interrupted checkpoint `9be189b` on origin/main by remote ref. Inspected PDF 56–58 and reopened archive Image 8. PDF 57 has obstructed right line endings: only visible text compared, with extra alternate wording recorded separately. Confirmed section transition and next archive join. Saved three renders. Next PDF 59–61. No canonical edits, tests, release or state refresh; original holds remain.
