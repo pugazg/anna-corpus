@@ -158,3 +158,16 @@ Visually inspected PDF pages 44–46 (printed 43–45), compared corrected Part 
 | Part 3 Image 1 remainder and Image 2 opening through bird analogy in part | PDF 46 | Same domination imagery and merchant/servant analogy. Archive `வஞ்சகத்தால் உயர்ந்து, / உயர்ந்த நிலையிலே` join is continuous within the alternate page. PDF ends `மயிலுக்கு மந்தி நடனம் கற்றுக்`; remainder awaits PDF 47. |
 
 No canonical edits or missing passage identified in this bounded comparison. Next PDF 47–49, continuing Part 3 Image 2. The original adjective and collection-footer uncertainties remain held.
+
+
+## Religious and social contrasts — 2026-09-27
+
+Visually inspected PDF pages 47–49 (printed 46–48), compared corrected Part 3 Images 2–4 in part, and reopened archive Images 2–3.
+
+| Archive section | First-edition correspondence | Finding |
+|---|---|---|
+| Part 3 Image 2 bird analogy continuation, religious critique and equality paragraph in part | PDF 47 | Continues `கற்றுக் / கொடுக்கிறது` from PDF 46. Same sequence of arguments. Archive visibly prints `கடவுட் கூட்டத்தைக் கூட்டிவாழும்`; alternate prints `கடவுட் கூட்டத்தைக் கட்டிவாழும்`. Preserve the archive wording. PDF ends `உறுதிப்பட`. |
+| Part 3 Image 2 ending and Image 3 comparisons through classical deities | PDF 48 | Continues `உறுதிப்பட / வும்`. The quoted thirty-three-crore comparison and succession of contrasts agree. Archive prints `வீணருக்கு இடம்`; alternate has `வீணருக்கே இடம்`. Archive's `கற்றக் கொண்டவைகள்` also differs from alternate `கற்றுக் கொண்டவைகள்`; retain the visibly printed archive form. PDF ends `இங்கு ஆரிய`. |
+| Part 3 Image 3 technology paragraph and Image 4 opening | PDF 49 | Continues `ஆரிய / மொழிப்படி`. The tools and inventions sequence agrees. Archive `மேனி / கருத்தவனை` join is continuous within the alternate page. PDF ends at `அதிகாரிகளை அடிமை கொள்ளும் அதிகாரி`, with the rest of that paragraph awaiting PDF 50. |
+
+No canonical change or missing passage identified in this bounded region. Next PDF 50–52, continuing Part 3 Image 4. The adjective and collection-footer holds remain unresolved; source is not released.

@@ -183,3 +183,8 @@ Compared PDF 41–43 against Part 2 Images 9–11 in part, reopening Images 10�
 ## Part 2→3 verses and continuity — 2026-09-27
 
 Compared PDF 44–46 through Part 3 Image 2 opening. Verified both quoted verses and the continuous part boundary; reopened Part 3 Image 1 to confirm archive இழிவுக்குக் against alternate அழிவுக்குக். Saved three renders and retained the archive wording. Next PDF 47–49. No canonical edits, tests, release or state refresh. Previous pushed checkpoint `cbfb605`.
+
+
+## Social contrasts comparison — 2026-09-27
+
+Compared PDF 47–49 through Part 3 Image 4 opening, reopening Images 2–3. Recorded கூட்டிவாழும் / கட்டிவாழும், வீணருக்கு / வீணருக்கே, and கற்றக் / கற்றுக் edition variants without altering archive Tamil. Saved three renders. Next PDF 50–52. No canonical edits, tests, release or state refresh. Previous pushed checkpoint `27502a9`.
