@@ -143,3 +143,7 @@ Compared first-edition PDF pages 11–13 with archive Part 1 Images 2–3. Recor
 ## Geography edition comparison — 2026-09-27
 
 Compared PDF 14–16 (printed 13–15) with archive Part 1 Image 3 ending and Images 4–5. Recorded comma/period, ஓர்/ஒரு, and poem-closing-quotation variants separately; preserved archive readings. No missing passage found in the compared region and no canonical edits. Saved three alternate-page renders. Next PDF 17–19, starting with archive Image 5’s small-nations passage. Source approval remains withheld. Previous pushed checkpoint `8aeafae`; no tests or state refresh.
+
+## Dialogue edition comparison — 2026-09-27
+
+Compared PDF 17–19, including the geography-to-dialogue transition and archive Image 6→7 join. No missing passage identified in this bounded region. Recorded question-mark/full-stop variant after கிடைத்திருக்க முடியும்; preserved archive punctuation. Qualified the earlier identification of the faint mark on PDF 18 as printed page 21: its pagination status is unverified; use PDF index 18. Next PDF 20–22 and remaining archive Image 7/Image 8 discussion. No canonical edit, release, refresh or tests. Previous pushed checkpoint `b5cd4e1`.

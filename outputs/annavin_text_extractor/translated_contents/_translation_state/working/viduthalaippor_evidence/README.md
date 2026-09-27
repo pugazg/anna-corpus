@@ -4,7 +4,7 @@ User supplied 2026-09-27: `/Users/pugazhendhirajendran/Downloads/TVA_BOK_0024546
 PDF: 64 pages, 13,061,667 bytes; SHA-256 `b3e7fafedd3cd638828e2d79992f5c8c5b317c26223674488337dd06a85b0ef5`.
 Library identifier: TVA_BOK_0024546. Publication verified directly from PDF pages 1–3: cover and title page name C. N. Annadurai, M.A.; title page gives திராவிடப் பண்ணை, தெப்பக்குளம், திருச்சி. Page 3 prints முதற்பதிப்பு ஆகஸ்ட், 1947 and price ரூ. 1-0-0. Saved full-page renders tva_1947_pdf01.png through tva_1947_pdf03.png.
 
-`tva_1947_pdf18_printed21.png` is a 2200-pixel rendering of PDF page 18, printed page 21. Visually inspected the full page. The ஐந்து அரசுகள் dialogue corresponds to archive Part 1 Image 6 and continues beyond its boundary. The alternate witness clearly prints `மிக்க ஏழ்மையான மாகாணம்.` Its footer is `729—2`, not the archive collection’s `14 … :470`.
+`tva_1947_pdf18_printed21.png` is a 2200-pixel rendering of PDF page 18. Its faint upper-right mark resembles 21, but its pagination status is unverified (adjacent pages carry 16 and 18). Visually inspected the full page. The ஐந்து அரசுகள் dialogue corresponds to archive Part 1 Image 6 and continues beyond its boundary. The alternate witness clearly prints `மிக்க ஏழ்மையான மாகாணம்.` Its footer is `729—2`, not the archive collection’s `14 … :470`.
 
 This verifies an alternate-edition reading, not the unclear first character of the archive scan. No silent replacement of the archive transcription has been made. Next compare the archive character at native resolution with same-edition letter forms and document any edition variant explicitly. The collection-specific footer remains unresolved.
 

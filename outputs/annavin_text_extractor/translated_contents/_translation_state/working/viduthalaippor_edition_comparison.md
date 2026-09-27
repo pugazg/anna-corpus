@@ -31,3 +31,17 @@ Visually inspected PDF pages 14–16 (printed 13–15), reopened full archive Pa
 | Part 1 Image 5 physical-geography paragraph, poem, and European examples through Luxembourg | PDF 16 | Same sequence. First edition closes the quotation after `ஆடுவோமே`; archive does not visibly print a closing quotation there. Do not supply one from the alternate edition. PDF 16 ends `சிறுநாடு`, continuing the small-nations argument on the next page. |
 
 No canonical correction in this batch. Archive Image 5’s remaining small-nations/Islamic-world passage awaits comparison with PDF 17. Next PDF 17–19; PDF 18’s adjective was already separately inspected, but its surrounding dialogue and transition still need sequential comparison. All original recovery holds remain.
+
+## Geography-to-dialogue transition — 2026-09-27
+
+Visually inspected PDF pages 17–19 and reopened archive Part 1 Image 7. Archive Image 6 was previously inspected in full and at native-resolution bottom crop; its outstanding readings remain held.
+
+| Archive section | First-edition correspondence | Finding |
+|---|---|---|
+| Part 1 Image 5 ending small-nations argument and Image 6 opening geography paragraphs | PDF 17 | Same sequence, including Suez and Ulster examples. First edition prints a question mark after `கிடைத்திருக்க முடியும்`; archive has a full stop. Preserve archive punctuation. |
+| Part 1 Image 6 `ஐந்து அரசுகள்` dialogue through Image 7 opening resource sentence | PDF 18 | Complete dialogue sequence agrees. The already-recorded alternate `ஏழ்மையான` and collection-footer hold remain separate. `அதனால் / பல தொல்லை` is continuous across the archive boundary; the first edition prints it within one paragraph. |
+| Part 1 Image 7 Jamshedpur discussion through initial Subhas Chandra Bose answer | PDF 19 | Matching speakers and argument through `அப்போது அவர் காந்தி…`; first-edition page ends mid-word. No missing passage identified in this bounded region. The subsequent Gandhi/Bose and percentage discussion awaits PDF 20. |
+
+Use PDF index 18 to identify the dialogue page reliably: its faint upper-right mark was previously described as printed 21, but adjacent pages visibly carry 16 and 18. That mark’s status as printed pagination is unverified. Do not infer missing pages solely from it; the prose transition is continuous.
+
+Next PDF 20–22, continuing archive Part 1 Images 7–8. No canonical edits or hold release in this batch.
