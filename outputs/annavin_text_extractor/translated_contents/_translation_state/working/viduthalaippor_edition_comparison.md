@@ -106,3 +106,16 @@ Visually inspected PDF pages 32–34 (printed 31–33) against the corrected Par
 | Part 2 Image 5 conclusion and Image 6 opening | PDF 34 | Alternate prints `பெரியார்` and `நாயக்கருக்குத்`; archive visibly has `பெரியர்` and `நாயக்கருக்கத்`. Preserve the archive readings as edition variants. The argument continues across the archive boundary into the Tamil/English newspapers sentence. PDF ends mid-word at `போக்`; its footer is `729—3`, from this separate edition. |
 
 No canonical changes or hold release. Next PDF 35–37, continuing Part 2 Image 6. The Part 1 Image 6 adjective and collection-footer abbreviations remain unresolved; English translation has not begun.
+
+
+## The artist and worker analogy — 2026-09-27
+
+Visually inspected PDF pages 35–37 (printed 34–36), reopened archive Part 2 Images 6–7, and compared their corrected Tamil.
+
+| Archive section | First-edition correspondence | Finding |
+|---|---|---|
+| Part 2 Image 6 Periyar portrait and subsequent question | PDF 35 | Continues PDF 34's `போக் / கினரின்` without a gap. Same sequence of rejected privileges and eight imprisonments. The alternate places exclamation marks inside both government-expense parentheses; the archive omits them. Preserve archive punctuation. PDF ends `செய்யமுடி`. |
+| Part 2 Image 6 analogy and Image 7 opening | PDF 36 | The question continues `செய்யமுடி / யும்`; the artist/worker/musician analogy and painted-scene list agree. The archive `ஒரு / திரை` scan boundary is continuous within the alternate page. PDF ends `காண`. |
+| Part 2 Image 7 worker and musician examples and explanation | PDF 37 | Continues `காண / கிறான்`, with the same pearl, fragrance, instrument and hidden-gold examples. Archive has `இதனால் அது ஆகுமோ`; alternate visibly prints `இதனால் இது ஆகுமோ`. Retain archive `அது` as a wording variant. PDF ends `களத்திலே கடும்போரிடும்`; remainder awaits PDF 38. |
+
+No missing passage identified in this bounded comparison. No canonical edit. Next PDF 38–40, beginning with the remaining Part 2 Image 7. Original adjective/footer holds remain; no source release or translation-state refresh.

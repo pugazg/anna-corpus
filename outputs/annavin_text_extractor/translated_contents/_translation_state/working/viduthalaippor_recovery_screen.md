@@ -163,3 +163,8 @@ Compared PDF 26–28 with Part 1 Image 11 ending and Part 2 Images 1–2 opening
 ## Mobilization / தைரியம் comparison — 2026-09-27
 
 Compared PDF 29–31 with Part 2 Images 2 remainder, 3, and 4 opening. Full scan plus enlarged crop positively confirms archive அறிவார்கள், resolving the newly flagged variant without editing. Corroborated the section transition and quoted May 28, 1945 date. Saved three alternate-page renders and the bounded archive crop. Next PDF 32–34 and Image 4 continuation. Original adjective/footer hold unchanged. No tests, release or state refresh. Previous pushed checkpoint `fc0a931`.
+
+
+## Identity and artistic analogy comparison — 2026-09-27
+
+PDF 32–34 comparison was saved and pushed in `33660e7`. Now compared PDF 35–37 against Part 2 Images 6–7, reopening both archive scans. Confirmed scan continuity and recorded the archive அது / alternate இது wording variant separately. Three additional page renders saved. Next PDF 38–40 and remaining Image 7. No canonical changes, tests, release or state refresh; adjective and footer holds remain.
