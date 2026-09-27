@@ -119,3 +119,16 @@ Visually inspected PDF pages 35–37 (printed 34–36), reopened archive Part 2 
 | Part 2 Image 7 worker and musician examples and explanation | PDF 37 | Continues `காண / கிறான்`, with the same pearl, fragrance, instrument and hidden-gold examples. Archive has `இதனால் அது ஆகுமோ`; alternate visibly prints `இதனால் இது ஆகுமோ`. Retain archive `அது` as a wording variant. PDF ends `களத்திலே கடும்போரிடும்`; remainder awaits PDF 38. |
 
 No missing passage identified in this bounded comparison. No canonical edit. Next PDF 38–40, beginning with the remaining Part 2 Image 7. Original adjective/footer holds remain; no source release or translation-state refresh.
+
+
+## Self-rule argument and practical knowledge — 2026-09-27
+
+Visually inspected PDF pages 38–40 (printed 37–39) and reopened archive Part 2 Images 8–9 to compare their corrected transcription.
+
+| Archive section | First-edition correspondence | Finding |
+|---|---|---|
+| Part 2 Image 7 ending and Image 8 opening/middle | PDF 38 | Continues PDF 37's `களத்திலே கடும்போரிடும் / வீரர்கள்`. The quoted call and gem/pond/field analogies agree. Archive `கொள்கைகளை / அவர்கள் நீக்கிவிட்டால்` boundary is continuous. Alternate ends mid-word at `மக்கள் விடு`. |
+| Part 2 Image 8 remainder through protection of the country | PDF 39 | Continues `விடு / தலைக்கு`. Archive visibly prints `ஏடுதூக்கியதாக இருந்திருப்பின்`; alternate prints `ஏடுதாங்கியாக இருந்திருப்பின்`. Preserve the archive wording as an edition variant. PDF ends `தமிழனுக்கு`, before the archive's final sentence fragment. |
+| Part 2 Image 8 ending and Image 9 first two paragraphs in part | PDF 40 | Same `இகம்பரம்` passage and appeal to Tamil identity. The archive `ஏமாந்ததால் / இகத்தை` boundary is continuous within the alternate page. Both give the Ireland comparison and the critique of hesitant politicians. PDF ends after the question about Aryan rule and `பயப்படுகின்றனர்;`; the rest of the archive paragraph awaits PDF 41. |
+
+No missing passage identified in this bounded region; no canonical edit. Next PDF 41–43, continuing Image 9 and the திருமுகம் section. The adjective and collection-footer holds remain unresolved.

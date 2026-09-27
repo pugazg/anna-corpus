@@ -168,3 +168,8 @@ Compared PDF 29–31 with Part 2 Images 2 remainder, 3, and 4 opening. Full scan
 ## Identity and artistic analogy comparison — 2026-09-27
 
 PDF 32–34 comparison was saved and pushed in `33660e7`. Now compared PDF 35–37 against Part 2 Images 6–7, reopening both archive scans. Confirmed scan continuity and recorded the archive அது / alternate இது wording variant separately. Three additional page renders saved. Next PDF 38–40 and remaining Image 7. No canonical changes, tests, release or state refresh; adjective and footer holds remain.
+
+
+## Self-rule comparison — 2026-09-27
+
+Compared PDF 38–40 with Part 2 Image 7 ending, Image 8 and Image 9 in part; reopened Images 8–9. Confirmed both archive page joins and recorded ஏடுதூக்கியதாக / ஏடுதாங்கியாக as an edition variant, retaining the archive. Saved three renders. Next PDF 41–43, continuing Image 9 into திருமுகம். No canonical changes, release, state refresh or tests. Previous pushed checkpoint `42687e8`.
