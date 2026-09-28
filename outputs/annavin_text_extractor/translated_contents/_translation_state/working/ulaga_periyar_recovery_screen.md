@@ -29,3 +29,8 @@ Re-OCR all 45 scans and visually reconcile every chronological year and event, t
 ## Sequential recovery started — 2026-09-28
 
 Reopened Part 1 Images 1–2. Title/date reaffirmed; all sixteen printed year/event alignments on Image 2 recorded in `ulaga_periyar_chronology_recovery.md`. This is a working mapping, not a replacement Tamil transcription. Next complete exact row transcription and continue Images 3–6. Re-OCR requirement remains outstanding. Canonical source and completion count unchanged; no tests or state refresh.
+
+
+## Chronology transcription draft — 2026-09-28
+
+Added all sixteen Image 2 Tamil rows to the working draft, pending a second visual pass. Inspected Image 3: mapped fifteen printed year rows, two subheadings, and identified scan-proven December 18 versus OCR December 19. Retained unusual printed ஆசிய இந்தியா separately from historical inference. Next exact Image 3 transcription and Images 4–6. Canonical source, holds and counts unchanged; no tests or state refresh.
