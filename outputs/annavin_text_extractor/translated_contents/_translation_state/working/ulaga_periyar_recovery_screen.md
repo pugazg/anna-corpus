@@ -44,3 +44,8 @@ Drafted fifteen Image 3 Tamil rows with both subheadings, keeping printed Decemb
 ## Image 4 draft and Image 5 inspection — 2026-09-28
 
 Drafted sixteen Image 4 rows with the corrected 21-day heading. Inspected Image 5 and mapped seventeen rows through 1933, distinguishing the 1928 row label from its 1929 deadline and the separate March 2/March 12 entries. Both last rows visibly print 1933, resolving detached OCR 1937. Drafts remain pending second visual comparison. Next exact Image 5 transcription and Image 6. No canonical edits, release, counts or tests. Previous pushed checkpoint `7aab553`.
+
+
+## Image 5 draft and Image 6 inspection — 2026-09-28
+
+Drafted seventeen Image 5 rows with salt-satyagraha subheading. Inspected Image 6 and mapped seventeen rows through printed 1943. Final row combines பிப். 10, 22 with Kasturibai's death: recorded as a printed anomaly, not reconstructed from biography. Next exact Image 6 transcription, second passes on chronology and visual Image 7 transition. No canonical edits, release, state refresh or tests. Previous pushed checkpoint `5dc70c7`.

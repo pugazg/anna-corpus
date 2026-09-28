@@ -174,3 +174,52 @@ Working transcription, pending second visual comparison; printed row wrapping jo
 Inspected full `005-88473f42cc.png`. Seventeen event rows: 1925 twice, 1928, 1929, 1930 four times, 1931 four times, 1932 three times, 1933 twice. The subheading `உப்பு சத்தியாக்கிரஹம்` follows the first 1930 row. Printed March 2 salt-satyagraha entry and March 12 Dandi-journey entry are separate rows; preserve both.
 
 The 1928 row contains the future deadline 1929 within the event, not a replacement year label. Last two rows both print 1933: February 11 Harijan publication and May 8 twenty-one-day fast. Existing OCR's detached 1937 token must not be retained for that February row. Next exact Image 5 transcription, Image 6 inspection and second comparison passes. No canonical changes yet.
+
+
+## Image 5 Tamil row draft — 2026-09-28
+
+Working transcription pending second visual comparison; row wrapping joined.
+
+1925 — நவ. ஆசிரமவாசிகள் தவறாக நடந்து கொண்டதால் உண்ணாவிரதம் இருந்தார்.
+
+1925 — நவ. சத்தியசோதனை — காந்திஜி தமது சுயசரிதத்தை எழுத ஆரம்பித்தார்.
+
+1928 — டிச. 1929-க்குள் இந்தியாவுக்கு டொமினியன் அந்தஸ்து அளிக்கப்படாவிடில் சுதந்திரப் போராட்டம் ஆரம்பிக்கப் போவதாகக் காங்கிரஸில் ஒரு தீர்மானம் கொண்டு வந்தார்.
+
+1929 — டிச. இந்தியாவின் பூர்ண சுதந்திரத்துக்குப் போராடுவதாக லாகூர் காங்கிரசில் ஒரு தீர்மானம் கொண்டுவரப்பட்டது.
+
+1930 — பிப். சட்ட மறுப்பு இயக்கம் ஆரம்பிக்க முடிவு.
+
+உப்பு சத்தியாக்கிரஹம்
+
+1930 — மார்ச் 2, உப்பு சத்தியாக்கிரஹம்
+
+1930 — மார்ச் 12, தண்டியாத்திரை
+
+1930 — மே 5, கைது செய்யப்பட்டு விசாரணையின்றி சிறை.
+
+1931 — ஜன. 26, நிபந்தனையின்றி விடுதலை.
+
+1931 — மார்ச், காந்தி — இர்வின் உடன்படிக்கை.
+
+1931 — ஆகஸ். 29, காங்கிரஸ் தூதராக இரண்டாவது வட்டமேஜை மாநாட்டில் கலந்துகொள்ள இங்கிலாந்து பிரயாணம்.
+
+1931 — டிச. 28 இந்தியா திரும்பினார்.
+
+1932 — ஜன. 4, கைது செய்யப்பட்டு விசாரணையின்றி சிறையில் தள்ளப்பட்டார்.
+
+1932 — செப். 20, ஹரிஜனங்களின் தனித்தொகுதியை ஒழிக்க சிறையில் சாகும்வரை உண்ணாவிரதம்.
+
+1932 — செப். 26, தம் கோரிக்கை அங்கீகரிக்கப்பட்டதால் உண்ணாவிரதம் நிறுத்தம்.
+
+1933 — பிப். 11, 'ஹரிஜன்' பத்திரிகை ஆரம்பம்.
+
+1933 — மே 8, ஆத்ம பரிசுத்தத்துக்காக 21 நாள் உண்ணாவிரதம் ஆரம்பம்.
+
+## Image 6 scan findings — 2026-09-28
+
+Inspected full `006-5d22803160.png`. Seventeen event rows: 1933 twice, 1934 three times, 1936, 1937, 1939, 1940 twice, 1941, 1942 five times, 1943. The `குவிட் இந்தியா` subheading occurs after the March 27, 1942 Cripps-meeting row.
+
+The final printed row is anomalous: year `1943` and text `பிப். 10, 22 கஸ்தூரிபாய் காந்தி ஆகாகான் சிறையில் உயிர்நீத்தார்.` The scan places 10 and 22 on the same line; do not silently select one, change the year, or split it into invented events. Preserve the printed row in the draft and carry an explicit translator note. Exact transcription still needs a close second pass. The following Image 7 begins a different section in existing OCR; visually verify that transition next.
+
+Next exact Image 6 transcription and second visual comparison of Images 2–6. No canonical promotion or release yet.
