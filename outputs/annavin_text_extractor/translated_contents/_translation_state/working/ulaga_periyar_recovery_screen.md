@@ -49,3 +49,7 @@ Drafted sixteen Image 4 rows with the corrected 21-day heading. Inspected Image 
 ## Image 5 draft and Image 6 inspection — 2026-09-28
 
 Drafted seventeen Image 5 rows with salt-satyagraha subheading. Inspected Image 6 and mapped seventeen rows through printed 1943. Final row combines பிப். 10, 22 with Kasturibai's death: recorded as a printed anomaly, not reconstructed from biography. Next exact Image 6 transcription, second passes on chronology and visual Image 7 transition. No canonical edits, release, state refresh or tests. Previous pushed checkpoint `5dc70c7`.
+
+## Image 6 draft and Image 7 transition — 2026-09-28
+
+Reopened Image 6 and drafted all seventeen rows, retaining the anomalous final printed date. Visually inspected Image 7: new student-advice section and opening three fasting-list entries, with scan-proven OCR defects recorded in the chronology working file. No missing sentence continuation crosses this boundary. Next Image 7 exact transcription, Image 8 continuity and comparative chronology review; all-45-scan re-OCR still outstanding. No canonical changes, release, state refresh or tests. Previous pushed checkpoint `f596c57`.

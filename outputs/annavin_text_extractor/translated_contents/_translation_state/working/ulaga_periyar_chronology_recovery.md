@@ -223,3 +223,47 @@ Inspected full `006-5d22803160.png`. Seventeen event rows: 1933 twice, 1934 thre
 The final printed row is anomalous: year `1943` and text `பிப். 10, 22 கஸ்தூரிபாய் காந்தி ஆகாகான் சிறையில் உயிர்நீத்தார்.` The scan places 10 and 22 on the same line; do not silently select one, change the year, or split it into invented events. Preserve the printed row in the draft and carry an explicit translator note. Exact transcription still needs a close second pass. The following Image 7 begins a different section in existing OCR; visually verify that transition next.
 
 Next exact Image 6 transcription and second visual comparison of Images 2–6. No canonical promotion or release yet.
+
+## Image 6 Tamil row draft and Image 7 transition — 2026-09-28
+
+Reopened Image 6 and transcribed all seventeen rows. Working text pending comparative review with the complete chronology; no canonical promotion.
+
+1933 — மே 9, சட்டமறுப்பு இயக்கம் நிறுத்தப்பட்டது.
+
+1933 — மே 23, உண்ணாவிரதம் முடிந்தது.
+
+1934 — ஜன. 26, சத்தியாக்கிரஹ ஆசிரமம் கலைக்கப்பட்டது.
+
+1934 — செப். 17, அக்டோபர் முதல் தேதியிலிருந்து அரசியலிலிருந்து விலகிக் கொள்ளப் போவதாக அறிவித்தார்.
+
+1934 — டிச. 14, அகில இந்தியக் கிராமக் கைத்தொழில் சங்கம் ஆரம்பம்.
+
+1936 — ஏப். 30, வார்தா அருகிலுள்ள சேவா கிராமம் தலைமைக் காரியாலயமாயிற்று.
+
+1937 — அக். 22, வார்தா கல்வித் திட்டம்.
+
+1939 — மார்ச் 3, ராஜகோட்டை சீர்த்திருத்தம் சம்பந்தமாக உண்ணாவிரதம் ஆரம்பம்; வைசிராய் தலையீட்டால் மார்ச் 7-ந் தேதி உண்ணாவிரதம் நின்றது.
+
+1940 — செப். யுத்த நிலைமை சம்பந்தமாக வைசிராயைச் சந்தித்தார்.
+
+1940 — அக். தனிப்பட்ட நபர் சத்தியாக்கிரஹத்துக்கு அனுமதி.
+
+1941 — டிச. 30, காங்கிரஸ் தலைமைப் பதவியிலிருந்து விலகினார்.
+
+1942 — ஜன. 18, 1940 அக்டோபரில் நிறுத்தப்பட்ட 'ஹரிஜன்' பத்திரிகையை மீண்டும் தொடங்கினார்.
+
+1942 — மார்ச், 27, புதுடெல்லியில் ஸ்டாபோர்டு கிரிப்ஸுடன் சந்திப்பு.
+
+குவிட் இந்தியா
+
+1942 — மே, இந்தியாவை விட்டு வெளியேறுமாறு பிரிட்டிஷாரைக் கேட்டுக் கொண்டார்.
+
+1942 — ஆக. 8, குவிட் இந்தியா தீர்மானம் பற்றி பம்பாயில் நடந்த அ.இ.கா.க. கூட்டத்தில் பேசினார்.
+
+1942 — ஆக. 9, கைது செய்யப்பட்டு பூனாவிலுள்ள ஆகாகான் மாளிகையில் சிறை வைக்கப்பட்டார்.
+
+1943 — பிப். 10, 22 கஸ்தூரிபாய் காந்தி ஆகாகான் சிறையில் உயிர்நீத்தார்.
+
+The final row's year and both day numbers are visible again; retain the anomaly without historical reconstruction. Image 7 (`007-3a537e65c3.png`) was visually inspected in full: it starts the independent heading `மாணவர்களே பின்பற்றுங்கள்`, with an introduction and three solid-circle bullets. The next heading is `காந்திஜி அனுஷ்டித்த உண்ணாவிரதங்கள்`, followed by its introduction and three bullets (1924, 1932, 1933). Image 6 therefore ends a complete printed sentence; Image 7 does not supply an omitted continuation of the anomalous chronology row.
+
+Image 7 scan-proven OCR defects to repair during canonical reconciliation: `உபதேச நபமாகச்` must be `உபதேச ரூபமாகச்`; `கரத` must be `கருத`; OCR's standalone உ/ஓ/ஓஒ represent solid-circle bullets, not Tamil words. The printed paragraph wraps `ஆத்மா பரிசுத்தத் / துக்காகவும்` and `முக்கியமானவை / கள்`; join as `ஆத்மா பரிசுத்தத்துக்காகவும்` and `முக்கியமானவைகள்`. The last bullet ends `பர்ணகுடியில் உபவாசம் முடிந்தது.` Complete exact Image 7 transcription and Image 8 continuity review remain next, alongside the chronology comparative pass. Re-OCR of all 45 scans remains outstanding. No source release, English translation, state refresh or tests.
