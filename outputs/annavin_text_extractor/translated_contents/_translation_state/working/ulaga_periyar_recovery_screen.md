@@ -39,3 +39,8 @@ Added all sixteen Image 2 Tamil rows to the working draft, pending a second visu
 ## Image 3 draft and Image 4 inspection — 2026-09-28
 
 Drafted fifteen Image 3 Tamil rows with both subheadings, keeping printed December 18 and ஆசிய இந்தியா. Inspected Image 4: sixteen event rows mapped and `21 நாள் உண்ணாவிரதம்` verified against OCR 27. Working drafts still need second comparison before canonical promotion. Next Image 4 exact transcription and Images 5–6. No source release, count change or tests. Previous pushed checkpoint `a644a33`.
+
+
+## Image 4 draft and Image 5 inspection — 2026-09-28
+
+Drafted sixteen Image 4 rows with the corrected 21-day heading. Inspected Image 5 and mapped seventeen rows through 1933, distinguishing the 1928 row label from its 1929 deadline and the separate March 2/March 12 entries. Both last rows visibly print 1933, resolving detached OCR 1937. Drafts remain pending second visual comparison. Next exact Image 5 transcription and Image 6. No canonical edits, release, counts or tests. Previous pushed checkpoint `7aab553`.

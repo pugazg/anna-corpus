@@ -129,3 +129,48 @@ Visually inspected full `004-c263cda9d9.png`. Sixteen event rows: four 1919, thr
 The subheading clearly reads `21 நாள் உண்ணாவிரதம்`, not existing OCR `27 நாள் உண்ணாவிரதம்`. It occurs after the first 1924 row, before the September 18 Hindu–Muslim unity fast. The final 1925 row visibly reads `அகில இந்திய சர்க்கார் சங்கத்தை`; retain this source reading pending close comparison, rather than silently substituting a historically expected association name.
 
 Next: exact Image 4 row transcription; Images 5–6; second visual passes on all chronology drafts. No canonical promotion yet.
+
+
+## Image 4 Tamil row draft — 2026-09-28
+
+Working transcription, pending second visual comparison; printed row wrapping joined.
+
+1919 — ஏப். 13, அமிருதசரஸில் ஜாலியன் வாலாபாக் கோரவதை.
+
+1919 — ஏப். 14, ஜனங்கள் பலாத்காரத்தில் ஈடுபட்டதால் மூன்று நாள் உண்ணாவிரதம்.
+
+1919 — ஏப். 18, சத்தியாக்கிரஹ நிறுத்தம்.
+
+1919 — செ. 'நவஜீவன்' ஆசிரியரானார்; அக்டோபரில் 'யங் இந்தியா' ஆசிரியரானார்.
+
+1920 — கிலாபத் விஷயமாக வைசிராயிடம் தூது.
+
+1920 — ஆக. 1, கேஸரிஹிந்த் மெடல், ஜூலுயுத்த மெடல், போயர் யுத்த மெடல் ஆகியவைகளைத் துறந்தார்.
+
+1920 — டிச. அஹிம்சா முறையில் சுயராஜ்யம் பெறுவதென்று நாகபுரி காங்கிரஸில் ஒரு தீர்மானம் நிறைவேறியது.
+
+1921 — ஜூலை. அந்நியத் துணி பகிஷ்காரம்.
+
+1921 — டிச. காங்கிரஸ் காந்திஜிக்கு சர்வாதிகாரம் அளித்தது.
+
+1922 — பிப். 1, பர்த்தோலியில் சத்தியாக்கிரஹம் ஆரம்பிக்கப் போவதாக வைசிராய்க்கு நோட்டீஸ்.
+
+1922 — பிப். 6, செளரி செளராவில் ஜனங்கள் கொள்ளை, சூறையில் ஈடுபட்டதால் 5 நாள் உண்ணாவிரதம் ஆரம்பித்தார். சத்தியாக்கிரஹ நோக்கத்தைக் கைவிட்டார்.
+
+1922 — மார்ச் 18 ராஜதுரோகமாகப் பேசியதாகக் கைது செய்யப்பட்டு 6 வருஷ சிறைவாச தண்டனை விதிக்கப்பட்டார்.
+
+1924 — ஜன. 21, அப்பெண்டிஸிடிஸ் ஆபரேஷன்; பிப். 5, விடுதலையானார்.
+
+21 நாள் உண்ணாவிரதம்
+
+1924 — செப். 18, ஹிந்து-முஸ்லிம் ஒற்றுமைக்கு 21 நாள் உண்ணாவிரதம் ஆரம்பித்தார்.
+
+1924 — டிச. பெல்காம் காங்கிரசுக்குத் தலைமை வகித்தார்.
+
+1925 — செப். அகில இந்திய சர்க்கார் சங்கத்தை ஆரம்பித்தார்.
+
+## Image 5 scan findings — 2026-09-28
+
+Inspected full `005-88473f42cc.png`. Seventeen event rows: 1925 twice, 1928, 1929, 1930 four times, 1931 four times, 1932 three times, 1933 twice. The subheading `உப்பு சத்தியாக்கிரஹம்` follows the first 1930 row. Printed March 2 salt-satyagraha entry and March 12 Dandi-journey entry are separate rows; preserve both.
+
+The 1928 row contains the future deadline 1929 within the event, not a replacement year label. Last two rows both print 1933: February 11 Harijan publication and May 8 twenty-one-day fast. Existing OCR's detached 1937 token must not be retained for that February row. Next exact Image 5 transcription, Image 6 inspection and second comparison passes. No canonical changes yet.
