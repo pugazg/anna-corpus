@@ -24,3 +24,8 @@ Status: `needs_source_recovery`
 ## Required recovery
 
 Re-OCR all 45 scans and visually reconcile every chronological year and event, title, date, time, name, figure, quotation and page join. Preserve both parts as one canonical work and retain the scan-proven corrections above. Do not create the bilingual document until the complete source is scan-safe.
+
+
+## Sequential recovery started — 2026-09-28
+
+Reopened Part 1 Images 1–2. Title/date reaffirmed; all sixteen printed year/event alignments on Image 2 recorded in `ulaga_periyar_chronology_recovery.md`. This is a working mapping, not a replacement Tamil transcription. Next complete exact row transcription and continue Images 3–6. Re-OCR requirement remains outstanding. Canonical source and completion count unchanged; no tests or state refresh.
