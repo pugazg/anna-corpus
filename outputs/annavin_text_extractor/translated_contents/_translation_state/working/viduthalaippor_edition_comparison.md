@@ -210,3 +210,16 @@ Visually inspected PDF pages 56–58, compared Part 3 Images 7–9 corrected tex
 | Part 3 Image 8 paragraph conclusion and Image 9 opening critique | PDF 58 (printed 57) | Begins `கொண்டுள்ளவர்களின் வஞ்சக வலையிலே`, continuing the preceding page's visible ending. Same equality argument and critique of political opportunism. Archive `ஒரு துளியும் / கவலைப்படாமல்` join is continuous within the alternate page. PDF ends `அரசியலைப்பற்றியும் அவர்கட்கு அக்கரை`; remainder awaits PDF 59. |
 
 No canonical edits. Comparison coverage for PDF 57 is explicitly limited to visible text, not a full-page corroboration. Next PDF 59–61, continuing Part 3 Image 9. Original adjective/footer holds remain; no source release.
+
+
+## Political office and liberation — 2026-09-27
+
+Visually inspected PDF pages 59–61 (printed 58–60), compared corrected Part 3 Images 9–11 in part, and reopened archive Image 10.
+
+| Archive section | First-edition correspondence | Finding |
+|---|---|---|
+| Part 3 Image 9 political-office critique and hunger analogy | PDF 59 | Continues `அக்கரை / கிடையாது` from PDF 58. Same bird/carrion analogy and criticism of titles, committees and minor powers. PDF ends `அதிலே`, before the rag comparison continues. |
+| Part 3 Image 9 ending and Image 10 first paragraph and liberation argument in part | PDF 60 | Continues `அதிலே / ஒரு கந்தல்`. The archive `தோழமை / யைப் பெறுவதும்` join is continuous within this page. Same lion comparison and political objective; PDF ends `அறிவு குழம்பிக்கிடக்கிறதோ`. |
+| Part 3 Image 10 political objective and candidate comparison, then Image 11 opening | PDF 61 | Alternate prints `உரிய உயரிய இடமளித்து`; archive visibly has `உரிய இடமளித்து`. Preserve the archive's shorter wording. Same Salem reference and Ananthachari/Arumugapillai comparison. Archive `விதியற்றவர், / கதியற்றவர்` join is continuous. PDF ends `எத்தனை ஆயிரம்`, before the young-men sentence continues. |
+
+No canonical edits or missing scan passage identified in this bounded comparison. Next PDF 62–64, checking the conclusion and any back matter. Original adjective/footer holds remain, and PDF 57's obscured line endings remain a limitation of the alternate witness.

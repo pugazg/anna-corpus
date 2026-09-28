@@ -203,3 +203,8 @@ Compared PDF 53–55 through Part 3 Image 7 in part. Reopened Image 7: confirmed
 ## வீரர் வேண்டும் alternate-witness limitation — 2026-09-27
 
 Confirmed interrupted checkpoint `9be189b` on origin/main by remote ref. Inspected PDF 56–58 and reopened archive Image 8. PDF 57 has obstructed right line endings: only visible text compared, with extra alternate wording recorded separately. Confirmed section transition and next archive join. Saved three renders. Next PDF 59–61. No canonical edits, tests, release or state refresh; original holds remain.
+
+
+## Political office comparison — 2026-09-27
+
+Compared PDF 59–61 through Part 3 Image 11 opening; reopened Image 10 to confirm உரிய இடமளித்து versus alternate உரிய உயரிய இடமளித்து. Confirmed the two archive joins, preserved the shorter archive wording, and saved three renders. Next PDF 62–64 and conclusion/back matter. No canonical edits, tests, release or state refresh. Previous pushed checkpoint `e49861f`.
