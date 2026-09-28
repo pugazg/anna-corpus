@@ -34,3 +34,8 @@ Reopened Part 1 Images 1–2. Title/date reaffirmed; all sixteen printed year/ev
 ## Chronology transcription draft — 2026-09-28
 
 Added all sixteen Image 2 Tamil rows to the working draft, pending a second visual pass. Inspected Image 3: mapped fifteen printed year rows, two subheadings, and identified scan-proven December 18 versus OCR December 19. Retained unusual printed ஆசிய இந்தியா separately from historical inference. Next exact Image 3 transcription and Images 4–6. Canonical source, holds and counts unchanged; no tests or state refresh.
+
+
+## Image 3 draft and Image 4 inspection — 2026-09-28
+
+Drafted fifteen Image 3 Tamil rows with both subheadings, keeping printed December 18 and ஆசிய இந்தியா. Inspected Image 4: sixteen event rows mapped and `21 நாள் உண்ணாவிரதம்` verified against OCR 27. Working drafts still need second comparison before canonical promotion. Next Image 4 exact transcription and Images 5–6. No source release, count change or tests. Previous pushed checkpoint `a644a33`.

@@ -82,3 +82,50 @@ Bounded correction evidence for later canonical promotion:
 - The 1919 April 6 row visibly prints `ஆசிய இந்தியா`; retain as a source reading, do not normalize from historical expectation.
 
 Next complete Image 3 Tamil row transcription and inspect Images 4–6. No canonical changes or release. Image 2 draft still requires its second comparison pass.
+
+
+## Image 3 Tamil row draft — 2026-09-28
+
+Working transcription, pending second visual comparison. Printed row wrapping joined; headings retained between rows.
+
+1911–12 — ஒரு வாரம் உண்ணாவிரதம், 4 மாதத்துக்கு தினசரி ஒரு வேளை சாப்பாடு; பின்னர் 14 நாள் உண்ணாவிரதம்.
+
+1912 — ஐரோப்பிய ஆடைகளைத் துறந்தார். பழவர்க்கங்களை மட்டும் உண்ண ஆரம்பித்தார்.
+
+1913 — 3 பவுன் தலைவரி விதித்ததை எதிர்த்து சத்தியாக்கிரஹம் ஆரம்பித்தார். கைது செய்யப்பட்டு ஜாமீனில் விடுதலையடைந்தார்.
+
+1913 — நவ. 9, மீண்டும் கைது செய்யப்பட்டு 9 மாத சிறை தண்டனையடைந்தார்.
+
+1913 — டிச. 18, நிபந்தனையின்றி விடுதலையடைந்தார்.
+
+காந்திஜி — ஸ்மட்ஸ் உடன்படிக்கை
+
+1914 — ஜன. 21, காந்தி — ஸ்மட்ஸ் உடன்படிக்கை; சத்தியாக்கிரஹம் நிறுத்தப்பட்டது.
+
+1914 — ஜூலை, இங்கிலாந்து பிரயாணம்.
+
+1914 — ஆக. உலக யுத்தம் ஆரம்பம்; காந்திஜி லண்டனில் இந்தியர் ஆம்புலன்ஸ் படையைத் திரட்டினார்.
+
+1915 — ஜன. இந்தியா திரும்பினார்.
+
+1915 — மே. சபர்மதி ஆசிரமம் ஆரம்பித்தார்.
+
+1915–16 — ரயில்வண்டியில் 3-வது வகுப்பில் இந்தியா — பர்மா சுற்றுப்பிரயாணம்.
+
+1918 — ஜன. தீர்வையை ரத்து செய்ய பம்பாயிலுள்ள கெய்ரா ஜில்லாவில் சத்தியாக்கிரஹம் ஆரம்பம்.
+
+1919 — பிப். ரெளலட் சட்டத்தை ரத்து செய்ய சத்தியாக்கிரஹப் பிரதிக்ஞை எடுத்துக் கொண்டார்.
+
+சத்தியாக்கிரஹ இயக்கம் ஆரம்பம்
+
+1919 — ஏப். 6, ஆசிய இந்தியா சத்தியாக்கிரஹ இயக்கம் ஆரம்பம்; நாடெங்கும் ஹர்த்தால்.
+
+1919 — ஏப். 8, பஞ்சாபில் நுழையக் கூடாதென்ற தடையை மீறியதால் டில்லி செல்லும் வழியில் கைது செய்யப்பட்டு பம்பாய்க்கு அழைத்துச் செல்லப்பட்டார்.
+
+## Image 4 scan findings — 2026-09-28
+
+Visually inspected full `004-c263cda9d9.png`. Sixteen event rows: four 1919, three 1920, two 1921, three 1922, three 1924, one 1925. The final 1919 row concerns editorship of நவஜீவன் and யங் இந்தியா. The first 1920 row concerns the Khilafat deputation. The first 1924 row prints January 21 and February 5; retain printed dates without historical normalization.
+
+The subheading clearly reads `21 நாள் உண்ணாவிரதம்`, not existing OCR `27 நாள் உண்ணாவிரதம்`. It occurs after the first 1924 row, before the September 18 Hindu–Muslim unity fast. The final 1925 row visibly reads `அகில இந்திய சர்க்கார் சங்கத்தை`; retain this source reading pending close comparison, rather than silently substituting a historically expected association name.
+
+Next: exact Image 4 row transcription; Images 5–6; second visual passes on all chronology drafts. No canonical promotion yet.
