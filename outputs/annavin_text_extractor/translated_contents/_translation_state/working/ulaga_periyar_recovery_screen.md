@@ -126,3 +126,8 @@ Both scans visually inspected and complete provisional drafts saved. Verified �
 ## 2026-09-30 — Part 2 Images 9–10
 
 Both complete scans visually inspected; provisional Tamil drafts and bounded corrections saved in ulaga_periyar_chronology_recovery.md. Image 8→9 list and Image 9→10 sentence continue without an apparent gap. Printed mythological names and unusual grammar retained. Coverage: Part 1 23/23 and Part 2 10/22 initially inspected; full comparative review remains outstanding. Next Part 2 Images 11–12. No canonical source release, English translation, state refresh or completion-count change.
+
+
+## 2026-09-30 — Part 2 Images 11–12
+
+Both scans visually inspected and provisional Tamil drafts saved. Image 10→11 and Image 11→12 joins are continuous; the Young India quotation remains open into Image 13. Printed citation date and unusual wording retained. Coverage: Part 1 23/23 and Part 2 12/22 initially inspected. Next Images 13–14, followed by full comparative review. No canonical release, English translation, state refresh or count change.
