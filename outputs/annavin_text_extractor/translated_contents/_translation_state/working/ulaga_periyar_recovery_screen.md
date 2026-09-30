@@ -85,3 +85,7 @@ Focused original-pixel crops resolve Image 11 அவுங்கானைச் 
 ## Images 13–14 drafts and Image 15 inspection — 2026-09-30
 
 Saved complete working Tamil drafts for Images 13–14 with bounded scan readings; comparative pass remains necessary. Image 15 visually inspected, verifying ஆனால் / என்ன செய்வது? and recording four OCR defects, both bold memorial lines and outgoing நாம் சாகுமுன். Next Image 15 draft and Image 16 join. No canonical changes, source release, state refresh or tests. Previous pushed checkpoint `921b057`.
+
+## Image 15 draft and Image 16 inspection — 2026-09-30
+
+Drafted Image 15 with its two memorial lines and outgoing sentence. Image 16 visually confirms the incoming English-rule clause; two paragraphs reviewed, three bounded OCR defects recorded. Last word splits குக்கிராமங்களுக் and requires Image 17. Next exact Image 16 draft and Image 17 inspection. No canonical changes, release, state refresh or tests. Previous pushed checkpoint `502ebca`.
