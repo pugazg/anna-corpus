@@ -73,3 +73,7 @@ Drafted Image 10 in full. Image 11 visually checked, including the incoming Burm
 ## Image 11 draft and Image 12 inspection — 2026-09-30
 
 Drafted Image 11; flagged the Burma leader-name consonant for native comparison before promotion. Image 12 visually inspected: opening ஒரே/ஏக்கம்!, ஆறுதல் and மாபெருந் readings recorded; one case ending remains provisional. Page ends அந்த வெறியன் and needs Image 13 join verification. Next Image 12 draft, Image 13 inspection and flagged native checks. No canonical changes, release, state refresh or tests. Previous pushed checkpoint `0052a88`.
+
+## Image 12 draft and Image 13 inspection — 2026-09-30
+
+Drafted Image 12 and visually verified its unfinished sentence continues into Image 13's செய்த காரியம். Image 13 inspected in full: two paragraphs, no new heading, ending அவன் வாலிபனாம் - இந்துவாம்!. Original-detail requests for Images 11–12 were still resized by display; flagged leader-name/case-ending checks remain pending focused native crops. Next Image 13 draft, Image 14 inspection and those crop checks. No canonical changes, release, state refresh or tests. Previous pushed checkpoint `7b094f0`.
