@@ -131,3 +131,8 @@ Both complete scans visually inspected; provisional Tamil drafts and bounded cor
 ## 2026-09-30 — Part 2 Images 11–12
 
 Both scans visually inspected and provisional Tamil drafts saved. Image 10→11 and Image 11→12 joins are continuous; the Young India quotation remains open into Image 13. Printed citation date and unusual wording retained. Coverage: Part 1 23/23 and Part 2 12/22 initially inspected. Next Images 13–14, followed by full comparative review. No canonical release, English translation, state refresh or count change.
+
+
+## 2026-09-30 — Part 2 Images 13–14
+
+Both scans visually inspected and provisional Tamil drafts saved. Image 13 closes the Young India quotation; Image 14 closes the essay and begins the ruled உலக உத்தமர் காந்தி section after three floral ornaments. Coverage: Part 1 23/23 and Part 2 14/22 initially inspected. Next Images 15–16, then full comparative review. No canonical release, English translation, state refresh or count change.
