@@ -89,3 +89,7 @@ Saved complete working Tamil drafts for Images 13–14 with bounded scan reading
 ## Image 15 draft and Image 16 inspection — 2026-09-30
 
 Drafted Image 15 with its two memorial lines and outgoing sentence. Image 16 visually confirms the incoming English-rule clause; two paragraphs reviewed, three bounded OCR defects recorded. Last word splits குக்கிராமங்களுக் and requires Image 17. Next exact Image 16 draft and Image 17 inspection. No canonical changes, release, state refresh or tests. Previous pushed checkpoint `502ebca`.
+
+## Images 16–17 drafts and continuity — 2026-09-30
+
+Saved complete working drafts for Images 16–17. Visually inspected Image 17 in full and verified குக்கிராமங்களுக் / கெல்லாம். Recorded தீ/பீடம்/ஆவி corrections and retained printed பட்டேல்/படேல் variation and quotation punctuation. Image 17 has no new heading; next Image 18 inspection and its incoming கலந்திருந்த continuation. Earlier drafts still require comparative pass. No canonical changes, release, state refresh or tests. Previous pushed checkpoint `43313b8`.
