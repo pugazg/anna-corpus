@@ -922,3 +922,98 @@ Working transcription from inspected scan; second comparative pass required. Ori
 Images 22–23 visually inspected in full, plus Part 2 Image 1. Image 22 opens திறமுடையோர், completing Image 21's முரசறையும். Retain unusual printed `பெறுவோம் என்ற எண்ணம் கருதவில்லை` rather than rewrite from context. The final analogy joins Image 22's `தோட்டக்காரன் தன் வேலை முடிந்தது என்று எண்ணி விடுவது` to Image 23's `போலவே, புலி புகுந்ததால் ஏற்பட்ட சேதம்`; lower-edge partial glyph traces in Image 22 need close comparison before final source approval, not conjectural prose. OCR's detached `ு... ஆ` is omitted from this provisional draft as non-prose noise, pending that focused check.
 
 Image 23 contains three paragraphs followed by ten separately printed goals, ending சுரண்டல் முறை ஒழிய வேண்டும். Preserve the printed unusual `கிராமச் சீர்பட வேண்டும்.` pending comparative glyph review; do not replace from normal grammar. Part 2 Image 1 opens `என்ற வேறு பல இலட்சிய முழக்கங்கள் கிளம்பின.` confirming continuation from the ten-goal list. Its first two paragraphs and four further goal lines were visually read, followed by closing paragraph ending அதுபோல. Full exact Part 2 Image 1 draft remains next. Part 1 initial visual inspection now covers all 23 scans; its drafts and unresolved focused checks still require comparative reconciliation. Part 2 has 22 scans and remains in recovery; no English begun or canonical promotion.
+
+
+## Part 2 Image 1 Tamil draft — 2026-09-30
+
+Working transcription from inspected scan; second comparative pass required. Original wrapping retained.
+
+என்ற வேறு பல இலட்சிய முழக்கங்கள் கிளம்பின. மற்ற
+நாடுகளிலே நடைபெற்ற விடுதலைப் போர் நடந்தபோதும்,
+அதற்குப் பிறகும் உள்ள சூழ்நிலைக்கும், இது ஓர் மகத்தான
+வித்தியாசம் - இதிலேதான், எதிர்காலத்தை உருவாக்கும்
+சூட்சமும் இருக்கிறது.
+
+சூதாடி ராஜ்யத்தைத் தோற்றுவிட்ட நளன் மீண்டும்
+ராஜ்யத்தைப் பெற்ற கதைக் காலத்திலிருந்து மகத ராஜ்யத்தை
+சேதி நாட்டரசன் பிடித்துக் கொண்டான், என்றுள்ள சரிதக்
+காலம் வரையிலே, ஒரு ராஜ்யம், ஒரு அரசன் கரத்திலிருந்து
+வேறோர் அரசனிடம் சிக்கி, மீண்டும் சொந்த அரசனிடம் வந்து
+சேரும் சம்பவம். கொடிகள் மாறுவது, அதிகாரிகள் மாறுவது
+என்ற இவ்விதமான அளவோடுதான் இருக்கும். ஆனால்,
+இக்காலத்தில், அதிலும் இந்தியாவில் நடைபெற்ற விடுதலைப்
+போர், கொடி மாற்றமோ, அதிகார மாற்றமோ மட்டும்
+குறிக்கோளாக அமைந்ததல்ல தன்னாட்சி மட்டுமல்ல.
+இலட்சியம்; அந்தத் தன்னாட்சி மக்களாட்சியாக, அந்த
+மக்களாட்சியும் நல்லாட்சியாக அந்த நல்லாட்சியும் மக்களுக்குப்
+புதிய வாழ்வை, முழு வாழ்வைத் தரக்கூடிய ஆட்சியாக
+அமைதல் வேண்டும் என்று இவ்வளவு உன்னதமான
+இலட்சியத்தையும் உண்டாக்கியதுதான் - எனவேதான் இங்கு,
+விடுதலைப் போரின் போது கிளம்பியது ஒரு முழக்கமல்ல, பல;
+ஒரே ஒரு குறுகிய இலட்சியமல்ல. பரந்த இலட்சியம்.
+எனவேதான் மறைந்த உத்தமர் அன்னியராகிய வெள்ளையர்
+நீங்கிய, இந்தியர் அரசாள்கிற இந்தியாவைக் காண்பதே எனது
+இலட்சியம் என்று மட்டும் கூறாமல், பண்டிதர் எடுத்துக்
+காட்டியது போல.
+
+ஏழை ஈடேற வேண்டும்,
+ஏழை உரிமை பெற வேண்டும்.
+ஜாதி பேதம் ஒழிய வேண்டும்.
+ஒற்றுமை மலர வேண்டும்.
+
+என்று கூறியதுடன், “இத்தகைய இந்தியா உருவாக வேண்டும்,
+அதுவே என் இலட்சியம், அதற்கே நான் பாடுபடுகிறேன்”
+என்றும் கூறினார். மற்ற நாடுகளின் நலிவு அன்னிய
+ஆட்சியின்போது, அதன் விளைவாகவே ஏற்பட்டதால், அந்த
+நாடுகளிலே தோன்றிய தலைவர்கள், நாட்டின் நலிவை நீக்க
+அன்னியரை விரட்டினாலே போதும் என்று கருதினர் -
+அவர்கள் அங்ஙனம் கருதினதில் தவறுமில்லை. அதுபோல
+
+
+## Part 2 Image 2 Tamil draft — 2026-09-30
+
+Working transcription from inspected scan; second comparative pass required. Original wrapping retained.
+
+இங்கு அன்னியர் விரட்டப்பட்டு, நாடு, தன்னாட்சி பெறுவது
+மட்டுமே போதும் என்று கருதினால், நிச்சயமாகத் தவறு
+ஏனெனில் இங்கு, அன்னிய ஆட்சியினால் மட்டுமல்ல அதற்கு
+முன்பிருந்தே, நமக்கென்று தோன்றிய சில அரசர்களாலும்
+அவர்கள் அனுஷ்டித்த முறைகளாலும், நமது சமூக
+அமைப்பினாலும் அதன் பயனாக ஏற்பட்ட பழக்க
+வழக்கங்களாலும் நமது வாழ்க்கை இலட்சியத்தினாலும் அதை
+ஒட்டி கட்டி விடப்பட்ட வெட்டி வேதாந்த முறைகளினாலும்,
+நமது மத அமைப்பினாலும் அதைப் பயன்படுத்திக் கொண்ட
+தன்னலக்காரரின் போக்கினாலும், பலப்பல கேடுகள் முளைத்துக்
+காடெனக் கிடந்தன. எனவே அன்னிய ஆட்சி அகன்றால்
+நாட்டின் நலிவு நீங்கி விடும் என்ற அளவோடு அடிகள்
+நிற்கவில்லை - அன்னிய ஆட்சியை நீக்குவதுடன்,
+மக்களாட்சிக்கு, நல்லாட்சிக்குத் தடையாக உள்ள சகல
+கேடுகளையும் நீக்கியாக வேண்டும் என்று தெளிவாகக் கூறினார்.
+
+அவர் காண விரும்பிய காட்சி இந்தியர் ஆளுகின்ற
+இந்தியா என்பது மட்டுமல்ல, தீண்டாமை அடியோடு ஒழிந்து,
+மதத்தின் மாசும் தூசும் போக்கப்பட்டு, ஜாதி பேதம்
+களைந்தெறியப்பட்டு, ஏழையின் வாழ்விலே புதியதோர் கிளர்ச்சி
+ஏற்பட்டு, நாடு இலட்சிய பூமியாக இருக்க வேண்டும்
+என்பதாகும்.
+
+நான் காண விரும்பும் இந்தியா' இவ்விதமானது - என்று
+உரைத்துவிட்டார். உயிர் துறக்கும் நேரம் வரையிலும்
+அதற்காகவே உழைத்தார் - அவர் உயிர் பிரியும் போது
+அவருடைய மனக்கண்முன், எத்தகைய இந்தியா தெரிந்திருக்கும்?
+அவர் காண விரும்பிய காட்சியா! அல்லவே அவர்காண
+விரும்பிய இந்தியாவில் கோட்சே இருக்க முடியுமா - இருக்க
+இடமுண்டா? அவர் காண் விரும்பிய இந்தியாவில் சேரிகள்
+உண்டா? அவர் காண விரும்பிய இந்தியாவில், ஜாதி பேதக்
+கொடுமை இருக்குமா? அவர் காண விரும்பிய இந்தியாவில்
+ஏழையின் வாழ்வு இருண்டு கிடக்குமா? அவர் அவ்விதமான
+இந்தியாவை அல்ல, ஏழைக்கு வாழ்வு தரும் இந்தியாவை -
+எல்லோரும் ஓர் குலம் என்ற இலட்சியத்தைக் கொண்ட
+இந்தியாவைக் காண விரும்பினார். அந்த இலட்சிய பூமியை
+உருவாக்குவதையே பணியென்று கொள்வதுதான், அவருடைய
+காலத்திலே பிறந்தவர்களின் கடமை - அப்போதுதான்
+எதிர்காலத் தலைமுறைகள், 'உத்தமர் மறைந்தார் - ஆனால்
+
+## Part 2 Images 1–2 findings — 2026-09-30
+
+Image 1 was inspected with Part 1's ending; complete draft now saved. Four separately printed goals begin ஏழை ஈடேற வேண்டும், and the closing quotation is retained without OCR's doubled quote. The phrase `கொடி மாற்றமோ, அதிகார மாற்றமோ` is parallel as visible on the scan. Exact phrase இந்தியாவைக் and all spacing still require comparative review. Image 2 (`002-9a54e90b01.png`) inspected in full and drafted. Opening இங்கு follows Image 1's அதுபோல, completing the comparison. Three paragraphs with no new heading. Scan proves தன்னலக்காரரின், ஆளுகின்ற and இலட்சிய பூமியை; false OCR periods after ஒட்டி/கட்டி/வெட்டி removed in draft. Preserve the printed unusual `அவர் காண் விரும்பிய` in one question rather than normalize every repetition. Page closes the quoted future-generation statement mid-sentence at `ஆனால்`; Image 3 must be visually checked next. Canonical text unchanged; recovery not released.

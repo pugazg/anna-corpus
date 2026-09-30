@@ -105,3 +105,7 @@ Both scans visually inspected and complete provisional Tamil drafts saved. Image
 ## Part 1 initial inspection complete — 2026-09-30
 
 Images 22–23 inspected and complete provisional drafts saved; Part 2 Image 1 visually inspected to verify the ten-goal-list continuation. Part 1 initial coverage is 23/23, but comparative review and a lower-edge Image 22 check remain. Next exact Part 2 Image 1 draft, Part 2 Image 2 and focused reconciliation; do not promote unreconciled drafts. No canonical changes, hold release, state refresh or tests. Previous pushed checkpoint `d49a613`.
+
+## Part 2 Images 1–2 drafts — 2026-09-30
+
+Complete provisional drafts saved for Part 2 Images 1–2; Image 2 visually inspected, incoming அதுபோல / இங்கு verified. Four-goal list and bounded OCR corrections recorded. Outgoing quoted ஆனால் needs Image 3. Next Part 2 Image 3, then Image 4; retain comparative-review requirement across both parts. No canonical changes, release, state refresh or tests. Previous pushed checkpoint `7711896`.
