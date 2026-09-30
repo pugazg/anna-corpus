@@ -69,3 +69,7 @@ Drafted Image 9 in full. Visually inspected Image 10 including its heading, murd
 ## Image 10 draft and Image 11 inspection — 2026-09-30
 
 Drafted Image 10 in full. Image 11 visually checked, including the incoming Burma passage, அவுங்காளைச் source name, உத்தமரை இழந்தோம் heading, cremation date/time, and the damaged final sentence now recorded as scan-visible அனுபவித்தறியாத. Next exact Image 11 transcription and Image 12 inspection; earlier draft comparison and remaining scans still required. No canonical changes, release, state refresh or tests. Previous pushed checkpoint `4f53fc6`.
+
+## Image 11 draft and Image 12 inspection — 2026-09-30
+
+Drafted Image 11; flagged the Burma leader-name consonant for native comparison before promotion. Image 12 visually inspected: opening ஒரே/ஏக்கம்!, ஆறுதல் and மாபெருந் readings recorded; one case ending remains provisional. Page ends அந்த வெறியன் and needs Image 13 join verification. Next Image 12 draft, Image 13 inspection and flagged native checks. No canonical changes, release, state refresh or tests. Previous pushed checkpoint `0052a88`.
