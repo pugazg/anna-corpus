@@ -101,3 +101,7 @@ Both images visually inspected and complete provisional Tamil drafts saved. Veri
 ## Images 20–21 inspection and drafts — 2026-09-30
 
 Both scans visually inspected and complete provisional Tamil drafts saved. Image 20 essay ending, ruled heading and பரம ஏழைகளும் quotation verified; Image 21 incoming Nehru attribution and imperialism discussion checked. Outgoing முரசறையும் requires Image 22. Next Images 22–23, then Part 2 and comparative reconciliation. No canonical changes, release, state refresh or tests. Previous pushed checkpoint `8f51ba1`.
+
+## Part 1 initial inspection complete — 2026-09-30
+
+Images 22–23 inspected and complete provisional drafts saved; Part 2 Image 1 visually inspected to verify the ten-goal-list continuation. Part 1 initial coverage is 23/23, but comparative review and a lower-edge Image 22 check remain. Next exact Part 2 Image 1 draft, Part 2 Image 2 and focused reconciliation; do not promote unreconciled drafts. No canonical changes, hold release, state refresh or tests. Previous pushed checkpoint `d49a613`.

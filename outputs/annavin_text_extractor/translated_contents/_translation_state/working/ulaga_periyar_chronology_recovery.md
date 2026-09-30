@@ -820,3 +820,105 @@ Working transcription from visually inspected scan; comparative pass required. O
 Both scans inspected in full. Image 20 starts a new paragraph after Image 19's completed sentence. Preserve the unusual printed `திருத்தாதே` in the religious-reform argument; do not normalize its rhetoric. The essay closes at `அனைவரும்.` before ruled heading `அவர் காண விரும்பிய நாடு`. Opening quotation proves `பரம ஏழைகளும்`, not mixed-script OCR `(ரம`; quote continues with caste equality and mutual harmony, then closes at page bottom. Name நாதுராம் விநாயக் கோட்சே and Hyderabad reference retained as printed source assertions.
 
 Image 21 opens `இதுவே, உலக உத்தமர் காந்தியாரின் இலட்சியம் என்று அறிவிக்கிறார் பண்டித நேரு.` identifying the preceding quotation. Three paragraphs, no new heading. Bounded defects include போர்த்திறனோடு, ஆட்சியின்கீழ் and ஒளி; original foreign names retained without modernized spelling. Final word `முரசறையும்` carries into Image 22, which requires visual confirmation. No canonical promotion or translation; all drafts still need comparative reconciliation. Next Images 22–23, completing Part 1's initial visual pass.
+
+
+## Image 22 Tamil draft — 2026-09-30
+
+Working transcription from inspected scan; second comparative pass required. Original wrapping retained.
+
+திறமுடையோர் இருந்து, முரசு அமையாது இருந்ததுண்டு.
+ஆனால் அடிமைப்பட்ட எந்த நாடும், எப்பாடுபட்டேனும்,
+எத்தனை முறை தோற்றேனும் விடுதலையைப் பெறாமல்
+போனதில்லை. ஏறத்தாழ இயற்கையின் கட்டளை, இந்த
+விடுதலை வேட்கை. எனவேதான், எவ்வளவு பெரிய பலமுள்ள
+நாட்டின் பிடியிலே சிக்கி விட்டாலும், ஒருநாள், விடுதலை
+பெறுவோம் என்ற எண்ணம் கருதவில்லை.
+
+விடுதலைப் போர் நடத்தப்படும் காலம் நாட்டின்
+வரலாற்றிலே சுவையுள்ள பகுதி வீரச் செயல்கள், தியாக
+நிகழ்ச்சிகள் நிரம்பிய பகுதி குன்றுகள் கோட்டைகளாகி, வீதிகள்
+போர் முகாமாகி, வீடுகளெல்லாம் பாசறையாகி, நாட்டு மக்கள்
+வீரர்களாகும் வேளை அது. அப்போதெல்லாம் அவர்களின்
+ஒரே நோக்கம், ஓரே லட்சியம் தன்னாட்சி பெறுவது
+என்பதுதான். தோட்டத்துக்குள்ளே புகுந்து புலியை விரட்டி
+அடித்துக் கொல்ல வேண்டுமென, தோட்டக்காரர் தன்
+துணைவருடன் கூடி ஆயுதமெடுத்து, புலி தப்பி ஓடாதபடி
+நாற்புறமும் நல்ல முறையில் காவல் அமைத்து, தாமாக உள்ளே
+நுழைந்து புலியுடன் போராடுகிறபோது, எப்படியாவது இந்தப்
+புலியை அடித்துக் கொன்று விட்டால் போதும் என்ற ஓரே
+எண்ணம்தான் தோன்றும். புலி கொல்லப்பட்டதும், “அப்பா!
+கொன்று விட்டோம் புலியை இனிப் பயமில்லை” என்ற ஆறுதல்
+தோன்றும் - ஆயாசமும் ஏற்படக் கூடும். அதுபோலவே
+பல்வேறு நாடுகளிலே, விடுதலைப்போர் நடந்த காலங்களி
+லெல்லாம் எப்படியாவது, நம்மை அடிமைப்படுத்திய அன்னிய
+ஆட்சியை ஒழித்து நாட்டிலே, தன்னாட்சியை ஏற்படுத்த
+வேண்டும் என்ற ஓரே எண்ணம், ஓரே இலட்சியமே தலை சிறந்து
+விளங்கிற்று. அந்த ஒரே குறிக்கோளுடனேயே, மக்கள் வீரமாகப்
+பணியாற்றினர் - அவர்களை நடத்திச் சென்ற தலைவர்களும்
+பல நாடுகளிலே விடுதலை வேட்கையை மட்டுமே,
+முக்கியமானதாக்கினர். பல நாடுகளிலே விடுதலை கிட்டியதும்,
+மக்கள், தமது நோக்கம் ஈடேறி விட்டது. அன்னியன்
+விரட்டப்பட்டான். தாய்நாடு தலைநிமிர்ந்து நிற்கிறது. சுதந்திரக்
+கொடி கெம்பீரமாகப் பறக்கிறது. ஆகவே, நமது வேலை
+முடிந்தது. இனிச் சொந்த வேலையைப் பார்ப்போம் என்று
+எண்ணி அங்ஙனமே, பழையபடி “பிரஜைகள்” ஆகிவிடுவதே
+முறை எனக் கொண்டனர். - புலியைக் கொன்றான் பிறகு
+தோட்டக்காரன் தன் வேலை முடிந்தது என்று எண்ணி விடுவது
+
+
+
+
+## Image 23 Tamil draft — 2026-09-30
+
+Working transcription from inspected scan; second comparative pass required. Original wrapping retained.
+
+போலவே, புலி புகுந்ததால் ஏற்பட்ட சேதம், புலியைக் கொல்ல
+போரிட்டதால் உண்டான சேதம் ஆகியவைகளைப் போக்குவது,
+வேறு ஏதேனும் துஷ்ட மிருகங்கள் புகாதபடி பாதுகாவல்
+அமைப்பது போன்ற காரியங்களைக் கூட தோட்டக்காரன்
+வெற்றிபெற்ற மகிழ்ச்சியால், கொஞ்சகாலம் பொறுத்துத்தான்
+செய்ய முற்படுவான். அதுபோலவே அடிமைப்பட்டிருந்தபோது
+ஏற்பட்ட அவதிகளையும் அல்லல்களையும் துடைத்திடும்
+அரும்பணியை விடுதலைப் போரில் வெற்றிபெற்ற பல நாடுகள்
+செய்யாமல் இருந்துவிட்டதுண்டு. காலங் கடந்தபின் செய்யத்
+தொடங்கியதுண்டு.
+
+இந்தியாவின் விடுதலை சம்பந்தமாகக் கவனித்தாலோ,
+இவை போல மட்டுமல்ல, மற்ற நாடுகளிலே ஏற்பட முடியாத
+நிலைமை இங்கு இருக்கக் காணலாம்.
+
+அடிமைப்பட்ட பல நாடுகளிலே, சுதந்திரம் வேண்டும்
+என்பது மட்டுமே பிரச்சினை - இங்கோ, சுதந்திரமும் வேண்டும்.
+புது சமுதாய அமைப்பும் வேண்டும் என்று கேட்க வேண்டிய
+நிலைமை இருந்தது. இங்கோ, விடுதலை வேண்டும் என்று
+போராடத் தொடங்கியபோது, அன்னிய ஆட்சி ஒழிய வேண்டும்
+என்பது மட்டும் முழக்கமாக இல்லை - அந்த ஒரு முழக்கம்
+மட்டும் போதுமானதாகத் தெரியவில்லை. அன்னிய ஆட்சி
+மட்டும் தொலைந்தால் போதும் என்ற அளவுடன் நின்று விட
+மனமில்லை. ஏனெனில் இந்நாட்டு அமைப்புமுறை, தேவையான
+வேறு பல இலட்சியங்களைக் கொள்ள வேண்டிய நிலையை
+ஏற்படுத்தி விட்டது. எனவேதான் இங்கு சாதாரணமாக,
+அடிமைப்படுத்தப்பட்ட மற்ற நாடுகளிலே, அன்னிய ஆட்சி
+ஒழிய வேண்டும் என்ற ஓரே முழக்கம் மட்டும் கிளம்பியது
+போலல்லாமல்,
+
+அன்னிய ஆட்சி ஒழிய வேண்டும்
+மக்களாட்சி மலர வேண்டும்
+
+இந்து -முஸ்லீம் ஒற்றுமை வேண்டும்.
+தொழில்கள் பெருக வேண்டும்.
+கல்வி பரவ வேண்டும்
+
+ஜாதி பேதம் ஒழிய வேண்டும்
+தீண்டாமை போக வேண்டும்.
+கிராமச் சீர்பட வேண்டும்.
+
+வறுமை போக வேண்டும்.
+
+சுரண்டல் முறை ஒழிய வேண்டும்.
+
+## Part 1 ending and Part 2 opening — 2026-09-30
+
+Images 22–23 visually inspected in full, plus Part 2 Image 1. Image 22 opens திறமுடையோர், completing Image 21's முரசறையும். Retain unusual printed `பெறுவோம் என்ற எண்ணம் கருதவில்லை` rather than rewrite from context. The final analogy joins Image 22's `தோட்டக்காரன் தன் வேலை முடிந்தது என்று எண்ணி விடுவது` to Image 23's `போலவே, புலி புகுந்ததால் ஏற்பட்ட சேதம்`; lower-edge partial glyph traces in Image 22 need close comparison before final source approval, not conjectural prose. OCR's detached `ு... ஆ` is omitted from this provisional draft as non-prose noise, pending that focused check.
+
+Image 23 contains three paragraphs followed by ten separately printed goals, ending சுரண்டல் முறை ஒழிய வேண்டும். Preserve the printed unusual `கிராமச் சீர்பட வேண்டும்.` pending comparative glyph review; do not replace from normal grammar. Part 2 Image 1 opens `என்ற வேறு பல இலட்சிய முழக்கங்கள் கிளம்பின.` confirming continuation from the ten-goal list. Its first two paragraphs and four further goal lines were visually read, followed by closing paragraph ending அதுபோல. Full exact Part 2 Image 1 draft remains next. Part 1 initial visual inspection now covers all 23 scans; its drafts and unresolved focused checks still require comparative reconciliation. Part 2 has 22 scans and remains in recovery; no English begun or canonical promotion.
