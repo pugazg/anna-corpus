@@ -107,7 +107,7 @@ unbelievable, obscene stories, and that this is the mark of a religious person, 
 
 9. (a) Kayamukan, the gatekeeper at Surapanman's southern entrance, had a thousand heads and two thousand arms and legs. (b) When Kayamukan, with his three thousand
 
-[Working-draft recovery marker: the printer footer here remains unresolved. The current canonical OCR transcription is `12 பே.௮.௧ பூவெ.எண் 70`; this is not a verified reading or a completed translation of the footer. Resolve before canonical assembly.]
+[Working-draft recovery marker: the printer footer here remains unresolved. The current canonical OCR transcription is `12 பே.௮.௧ பூவெ.எண் 470`; the number 470 was visually verified on 2026-09-16, but the abbreviation letters and punctuation remain unverified and the footer translation is incomplete. Resolve before canonical assembly.]
 
 ### Image 2: 002-8b2fe2aaff.png
 

@@ -267,3 +267,29 @@ Reopened Image 6 and transcribed all seventeen rows. Working text pending compar
 The final row's year and both day numbers are visible again; retain the anomaly without historical reconstruction. Image 7 (`007-3a537e65c3.png`) was visually inspected in full: it starts the independent heading `மாணவர்களே பின்பற்றுங்கள்`, with an introduction and three solid-circle bullets. The next heading is `காந்திஜி அனுஷ்டித்த உண்ணாவிரதங்கள்`, followed by its introduction and three bullets (1924, 1932, 1933). Image 6 therefore ends a complete printed sentence; Image 7 does not supply an omitted continuation of the anomalous chronology row.
 
 Image 7 scan-proven OCR defects to repair during canonical reconciliation: `உபதேச நபமாகச்` must be `உபதேச ரூபமாகச்`; `கரத` must be `கருத`; OCR's standalone உ/ஓ/ஓஒ represent solid-circle bullets, not Tamil words. The printed paragraph wraps `ஆத்மா பரிசுத்தத் / துக்காகவும்` and `முக்கியமானவை / கள்`; join as `ஆத்மா பரிசுத்தத்துக்காகவும்` and `முக்கியமானவைகள்`. The last bullet ends `பர்ணகுடியில் உபவாசம் முடிந்தது.` Complete exact Image 7 transcription and Image 8 continuity review remain next, alongside the chronology comparative pass. Re-OCR of all 45 scans remains outstanding. No source release, English translation, state refresh or tests.
+
+## Image 7 Tamil draft — 2026-09-28
+
+Working transcription from the inspected scan, pending second comparative review. Solid-circle bullets represented by Markdown bullets; prose wrapping joined.
+
+### மாணவர்களே பின்பற்றுங்கள்
+
+மாணவர்கள் பின்பற்றுவதற்காக மகாத்மா காந்தி உபதேச ரூபமாகச் சில அருள்மொழிகளைக் கூறியிருக்கிறார். அவைகள் ஒவ்வொன்றும் சிறந்த மாணிக்கச் சொற்களாகும்.
+
+- மாணவர்கள் அரசியலிலும் கட்சி வாதங்களிலும் ஈடுபடக்கூடாது. அவர்கள் அரசியல் வேலை நிறுத்தங்களிலும் ஈடுபடக் கூடாது. அவர்கள் நூல் நூற்பதைத் தங்களுடைய முக்கிய கடமைகளில் ஒன்றாகக் கருத வேண்டும். அவர்கள் கதருடையையே அணிய வேண்டும்.
+- மாணவர்கள் வகுப்பு உணர்ச்சிக்கோ அல்லது தீண்டாமை உணர்ச்சிக்கோ மனதில் இடந்தரலாகாது. தேசியக்கொடியின் தத்துவத்தை அவர்கள் உணர வேண்டும். மாணவர்கள் தோட்டி வேலை செய்யவும் தயாராக இருக்க வேண்டும்.
+- மாணவர்கள் தங்களுடைய உயிர் போவதாக இருந்தாலும், அஹிம்சையைக் கைவிடலாகாது. அவர்கள் ரகசியமாக எதுவும் செய்யக்கூடாது. அவர்கள் எப்பொழுதும் தியாகம் செய்யத் தயாராக இருக்க வேண்டும்.
+
+### காந்திஜி அனுஷ்டித்த உண்ணாவிரதங்கள்
+
+மகாத்மா காந்தி பல தடவைகளில் தமது ஆத்மா பரிசுத்தத்துக்காகவும், ஹிந்து முஸ்லீம் ஒற்றுமைக்காகவும் உண்ணாவிரதம் எடுத்திருக்கிறார். அந்த உண்ணாவிரதங்களில் முக்கியமானவைகள் பின்வருமாறு :
+
+- 1924, செப். 18: கோஹத்தில் ஹிந்து - முஸ்லீம் கலவரத்தை நிறுத்த டில்லியில் 21 நாள் உண்ணாவிரதம் இருந்தார்.
+- 1932, செப். 20, மாக்டொனால்டு வகுப்புத் தீர்ப்பை எதிர்த்து எர்ரவாடா சிறையில் சாகும்வரை உண்ணாவிரதம் தொடங்கினார். செப்டம்பர் 26-ந் தேதி சர்க்கார் அனுப்பிய அறிக்கை கண்டு திருப்தியடைந்து உண்ணாவிரதத்தை நிறுத்தினார்.
+- 1933, மே 8, தம்மை பரிசுத்தமாக்கிக் கொள்ள காந்திஜி எர்ரவாடா சிறையில் 21 நாள் உபவாசமிருந்தார். அதே தினம் சர்க்கார் அவரை விடுதலை செய்தனர். பூனாவிலுள்ள பர்ணகுடியில் உபவாசம் முடிந்தது.
+
+## Image 8 scan findings — 2026-09-28
+
+Inspected full `008-246d1aa771.png`. The fasting list continues with three solid-circle bullets dated 1943, 1947 and **1948**, not OCR's 1949. First date is `பிப். 10`, not `பிப். 1/0`. These are direct scan readings, not corrections from biography. The final fast begins January 13 and ends on the eighteenth as printed. Three floral ornaments end the list before the ruled heading `வாழ்க்கை வழிகாட்டி`; OCR's `டட்கட்கட்` is not source prose.
+
+The essay opens with the drop-cap portion joined as `மோகன்தாஸ் கரம்சந்த் காந்தியார்`. First paragraph closes `என்று நாடு கலங்கிற்று.` (OCR `கலங்கிந்று`). In the third paragraph the scan reads `ஆதிக்கத்துக்கும்`, not OCR `அதிக்கத்துக்கும்`. The scan ends mid-sentence at `கருத்து வேற்றுமையைச் சாக்காகக்`; Image 9's OCR starts `கொண்டு,`, but its pixels remain to be checked before declaring the join reconciled. Exact Image 8 transcription and Image 9 inspection are next. All working drafts still require comparative review; canonical text and recovery hold unchanged.

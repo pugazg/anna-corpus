@@ -53,3 +53,7 @@ Drafted seventeen Image 5 rows with salt-satyagraha subheading. Inspected Image 
 ## Image 6 draft and Image 7 transition — 2026-09-28
 
 Reopened Image 6 and drafted all seventeen rows, retaining the anomalous final printed date. Visually inspected Image 7: new student-advice section and opening three fasting-list entries, with scan-proven OCR defects recorded in the chronology working file. No missing sentence continuation crosses this boundary. Next Image 7 exact transcription, Image 8 continuity and comparative chronology review; all-45-scan re-OCR still outstanding. No canonical changes, release, state refresh or tests. Previous pushed checkpoint `f596c57`.
+
+## Image 7 draft and Image 8 inspection — 2026-09-28
+
+Drafted complete Image 7 student advice and three fasting entries. Image 8 visually confirms the next three entries and 1948 (OCR 1949), followed by floral ornaments and வாழ்க்கை வழிகாட்டி. Recorded bounded prose defects and the unfinished sentence at the lower boundary. Next exact Image 8 draft and visual Image 9 join; earlier comparative passes and all-scan re-OCR remain outstanding. No canonical edits, release, state refresh or tests. Previous pushed checkpoint `b89c43f`.
