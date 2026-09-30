@@ -117,3 +117,7 @@ Both scans visually inspected and complete provisional drafts saved. Verified qu
 ## Part 2 Images 5–6 inspection and drafts — 2026-09-30
 
 Both scans visually inspected and complete provisional drafts saved. Verified அஞ்சிக் / கிடந்தனரேயொழிய join; bounded glyph corrections recorded and named astrological/political references preserved. Outgoing வெளியூரான் needs Image 7. Next Part 2 Images 7–8. No canonical changes, release, state refresh or tests. Previous pushed checkpoint `d9f9837`.
+
+## Part 2 Images 7–8 inspection and drafts — 2026-09-30
+
+Both scans visually inspected and complete provisional drafts saved. Verified வெளியூரான் / கேட்க and இது போன்ற / புகழுரைகள் joins. Nine printed praise claims, 500/76 figures, miracle counterfactual and family description retained. Outgoing ஜெமீன்கள் needs Image 9. Next Part 2 Images 9–10. No canonical changes, release, state refresh or tests. Previous pushed checkpoint `4dcbab6`.
