@@ -156,3 +156,8 @@ Both scans visually inspected with provisional drafts saved. Image 18→19 and I
 ## 2026-09-30 — Part 2 Images 21–22; initial inspection complete
 
 Final two scans visually inspected; provisional drafts and closing ornaments saved. Coverage now 45/45 initially inspected (Part 1 23 and Part 2 22). The ending is visible, but all drafts require complete comparative review before canonical source release. Next Part 1 Images 1–3, then the remaining chronology and prose, with native checks of flagged readings. No English translation, state refresh or count change.
+
+
+## 2026-09-30 — comparative review, Part 1 Images 1–3
+
+Title/date and both opening chronology drafts compared again with complete scans. All 31 year/event rows and both intervening headings checked. Native crop confirms பிரிட்டிஷ் and repairs the working draft’s vowel error. Evidence saved in ulaga_periyar_evidence/image2_final_row_review.png. Comparative coverage 3/45; next Part 1 Images 4–6. No canonical release, English translation, state refresh or count change.

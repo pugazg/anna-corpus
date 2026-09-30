@@ -68,7 +68,7 @@ Working transcription from the inspected scan; retain for a second visual pass b
 
 1908 — அக். மீண்டும் சிறைவாசம்.
 
-1909 — ஜூன். பிரிட்டீஷ் சர்க்காரிடம் தூது போக இங்கிலாந்து பிரயாணம்.
+1909 — ஜூன். பிரிட்டிஷ் சர்க்காரிடம் தூது போக இங்கிலாந்து பிரயாணம்.
 
 ## Image 3 scan findings — 2026-09-28
 
@@ -1976,3 +1976,10 @@ Provisional scan-compared transcription; full comparative review remains require
 Image 21 begins நல்லவர்களாக்குமளவுக்குப், completing Image 20 மக்களை. Four paragraphs, no heading/footer. Restore ஆதிக்கம் / ஆதிக்க வெறி and விதைகளைத் தூவ; false double stops after பாடுபடலானார் and stop after இவருடைய removed. The detached ப after திடுக்கிடுகிறது is absent from the scan. Preserve printed தன் ஆட்சி, அழுதான and the odd இதோ இருக்கிறது. wording. Ends அந்த; Image 22 begins உருவில்.
 
 Image 22 is a shorter final scan with two paragraphs and three closing floral ornaments. Restore உருவில், ஆதிக்க, ஒழித்தாக and என்பதே; no stop before மேற்கொள்வேன். Preserve printed ஆற்றலேயாகும் and அவரை காண்பேன் without grammatical rewriting. Final sentence ends நிலையான ஞாபக சின்னம். The ornaments are represented as ❧ ❧ ❧, not letters. No footer or further prose visible. All 45 available scans now initially inspected, with provisional drafts; this is not source release. Next full comparative review from Part 1 Images 1–3, including chronology alignment, all page joins and flagged native glyph readings. English translation has not begun.
+
+
+## Comparative review — Part 1 Images 1–3 — 2026-09-30
+
+Reopened all three complete scans and compared the title and both chronology drafts row by row. Image 1 title உலகப் பெரியார் காந்தி and date 8-2-1948 agree with the canonical source. Image 2 has sixteen rows and Image 3 fifteen, with all printed years matched to their adjacent events; the repeated years remain separate. No missing event row identified. Image 3’s two intervening headings remain in their printed positions. All dates and numbers, including 1913 டிச. 18 and 1919 ஆசிய இந்தியா, retained as printed without biographical normalization.
+
+Native-resolution crop image2_final_row_review.png confirms பிரிட்டிஷ், correcting the provisional draft’s பிரிட்டீஷ். Image 2 and Image 3 row drafts above have now received the second visual comparison. Row wrapping is joined; dashes preserve the year/event relationship. The ruled title, centered chronology heading and bold intervening headings should be retained in the eventual canonical formatting. No canonical promotion or hold release yet: review must cover all 45 scans, with outstanding native glyph checks. Next Part 1 Images 4–6.
