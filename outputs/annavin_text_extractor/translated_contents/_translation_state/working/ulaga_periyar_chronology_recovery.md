@@ -339,3 +339,27 @@ Working transcription, pending comparative review; Image 9 begins the continuati
 பிறகோர் நாள், பிரார்த்தனைக் கூட்டம் நடந்து கொண்டிருக்கையில் வேறோர் பித்தன், வெடிகுண்டு வீசினான்.
 
 Image 10 (`010-a42d3f3ea8.png`) visually inspected in full. It starts a separate complete sentence about another arrest at Nehru's meeting; no missing sentence continuation from Image 9. OCR corrections proven by pixels: `பிடி. பட்டான்` → `பிடிபட்டான்`; `சுட்டி ருக்கிறான்` → `சுட்டிருக்கிறான்`; `பேந்தப் பேந்த` → `பேந்தப் பேந்த` retained without normalization; `கடை சியில்` → `கடைசியில்`; `அந்த சாசனத்தைகத்` → `அந்த சாசனத்தைத்`; `சுழல் துப்பாக்கிக் கொண்டு` → `சுழல் துப்பாக்கிக் கொண்டு` retained as printed. Preserve printed `காதகன்` in the murder paragraph. Heading `கண்ணீரைத் துடைத்துக் கடமையைச் செய்வோம்` separates the lead-in from the murder/appeal passages. Seven ministers and the final dash are visible. Exact Image 10 draft and visual Image 11 join remain next; no canonical changes yet.
+
+## Image 10 Tamil draft and Image 11 inspection — 2026-09-30
+
+Working transcription from inspected Image 10, pending comparative review.
+
+அதற்குப் பிறகோர் நாள், பண்டித நேருவின் கூட்டத்தில், வெடிகுண்டு கையுமாக மற்றொருவன் பிடிபட்டான். அவன் ஒரு சீக்கியன் என்ற செய்தி கிடைத்தது.
+
+இவைகளுக்கெல்லாம் முன்னே, அன்பர் ராஜகோபாலாச்சாரியாரின் மோட்டார் மீது எவனோ ஒருவன் சுட்டிருக்கிறான்.
+
+இந்தக் கோரக் கொலை நடைபெறுவதற்குச் சில நாட்களுக்கு முன்பு, பிர்லா மாளிகையிலே அவர் தங்கியிருந்த அறையின் பக்கம், எவனோ ஒருவன் நுழைந்தான். யார், என்ன என்று கேட்டபோது, பேந்தப் பேந்த விழித்தான் என்று சேதி வந்தது.
+
+இப்படிப் பலவிதமான முயற்சிகளைச் செய்து வந்தனர் பாதகர்கள்.
+
+### கண்ணீரைத் துடைத்துக் கடமையைச் செய்வோம்
+
+கடைசியில், பிரார்த்தனைக் கூட்டத்தில், அவருக்கு எதிரே நின்று, திரளான மக்கள் கூடியிருந்த மன்றத்தில் கைத்துப்பாக்கியால் அவரைச் சுட்டுக் கொன்று விட்டான் காதகன்.
+
+இத்தகைய படுகொலைகள் மூலம், ஆதிக்கத்தைப் புகுத்த வேண்டும் என்ற தீயநோக்கத்துடன் வேலை செய்யும் ஒரு சதிகாரக் கும்பல் இருப்பதாகத் தகவல் கிடைத்தது. சர்க்கார் தீவிரமான நடவடிக்கைகள் எடுத்துக் கொண்டிருப்பதுடன், நாடெங்கும், எவ்விதமான நிலைமையையும் சமாளிக்கத்தக்க முன்னேற்பாடுகளையும் செய்துள்ளனர்.
+
+இந்தத் துக்ககரமான சம்பவத்தால், நாடு, தன் நிதானத்தை இழந்து விடக் கூடாது என்பதுதான், நானிலமெங்குமுள்ள நல்லறிவாளர்களின் வேண்டுகோள் அறிவுரை.
+
+சதிச் செயலைக் கண்டுபிடித்து, அவர்களைச் சட்டம் தண்டிக்கும். சர்க்காருக்கு அதற்கான சக்தியும் திறமையும் இருக்கிறது. நமது ஒற்றுமையுடன் கூடிய நிலை, அதற்குப் பக்கபலமாக நிற்க வேண்டும். ஏகாதிபத்தியத்திடமிருந்து விடுதலையைப் பெற்று, அந்த சாசனத்தைத் தயாரிக்கும் அரும்பணியிலே ஈடுபட்டு, அமைச்சர்கள் தமது அலுவலகத்தில் பணியாற்றிக் கொண்டிருந்த நேரத்தில், சுழல் துப்பாக்கிக் கொண்டு, அவ்வளவு பேரையும், ஏழு அமைச்சர்களையும் சுட்டுக் கொன்றான், பர்மாவில் சில காலத்துக்கு முன்பு. இன்றும், குண்டு பாய்ந்த அந்த சடலங்களை வைத்துக் கொண்டுள்ளனர் -
+
+Image 11 (`011-bb6adace5f.png`) inspected in full. Opening `அமைச்சர்களை, அவர்களின் தலைவர் அவுங்காளைச் சுட்டு வீழ்த்தினால்,` follows Image 10's dash and continues the Burma comparison; preserve source name அவுங்காளைச் without replacing it from history. First paragraph proves `கண்ணீரைத்` (OCR கண்ணீரைக்), `நம் அண்டை` (OCR தம்), and `மனமாச்சியம்` (printed form retained). Heading `உத்தமரை இழந்தோம்` starts a separate ruled section. Cremation date/time visibly `31-1-48 மாலை 5 மணிக்கு`, consistent with the previously bounded canonical correction. The damaged final OCR sentence is visibly `இதுவரை அவர்கள் அனுபவித்தறியாத விதமாக ஆக்கி விட்டிருக்கும்.` Its paragraph and page close here; Image 12 begins a new paragraph in OCR and remains to be checked visually. Exact Image 11 transcription and Image 12 inspection next; no canonical promotion yet.
