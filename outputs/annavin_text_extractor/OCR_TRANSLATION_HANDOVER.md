@@ -1,6 +1,6 @@
 # OCR-Origin Translation Handover
 
-Updated: 2026-09-25
+Updated: 2026-09-30
 
 ## Objective
 
@@ -8,17 +8,17 @@ Complete all 962 canonical OCR-origin works as bilingual Markdown documents:
 
 | Category | OCR target | Translated | Pending |
 |---|---:|---:|---:|
-| katturaigal | 551 | 547 | 4 |
+| katturaigal | 551 | 548 | 3 |
 | nadagangal | 62 | 35 | 27 |
 | sirukathaigal | 108 | 108 | 0 |
 | sorpozhivugal | 241 | 196 | 45 |
-| **Total** | **962** | **886** | **76** |
+| **Total** | **962** | **887** | **75** |
 
 The authoritative live pending list is:
 
 `translated_contents/_translation_state/ocr_pending_links.md`
 
-Its current split is 76 works needing OCR/source recovery and no works whose
+Its current split is 75 works needing OCR/source recovery and no works whose
 OCR source is currently safe enough for bilingual translation. Always
 regenerate the report after completing one work; do not rely on the numbers in
 this handover after work resumes.
@@ -33,6 +33,9 @@ this handover after work resumes.
   commits and pushes from this workspace without asking again.
 
 ## Most Recently Completed Work
+
+2026-09-30: பெரிய புராணப் புதையல் / The Treasure of the Periya Puranam is complete. User verified both printer footers verbatim; all seven parts and 70 scans are translated and comparatively reviewed, with retained Tamil SHA-256 `c59d4ae31393d4ea91a2bf2d6f06bab1386fd1bf9114eeecbcf5857acb958dbe`. Hold released; state refreshed to 887/962 verified, 75 pending; absent from pending list; audit zero issues and all 16 tests pass. Resume உலகப் பெரியார் காந்தி: Image 7 draft and Image 8 visual findings saved in `31dc5a4`; next exact Image 8 transcription and Image 9 join, chronology comparative review, and all-45-scan re-OCR. Romapuri holds remain unresolved.
+
 
 `katturaigal/latchiya_varalaru.md` (`இலட்சிய வரலாறு` / `History of an Ideal`) is complete: all six parts and 58 scans translated and comparatively reviewed. Tamil retention is exact; retained-body SHA-256: `19bed4883353f09abe79e4d295b0a7a311c8f16504f2c641bd9758d5114afb35`. Translator notes and difficult-term records preserve printed anomalies and uncertain interpretations separately. Recovery hold released; state refreshed to 885/962 OCR-origin works verified, 77 pending. The work is absent from the pending list. Audit: zero issues; all 15 tests pass.
 
@@ -59,6 +62,9 @@ this handover after work resumes.
   contains the bilingual document and refreshed state: `a8ea47c`, pushed to origin/main.
 
 ## Next Work
+
+2026-09-30: பெரிய புராணப் புதையல் / The Treasure of the Periya Puranam is complete. User verified both printer footers verbatim; all seven parts and 70 scans are translated and comparatively reviewed, with retained Tamil SHA-256 `c59d4ae31393d4ea91a2bf2d6f06bab1386fd1bf9114eeecbcf5857acb958dbe`. Hold released; state refreshed to 887/962 verified, 75 pending; absent from pending list; audit zero issues and all 16 tests pass. Resume உலகப் பெரியார் காந்தி: Image 7 draft and Image 8 visual findings saved in `31dc5a4`; next exact Image 8 transcription and Image 9 join, chronology comparative review, and all-45-scan re-OCR. Romapuri holds remain unresolved.
+
 
 2026-09-28: Supplied Viduthalaippor PDF is no longer at its Downloads path; comparison through PDF 61 is pushed in `3bb8722`, but pages 62–64 remain uninspected. Saved evidence is intact. Independent recovery proceeds with உலகப் பெரியார் காந்தி: Part 1 Images 1–2 reopened and sixteen chronology year/event alignments recorded in `working/ulaga_periyar_chronology_recovery.md`. Next exact Tamil row transcription and Images 3–6; do not release any existing hold.
 

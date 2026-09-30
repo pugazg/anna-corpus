@@ -1,6 +1,6 @@
 # The Treasure of the Periya Puranam / பெரிய புராணப் புதையல் — working translation
 
-Status: INCOMPLETE; not a canonical bilingual document. All 11 Part 1 scans and the prose/numbered examples of Part 2 Images 1–10, plus all 10 Part 3 images and all 10 Part 4 images, plus the prose of all 10 Part 5 images and all 10 Part 6 images, plus Part 7 Images 1–9, are translated and compared with the reconciled Tamil. The printer footers in Part 2 Image 1 and Part 5 Image 3 remain unresolved and are explicitly marked in this draft. All seven parts now have English prose drafts. Full comparative prose review is complete across all seven parts and 70 scan sections, excluding the two unresolved printer footers. Next: recover both footer readings, finalize translator notes and difficult-term records, then assemble and audit the canonical bilingual document. Do not release the recovery hold or refresh state before those requirements are met.
+Status: Historical working draft; canonical bilingual document assembled on 2026-09-30 after user verification of both printer footers. The earlier status narrative below is retained as checkpoint history. All 11 Part 1 scans and the prose/numbered examples of Part 2 Images 1–10, plus all 10 Part 3 images and all 10 Part 4 images, plus the prose of all 10 Part 5 images and all 10 Part 6 images, plus Part 7 Images 1–9, are translated and compared with the reconciled Tamil. The printer footers in Part 2 Image 1 and Part 5 Image 3 remain unresolved and are explicitly marked in this draft. All seven parts now have English prose drafts. Full comparative prose review is complete across all seven parts and 70 scan sections, excluding the two unresolved printer footers. Next: recover both footer readings, finalize translator notes and difficult-term records, then assemble and audit the canonical bilingual document. Do not release the recovery hold or refresh state before those requirements are met.
 
 Source recovery: all 70 scans visually reviewed. The printer footers at Part 2 Image 1 and Part 5 Image 3 remain unresolved; keep their current Tamil unchanged and retain the recovery hold. This draft translates only reconciled passages. No translation-state refresh or pending-count reduction is authorized by this partial checkpoint.
 
@@ -107,7 +107,7 @@ unbelievable, obscene stories, and that this is the mark of a religious person, 
 
 9. (a) Kayamukan, the gatekeeper at Surapanman's southern entrance, had a thousand heads and two thousand arms and legs. (b) When Kayamukan, with his three thousand
 
-[Working-draft recovery marker: the printer footer here remains unresolved. The current canonical OCR transcription is `12 பே.௮.௧ பூவெ.எண் 470`; the number 470 was visually verified on 2026-09-16, but the abbreviation letters and punctuation remain unverified and the footer translation is incomplete. Resolve before canonical assembly.]
+Printer footer: 12 — பே.௮.௧ — பூவெ.எண் [number] 470.
 
 ### Image 2: 002-8b2fe2aaff.png
 
@@ -617,7 +617,7 @@ So it has written. As though gathering together all the observations we have mad
 
 In these circumstances, it is indeed strange that some comrades stand on the side of monastery heads and argue for them. Those who oppose the bill to bring the properties now administered by monastery heads
 
-[Working-draft recovery marker: the printer footer here remains unresolved. The current canonical OCR transcription is `13 பே.௮.க பூவே. எண் 470`; this is not a verified reading or a completed translation of the footer. Resolve before canonical assembly.]
+Printer footer: 13 — பே.௮.க — பூவே. எண் [number] 470.
 
 ### Image 4: 004-periyapurana-44.png
 

@@ -1,6 +1,6 @@
 # The Treasure of the Periya Puranam — consolidated translator notes
 
-Status: working completion material, not a canonical bilingual document. The prose has been comparatively reviewed. Two printer footers remain unrecovered; their eventual verified readings and explanations must be added before canonical assembly. Detailed scan-by-scan review notes remain in the English working draft and recovery record. The term register contains 48 entries for this work.
+Status: Consolidated notes incorporated into the canonical bilingual document on 2026-09-30 after user verification of both footers. Detailed scan-by-scan review notes remain in the English working draft and recovery record. The term register contains 48 entries for this work.
 
 ## Translator's Notes
 

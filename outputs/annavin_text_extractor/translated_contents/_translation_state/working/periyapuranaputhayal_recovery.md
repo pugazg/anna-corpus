@@ -1,3 +1,5 @@
+Status: COMPLETE — user verified both footers on 2026-09-30; canonical bilingual source retention passes, state is 887/962 verified and 75 pending, all 16 tests pass. Earlier hold entries below are historical.
+
 # பெரிய புராணப் புதையல் — source reconciliation
 
 Canonical file: katturaigal/periyapuranaputhayal.md. Seven parts, 70 scans; no partial bilingual assembly or state refresh.
@@ -189,3 +191,10 @@ Contextual glossary checkpoint: added 27 further records covering historical uni
 Consolidated-note checkpoint: prepared working/periyapuranaputhayal_final_notes.md with reader-facing notes covering chronology, historical claims, glossary, wordplay and all principal provisional/uncertain interpretations. Full scan-by-scan notes remain preserved in the draft. Footer explanations must still be added after source recovery; this file is not canonical completion. Next: recover both footer readings and reconcile final notes before assembly/audit.
 
 Native-resolution footer check (2026-09-16): Part 2 Image 1 visibly prints 470, not the OCR 70; restored the omitted 4 and logged the bounded correction. Part 5 Image 3 also retains 470. Abbreviation letters/punctuation remain unresolved, so neither footer is released. Search located the publisher bibliography https://www.arignaranna.net/booksat.htm (Poombukaar collections), but it supplies no scan-level proof. Next recovery should seek the collected-essay edition rather than repeat standalone-title searches. No canonical assembly, state refresh or new test run.
+
+
+## Footer verification and canonical assembly — 2026-09-30
+
+User manually verified both scan readings: Part 2 Image 1 `12 பே.௮.௧ பூவெ.எண் 470`; Part 5 Image 3 `13 பே.௮.க பூவே. எண் 470`. Canonical Tamil already matches, so no source change was made. English retains abbreviated codes without inferred expansions and renders எண் as number. All seventy source/English scan sections assembled with consolidated notes. Retained-source SHA-256: `c59d4ae31393d4ea91a2bf2d6f06bab1386fd1bf9114eeecbcf5857acb958dbe`. Source retention audit, refreshed state and all tests must pass before final completion commit.
+
+Completion validation: exact source retention confirmed; audit zero issues; absent from OCR pending list; all 16 test_*.py tests pass.

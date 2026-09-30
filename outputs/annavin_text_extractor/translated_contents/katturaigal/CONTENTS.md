@@ -902,7 +902,7 @@ Total source works: 1387
 - [பேரறிஞர் அண்ணா அவர்கள் விடுத்த அறிக்கை](perarignar_anna_vidutha_arikkai.md) - pending
 - [பேரறிஞர் அண்ணாவின் அயரா உழைப்பு!](perarignar_annavin_ayaratha.md) - pending
 - [katturaigal/periya_idathu_thiru](periya_idathu_thiru.md) - translated
-- [katturaigal/periyapuranaputhayal](periyapuranaputhayal.md) - pending
+- [katturaigal/periyapuranaputhayal](periyapuranaputhayal.md) - translated
 - [பெரியார் - ஆச்சாரியார் சந்திப்பு!](periyar_achariyar_santhippu.md) - pending
 - [katturaigal/periyar_namakku](periyar_namakku.md) - translated
 - [katturaigal/periyarum_pirarum](periyarum_pirarum.md) - translated
