@@ -1017,3 +1017,102 @@ Working transcription from inspected scan; second comparative pass required. Ori
 ## Part 2 Images 1–2 findings — 2026-09-30
 
 Image 1 was inspected with Part 1's ending; complete draft now saved. Four separately printed goals begin ஏழை ஈடேற வேண்டும், and the closing quotation is retained without OCR's doubled quote. The phrase `கொடி மாற்றமோ, அதிகார மாற்றமோ` is parallel as visible on the scan. Exact phrase இந்தியாவைக் and all spacing still require comparative review. Image 2 (`002-9a54e90b01.png`) inspected in full and drafted. Opening இங்கு follows Image 1's அதுபோல, completing the comparison. Three paragraphs with no new heading. Scan proves தன்னலக்காரரின், ஆளுகின்ற and இலட்சிய பூமியை; false OCR periods after ஒட்டி/கட்டி/வெட்டி removed in draft. Preserve the printed unusual `அவர் காண் விரும்பிய` in one question rather than normalize every repetition. Page closes the quoted future-generation statement mid-sentence at `ஆனால்`; Image 3 must be visually checked next. Canonical text unchanged; recovery not released.
+
+
+## Part 2 Image 3 Tamil draft — 2026-09-30
+
+Working transcription from inspected scan; comparative pass required. Original wrapping retained.
+
+அவருடைய உள்ளத்திலிருந்த இலட்சியத்தை, அவர் காலத்தவர்
+உருவாக்கிக் காட்டினார்' என்று பெருமையுடன் பேசுவர்.
+விடுதலை, போர், அன்னிய ஆட்சியாளரிடமிருந்து நாட்டை
+மீட்பது என்ற அளவோடு மட்டும் உள்ளது என்ற முறையிலே
+அவர் கொள்ளவில்லை - அறிவித்தது அதுவல்ல - ஒரு
+இலட்சிய பூமியைக் காட்டி விட்டுச் சென்றிருக்கிறார். நாட்டை
+அன்னிய ஆட்சியிலிருந்து விடுவிக்கும் விடுதலைப் போர்க்
+கட்டம், அன்னியப் படை பலத்துக்கு மட்டுமே, நாம்
+பயப்படக்கூடிய நிலையை உண்டாக்கக் கூடியது.
+விண்ணிலிருந்தும், மண்ணிலிருந்தும் கடலிலிருந்தும் அன்னியர்,
+எதிர்த்து அடிப்பர். விடுதலைப் போரின் மற்றோர்
+கட்டத்தின்போது, மறைந்தவரின் மனக்கண் முன் தோன்றிய நாடு
+உருவாவதற்காக நடத்தப்படும் விடுதலைப் போரின்போது,
+அன்னியரிடமிருந்தல்ல, நம்மிடமிருந்தே, விண், மண், கடல்
+எனும் இடங்களிலிருந்து மட்டுமல்ல, நம் ஒவ்வொருவர்
+மனதிலேயே இருந்துங்கூட, சந்தேகம், பயம், சஞ்சலம்,
+நம்பிக்கைக் குறைவு, பழக்க வழக்கம் ஏற்படுத்தியதால் உண்டான
+பற்று பாசம் ஆகிய பல்வேறு எதிர்கள் கிளம்பக் கூடும் -
+இவைகளை எல்லாம் முறியடிக்க வேண்டும் உலகம் இதை நாம்
+செய்ய முடியுமா; நமக்கு அந்த ஆற்றல் இருக்கிறதா என்று
+பார்க்கக் காத்துக் கொண்டிருக்கிறது, நாம் அவருடைய
+காலத்தவர், அவருடைய கருத்துக்களை அறிந்தவர்கள்,
+என்பதற்கு நாம் உதிர்த்த கண்ணீர் மட்டும் உலகுக்கு
+அத்தாட்சியாகி விடாது. அவர் எத்தகைய இந்தியாவைக் காண
+விரும்பினாரோ, அதை உருவாக்கும் அரும்பணியை நாங்கள்
+ஏற்று நடத்துகிறோம் பாரீர் என்று கூறி, வெற்றிகரமாக
+நடத்துவதுதான், தகுதியான அத்தாட்சியாகும். அவர் காண
+விரும்பிய இந்தியாவை, மீண்டும் கவனத்திற்குக் கொண்டு
+வருவோம்.
+
+ஏழை ஈடேறி, ஏழை உரிமை பெற்று விளங்கும் நாடு.
+
+மக்களில் உயர்ந்த ஜாதி, தாழ்ந்த ஜாதி என்ற நிலை
+
+இல்லாத நாடு.
+
+எல்லோரும் தோழமையுடன் வாழும் நாடு.
+
+இந்த நாடு - காந்தி நாடு - காண்பதுதான், நமது
+தலைமுறைக்கு உள்ள வேலை. இதைச் சாதிக்க, அனைவரும்
+ஒன்றுபட, நமது தலைவர்களெல்லாம் கூடிப் பேசி, அனைவரின்
+ஆற்றலையும் ஒருமுகப்படுத்தி, இந்த அரும்பணியை வெற்றிகர
+
+
+## Part 2 Image 4 Tamil draft — 2026-09-30
+
+Working transcription from inspected scan; comparative pass required. Original wrapping retained.
+
+மாக முடிக்க வேண்டும். நாடெங்கும், நகரெங்கும் இலட்சக்
+கணக்கிலே கூடினர் - மக்கள் - அவர்கள் மறைந்த உத்தமருக்குத்
+நமது கண்ணீரை அர்ப்பணித்தனர் - அவர் காட்டிய வழிச்
+சென்று தீட்டிய சித்திரத்தைக் காண, இனிப் புதியதோர்
+ஆர்வத்துடன், அனைவரும் ஒன்றுபட்டுப் பணிபுரிய மக்களுக்கு
+நேர்வழி காட்டுவதும், ஒற்றுமைக்கான திட்டம் தீட்டுவதும்,
+தலைவர்கள் கடமை.
+
+அவர் வாழ்க்கையில் ஓர் சம்பவம்
+
+1893-வது ஆண்டில் தென்னாப்பிரிக்காவில் ஒரு
+வழக்குக்காகச் சென்றிருந்தார். தலைப்பாகையுடன் கோர்ட்டுக்குச்
+சென்றிருந்ததைக் கண்ட நீதிபதி தலைப்பாகையை அகற்றும்படி
+உரைத்தார். காந்தியடிகள் அங்ஙனம் செய்ய மறுத்துக்
+கோர்ட்டை விட்டு வெளியேறினார். செய்கையைக் கண்டித்துப்
+பத்திரிகைகளுக்கு எழுதினார்.
+
+இன்னொரு சமயம், பிரிடேரியா என்னும் இடத்துக்கு
+முதல் வகுப்பு வண்டியில் பிரயாணம் செய்தார். நிறத் திமிர்
+கொண்ட ஒரு வெள்ளையன், ஒரு போலீஸ் கான்ஸ்டபிளின்
+உதவியைக் கொண்டு முதல் வகுப்பு வண்டியினின்றும்
+இறக்கிவிட்டான். இத்தகைய கொடுமைகளை, காந்தியடி களுக்கு
+வெள்ளையரின் நிறத்திமிரை ஒழித்துக்கட்ட உறுதி
+கொள்ளும்படிச் செய்தது. கடைசியில் வெள்ளையரின்
+ஆதிக்கமே இந்நாட்டில் ஒழிந்ததற்கு உத்தமரின் ஓயா உழைப்பே
+காரணமாயிற்று.
+
+அவர் சிந்திய இரத்தம்
+
+மகாராஜாக்கள் இருந்தனர் - இன்றும் இருக்கின்றனர்.
+
+மடாதிபதிகள் இருந்தனர் - இன்றும் இருக்கின்றனர்.
+
+மாயாஜாலம், மகேந்திரஜாலம் தெரியும் என்று
+கூறிக்கொண்டவர்கள் இருந்தனர் - இன்றும் இருக்கின்றனர்.
+
+ஆரூடம் கணித்து, இனி இன்னின்னபடி ஆகும் என்று
+கூறும் ஆற்றல் எமக்குண்டு என்று கூறுபவர்கள் இருந்தனர் -
+இன்றும் இருக்கின்றனர்.
+
+## Part 2 Images 3–4 findings — 2026-09-30
+
+Both scans visually inspected in full. Image 3 begins the quotation continuation after Image 2's ஆனால் and closes it with an apostrophe after உருவாக்கிக் காட்டினார். Retain printed `காலத்தவர்` and the rhetorical repeated விடுதலைப் போர் clauses. Three separate ideal-country statements precede the closing paragraph. End `வெற்றிகர` joins Image 4's `மாக முடிக்க வேண்டும்.` without missing text.
+
+Image 4 opening restores நமது, தீட்டிய and ஆர்வத்துடன் from visible pixels. Two new headings follow: bold `அவர் வாழ்க்கையில் ஓர் சம்பவம்` and ruled `அவர் சிந்திய இரத்தம்`. The 1893 account prints பிரிடேரியா and the police-assisted removal from first class; retain source spelling and narrative. Preserve unusual printed `இத்தகைய கொடுமைகளை, ... உறுதி கொள்ளும்படிச் செய்தது` without grammatical normalization. Four separate statements about rulers, monastery heads, magic and divination close the scan. Last statement is complete, with ஆற்றல் and no intrusive OCR period after இன்னின்னபடி. Next Part 2 Images 5–6 and comparative review. No canonical promotion, release or English translation yet.

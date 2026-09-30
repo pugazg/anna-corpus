@@ -109,3 +109,7 @@ Images 22–23 inspected and complete provisional drafts saved; Part 2 Image 1 v
 ## Part 2 Images 1–2 drafts — 2026-09-30
 
 Complete provisional drafts saved for Part 2 Images 1–2; Image 2 visually inspected, incoming அதுபோல / இங்கு verified. Four-goal list and bounded OCR corrections recorded. Outgoing quoted ஆனால் needs Image 3. Next Part 2 Image 3, then Image 4; retain comparative-review requirement across both parts. No canonical changes, release, state refresh or tests. Previous pushed checkpoint `7711896`.
+
+## Part 2 Images 3–4 inspection and drafts — 2026-09-30
+
+Both scans visually inspected and complete provisional drafts saved. Verified quoted incoming statement and வெற்றிகர / மாக join. Image 4 headings, 1893 incident and four closing statements preserved; bounded நமது/தீட்டிய/ஆர்வத்துடன்/ஆற்றல் corrections recorded. Next Part 2 Images 5–6. No canonical changes, release, state refresh or tests. Previous pushed checkpoint `38471c2`.
