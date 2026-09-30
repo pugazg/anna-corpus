@@ -313,3 +313,29 @@ Working transcription, pending comparative review. Three solid-circle bullets pr
 இந்து மார்க்கத்தின் மாசு துடைத்து, அதற்குப் புதிய மாண்பு ஏற்படுத்துவதற்காகவும், அந்த மார்க்கத்தைச் சூதுக்கும் சுயநலத்துக்கும் ஆதிக்கத்துக்கும் சிலர் பயன்படுத்திக் கொள்ளும் கொடுமையை நீக்குவதற்காகவும், பாடுபட்டவர்களை, அந்த மதத்தைக் கெடுக்கிறவர்கள் என்று தவறாக எண்ணிக்கொண்டு கேவல புத்தி படைத்தவர்கள், கருத்து வேற்றுமையைச் சாக்காகக்
 
 Image 9 (`009-b0fd3c111f.png`) visually inspected in full. Its opening `கொண்டு, காட்டுமிராண்டித் தனத்தைக் கையாண்டு,` completes Image 8's unfinished sentence. No apparent missing passage at this join. Preserve the printed unusual `அவர் பலாத்கார வெறிச் செயல்களைத் தூண்டும் முறையிலேயே கூட` in its third paragraph, without rewriting from context. Bounded scan-proven difference: first paragraph ends `நிரம்பக் கொண்டவையாக இருக்கக் காணலாம்.` (OCR `கொண்டவையாக` matches); second paragraph reads `இந்து மார்க்கத்துக்கு` as retained. Remove the OCR-only opening quote before `முன்` in the Birla-mansion paragraph and join the wrapped `வெளிப்படை / யாகவே`. Final sentence is complete: `பிறகோர் நாள், பிரார்த்தனைக் கூட்டம் நடந்து கொண்டிருக்கையில் வேறோர் பித்தன், வெடிகுண்டு வீசினான்.` Exact Image 9 draft and Image 10 inspection next. These are working findings; canonical source remains unchanged pending comparative reconciliation and all-45-scan re-OCR.
+
+## Image 9 Tamil draft and Image 10 inspection — 2026-09-30
+
+Working transcription, pending comparative review; Image 9 begins the continuation from Image 8.
+
+கொண்டு, காட்டுமிராண்டித் தனத்தைக் கையாண்டு, படுகொலைகள் பல செய்துள்ளனர். மதச் சீர்த்திருத்த வாதிகளின் வரலாறுகள் இத்தகைய சோகச் சம்பவங்களையே நிரம்பக் கொண்டவையாக இருக்கக் காணலாம்.
+
+இந்து மார்க்கத்துக்கு அவர் செய்ய எண்ணிய திருத்தங்களை, மதவெறி கொண்டோரும், ஆதிக்கக்காரர்களும் விரும்பவில்லை.
+
+சிலகாலமாகவே, வடநாட்டிலே சில பத்திரிகைகளில் காந்தியார் மீதும், அவர் சகாக்கள் மீதும், அவர் பலாத்கார வெறிச் செயல்களைத் தூண்டும் முறையிலேயே கூட எழுதப்பட்டு வந்தன.
+
+அவருடைய மாலைநேரப் பிரார்த்தனைக் கூட்டங்களிலே சென்று கலகம் விளைவிக்கவும், அவர் இந்து மார்க்கத்தைக் கெடுக்கிறார் என்று கூச்சலிடவும் செய்தனர்.
+
+இரண்டோர் நாள் இந்தச் செயல்களின் காரணமாக அவருடைய பிரார்த்தனைக் கூட்டங்கள், நடைபெறாமலே கூடப் போயின.
+
+ஒவ்வொரு பிரார்த்தனைக் கூட்டத்திலும், அவர் இந்தத் தவறான போக்கை விளக்கி, அன்பும் விவேகமும் மலர வேண்டும் என்று அறிவுரை கூறியபடியே இருந்தார்.
+
+அதே முறையிலே தமது அரிஜன பத்திரிகையிலும் எழுதிக் கொண்டிருந்தார். தமது நோக்கத்தின் தூய்மையை விளக்கி வந்தார்.
+
+வெறியர்கள் திருப்தி கொள்ளவில்லை. வெளிப்படையாகவே இது தெரியலாயிற்று.
+
+சில நாட்களுக்கு முன்பு, அவர் நாட்டு மக்களின் அகத் தூய்மையைக் கோரி, உண்ணாவிரதமிருந்தார். ஆபத்தான நிலை; அந்தச் சமயத்திலே அவர் தங்கியிருந்த பிர்லா மாளிகை முன் ஒரு சிறு வெறிக்கும்பல் கூடி அவர் சாகட்டும் என்று கூவிற்று. அதுசமயம் அங்கு வந்திருந்த பண்டிதநேரு பதறிப் போனார்; அந்தக் கும்பலைக் கண்டித்துத் துரத்தினார்.
+
+பிறகோர் நாள், பிரார்த்தனைக் கூட்டம் நடந்து கொண்டிருக்கையில் வேறோர் பித்தன், வெடிகுண்டு வீசினான்.
+
+Image 10 (`010-a42d3f3ea8.png`) visually inspected in full. It starts a separate complete sentence about another arrest at Nehru's meeting; no missing sentence continuation from Image 9. OCR corrections proven by pixels: `பிடி. பட்டான்` → `பிடிபட்டான்`; `சுட்டி ருக்கிறான்` → `சுட்டிருக்கிறான்`; `பேந்தப் பேந்த` → `பேந்தப் பேந்த` retained without normalization; `கடை சியில்` → `கடைசியில்`; `அந்த சாசனத்தைகத்` → `அந்த சாசனத்தைத்`; `சுழல் துப்பாக்கிக் கொண்டு` → `சுழல் துப்பாக்கிக் கொண்டு` retained as printed. Preserve printed `காதகன்` in the murder paragraph. Heading `கண்ணீரைத் துடைத்துக் கடமையைச் செய்வோம்` separates the lead-in from the murder/appeal passages. Seven ministers and the final dash are visible. Exact Image 10 draft and visual Image 11 join remain next; no canonical changes yet.

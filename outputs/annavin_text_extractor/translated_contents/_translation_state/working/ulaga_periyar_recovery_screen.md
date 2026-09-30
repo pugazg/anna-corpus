@@ -61,3 +61,7 @@ Drafted complete Image 7 student advice and three fasting entries. Image 8 visua
 ## Image 8 draft and Image 9 inspection — 2026-09-30
 
 Drafted Image 8 fasting-list continuation and essay opening. Visually inspected Image 9; verified the incoming சாக்காகக் / கொண்டு join and complete closing bomb-throwing sentence. Retained unusual printed அவர் in the newspaper paragraph; recorded OCR-only quote before முன். Next exact Image 9 transcription and Image 10 inspection; comparative review and all-45-scan re-OCR still required. No canonical changes, hold release, state refresh or tests for this checkpoint. Overall count is now 887/962 following separate Periyapuranaputhayal completion `5cd85a6`.
+
+## Image 9 draft and Image 10 inspection — 2026-09-30
+
+Drafted Image 9 in full. Visually inspected Image 10 including its heading, murder/appeal paragraphs and Burma passage ending with a dash. Recorded scan-proven joined words and சாசனத்தைத் correction; retained printed காதகன். Next Image 10 draft and Image 11 continuity. Fresh all-45-scan tam+eng PSM 3 OCR completed successfully; all 45 outputs and image SHA-256 manifest are saved in working/ulaga_periyar_reocr/. These outputs remain unverified aids, not canonical source. No canonical changes, release or state refresh.

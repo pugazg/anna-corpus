@@ -1,0 +1,233 @@
+{
+  "status": "UNVERIFIED OCR aid; visual comparison required",
+  "engine": "tesseract",
+  "languages": "tam+eng",
+  "psm": 3,
+  "images": [
+    {
+      "image": "outputs/annavin_text_extractor/ocr_images/katturaigal/ulaga_periyar_1/001-40762dac6b.png",
+      "sha256": "1d704b9237fd93b5d8eed72ae6be6836bad6e2674b0d8856205bcf61ffe08754",
+      "ocr": "outputs/annavin_text_extractor/translated_contents/_translation_state/working/ulaga_periyar_reocr/ulaga_periyar_1__001-40762dac6b.txt"
+    },
+    {
+      "image": "outputs/annavin_text_extractor/ocr_images/katturaigal/ulaga_periyar_1/002-3f5023f162.png",
+      "sha256": "62dc72f32129e3916d1d12be6790e28bf7c69e965df13a00737cb67026b615c9",
+      "ocr": "outputs/annavin_text_extractor/translated_contents/_translation_state/working/ulaga_periyar_reocr/ulaga_periyar_1__002-3f5023f162.txt"
+    },
+    {
+      "image": "outputs/annavin_text_extractor/ocr_images/katturaigal/ulaga_periyar_1/003-1aea5894b6.png",
+      "sha256": "20373f3d0220935ef9b3b7ccc8d791228ad3254c57210ef6aee8fb51afcf7ad6",
+      "ocr": "outputs/annavin_text_extractor/translated_contents/_translation_state/working/ulaga_periyar_reocr/ulaga_periyar_1__003-1aea5894b6.txt"
+    },
+    {
+      "image": "outputs/annavin_text_extractor/ocr_images/katturaigal/ulaga_periyar_1/004-c263cda9d9.png",
+      "sha256": "547bc3c903b10f9192beecd1993f1dc88ff96ab9529ff9f68c76e1ca9003d976",
+      "ocr": "outputs/annavin_text_extractor/translated_contents/_translation_state/working/ulaga_periyar_reocr/ulaga_periyar_1__004-c263cda9d9.txt"
+    },
+    {
+      "image": "outputs/annavin_text_extractor/ocr_images/katturaigal/ulaga_periyar_1/005-88473f42cc.png",
+      "sha256": "da6aea32b327ed395d4d9e11f0a1d3630ceeaad1899c6257badd38fe92c77cf3",
+      "ocr": "outputs/annavin_text_extractor/translated_contents/_translation_state/working/ulaga_periyar_reocr/ulaga_periyar_1__005-88473f42cc.txt"
+    },
+    {
+      "image": "outputs/annavin_text_extractor/ocr_images/katturaigal/ulaga_periyar_1/006-5d22803160.png",
+      "sha256": "4729b52939aca28501fc6392f638181ad99034cbf1232e563f31ae92e9296904",
+      "ocr": "outputs/annavin_text_extractor/translated_contents/_translation_state/working/ulaga_periyar_reocr/ulaga_periyar_1__006-5d22803160.txt"
+    },
+    {
+      "image": "outputs/annavin_text_extractor/ocr_images/katturaigal/ulaga_periyar_1/007-3a537e65c3.png",
+      "sha256": "4ae58cd305e0919cb80b789e1c762fc3051f7ac513b21443051f5b59c2ed1d3b",
+      "ocr": "outputs/annavin_text_extractor/translated_contents/_translation_state/working/ulaga_periyar_reocr/ulaga_periyar_1__007-3a537e65c3.txt"
+    },
+    {
+      "image": "outputs/annavin_text_extractor/ocr_images/katturaigal/ulaga_periyar_1/008-246d1aa771.png",
+      "sha256": "7b6492aebbb8fd6312c48c141cc7c5f756c19cbfc41d320c4f7d180c140db415",
+      "ocr": "outputs/annavin_text_extractor/translated_contents/_translation_state/working/ulaga_periyar_reocr/ulaga_periyar_1__008-246d1aa771.txt"
+    },
+    {
+      "image": "outputs/annavin_text_extractor/ocr_images/katturaigal/ulaga_periyar_1/009-b0fd3c111f.png",
+      "sha256": "90951034964b8fd105fafb4262fd9a69401019b05d3da75c72a6cb8db364ace3",
+      "ocr": "outputs/annavin_text_extractor/translated_contents/_translation_state/working/ulaga_periyar_reocr/ulaga_periyar_1__009-b0fd3c111f.txt"
+    },
+    {
+      "image": "outputs/annavin_text_extractor/ocr_images/katturaigal/ulaga_periyar_1/010-a42d3f3ea8.png",
+      "sha256": "dcbacfc02aea744f0f5c2640134feef1cc8cd8f3990b92e100e4e763da24124f",
+      "ocr": "outputs/annavin_text_extractor/translated_contents/_translation_state/working/ulaga_periyar_reocr/ulaga_periyar_1__010-a42d3f3ea8.txt"
+    },
+    {
+      "image": "outputs/annavin_text_extractor/ocr_images/katturaigal/ulaga_periyar_1/011-bb6adace5f.png",
+      "sha256": "6274808987a28bb0854d856ba04219db74f738c79a7aadad64cd86f6346dd3a2",
+      "ocr": "outputs/annavin_text_extractor/translated_contents/_translation_state/working/ulaga_periyar_reocr/ulaga_periyar_1__011-bb6adace5f.txt"
+    },
+    {
+      "image": "outputs/annavin_text_extractor/ocr_images/katturaigal/ulaga_periyar_1/012-c7c8dafbc0.png",
+      "sha256": "06586dc9410a368cbca6fcf9c3befc2a3786e3caae1e5fb7a68d48b088670d2c",
+      "ocr": "outputs/annavin_text_extractor/translated_contents/_translation_state/working/ulaga_periyar_reocr/ulaga_periyar_1__012-c7c8dafbc0.txt"
+    },
+    {
+      "image": "outputs/annavin_text_extractor/ocr_images/katturaigal/ulaga_periyar_1/013-c236d6ad72.png",
+      "sha256": "ac0fb8c6435817a11d75a596dfd00ff811706faca69b949570746b8c158878f7",
+      "ocr": "outputs/annavin_text_extractor/translated_contents/_translation_state/working/ulaga_periyar_reocr/ulaga_periyar_1__013-c236d6ad72.txt"
+    },
+    {
+      "image": "outputs/annavin_text_extractor/ocr_images/katturaigal/ulaga_periyar_1/014-9cda21bbae.png",
+      "sha256": "b4d51142e4811b8f2fd28906a9e75e45c932d2b9c4eb5f72f7aabb645c087e09",
+      "ocr": "outputs/annavin_text_extractor/translated_contents/_translation_state/working/ulaga_periyar_reocr/ulaga_periyar_1__014-9cda21bbae.txt"
+    },
+    {
+      "image": "outputs/annavin_text_extractor/ocr_images/katturaigal/ulaga_periyar_1/015-bee8318f5e.png",
+      "sha256": "3c51bc6d4c0a83b89e84ed45c11c0fe8be767b33e86e4916618d7dcc429ed83a",
+      "ocr": "outputs/annavin_text_extractor/translated_contents/_translation_state/working/ulaga_periyar_reocr/ulaga_periyar_1__015-bee8318f5e.txt"
+    },
+    {
+      "image": "outputs/annavin_text_extractor/ocr_images/katturaigal/ulaga_periyar_1/016-4240c5df0f.png",
+      "sha256": "6ff9d3281b2f061d8e5d8e80dd67441b6cef44d884e4110429091f226da19d0f",
+      "ocr": "outputs/annavin_text_extractor/translated_contents/_translation_state/working/ulaga_periyar_reocr/ulaga_periyar_1__016-4240c5df0f.txt"
+    },
+    {
+      "image": "outputs/annavin_text_extractor/ocr_images/katturaigal/ulaga_periyar_1/017-2a9e1a3406.png",
+      "sha256": "939f3256ad1dd335d391f6df21058c4e0a604ae5640d1b61e33674a9994b46cd",
+      "ocr": "outputs/annavin_text_extractor/translated_contents/_translation_state/working/ulaga_periyar_reocr/ulaga_periyar_1__017-2a9e1a3406.txt"
+    },
+    {
+      "image": "outputs/annavin_text_extractor/ocr_images/katturaigal/ulaga_periyar_1/018-c701e89b42.png",
+      "sha256": "b307bf13934ad4a46c7c8218c82310c7c9788d160f70bf127d9be8d19bb1009c",
+      "ocr": "outputs/annavin_text_extractor/translated_contents/_translation_state/working/ulaga_periyar_reocr/ulaga_periyar_1__018-c701e89b42.txt"
+    },
+    {
+      "image": "outputs/annavin_text_extractor/ocr_images/katturaigal/ulaga_periyar_1/019-a4088ea646.png",
+      "sha256": "b645fd0f6518a30158b8d04749a5d12dc49dd32efdba6a94c34fc95da69011f0",
+      "ocr": "outputs/annavin_text_extractor/translated_contents/_translation_state/working/ulaga_periyar_reocr/ulaga_periyar_1__019-a4088ea646.txt"
+    },
+    {
+      "image": "outputs/annavin_text_extractor/ocr_images/katturaigal/ulaga_periyar_1/020-8e945c8ab1.png",
+      "sha256": "00cfd01cb2309bd6e2808db3e5ff8552d8c288f13c1025c5a1fec652e82e2c0b",
+      "ocr": "outputs/annavin_text_extractor/translated_contents/_translation_state/working/ulaga_periyar_reocr/ulaga_periyar_1__020-8e945c8ab1.txt"
+    },
+    {
+      "image": "outputs/annavin_text_extractor/ocr_images/katturaigal/ulaga_periyar_1/021-aa5468d9cf.png",
+      "sha256": "912f1ea5b4c8a186d62be8da590eaedbf6f6055ea1024a4508da0c76cc7566e2",
+      "ocr": "outputs/annavin_text_extractor/translated_contents/_translation_state/working/ulaga_periyar_reocr/ulaga_periyar_1__021-aa5468d9cf.txt"
+    },
+    {
+      "image": "outputs/annavin_text_extractor/ocr_images/katturaigal/ulaga_periyar_1/022-9c9806e716.png",
+      "sha256": "154143ca7ad3715b2d82ae0736ccb9d96ca83a8705c609c6b448c2cb6ba00e33",
+      "ocr": "outputs/annavin_text_extractor/translated_contents/_translation_state/working/ulaga_periyar_reocr/ulaga_periyar_1__022-9c9806e716.txt"
+    },
+    {
+      "image": "outputs/annavin_text_extractor/ocr_images/katturaigal/ulaga_periyar_1/023-011c5d1ebb.png",
+      "sha256": "1b7e5d532971ab6dcc7f5c982616b219306de7bdeda8fff011b90ad27a43c5a7",
+      "ocr": "outputs/annavin_text_extractor/translated_contents/_translation_state/working/ulaga_periyar_reocr/ulaga_periyar_1__023-011c5d1ebb.txt"
+    },
+    {
+      "image": "outputs/annavin_text_extractor/ocr_images/katturaigal/ulaga_periyar_2/001-08fc8ca30b.png",
+      "sha256": "32c3696acc4077acc0e7bd9b8e49e59a64c92d962f94d1b4e503a3f0b2cd4bc2",
+      "ocr": "outputs/annavin_text_extractor/translated_contents/_translation_state/working/ulaga_periyar_reocr/ulaga_periyar_2__001-08fc8ca30b.txt"
+    },
+    {
+      "image": "outputs/annavin_text_extractor/ocr_images/katturaigal/ulaga_periyar_2/002-9a54e90b01.png",
+      "sha256": "d78ac8c354288199dc04c76a3514064f93727b8cb53586e93558d244714d6eb2",
+      "ocr": "outputs/annavin_text_extractor/translated_contents/_translation_state/working/ulaga_periyar_reocr/ulaga_periyar_2__002-9a54e90b01.txt"
+    },
+    {
+      "image": "outputs/annavin_text_extractor/ocr_images/katturaigal/ulaga_periyar_2/003-e03bb391f3.png",
+      "sha256": "baa64c3a3110be99a705e8a4edc8500d475264346447af42d83d5422bf7e215a",
+      "ocr": "outputs/annavin_text_extractor/translated_contents/_translation_state/working/ulaga_periyar_reocr/ulaga_periyar_2__003-e03bb391f3.txt"
+    },
+    {
+      "image": "outputs/annavin_text_extractor/ocr_images/katturaigal/ulaga_periyar_2/004-c28a9d21ab.png",
+      "sha256": "74eba5efb86ab835364ca25df8eb5b2a9ff26f2eb577354e892fb5441b3bfae5",
+      "ocr": "outputs/annavin_text_extractor/translated_contents/_translation_state/working/ulaga_periyar_reocr/ulaga_periyar_2__004-c28a9d21ab.txt"
+    },
+    {
+      "image": "outputs/annavin_text_extractor/ocr_images/katturaigal/ulaga_periyar_2/005-02327e7bc0.png",
+      "sha256": "7ef4f6043af6ca63c45909dd1c3c16adf8301997eeafd240d4d0a1411b4bf1d5",
+      "ocr": "outputs/annavin_text_extractor/translated_contents/_translation_state/working/ulaga_periyar_reocr/ulaga_periyar_2__005-02327e7bc0.txt"
+    },
+    {
+      "image": "outputs/annavin_text_extractor/ocr_images/katturaigal/ulaga_periyar_2/006-8e139d8d64.png",
+      "sha256": "84bbb02f28fb559e78a37c3a8fa2ea0eb201dfe046d83489552136a6e3d51183",
+      "ocr": "outputs/annavin_text_extractor/translated_contents/_translation_state/working/ulaga_periyar_reocr/ulaga_periyar_2__006-8e139d8d64.txt"
+    },
+    {
+      "image": "outputs/annavin_text_extractor/ocr_images/katturaigal/ulaga_periyar_2/007-3f819d4dca.png",
+      "sha256": "50ded02befa215deb11b8132663e8a6e8aeb4bfb6b35dec55feff3cbfe968d9d",
+      "ocr": "outputs/annavin_text_extractor/translated_contents/_translation_state/working/ulaga_periyar_reocr/ulaga_periyar_2__007-3f819d4dca.txt"
+    },
+    {
+      "image": "outputs/annavin_text_extractor/ocr_images/katturaigal/ulaga_periyar_2/008-557f7a0ab5.png",
+      "sha256": "304e28e7a756d0d85f9d02e1e163c7140356e853f18475f3af3d3de7749f1233",
+      "ocr": "outputs/annavin_text_extractor/translated_contents/_translation_state/working/ulaga_periyar_reocr/ulaga_periyar_2__008-557f7a0ab5.txt"
+    },
+    {
+      "image": "outputs/annavin_text_extractor/ocr_images/katturaigal/ulaga_periyar_2/009-2cba3b2975.png",
+      "sha256": "ea974e3c31b30bec1a0774c11b6215541413a0884ad4dedd709ec53c42b1f59e",
+      "ocr": "outputs/annavin_text_extractor/translated_contents/_translation_state/working/ulaga_periyar_reocr/ulaga_periyar_2__009-2cba3b2975.txt"
+    },
+    {
+      "image": "outputs/annavin_text_extractor/ocr_images/katturaigal/ulaga_periyar_2/010-ced179efbf.png",
+      "sha256": "78414704c9c5e643a78fe24d246796c1d1e8299ea21f35acfb54580ed8604d43",
+      "ocr": "outputs/annavin_text_extractor/translated_contents/_translation_state/working/ulaga_periyar_reocr/ulaga_periyar_2__010-ced179efbf.txt"
+    },
+    {
+      "image": "outputs/annavin_text_extractor/ocr_images/katturaigal/ulaga_periyar_2/011-65d8ae1108.png",
+      "sha256": "6cf2b54424c343fa19f76d1860459b4bf55e14c09f66ec7da207ae7735ceec34",
+      "ocr": "outputs/annavin_text_extractor/translated_contents/_translation_state/working/ulaga_periyar_reocr/ulaga_periyar_2__011-65d8ae1108.txt"
+    },
+    {
+      "image": "outputs/annavin_text_extractor/ocr_images/katturaigal/ulaga_periyar_2/012-7771d7fc8f.png",
+      "sha256": "792d59b57e047879fde53104a3284b9e72aed3f94dc32881bceed6ec79711239",
+      "ocr": "outputs/annavin_text_extractor/translated_contents/_translation_state/working/ulaga_periyar_reocr/ulaga_periyar_2__012-7771d7fc8f.txt"
+    },
+    {
+      "image": "outputs/annavin_text_extractor/ocr_images/katturaigal/ulaga_periyar_2/013-700be88320.png",
+      "sha256": "c3a2f35467c5c59c714b990a58122737941724bc818ae4d7702b625fbd90a252",
+      "ocr": "outputs/annavin_text_extractor/translated_contents/_translation_state/working/ulaga_periyar_reocr/ulaga_periyar_2__013-700be88320.txt"
+    },
+    {
+      "image": "outputs/annavin_text_extractor/ocr_images/katturaigal/ulaga_periyar_2/014-be88c5b718.png",
+      "sha256": "930250d5550cf2cfbeedeb2335c19369bd417509194884916ec093be973834c9",
+      "ocr": "outputs/annavin_text_extractor/translated_contents/_translation_state/working/ulaga_periyar_reocr/ulaga_periyar_2__014-be88c5b718.txt"
+    },
+    {
+      "image": "outputs/annavin_text_extractor/ocr_images/katturaigal/ulaga_periyar_2/015-e6527c821e.png",
+      "sha256": "76ae7cd52f430c6ad09082b871dba1d0f9f73048ea261e874dce062c928a5722",
+      "ocr": "outputs/annavin_text_extractor/translated_contents/_translation_state/working/ulaga_periyar_reocr/ulaga_periyar_2__015-e6527c821e.txt"
+    },
+    {
+      "image": "outputs/annavin_text_extractor/ocr_images/katturaigal/ulaga_periyar_2/016-511e9fc60b.png",
+      "sha256": "ef8132c38f3edaf1f063c53ebf086c400caf44d5bfd64d61708d23db35d509e9",
+      "ocr": "outputs/annavin_text_extractor/translated_contents/_translation_state/working/ulaga_periyar_reocr/ulaga_periyar_2__016-511e9fc60b.txt"
+    },
+    {
+      "image": "outputs/annavin_text_extractor/ocr_images/katturaigal/ulaga_periyar_2/017-73642f3b20.png",
+      "sha256": "0eec26caf1daeee84b4e351c7266f19ce51bdb70fe0d941049180ecd0c209c9c",
+      "ocr": "outputs/annavin_text_extractor/translated_contents/_translation_state/working/ulaga_periyar_reocr/ulaga_periyar_2__017-73642f3b20.txt"
+    },
+    {
+      "image": "outputs/annavin_text_extractor/ocr_images/katturaigal/ulaga_periyar_2/018-f4bd396c19.png",
+      "sha256": "7a306e14fd5bc1b5a4c1474557dbae6f57c6a6c456a95139ac6d95588818b1dd",
+      "ocr": "outputs/annavin_text_extractor/translated_contents/_translation_state/working/ulaga_periyar_reocr/ulaga_periyar_2__018-f4bd396c19.txt"
+    },
+    {
+      "image": "outputs/annavin_text_extractor/ocr_images/katturaigal/ulaga_periyar_2/019-121d956026.png",
+      "sha256": "d272e510b32d0d3035a28c90bf6948c120adbb1aab3d3387736301fd4ff666d7",
+      "ocr": "outputs/annavin_text_extractor/translated_contents/_translation_state/working/ulaga_periyar_reocr/ulaga_periyar_2__019-121d956026.txt"
+    },
+    {
+      "image": "outputs/annavin_text_extractor/ocr_images/katturaigal/ulaga_periyar_2/020-be08104c9b.png",
+      "sha256": "216ef37aef7eeacf92b2211d82940fdb7f5bf0162797817dc236414badfeb4b8",
+      "ocr": "outputs/annavin_text_extractor/translated_contents/_translation_state/working/ulaga_periyar_reocr/ulaga_periyar_2__020-be08104c9b.txt"
+    },
+    {
+      "image": "outputs/annavin_text_extractor/ocr_images/katturaigal/ulaga_periyar_2/021-c25cf54de6.png",
+      "sha256": "68c7b648704e25f36b6ad42a6e4057d8d9346a44985d3522b246e9979ad91037",
+      "ocr": "outputs/annavin_text_extractor/translated_contents/_translation_state/working/ulaga_periyar_reocr/ulaga_periyar_2__021-c25cf54de6.txt"
+    },
+    {
+      "image": "outputs/annavin_text_extractor/ocr_images/katturaigal/ulaga_periyar_2/022-b535b87d3b.png",
+      "sha256": "488f2c596152370f31e7b167556ad349822a1198550ab7c11745faf1703c5c54",
+      "ocr": "outputs/annavin_text_extractor/translated_contents/_translation_state/working/ulaga_periyar_reocr/ulaga_periyar_2__022-b535b87d3b.txt"
+    }
+  ]
+}
