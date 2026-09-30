@@ -293,3 +293,23 @@ Working transcription from the inspected scan, pending second comparative review
 Inspected full `008-246d1aa771.png`. The fasting list continues with three solid-circle bullets dated 1943, 1947 and **1948**, not OCR's 1949. First date is `பிப். 10`, not `பிப். 1/0`. These are direct scan readings, not corrections from biography. The final fast begins January 13 and ends on the eighteenth as printed. Three floral ornaments end the list before the ruled heading `வாழ்க்கை வழிகாட்டி`; OCR's `டட்கட்கட்` is not source prose.
 
 The essay opens with the drop-cap portion joined as `மோகன்தாஸ் கரம்சந்த் காந்தியார்`. First paragraph closes `என்று நாடு கலங்கிற்று.` (OCR `கலங்கிந்று`). In the third paragraph the scan reads `ஆதிக்கத்துக்கும்`, not OCR `அதிக்கத்துக்கும்`. The scan ends mid-sentence at `கருத்து வேற்றுமையைச் சாக்காகக்`; Image 9's OCR starts `கொண்டு,`, but its pixels remain to be checked before declaring the join reconciled. Exact Image 8 transcription and Image 9 inspection are next. All working drafts still require comparative review; canonical text and recovery hold unchanged.
+
+## Image 8 Tamil draft and Image 9 transition — 2026-09-30
+
+Working transcription, pending comparative review. Three solid-circle bullets precede three floral ornaments and the ruled essay heading.
+
+- 1943, பிப். 10, ஆகாகான் அரண்மனையில் 3 வார உண்ணாவிரதமிருந்தார்.
+- 1947, செப். 1, கல்கத்தாவாசிகள் நிதானமடையும் வரை உண்ணாவிரதம் ஆரம்பித்தார். செப்டம்பர் 4-ந் தேதியன்று கல்கத்தாவில் அமைதி நிலைநாட்ட முயற்சிப்பதாகத் தலைவர்கள் கூறியதன் மீது உண்ணாவிரதம் கைவிடப்பட்டது.
+- 1948, ஜன. 13, புதுடெல்லியில் வகுப்பு ஒற்றுமை ஏற்படுத்த சாகும்வரை உண்ணாவிரதம் ஆரம்பித்தார். 18-ம் தேதியன்று தலைவர்கள் அளித்த வாக்குறுதியின் மீது உபவாசத்தைக் கைவிட்டார்.
+
+❀ ❀ ❀
+
+### வாழ்க்கை வழிகாட்டி
+
+மோகன்தாஸ் கரம்சந்த் காந்தியார் என்ற பெயருடன் தென் ஆப்பிரிக்காவிலே, முரட்டு வெள்ளையர்களுக்கு எதிராகச் சாத்வீகப் போராட்டம் நடந்த காலத்திலும், நாட்டுத் தலைவராகி, பிரிட்டிஸ் ஏகாதிபத்தியத்தை எதிர்த்து நடத்திய பல போராட்டங்களின்போதும், சிறைச்சாலையிலேயும், நாட்டு மக்களின் உள்ளத்திலே தூய்மையை உண்டாக்க வேண்டுமென்ற நோக்கத்துடன் பலமுறை உண்ணாவிரதம் இருந்த காலங்களிலும், அவர் சென்ற ரயிலைக் கவிழ்க்க முயற்சித்த போதும், வெறியன் வெடிகுண்டு வீசியபோதும், ஆபத்து அவரை நோக்கி வந்தது. அவ்வளவு ஆபத்துக்களிலிருந்தும் அவர் தப்பினார். ஒவ்வோர் சமயமும் அவர் உயிருக்குப் பேராபத்து வந்துவிடுமோ என்று நாடு கலங்கிற்று.
+
+எதிர்பாராத ஆபத்து எவரும் கனவும் கண்டிராத விதத்தில் ஏற்பட்டு அவர் உயிர் துறக்க நேரிட்டது கயவனின் கைத் துப்பாக்கியினால்.
+
+இந்து மார்க்கத்தின் மாசு துடைத்து, அதற்குப் புதிய மாண்பு ஏற்படுத்துவதற்காகவும், அந்த மார்க்கத்தைச் சூதுக்கும் சுயநலத்துக்கும் ஆதிக்கத்துக்கும் சிலர் பயன்படுத்திக் கொள்ளும் கொடுமையை நீக்குவதற்காகவும், பாடுபட்டவர்களை, அந்த மதத்தைக் கெடுக்கிறவர்கள் என்று தவறாக எண்ணிக்கொண்டு கேவல புத்தி படைத்தவர்கள், கருத்து வேற்றுமையைச் சாக்காகக்
+
+Image 9 (`009-b0fd3c111f.png`) visually inspected in full. Its opening `கொண்டு, காட்டுமிராண்டித் தனத்தைக் கையாண்டு,` completes Image 8's unfinished sentence. No apparent missing passage at this join. Preserve the printed unusual `அவர் பலாத்கார வெறிச் செயல்களைத் தூண்டும் முறையிலேயே கூட` in its third paragraph, without rewriting from context. Bounded scan-proven difference: first paragraph ends `நிரம்பக் கொண்டவையாக இருக்கக் காணலாம்.` (OCR `கொண்டவையாக` matches); second paragraph reads `இந்து மார்க்கத்துக்கு` as retained. Remove the OCR-only opening quote before `முன்` in the Birla-mansion paragraph and join the wrapped `வெளிப்படை / யாகவே`. Final sentence is complete: `பிறகோர் நாள், பிரார்த்தனைக் கூட்டம் நடந்து கொண்டிருக்கையில் வேறோர் பித்தன், வெடிகுண்டு வீசினான்.` Exact Image 9 draft and Image 10 inspection next. These are working findings; canonical source remains unchanged pending comparative reconciliation and all-45-scan re-OCR.

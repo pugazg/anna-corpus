@@ -57,3 +57,7 @@ Reopened Image 6 and drafted all seventeen rows, retaining the anomalous final p
 ## Image 7 draft and Image 8 inspection — 2026-09-28
 
 Drafted complete Image 7 student advice and three fasting entries. Image 8 visually confirms the next three entries and 1948 (OCR 1949), followed by floral ornaments and வாழ்க்கை வழிகாட்டி. Recorded bounded prose defects and the unfinished sentence at the lower boundary. Next exact Image 8 draft and visual Image 9 join; earlier comparative passes and all-scan re-OCR remain outstanding. No canonical edits, release, state refresh or tests. Previous pushed checkpoint `b89c43f`.
+
+## Image 8 draft and Image 9 inspection — 2026-09-30
+
+Drafted Image 8 fasting-list continuation and essay opening. Visually inspected Image 9; verified the incoming சாக்காகக் / கொண்டு join and complete closing bomb-throwing sentence. Retained unusual printed அவர் in the newspaper paragraph; recorded OCR-only quote before முன். Next exact Image 9 transcription and Image 10 inspection; comparative review and all-45-scan re-OCR still required. No canonical changes, hold release, state refresh or tests for this checkpoint. Overall count is now 887/962 following separate Periyapuranaputhayal completion `5cd85a6`.
