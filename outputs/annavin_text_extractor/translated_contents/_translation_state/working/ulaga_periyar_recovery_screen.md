@@ -151,3 +151,8 @@ Both scans visually inspected; provisional Tamil drafts saved with dialogue quot
 ## 2026-09-30 — Part 2 Images 19–20
 
 Both scans visually inspected with provisional drafts saved. Image 18→19 and Image 19→20 sentence joins continue without an apparent gap. Printed unusual syntax and punctuation retained. Coverage: Part 1 23/23 and Part 2 20/22 initially inspected. Next Images 21–22, then full comparative review. No canonical release, English translation, state refresh or count change.
+
+
+## 2026-09-30 — Part 2 Images 21–22; initial inspection complete
+
+Final two scans visually inspected; provisional drafts and closing ornaments saved. Coverage now 45/45 initially inspected (Part 1 23 and Part 2 22). The ending is visible, but all drafts require complete comparative review before canonical source release. Next Part 1 Images 1–3, then the remaining chronology and prose, with native checks of flagged readings. No English translation, state refresh or count change.

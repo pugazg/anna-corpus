@@ -1904,3 +1904,75 @@ Provisional scan-compared transcription; full comparative review remains require
 Image 19 begins கொன்றபோது, continuing Image 18 காந்தியாரைக் கயவன். Six paragraphs, no heading/footer. Scan establishes என்பதே and திடீர் திடீரென்று. The epithet prints ஆஷாடபூபதிகள் without the OCR space; retain this period form. Retain unusual அழிந்து படாதிருந்தால் and அரும்பணியாற்று / வாயிலே wording. Ends மூன்று தலைமுறைகள் மூன்று; Image 20 begins தனித் தனித் தலைவர்கள்.
 
 Image 20 has seven paragraphs, no heading/footer. Scan establishes கிளைகளான and ஆகியவைகளைக்; stops after போராட, வேண்டி and இடத்திற்கெல்லாம் are OCR noise. Preserve printed வேறு. / ஈடுகிடையாது and unpunctuated தூய்மையினால் / மூன்று and வேண்டும் மக்கள் rather than grammatical rewriting. Nehru’s name and the three contrasted achievements remain separate. Final paragraph ends மக்களை, continuing into Image 21. Next Images 21–22, then full comparative review.
+
+
+## Part 2 Image 21 Tamil draft — 2026-09-30
+
+Provisional scan-compared transcription; full comparative review remains required before canonical source release.
+
+நல்லவர்களாக்குமளவுக்குப் பழைய முறைகளிலே உள்ள
+தூசுதட்டி, மாசு போக்கி பயனுடைய மனித மேம்பாட்டுக்கு
+உதவக்கூடிய ஏற்பாட்டினைச் செய்ய வேண்டுமென்று
+பாடுபடலானார் - இதற்கு இவரைக் கொலை செய்தான்
+மாபாவி. எண்ணும்போதே நெஞ்சு பதறுவது மட்டுமல்ல,
+இவருடைய இன்சொல் முறைக்கே மதவெறி இவரைப்
+பலிகேட்டது என்றால் நாட்டிலே தலைகீழ் மாற்றம்; செங்கோல்
+ஜபமாலை இரண்டும் செலுத்தும் ஆதிக்கம் ஆகியவற்றை ஒழிக்க
+வேண்டுமே! இனி, நமது நாட்களில் அப்போதுதான் தன் ஆட்சி
+நல்லாட்சியாக முடியும். அந்தக் காரியம் செய்யும் போது உத்தமர்
+உயிரைக் குடித்த மத ஆதிக்க வெறி உலவுமானால், எத்தனை
+கோட்சேக்கள் கிளம்புவாரோ என்பதை எண்ணும் போதே
+நெஞ்சு திடுக்கிடுகிறது.
+
+மக்களை நல்லவர்களாக்க வேண்டுமானால், அவர்கள்
+மனதிலே உள்ள மாசு, மதவெறி, ஜாதி, ஆணவம், சுயநலம்,
+ஆதிக்க எண்ணம் ஒழிந்தாக வேண்டும் - என்று அவர்
+அன்னியருடன் போரிட்ட போதும், கிளம்பாத பயங்கரச்
+சக்தியொன்று கிளம்பியது. கோட்சே உருவில், அதுதான் மத
+ஆதிக்க வெறி! அதனால் கொலையுண்டார்.
+
+தோட்டத்தை மண்மேடாக்கியவனிடமிருந்து மீட்டு,
+அதைப் புன்னகைப் பூந்தோட்டமாக்குவதற்காக, அழகிய, மலர்ச்
+செடிகளுக்கான விதைகளைத் தூவ அங்கு சென்றபோது,
+புதருக்குள்ளிருந்து, பாம்பொன்று வந்து கடித்துக் கொல்வது
+போல், நாட்டை மீட்டு நல்லாட்சி அமைத்து மக்களை
+நல்லவர்களாக்குவதற்காகக் கருத்தைப் பரப்பும்போது, கோட்சே
+கிளம்பினான். இந்தப் பழியைத் துடைத்தாக வேண்டும்.
+பாரெங்கும் பேசுவர், நாட்டை மீட்டுத் தந்த உத்தமனை, உள்
+நாட்டு மத ஆதிக்க வெறி கொன்றது என்று.
+
+மேட்டினைப் பூந்தோட்டமாக்க விதை கொண்டு வந்த
+வேளையில் பாம்பொன்றினால் இறந்த தோட்டக்காரனைக்
+கண்டு புலம்புவதும், பாம்பை அடித்துக் கொல்வது மட்டுமல்ல,
+குடும்பத்தாரின் கடமை. இறந்து கிடப்பவரின் கரத்திலே உள்ள
+விதையை எடுத்துப் பார்த்து விம்மி விம்மி அழுதான பிறகு,
+இவைகளைத் தூவி இங்கு பூந்தோட்டம் காண விரும்பினார்.
+அவர் மறைந்தார், விதையோ இருக்கிறது. இதோ இதைத்
+தூவுவேன், இதோ இருக்கிறது. பூந்தோட்டம் காண்பேன், அந்த
+
+
+## Part 2 Image 22 Tamil draft — 2026-09-30
+
+Provisional scan-compared transcription; full comparative review remains required before canonical source release.
+
+உருவில் அவரை காண்பேன், அந்த மணத்திலே அவர் பெருமை
+தெரியக் கண்டு மகிழ்வேன், அவர் செய்து வந்த பணியை, நான்
+மேற்கொள்வேன் என்று கூறி அதை நடைமுறையில்
+ஆற்றலேயாகும். மறைந்த உத்தமர், மத ஆதிக்க வெறியால்
+கொல்லப்பட்டார். அந்தக் கொடும் பாம்பை ஒழித்தாக
+வேண்டும். அவர், அனைவரும் ஒன்று எனும் அன்பு மார்க்கக்
+கருத்தை தூவி வந்தார். அதை நாம் செய்து முடிப்போம் என்பதே
+நமது உறுதியாக இருக்க வேண்டும்.
+
+புத்தர் காலத்திலே நடந்தேறியது போல புதிய வழியைக்
+கொள்வோம் என்று உறுதி கொண்டு உழைப்பதே, நாம் அந்த
+உத்தமருக்கு எழுப்பக்கூடிய நிலையான ஞாபக சின்னம்.
+
+❧ ❧ ❧
+
+
+### Part 2 Images 21–22 inspection findings — 2026-09-30
+
+Image 21 begins நல்லவர்களாக்குமளவுக்குப், completing Image 20 மக்களை. Four paragraphs, no heading/footer. Restore ஆதிக்கம் / ஆதிக்க வெறி and விதைகளைத் தூவ; false double stops after பாடுபடலானார் and stop after இவருடைய removed. The detached ப after திடுக்கிடுகிறது is absent from the scan. Preserve printed தன் ஆட்சி, அழுதான and the odd இதோ இருக்கிறது. wording. Ends அந்த; Image 22 begins உருவில்.
+
+Image 22 is a shorter final scan with two paragraphs and three closing floral ornaments. Restore உருவில், ஆதிக்க, ஒழித்தாக and என்பதே; no stop before மேற்கொள்வேன். Preserve printed ஆற்றலேயாகும் and அவரை காண்பேன் without grammatical rewriting. Final sentence ends நிலையான ஞாபக சின்னம். The ornaments are represented as ❧ ❧ ❧, not letters. No footer or further prose visible. All 45 available scans now initially inspected, with provisional drafts; this is not source release. Next full comparative review from Part 1 Images 1–3, including chronology alignment, all page joins and flagged native glyph readings. English translation has not begun.
