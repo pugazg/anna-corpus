@@ -97,3 +97,7 @@ Saved complete working drafts for Images 16–17. Visually inspected Image 17 in
 ## Images 18–19 inspection and drafts — 2026-09-30
 
 Both images visually inspected and complete provisional Tamil drafts saved. Verified incoming கலந்திருந்த / அவர்களின் and பல / தலைவர்களின் joins. Image 18 procession figures and differing five/six o'clock references preserved; Image 19 bounded திண்ணமாகத்/அழுத/ஈடு readings recorded. One unusual Image 18 sandhi remains flagged for focused review. Next Image 20, then comparative reconciliation. No canonical changes, release, state refresh or tests. Previous pushed checkpoint `56d3089`.
+
+## Images 20–21 inspection and drafts — 2026-09-30
+
+Both scans visually inspected and complete provisional Tamil drafts saved. Image 20 essay ending, ruled heading and பரம ஏழைகளும் quotation verified; Image 21 incoming Nehru attribution and imperialism discussion checked. Outgoing முரசறையும் requires Image 22. Next Images 22–23, then Part 2 and comparative reconciliation. No canonical changes, release, state refresh or tests. Previous pushed checkpoint `8f51ba1`.

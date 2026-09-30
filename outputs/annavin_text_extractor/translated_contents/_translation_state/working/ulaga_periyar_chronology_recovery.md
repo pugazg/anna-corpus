@@ -728,3 +728,95 @@ Working transcription from inspected scan; second comparative pass required. Ori
 Both scans inspected in full. Image 18's opening `அவர்களின் உள்ளம்` follows Image 17's `கஷ்டத்திலும் சுகத்திலும் கலந்திருந்த`. The two-line bold heading is `கட்சிகளைக் கடந்த கர்மயோகி / துக்கம் நம்மைப் பிணைக்குமாக`. Procession details visibly give 11 a.m., arrival at five, five miles, 2000 × 1000 miles, and then fire at six. Preserve these printed details separately from Image 11's cremation time of five; do not historically harmonize the discrepancy. The draft's `உயிருக்குத் வைத்ததீ` is provisional: visible source appears `உயிருக்குத் வைத்ததீ` with unusual sandhi/spacing; focused review required. Final phrase `நாட்டு மக்கள் அனைவரையும் குன்றாகப் பிணைக்கிறது. பல` includes printed குன்றாகப், not a contextual replacement ஒன்றாகப்.
 
 Image 19 opens `தலைவர்களின், ஆறுதலுரைகளிலும்` to complete Image 18's பல. First paragraph proves திண்ணமாகத்; second paragraph gives அழுத கண்களுடன் and the same அவுங்கானை name verified on Image 11. Preserve printed `வைசிராய்` designation and source's quoted rhetorical characterization, without updating offices. One thousandth of his resolve is retained literally. Final sentence completes at `ஈடு செய்யக் கூடிய நிலை வராது.` No heading or ornament on Image 19. Next Image 20 inspection and comparative checks of these two drafts. Canonical source and recovery hold unchanged.
+
+
+## Image 20 Tamil draft — 2026-09-30
+
+Working transcription from visually inspected scan; comparative pass required. Original wrapping retained.
+
+இந்து மதத்தில் ஏறிப்போய், ஊறிப்போய் இருந்த கேடு
+களை எல்லாம், தமது பரிசுத்த வாழ்க்கையாலும், தூய்மையான
+உபதேசத்தாலும்; புதிய தத்வார்த்தத்தாலும், நீக்கும் காரியத்தில்
+அவர் ஈடுபட்டிருந்தார். இந்த அரும்பணியால், அன்பு மார்க்கம்
+தழைக்கும். அனைவரும் ஆண்டவனின் குமாரர்களே என்ற
+உண்மை துலங்கும் என்று மனமார நம்பினார். அந்தோ! இந்த
+அகத் தூய்மையோ, புறத் தூய்மையோ நெடுங்காலமாகக் குவிந்து
+வளர்ந்து போயுள்ள மதவெறியர்களைத் திருத்தாதே, என்று கூறி
+வந்தோம் - அவர் யாரிடமிருந்து அன்பு மார்க்கத்தை எதிர்பார்த்
+தாரோ, அங்கிருந்தே அவர் உயிரைக் குடிக்கும் ஒரு வெறி
+பிடித்த இந்து கிளம்பினான். இவன் இந்து மார்க்கத்தையும்,
+இந்து அரசையும் நிலைநாட்டும் நோக்கம் கொண்டவன் என்று
+கூறப்படுகிறது. ஹைதரபாத் சமஸ்தான சத்தியாக்கிரஹத்திலும்
+கலந்து கொண்டவனாம். பெயர் நாதுராம் விநாயக் கோட்சே.
+உலகை நோக்கி நமது உள்ளத்தை நோக்கி, “உத்தமரை வீழ்த்தி
+விட்டான் ஓர் உலுத்தன். அவருடைய உடலை நாங்கள் இழந்து
+விட்டோம் - அவருடைய உத்தமக் கொள்கைகளின் மூலம்,
+அவர் இனி என்றென்றும் வாழ்வார். இந்தத் துக்க நாளன்று
+அவர் எங்கள் ஒவ்வொருவருடனும் கலந்து விட்டார் - இனி
+அவரை எங்களை விட்டுப் பிரிக்க முடியாது. யமுனைக்
+கரையிலே அவருடைய சடலத்தைக் கொளுத்தினோம். ஆனால்,
+வீடு திரும்புமுன், எங்கள் உள்ளங்களிலே அவர் இடம் பெற்றிருப்
+பதைக் கண்டோம். அவர் இதோ இருக்கிறார். எங்கள் நற்குணத்
+துக்கும் நல்ல நடத்தைக்கும் காரணமாக விளங்கி வருகிறார்”
+என்று கூற வேண்டும் சொல்லால் மட்டுமல்ல, செயலால் -
+அனைவரும்.
+
+அவர் காண விரும்பிய நாடு
+
+“பரம ஏழைகளும் இது தங்கள் நாடு என்று எண்ண
+வேண்டும். அதன் அமைப்பில் தங்களுக்கு முக்கியத்துவமும்
+அதிகாரமும் இருக்கிறது என்று அவர்கள் நினைக்க வேண்டும்.
+மக்களில், உயர்ந்த ஜாதி தாழ்ந்த ஜாதி என்பதே இருக்கக்கூடாது.
+எல்லாச் சமூகத்தினரும் அன்யோன்யமாய் வாழ வேண்டும்.
+அத்தகைய இந்தியா உருவாகவே நான் பாடுபடுவேன்."
+
+
+## Image 21 Tamil draft — 2026-09-30
+
+Working transcription from visually inspected scan; comparative pass required. Original wrapping retained.
+
+இதுவே, உலக உத்தமர் காந்தியாரின் இலட்சியம் என்று
+அறிவிக்கிறார் பண்டித நேரு.
+
+ஒரு நாடு, அன்னியரிடம் அடிமைப்பட்டு, விடுதலைப்
+போர் தொடுத்து, பிறகு தன்னாட்சி பெறுவது, மகத்தானதோர்
+சம்பவம் - உலக வரலாற்றில், ஒவ்வொரு சமயம், படை
+பலத்தாலோ இராஜ தந்திர பலத்தாலோ, ஏதேனும் ஒரு நாடு
+பிறநாடுகளை அடிமைக் கொள்வதும், அடிமைப்பட்ட நாட்டின்
+செல்வத்தைச் சுரண்டுவதும், உலக வரலாற்றிலே, எங்கோ ஓர்
+மூலையிலே காணப்படும் சிறு விஷயமல்ல - அந்த வரலாற்றிலே
+மிக முக்கியமான பகுதியே, இந்த சம்பவத்தைக் கொண்டதுதான்.
+
+அலெக்சாண்டர், ஜுலியஸ்சீசர் போன்ற அதிமகாவீரர்கள்
+கால முதற்கொண்டு, பெர்லின் சர்வாதிகாரி ஹிட்லர் காலம்
+வரையிலே, இந்த நாடு பிடிக்கும் போக்கு, இருந்த வண்ண
+மிருக்கிறது. அவர்கள் காலத்திலே, போர்த்திறனோடு வீர
+உணர்ச்சியும் தன்னம்பிக்கையும் ஊட்டப்பட்ட மக்கள்
+உண்டாயினர். அந்தந்த நாடுகளில், அவர்களைப் பலிகொடுத்து
+அந்த மாவீரர்கள், மண்டலம் பல வென்று கடைசியில் மாநில
+முழுவதையுமே தமது ஏகபோக ஆட்சியின்கீழ் கொண்டுவர
+வேண்டுமென்ற பேராசை கொண்டு நின்றனர். அதேபோல,
+போதுமான பலமும், தக்க தலைவரும் இல்லாமல், உள்நாட்டுக்
+குழப்பமும் பேதநிலையும் கொண்டு இருந்த நாடுகள், புயலில்
+சிக்கிய நெடுமரங்களெனச் சாய்ந்தன. சரிந்த அரசுகளின் மீது,
+வெற்றி பெற்றவர்கள், சர்வாதிகாரம் செலுத்தினர். அடிமைப்
+பட்ட நாடுகளிலே, மக்களின் அழுகுரல் கிளம்பி, பிறகு,
+விம்முதாகி அது குறைந்து பிறகு ஏக்கமாகி, பிறகு அதை
+வெளியே காட்டுவதும் குற்றம் என்று கோல்கொண்டோன்
+மிரட்ட அதனையும் நீக்கிவிட்டு, உணர்ச்சியற்றுப் போன
+நிலையும், பிறந்ததுண்டு. ஆனால் இந்த இருள், நிலைப்பதில்லை
+- ஒளி கிடைக்க, தாமதம் ஏற்படினும்; இடையே சொல்
+லொனாச் சங்கடம் விளையினும் விடுதலைச் சுடரொளி,
+எப்படியும் கிளம்பித் தன் வேலையை வெற்றிகரமாகச் செய்து
+வந்திருக்கிறது. அவ்வப்போது, ராணுவ பலத்தால் அமைக்கப்
+பட்ட பல்வேறு சாம்ராஜ்யங்கள், சில பல காலத்துக்குப் பிறகு,
+சிதறி, பழையபடி தனி அரசு கொண்ட பல நாடுகளாகி விட்டன.
+விடுதலைப்போர் முரசொலி, அடியோடு எங்கும் எப்போதும்
+அழிந்துபடுவதில்லை. முரசு இருந்து, அதைக் கொட்டும் திறம்
+உடையோர் முன்வராமல் இருந்ததுண்டு. முரசறையும்
+
+## Images 20–21 visual findings — 2026-09-30
+
+Both scans inspected in full. Image 20 starts a new paragraph after Image 19's completed sentence. Preserve the unusual printed `திருத்தாதே` in the religious-reform argument; do not normalize its rhetoric. The essay closes at `அனைவரும்.` before ruled heading `அவர் காண விரும்பிய நாடு`. Opening quotation proves `பரம ஏழைகளும்`, not mixed-script OCR `(ரம`; quote continues with caste equality and mutual harmony, then closes at page bottom. Name நாதுராம் விநாயக் கோட்சே and Hyderabad reference retained as printed source assertions.
+
+Image 21 opens `இதுவே, உலக உத்தமர் காந்தியாரின் இலட்சியம் என்று அறிவிக்கிறார் பண்டித நேரு.` identifying the preceding quotation. Three paragraphs, no new heading. Bounded defects include போர்த்திறனோடு, ஆட்சியின்கீழ் and ஒளி; original foreign names retained without modernized spelling. Final word `முரசறையும்` carries into Image 22, which requires visual confirmation. No canonical promotion or translation; all drafts still need comparative reconciliation. Next Images 22–23, completing Part 1's initial visual pass.
