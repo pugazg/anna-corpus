@@ -141,3 +141,8 @@ Both scans visually inspected and provisional Tamil drafts saved. Image 13 close
 ## 2026-09-30 — Part 2 Images 15–16
 
 Both scans visually inspected; provisional Tamil drafts and findings saved. Image 14→15 sentence continues; Image 15→16 is a paragraph boundary without an apparent gap. Coverage: Part 1 23/23 and Part 2 16/22 initially inspected. Next Images 17–18, then full comparative review. No canonical release, English translation, state refresh or count change.
+
+
+## 2026-09-30 — Part 2 Images 17–18
+
+Both scans visually inspected; provisional Tamil drafts saved with dialogue quotation anomalies and printed Lincoln comparison retained. Image 17→18 sentence continues without an apparent gap. Coverage: Part 1 23/23 and Part 2 18/22 initially inspected. Next Images 19–20, then full comparative review. No canonical release, English translation, state refresh or count change.
