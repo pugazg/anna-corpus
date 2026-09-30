@@ -399,3 +399,95 @@ Image 13 (`013-c236d6ad72.png`) visually inspected in full. It begins `செய
 Saved direct, unscaled crops from the original 1600×2407 scans in `working/ulaga_periyar_evidence/`. Image 11 crop box (940,0,1320,110) visibly gives `அவுங்கானை` with ன, resolving the earlier provisional ள. Thus the working Image 11 name must become `அவுங்கானைச்`; canonical correction still awaits the logged comparative-reconciliation step. Image 12 corrected crop box (550,2000,1280,2110) visibly gives `உயிர் அவருக்குப் பிரிந்தது`; this unusual printed case ending is confirmed and must not be rewritten as அவரிடமிருந்து. First attempted crop missed the case ending and was replaced; the retained crop contains it.
 
 Image 14 (`014-9cda21bbae.png`) visually inspected in full. It starts an independent quoted description of India after Image 13's complete closing sentence. Two paragraphs, no new heading or ornament. Opening quote closes after `போக்கறியாதார் நிரம்ப உண்டு`; the next reported description visibly has closing apostrophe after `வேட்டைக் காடு` but no corresponding opening quote on its line—retain source punctuation rather than silently balance it. Preserve printed `அங்க விழிப்பும் எழுச்சியும் உண்டு` in the later quotation. The first paragraph contains the lists of struggles, youths and three bullets, then crow/eagle/dog/jackal rhetoric. It closes `ஒரு நாட்டுக்கே பெரியதோர் நெருக்கடி ஏற்பட்டுள்ள நேரம்.` Final paragraph ends mid-sentence `ஆனால்`, requiring visual Image 15 join next. Existing OCR generally covers this scan; exact draft/comparison still required. Image 13 transcription remains outstanding. No canonical promotion or source release.
+
+
+## Image 13 Tamil draft — 2026-09-30
+
+Working transcription from previously inspected scan, pending second comparative review. Original wrapping retained in this draft.
+
+செய்த காரியம், ஏசுவை சிலுவையில் அறைந்த ரோம்
+வெறியர்களும் வெட்கித் தலை குனியும் படியானதாகும். ரோம்
+ஆதிக்க வெறியர்களாவது, ஏசுவின் செல்வாக்கு பரவுவதால்
+தங்கள் ஆதிக்கம் கெடுகிறது என்று பொறாமையும், துவேஷமும்
+கொண்டதால், அக்கொடுஞ்செயல் புரிந்தனர். இந்த
+வெறியனோ, எந்த மாபெரும் தலைவரால் இவன் மதிப்புப்
+பெற்றானோ, இவனுடைய வாழ்வுக்கு ஓர் புது அந்தஸ்து
+கிடைத்ததோ, நாட்டுக்கு ஓர் புதுநிலை ஏற்பட்டதோ, அந்த
+மாபெருந் தலைவரையல்லவா, மார்பிலே சுட்டுக் கொன்றான்!
+பெற்ற தாயைக் கொல்லும் பேயன், அந்த மாலை நேரத்திலே
+மக்களுக்கு மதிமொழி கூற வந்தபொழுது, மஞ்சள் நிற வெயிலில்
+அவருடைய முதுமை தெரிந்தபொழுது, ஒரு பெரிய துணைக்
+கண்டத்தில் சர்க்காரே அவர் கூப்பிட்ட குரலுக்கு ஓடி வரக்
+காத்திருந்தும், ஒரு பாதுகாப்பையும் விரும்பாமல், தனியாக வந்த
+தூய்மையைக் கண்டபோது, சில நாட்களுக்கு முன்பு
+வெடிகுண்டு வீசினான் வேறோர் வெறியன் என்பதறிந்தும்,
+மீண்டும் எவனாவது இதுபோல் செய்தால் என்ன செய்வது
+என்பது பற்றியே எண்ணமே கொள்ளாமல் வந்த போக்கைக்
+கண்டபோது, மரணத்தின் பிடியிலே தன்னைத்தானே சிக்க
+வைத்துக் கொள்ளும் விதமாகப் பட்டினியிருந்து, அதன் மூலம்
+நாட்டு மக்களிலே சில பலருக்கு ஏறியுள்ள வெறி விஷத்தைப்
+போக்க முயற்சித்தாரே சில நாட்களுக்கு முன்பு என்ற
+சம்பவத்தையும் எண்ணிப் பாராமல், கடந்த முப்பதாண்டுகளுக்கு
+மேலாகத் தம் சொந்த வாழ்க்கை என்பதையே மறந்து நாட்டுக்குப்
+புது வாழ்வு பெற்றுத் தர வேண்டும் என்ற ஒரே நோக்கத்துடன்
+பணியாற்றி வந்தவராயிற்றே என்பதையும் எண்ணிப் பாராமல்,
+சுட்டான் மும்முறை - அவர் கீழே சாயும்வரை.
+
+முப்பதாண்டுகளாக எந்த ஏகாதிபத்தியத்தின் மீது அவர்
+தாக்குதலை நடத்தினாரோ, அந்த ஏகாதிபத்தியம் செய்யத்
+துணியாத காரியத்தை, எவனை ஏகாதிபத்தியத்திடமிருந்து
+விடுவித்தாரோ அவன் செய்திருக்கிறான். தீயிலே வீழ்ந்த நாகத்தை
+வெளியே எடுத்துப் போட்டால், பாம்பு, அவனையே தீண்டும்
+என்பார்கள். இந்தப் பாவியின் செயல் அதைவிடக் கொடுமை
+நிரம்பியது. ஆண்டு ஒன்றும் பூர்த்தியாகவில்லை. நாட்டுக்கு
+உலகிலே புது நிலை ஏற்பட்டு - இதற்குள், அவர் இயற்கையாக
+மரணமடைந்திருந்தால் கூட, துக்கம் ஏற்படத்தான் செய்யும்.
+ஆனால் இப்போதோ, அவர் சாகவில்லையே! கொல்லப்
+பட்டார் ஒரு கொடியவனால்! அவன் வாலிபனாம் - இந்துவாம்!
+
+## Image 14 Tamil draft — 2026-09-30
+
+Working transcription from previously inspected scan, pending second comparative review. Original wrapping retained in this draft.
+
+“இந்தியா என்றோர் நாடுண்டு, அங்கு ஏலம், கிராம்பு
+பெறுவதுண்டு, பொன்னும் பொருளும் மிகமிக உண்டு,
+போக்கறியாதார் நிரம்ப உண்டு” என்ற அளவில் பதினாறாம்
+நூற்றாண்டிலேயே உலகம் அறிந்திருந்தது. பிறகு படிப்படியாக
+இந்தியா பிரிட்டிஷ் பிடியிலே சிக்கி விட்டது. அப்போது
+இந்தியா என்றோர் நாடுண்டு, அது ஆங்கிலேயருக்கு நல்ல
+வேட்டைக் காடு' என்று உலகம், இழித்தும் பழித்தும் பேசிக்
+கொண்டது. திலகர் காலத்திலே விடிவெள்ளி தோன்றுவது
+போல, விடுதலைக்கு முயற்சி செய்யப்பட்டது என்ற போதிலும்,
+காந்தியார் காங்கிரசுக்குள் புகுந்த பிறகே, “இந்தியா என்றோர்
+நாடுண்டு. அங்க விழிப்பும் எழுச்சியும் உண்டு” என்று உலகம்
+அறிந்து கொள்ள முடிந்தது. காந்தியாரின் புகழொளி மூலமே,
+உலகம் இந்தியாவைக் கண்டு வந்தது. தன்னலமற்ற விளைவு
+பற்றியே கவலையற்ற போராட்ட மனோபாவத்தை நாட்டிலே
+காந்தியாரால்தான் உண்டாக்க முடிந்தது. அதற்கு முன்பு
+வரையில், விடுதலை கோரி மனுச் செய்யும் மேதாவிகளிடமே
+நாடு இருந்தது. அவருடைய உருவமோ, உடலமைப்போ,
+பேச்சோ, நடவடிக்கையோ ராணுவ மனப்பான்மையை
+ஏற்படுத்தக் கூடிய விதமாக இல்லை. ஆனால் அவரால்,
+ராணுவங்களையும் எதிர்த்து நிற்கக் கூடிய வீர உணர்ச்சியை
+இலட்சக்கணக்கானவர்களுக்கு உண்டாக்க முடிந்தது. எத்தனை
+எத்தனைப் போராட்டங்கள்! அவைகளிலே கலந்து கொண்ட
+வாலிபர்கள் எத்தனை எத்தனை இலட்சம்! எத்தகைய வீரச்
+செயல்கள், தியாகச் செயல்கள் அவர் காலத்திலே நேரிட்டன.
+இவ்வளவையும் தந்த தலைவருக்கு, அந்தத் துரோகி தந்தது
+மூன்று குண்டுகள், காக்கை, கழுகு, நாய், நரியும் அந்த
+மாபாவியின் உடலைத் தின்னக் கூசும். அவ்வளவு பெரிய
+துரோகச் செயலை அந்த வாலிபன் செய்து விட்டான். அந்த
+வெறியனின் செயலால் இருள் சூழ்ந்து கிடக்கும் நேரம் இது
+எவரும் எதிர்பாராதது நடந்து விட்டால், எவ்வளவு பேசிப்
+பேசிப் பார்த்தாலும், ஆற்றிக் கொள்ள முடியாத விதமான நிலை
+ஏற்பட்டு விட்டது. இந்தத் துக்கத்தை எளிதில் துடைத்திட
+முடியாது. ஒரு நாட்டுக்கே பெரியதோர் நெருக்கடி ஏற்பட்டுள்ள
+நேரம்.
+
+இருள் கவிந்து கொண்டு இருதயம் பிடித்துக் கொண்டு,
+கண்களிலே நீர் கொப்பளித்துக் கொண்டுள்ள இந்த நேரத்தில்,
+நாம் ஆறுதல் பெறுவது மிக மிகச் சிரமமான காரியம். ஆனால்
+
+## Image 15 scan findings — 2026-09-30
+
+Visually inspected full `015-bee8318f5e.png`. Opening `என்ன செய்வது?` completes Image 14's `ஆனால்`. Main appeal continues as one paragraph, followed by the two bold lines `மகாத்மாவின் ஆவியைக் குடித்தான் பேயன்:` and `அவரை இழந்தோம் அவனி அவரை மறவாது!`, then a quoted claim about defeating imperialism. Bounded OCR defects proven by the scan: `வெடி.ஞுண்டும்` → `வெடிகுண்டும்`; `காந்தியாரின் புகழமொளியை` → `காந்தியாரின் புகழொளியை`; `அவியைக்` → `ஆவியைக்`; `ஆயத பலமுமின்றி` → `ஆயுத பலமுமின்றி`. Preserve the source's quoted appeal and the statement about his worn-out body, without replacing its rhetorical language. Closing is `நமது வாழ்நாளிலே நாடு விடுதலை பெறக் கண்டோம்; நாம் சாகுமுன்`, requiring visual Image 16 confirmation. Exact Image 15 draft and Image 16 inspection remain next. Canonical source unchanged; drafts are not approved merely by copying corrected bounded readings.

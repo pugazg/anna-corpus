@@ -81,3 +81,7 @@ Drafted Image 12 and visually verified its unfinished sentence continues into Im
 ## Native reading checks and Image 14 inspection — 2026-09-30
 
 Focused original-pixel crops resolve Image 11 அவுங்கானைச் (earlier provisional ள wrong) and confirm Image 12 உயிர் அவருக்குப் பிரிந்தது as printed. Crops retained under working/ulaga_periyar_evidence/. Image 14 visually inspected: independent opening quotation, two paragraphs, final ஆனால் needing Image 15 join. Next exact Image 13–14 drafts and Image 15 inspection, followed by comparative reconciliation. No canonical changes, release, state refresh or tests. Previous pushed checkpoint `fc8053c`.
+
+## Images 13–14 drafts and Image 15 inspection — 2026-09-30
+
+Saved complete working Tamil drafts for Images 13–14 with bounded scan readings; comparative pass remains necessary. Image 15 visually inspected, verifying ஆனால் / என்ன செய்வது? and recording four OCR defects, both bold memorial lines and outgoing நாம் சாகுமுன். Next Image 15 draft and Image 16 join. No canonical changes, source release, state refresh or tests. Previous pushed checkpoint `921b057`.
