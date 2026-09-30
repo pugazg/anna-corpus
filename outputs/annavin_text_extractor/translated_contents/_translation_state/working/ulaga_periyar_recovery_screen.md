@@ -121,3 +121,8 @@ Both scans visually inspected and complete provisional drafts saved. Verified �
 ## Part 2 Images 7–8 inspection and drafts — 2026-09-30
 
 Both scans visually inspected and complete provisional drafts saved. Verified வெளியூரான் / கேட்க and இது போன்ற / புகழுரைகள் joins. Nine printed praise claims, 500/76 figures, miracle counterfactual and family description retained. Outgoing ஜெமீன்கள் needs Image 9. Next Part 2 Images 9–10. No canonical changes, release, state refresh or tests. Previous pushed checkpoint `4dcbab6`.
+
+
+## 2026-09-30 — Part 2 Images 9–10
+
+Both complete scans visually inspected; provisional Tamil drafts and bounded corrections saved in ulaga_periyar_chronology_recovery.md. Image 8→9 list and Image 9→10 sentence continue without an apparent gap. Printed mythological names and unusual grammar retained. Coverage: Part 1 23/23 and Part 2 10/22 initially inspected; full comparative review remains outstanding. Next Part 2 Images 11–12. No canonical source release, English translation, state refresh or completion-count change.
