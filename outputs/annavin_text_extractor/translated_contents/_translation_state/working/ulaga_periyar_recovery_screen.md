@@ -166,3 +166,8 @@ Title/date and both opening chronology drafts compared again with complete scans
 ## 2026-09-30 — comparative review, Part 1 Images 4–6
 
 All 50 remaining chronology rows compared with complete scans; year associations, dates, figures and intervening headings checked. Two native crops confirm printed association-name and final-date anomalies without normalization. Full chronology now comparatively reviewed (81 rows across Images 2–6); total comparative coverage 6/45. Next Part 1 Images 7–9. No canonical release, English translation, state refresh or count change.
+
+
+## 2026-09-30 — comparative review, Part 1 Images 7–9
+
+All three drafts compared with complete scans: headings, three student-advice bullets, six fasting entries and thirteen essay paragraphs across Images 8–9. Dates and the cross-page sentence join checked. Native evidence confirms the anomalous அவர் பலாத்கார wording; retain it. Comparative coverage 9/45; next Images 10–12. No canonical release, English translation, state refresh or count change.
