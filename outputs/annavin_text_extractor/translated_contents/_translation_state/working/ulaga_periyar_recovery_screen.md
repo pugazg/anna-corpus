@@ -93,3 +93,7 @@ Drafted Image 15 with its two memorial lines and outgoing sentence. Image 16 vis
 ## Images 16–17 drafts and continuity — 2026-09-30
 
 Saved complete working drafts for Images 16–17. Visually inspected Image 17 in full and verified குக்கிராமங்களுக் / கெல்லாம். Recorded தீ/பீடம்/ஆவி corrections and retained printed பட்டேல்/படேல் variation and quotation punctuation. Image 17 has no new heading; next Image 18 inspection and its incoming கலந்திருந்த continuation. Earlier drafts still require comparative pass. No canonical changes, release, state refresh or tests. Previous pushed checkpoint `43313b8`.
+
+## Images 18–19 inspection and drafts — 2026-09-30
+
+Both images visually inspected and complete provisional Tamil drafts saved. Verified incoming கலந்திருந்த / அவர்களின் and பல / தலைவர்களின் joins. Image 18 procession figures and differing five/six o'clock references preserved; Image 19 bounded திண்ணமாகத்/அழுத/ஈடு readings recorded. One unusual Image 18 sandhi remains flagged for focused review. Next Image 20, then comparative reconciliation. No canonical changes, release, state refresh or tests. Previous pushed checkpoint `56d3089`.
