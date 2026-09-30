@@ -113,3 +113,7 @@ Complete provisional drafts saved for Part 2 Images 1–2; Image 2 visually insp
 ## Part 2 Images 3–4 inspection and drafts — 2026-09-30
 
 Both scans visually inspected and complete provisional drafts saved. Verified quoted incoming statement and வெற்றிகர / மாக join. Image 4 headings, 1893 incident and four closing statements preserved; bounded நமது/தீட்டிய/ஆர்வத்துடன்/ஆற்றல் corrections recorded. Next Part 2 Images 5–6. No canonical changes, release, state refresh or tests. Previous pushed checkpoint `38471c2`.
+
+## Part 2 Images 5–6 inspection and drafts — 2026-09-30
+
+Both scans visually inspected and complete provisional drafts saved. Verified அஞ்சிக் / கிடந்தனரேயொழிய join; bounded glyph corrections recorded and named astrological/political references preserved. Outgoing வெளியூரான் needs Image 7. Next Part 2 Images 7–8. No canonical changes, release, state refresh or tests. Previous pushed checkpoint `d9f9837`.
