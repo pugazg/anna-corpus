@@ -77,3 +77,7 @@ Drafted Image 11; flagged the Burma leader-name consonant for native comparison 
 ## Image 12 draft and Image 13 inspection — 2026-09-30
 
 Drafted Image 12 and visually verified its unfinished sentence continues into Image 13's செய்த காரியம். Image 13 inspected in full: two paragraphs, no new heading, ending அவன் வாலிபனாம் - இந்துவாம்!. Original-detail requests for Images 11–12 were still resized by display; flagged leader-name/case-ending checks remain pending focused native crops. Next Image 13 draft, Image 14 inspection and those crop checks. No canonical changes, release, state refresh or tests. Previous pushed checkpoint `7b094f0`.
+
+## Native reading checks and Image 14 inspection — 2026-09-30
+
+Focused original-pixel crops resolve Image 11 அவுங்கானைச் (earlier provisional ள wrong) and confirm Image 12 உயிர் அவருக்குப் பிரிந்தது as printed. Crops retained under working/ulaga_periyar_evidence/. Image 14 visually inspected: independent opening quotation, two paragraphs, final ஆனால் needing Image 15 join. Next exact Image 13–14 drafts and Image 15 inspection, followed by comparative reconciliation. No canonical changes, release, state refresh or tests. Previous pushed checkpoint `fc8053c`.
